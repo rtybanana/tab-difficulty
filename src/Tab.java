@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.io.BufferedReader;
 
 class Tab {
     private String name;
@@ -10,5 +9,17 @@ class Tab {
         this.name = name;
         this.lines = lines;
         this.grade = grade;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public ArrayList<String> getLines() {
+        return lines;
+    }
+
+    public int getGrade() {
+        return grade;
     }
 }
