@@ -71,12 +71,12 @@ public class TabDatabase {
 
             ArrayList<String> lines = new ArrayList<>();
             BufferedReader tabReader;
+            //!line.startsWith("-") &&          //ignore command line parameters.
             try {
                 String line;
                 tabReader = new BufferedReader(new FileReader(file.toString()));
                 while ((line = tabReader.readLine()) != null){
-                    if (!line.startsWith("-") && !line.startsWith("{") &&
-                            !line.startsWith("%") && !line.isEmpty()) {
+                    if (!line.startsWith("{") && !line.startsWith("%") && !line.isEmpty()) {    //ignore comments and title
                         lines.add(line);
                     }
                 }
