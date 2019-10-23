@@ -1,0 +1,118 @@
+-C
+-t
+-f
+{La non vol perche non me ama/La non vol perche non me ama}
+b
+c
+1t   c
+1   a
+#2    c
+x   c
+1  a
+b
+#2  aa
+x  b
+1  de
+#2  d a
+x a
+1 b
+b
+#2   cd
+x a
+x  b
+x  d
+1 aa c
+1  a   /a
+b
+0  bc a
+0  bc a
+b
+.
+1 ab  a
+#2     a
+x  d
+#2 ab  d
+x  a
+1  bcd
+b
+1  d a
+#2   ca
+x  b
+1.  aa  a
+2    d
+b
+w   cca
+.
+b
+b
+
+b
+1    ca
+1   c
+1    df
+1  a
+b
+1  ba d
+#2  aac
+x  b
+1  dca
+1   cd
+b
+1  da  a
+#2  b
+x  a d
+0   cca
+b
+0   cdf
+1  bc
+1  bc
+b
+0  bc
+0  aa
+b
+1   cd
+1   cd
+1   cca
+1   cc
+b
+1
+1   cc
+1     a
+1   cc
+b
+1.  de  a
+2  b
+#2  aa
+x   c
+1  aa
+b
+1    c
+1  aa
+1  aa
+1    c
+b
+
+b
+1   cd
+1   c
+1    a
+#2  da
+x    d
+b
+#2   ac
+x  b
+x  ac
+x   c
+1  a
+1   b
+b
+1   c a
+1.  b
+2  a
+1   c
+b
+w  ab  /a
+b
+b
+
+e

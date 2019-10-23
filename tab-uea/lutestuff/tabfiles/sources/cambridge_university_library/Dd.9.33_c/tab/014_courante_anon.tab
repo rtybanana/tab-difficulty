@@ -1,0 +1,201 @@
+-C
+-t
+-f
+{14. Courante/Anonymous}
+b
+1 d
+1a
+b
+1.bdda
+2d
+1b
+b
+1.acd a
+2 d
+1acd
+b
+0 dd   a
+1   a
+b
+0 dd
+1f
+b
+1.f  d
+2g
+1f
+b
+1.d   d
+2f
+1d
+b
+0bbd  b
+1   d
+b
+1bbd
+#2 a
+x c
+#2 d
+xa
+b
+1bdda
+#2a
+xb
+1 d
+b
+
+b
+#2a   a
+x d
+#2 c
+x d
+#2a
+x c
+b
+1 dda  a
+#2 a
+x c
+#2 d
+xa
+b
+#2 d
+x c
+#2 d
+xa
+#2b
+xd
+b
+#2f  d
+xd
+#2f
+xg
+1f
+b
+#2d   d
+x g
+#2d
+xf
+1d
+b
+0bbd  b
+1   d
+b
+0bbd
+1f
+b
+1.a   a
+2b
+1d
+b
+1. dda
+2a
+1b
+b
+0abd a
+1   c
+b
+
+b
+0abd
+1a
+b
+1.a   a
+2 d
+1 b
+b
+1. a   a
+2  d
+1  cc
+b
+1  dd
+1   c
+1   a
+b
+1a   e
+1  d
+1 d a
+b
+0 cdca
+1 d   b
+b
+1     d
+0 cdca
+b
+0 dda  a
+1   a
+b
+0 dda
+1f
+b
+#2a   d
+x d
+#2a
+xb
+#2d
+xa
+b
+#2 d a
+x b
+#2 d
+xa
+#2b
+x d
+b
+
+b
+1a   a
+#2d
+xb
+#2a
+x d
+b
+#2 b  a
+x a
+#2 b
+x d
+#2a
+x b
+b
+#2b  a
+xa
+#2 d
+x b
+#2 a
+x  d
+b
+#2  cc
+x  a
+#2  c
+x  d
+#2 a
+x  c
+b
+#2  dd
+x  b
+#2  d
+x a
+#2 b
+x  d
+b
+#2 d a
+x b
+#2 d
+xa
+#2b
+x d
+b
+0 cdca
+1 d   b
+b
+1 d   d
+0 cdca
+b
+
+b
+0 dda  a
+1   a
+b
+0. dda
+b
+b
+
+e

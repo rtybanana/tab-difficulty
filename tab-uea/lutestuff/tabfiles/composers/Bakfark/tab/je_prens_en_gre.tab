@@ -1,0 +1,595 @@
+-C
+-t
+-f
+{Je prens en gré/Je prens en gré}
+b
+c
+0 daa
+1 dfec
+1acbc
+b
+#2cdda
+xa
+xc
+xd
+#2cdda
+xd
+1ffg a
+b
+2.dfg d
+3 d
+#3 f
+x d
+x f
+x g
+b
+#2dfg d
+x  f
+xcdda
+x  b
+2.acd a
+3 d
+#3a
+x d
+x c
+x a
+b
+1acd a
+#2f
+x d
+#2ddf
+xf
+xc
+xa
+b
+
+b
+2ccd
+#3a
+xc
+#2a
+x df
+#2acd
+x d
+1acd
+b
+#2  ff
+x d
+x d
+x  de
+#2  de
+x c
+x cbc
+x aaa
+b
+#2fc ce
+x a
+1f def
+2da ac
+#3c
+xd
+#2c
+x  d
+b
+2   ac
+#3a
+xc
+#2a c
+x d
+b
+c
+#2 cdca
+x d
+xa
+x    c
+#2  d e
+x d
+1 ddef
+b
+#2   ac
+x da
+x cca
+2 a
+b
+
+b
+#2 cdca
+x d
+1aab  d
+#2  dea
+x d
+x dbcc
+x   a
+b
+2. ddca
+3 c
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+2 dda
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+#3   a
+x   c
+x  a
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+#3 daa
+x c
+x a
+x  d
+#3 a
+x c
+x d
+xa
+b
+2. da c
+#4 c
+x d
+2.acbc
+#4 d
+xa
+b
+
+b
+#3cdda
+xa
+x d
+x c
+#3 d
+xa
+xc
+xd
+b
+#2cdda
+xd
+1ffg a
+b
+#2dfg d
+x d
+#2 f
+x g
+b
+#2dfg d
+x a
+#2cdda
+x  b
+b
+2.acd a
+3 d
+#3a
+x d
+x c
+x a
+b
+1acd a
+#2f
+x d
+b
+#2ddf
+xf
+#2c
+xa
+b
+2.ccd
+#4a
+xc
+#2a
+x df
+b
+#2acd
+x d
+1acd
+b
+
+b
+#2  ff
+x d
+#2 d
+x  de
+b
+#2  de
+x c
+#2 cbc
+x aaa
+b
+#2fc ce
+x a
+1  def
+b
+2da ac
+#3c
+xd
+#2c
+x  d
+b
+2   ac
+#3a
+xc
+#2a c
+x d
+b
+#2 cdca
+x d
+#2acd
+x    c
+b
+#2  d e
+x c
+#2caaa
+x  d
+b
+#2aab  d
+x  a
+#2 dbcc
+x   a
+b
+
+b
+2. ddca
+3 c
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+2 dda
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+c
+1   a
+1 dda
+1 dda
+#2  da
+x c
+b
+#2 dff
+x  d
+x dff
+x  de
+#3dabc
+x  a
+x  b
+x  d
+#2 abc
+xc  a
+b
+1abb d
+1 d  c
+b
+2.abd a
+3 d
+#3a
+x d
+x b
+x a
+b
+1abd d
+#2aacc
+x  a
+b
+
+b
+#2accc
+x  d
+xaa c
+x  c
+b
+#2acd
+x d
+xacd
+x ab
+b
+#2fcde
+x a
+x cde
+xd  c
+b
+1cdda
+1acd a
+b
+1 dfec
+2     d
+#3 cd
+x  b
+b
+1 aaa
+1cdd
+b
+1cdfa
+#2dabc
+x c
+b
+#2cdde
+xa
+x dfkl
+xa
+b
+#2c de
+x d
+1dffc
+b
+#2cc e
+x  d
+1cdda
+b
+
+b
+2aadc
+#3  c
+x  d
+#2  c
+x  a
+b
+2.aadc
+3  c
+#3  d
+x  c
+x  a
+x  c
+b
+2.acd a
+3 d
+#3a
+x d
+x c
+x a
+b
+1acd a
+1f
+b
+#2fd
+xf
+xfd
+x d
+b
+c
+#2fd
+xd
+xcd
+xac
+#2 df
+x  d
+1a b d
+b
+#2abb d
+x    d
+x dff d
+x  d
+b
+#2 dff
+xa
+x dff
+x   f
+b
+
+b
+#2 dff
+x   f
+xddff
+x   f
+b
+#2 dff
+x   e
+xdffc
+x   a
+b
+#2dfg d
+xdfg
+xddf  d
+x  d
+b
+#2 ab  d
+xc d
+xaab  d
+x da
+b
+#2 cdca
+x d
+xacd
+xc
+b
+#2acd a
+x d
+xacd
+x a
+b
+#2acd a
+x  d
+xaadc
+x  c
+b
+#2acd a
+x d
+xacd
+x a
+b
+#2fcd
+x ab
+xfcde
+xd  c
+b
+
+b
+1cdda
+#2acd a
+x  b
+b
+#2  fec
+x d
+x dff d
+x   e
+b
+2. ddca
+3 c
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+1 dda
+1f
+b
+#2fd a
+xf
+xfd
+x d
+b
+#2fd a
+xd
+xcd
+xac
+b
+#2 df
+x  d
+1a b d
+b
+#2abb d
+x    d
+x dff d
+x  d
+b
+#2 dff
+xa
+x dff
+x   f
+b
+
+b
+#2 dff
+x   f
+xddff
+x   f
+b
+#2 dff
+x   e
+xdffc
+x   a
+b
+#2dfg d
+xdfg
+xddf  d
+x  d
+b
+#2 ab  d
+xc d
+xaab  d
+x da
+b
+#2 cdca
+x d
+xacd
+xc
+b
+#2acd a
+x d
+xacd
+x a
+b
+#2acd a
+x  d
+xaadc
+x  c
+b
+#2acd a
+x d
+xacd
+x a
+b
+#2fcd
+x a f
+x cde
+xd  c
+b
+
+b
+1cdda
+2acd a
+x  b
+b
+#2  fec
+x d
+x dff d
+x   e
+b
+2 ddca
+3 c
+3 a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+1 dda
+2  d
+#3 c
+x a
+b
+#2acd
+x d
+xacd a
+x a
+b
+#2acd a
+x  d
+xaadc
+x  c
+b
+#2acd a
+x d
+xacd
+x a
+b
+#2fcd
+x a f
+x cde
+xd  c
+b
+
+b
+1cdda
+1acd a
+b
+#2  fec
+x d
+x dff d
+x   e
+b
+2. ddca
+3 c
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+Y daa
+b
+b
+
+e

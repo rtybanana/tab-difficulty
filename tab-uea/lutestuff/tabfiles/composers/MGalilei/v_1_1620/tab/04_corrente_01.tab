@@ -1,0 +1,433 @@
+-C
+-t
+-f
+{4. Corrente 1/4. Corrente 1}
+b
+1 a
+b
+1. af
+2  e
+1  f
+b
+1 c
+1  e
+1c
+b
+1 df
+1  d
+1e c
+b
+1.f a
+2   c
+#2   a
+x    e
+b
+1  aa
+1h
+1f
+b
+1e   e
+1 h
+1 g g
+b
+1.ccee
+2 d
+#2 c
+x a
+b
+1  de
+1 d
+1 c
+b
+1. aff
+2h  f
+1f a
+b
+
+b
+1da c
+1 c
+1c a
+b
+1  b
+1.a d
+#3 d
+xa
+b
+1c
+#2   a
+xf
+#2a d
+xc
+b
+1da c
+1   a
+1    e
+b
+1cd  c
+1    a
+1     d
+b
+1.cd   c
+2 c
+1a
+b
+1 df  c
+1 ce
+1 ac
+b
+#2  e  c
+xc
+#2 c
+x d
+#2a
+xc
+b
+1 df
+1. c   c
+#3 a
+x  e
+b
+
+b
+1 a
+1    c
+1      //a
+b
+0 aabc
+1 a
+b
+b
+1. af
+2  c
+#2  e
+x  f
+b
+1 c
+#2  e
+xc
+#2a
+x c
+b
+#2  f
+x d
+#2 c
+x  d
+#2  c
+xe
+b
+#2  a
+xf
+#2 c
+x   c
+#2   a
+x    e
+b
+#2  aa
+xh
+#2e
+xf
+#2h
+xf
+b
+#2    e
+xe
+#2 g
+x h
+#2 g
+x  f
+b
+
+b
+#2   e
+xc
+#2 c
+x d
+#2 c
+x a
+b
+#2   e
+x  c
+#2  e
+x c
+#2 d
+x c
+b
+#2   f
+x  f
+#2h
+x   f
+#2  a
+xf
+b
+#2   c
+xd
+#2 a
+x c
+#2  a
+xc
+b
+#2 d
+x  b
+1.a d
+#3 d
+xa
+b
+1c
+#2   a
+xf
+#2a d
+xc
+b
+#2   c
+xd
+#2 a
+x   c
+#2   a
+x    e
+b
+
+b
+#2    c
+xc
+#2 d
+x    c
+#2    a
+x     d
+b
+#2     c
+xc
+#2 c
+xa
+#2 d
+x  f
+b
+#2     c
+x d
+#2 c
+x  e
+#2 a
+x  c
+b
+#2  e  c
+xc
+#2 c
+x d
+#2a
+x c
+b
+#2 d
+x  f
+1. c   c
+#3 a
+x  e
+b
+1 a
+1    c
+1      //a
+b
+0 aabc
+1h
+b
+b
+1cd
+1ec
+1 a
+b
+1fca
+1eac
+1c
+b
+
+b
+1acd
+1cdb
+1  a
+b
+1da c
+1 a
+1 c
+b
+1. da
+2c
+1a b
+b
+1 d
+1. c ca
+#3 a
+x c
+b
+1 da   a
+#2  d
+x a
+#2  b
+x  d
+b
+1  aa
+1    e
+1  cac
+b
+1. cd a
+2     d
+1 ed  c
+b
+1df   a
+1   a
+1    e
+b
+1cd  c
+1e
+1g a
+b
+1hh f
+1 f
+1  h
+b
+
+b
+1cdfe
+1 c
+1a
+b
+1 df  c
+1 c
+1   c
+b
+1  aa c
+1 c
+1 a ced
+b
+1    c
+1.  e ec
+#3  c
+x  e
+b
+1  f
+1    c
+1      //a
+b
+0cef
+1h
+b
+b
+#2 d
+xc
+#2 c
+x d
+#2ec
+x a
+b
+#2  a
+xf
+#2 c
+xf
+#2eac
+xc
+b
+#2  d
+xa
+#2 c
+x  d
+#2c b
+x  a
+b
+
+b
+#2   c
+xd
+#2 a
+x  d
+#2 a
+x c
+b
+#2  a
+x c
+#2 d
+xc
+#2  b
+xa
+b
+#2 d
+xa
+1. c ca
+#3 a
+x c
+b
+#2 d
+x   a
+#2  d
+x a
+#2  b
+x  d
+b
+#2  a
+x   a
+#2   c
+x    e
+#2   ac
+x  c
+b
+#2    a
+x c
+#2  d
+x     d
+#2 e   c
+x  d
+b
+#2     a
+xd
+#2 a
+x   c
+#2   a
+x    e
+b
+
+b
+#2    c
+xc
+#2 d
+xc
+#2e a
+xf
+b
+#2   f
+xh
+#2 f
+x h
+#2 f
+x  h
+b
+#2   e
+x d
+#2  f
+xc
+#2 c
+xa
+b
+#2     c
+x d
+#2  e
+x  f
+#2 c
+x   c
+b
+#2     c
+x   a
+#2 a
+x c
+1 a ced
+b
+1    c
+1.  e ec
+#3  c
+x  e
+b
+1  f
+1    c
+1      //a
+b
+Y.cefec
+b
+b
+
+e

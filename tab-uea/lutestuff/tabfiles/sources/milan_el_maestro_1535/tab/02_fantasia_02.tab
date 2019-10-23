@@ -1,0 +1,385 @@
+-t
+-f
+{Fantasia 2/Fantasia 2}
+b
+c
+w  d
+b
+0a
+0   c
+b
+0  d
+0 ab
+b
+0 bd
+#1 db
+x  a
+b
+#1a  c
+x d
+x b
+x a
+b
+#1  dd
+x a
+x b
+x  d
+b
+#1 ab
+x c
+0 d a
+b
+#1   c
+x b
+0  dd
+b
+0 a c
+0  c
+b
+w  d a
+b
+0a
+0   c
+b
+
+b
+0  d
+0 ab
+b
+0 bd
+#1 db
+x  a
+b
+#1a  c
+x d
+x b
+x a
+b
+#1  dd
+x a
+x b
+x  d
+b
+#1 ab
+x c
+0 d a
+b
+0   c
+0 c
+b
+w d a
+b
+0f
+0  d
+b
+0 d
+0ab
+b
+0bd
+#1db
+x a
+b
+#1f d
+xd
+xb
+xa
+b
+
+b
+#1 df
+xa
+xb
+x d
+b
+#1ab
+xc
+0d b
+b
+#1  d
+xb
+0 df
+b
+0a d
+0 c
+b
+w dff
+b
+0  b
+#1 d d
+x   c
+b
+#1   a
+xa
+xb
+x d
+b
+#1a b d
+xb
+0d
+b
+0  b  d
+#1c   a
+xa
+b
+0 d  c
+0  b
+b
+#1 cd a
+x d
+0a
+b
+
+b
+0   c
+#1 da
+x b
+b
+0 ac
+0   c
+b
+0  d
+0a   a
+b
+#1b  a
+xd
+xf
+x a
+b
+#1 b
+xd
+xa   d
+xb
+b
+#1d  c
+xa
+0f dd
+b
+0 a c
+#1d
+xb
+b
+0a   a
+0  d
+b
+#1b  a
+xd
+xf
+x a
+b
+#1 b
+xd
+xa   d
+xb
+b
+
+b
+#1d  c
+xa
+0f dd
+b
+0 a c
+0e
+b
+0.f d a
+1 a
+b
+#1 b
+x  d
+0a
+b
+0   c
+#1 a
+x  a
+b
+#1  c
+x   c
+0  d
+b
+0a   a
+#1  d
+x    c
+b
+#1    d
+x    a
+0aa c
+b
+0 bdd
+0 dda
+b
+0 a c
+0  c
+b
+0.  d a
+1 a
+b
+#1 b
+x  d
+0a
+b
+
+b
+0   c
+#1 a
+x  a
+b
+#1  b
+x   c
+0 b
+b
+#1a   d
+x d
+x b
+x a a
+b
+#1 b c
+x    d
+0  b
+b
+#1 d   d
+x    a
+x    c
+x     d
+b
+#1 bb d
+x d
+xa
+x b
+b
+#1 daa
+x  b
+x  d
+x  a
+b
+#1a b d
+xc
+0d
+b
+0  bc
+#1b
+xa
+b
+0b da
+0 a
+b
+
+b
+wabb d
+b
+w
+b
+0ab  d
+0  b
+b
+0 d  c
+0a   d
+b
+0 b  a
+0  d
+b
+0b  a
+0  d
+b
+0a   d
+#1b  a
+xa
+b
+0 d f
+0  f
+b
+0d  c
+0  b
+b
+0b da
+0d bc
+b
+#1ab  d
+xb
+xd
+xa
+b
+0b da
+0a bc
+b
+0  dd
+0 d
+b
+
+b
+0aa c
+0  b
+b
+0d
+0   a
+b
+0  b d
+0b
+b
+0a b
+0 d d
+b
+0 b c
+0  b
+b
+0d
+0   a
+b
+#1  b d
+xb
+xa
+x d
+b
+#1 b
+x a
+x  d
+x  b
+b
+0 bdd
+0b
+b
+0a b d
+0 db c
+b
+#1    d
+x b c
+0 b da
+b
+0  ba d
+0 a
+b
+
+b
+0. bb d
+1 d
+b
+#1a
+xc
+0d
+b
+0  ba d
+#1b   a
+xa
+b
+0 db c
+#1     d
+xa
+b
+0b da
+0 a
+b
+0ab  a
+0 db c
+b
+#1     d
+x b
+0  d a
+b
+0aa c
+0  c
+b
+w  d a
+b
+Y
+b
+b
+
+e

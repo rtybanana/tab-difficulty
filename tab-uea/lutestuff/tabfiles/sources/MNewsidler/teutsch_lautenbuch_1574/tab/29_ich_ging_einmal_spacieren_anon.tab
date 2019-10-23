@@ -1,0 +1,392 @@
+-C
+-t
+-f
+{29. Ich ging einmal spacieren/Melchior Newsidler}
+b
+c
+1 abc a
+b
+.
+1.aa c a
+2c
+1da c a
+1a
+b
+1.caa c
+2a
+1 daac
+1  c
+b
+1ac ca
+1     d
+1c dc c
+1   b
+b
+1. acc a
+2  d
+1 acc
+1     a
+b
+#2aa c a
+x d
+xa
+xc
+#2da c a
+xa
+xc
+xd
+b
+#2caa c
+xa
+x d
+x c
+#2 daac
+x a
+x c
+x d
+b
+
+b
+#2 cdca
+x d
+1aa c d
+1c d  c
+1   b
+b
+1. acc a
+2  d
+1 acc a
+1h
+b
+1.ha f a
+2f
+1dabc
+1caab
+b
+1dabc
+#2     a
+xc
+#2a
+x d
+xa
+xc
+b
+1.dabc
+2f
+1ha f
+1    h
+b
+1.fcde
+2d
+#2caa c
+x d
+xa
+xc
+b
+1dabc
+#2     a
+xc
+#2acd a
+xd
+xc
+xa
+b
+
+b
+1.cdda
+2a
+1 dff d
+1   e
+b
+1 cdca
+1aab  a
+1aab c
+1 ea
+b
+1aac  a
+#2   c
+x  d
+1aac
+1     a
+b
+1.ha f a
+2f
+1dabc
+1caab
+b
+1dabc
+#2     a
+xc
+#2a
+x d
+xa
+xc
+b
+#2dabc
+xc
+xa
+xc
+#2d
+xf
+1ha f
+b
+1.fcde
+2d
+1caa c
+#2a
+xc
+b
+
+b
+#2dabc
+xc
+xa
+x d
+#2acd a
+xd
+xc
+xa
+b
+#2cdda
+xa
+x d
+x c
+#2 aba d
+x d
+x c
+x a
+b
+#2 cdca
+x e
+1aab  a
+1aab c
+1 ea
+b
+A1
+1aac  a
+#2   c
+x  d
+1aac
+1 abc a
+.
+b
+b
+A2
+1aac  a
+#2   c
+x  d
+1aac
+Y     a
+b
+b
+0aa c a
+1ca ac
+b
+1.da c a
+2c
+1aa c a
+b
+1.caa c
+2a
+1caa c
+b
+1. daac
+2 c
+1 daac
+b
+
+b
+1. cdca
+2 d
+1aa c d
+b
+1c d  c
+#2   b
+x    e
+1c db c
+b
+1. acc a
+2  d
+#2  c
+x  a
+b
+1 acc a
+#2   c
+x  d
+1 acc a
+b
+0aa c a
+1ca ac
+b
+1.da c a
+2c
+1aa c a
+b
+1.ca ac
+2a
+1ca ac
+b
+1. daac
+2 c
+1 daac
+b
+1.ac ca
+2 d
+1aa c d
+b
+1c d  c
+#2   b
+x    e
+1c db c
+b
+
+b
+1. acc a
+2  d
+#2  c
+x  a
+b
+0 acc a
+1ha f a
+b
+0ha fh
+1fcde
+b
+0dabc
+1caab
+b
+1.dabc
+2  d
+1da c a
+b
+1aa c a
+#2 d
+xa
+1c d
+b
+0dabc
+1f de
+b
+1.ha fh
+2   e
+1ha f
+b
+1.fcde
+2d
+1fcde
+b
+1.caa c
+2a
+1caa c
+b
+1.dabc
+2  d
+1dabc
+b
+1.acd a
+2 d
+1acd a
+b
+
+b
+1.cdda
+2a
+1cdda
+b
+1. aba d
+2  d
+1 aba d
+b
+1. cdca
+2 e
+1aab  a
+b
+1aaa c
+#2 e
+x c
+1 ea c
+b
+1.aac  a
+2  d
+#2  c
+x  a
+b
+0aac  a
+1ha f a
+b
+0ha fh
+1f de
+b
+1dabc
+#2   b
+x    e
+1caab
+b
+1.dabc
+2c
+1da c a
+b
+1aa c a
+#2 d
+xa
+1c d
+b
+
+b
+1da c a
+#2c
+xd
+1f a
+b
+1.ha fh
+2   e
+1ha f
+b
+1.fcde
+2   c
+1fcde
+b
+1.caa c
+2a
+1caa c
+b
+1.dabc
+2  d
+1dab  a
+b
+1.acd a
+2 d
+1acd a
+b
+1.cdda
+2a
+1cdda
+b
+1. aba d
+2    a
+1 dbac
+b
+1. cdca
+2 e
+1aab  a
+b
+1aab c
+#2 ea
+x c c
+1 ea c
+b
+1.aac  a
+2  d
+#2  c
+x  a
+b
+
+b
+1aac  a
+#2   c
+x  d
+1aac  a
+b
+b
+
+e

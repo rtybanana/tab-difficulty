@@ -1,0 +1,490 @@
+-C
+-t
+-f
+{71. Fantasy/Anthony Holborne}
+b
+c
+0 b
+1 b
+1 d
+b
+1a
+1b
+1d
+2  a
+#3b
+xa
+b
+2 d
+#3a
+xb
+2d a
+#3b
+xd
+1b c
+1ba
+b
+1ab
+2d
+#3 a
+x  c
+2  a
+#3  c
+x a
+2ab
+#3 a
+x b
+b
+2 de
+#3a
+xb
+1d a
+2  c
+#3b
+xa
+1bdca
+b
+
+b
+1ab c
+1 dcd
+1aaa
+2 d
+#3   d
+x   c
+b
+#2bd a
+x   c
+x  cd
+x a
+#2 bac
+x d
+xaba d
+xb
+b
+1dba  a
+1 aa
+1bbc a
+1 daac
+b
+2aba d
+#3 a
+x  c
+2  a
+#3    c
+x    a
+#2 aaa a
+x b
+x d
+x    a
+b
+#2    c
+x b  d
+2 a a
+#3  c
+x a
+#2 b  a
+x d  c
+xa   d
+xb  a
+b
+
+b
+2d  c
+#3b  d
+xa
+#2 da
+xa
+#2b  a
+xd  c
+xf  d
+x  a
+b
+#2  c
+xd
+xab
+xc
+1dba  a
+#2 aa
+xd
+b
+1bbc a
+1 daac
+#2aba d
+x d
+xa
+xb
+b
+2dba  a
+#3 a
+x b
+#2 aa
+xb
+1aba d
+1  a
+b
+1  c
+1  c d
+1 a a
+#2   a
+x a
+b
+1  ac
+2  a
+#3  c
+x a
+1 b
+#2    d
+x a
+b
+
+b
+#2  cd
+x  a
+x  c
+x a
+#2 b
+x   d
+2 bac
+#3 a
+x b
+b
+#2 d
+x   d
+x  c
+x d
+1a a
+#2  a
+x d
+b
+#2 bc
+x a
+2 b
+#3 d
+xa
+#2b
+x   a
+x  c
+xa
+b
+#2 da
+x b
+x d
+x   d
+#2   c
+x b
+2 bcd
+#3 d
+xa
+b
+1bb a
+1ba a
+1aba d
+1d
+b
+1d
+1dda c
+1f ffa
+1f  e
+b
+
+b
+1hih  a
+#2  a
+xf
+1dff
+2dde
+#3f
+xh
+b
+1if h
+#2  f
+xh
+#2fgh
+x i
+xfg
+x  f
+b
+#2 de
+xd
+1d f
+#3  c
+xd
+xc
+xa
+#2c
+x b
+b
+1dba  a
+1 aa
+#2    d
+xb
+xa a
+x d
+b
+#2 bcd
+x a
+x bc
+x   c
+#2bdca
+xd
+xb c
+xa
+b
+
+b
+#2 da  a
+x b
+x da
+x   d
+#2abac
+xb
+xdb  d
+x   a
+b
+#2 b c
+x   d
+xdaa
+x b
+#2 d
+xa
+xb
+xd  c
+b
+#2f  d
+x  a
+xabc
+xc
+2dba  a
+#3 a
+x b
+#2 aa
+xb
+b
+1aba d
+1  a
+1.  c d
+#3  a
+x  c
+b
+#2 a
+x   a
+1   a
+#2   c
+x  a
+2  a
+#3  c
+x a
+b
+
+b
+#2 b
+x    d
+x  a
+x a
+#2  cd
+x  a
+x  c
+x a
+b
+#2 b
+x   d
+2 bac
+#3 a
+x b
+#2 d
+x   d
+2  c
+#3 b
+x d
+b
+#3a a
+x d
+xa
+xb
+#3a
+x d
+x b
+x a
+#3 bc
+x a
+x b
+x d
+2 b
+#3 d
+xa
+b
+#2b
+x   a
+x  c
+xa
+#3 da
+x b
+x d
+xa
+#2 d
+x   d
+b
+
+b
+#2   c
+x b
+2 bcd
+#3 d
+xa
+#3b  a
+xa
+x d
+x b
+#3 aa
+x b
+x d
+x a
+b
+2aba d
+#3  c
+x a
+#3 b
+x d
+xa
+xb
+#4d
+xb
+xd
+xb
+#4d
+xb
+xa
+xb
+#2d
+x   c
+b
+2f ffa
+#3   e
+x   f
+#2   e
+xf
+1hih  a
+#2  a
+xf
+b
+#2df
+x  f
+2dde
+#3f
+xh
+#2i
+x   h
+x f
+xh
+b
+
+b
+2.fgh
+3 i
+#2fg
+x f
+#2 de
+xd
+1dff
+b
+#3  c
+xd
+xc
+xa
+#4d
+xc
+xd
+xc
+#4d
+xc
+xa
+xc
+#2d
+x  a
+1     a
+b
+#2    d
+xb
+#3a a
+x d
+x b
+x a
+#3 b d
+x a
+x b
+x d
+#2 bc
+x   c
+b
+#3b  a
+xa
+xb
+xd
+#2b c
+xa
+#3 d   a
+x b
+x d
+xa
+#2 da
+x   d
+b
+
+b
+#3ab c
+x d
+xa
+xb
+#2db  d
+x   a
+#2db c
+x   d
+#3daa
+x  c
+x a
+x b
+b
+#2 d
+xa
+xb  a
+xd  c
+#2f  d
+x  a
+xabc
+xc
+b
+2dba  a
+#3 a
+x b
+1 aa
+#2    d
+xb
+xa a
+x d
+b
+#2 b  d
+x  d
+x  c
+x  a
+2bbcd
+#4d
+xb
+xa
+xb
+#2d
+x b c
+b
+#2   d
+xb
+1bbc
+#2    d
+xb c
+xa a
+x d d
+b
+Yaba d
+b
+b
+
+e

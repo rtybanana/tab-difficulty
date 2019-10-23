@@ -1,0 +1,220 @@
+-C
+-t
+-f
+{7. Mein Freud allein/Heinrich Isaac}
+b
+c
+0   a
+1   a
+1   a
+b
+0 db
+0 db
+b
+#2 ab
+x  d
+#2  b
+x  a
+1   c
+1 b  d
+b
+0 db
+1a
+1   c
+b
+1 da
+1  b
+1  d
+1  d
+b
+#2 ab
+x  d
+#2 a
+x b
+1 da
+1a  c
+b
+1a   d
+1 d a
+#3    a
+x d
+x c
+x a
+#2 d
+x c
+b
+0 d a
+0 d a
+b
+
+b
+0   a
+0 d
+b
+0d
+1d
+1c  a
+b
+1a  c
+1    d
+0 d a
+b
+1  d
+1 b
+1 a a
+1 d
+b
+#2a
+x d
+#2 b
+x a
+1  da
+1  da
+b
+A1
+w  bc
+.
+b
+b
+A2
+1  bc
+#2  b
+x  a
+#2  b
+x  d
+1 a
+b
+#2  d
+x  b
+#2  a
+x   c
+1 da
+1  a
+b
+0a  c
+1d
+1   c
+b
+
+b
+0c  a
+0c  a
+b
+0 db
+0ab
+b
+1ca
+1d b
+#3  d{
+xd
+xc
+xa
+#2d
+xc   }
+b
+wd b
+b
+0
+0da   d
+b
+#3   a
+xa
+xc
+xd
+#2c
+xa
+1 d
+1     d
+b
+1 b  d
+1 a a
+1   c
+1  de
+b
+0 ab
+0     d
+b
+0   a
+0 a
+b
+0  d
+0  d
+b
+
+b
+0   a
+1   c
+1  a
+b
+#2  a
+x  b
+1  d
+1 a
+1  d
+b
+#2  d
+x  b
+1  a
+0   c
+b
+0   a
+0   a
+b
+1    d
+1   a
+1   a
+#2    d
+x    c
+b
+0  d a
+1  d
+1 a
+b
+0 b
+0 b d
+b
+0 ab
+0 b d
+b
+1 b d
+1 ab
+1  da
+1  bc
+b
+1.  da
+2    d
+1   a
+1   a
+b
+
+b
+0     d
+0 d
+b
+0d
+1d
+1c  a
+b
+0a  c
+1 da
+1  b
+b
+1 bd
+#3 d
+x b
+x a
+x  d
+1 ab
+1 d a
+b
+#2 d a
+x a c
+1 b  d
+1  da
+1  da
+b
+w ab  d
+b
+b
+
+e

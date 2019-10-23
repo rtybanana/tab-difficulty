@@ -1,0 +1,373 @@
+-C
+-t
+-f
+{3. Phantasia 1/3. Phantasia 1}
+b
+c
+1 d
+#2 d
+x d
+#2b
+x d
+xb
+xd
+b
+#2f
+x  d
+xf
+x  d
+#2f g
+x   h
+xf g
+x  i
+b
+#2 f
+xd
+xd
+x f
+#2b da
+x   a
+x dd
+x db
+b
+#2 bd a
+xa
+xa
+x    a
+#2a d d
+x    a
+xa d d
+x   a
+b
+
+b
+#2 a c
+xd
+xd
+x   c
+#2b da
+x   a
+x  dd
+x ab
+b
+#2abd a
+x    c
+xa d d
+x   a
+#2aabc
+x b
+xaabc
+x b
+b
+#3bdda
+xa
+x d
+xa
+#3bdda
+xa
+xb
+xd
+#3fd df
+xd
+x g
+xd
+#3fd df
+xd
+xf
+xh
+b
+#2ifg a
+xh
+xffg a
+x i
+#3 gddf
+x f
+x d
+x f
+#3 gddf
+x f
+x g
+xd
+b
+
+b
+#2ffg a
+x     h
+x     i
+x   a
+#2dbbc
+x   d
+x dff
+xa
+b
+#2bdda
+x  b
+x  d
+x a
+#2abd a
+x  b
+xdb cd
+#3b
+xd
+b
+#2fbd  b
+x     d
+x    a
+x    c
+#2db cd
+x   a
+x  bc
+x   d
+b
+#2  bc
+xd
+x dda
+xb
+#3a d a
+x d
+x c
+x a
+#3 d
+x c
+x a
+x c
+b
+
+b
+2 dda
+#3 a
+x b
+#3 d
+xa
+xb
+xd
+2f
+#3  d
+x a
+#3 b
+x d
+xa
+xb
+b
+#2d
+xb
+xaa
+x b
+#2bd a
+x   c
+x   d
+x  b
+b
+#2abd a
+x    c
+x    d
+x    a
+#2aabc
+x    d
+x a a
+x  cc
+b
+#2 bd a
+x d
+xa
+xb
+#2d
+x  b
+x de
+xa
+b
+#2bdda
+xd  c
+2f dd
+#3d
+xb
+2abd
+#3    a
+x    c
+#3    d
+x   a
+x   c
+x   d
+b
+
+b
+2ddef
+#3     d
+x     f
+#3     g
+x     i
+x    f
+x    h
+2  ddf
+#3 d
+x f
+#3 g
+xd
+xf
+xg
+b
+#3ffg a
+xh
+xi
+xh
+#3f
+x i
+x g
+x f
+#3 gihf
+x f
+x i
+x g
+#3 f
+x  i
+x  h
+x  f
+b
+2add a
+#3 c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+#2 dda
+xa
+xb d
+xd
+b
+
+b
+2f d
+#3d
+xb
+2abd
+#3a
+xb
+2d bc
+#3b
+xa
+2 db
+#3 d
+xa
+b
+2bd
+#3a
+x d
+#3 bd a
+x d
+2a
+#3 ab
+xc
+2d
+#3 def d
+x f
+2 g
+b
+#3 gddf
+x f
+2 d
+#3  g a
+x d
+2a
+#2abb d
+xb
+xd
+x    d
+b
+#2 dddf
+xf
+xfd ca
+x c
+#2fd df
+xf
+xf
+x d
+b
+#2b
+x d
+xbd
+xd e
+#2f d
+xf
+xf
+x  d
+b
+
+b
+#2ab
+x  d
+xab
+x d
+#2 f
+xd
+xd
+x f
+b
+#2b da
+x   a
+x b d
+x ab
+#2abd
+x    a
+xa   a
+x    a
+b
+#2a d d
+x    a
+xd   d
+x    a
+#2  bc
+xd
+xd
+x c
+b
+2bdda
+#3a
+xb
+#3d
+xb
+#4d
+xb
+xa
+x d
+#2abd a
+xf
+#3 a c
+xe
+#4f
+xe
+xc
+xe
+b
+
+b
+#2fddd
+xbdda
+xdabc
+x c
+#2bdda
+x bd  b
+xb
+xgd f d
+b
+#2fcd a
+xabd a
+xabb d
+xbbd  b
+2 dff d
+#3 d
+x   d
+#3 ddca
+x c
+#4 d
+x c
+x a
+x c
+b
+Y ddef
+b
+b
+
+e

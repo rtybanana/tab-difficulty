@@ -1,0 +1,141 @@
+-C
+-t
+-f
+{Galliarde 10/Galliarde 10}
+b
+#2d
+xf
+b
+.
+1gd f
+1fd e
+1ddef
+b
+1cdda
+#2      a
+xd
+1cdda
+b
+1dde  d
+1abb d
+1bbd  b
+b
+1bde b
+#2   d
+x e
+1bde b
+b
+
+b
+1gd f
+1fd e
+1ddef
+b
+1cdda
+#2      a
+xd
+1fddd
+b
+#2ddbb
+x b
+2cdda
+#3d
+xc
+#3d
+xc
+xa
+xc
+b
+
+b
+A1
+#2dab
+x   a
+#2    c
+x     d
+#2d
+xf
+.
+b
+b
+A2
+#2dab
+x   a
+#2    c
+x     d
+1dab
+b
+.
+1ddef
+1cdda
+1dbbb
+b
+#2cdda
+xf
+#2f
+xd
+1cdda
+b
+1gd f
+1fd e
+1ddef
+b
+
+b
+#2cdd   a
+x  d
+#2  d
+x  b
+1  aa  a
+b
+#3c  a
+x d
+xa
+xc
+#3d    d
+xc
+xa
+x d
+#3a   d
+xc
+xd
+xa
+b
+
+b
+#3c  a
+xa
+x d
+xa
+#3c
+xa
+xc
+xd
+#2f
+x   a
+b
+#2ddbb
+x b
+#3   a
+xd
+xc
+xa
+#3 d
+x b
+x a
+x  d
+b
+2dab  d
+#3 d
+x b
+#3 a
+x b
+x  d
+x a
+#2dab
+x     d
+.
+b
+b
+
+e

@@ -1,0 +1,683 @@
+-C
+-t
+-f
+{Wachet auf, ruft uns die Stimme/Wachet auf, ruft uns die Stimme}
+b
+C
+2  b
+b
+#3 b    /a
+x d
+2a
+#2a     /a
+x d
+#2b     /a
+xa
+#2  b  a
+x   d
+b
+.
+#3a    b
+x b
+2 d
+#2   d d
+x   c
+#2 a    /a
+x b
+R2
+2  b
+b
+#3 b    /a
+x d
+2a
+#2a     /a
+x d
+#2b     /a
+xa
+#2  b  a
+x   d
+b
+#3a    b
+x b
+2 d
+#2   d d
+x   c
+#2 a    /a
+x b
+R2
+2d
+b
+
+b
+1d    a
+#3b   a
+xa
+x d
+x b
+#3 d   d
+x b
+x a
+x  d
+2  b  b
+#3  d
+x a
+b
+#3 b   a
+x d
+xa
+x d
+#3b     /a
+xa
+x d
+x b
+#2a    d
+x d
+#2    c
+x  b
+b
+#2a   d
+xc
+#2    c
+xd
+#3 b  a
+x a
+2 b
+#2    d
+x  d
+b
+#2c  a
+xd
+#2   c
+xf
+#3 ba
+x a
+2 b
+#2   a
+xi
+b
+#3h b
+xf
+2d
+#3  a
+xc
+2d
+#3   c
+xc
+xa
+x d
+#3 b a
+x a
+x  d
+x  b
+b
+
+b
+#3  d d
+x a
+2 b
+#3 b  c
+x a
+2 b
+#3    a
+xc
+xd
+xf
+#3d   d
+xc
+xa
+x d
+b
+#2d   c
+x d   d
+#4 b a
+x a
+x b
+x a
+#3  d   a
+x  b
+#3  b  a
+x b
+x a   c
+x  d
+#2 a   d
+x  b   //a
+b
+2   c  /a
+#3      ///a
+x  a
+#4  b   a
+x  a
+x  b
+x  a
+#4  b
+x  a
+x   c
+x  a
+#2  b  d
+x    a
+#2     d
+x  b  b
+b
+#3 b   a
+x d
+2a     a
+#2a     /a
+x d    //a
+#2b     ///a
+xa
+#2  b a
+x   d
+b
+#3a    a
+x b
+2 d
+#2   d d
+x   c
+#2 a    /a
+x b
+#2     a
+x  b
+b
+
+b
+#3 b   b
+x d
+2a
+#2a  d
+x d
+#2b   c
+xa
+#2  b d
+x   d
+b
+#3a   a
+x b
+2 d
+#2   dc
+x   c
+#2 a  d
+x b
+#2    c
+x d
+b
+#2a   a
+xc
+#2     a
+xd
+#3 b  a
+x a
+2 b  c
+#2    d
+x  d
+b
+#2c
+xd   c
+#2     a
+xf    c
+#3 d   d
+x b
+2 d    //a
+#2      /a
+x      a
+b
+#2     d
+x     c
+#2     d
+xd   a
+#2d   c
+x     d
+#3b   d
+xa
+x d
+x b
+b
+
+b
+#3 d   d
+x b
+x a
+x  d
+2  b  b
+#3  d
+x a
+#3 b   a
+x d
+xa
+x d
+#3b     /a
+xa
+x d
+x b
+b
+A1
+#2a    b
+x d   d
+1    a
+1      a
+#2     d
+x  b  b
+b
+A1
+A2
+#3 b   a
+x d
+2a
+#2a     /a
+x d
+#2b     //a
+xa
+#2  b   /a
+x   d
+.
+b
+b
+A2
+#2a    b
+x d   d
+1    a
+1      a
+#2     d
+xd    b
+b
+1d    a
+#3b   a
+xa
+x d
+x b
+#3 d   d
+x b
+x a
+x  d
+2  b  b
+#3  d
+x a
+b
+#3 b   a
+x d
+xa
+x d
+#3b     /a
+xa
+x d
+x b
+#2a    d
+x d
+#2    c
+x  b
+b
+
+b
+#2a   d
+xc
+#2    c
+xd
+#4 d  a
+x b
+3 a
+2 b
+#2    d
+x  d
+b
+#2c  a
+xd
+#2   c
+xf
+#4 da
+x b
+3 a
+2 b
+#2   a
+xi
+b
+#3h b
+xf
+2d
+#3  a
+xc
+2d
+#3   c
+xc
+xa
+x d
+#3 b a
+x a
+x  d
+x  b
+b
+#3  d d
+x a
+2 b
+#3 b  c
+x a
+2 b
+#3    a
+xc
+xd
+xf
+#3d   d
+xc
+xa
+x d
+b
+
+b
+#2d   c
+x d   d
+#4 b a
+x a
+x b
+x a
+#3  d   a
+x  b
+#3  b  a
+x b
+x a   c
+x  d
+#2 a   d
+x  b   //a
+b
+2   c  /a
+#3      ///a
+x  a
+#4  b   a
+x  a
+x  b
+x  a
+#4  b
+x  a
+x   c
+x  a
+#2  b  d
+x    a
+#2     d
+x a   b
+b
+#2 b   a
+x d    a
+#2      /a
+xa     //a
+#3  b   /a
+x   d
+2  b  a
+#2     b
+xd    d
+b
+#2d   a
+x    c
+#3b   d
+xa
+x d
+x b
+#3 d   d
+x b
+x a
+x  d
+2  b  b
+#3  d
+x a
+b
+#3 b   a
+x d
+xa
+x d
+#3b     /a
+xa
+x d
+x b
+#2a    d
+x d  a
+#2     d
+x     b
+b
+
+b
+#2    d
+x    c
+#2    a
+xa    e
+#3f   a
+xh
+2i  c
+#2i  h
+xh  f
+b
+#2l   i
+xi
+#2a    i
+x  i
+#3i  a
+xf
+2h
+#2 d c
+x b
+b
+#2e  d
+xf  c
+#2   a
+xa   e
+#2a  a
+x    d
+#3 d  c
+x b
+x a  a
+x  d
+b
+#3 a   e
+x  d
+x  c  a
+x  a
+2   c
+#3  aa
+x  c
+#3  d d
+x a
+x b
+x a
+#3 d  a
+x b
+x a
+x  d
+b
+#2 b c
+x a
+#2  c
+x   c
+#2 bd
+x e
+#2  b
+xa
+b
+
+b
+#3  de
+x  b
+2  d
+#2    a
+x  a
+#2 e  c
+xa
+#2    d
+xc
+b
+#3  d   b
+x  b
+2  d
+#2      //a
+xf
+#3d    a
+xc
+2a
+#3      a
+x e
+2a
+b
+#3    d
+x d
+x b
+x a
+#3  d c
+x  b
+x  a
+x   c
+#3  a a
+x  b
+2  d
+#3     d
+x  b
+2  d
+b
+#3     c
+x e
+xa
+xc
+#3a   a
+x e
+x c
+x a
+#2a    d
+x a   a
+2  b c
+#3  a   //a
+x   c
+b
+#2   c a
+x      /a
+#2      a
+x     a
+#2     b
+x     a
+#2     b
+x  b  d
+b
+
+b
+#3 b  a
+x d
+2a    d
+#2a   a
+x d  c
+#2b   d
+xa
+#2  b a
+x   d
+b
+#3a    b
+x b
+2 d
+#2   d d
+x   c
+#2 a  a
+x b   d
+#2    a
+x    c
+b
+#2    d
+x    c
+#2    d
+xd  a
+#2d  c
+x   a
+#3b  c
+xa
+x d d
+x b
+b
+#3 d  c
+x b
+x a   d
+x  d
+2  b
+#3  dd
+x a
+#3 b c
+x d
+xa
+x d
+#3b   d
+xa
+x d
+x b
+b
+#2a b
+x d d
+#2   c
+xa
+#2f  d
+xh
+#2   c
+xi
+b
+
+b
+#3b  a
+xa
+2b
+#2    d
+xf
+#2h  a
+xi
+#2     d
+xl
+b
+#3b   a
+xa
+2b
+#2     b
+x d
+#3a    d
+x d
+2 b
+#3     a
+x a
+2 b
+b
+#3     b
+xg
+xf    a
+xd
+#3b     a
+xa
+x d    /a
+x b
+#3 d    //a
+xa
+2b
+#3      a
+xa
+2b
+b
+#3     d
+x a
+x b  a
+x d
+#3 b   d
+x a
+x  d  b
+x  b
+#2d    a
+x b  a
+#3a    b
+x d
+x b   d
+x a
+b
+
+b
+#3 b  a
+xb
+xa   c
+x d
+#2a   d
+x b c
+2  dd
+#3   a
+x a
+2 ab
+#3     d
+x b
+b
+w bbc  /a
+b
+b
+
+e

@@ -1,0 +1,63 @@
+-C
+-t
+-f
+{/}
+b
+c
+0 aba d
+1. da a a
+2      a
+b
+1 aba d
+1     d
+1. bbc  /a
+2      /a
+b
+0 da a a
+0cdda
+b
+0da a d
+0aab  a
+b
+0 cdca
+1. dd  c
+2     c
+b
+1ce  c
+1ca    b
+1aab  a
+1     a
+b
+0 efe  //a
+0    c
+b
+0cef   //a
+0 efec
+b
+1ccd
+1 ea   //a
+1aab  a
+1ca    b
+b
+1aa   d
+1 ed  c
+1aab  a
+1     a
+b
+
+b
+1 bdc  ///a
+1 ab  a
+1 ea   //a
+1 bbc  /a
+b
+1 a c d
+1 bdca
+1 ea c
+1      //a
+b
+waab  a
+b
+b
+
+e

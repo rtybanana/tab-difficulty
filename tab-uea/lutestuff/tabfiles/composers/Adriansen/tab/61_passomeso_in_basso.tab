@@ -1,0 +1,4365 @@
+-C
+-t
+-f
+{61. Passomeso in Basso/61. Passomeso in Basso}
+b
+c
+#2  d
+x a
+b
+1abd a
+1abd
+2aadc
+#3  c
+x  a
+3aac  a
+#4  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+#2abd a
+x   c
+xabd
+x d
+#2abd a
+xdabc
+#3  da
+xd
+2c
+b
+#2dab  d
+x   a
+xdab
+x     c
+#2dab  d
+x    a
+xdab c
+x    a
+b
+
+b
+#2dab  d
+x   a
+xdab
+xc
+#3a   a
+xc
+xd
+xc
+#3a
+x d
+x b
+x a
+b
+#2abd a
+x d
+xa
+x   c
+#2   d
+x  da
+#3   c
+x  d
+2  c
+b
+2abd a
+#3c
+xd
+#3f
+xd
+xc
+xa
+#3c
+xa
+x e
+x c
+#3 e
+xa
+x c
+x e
+b
+#2aac  a
+x   c
+xaac
+x  d
+#2aac  a
+x  d
+x  c
+x  a
+b
+
+b
+#2aac  a
+x   c
+xaac  a
+x  d
+#2 a a
+x  b
+x  da
+x a
+b
+#2abb d
+x   c
+xabb
+xc
+2d  c
+#3b
+xa
+2b  a
+#3d
+xb
+b
+2ab  d
+#3 d
+x b
+#2 d  c
+xa   d
+#2b  a
+xa   d
+x d  c
+x b  a
+b
+#2 ab  d
+x   a
+x ab
+x b
+#2 d  c
+x  b
+x b  a
+x  a
+b
+#2 ab  d
+x  d
+x  b
+x   d
+#2d  c
+xb  a
+xa   d
+x d  c
+b
+
+b
+#2 bd a
+xa
+x d  c
+x b
+#2 a  d
+x  d
+x  ca
+x  a
+b
+#2aac  a
+x b
+x a d
+x  d
+#2aacc
+x  d d
+x  da
+x  cc
+b
+#2acd a
+xf
+xe    a
+#3c
+xe
+2f   a
+#3d
+xc
+#3a
+x d
+x c
+x a
+b
+#2acd a
+x   c
+xacd
+x d
+#2acd a
+x  c
+x  d
+x a
+b
+b
+#2abd a
+x d
+xa
+x   c
+#2 bdd
+x dda
+#3   c
+x  d
+2  c
+b
+
+b
+#2abd a
+x   c
+xabd
+x d
+2abd a
+#3f
+xd
+2c  a
+#3a
+xc
+b
+2dab  d
+#3c
+xa
+#3c
+xa
+x d
+xa
+#3b
+xa
+x d
+x b
+#3 a
+x  d
+x  b
+x  a
+b
+#2 ab  d
+x  d
+x a
+x b
+#2 d   d
+xa
+xc
+xd
+b
+#2f   a
+xh
+xi
+xh
+#2i   a
+xh
+xf
+xh
+b
+
+b
+#2f   a
+xh
+xi
+xh
+#2f   a
+xi
+xh
+xf
+b
+#2e    a
+xf
+xh
+xf
+#2h    a
+xf
+xe
+x h
+b
+#2e    a
+xh
+x     a
+xf
+#2e    a
+xc
+xa
+x d
+b
+#2abb d
+xd
+x    d
+xc
+#2ab  d
+x d
+x b
+x a
+b
+
+b
+2ab  d
+#3c
+xd
+#3f
+xd
+xc
+xa
+#3b
+xa
+x d
+x b
+#3 a
+x  d
+x  b
+x  a
+b
+#2 ab  d
+x d
+x     d
+x b
+#2 ab  d
+x  d
+x  b
+x  a
+b
+#2 ab  d
+x  d
+x a
+x b
+#2 db  d
+xa
+xc
+xd
+b
+#2f   a
+xh
+xi
+xh
+#2f   a
+xi
+xh
+xf
+b
+#2e    a
+xf
+xh
+xf
+#2e    a
+xf
+xf    a
+xe
+b
+
+b
+1f   a
+#2    a
+xc
+#2acd a
+x d
+x c
+x a
+b
+2acd a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#2acd a
+x  c
+x  d
+x a
+b
+b
+#2abd a
+x    c
+x    d
+x   a
+#2aacc
+x  d d
+x  da
+x  cc
+b
+#2abd a
+x   c
+xabd
+x d
+#2abd a
+x    c
+x    d
+x   a
+b
+#2 ab  d
+x   a
+x ab
+x     c
+#2 ab  d
+x    a
+x ab c
+x    a
+b
+
+b
+#2 ab  d
+x     c
+x     d
+x    a
+#2 ab c
+x     d
+x    a
+x    c
+b
+2abd a
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+#3a
+xc
+xd
+xc
+#3a
+x d
+x b
+x a
+b
+#2abd a
+xf
+x    a
+xd
+#2c   a
+xa
+xaaa c
+x e
+b
+1aac  a
+1aac
+1aac  a
+1  d ac
+b
+1aac  a
+#2   c
+x  d
+#2aacc
+x   d
+x   c
+x   a
+b
+
+b
+#2abb d
+xc
+xd
+x   a
+#2   c
+xb
+xa
+x   a
+b
+#2    d
+x d
+x b
+x    c
+#2    a
+x b
+x a
+x    a
+b
+#2     d
+x b
+x d
+x    a
+#2    c
+x b
+x a
+x    a
+b
+#2     d
+x  d
+x  b
+x     c
+#2     a
+x d
+x b
+x a
+b
+#2    a
+xabd
+x    c
+x a
+#2    d
+x  d
+x   a
+x  d
+b
+
+b
+#2   c
+xaac
+x    d
+x  d
+#2   a
+x  d
+x   c
+x  c
+b
+2acd a
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+#2acd a
+x   c
+xacd
+x d
+2acd a
+#3  a
+x  c
+#3  d
+x  c
+x  d
+x a
+b
+b
+2abd a
+#3  d
+x a
+#3 b
+x d
+2a
+#2    a
+x d
+#3 b
+x d
+2 a
+b
+
+b
+2abd a
+#3  d
+x a
+#3 b
+x d
+2a
+#2    a
+x b
+#3 a
+x b
+2  d
+b
+2 ab  d
+#3   a
+x  a
+#3  b
+x  d
+2 a
+#2     d
+x  d
+#3  b
+x  d
+2  a
+b
+2 ab  d
+#3   a
+x  a
+#3  b
+x  d
+2 a
+#2     d
+x d
+#3 b
+x d
+2 a
+b
+2abd a
+#3  d
+x a
+#3 b
+x d
+2a
+#2    a
+x d
+#3 b
+x d
+2 a
+b
+
+b
+2abd a
+#3  d
+x a
+#3 b
+x d
+2a
+#2    a
+x b
+#3 a
+x b
+2  d
+b
+2aac  a
+#3   c
+x  a
+#3  c
+x  d
+2 a
+#2     a
+x  d
+#3  c
+x  d
+2  a
+b
+2aac  a
+#3   c
+x  a
+#3  c
+x  d
+2 a
+#2     a
+x  b
+x  da
+x a
+b
+2abb d
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+2db  d
+#3d
+xc
+#3a
+x d
+x b
+x a
+b
+
+b
+2abb d
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+2d   d
+#3c
+xa
+#3 d
+x b
+x a
+x  d
+b
+2 ab  d
+#3   a
+x  a
+#3  b
+x  d
+x a
+x b
+2 db  d
+#3 d
+x b
+#3 a
+x  d
+x  b
+x  a
+b
+2 ab  d
+#3   a
+x  a
+#3  b
+x  d
+x a
+x b
+2 db  d
+#3 a
+x b
+#3 d
+x a
+x b
+x d
+b
+
+b
+2abd a
+#3  d
+x a
+#3 b
+x d
+xa
+xb
+2abd a
+#3 d
+x b
+#3 a
+x  d
+x  c
+x  a
+b
+2aac  a
+#3   c
+x  a
+#3  c
+x  a
+x  c
+x  d
+2aac  a
+#3  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+2acd a
+#3  d
+x a
+#3 c
+x a
+x c
+x d
+2acd a
+#3c
+xe
+#3f
+xe
+xc
+xe
+b
+
+b
+2f   a
+#3d
+xc
+#3a
+x d
+x c
+x a
+2acd a
+#3 d
+x c
+#3 a
+x  c
+x  d
+x a
+b
+b
+2abd a
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+#3a
+xc
+xd
+xc
+#3a
+x d
+x b
+x a
+b
+2abd a
+#3  d
+x a
+2 d  c
+#3 b
+x d
+2a   d
+#3 d
+xa
+2c  a
+#3a
+xc
+b
+#2dab  d
+x   a
+xdab
+x     c
+#2dab  d
+x    a
+xdab c
+x    a
+b
+
+b
+#2dab  d
+x   a
+xdab
+xc
+#3a   a
+xc
+xd
+xc
+#3a
+x d
+x b
+x a
+b
+2abd a
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+2d  c
+#3b
+xd
+2b  a
+#3a
+xb
+b
+2a   d
+#3 d
+xa
+2 d  c
+#3 b
+x d
+2 b  a
+#3 a
+x b
+#3 a a
+x  d
+x  c
+x  a
+b
+
+b
+2aac  a
+#3 d
+xa
+#3b
+xa
+x d
+x b
+#3 a
+x b
+x d
+x b
+#3 a
+x  d
+x  c
+x  a
+b
+2aac  a
+#3   c
+x  a
+#3  c
+x  a
+x  c
+x  d
+#3 a
+x  b
+x  d
+x a
+#3 b
+x a
+x b
+x d
+b
+2abb d
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+#3d  c
+xa
+xb
+xd
+#3b  a
+x d
+xa
+xb
+b
+
+b
+#3a   d
+x b
+x d
+xa
+#3 d  c
+x a
+x b
+x d
+#3 b  a
+x  d
+x a
+x b
+#3 a a
+x  d
+x  c
+x  a
+b
+2 ab  d
+#3   a
+x  a
+#3  b
+x  d
+x a
+x b
+#3 d  c
+x a
+x b
+x d
+#3 b  d
+x  d
+x a
+x b
+b
+#3 ab  d
+x  a
+x  b
+x  d
+#3 a   d
+x  d
+x a
+x b
+#3 d   c
+x a
+x b
+x d
+#3a    d
+x d
+x b
+x a
+b
+
+b
+#3 b  a
+x  d
+x a
+x b
+#3 d  c
+x a
+x b
+x d
+#3a   d
+x b
+x d
+xa
+#3b  a
+x d
+xa
+xb
+b
+#3a  c
+x b
+x d
+xa
+#3 d d
+x b
+x a
+x  d
+#3 a a
+x  d
+x  c
+x  a
+#3  cc
+x  d
+x a
+x  c
+b
+2acd a
+#3  d
+x a
+#3 c
+x a
+x c
+x d
+#3a
+x c
+x d
+xa
+#3c
+xa
+xc
+xe
+b
+
+b
+2f   a
+#3d
+xc
+#3a
+x d
+x c
+x a
+2acd a
+#3 d
+x c
+#3 a
+x  c
+x  d
+x a
+b
+b
+#2abd a
+xf
+xe
+#3c
+xe
+#2f
+x    d
+x   a
+x   c
+b
+#2    a
+xf
+xe
+#3c
+xe
+#2f
+x    c
+x    d
+x   a
+b
+#2     d
+x d
+x c
+#3 a
+x c
+#2 d
+x    d
+x    c
+x    a
+b
+#2     d
+x d
+x c
+#3 a
+x c
+#2 d
+x    a
+x    c
+x     d
+b
+
+b
+#2    a
+xf
+xe
+#3c
+xe
+#2f
+x    d
+x   a
+x   c
+b
+#2    a
+xf
+xe
+#3c
+xe
+#2f
+x    c
+x    d
+x   a
+b
+#2     a
+xh
+xf
+#3e
+xf
+#2h
+x     e
+x    a
+x    c
+b
+#2     a
+xh
+xf
+#3e
+xf
+#2h
+x     d
+x    a
+x    c
+b
+#2    d
+xd
+xc
+#3a
+xc
+#2d
+x   d
+x   c
+x   a
+b
+
+b
+#2    d
+xd
+xc
+#3a
+xc
+#2d
+x    c
+x    d
+x   a
+b
+#2     d
+x d
+x c
+#3 a
+x c
+#2 d
+x    d
+x    c
+x    a
+b
+#2     d
+x d
+x c
+#3 a
+x c
+#2 d
+x    a
+x    c
+x     d
+b
+#2    a
+xf
+xe
+#3c
+xe
+#2f
+x    c
+x    d
+x   a
+b
+#2     a
+xh
+xf
+#3e
+xf
+#2h
+x    e
+x   a
+x   c
+b
+
+b
+#2    a
+xf
+xe
+#3c
+xe
+#2f
+x   a
+x    e
+x    c
+b
+2    a
+#3d
+xc
+#3a
+x d
+x c
+x a
+1acd a
+#2  d
+x a
+b
+b
+#2 b  a
+x  d
+#3a
+x d
+x b
+x a
+2 b  a
+#3  d
+x a
+#3 b
+x d
+2a
+b
+#2 b  a
+x  d
+#3a
+x d
+x b
+x a
+2 b  a
+#3  d
+x a
+#3 b
+x d
+2a
+b
+
+b
+#2 a   d
+x  b
+#3 d
+x b
+x a
+x  d
+2 ab  d
+#3  b
+x  d
+#3 a
+x b
+2 d
+b
+#2 a   d
+x  b
+#3 d
+x b
+x a
+x  d
+2 ab  d
+#3  b
+x  d
+#3 a
+x b
+2 d
+b
+#2 b  a
+x  d
+#3a
+x d
+x b
+x a
+2 b  a
+#3  d
+x a
+#3 b
+x d
+2a
+b
+#2 b  a
+x  d
+#3a
+x d
+x b
+x a
+2 b  a
+#3c
+xe
+#3f
+xc
+xe
+xf
+b
+
+b
+#2e    a
+x f
+#3h
+xf
+xe
+x h
+#2e    a
+xh
+#3e
+xf
+2h
+b
+#2e    a
+x f
+#3h
+xf
+xe
+x h
+#2e    a
+xh
+#3e
+xf
+2h
+b
+#2a   d
+x b
+#3d
+xc
+xa
+x d
+#2ab  d
+xd
+#3a
+xc
+2d
+b
+#2a   d
+x b
+#3d
+xc
+xa
+x d
+2a   d
+#3b
+xa
+#3 d
+x b
+x a
+x  d
+b
+
+b
+#2 a   d
+x  b
+#3 d
+x b
+x a
+x  d
+#2 ab  d
+x d
+#3 a
+x b
+2 d
+b
+#2 a   d
+x  b
+#3 d
+x b
+x a
+x  d
+#2 ab  d
+x d
+#3 a
+x b
+2 d
+b
+#2 b  a
+x  d
+#3a
+x d
+x b
+x a
+2 b  a
+#3c
+xe
+#3f
+xc
+xe
+xf
+b
+#2e    a
+x f
+#3h
+xf
+xe
+x h
+2e    a
+#3c
+xe
+#3f
+xe
+xc
+xe
+b
+
+b
+2f   a
+#3e
+xf
+#3h
+xf
+xe
+x h
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+2acd a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#2acd a
+x  c
+x  d
+x a
+b
+b
+#3  d
+xa
+x b
+xa
+#3  d
+xa
+x b
+xa
+#3  d
+xa
+x b
+xa
+#3  d
+xa
+x b
+xa
+b
+
+b
+#3  d
+xa
+x b
+xa
+#3  d
+xa
+x b
+xa
+#3  d
+xa
+x b
+xa
+#3  d
+xa
+x b
+xa
+b
+#3  b
+xd
+x a
+xd
+#3  b
+xd
+x a
+xd
+#3  b
+xd
+x a
+xd
+#3  b
+xd
+x a
+xd
+b
+#3  b
+xd
+x a
+xd
+#3  b
+xd
+x a
+xd
+#3  b
+xd
+x a
+xd
+#3  b
+xd
+x a
+xd
+b
+
+b
+#3  d
+xa
+x b
+xa
+#3  d
+xa
+x b
+xa
+#3  d
+xa
+x b
+xa
+#3  c
+xa
+x a
+xa
+b
+#3  d
+xa
+x b
+xa
+#3  b
+xa
+x a
+xa
+#3   d
+x b
+x  d
+x b
+#3   c
+x b
+x  d
+x d
+b
+#2aac  a
+x   c
+xaac
+x b c
+#2 a a
+x  d d
+x  c c
+x  a a
+b
+2aac  a
+#3   c
+x  a
+#3  c
+x  d
+2 a
+#2     a
+x  b
+x  da
+x a
+b
+
+b
+#2ab  d
+xd
+#3c
+xd
+2a
+#3 d
+xa
+2 b
+#3 a
+x b
+2 d
+b
+#2ab  d
+xd
+#3c
+xd
+2a
+#3 d
+xa
+2 b
+#3 a
+x b
+2  d
+b
+#2 ab  d
+x d
+#3 c
+x d
+2 a
+#3  d
+x a
+2  b
+#3  a
+x  b
+2  d
+b
+#2 ab  d
+x d
+#3 c
+x d
+2 a
+#3  d
+x a
+2  b
+#3 a
+x b
+2 d
+b
+
+b
+#2abd a
+xd
+#3c
+xd
+2a
+#3 d
+xa
+2 b
+#3 a
+x b
+2  d
+b
+#2  cc a
+xa
+#3 d
+xa
+2 b
+#3 a
+x b
+2  d
+#3  c
+x  d
+2  c
+b
+#2acd a
+xf
+#3e
+xf
+2c
+#3a
+xc
+2 d
+#3 c
+x d
+2 a
+b
+2acd a
+#3d
+xc
+#3a
+x d
+x c
+x a
+2acd a
+#3  a
+x  c
+#3  d
+x a
+x b
+x d
+b
+b
+
+b
+2abd a
+#3  d
+x a
+#3 b
+x d
+xa
+xb
+2a
+#3  b
+x  a
+#3   c
+x   a
+x    d
+x    c
+b
+2    a
+#3  d
+x a
+#3 b
+x d
+xa
+xb
+2a
+#3   d
+x   c
+#3   a
+x    d
+x    c
+x    a
+b
+2     d
+#3   a
+x  a
+#3  b
+x  d
+x a
+x b
+2 d
+#3   a
+x    d
+#3    c
+x    a
+x     d
+x     c
+b
+
+b
+2     d
+#3   a
+x  a
+#3  b
+x  d
+x a
+x b
+2 d
+#3     d
+x    a
+#3    c
+x     d
+x    a
+x    c
+b
+2    a
+#3  d
+x a
+#3 b
+x d
+xa
+xb
+2a
+#3  b
+x  a
+#3   c
+x   a
+x    d
+x    c
+b
+2    a
+#3  d
+x a
+#3 b
+x d
+xa
+xb
+2a
+#3   a
+x    d
+#3    c
+x    a
+x     d
+x     c
+b
+
+b
+2     a
+#3   c
+x  a
+#3  c
+x  d
+x a
+x b
+2 a
+#3   a
+x    d
+#3    c
+x    a
+x     d
+x     c
+b
+2     a
+#3   c
+x  a
+#3  c
+x  d
+x a
+x b
+2 a
+#3     d
+x    a
+#3    c
+x     d
+x    a
+x    c
+b
+2abb d
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+#3a
+xc
+xd
+xc
+#3a
+x d
+x b
+x a
+b
+
+b
+2ab  d
+#3    a
+x    c
+#3    d
+x   a
+x   c
+x   d
+#3   c
+x   a
+x   d
+x   c
+#3   a
+x    d
+x    c
+x    a
+b
+2 ab  d
+#3   a
+x  a
+#3  b
+x  d
+x a
+x b
+#3 a
+x b
+x d
+x b
+#3 a
+x  d
+x  b
+x  a
+b
+2 ab  d
+#3     a
+x     c
+#3     d
+x    a
+x    c
+x    d
+#3    c
+x    a
+x     d
+x    a
+#3    c
+x     d
+x    a
+x    c
+b
+
+b
+#3 b  a
+x a
+x b
+x d
+#3a
+x b
+x d
+xa
+#3b
+xa
+x d
+x b
+#3 a
+x  d
+x  c
+x  a
+b
+#3   c
+x  a
+x  c
+x  d
+#3 a
+x  d
+x  c
+x  a
+#3  c
+x  a
+x   c
+x   a
+#3   c
+x   a
+x    e
+x    c
+b
+2    a
+#3c
+xe
+#3f
+xe
+xf
+xe
+#3f
+xe
+xf
+xe
+#3f
+xe
+xc
+xe
+b
+
+b
+2f   a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#3  d
+x  c
+x  d
+x a
+#3 b
+x a
+x b
+x d
+b
+b
+#2abd a
+x    c
+x    d
+x   a
+#2aacc
+x  dd
+#3   a
+x  d
+2  cc
+b
+#2abd a
+x   c
+xabd
+x    c
+#2   cd
+x  aa
+x  bc
+x  de
+b
+#2  ff
+xd
+xc d
+xa b
+#2 d d
+x b c
+x a a
+x  d d
+b
+#2  b c
+x  d a
+x a   d
+x b  a
+#2 d  c
+x a   d
+x b  a
+x d  c
+b
+
+b
+#2abd a
+x  c c
+x  d d
+x a a
+#2 b c
+x d d
+xa b
+xc d
+b
+2da
+#3c
+xd
+2c d
+#3d
+xc
+2a b
+#3c
+xa
+2 ea
+#3 c
+x e
+b
+#2aac  a
+x   c
+xaac
+x b c
+#3   a
+x a
+2  d d
+#3    c
+x  c
+2  a a
+b
+#2aac  a
+x   a
+xaac
+x  d d
+#2 a a
+x  bc
+x  dd
+x a a
+b
+#2ab  d
+x   c
+xab
+xbd
+#2ab
+x df
+x bd
+x ac
+b
+
+b
+#3 bd
+x a
+x b
+x d
+#2 bd
+x db
+#2aa c
+xd
+#3  da
+xd
+2c
+b
+2dab  d
+#3c
+xa
+2 d  c
+#3a
+x d
+#2 b  a
+x    c
+x  bcd
+x   ef
+b
+2 ab  d
+#3a
+xc
+#3d
+xc
+xd
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x b
+x a
+b
+#2 bd a
+xa
+xb  a
+xa b
+#2 d d
+x b c
+x a a
+x  d d
+b
+
+b
+#2aac  a
+x   c
+x d d
+x b c
+#2 a a
+x  d d
+x  d c
+x  c
+b
+#2acd a
+xf
+xe    a
+#3c
+xe
+2f   a
+#3d
+xc
+#3a
+x d
+x c
+x a
+b
+2acd a
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+#2acd a
+x   c
+xf
+xh
+b
+b
+2i   a
+#3f
+xh
+#3i
+xh
+xf
+xh
+2i   a
+#3c
+xe
+#3f
+xe
+xc
+xe
+b
+
+b
+2f   a
+#3a
+xc
+#3d
+xc
+xa
+xc
+2d    a
+#3c
+xa
+#3 d
+x b
+x a
+x  d
+b
+2 ab  d
+#3   a
+x  a
+#3  b
+x  d
+x a
+x b
+#3 d
+x a
+x b
+x d
+#3 b
+x  d
+x a
+x b
+b
+2 ab  d
+#3a
+xc
+#3d
+xc
+xd
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x b
+x a
+b
+
+b
+2abd a
+#3  a
+x  c
+#3  d
+x a
+x b
+x d
+#3a
+xc
+xd
+xc
+#3a
+x d
+x b
+x a
+b
+#3 b  a
+x a
+x b
+x d
+#3a
+x b
+x d
+xa
+#3c
+xa
+xc
+xe
+#3f
+xc
+xe
+xf
+b
+2e    a
+#3e
+xf
+#3h
+xf
+xe
+xf
+#3h
+xf
+xe
+xf
+#3h
+xf
+xe
+x h
+b
+
+b
+2e    a
+#3e
+xf
+#3h
+xf
+xe
+x h
+#3a
+xc
+xd
+xc
+#3a
+x d
+x b
+x a
+b
+#3ab  d
+x a
+x b
+x d
+#3a
+x d
+xa
+xc
+#3a
+xc
+xd
+xc
+#3a
+x d
+x b
+x a
+b
+#3ab  d
+x a
+x b
+x d
+#3a
+xc
+xd
+xa
+#3f
+xd
+xc
+xa
+#3 d
+x b
+x a
+x  d
+b
+
+b
+#3 ab  d
+x  a
+x  b
+x  d
+#3 a
+x b
+x d
+xa
+#3c
+xa
+x d
+x b
+#3 a
+x  d
+x  b
+x  a
+b
+#3 ab  d
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a
+x b
+#3 d
+x a
+x b
+x d
+#3a
+x d
+x b
+x a
+b
+#3 b  a
+x a
+x b
+x d
+#3a
+x b
+x d
+xa
+#3c
+xa
+xc
+xe
+#3f
+xc
+xe
+xf
+b
+
+b
+#3e    a
+xf
+xh
+xf
+#3h
+xf
+xe
+x h
+#3e
+xf
+xh
+xf
+#3e
+xf
+xh
+xe
+b
+2f   a
+#3e
+xf
+#3h
+xf
+xe
+x h
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+2acd a
+#3 a
+x c
+#3 d
+x a
+x c
+x d
+#2acd a
+x   c
+xf
+xh
+b
+b
+1if h f
+1if h
+1if h f
+2hff h
+#3f
+xh
+b
+
+b
+#2ffg  f
+x   h
+xffg
+x  i
+#2ffg  f
+xi
+xh
+xf
+b
+1h ff
+#2   f
+xf
+#2h  f
+xi
+xh
+xf
+b
+1h ff
+1 if h
+1fg  i
+1h ff
+b
+#2ffg  f
+x   h
+xffg
+xh
+1if h f
+2hff h
+#3f
+xh
+b
+#2ffg  f
+xh
+xi
+x     h
+#2     i
+xi
+xh   f
+xf
+b
+1hff h
+1hff
+#2hff h
+xi
+xh
+xf
+b
+
+b
+1hff h
+1hff
+1hff h
+#2hff h
+x    f
+b
+#2dfg d
+x   f
+xdfg
+xf
+#2dfg d
+x g
+x f
+x d
+b
+2dfg d
+#3  g
+x d
+#3 f
+x d
+x f
+x g
+2dfg d
+#3 g
+x f
+#3 d
+x  g
+x  f
+x  d
+b
+#2ddf  d
+x   f
+xddf
+x  g
+#2ddf  d
+x  g
+x  f
+x  d
+b
+
+b
+2ddf  d
+#3   f
+x  d
+#3  f
+x  d
+x  f
+x  g
+#2ddf  d
+x    a
+x    c
+x     d
+b
+#2abd a
+x d
+xa
+x    c
+#2    d
+x b
+x a a
+x  d
+b
+#2aac  a
+x b
+x a d
+x  d
+#2aacc
+x  d d
+x  da
+x  cc
+b
+#2acd a
+x    c
+x    e
+x   a
+#2aacc
+xf
+xe    a
+#3c
+xe
+b
+2f   a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#2acd a
+x  c
+x  d
+x a
+b
+b
+
+b
+2abd a
+#3    a
+x    c
+#3    d
+x   a
+x   c
+x   d
+#3a  c
+x   a
+x   c
+x   a
+#3   c
+x   a
+x    d
+x    c
+b
+#3a   a
+x    c
+x    d
+x   a
+#3   c
+x   a
+x   c
+x   d
+#3a  c
+x   a
+x    d
+x    c
+#3    a
+x    c
+x    d
+x    a
+b
+#3d    d
+x     c
+x     d
+x    a
+#3    c
+x    a
+x    c
+x    d
+#3d   c
+x    d
+x   a
+x    d
+#3    c
+x    a
+x     d
+x     c
+b
+
+b
+#3d    d
+x     c
+x     d
+x    a
+#3    c
+x    a
+x    c
+x    d
+#3d   c
+x    a
+x     d
+x    a
+#3    c
+x     d
+x    a
+x    c
+b
+2f   a
+#3    d
+x   a
+#3   c
+x   a
+x   c
+x   d
+#3f  c
+x   a
+x   c
+x   a
+#3   c
+x   a
+x    d
+x    c
+b
+#3f   a
+x    c
+x    d
+x   a
+#3   c
+x   a
+x    d
+x    c
+#3f   a
+x    c
+x    d
+x   a
+#3   c
+x   a
+x   c
+x   e
+b
+
+b
+#3e    a
+x     c
+x     e
+x    a
+#3    c
+x    a
+x    c
+x    d
+#3e   c
+x    d
+x   a
+x    d
+#3    c
+x    a
+x     e
+x     c
+b
+#3e    a
+x     c
+x     d
+x    a
+#3    c
+x    a
+x     e
+x     c
+#3e    a
+x     c
+x     e
+x    a
+#3    c
+x     d
+x    a
+x    c
+b
+#3a   d
+x    c
+x    d
+x   a
+#3    d
+x   a
+x   c
+x   d
+#3a  c
+x  a
+x  b
+x  a
+#3   c
+x   a
+x    d
+x    c
+b
+
+b
+#3a   d
+x    c
+x    d
+x   a
+#3   c
+x   a
+x   c
+x   d
+#3a  c
+x   a
+x    d
+x    c
+#3    a
+x    c
+x    d
+x    a
+b
+#3d    d
+x     c
+x     d
+x    a
+#3    c
+x    a
+x    c
+x    d
+#3d   c
+x    d
+x   a
+x    d
+#3    c
+x    a
+x     d
+x     c
+b
+#3d    d
+x     c
+x     d
+x    a
+#3    c
+x    a
+x    c
+x    d
+#3d   c
+x    a
+x     d
+x    a
+#3    c
+x     d
+x    a
+x    c
+b
+
+b
+#3f   a
+x    c
+x    d
+x   a
+#3   c
+x   a
+x    d
+x    c
+#3f   a
+x    c
+x    d
+x   a
+#3   c
+x   a
+x   c
+x   e
+b
+#3ea c
+x  a
+x  c
+x  d
+#3  c
+x  a
+x   c
+x   a
+#3e  c
+x   a
+x   c
+x   a
+#3   c
+x   a
+x    e
+x    c
+b
+#3f   a
+x    c
+x    d
+x   a
+#3   c
+x   a
+x   c
+x   e
+#3f  c
+x   a
+x    d
+x   a
+#3   c
+x    e
+x   a
+x   c
+b
+
+b
+2f   a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#2acd a
+x   c
+xf
+xh
+b
+b
+2i   a
+#3f
+xh
+#3i
+xh
+xi
+xh
+#3i
+xh
+xi
+xh
+#3i
+xh
+xf
+xh
+b
+2i   a
+#3f
+xh
+#3i
+xh
+xf
+xh
+2i   a
+#3f
+xh
+#3i
+xf
+xh
+xi
+b
+
+b
+2h  f
+#3 f
+x h
+#3 i
+xf
+xh
+xi
+2h
+#3 f
+x h
+#3 i
+xf
+xh
+xi
+b
+2h  f
+#3 f
+x h
+#3 i
+xf
+xh
+xi
+#3h
+xf
+x i
+x h
+#3a
+x d
+x b
+x a
+b
+2abd a
+#3  a
+x  c
+#3  d
+x a
+x b
+x d
+#3a
+xc
+xd
+xc
+#3a
+x d
+x b
+x a
+b
+
+b
+#3 b  a
+x a
+x b
+x d
+#3a
+x b
+x d
+xa
+#3c
+xa
+x e
+x c
+#3 f
+x e
+#4 f
+x e
+x c
+x e
+b
+#2aac  a
+xh
+x     a
+xi
+#2h    a
+xf
+xe
+x h
+b
+#2e    a
+xh
+x     a
+xf
+#2     a
+xd
+x     a
+xc
+b
+#2abb d
+xd
+x   c
+xc
+#2   a
+xa
+x    d
+x d
+b
+#2    c
+x b
+x    a
+x a
+#2     d
+x  d
+x   a
+x a
+b
+
+b
+#2 ab  d
+xd
+x   a
+xc
+#2    d
+xa
+x    c
+x d
+b
+#2 b  a
+xf
+x    c
+xd
+#2    d
+xc
+x   a
+xa
+b
+#2   c
+x b
+x   d
+x a
+#2   a
+x  d
+x   c
+x  c
+b
+2acd a
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+
+b
+2acd a
+#3 a
+x c
+#3 d
+x a
+x c
+x d
+#2acd a
+x  c
+x  d
+x a
+b
+b
+#3   ca
+xa
+x  d
+xa
+#3   ca
+xa
+x  d
+xa
+#3   ca
+xa
+x  d
+xa
+#3   ca
+xa
+x  d
+xa
+b
+#3   ca
+xa
+x  d
+xa
+#3   ca
+xa
+x  d
+xa
+#3   ca
+xa
+x  d
+xa
+#3   ca
+xa
+x  d
+xa
+b
+
+b
+#3    fd
+xd
+x  f
+xd
+#3    fd
+xd
+x  f
+xd
+#3    fd
+xd
+x  f
+xd
+#3    fd
+xd
+x  f
+xd
+b
+#3    fd
+xd
+x  f
+xd
+#3    fd
+xd
+x  f
+xd
+#3    fd
+xd
+x  f
+xd
+#3    fd
+xd
+x  f
+xd
+b
+#3    hf
+xf
+x  g
+xf
+#3    hf
+xf
+x  g
+xf
+#3    hf
+xf
+x  g
+xf
+#3    hf
+xf
+x  g
+xf
+b
+
+b
+#3    hf
+xf
+x  g
+xf
+#3    hf
+xf
+x  g
+xf
+#3    hf
+xf
+x  g
+xf
+#3    hf
+xf
+x  g
+xf
+b
+#3   gh
+xh
+x  f
+xh
+#3   gh
+xh
+x  f
+xh
+#3   gh
+xh
+x  f
+xh
+#3   gh
+xh
+x  f
+xh
+b
+#3   gh
+xh
+x  f
+xh
+#3   gh
+xh
+x  f
+xh
+#3   gh
+xh
+x  f
+xh
+#3    f
+xh
+x  f
+xh
+b
+
+b
+#3   fd
+xd
+x  g
+xd
+#3   fd
+xd
+x  g
+xd
+#3   fd
+xd
+x  g
+xd
+#3   fd
+xd
+x  g
+xd
+b
+#3   fd
+xd
+x  g
+xd
+#3   fd
+xd
+x  g
+xd
+#3   fd
+xd
+x  g
+xd
+#3   fd
+xd
+x  g
+xd
+b
+#3    fd
+xd
+x  f
+xd
+#3    fd
+xd
+x  f
+xd
+#3    fd
+xd
+x  f
+xd
+#3    fd
+xd
+x  f
+xd
+b
+
+b
+#3    fd
+xd
+x  f
+xd
+#3    fd
+xd
+x  f
+xd
+#3    fd
+xd
+x  f
+xd
+#3    fd
+xd
+x  f
+xd
+b
+#3   ca
+xa
+x  d
+xa
+#3   ca
+xa
+x b
+xa
+#3   a
+xb
+x  d
+xb
+#3   a
+xb
+x d
+xb
+b
+#3   c
+xa
+x a
+xa
+#3   d
+x d
+x  d
+x b
+#3   a
+x d
+x  d
+x d
+#3   c
+x a
+x  c
+x a
+b
+
+b
+2acd a
+#3c
+xe
+#3f
+xe
+xf
+xe
+#3f
+xe
+xf
+xe
+#3f
+xe
+xc
+xe
+b
+2f   a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#3  d
+x  c
+x  d
+x a
+#3 b
+x a
+x b
+x d
+b
+b
+#2abd a
+x d
+xa
+x   c
+#2   d
+x  da
+#3   c
+x  d
+2  c
+b
+#2abd a
+xd
+#3c  a
+xd
+2a   d
+#3 d  c
+xa
+2 b  a
+#3 a   d
+x b
+2  da
+b
+
+b
+#2 ab  d
+x   a
+x ab
+x b
+2 da c
+#3  b
+x d
+2 b  a
+#3  d
+x b
+b
+#2 ab  d
+x  d
+x  b
+x   d
+#3   c
+xd
+2b  a
+#3a   d
+xb
+2 d  c
+b
+#2abd a
+x    c
+x    d
+x   a
+2aacc
+#3    d
+x  d
+#3   a
+x  d
+2  cc
+b
+#2abd a
+xf
+#3  f
+xf
+2d
+#2c d
+xa b
+#3  a
+x f
+2 e
+b
+
+b
+#2aac  a
+x   c
+xaac
+x b c
+#3   a
+x a
+2  d d
+#3    c
+x  c
+2  a a
+b
+2aac  a
+#3   c
+x  a
+#3  c
+x  a
+x  c
+x  d
+#2 a a
+x  b c
+x  d a
+x a a
+b
+#3ab  d
+x d
+xa
+xb
+#2d
+x   a
+#2   c
+xb  a
+xa   d
+x d  c
+b
+#2ab  d
+xd
+#3c  a
+xd
+2a   d
+#3 d  c
+xa
+2 b  a
+#3 a   d
+x b
+2  da
+b
+
+b
+#2 ab  d
+x   a
+x ab
+x b
+#2 da c
+x  b
+x b  a
+#3  d
+x b
+b
+#2 ab  d
+x  d
+x  b
+x   d
+#3   c
+xd
+2b  a
+#3a   d
+xb
+2 d  c
+b
+#2 bd a
+xf
+#3  f
+xf
+2d
+#2c d
+xa b
+#3  a
+x f
+2 e
+b
+#2aac  a
+xh
+#3  h
+xh
+2f
+#2e f
+xf
+#3  f
+xf
+2e
+b
+
+b
+#2c d
+xa b
+#3  a
+x d
+2 c c
+#2 a a
+x  d e
+#3    c
+x  d
+2  c
+b
+2acd a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#2acd a
+x  c
+x  d
+x a
+b
+b
+#2abd a
+xd
+#3c
+xd
+2a
+#3 d
+xa
+2 b
+#3 a
+x b
+2 d
+b
+#2abd a
+x  b
+#3  a
+x  b
+2   c
+#3   a
+x   c
+2    d
+#3    c
+x    d
+2    a
+b
+
+b
+#2     d
+x d
+#3 c
+x d
+2 a
+#3  d
+x a
+2  b
+#3  a
+x  b
+2  d
+b
+#2 ab  d
+x   a
+#3    d
+x   a
+2    c
+#3    a
+x    c
+2     d
+#3    c
+x    d
+2    c
+b
+#2    a
+xd
+#3c
+xd
+2a
+#3 d
+xa
+2 b
+#3 a
+x b
+2 d
+b
+#2abd a
+x  b
+#3  a
+x  b
+2   c
+#3   a
+x   c
+2    d
+#3    c
+x    d
+2    a
+b
+
+b
+#2     a
+xi
+#3h
+xi
+2f
+#3 i
+xf
+2h
+#3c
+xe
+2f
+b
+#2e    a
+xi
+#3h
+xi
+xf
+xh
+#3 i
+xf
+x g
+x i
+#3a
+xb
+x d
+xa
+b
+#2    d
+xd
+#3c
+xd
+xa
+xc
+#3 d
+xa
+x b
+x d
+#3 a
+x b
+x  d
+x a
+b
+
+b
+#2    d
+x  b
+#3  a
+x  b
+x   c
+x  a
+#3   a
+x   c
+x    d
+x   a
+#3    c
+x    d
+x    a
+x    c
+b
+#2     d
+x d
+#3 c
+x d
+x a
+x c
+#3  d
+x a
+x  b
+x  d
+#3  a
+x  b
+x   c
+x  a
+b
+#2     d
+x   a
+#3    d
+x   a
+x    c
+x    d
+#3    a
+x    c
+x     d
+x    a
+#3     c
+x     d
+x    a
+x    c
+b
+
+b
+#2    a
+xd
+#3c
+xd
+xa
+xc
+#3 d
+xa
+x b
+x d
+#3 a
+x b
+x  d
+x a
+b
+#2  c  a
+x   c
+#3   a
+x   c
+x    d
+x   a
+#3    c
+x    d
+x    a
+x    c
+#3     d
+x    a
+x    c
+x     d
+b
+#2    a
+xf
+#3e
+xf
+xc
+xe
+#3a
+xc
+x d
+xa
+#3 c
+x d
+x a
+x d
+b
+
+b
+#2    a
+x  d
+#3  c
+x  d
+x  a
+x  c
+#3   c
+x  a
+x   a
+x   c
+#3    e
+x   a
+x    c
+x    e
+b
+b
+2    a
+#3f
+xd
+#3c
+xa
+x d
+x b
+#3 a
+x  d
+x  b
+x  a
+#3   c
+x   a
+x    d
+x    c
+b
+#3a   a
+x    c
+x    d
+x   a
+#3   c
+x  a
+x  b
+x  d
+#3 a
+x b
+x d
+xa
+#3c
+xd
+xf
+xc
+b
+
+b
+2ddf  d
+#3   f
+x  d
+#3  f
+x  g
+x d
+x f
+#3 g
+x d
+x f
+x h
+#3d
+x h
+xd
+xf
+b
+2hd f d
+#3f
+xd
+#3 h
+x f
+x d
+x  h
+#3 a
+x  d
+x  b
+x  a
+#3   c
+x   a
+x    d
+x    c
+b
+#3a   a
+x    c
+x    d
+x   a
+#3   c
+x  a
+x  b
+x  d
+#3 a
+x b
+x d
+xa
+#3c
+xd
+xf
+xh
+b
+
+b
+#3i
+xh
+xf
+x i
+#3f
+x i
+x h
+xa
+#3c
+xa
+x e
+x c
+#3 f
+x e
+#4 f
+x e
+x c
+x e
+b
+2.aac  a
+3 d
+#3 c
+x a
+x  d
+x  c
+#3  a
+x   c
+x   a
+x    d
+#3    c
+x    a
+x     e
+x     c
+b
+#3a    a
+x     c
+x     e
+x    a
+#3    c
+x    d
+x   a
+x   c
+#3  a
+x  b
+x  d
+x a
+#3 b
+x d
+xa
+x d
+b
+
+b
+#3ab  d
+x a
+x b
+x d
+#3a
+xc
+xd
+xf
+#3h
+xf
+x i
+x h
+#3a
+x d
+x b
+x a
+b
+#3a   d
+x    c
+x    d
+x   a
+#3   c
+x  a
+x  b
+x  d
+#3 a
+x b
+x d
+xa
+#3c
+xd
+xf
+xc
+b
+2ddf  d
+#3   f
+x  d
+#3  f
+x  g
+x d
+x f
+#3 h
+x d
+x f
+x h
+#3d
+x h
+xd
+xf
+b
+
+b
+2hd f d
+#3f
+xd
+#3 h
+x f
+x d
+x  h
+#3 a
+x  d
+x  b
+x  a
+#3   c
+x   a
+x    d
+x    c
+b
+#3a   a
+x    c
+x    d
+x   a
+#3   c
+x  a
+x  b
+x  d
+#3 a
+x b
+x d
+xa
+#3c
+xe
+xf
+xc
+b
+#3e    a
+xf
+xh
+xk
+#3l
+xk
+xh
+x l
+#3h
+x l
+x k
+x h
+#3 l
+x k
+#4 l
+x k
+x h
+x k
+b
+
+b
+2f   a
+#3e
+xf
+#3h
+xf
+xe
+x h
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+2acd a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#2acd a
+x  c
+x  d
+x a
+b
+b
+#2 bd
+x  c
+x  d
+x a
+#2ab
+x a
+x  d
+x  c
+b
+#2a d
+x  c
+x  d
+x a
+#2ab
+x  d
+x a
+x b
+b
+#2d b
+x  d
+x a
+x b
+#2dd
+x b
+x a
+x  d
+b
+
+b
+#2d b
+x  d
+x  b
+x  a
+#2d b
+x   c
+x  a
+x  b
+b
+#2a d
+x  c
+x  d
+x a
+#2ab
+x a
+x  d
+x  c
+b
+#2a d
+x  c
+x  d
+x a
+#2ab
+x a
+x b
+x d
+b
+#2ef
+x b
+x d
+x b
+#2ea
+x  d
+x  c
+x  a
+b
+#2e  c
+x  a
+x  c
+x  a
+#2e  c
+x   a
+x    d
+x    c
+b
+
+b
+#2i    i
+x     h
+x     i
+x    f
+#2i   h
+x    f
+x     i
+x     h
+b
+#2i    i
+x     h
+x     i
+x    f
+#2i   h
+x    f
+x    h
+x    k
+b
+#2h  f
+x   h
+x  f
+x  g
+#2h i
+x  g
+x  f
+x   h
+b
+#2h  f
+x   h
+x   f
+x    i
+#2h   h
+x   a
+x    d
+x    c
+b
+#2f   a
+x    c
+x    d
+x   a
+#2f  c
+x   a
+x   c
+x   e
+b
+
+b
+#2e  c
+x   d
+x   c
+x   a
+#2e  c
+x    d
+x   a
+x   c
+b
+#2f   a
+x    c
+x    d
+x   a
+#2f  c
+x   a
+x    e
+x    c
+b
+2    a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#2 c
+x    a
+xf
+xh
+b
+b
+2i   a
+#3f
+xh
+#3i
+xh
+#4i
+xh
+xf
+xh
+2i   a
+#3c
+xe
+#3f
+xe
+#4f
+xe
+xc
+xe
+b
+
+b
+2f   a
+#3a
+xc
+#3d
+xc
+#4d
+xc
+xa
+xc
+2d    a
+#3c
+xa
+#3 d
+x b
+#4 d
+x b
+x a
+x  d
+b
+2 ab  d
+#3c
+xd
+#3f
+xd
+#4f
+xd
+xc
+xa
+#3b
+xa
+#4b
+xa
+x d
+x b
+#3 d
+x b
+#4 d
+x b
+x a
+x  d
+b
+2 ab  d
+#3a
+xc
+#3d
+xc
+#4d
+xc
+xa
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x b
+x a
+b
+
+b
+2abd a
+#3  a
+x  c
+#3  d
+x a
+x b
+x d
+#3a
+xc
+xd
+xc
+#3a
+x d
+#4a
+x d
+x b
+x a
+b
+2abd a
+#3c
+xd
+#3f
+xd
+#4f
+xd
+xc
+xa
+#3c
+xa
+#4c
+xa
+x e
+x c
+#3 f
+x e
+#4 f
+x e
+x c
+x e
+b
+2aac  a
+#3e
+xf
+#3h
+xf
+#4h
+xf
+xe
+xf
+2h    a
+#3 c
+x e
+#3 f
+x e
+#4 f
+x e
+x c
+x e
+b
+
+b
+2aac  a
+#3e
+xf
+#3h
+xf
+#4h
+xf
+xe
+xf
+2h    a
+#3a
+xc
+#3d
+xc
+#4d
+xc
+xa
+x d
+b
+2abb d
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+#3d  c
+xc
+xa
+xd
+#3b  a
+xa
+x d
+xb
+b
+#3a   d
+x b
+x d
+xa
+#3 d  c
+x b
+x a
+x d
+#3 b  a
+x a
+x  d
+x b
+#3 a a
+x  d
+x  b
+x  a
+b
+
+b
+2 ab  d
+#3   a
+x  a
+#3  b
+x  d
+x a
+x b
+#3 d  c
+x b
+x a
+x d
+#3 b  a
+x a
+x  d
+x b
+b
+#3 a   d
+x  d
+x  b
+x a
+#3  d  c
+x  b
+x  a
+x  d
+#3  b  a
+x  a
+x   c
+x  a
+#3  b  a
+x  d
+x a
+x d
+b
+#3 b  a
+x a
+x b
+x d
+#3a
+xc
+xd
+xa
+#3b  a
+xa
+x d
+x b
+#3 a
+x  d
+x  c
+x  a
+b
+
+b
+2aac  a
+#3c
+xe
+#2f dd
+x   a
+2f fc
+#3e
+xc
+#4f
+xe
+xf
+xe
+#4f
+xe
+xc
+xe
+b
+2.f   a
+3d
+#3c
+xa
+x d
+x c
+#3 a
+x  d
+x  c
+x  a
+#3   c
+x   a
+x    d
+x    c
+b
+#2    a
+xacd
+x   c
+x d
+Yacd a
+b
+b
+
+e

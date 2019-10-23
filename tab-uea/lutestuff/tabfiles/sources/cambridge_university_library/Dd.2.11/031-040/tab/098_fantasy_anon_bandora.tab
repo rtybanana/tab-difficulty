@@ -1,0 +1,236 @@
+-C
+-t
+-f
+{98. Fantasy/Anonymous}
+b
+c
+0   a
+1  c d
+1   a
+b
+1  ab
+1  c
+1  da
+#2  c
+x  a
+b
+1 dca
+1   b
+1 bcd
+#2 d b
+x   a
+b
+1 ed d
+1  c
+1 dd b
+#2  c
+x  a
+b
+1b ca
+1  d
+1ab  d
+1b
+b
+1d db
+1 b
+1dd a
+#2c
+xa
+b
+#2cdca
+xa
+xc
+xd
+1f f
+1  h
+b
+
+b
+1de
+1f
+1gd
+1f
+b
+1 b
+1b
+1d df
+1bdca
+b
+#2 d
+xa
+xb  a
+xd
+1f f d
+#2   a
+xd d
+b
+#2d cb
+x  a
+1bd a
+#2db
+x  d
+1f c
+b
+1bd
+#2g  f
+x   h
+#2   i
+x  f
+1fd
+b
+1   a
+1f cd
+#2daa
+xb
+1acc
+b
+1b cd
+#2  d
+xa
+1 d
+1adc
+b
+
+b
+1 c
+1 dca
+1  c
+1 d
+b
+#2   a
+x b
+1ddd
+1     a
+1bdd b
+b
+1 ea d
+#2   a
+x dc
+1 dddb
+1 dab
+b
+1 b
+1 dca
+1   a
+1 bc   d
+b
+1  da a
+#2    a
+x  c
+1  c a d
+#2    b
+x  a
+b
+1  a
+1  ffa
+1   e
+1  da a
+b
+1 d
+1bdca
+#2d  cd
+x    b
+1f f a
+b
+1bdca
+1gd f a
+1    f
+1fd df
+b
+
+b
+1d a
+1c ca
+1f cd
+#2  db{
+xd
+b
+1d
+1d ca
+1b
+#2a c d
+x  a
+b
+1 da b
+1  ffa
+1   e
+1  aa a
+b
+#2   a
+x b  a
+1 dd b
+1a c d
+1c ca
+b
+1d ab
+#2d ca
+x  a
+1c c
+1ddd  a
+b
+1 d
+1 d    a
+1  d
+1ab
+b
+1bd
+1de
+#2b
+xa
+1bd
+b
+1bdca
+1bdca
+1bdd b
+1 ea d
+b
+
+b
+1 d df
+1 dab
+1 b
+1 dca
+b
+#2f
+x  f
+1f ca
+1b d
+#2d   d
+x  c
+b
+1  a b
+1f   a
+1   e
+1gd f a
+b
+#2   f
+xf
+1ddd
+#2b
+x bc
+x ea
+x d
+b
+1 dcd
+1 dab
+1 b
+1  da
+b
+#2 d
+x    d
+1 d  b
+#2    a
+x b
+1  da a
+b
+1  ca  e
+#2  da a
+x d
+1ddd  a
+1cdca
+b
+Ycdc   a
+b
+b
+
+e

@@ -1,0 +1,125 @@
+-C
+-t
+-f
+{9. Le petit gentilhomme/9. Le petit gentilhomme}
+b
+0abb d
+1abb
+b
+0 dba d
+1 dba
+b
+0 bdd
+1 ddd
+b
+0aacc
+1  d a
+b
+1.abb d&{
+2b    }
+1a   d
+b
+1. dba d&{
+2a     }
+1 d   d
+b
+
+b
+0 bdd
+1 ddd
+b
+0aacc
+1  d a
+b
+0abb d
+1abb
+b
+0 db  d
+1 dba d
+b
+0 bd a
+1 acc a
+b
+0  d a
+1 aba d
+b
+0 bdd b
+1 ddd b
+b
+0aac  a
+1  d a
+b
+
+b
+1.abb d&{
+2b    }
+1a   d
+b
+1. dba d&{
+2a     }
+1 d   d
+b
+0 bd a
+1 acc a
+b
+1.  d a
+2 a
+1 b  a
+b
+1.aac  a
+2  d
+1aac  a
+b
+0 cd a
+1   c
+b
+0abb d
+1abb d
+b
+
+b
+0 db c
+1 dba d
+b
+0 bd a
+1 acc a
+b
+0  d a
+1 aba d
+b
+0 bdd b
+1 ddd b
+b
+0aac  a
+1  d a
+b
+1.abb d&{
+2b    }
+1a   d
+b
+1. db c&{
+2a
+1 d  c}
+b
+
+b
+0 bd a
+1 acc a
+b
+1.  d a
+2 a
+1 b  a
+b
+#2aac  a
+x  a
+#2  c
+x  d
+1aac  a
+b
+0 cd a
+1   c
+.
+b
+b
+
+e

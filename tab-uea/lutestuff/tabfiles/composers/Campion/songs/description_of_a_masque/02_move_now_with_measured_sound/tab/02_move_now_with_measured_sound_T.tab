@@ -1,0 +1,130 @@
+-C
+-t
+-f
+{Move now with measured sound/Move now with measured sound}
+b
+c
+1 acc
+b
+1 acc
+1 c ce
+1 aab
+#2  cc
+x c
+b
+0. ef c
+#2 ef c
+xa
+b
+1cca
+1ca b
+1aa c
+#2 a  c
+x e
+b
+0.aacc
+1 acc
+b
+1 acc
+1 c ce
+1 aab
+#2  cc
+x c
+b
+0. ef c
+#2 ef c
+xa
+b
+1cca
+1ca b
+1aa c
+#2  f c
+x e
+b
+0.aacc
+#2aa c
+xc
+b
+
+b
+1ea c
+1ff  e
+1cd a
+1aa c
+b
+1acd a
+#2c
+xe
+1f
+1ac  e
+b
+1acd a
+1ccd  c
+1c c e
+1b
+b
+0.cce  c
+1aa c
+b
+1aa c
+1ca b
+1ea c
+1a
+b
+1ca  c
+1ea   a
+1c d  c
+1cef c
+b
+1aa c e
+1     a
+1 f ec
+#2 e
+x  d
+b
+0.aac  a
+#2aa c
+xc
+b
+1ea c
+1ff  e
+1cd a
+1aa c
+b
+
+b
+1acd a
+#2c
+xe
+1f
+1ac  e
+b
+1acd a
+1ccd  c
+1c c e
+1b
+b
+0.cce  c
+1aa c
+b
+1aa c
+1ca b
+1ea c
+1a
+b
+1ca  c
+1ea   a
+1c d  c
+1cef c
+b
+1aa c e
+1     a
+1 f ec
+#2 e
+x  d
+b
+0.aac  a
+b
+b
+
+e

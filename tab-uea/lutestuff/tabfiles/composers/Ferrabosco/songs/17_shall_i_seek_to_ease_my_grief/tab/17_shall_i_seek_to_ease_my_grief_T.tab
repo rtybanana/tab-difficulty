@@ -1,0 +1,110 @@
+-C
+-t
+-f
+{/Alfonso Ferrabosco}
+b
+c
+1.a  c
+2  a
+0 db
+b
+1     d
+1 a c
+#2a  ca
+x  a
+x db c
+x    d
+b
+0 daa
+0  abc
+b
+1
+0   ce
+1 aab
+b
+1. abc
+2   a
+1 a cd
+1  d
+b
+0 aabc
+0 aa c
+b
+1. da c
+2  c
+1 cd a
+1  fec
+b
+1  fe
+#2  e
+x   c
+#2 aaa
+x    e
+x  a c
+x    a
+0 aba d
+b
+
+b
+c
+1  bcd
+1  bac
+1 daa
+1  b
+b
+1 dba
+1  a
+0 ab  d
+b
+.
+1.  bcd
+2    c
+0  dca
+b
+1.  cc
+2   a
+1  bcd
+1  d
+b
+#2    c
+x  b
+1  bcd
+1  b a
+1  a
+b
+0  bacd
+0 ab  d
+b
+1  a a
+1   c
+1  b c
+1  a
+#2 aa c
+x   c
+1  bc
+b
+A1
+1 aabc
+1   c
+1 aacc
+1   b
+0 acc a
+.
+b
+b
+A2
+c
+1 aabc
+1   c
+1 aacc
+1   b
+b
+
+b
+A1
+A2
+w acc a
+b
+b
+
+e

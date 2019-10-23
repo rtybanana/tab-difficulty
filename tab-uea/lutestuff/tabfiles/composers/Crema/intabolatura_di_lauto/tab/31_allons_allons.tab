@@ -1,0 +1,317 @@
+-C
+-t
+-f
+{31. Allons allons/31. Allons allons}
+b
+c
+0  d
+1f d
+#2   a
+xf d
+b
+1dab
+1fb d
+1bd a
+2   d
+#3a
+x d
+b
+#2aab
+x d
+x dff
+x   d
+#2da c
+x c
+x d
+xa
+b
+#2b da
+xa   d
+x d  c
+x b  a
+1 db c
+1 ab  d
+b
+1 cd a
+#2f
+x b
+1da c
+#2f dd
+xd
+b
+
+b
+#2b da
+x  b
+x  d
+x a
+#2ab
+x d
+xa
+xb
+b
+#2da   d
+x    a
+x    c
+x    d
+#2   a
+xb d
+xa bc
+x d
+b
+#2 bdd
+x d
+xa b d
+xb
+#2a
+x d
+1 dddf
+b
+2  dca
+#3 c
+x a
+#2 d
+x c
+1 d a
+1  d
+b
+1 db
+#2  b
+x  b
+1 bd
+#2 bd
+x b
+b
+#2 db
+x b
+x d d
+x   a
+#2 b c
+x   d
+x ab
+x   c
+b
+
+b
+#2b dd
+x ab
+xb d
+xb d
+1da
+1ac
+b
+2bd
+#3a
+x d
+#2ac
+xac
+#2 d
+xa
+xb
+x d
+b
+#2a   d
+xb
+xd   d
+x    d
+#2 dddf
+x f
+x gddf
+x   d
+b
+#2a b d
+x d
+1 db c
+2 d da
+#3   c
+x   a
+#2 d ca
+x c
+b
+2. dda
+3a
+2b
+#3a
+x d
+#2abd
+x d
+xabd
+x df
+b
+
+b
+1abd
+#2  d
+x  d
+1 df
+1   f
+b
+1f d
+#2f  d
+xf
+#2f g
+x  g
+1hd
+b
+1df
+#2fb d
+xd
+1bd a
+#2aab
+x d
+b
+#2da c
+x    d
+xb da
+x  b
+1   d
+1ab  d
+b
+#2 db
+x a
+x b
+x d
+#2 bd
+x  b
+x  d d
+x a
+b
+#2 bdd
+x a
+x bdd
+x d
+#2abb d
+x   a
+x   c
+x    d
+b
+
+b
+#2  ddf
+x   c
+1f  a
+#2   cd
+xd
+1b  a
+b
+1a b  d
+#2 d
+x    c
+2 ddca
+#3 c
+x a
+1 c c
+b
+1 dda
+1  b
+1 dddf
+#2   df
+x   df
+b
+1  b d
+1 db c
+1 bb a
+1 ba a
+b
+#2 aba d
+x  d
+x a
+x b
+#2 dddf
+x  f
+x  ddf
+x a df
+b
+1 bb d
+1 db c
+1 d da
+1 c ca
+b
+
+b
+2 d a
+#3 a
+x c
+#2 d
+x   c
+#2fd d
+x d f
+x   d
+xfbd
+b
+#2dab
+xa
+xb da
+#3a
+x d
+#2a d
+x a
+x b
+xbd
+b
+1df
+1fg
+#2  d
+xa
+xb d
+x  d
+b
+1abd
+1 de
+2adb
+#3 c
+x a
+1 cd
+.
+b
+#2 d a
+xa
+xb d
+xd
+#2f dd
+x  d
+xf dd
+x   d
+b
+1fb d
+#2gd f
+xf
+#2da c
+x  b
+xf dd
+xd
+b
+
+b
+#2bd a
+x b
+xaab
+x ddd
+#2da c
+x  b
+xb da
+xab  d
+b
+#2 db
+x a
+x b  d
+x d
+#2 bdd
+x ddd
+xa bc
+xa d d
+b
+#2  ddf
+x a
+x b ca
+x d ac
+#2a b d
+x db  d
+x d da
+x c c
+b
+0 dda
+b
+b
+
+e

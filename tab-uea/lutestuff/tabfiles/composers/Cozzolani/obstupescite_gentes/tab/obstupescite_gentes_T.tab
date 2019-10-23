@@ -1,0 +1,441 @@
+-C
+-t
+-f
+{Obstupescite, gentes/Obstupescite, gentes}
+b
+wacd a
+0      ///a
+b
+w      ///a
+0a d e
+b
+waacc
+0 a c e
+b
+w cd a
+0 ac  a
+b
+w acc
+0 dc c
+b
+wa d e
+0aa   e
+b
+wacd a
+0aac  a
+b
+w.ea c
+b
+w.acd
+b
+w.ccde
+b
+w.cef
+b
+
+b
+w.cef c
+b
+w.cef   //a
+b
+w.ea   a
+b
+w.aac   6
+b
+b
+C
+0. cdca
+1a d e
+b
+0aacc
+0     a
+b
+w cdca
+b
+b
+wacd
+0aac
+b
+wccde
+0   c
+b
+wcdda
+0cd  c
+b
+wacc e
+0a d
+b
+0acd a
+0    c
+0a d e
+b
+
+b
+wcdda
+0      a
+b
+0ce  c
+0    e
+0ca b
+b
+wea c
+0     a
+b
+wfcd a
+0cd  c
+b
+wa c e
+0ca b
+b
+w.ea c
+b
+wfcd
+0ec d
+b
+wfca
+0acc e
+b
+b
+C
+0ccaa
+0 a
+b
+wb c e
+b
+wbcc   /a
+b
+
+b
+0b d e
+0cdda
+b
+wec de
+b
+wfcd a
+b
+wacd   ///a
+b
+b
+0a c e
+0caaa
+0aacc
+b
+wacd a
+0acc e
+b
+wcaaa
+0aacc
+b
+wacd a
+0    a
+b
+w cd  c
+0 cd  c
+b
+w da c
+0 aaa
+b
+w ccde
+0 \2c&{a b
+b
+
+b
+w dc\3ec
+0 ccd\3e
+b
+w. cde c
+b
+b
+C
+0ccee
+0ce  c
+b
+0.ea c
+1ec d
+b
+0fca
+0ge f
+b
+0he g
+0aac
+b
+0acd
+1c
+1 cde
+b
+0efg
+0 egg e
+b
+wa c e
+b
+wec d  /a
+b
+0ec de
+0      /a
+b
+
+b
+0ec d
+0cc&Uee
+b
+0ccee
+0cca b
+b
+1 ea c
+1 ec ca
+1 cf  c
+1  e
+b
+w aabc
+b
+w aab  //a
+b
+0 aa c b
+0      b
+b
+0 accca
+0      6
+b
+0aac  a
+1 ed  c
+1aa   e
+b
+1 cdca
+1 a c e
+1 aacc
+1   b  //a
+b
+0 acc a
+0   c
+b
+
+b
+0ea c
+1c d
+1   b
+b
+0aacc
+0     a
+b
+0acc   /a
+0 efe  //a
+b
+0 a b e
+0  eeec
+b
+0ccde
+1cdf
+1aac
+b
+1acd
+1ccde
+#2ca a
+xa d e
+1aacc
+b
+0acd a
+1 da c
+1aa   e
+b
+1acd a
+1a d e
+1cdda
+1ce  c
+b
+
+b
+1a c e
+#2cc  a
+xaa   e
+#2cf  c
+x e
+1aac  a
+b
+0ea c
+1ccde
+1ca a
+b
+1accc
+1a c e
+1caaa
+1 dc c
+b
+1a c e
+1acd a
+1 da c
+1aa   e
+b
+1acd a
+1 cd  c
+1.a d   /a
+2      a
+b
+0.aad  a
+1  c
+b
+wacd   ///a
+b
+b
+wccde
+0aac
+b
+0ccd
+wec d
+b
+
+b
+0fca
+0ed  c
+0baca
+b
+wccd  c
+0     c
+b
+wccd  c
+0aa   e
+b
+wacd a
+0 dc c
+b
+wa d e
+0 daa
+b
+w cdc
+1 adc a
+1  c
+b
+w cdca
+0    a
+b
+w.acd
+b
+w.aac
+b
+wa de
+0 e
+b
+w.aacc
+b
+
+b
+wca b
+0ea c
+b
+w.aa   e
+b
+wcf  c
+0 e    //a
+b
+w.aac  a
+b
+waac
+0   c
+b
+wacd
+0  de
+b
+waac
+0   c
+b
+wacd
+0aac
+b
+wa de
+0 ede
+b
+waacc
+0 ccc
+b
+w. da c
+b
+w.acd a
+b
+
+b
+w.aa   e
+b
+w.ccd  c
+b
+0a d e
+wc da
+b
+waadc
+0  c
+b
+w. cd a
+b
+w.aacc
+b
+w.cdda
+b
+w.a c e
+b
+w. da c
+b
+w. cdca
+b
+w. ea c
+b
+w.aac  a
+b
+w da c
+0  c
+b
+w. cdca
+b
+
+b
+w. a c e
+b
+w. cde c
+b
+w. acc a
+b
+w. da a a
+b
+w. cdca
+b
+0 cd  c
+w da   a
+b
+w. acc a
+b
+Y. cdc  ///a
+b
+b
+C
+wcce  c
+b
+0cef c
+0 egg e
+b
+0b c e
+0b c e
+b
+0cca b
+0cef c
+b
+0aa   e
+1acd a
+1a d e
+b
+
+b
+1c da
+1ca b
+0ea c
+b
+0fcd a
+0      ///a
+b
+0cdda
+0a d e
+b
+0aad"+c
+0  c  a
+b
+Yacdca
+b
+b
+
+e

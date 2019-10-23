@@ -1,0 +1,491 @@
+-t
+-f
+{Panis quam ego/Panis quam ego}
+b
+C
+0    a
+1    a
+1    a
+b
+1    ef
+#2    a
+x   a
+#2   c d
+x  a
+1   c a
+b
+1   ca
+#2   a
+x    e
+1    cd
+1    ef
+b
+#2  d
+x    cd
+x     c
+x     a
+1  d  c
+1  da
+b
+
+b
+1  bc a
+1   ca
+#2  dc
+x    c
+x    e
+x   a
+b
+1  bc
+1  de
+#2  d
+x  bc
+1   ce
+b
+1  def
+#2  d
+x    e
+1 cdca
+#2  d
+x d
+b
+#2a b
+xc
+1a  c
+1  d
+#2 d
+x c
+b
+1 ab
+1 cd
+#2  d
+x ab
+xa a
+x   c
+b
+
+b
+1a de
+1 ed
+1a bc
+1   c
+b
+1a bc
+1   c
+1  aa
+1   ac
+b
+0  def
+1a dca
+1  d
+b
+1a bc
+1a  c
+1 db
+#2 a
+x  a
+b
+1 d a
+#2  a
+x c
+#2  d
+x   c
+1 cd
+b
+1 a c
+#2  b
+x  a
+1 abc
+1   c
+b
+
+b
+1 aaa
+1 aa c
+1  def
+#2  a
+x    e
+b
+1  d a
+1    e
+1  da
+1  bc
+b
+1  de
+1  da
+1  bc
+1   ce
+b
+1  b ca
+#2  a
+x  bc
+1  aa
+1    c
+b
+1  de
+1  da
+1  bc
+#2  bc
+x  a
+b
+#2  bc
+x  d
+x a c
+x c c
+1 ddef
+#2 a  c
+xa
+b
+
+b
+#2c def
+xd
+xc a
+x    e
+#2  d a
+xa b
+x   ce
+x  d
+b
+1aaa c
+1 e
+0aa c a
+b
+1a  c
+1    a
+1a
+1   ca
+b
+#2a  ce
+x   a
+x   c
+x    e
+#2  aa
+x   ce
+x  dc
+x   a
+b
+1  dc
+1  c
+1  def
+1   c
+b
+
+b
+#2  def
+x   c
+x  de
+x  b
+#2 cd
+x da
+xaab
+x cd
+b
+#2 dff
+x c
+x a
+x  d
+1 aa
+1  b  a
+b
+1  d  c
+1  aaa
+#2  dcef
+x    c
+x    e
+x   ac
+b
+1  dce
+#2  aa
+x   c
+#2  de
+x  b
+1  dce
+b
+1  de
+#2 abac
+x   c
+#2 ca a
+x  b
+x  d
+x a
+b
+
+b
+#2 cdc
+x d
+1a b
+1  a
+1 e  c
+b
+1a  c
+1 c  a
+1 a c
+#2a   a
+x  a
+b
+#2  bc
+x d
+0 cdc
+1  b  a
+b
+1  deec
+1   ac
+1   ca
+#2    e
+x    c
+b
+1a dca
+#2  da
+x   c
+#2 aa
+x  b
+1  dce
+b
+1 dd c
+1  ba
+1 cd a
+1  da
+b
+
+b
+1 cdce
+1  d a
+1 a c
+#2  b
+x  a
+b
+1 ab
+1     a
+1 a
+1   c a
+b
+1   ca
+#2   a
+x    e
+1    cd
+1   cef
+b
+#2   c a
+x    c
+1   c d
+1  d  c
+1   a
+b
+1  b  a
+#2  dca
+x    c
+#2   ce
+x   a
+1  bc
+b
+1  de
+1   a
+1  bc
+#2  d a
+x   a
+b
+
+b
+#2   cef
+x    c
+1  bc d
+#2  a a
+x    e
+1 aaac
+b
+1 a c a
+1 ab c
+1a b d
+#2  a
+x   c
+b
+#2 d  c
+x  a
+1a bc
+#2 a
+x  a
+1 dfa
+b
+1 c c
+1  de
+1 ab
+#2 da c
+x   c
+b
+#2 a ac
+x c
+x a  c
+x  d
+1. a c
+2   c
+b
+
+b
+1  aa
+1 abc
+1   ac
+1 aaa
+b
+1a bcd
+1  d
+1 dfec
+1    c
+b
+1 db cd
+1 cd a
+#2 a ac
+x   c
+1  dcd
+b
+1 aa c
+1   a
+0 abc a
+b
+1 aaa
+1  bc
+#2 a  c
+x   c
+1  aa
+b
+1 aa c
+1  bc
+1 aaa
+1  bac
+b
+
+b
+1  bcd
+1a d
+1 aa c
+1 e
+b
+1 ab
+1aa c
+1 dff
+1 a
+b
+1 cd
+1  d
+1 ab
+#2  bc
+x  a
+b
+1  bc
+1  def
+1 abc
+#2   c
+x    e
+b
+1c aac
+1   a
+1d  c a
+#2  b
+x   b
+b
+1a  c
+1 dde
+1da c a
+1 c
+b
+
+b
+#2cd ac
+x c
+x a
+x  d
+1  bcd
+#2 b
+x   ac
+b
+#2   ca
+x aa
+1 ab  d
+1    d
+#2  de
+x   c
+b
+1 ab c
+1 aa
+1ca  c
+1   a
+b
+1d  c
+#2  b
+x   b
+1a dc
+1 dff
+b
+1d  c
+1     a
+1caa c
+1 df
+b
+1a b d
+#2  bcc
+x d
+1 cdea
+1 ab  d
+b
+
+b
+#2   cd
+x  a
+1  dc
+1 ab c
+#2  da
+x    e
+b
+0 aaac
+1 a c
+1  bc
+b
+1 abcc
+1  aa
+1 abc
+#2 a c
+x    e
+b
+1 aa c
+1  da
+#2   cd
+x  b
+1a  c
+b
+1a a c
+1 e
+1a d
+#2  bc
+x d
+b
+#2 a c
+x  a
+1 dfa
+1 c c
+1  de
+b
+
+b
+1 ab c
+1c aa
+1d  cd
+1a bc
+b
+1c  cc
+1  aa
+1 abc
+#2 a c
+x c  e
+b
+#2 dfec
+xa
+1c da
+1a b d
+#2  b c
+x  d
+b
+waa c a
+b
+b
+
+e

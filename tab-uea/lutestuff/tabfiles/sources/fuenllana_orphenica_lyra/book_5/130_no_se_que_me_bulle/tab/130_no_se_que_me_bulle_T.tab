@@ -1,0 +1,343 @@
+-C
+-t
+-f
+{130. No se que me bulle/Miguel de Fuenllana}
+b
+c
+0.   c
+1   c
+b
+0 a c
+1   c
+1 a
+b
+0 a a
+1 a
+1   a
+b
+0  da
+1   a
+1  d
+b
+0a d d
+1  d
+1a  a
+b
+0a bc
+1a
+1  d
+b
+0. df c
+1    d
+b
+0 daa
+1 d  c
+1  c
+b
+0. bd a
+1  b
+b
+0 b d
+0 ddd
+b
+0a  c
+1  b
+1  aa
+b
+
+b
+1 abc
+1  a
+1  bc
+1 bd
+b
+0 dfa
+0  d
+b
+1 a c
+1  d
+0 ac
+b
+0  d
+0 b
+b
+0  d
+1 ab
+1  de
+b
+0 ab
+0  da
+b
+0 a c
+1  b
+1 c
+b
+1 daa
+1   c
+0  d
+b
+0 a c
+0 ac
+b
+0  d
+0 bd
+b
+1a
+1 bd
+1 bd
+1abd
+b
+0aab
+1a
+1 ab
+b
+
+b
+0 dff
+1  ff
+1 d
+b
+0 dde
+1   a
+1  c
+b
+1 bdd
+1 a
+1 b
+1   c
+b
+0 d a
+0  f
+b
+0ab  a
+0  d
+b
+0a b
+0 b c
+b
+1   a
+1 a
+0 ab
+b
+1
+1  de
+0  de
+b
+0 a c
+1  b
+1 c
+b
+0 daa
+0  da
+b
+0 a c
+0 ac
+b
+0  d
+0   a
+b
+0  d d
+0  dd
+b
+
+b
+0  cc
+0 b  d
+b
+0 a a
+0  d
+b
+0 a c
+1  b
+1 c
+b
+1 daa
+1   c
+0  d
+b
+1 a c
+1  d
+0 ac
+b
+w  d a
+b
+0a b d
+1 b
+1a  a
+b
+0aa c
+0ab  d
+b
+0. dff
+1 bd
+b
+0 dff
+0 bd
+b
+1 daa
+1 b
+1 add
+1  d
+b
+1 a c
+1  d
+0  c
+b
+w  d a
+b
+
+b
+0a b d
+1 b
+1a  a
+b
+0aa c
+0ab  d
+b
+0. dff
+1 bd
+b
+0 dff
+0 bd
+b
+1 daa
+1 b
+1 add
+1  d
+b
+1 a c
+1  d
+0  c
+b
+0  d a
+0 bd
+b
+1a
+1 bd
+1 bd
+1abd
+b
+0aab
+1a
+1 ab
+b
+0 dff
+1  ff
+1 d
+b
+0 dde
+0 dda
+b
+1 bd
+1  b
+1  a
+1   c
+b
+
+b
+0 d e
+0  d
+b
+0a  c
+1  b
+1  aa
+b
+1 abc
+1  a
+1  bc
+1 cd
+b
+0 dfa
+0  d
+b
+0 a c
+0 ac
+b
+w  d
+b
+0.a d
+1 a
+b
+0ab  a
+1ab
+1    c
+b
+0a b d
+1a   d
+1  d
+b
+0 df  d
+1   f
+1 d  a
+b
+0 da c
+0  f  d
+b
+0. bd a
+1  b
+b
+1 ea c
+1   c
+0  a
+b
+
+b
+0a  cd
+0  d a
+b
+0a b
+0 b c
+b
+1   a
+1 a
+0 ab
+b
+1
+1  de
+0  de
+b
+0 a c
+1  b
+1 c
+b
+0 daa
+0  da
+b
+0 a c
+0 ac
+b
+0  d
+0   a
+b
+0  d d
+0  dd
+b
+0  bc
+0 b  d
+b
+0 a a
+0  d
+b
+0 a c
+1  b
+1 c
+b
+1 daa
+1   c
+0  d
+b
+
+b
+1 a c
+#2  c
+x  a
+1  d
+1  c
+b
+w  d a
+b
+Y
+b
+b
+
+e

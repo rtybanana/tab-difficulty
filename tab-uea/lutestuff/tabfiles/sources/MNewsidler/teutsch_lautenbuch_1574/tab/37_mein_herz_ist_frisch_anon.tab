@@ -1,0 +1,390 @@
+-C
+-t
+-f
+{37. Mein herz ist frisch/Melchior Newsidler}
+b
+c
+1caa c
+b
+.
+1.dabc
+2  d
+1dabc
+1caa c
+b
+1aab  a
+#2   c
+x  d
+1aab  a
+1hd f d
+b
+1fdd f
+1cdda
+1dabc
+1 c
+b
+1.cdda
+2a
+#2c
+xd
+1fdaa
+b
+1dabc
+1caab
+1cabc
+1aa c a
+b
+1.ca bc
+2   c
+1ca b
+1    c
+b
+1dabc
+#2     a
+x  d
+1dab  a
+1caa c
+b
+
+b
+#2aab  a
+x d
+xa
+xc
+#2aa c
+xc
+xd
+xf
+b
+1hd f d
+1h
+1fd ef
+1dabc
+b
+#2cdda
+xa
+x d
+xa
+#2c
+xd
+1fd ef
+b
+1dabc
+1caab
+1cabc
+1aab  a
+b
+#2cda c
+x c
+x a
+x c
+#2 d
+xa
+xc
+xd
+b
+1fdd f
+1   a
+1fdd f
+1dcbc
+b
+1cdda
+#2   a
+xd
+1cdda
+1a d e
+b
+
+b
+1cdda
+1f de
+1   a
+1ea c
+b
+1ffg a
+#2   h
+x  i
+1ffg a
+#2da  c
+xc
+b
+#2abb d
+x d
+x b
+x d
+#2a   a
+x d
+xa
+xc
+b
+1ddf  d
+#2   f
+x  g
+1ddf
+1cbd a
+b
+1abd d
+1abd a
+1aab c
+1 ea
+b
+1.a bcd
+2   e
+1a bcd
+1 dbac
+b
+1 bdca
+1 abc d
+1  d  c
+1   b
+b
+
+b
+#2 acc a
+x  d
+x a
+x c
+#2 d
+xa
+xc
+xd
+b
+1fdd f
+1   a
+1fdd f
+1dcbc
+b
+1cdda
+#2   a
+xd
+1cdda
+1a d e
+b
+#2cdda
+xe
+1f de
+1   a
+1ea c
+b
+1ffg a
+#2   h
+x  i
+1ffg a
+#2da  c
+xc
+b
+#2abb d
+x d
+x b
+x d
+#2a   a
+x d
+xa
+xc
+b
+1ddf  d
+#2   f
+x  g
+1ddf  d
+1cbd a
+b
+
+b
+1abd d
+1abd a
+1aab c
+1 ea
+b
+1.a bcd
+2   e
+1a bcd
+1 dbac
+b
+1 bdca
+1 abc d
+1  d  c
+1   b
+b
+A1
+1. acc a
+2  d
+1 acc
+1caa c
+.
+b
+b
+A2
+1. acc a
+2  d
+1 acc
+Y     a
+b
+b
+1caa c
+b
+.
+1dabc
+1     a
+1caa c
+b
+1aab  a
+1   c
+1hd f d
+b
+1fdd f
+1cdda
+1dcbc
+b
+1.cdda
+2d
+1fdaa
+b
+1dabc
+1caab
+1aabc
+b
+
+b
+1.caa c
+2   c
+1caa c
+b
+1.dabc
+2a
+1caa c
+b
+#2aab  a
+x d
+#2a
+xc
+#2d
+xf
+b
+1hd f d
+1fd ef
+1dabc
+b
+#2cdda
+xa
+#2c
+xd
+1fd ef
+b
+1dabc
+1caab
+1aabc
+b
+#2caa c
+xa
+#2 d
+xa
+#2c
+xd
+b
+1fdd f
+1   a
+1dcbc
+b
+1cdda
+#2a
+xc
+1a d e
+b
+
+b
+1cdda
+1f de
+1ea c
+b
+1ffg a
+1   h
+#2da  c
+xc
+b
+#2abb d
+x d
+#2 b
+x d
+#2a   a
+xc
+b
+1ddf  d
+1   f
+1cbd a
+b
+1abd d
+1abd a
+1 ea c
+b
+1.a b d
+2  d
+1 dbac
+b
+1 bdca
+1 abc d
+1  db c
+b
+#2 acc a
+x c
+#2 d
+xa
+#2c
+xd
+b
+1fdd f
+1   a
+1dcbc
+b
+
+b
+1cdda
+#2a
+xc
+1a d e
+b
+1cdda
+1f de
+1ea c
+b
+1ffg a
+1   h
+#2da  c
+xc
+b
+#2abb d
+x d
+#2 b
+x d
+#2a   a
+xc
+b
+1ddf  d
+1   f
+1cbd a
+b
+1abd d
+1abd a
+1 ea c
+b
+1.a bcd
+2  d
+1 dbac
+b
+1 bdca
+1 abc d
+1  db c
+b
+A1
+0 acc a
+1caa c
+.
+b
+b
+A2
+1. acc a
+2  d
+Y acc a
+b
+b
+
+e

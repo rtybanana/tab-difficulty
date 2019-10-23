@@ -1,0 +1,431 @@
+-C
+-t
+-f
+{50. Mille regretz/50. Mille regretz}
+b
+c
+2. a  c
+3  d
+#3  b
+x  a
+#4   c
+x  a
+x  b
+x  d
+#2 a  c
+x b
+#3 d
+x b
+x d
+x a
+b
+2.a b d
+3 d
+#3 b
+x a
+#4  d
+x a
+x b
+x d
+2ab  a
+#3 a
+x b
+#3 d
+x b
+#4 d
+x b
+x a
+x b
+b
+0 df c
+1 df c
+#2 b  a
+x a   d
+b
+
+b
+1  da c
+#2  d  c
+x  b  a
+1  d  c
+1  d
+b
+1  bc a
+1d b
+1d b  a
+1d bc
+b
+#3cd a
+xa
+x d
+x b
+#3 a  c
+x  d
+x  b
+x  a
+1ab  d
+1    a
+b
+2. abc
+3 c
+#4 d
+x c
+x a
+x c
+#4 d
+xa
+xc
+xd
+2da c
+#3c
+xa
+#4 d
+x b
+x a
+x b
+#4 d
+xa
+xc
+xd
+b
+
+b
+2.c da
+3a
+#3 d
+x b
+#4 a
+x  d
+x  b
+x  a
+#3a bc
+x d
+x b
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+#2  a c
+xa
+x d
+x b
+0 da c
+b
+#3 ab
+x  a
+x  b
+x  d
+#3 a
+x c
+#4 d
+xa
+xc
+xd
+1dab
+#3f
+xd
+#4f
+xd
+xc
+xa
+b
+2.c da
+3a
+#3 d
+x b
+#4 a
+x  d
+x  b
+x  a
+#3a bc
+x  a
+x  b
+x  d
+#3 a
+x b
+x d
+xa
+b
+
+b
+#2  a c
+xa
+#3 d
+x c
+x a
+x c
+2 da c
+#3 b
+x a
+#4  d
+x  b
+x  a
+x  b
+#4  d
+x a
+x c
+x d
+b
+1ab  d
+1a
+1ab  d
+1ab  d
+b
+1 df  d
+1 df  d
+1 bd a
+#3 d
+x b
+#4 d
+x b
+x a
+x  d
+b
+1 ab  a
+1 abc
+1 abc
+1 abc
+b
+1 aaa
+1 aaa
+#3   cd
+x a
+x  d
+x  b
+#3 a
+x  d
+x  b
+x  d
+b
+
+b
+2.ca  c
+3a
+#3 d
+x c
+#4 a
+x c
+x d
+xa
+2ca  c
+#3a
+xc
+#3d
+xc
+xa
+xc
+b
+0d bc
+#3a bc
+x  a
+x  b
+x  d
+#4 a
+x  d
+x a
+x c
+#4 d
+x c
+x d
+xa
+b
+2c a c
+#3a
+xc
+#3d
+xc
+xa
+xc
+1h a  h
+1 a
+b
+0f g
+1f g
+1da
+b
+
+b
+#3d d
+xc
+xa
+xc
+#3c b
+xa
+x e
+xa
+#3  a c
+xa
+x e
+x c
+#3a
+x e
+x c
+x e
+b
+0a d d
+1a d d
+1  b c
+b
+#2  a a
+x  b c
+x  a a
+x   c d
+#2     c
+x   b
+#3   c
+x   b
+x   a
+x   b
+b
+0   c a
+2. a c a
+3  d
+#3  b
+x  a
+#4  b
+x  d
+x a
+x c
+b
+0 dfa
+1 d ac
+#3a
+x d
+#4a
+x d
+x b
+x a
+b
+0 dda
+0 daa
+b
+1 bd a
+1f
+1fb  a
+1f
+b
+
+b
+1d  c
+1 f
+1df c
+1 f
+b
+#3cd
+x b
+#4 a
+x  d
+x  b
+x  a
+#4  b
+x  d
+x a
+x c
+2 d
+1ab  a
+#3 d
+x b
+#4 d
+x b
+x a
+x  d
+b
+1 aa c
+1  b  a
+1 aa c
+#3  b  d
+x  a
+x  b
+x  d
+b
+#2  b
+x  a
+x   ca
+x     d
+1f    c
+1   b
+b
+0d  c a
+1d b  a
+#3  d
+x  b
+x  a
+x   c
+b
+
+b
+#3cd a
+xa
+x d
+x b
+#3 d  c
+x b
+x a
+x d
+1ab  d
+1    a
+b
+1 a c
+1ab  d
+1ab  d
+1ab  d
+b
+1 df  d
+1 df  d
+2 bd a
+#3 a
+x b
+#3 d
+x b
+#4 d
+x b
+x a
+x  d
+b
+1 ab  a
+1ab  d
+1ab  d
+1ab  d
+b
+1 df  d
+1 df
+#3 bd a
+x d
+xa
+x d
+#3 d
+x b
+#4 d
+x b
+x a
+x  d
+b
+1 ab  a
+1 abc
+1 da c
+1 ab  a
+b
+
+b
+0 da c
+2 ab  a
+#4
+x  d
+x  b
+x  a
+#4  b
+x  d
+x a
+x c
+#4 d
+xa
+xc
+xd
+b
+Y daac
+b
+b
+
+e

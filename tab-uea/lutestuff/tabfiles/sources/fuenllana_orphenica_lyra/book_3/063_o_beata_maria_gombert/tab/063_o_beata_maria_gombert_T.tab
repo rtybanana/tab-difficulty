@@ -1,0 +1,545 @@
+-C
+-t
+-f
+{63. Beata Maria/Miguel de Fuenllana}
+b
+c
+w a
+b
+0 a
+0 a
+b
+w  b
+b
+w b
+b
+w a c
+b
+0 a c
+0 a
+b
+0 c  e
+0a
+b
+1  a
+#2 e
+x c
+1a
+1 e
+b
+waa c
+b
+0 abc
+1    c
+1  a
+b
+1   cd
+1   a
+0 ab c
+b
+1 b  a
+1  b
+0  a
+b
+0.aabc
+1  d
+b
+
+b
+0aabc
+0ac  e
+b
+0 cde
+0  d
+b
+0cdda
+0 c
+b
+0aabc
+0   e
+b
+0. dff
+1   e
+b
+0a bc
+0df
+b
+0dbd
+0c
+b
+0ddff
+0 c
+b
+0. dfec
+1a
+b
+0ca ac
+0da c d
+b
+0  bcd
+1c de
+1a
+b
+1 db c
+1 a
+0abd a
+b
+1 aa c
+1a
+1 e
+1  d
+b
+
+b
+0aabcd
+0  d
+b
+1a bcd
+1  a
+1  b
+1  d
+b
+0 dffc
+0 a
+b
+0 cfe
+0  d
+b
+0 abc
+0   c
+b
+0 abc
+0 abc
+b
+0 aaa
+1c d
+1    e
+b
+0c b c
+0a  cd
+b
+0 da c
+0 ab
+b
+0 dff d
+1 cdca
+1  b
+b
+0 aaac
+0  a
+b
+0 aa  d
+1   c
+1 c  a
+b
+1 dfac
+1a
+0c eeec
+b
+
+b
+0 abc d
+1 c ca
+1    e
+b
+0 aba d
+0   c a
+b
+1  eeec
+1  c
+0 ceeec
+b
+0 dfec
+0  f
+b
+0 dfec
+0c  a
+b
+0dc c
+0acd e
+b
+0dabc
+1 c
+1  d
+b
+0cdfa
+1  de
+1 c
+b
+1 dff
+1  de
+1aabc
+1  a
+b
+1aabc
+1 d
+0 ab
+b
+1 c e
+1  f
+1  e
+1   c
+b
+0 dfef
+0 abc
+b
+
+b
+1 dfec
+1    e
+1  aa
+1  bc
+b
+0 cde
+0c
+b
+1 dfa
+1a
+1 dff
+1 c
+b
+0 aff
+1 cde
+1   c
+b
+1fcde
+1 f
+0 e
+b
+0dffc
+1 fff
+1   e
+b
+0dffc
+1 d
+1 c
+b
+wcdf c
+b
+0cdf
+0 df
+b
+0acd
+0cda
+b
+0 dff
+1ac
+1 a
+b
+1ccde
+1 e
+0dffc
+b
+
+b
+0fcde
+0cdda
+b
+0dabc
+0 f c
+b
+1ddff
+1 c
+1 d
+1a
+b
+0cdde
+0  def
+b
+1fcde
+1 a
+1 c
+1 e
+b
+0dffc
+0acd e
+b
+0dabc
+0  b
+b
+0cdfa
+0 dffc
+b
+1cdda
+1  a
+1  d
+#2    e
+x    c
+b
+1acd a
+#2 d
+x c
+1 db c
+1  a
+b
+1a  ce
+1  b
+1  ee
+1 c c
+b
+
+b
+0. dfec
+1ac  e
+b
+0ca a
+1dabc
+1 c
+b
+0cdf c
+0cdaa
+b
+1 abc
+1c
+0aabc
+b
+0cdfec
+0 d
+b
+0cdf c
+0 d
+b
+1cdf c
+1 c
+1  f
+1  e
+b
+1cdf
+1 c
+1 df c
+1  e
+b
+0 dfec
+0 df c
+b
+0c def
+0caaa
+b
+0 dfec
+0cdda
+b
+1  a
+1a   e
+1 da c
+1  c
+b
+
+b
+1 cdea
+1   c
+0 aaac
+b
+1  eeec
+1 a
+1 c
+1  e
+b
+0 aaac
+0 d
+b
+1c   c
+1 c
+1cdf
+1e
+b
+0ffhh
+0cdf
+b
+1cc e
+1  f
+0  e
+b
+0cdfec
+0 d
+b
+1aa c
+1 c
+0cdaa
+b
+0da c
+0ccde
+b
+1 ab
+1c
+0a
+b
+1cc e
+1  f
+0  e
+b
+0cdfec
+0  def
+b
+
+b
+1cd
+1    e
+0ccdea
+b
+1cdf c
+1    e
+1   a
+1d  c
+b
+0fcde
+0 e
+b
+0.dffc
+1 d
+b
+0ccde
+0cdda
+b
+0aadc
+0  b
+b
+0ffa
+0 d
+b
+0ffh h
+0da
+b
+0cdf
+0ac
+b
+0da
+1 f
+1f
+b
+0cff c
+0 e
+b
+0aabc
+0 a
+b
+0 cdc
+0 daa
+b
+
+b
+1a dce
+1 c
+1 dffc
+1a
+b
+1cdaa
+1 c
+0da c
+b
+1  b d
+1c
+0a dc
+b
+1 aa c
+1a
+0 e
+b
+0aabc
+0 c ce
+b
+0  def
+0 abc
+b
+0a  ce
+0 ce
+b
+0. dfec
+1a
+b
+0cdf c
+0dabc
+b
+1 c
+1a
+0cdaa
+b
+1 abc
+1c
+0a
+b
+0cd a
+1 a
+1    e
+b
+
+b
+0 dfec
+1 abc
+1 d
+b
+0 ddef
+0 dffc
+b
+0a bcd
+1  a
+1   c
+b
+0aaa c
+1 df
+1  d
+b
+0 ab
+0 cde
+b
+0 ede
+0aabc
+b
+0acde
+1 df
+1 cd
+b
+0aa c
+0dabc
+b
+1   c
+1 c
+0cdaa
+b
+0 dffc
+0a dce
+b
+0cd a
+0 dbac
+b
+1. cdca
+2 a
+1  d
+1  b
+b
+
+b
+0 ddef
+1fha
+1    h
+b
+0 ha
+1dfff
+1 d
+b
+0acd
+1ccde
+1 e
+b
+0dffc
+0 ab
+b
+0acd e
+0c  a
+b
+1dabc
+1c
+0acdca
+b
+1aaa c
+#2 e
+x c
+1a
+1 e
+b
+waacc
+b
+Yaacc a
+b
+b
+
+e

@@ -1,0 +1,190 @@
+-C
+-t
+-f
+{347. Courante 20/347. Courante 20}
+b
+x   a  a
+x    a /a
+b
+b
+2k
+b
+1k  h
+2l  a
+1k  h
+2h   h
+b
+1ffh  f
+2   h
+2.ffh
+3h
+2f
+b
+2.ef c
+3f
+2e
+2.c   c
+3e
+2c
+b
+1aac  a
+2   c
+2.aac
+3   a
+2    e
+b
+1cdda
+2acd a
+2. a c
+3 c
+2 a
+b
+1  dca
+2  d
+1   c
+2k
+b
+
+b
+2k  h
+#3h
+xk
+2l  a
+#3k  h
+xh
+#3k
+xl
+xh   h
+xl
+b
+1ffh  f
+2ffh
+2   h
+#3h
+xf
+xe
+x h
+b
+#3e    a
+x h
+xe
+xf
+xh
+xe
+#3f   a
+xe
+xc   e
+xa
+xc   c
+x e
+b
+1aac  a
+2aac
+#3   c
+x  a
+x  c
+x  d
+x a
+x  c
+b
+
+b
+#3  aaa a
+x   c
+x  a
+x  c
+x  d  c
+x a
+#3  cc a
+x  a
+x  c
+x  d
+x a
+x  c
+b
+1  dca
+2  d
+1      /a
+2  cc
+b
+.
+2.  aa
+3  c
+2  d
+#3 a  c
+x  d
+x a
+x c
+x d
+x  c
+b
+2 cdca
+#3 f
+x d
+x c
+x a
+2  d
+#3 a
+x c
+x d
+xa
+b
+2c  a
+#3a
+xc
+2 d
+2.e  c
+3   a
+2g   e
+b
+1haa  h
+2k  h f
+2.hf  h
+3k
+2fc e
+b
+
+b
+1ef  e
+2cdda
+2.a   a
+3c
+2 d  c
+b
+#3 c  e
+x  d
+x a
+x c
+x d
+xa
+#3c  a
+xa
+xc
+xe
+xf
+xc
+b
+#3h    a
+xf
+xe
+xf
+xh
+xe
+2fcd a
+#3a
+x d
+x c
+x a
+b
+A1
+1  d
+2  cc
+.
+b
+b
+A2
+Y.  d
+b
+b
+
+e

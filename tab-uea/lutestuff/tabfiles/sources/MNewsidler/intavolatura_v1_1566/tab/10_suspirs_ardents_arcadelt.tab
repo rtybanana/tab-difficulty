@@ -1,0 +1,595 @@
+-C
+-t
+-f
+{10. Suspirs ardents/Melchior Newsidler}
+b
+c
+1 d
+1   a
+1 d d
+1 db
+b
+1f gh
+#2   h
+x  ff
+2fbdd
+#3 d
+x b
+1fddd
+b
+1dffc
+1if f i
+#2hiif
+xffgh
+xfgi f
+xdffc
+b
+#3bb d
+x  d
+2 dda
+#3aa c
+x  c
+#4  d
+x  c
+x  a
+x  c
+2acd
+#3 c  a
+x d
+#3 cd
+x a
+xf ddf
+x   f
+b
+
+b
+#2h  df
+xi  hhi
+xl  a h
+x   g
+#2   hhf
+xi
+2i   hf
+#3   h
+xh
+b
+#3f  df
+xd
+2fd
+#2 bbc
+xda
+#2 bdd
+xb
+xbbb d
+xa
+b
+#2 gddf
+x d d
+xf  ca
+x cd
+2bd db
+#3  e
+xd
+#3fb   b
+x     d
+xb d a
+x    c
+b
+2dfg d
+#3    d
+x g
+#3 f fd
+x d
+2 f h f
+#3  ddf
+x d
+x dbc d
+x   a
+#3  dca
+x c
+#4 d
+x c
+x a
+x c
+b
+
+b
+#2 dddf
+x d
+2 g
+#3 d  f
+xd
+2fd d
+#3d
+xf
+#2dd f
+x g
+b
+#3 fgh
+x  f
+#4  g
+x  f
+x  g
+x  i
+#2f gh
+x  ff
+2fbdd
+#3 d
+x b
+1fddd
+b
+2dffc
+#3f
+xh
+1if f i
+#2hiif
+xffgh
+xfgi f
+xdffc
+b
+#3bb d
+x  d
+2 dda
+#3aadc
+x  c
+#4  d
+x  c
+x  a
+x  c
+2acd
+#3 c  a
+x d
+#3 cd
+x a
+xf ddf
+x   f
+b
+
+b
+#2h  df
+xi  hhi
+xl  a h
+x   g
+#2i  hhf
+x    hf
+2i
+#3   h
+xh
+b
+#3f  df
+xd
+2fd
+#2 bbc
+xda
+#2 bdd
+xbb
+#3 ggfd
+x f
+#4 g
+x f
+x d
+x f
+b
+#3 gddf
+x f
+#2 d d
+xfc ca
+#3  d
+xd
+#3bd db
+x f
+xb
+xd
+#3fb   b
+x     d
+xb d a
+x    c
+b
+
+b
+2dfg d
+#3    d
+x g
+#3 f fd
+x d
+2 f h f
+#3  ddf
+x d
+x dbc d
+x   a
+#3  dca
+x c
+#4 d
+x c
+x a
+x c
+b
+2 dddf
+#3   a
+x   c
+#3   d
+x   f
+2 dddf
+2a b d
+#3 b
+x d
+#3aabc
+x b
+x d
+xa
+b
+#3bdda
+xa
+xb
+xd
+#3f g  f
+x     h
+x f   i
+x    f
+#2da c
+xd  c
+x dff
+xh  f
+b
+2lg a
+#3l
+x    h
+#3f   i
+x   f
+2ifgh
+#2  gh
+xhfff
+#3ff d
+x d
+#4 f
+x d
+x  g
+x d
+b
+
+b
+2effc
+#3 c
+x e
+#3 f
+xc
+2effc
+#2fbdd
+xd
+#3bd a
+xab
+x df
+x bd
+b
+2aabc
+#3a b
+xc
+#3da c
+xc d
+xd f
+xf g
+2hgi f
+#3f
+xh
+1if f i
+b
+2hgi f
+#3f
+xh
+#2f
+x  g
+#3 ffc
+xf
+xe
+xc
+#3f
+xe
+#4f
+xe
+xc
+xe
+b
+1.ff h f
+2acd a
+2bdda
+#3a
+xb
+1dde  d
+b
+
+b
+2ad ca
+#3 c
+x a
+#2ff h f
+x  g
+#3ddb b
+xb
+2b  d
+#2gd f d
+xg  f
+b
+#3fb d b
+xd
+xb  d
+x f
+#2b d
+xdb c
+#3 bdd
+xb
+xbdea
+x  d
+#3  gfd
+x f
+#4 g
+x f
+x d
+x f
+b
+2bb d b
+#3 bdd
+x  e
+2  d
+#3f  df
+x   f
+#3h   f
+x    h
+2i  hhi
+#2l  a h
+x   g
+b
+#2   hhf
+xf
+2i   hf
+#3   hh
+xh
+#3f  df
+xd
+2fd
+#2 bbc
+xd
+b
+
+b
+#2 bdd
+xbb
+3bbb d
+#4a
+x d
+2a
+#3 gddf
+x f
+#2 d d
+xfc ca
+#3  d
+xd
+b
+#3bd db
+x f
+xb
+xd
+#3fb   b
+x     d
+xb d a
+x    c
+2dfg d
+#3    d
+x g
+#3 f fd
+x d
+2 f h f
+b
+#3  ddf
+x d
+x dbc d
+x   a
+#3  dca
+x c
+#4 d
+x c
+x a
+x c
+2 dddf
+#3   a
+x   c
+#3   d
+x   f
+2 dddf
+b
+
+b
+2a b d
+#3 b
+x d
+#3aabc
+x b
+x d
+xa
+#3bdda
+xa
+xb
+xd
+#3f g  f
+x     h
+x     i
+x    f
+b
+#2d fc
+xd  c
+2 dff
+#3h  f
+xi
+2lg a
+#3l
+x    h
+#3f   i
+x   f
+2ifgh
+b
+#2  gh
+xhfff
+#3ff d
+x d
+#4 f
+x d
+x  g
+x d
+2effc
+#3 c
+x e
+#3 f
+xc
+2effc
+b
+
+b
+#3fbdd
+xd
+xb
+x f
+#3bd a
+xab
+x df
+x bd
+#3aabc
+x d
+xa
+xc
+#3da c
+xc d
+xd f
+xf g
+b
+2hgi f
+#3f
+xh
+1if f i
+2hgi f
+#3f
+xh
+#2f
+x  g
+b
+#3 ffc
+xf
+xe
+xc
+#3f
+xe
+#4f
+xe
+xc
+xe
+1.ff h f
+2acd a
+b
+2bdda
+#3a
+xb
+1dde  d
+2ad ca
+#3 c
+x a
+#2 f h f
+xf g
+b
+
+b
+#3ddb b
+xb
+2b  d
+#3gg f d
+x f
+#4 g
+x f
+x d
+x f
+#3fb d b
+xd
+xb  d
+x f
+#2b d
+xdb c
+b
+#3 bdd
+xb
+xbdea
+x  d
+#3  gfd
+x f
+#4 g
+x f
+x d
+x f
+2b dd b
+#3 bdd
+x  e
+2  d
+#3f  df
+x   f
+b
+#3h   f
+x    h
+2i  hhi
+#2l  a h
+x   g
+#2   hhf
+xf
+2i   hf
+#3   hhf
+xh
+b
+#3f  df
+xd
+2fd
+#2 bbc
+xd
+#2 bdd
+xb
+#3 ggfd
+x f
+#4 g
+x f
+x d
+x f
+b
+
+b
+#3 gddf
+x f
+#2 d d
+xfc ca
+#3  d
+xd
+#3bd db
+x f
+xb
+xd
+#3fb   b
+x     d
+xb d a
+x    c
+b
+2dfg d
+#3    d
+x g
+#3 f fd
+x d
+x f h f
+x   f
+#3  ddf
+x d
+x dbc d
+x   a
+#3  dca
+x c
+#4 d
+x c
+x a
+x c
+b
+Y ddef
+b
+b
+
+e

@@ -1,0 +1,503 @@
+-C
+-t
+-f
+{Suite in A major/Gottfried Meusel}
+b
+2    c
+b
+#2     a
+x  a
+x   e
+#2      a
+x  a
+x   e
+b
+#3  ab&U  /a
+x  c
+x  eX
+x a
+2 c"_
+#3  aU  4
+x  c
+#3  eX
+x a
+2 c"_
+b
+#3      ///a
+x  a
+x e
+xe
+#3d&'
+x e
+x      //a
+x   d
+#3 cU
+x aX
+x  eU
+x  cX
+b
+
+b
+#2  e  a
+x c
+x  e
+1   e
+2  cd  //a
+b
+#2  e  a
+x c
+x  e
+#3  aU
+x  c
+#3  eX
+x a
+2 c"_
+b
+#2  c   a
+x c
+x  c
+#3   d  //a
+x  aU
+#3  c
+x  eX
+2 a
+b
+#2  e  a
+x c
+x  e
+#3  aU
+x  c
+#3  eX
+x a
+2 c"_
+b
+2  c   //a
+#3   dU
+x   eX
+2  c
+1    c
+2  c
+b
+
+b
+2  e  a
+#3  a
+x  c
+2  e
+#2 a   c
+x  c
+x   d
+b
+#3 cU   4
+x aX
+x  eU
+x  cX
+2  a&'
+#2 e    ///a
+x a
+x  c
+b
+#3d     //a
+x eU
+x c
+x eX
+2d
+#2  e   /a
+xe
+xd&'     4
+b
+#2      ///a
+x e
+x c&'    4
+#2   d c
+x a
+x  e  a
+b
+2 ae  c
+#3 cU
+x aX
+2  e  a
+#2  cU  a
+x  eX
+x  a   /a
+b
+
+b
+2   d  //a
+#3 cU
+x bX
+2 c
+2  a   /a
+#3 b
+x  e
+2 b
+b
+2  c   a
+#3 cU
+x bX
+2 c
+2  c b
+#3b
+x c
+2b
+b
+#2dU    //a
+xbX
+x c    a
+#2bc   a
+x c
+x b&'   c
+b
+#2 c"_    //a
+x  c
+x  e  a
+#2  c&'   a
+x c
+x  a   /a
+b
+#2   d&'  //a
+x c
+x  e  a
+#2  c&'   a
+x c
+x  a   /a
+b
+#2   d&'  //a
+x    c
+x   d
+#2  c
+x c
+x  c
+b
+
+b
+#2   d
+x    c
+x  c
+1 ccd
+.
+b
+b
+.
+2    c
+b
+2    c //a
+#3   dU
+x   bX
+2    c
+#2    b
+x  c
+x  a
+b
+2    c 4
+#3   dU
+x   bX
+2    c
+#3    c a
+x   b
+#3   d
+x  a
+2  c"_
+b
+#3     a
+x  c
+x  e
+x c
+#3 b&'
+x  e
+x    b
+x   b
+#3  cU
+x  eX
+x  cU
+x  aX
+b
+
+b
+2   d&'  //a
+#3   d
+x  a
+2  c"_
+1    c
+2   dc ///a
+b
+#2      4
+x  a
+x   e
+#2     c
+x  a
+x   e
+b
+#3  aU a
+x  c
+x  eX
+x a
+2 c"_
+#3  aU  4
+x  c
+#3  eX
+x a
+2 c"_
+b
+#3      ///a
+x  a
+x e
+xe
+#3d
+x e
+x      //a
+x   d
+#3 cU
+x eX
+x cU
+x aX
+b
+
+b
+#2      /a
+x  e
+x   e
+#2      //a
+x  e
+x   d
+b
+#3 e    ///a
+xc
+x e
+x c
+#3 a&'
+x  e
+#2      //a
+x  c
+x   d
+b
+#2    c ///a
+x   d
+x  c
+#3 cU   4
+x eX
+#3 cU
+x aX
+x  eU
+x  cX
+b
+#2      ///a
+x  a
+x   b
+#2    a 4
+x   b
+x  a
+b
+
+b
+#3 aU  c
+x c
+x aX
+x  eU
+#3  c
+x  eX
+x ac&U   a
+x c
+#3 aX
+x  eU
+x  cX
+x a
+b
+#3  e  a
+x a
+x  eU
+x  cX
+#3  aU
+x  cX
+x  e   /a
+x a
+#3  e
+x  c
+x  a
+x  e
+b
+#3  cU  a
+x  eX
+x  cU
+x  aX
+#3   d
+x  a
+x  cUd
+x  eX
+#3  cU
+x  aX
+x   d
+x  c
+b
+2  a   /a
+#3   bU
+x   dX
+2  a
+#2      a
+x  c
+x   a
+b
+
+b
+2  e"_  a
+#3  a
+x  c
+2  e
+#2 b   c
+x  c
+x b
+b
+#2a    e
+x  c
+x e
+#2   d  4
+x eU
+x dX
+b
+#3 e    /a
+xe
+xd
+x e
+#3 cU   a
+x aX
+#2  e  a
+x c
+x a   c
+b
+#3     e
+x c
+x  a
+x c
+#3    a
+x e
+x     e
+x c
+#3  a
+x c
+x    a
+x e
+b
+
+b
+2 a d c
+#3 cU
+x aX
+#3  e  a
+x a
+#2  c&'d  //a
+x      /a
+x  c   a
+b
+2  e  a
+#3  aU
+x  cX
+2  e
+#2 a   c
+x  c
+x   d
+b
+#3 cU   4
+x aX
+x  e
+x  c
+2  a
+#2 eU   ///a
+x aX
+x  c
+b
+#3d     //a
+x e
+x cU
+x eX
+2d
+2e     /a
+#3 e
+xd
+2e
+b
+2g     a
+#3 g
+xe
+2g
+#2     a
+xi
+xg&'     //a
+b
+
+b
+#2      /a
+xe&'
+x g    4
+#2      ///a
+x e
+x ce  a
+b
+#2   d c
+x a
+x  ee a
+#2  cd  //a
+x      /a
+x  c"_   a
+b
+2  e"_  a
+#3  a
+x  c
+2  e
+#3 a   c
+x  eU
+#3  c
+x  aX
+2   d
+b
+#3 cU   4
+x aX
+x  eU
+x  c
+#3  aX
+x c
+x eU   ///a
+x c
+#3 aX
+x  eU
+x  c
+x  aX
+b
+
+b
+#3d     //a
+x eU
+x c
+x aX
+#3  eU
+x  cX
+xeU    /a
+xdX
+#3 eU
+x c
+x aX
+x  e
+b
+#3gU    a
+xeX
+x gU
+x eX
+#3 cU
+x aX
+#2  e  a
+x a
+x  c&'d  //a
+b
+#2  ae a
+x  e
+x c
+#2e
+x c
+x  e
+b
+1.     a
+1
+.
+b
+b
+
+e

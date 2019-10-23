@@ -1,0 +1,274 @@
+-C
+-t
+-f
+{Courante/Courante}
+b
+1 c
+b
+.
+1. c"#dca
+2 d
+1a   e
+b
+1c  a
+1.e"#  c{
+#3c
+xe    }
+b
+1f
+1    a
+1    c
+b
+1    e{
+1e     }
+1c"#  a
+b
+1aac  a
+1   c
+1   a"#
+b
+1a   e
+1 d  c&{
+1  c
+b
+1ccd  c
+1     a
+1      a
+b
+1      /a
+1 c"#
+1 d
+b
+1a d e
+1    c
+1    a
+b
+
+b
+1 a   e{
+1   c
+1 c"#  a
+b
+1 da c
+1      ///a
+1      //a
+b
+1 c    /a
+1 a"#    a
+1  d
+b
+1. ac"#  a
+2 c
+#2  d e{
+x a
+b
+1 c  a
+1. a"#   a
+#3  d
+x a
+b
+1  d a
+1   c
+1      ///a
+b
+A1
+0  d"xc
+1 c
+.
+b
+b
+A2
+0  d"xc
+1f
+b
+1.f"#fh a
+2h
+1f"#
+b
+1.e"#ff  a
+2f
+1e"#
+b
+0ccd  c&{
+1   e  }
+b
+
+b
+1ccd
+1   c"#
+1   a
+b
+1a d e
+1    c"#
+1    a
+b
+1 a   e
+1 cd  c&{
+1 e
+b
+1aac  a
+1   c{
+1  a
+b
+1 ac
+1   a"#
+1  d e
+b
+1 aa c{
+1 d"x
+1a
+b
+1c a
+1a"# c{
+1 d
+b
+1 c"#d
+1    a
+1 d  c
+b
+1a   e{
+1  d   }
+1c"#  a
+b
+1ea c
+1     a
+1  d  c
+b
+1 a   e&{
+1   c  }
+1 c"#  a
+b
+
+b
+1. d"xa c{
+2a
+#2 c    /a
+x a
+b
+1 c    a
+1. a"#   a
+#3  d
+x a
+b
+1  d a
+1   c
+1      ///a
+b
+0  d"xc
+1f"#
+b
+#2f   a
+xe
+#2f
+xh
+1f"#
+b
+#2e    a
+x h
+#2e
+xf
+1e"#
+b
+0ccd  c&{
+1   e
+b
+#2ccd
+x   e
+#2   c
+x   e
+1   a
+b
+#2a
+x    e
+#2    c
+x    e
+1    a
+b
+
+b
+#2     e&{
+x a    }
+#2 c   c
+x a
+#2 c
+x e
+b
+1aac"#  a
+#2   c
+x  a
+#2  c
+x  d
+b
+#2  c"#c a
+x  d
+#2 a
+x   a
+#2    e{
+x  d   }
+b
+#2 aa c{
+x  d
+#2 a
+x d
+#2 c
+xa
+b
+#2c a
+xe
+#2a c{
+xc
+#2a"#
+x d
+b
+#2 c"#  a
+x  d
+#2 a
+x c
+#2 d  c{
+x a    }
+b
+#2a   e{
+x  d
+#2 a
+x c
+#2 d a
+xc
+b
+
+b
+#2e  c{
+x  a
+#2  c
+x   c&}
+#2  d  c&{
+x ( a
+b
+#2 a   e
+x   c {
+#2  a
+x  c
+#2  d a
+x c
+b
+#2 da c
+x a
+#2      //a
+xa
+#2 c    /a
+x a
+b
+#2 c    a
+x d
+1. a"#   a
+#3  d
+x a
+b
+1  d a
+1   c
+1      ///a
+b
+Y.  d"xc
+b
+b
+
+e

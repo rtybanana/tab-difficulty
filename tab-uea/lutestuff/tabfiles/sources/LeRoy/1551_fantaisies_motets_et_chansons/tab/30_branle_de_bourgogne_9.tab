@@ -1,0 +1,170 @@
+-C
+-t
+-f
+{30. Branle de Bourgogne - 9/30. Branle de Bourgogne - 9}
+b
+c
+1. bdca
+2 a
+#2  d
+x a
+x b
+x  d
+b
+0 ab  d
+1 ab  {
+1   a
+b
+#2 ab  d
+x  a  {
+x  b
+x  d
+#2  b
+x  d
+x a
+x  b
+b
+1  d a
+#2  b
+x  a
+1   cd
+1 bd a
+b
+1 ab  d
+1  da c
+1  bc a
+1  abc
+b
+0aab  a
+1aab
+1   c
+b
+
+b
+#2 bd a
+x d
+x b
+x a
+#2  d
+x a
+x b
+x  d
+b
+1. ab  d&{
+2 ab   }
+1   a
+#2   c
+x  a
+b
+#2 ab  d&{
+x  a
+x  b
+x  d
+#2  b
+x  d
+x a
+x  b
+b
+1  d a
+#2  b
+x  a
+1   cd&{
+#2 d
+x b   }
+b
+1 ab  d
+1  da c
+1  bc a
+1  abc
+b
+1.aab  a&{
+2aab
+1   c  }
+1aab  a
+b
+#2abb d&{
+x a
+x b
+x d   }
+1abb d
+1abb
+b
+
+b
+#2 daa
+x b
+x a
+x  d
+1 ab  d&{
+1   a
+b
+#2 ab  d
+x  a  {
+x  b
+x  d
+#2  b
+x  d
+x a
+x  b   }
+b
+1  d a
+#2  b
+x  a
+1   cd
+1   c
+b
+1  a
+1  a a
+1   ac
+1   ac
+b
+1 ab  d&{
+1 ab   }
+#2   cd
+x   b
+x   ca
+x  a
+b
+1  b c
+1  d d
+1  da
+1  cc
+b
+1.acd a{
+2acd
+1   c  }
+1   ca
+b
+
+b
+#2  aa
+x  b
+x  a
+x   c
+1   ac
+#2   c
+x  a
+b
+#2  b  a
+x  d
+x  b  c
+x  a
+#2   c d
+x   a
+x   ca
+x  a
+b
+1  b c
+1  d d
+1  da
+1  cc
+b
+1.acd a{
+2acd
+1   c  }
+1acd a
+.
+b
+b
+
+e

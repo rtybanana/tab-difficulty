@@ -1,0 +1,399 @@
+-C
+-t
+-f
+{47. Fantasia 25/47. Fantasia 25}
+b
+c
+w   c
+b
+0  a
+0  d
+b
+0a
+0  c
+b
+0c d
+0f a
+b
+0   c
+0ef
+b
+0fc  a
+0a
+b
+0ea  c
+0c da
+b
+#1  a
+xa
+xa c e
+x  d
+b
+#1 dfa
+x  d
+0  d
+b
+0 a c a
+#1  c
+x c
+b
+0 dd  c
+0 c  a
+b
+0 a
+0   c e
+b
+0 c  a
+0  db c
+b
+
+b
+#1  dc a
+x  c
+#2  d
+x  c
+x  a
+x  c
+b
+0acd a
+0f
+b
+0ea c a
+0cd ac
+b
+0ac ce
+0e    a
+b
+0c   c
+0 ef
+b
+1ac
+#2  d
+x a
+#2 c
+x a
+x  d
+x  c
+b
+#1c a
+x   c
+0  a
+b
+0e  c
+0 f
+b
+0fd
+0 c
+b
+0ha
+0 f
+b
+0k  h
+0    a
+b
+#1 c
+x    c
+x    e
+x   a
+b
+
+b
+#1 a c
+x  a
+x  c
+x  d
+b
+0 df
+0  a
+b
+#1 c
+x  c
+0  d
+b
+0 a
+0  c
+b
+#1f d
+x a
+x c
+x e
+b
+0ef
+0 a
+b
+#1c
+x c
+0 d
+b
+0ac
+0 f
+b
+0c   c
+0 e
+b
+#1a   e
+x   a
+x   c
+x  a
+b
+1. ac
+2  d
+#1  f
+x  c
+b
+
+b
+#1 cd
+x  c
+#2  d
+x  c
+x  a
+x   c
+b
+#1 da
+x  c
+0  d
+b
+0 a
+0  c
+b
+0acd a
+0f
+b
+0 d ac
+#1e
+xc
+b
+#1ea c a
+xc
+xa
+x d
+b
+#1 cdca
+x d
+xa
+xc
+b
+#1ea c a
+xf
+0h
+b
+#1  cc
+x  d
+x a
+x c
+b
+#1 d e
+x c
+#2 d
+x c
+x a
+x  d
+b
+
+b
+#1  cc
+x   a
+0ac  e
+b
+0c  a
+#1 a
+xe
+b
+0fc  e
+#1e
+x   a
+b
+1.ea c
+2   a
+#1   c
+x  a
+b
+#1  c
+x  d
+x  f
+x  c
+b
+0acd
+0cd a
+b
+#1 a f
+xa
+xa  e
+x   c
+b
+0  de
+0 e
+b
+0a cc
+#1     a
+x  a
+b
+#1a c
+x     c
+x     e
+x    a
+b
+#1 ea c
+x    a
+0a  c e
+b
+
+b
+0c  b c
+0e  c a
+b
+0f    c
+0   b
+b
+0   c a
+#1e
+xc
+b
+0ef
+#1fd
+x c
+b
+0ha  h
+0l  a
+b
+0kf h
+#1    a
+xh f
+b
+0ffh
+0edf
+b
+0ccd
+0aac
+b
+0  de
+#1f
+x a
+b
+#1ec c
+xc
+0ca a
+b
+0a   e
+0  e
+b
+#1 df c
+x    e
+x   a
+x   c
+b
+
+b
+0 cde
+0 dfa
+b
+0 acc
+#1     a
+x  a
+b
+#1 ac
+x     c
+x     e
+x    a
+b
+0 aa c
+0  c  a
+b
+0  a c
+0 a b
+b
+#1   c
+x  d
+x  c
+x   a
+b
+#1    e
+x    c
+0  d a
+b
+0  c c
+#1  a
+x    a
+b
+#1     e
+x     c
+0  c  a
+b
+#1     e
+x  a
+0   ca
+b
+0     c
+0   b
+b
+
+b
+#1h   ha
+x   e
+x   h
+xf
+b
+#1e
+xc
+xa d
+#2 a
+x c
+b
+#2 d
+xa
+xc
+xe
+#1f
+x  c
+b
+#1  a
+xe  c
+xc  a
+xa   e
+b
+0 df c
+#1c
+x    e
+b
+#1   a
+xa
+x d
+x c
+b
+#1 acc
+xa
+0acd a
+b
+0  fec
+0 e
+b
+waa c a
+b
+
+b
+1aa c a
+#2 d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+#1   c
+x   a
+x    e
+x    c
+b
+w cdca
+b
+0 daac
+0 acc a
+b
+w cdca
+b
+Y acc a
+b
+b
+
+e

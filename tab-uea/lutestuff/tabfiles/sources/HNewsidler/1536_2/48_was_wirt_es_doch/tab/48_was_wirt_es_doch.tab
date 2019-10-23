@@ -1,0 +1,493 @@
+-C
+-t
+-f
+{48. Was wird es doch?/48. Was wird es doch?}
+b
+c
+0 d a
+1 d ac
+1c  a
+b
+#3d da
+xc
+#4d
+xc
+xa
+x d
+#2a   e
+x d  c
+2a d a
+#3 d
+xa
+#3c
+xa
+#4c
+xa
+x d
+x c
+b
+1 da c
+1 d
+#3 d  c
+x c  a
+x d  c
+xa   e
+#3cd a
+xa   e
+xc  a
+xd  c
+b
+
+b
+2fca
+#4
+xd
+xc
+xa
+#4 d
+x c
+x a
+x c
+#4 d
+xa
+xc
+xd
+1fc
+1hd f
+b
+#2h ah
+xf
+#3h
+xf
+#4h
+xf
+xe
+xf
+#3  fc
+xf
+xe
+xc
+#3f
+xe
+#4f
+xe
+xc
+xe
+b
+0f d a
+1f d
+1    e
+b
+#3f  e
+x   c
+x   e
+x   f
+#2   e
+x   c
+#3f aa
+x   c
+x   e
+x   c
+#3   a
+x    e
+#4   a
+x    e
+x    c
+x    a
+b
+
+b
+#3 a  c
+x    a
+x     d
+x     c
+#3     d
+x    a
+x    c
+x    d
+1 a a
+#3d d
+xc
+xa
+xc
+b
+1h  f d
+#2h  fh
+xf a
+1d  cd
+#3c  a
+xa
+xc
+xd
+b
+#2c aa
+xa
+#3a b  d
+x d
+x c
+x d
+#3   ca
+x d
+x c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+1 d a
+1     d
+#3   a d
+x     c
+x     d
+x    a
+#3 d  c
+x    a
+x    c
+x    e
+b
+
+b
+2 d a
+#4
+xa
+xc
+xa
+#4 d
+x c
+x a
+x c
+#4 d
+xa
+xc
+xd
+1f a
+1   a
+b
+#2  aa
+x   c
+x  de
+x  b
+#3  de
+x  c
+x  d
+x a
+#3 c
+x a
+x c
+x d
+b
+1a  c
+1    a
+#2   ca
+x    c
+xa   e
+x   a
+b
+#3a  c
+x d
+xa
+xc
+#3d
+xc
+xd
+xf
+1h  f
+1    h
+b
+
+b
+#2  bc
+x  a
+x ab
+x  d
+#3 ab
+x c
+x d
+x c
+#4 a
+x c
+x d
+x c
+#4 a
+x c
+x d
+xa
+b
+1c a
+1    c
+#2  a c
+x    e
+xc  a
+x   c
+b
+#3f a
+xe
+xf
+xh
+#2f a
+xd  c
+#3d da
+xc
+xa
+xc
+#3a   e
+x d
+x c
+xa
+b
+1 df c
+#3a
+x d
+#4a
+x d
+x c
+x a
+#3 d
+x c
+x a
+x c
+#3c
+xa
+x d
+xa
+b
+
+b
+#3dd a
+xc
+xa
+xc
+#2f  a
+x   c
+1 da
+#2df f
+xc
+b
+1a d
+#3fd a
+x c
+#4 d
+x c
+x a
+x  d
+#3  fc
+xf
+xe
+xc
+#3f
+xe
+#4f
+xe
+xc
+xe
+b
+0f d a
+#3  d
+x  b
+x  a
+x   c
+#3   a
+x   c
+x  a
+x  b
+b
+#3  d
+x  b
+x  d
+x a
+#2  d
+x  b
+1fda
+#2  a
+x   c
+b
+
+b
+2fd a
+#4
+xd
+xc
+xa
+#4 d
+x c
+x a
+x c
+#4 d
+xa
+xc
+xd
+#3cd a
+xa
+xc
+xd
+#2cd a
+xac  a
+b
+1 df c
+1  d
+#3  bc
+x   a
+x   c
+x   e
+#2a  c
+x   a
+b
+1a   e
+#2  d e
+x    c
+#3c d a
+xa
+x d
+xa
+#3a
+x d
+#4a
+x d
+x c
+x d
+b
+#3 dd a
+x c
+x a
+x c
+2 ab
+#3  a
+x   c
+1  dea
+#3 d c
+x c
+x a
+x c
+b
+
+b
+#3 d ac
+x c
+x a
+x  d
+#3 a
+x c
+#4 d
+xa
+xc
+xd
+1f   a
+#3h a
+xf
+#4h
+xf
+xe
+xf
+b
+1h  fh
+#2h
+xf
+1d  c
+#3d
+xc
+#4d
+xc
+xa
+x d
+b
+0a d a
+#3 cd
+x a
+x c
+x d
+#3a
+x d
+xa
+xc
+b
+#3da c
+xc
+xa
+x d
+#3 c
+x a
+x c
+x d
+#3aab
+xc
+xd
+xf
+1hd
+b
+
+b
+#2hda
+xfc
+#3fd
+x c
+x a
+x  d
+#3  fc
+xf
+xe
+xc
+#3f
+xe
+xc
+xe
+b
+1f de
+#3   e
+x   c
+#4   e
+x   c
+x   a
+x    e
+#2  da
+x    e
+1  da
+b
+2 cd a
+#3 a
+x c
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+#3a
+x d
+x c
+x d
+#3a   a
+x d
+xa
+xc
+b
+
+b
+#2a d e
+x d
+#3a  a
+x d
+x c
+x d
+#3   ca
+x d
+x c
+x a
+#3 d
+x c
+x a
+x c
+b
+Y ddef
+b
+1 a a d
+1  def
+0 a a d
+b
+Y ddef
+b
+b
+
+e

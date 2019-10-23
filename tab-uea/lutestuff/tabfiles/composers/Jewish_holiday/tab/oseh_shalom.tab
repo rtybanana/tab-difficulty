@@ -1,0 +1,274 @@
+-C
+-t
+-f
+{Oseh Shalom/Oseh Shalom}
+b
+C
+#2  d
+x b
+b
+1a   a
+1a  c
+1a  a
+#2a   c
+xa
+b
+1a   a
+1   c
+1    a
+1    d
+b
+1bd a
+1b
+#2 gd
+xf
+#2d
+x g
+b
+1ab c
+1   a
+1ab  d
+1   c
+b
+1 ddd
+1 d
+#2da c
+xb
+#2a
+x d
+b
+
+b
+1 b  d
+1    c
+1    a
+#2 a
+x b
+b
+1 d d
+1   a
+1    c
+#2a
+x d
+b
+1 bd a
+1 ac  a
+0  dca
+.
+b
+b
+#2ab  a
+xd
+#2b
+xa
+0 ddd
+b
+#2 dbd
+xb
+#2a
+x d
+0 bbc
+b
+#2 b ca
+xa
+#2 d
+x b
+1 aa c
+1 a
+b
+#2a   d
+x d
+#2 bd a
+x d
+0aa   a
+b
+
+b
+#2a d a
+xd
+#2b
+xa
+0 ddd
+b
+#2 dba
+xb
+#2a
+x d
+0 bbc
+b
+#2 b ca
+xa
+#2 d
+x b
+1 a ac
+1 a
+b
+#2a  c
+x d
+#2 b
+x a   a
+0  dca
+b
+b
+#2a   a
+xf
+#2f
+xd
+0f  d
+b
+#2a   c
+xd
+#2d
+xb
+0d  c
+b
+
+b
+#2 b ca
+xa
+#2 d
+x b
+1 aa c
+1 a
+b
+#2a   d
+x d
+#2 bd a
+x d
+0aa   a
+b
+#2ab c
+xd
+#2b
+xa
+0 ddd
+b
+#2 dba
+xb
+#2a
+x d
+0 bbc
+b
+#2 b ca
+xa
+#2 d
+x b
+1 aa c
+1 a
+b
+#2a  c
+x d
+#2 b
+x a   a
+1  dca
+b
+b
+#2  d
+x b
+b
+
+b
+1a   a
+1a  c
+1a  a
+#2a   c
+xa
+b
+1a   a
+1   c
+1    a
+1    d
+b
+1bd a
+1b
+#2 gd
+xf
+#2d
+x g
+b
+1ab c
+1   a
+1ab  d
+1   c
+b
+1 ddd
+1 d
+#2da c
+xb
+#2a
+x d
+b
+1 b  d
+1    c
+1    a
+#2 a
+x b
+b
+1 d d
+1   a
+1    c
+#2a
+x d
+b
+
+b
+1 bd a
+1 ac  a
+0  dca
+b
+b
+#2ab  a
+xd
+#2b
+xa
+0 ddd
+b
+#2 dbd
+xb
+#2a
+x d
+0 bbc
+b
+#2 b ca
+xa
+#2 d
+x b
+1 aa c
+1 a
+b
+#2a   d
+x d
+#2 bd a
+x d
+0aa   a
+b
+#2a d a
+xd
+#2b
+xa
+0 ddd
+b
+#2 dba
+xb
+#2a
+x d
+0 bbc
+b
+
+b
+#2 b ca
+xa
+#2 d
+x b
+1 a ac
+1 a
+b
+#2a  c
+x d
+#2 b
+x a   a
+0  dca
+b
+b
+
+e

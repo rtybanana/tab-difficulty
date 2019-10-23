@@ -1,0 +1,306 @@
+-C
+-t
+-f
+{83. Go from my window/Thomas Robinson}
+b
+c
+1 dda
+#2 d
+xa
+1cdda
+1acd a
+b
+1 dda
+1  d
+1 d
+1c da
+b
+1aabc
+#2     a
+xc
+1da c
+1caa c
+b
+1aac  a
+1 ac
+0aacc
+b
+1aa c
+#2a
+xc
+1da c
+#2ca  c
+xa   e
+b
+#2 daa
+xa
+xc
+x d
+#2a   a
+x c
+2  d
+#3 a
+x c
+b
+
+b
+#2 daa
+x    c
+x     d
+xa
+1cdda
+1acd a
+b
+#2   a
+x d
+x  d
+x   a
+0 dda
+b
+b
+1 daa
+#2   a
+xa b
+#2c d
+x da
+xa b
+x c c
+b
+#2 daa
+x  b
+x  a
+x   c
+1 daa
+1c
+b
+1aabc
+#2     a
+xc d
+#2da
+xa b
+xc d
+x ea
+b
+2.aac  a
+3  d
+#2  c
+x  a
+0   c
+b
+
+b
+2.aa c
+3 d
+#2a
+xc
+2d    a
+#3c    c
+xa
+#2 d   d
+x c  a
+b
+#2 da c
+xa   e
+xc  a
+x d
+#2ac
+x    a
+x  d
+x  b
+b
+#2 daa
+xa
+xc
+x     c
+#2aa   d
+x     a
+x d ca
+x c
+b
+2 daa
+#3 a
+x c
+#3 d
+x c
+x d
+xa
+#2 daa
+x  d
+1   a
+b
+b
+#2 daa
+xf
+xd f
+xc d
+#2acd
+x da
+x ab
+x cd
+b
+
+b
+#2 daa
+xd
+xc
+xa
+#2 daa
+x  b
+x  d
+x  a
+b
+#2 ab  a
+xh
+xfh
+xdf
+#2cef
+xaab
+x  d
+x ef
+b
+2aa c
+#3  a
+x  c
+2  d
+#3  c
+x  a
+#2aac
+x   c
+1     a
+b
+#2aa c
+xc
+xd
+xf a
+#2h
+x   f
+xfh h
+x f
+b
+#2 df
+xa
+xc
+x  a
+#2a b
+x   c
+x  de
+x ab
+b
+
+b
+#2 cd
+x    a
+x db c
+xa   e
+#2cd a
+xda   d
+xad ca
+x c
+b
+2 daa
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+0 daa
+b
+b
+1 daa
+2  d
+#2a
+xc
+xd
+b
+1c da
+2 d
+2.    a
+3a
+2 c
+b
+1 daa
+2  d
+2. a
+3  d
+2  b
+b
+1  a
+2   a
+2. d
+3a
+2c
+b
+1aa c
+2c
+1da   a
+2a b
+b
+
+b
+1caa c
+2aa   d
+#2    a
+xc
+x ea c
+b
+1aac  a
+2 b
+#2 a
+x b
+x  d
+b
+1 ac  a
+2   c
+1.     a
+b
+1aa c
+2  a
+1  b
+2  d
+b
+#2 a
+x   c
+x c  a
+#2 d
+x    c
+xa   e
+b
+1 d a
+2a
+1c  a
+2 d  c
+b
+1a d a
+2 c
+2.  d
+3 a
+2 c
+b
+1 daa
+2    c
+2.     d
+3a
+2c da
+b
+
+b
+1a d a
+2 c
+2.  d
+3 a
+2 c
+b
+1 daa
+2  d
+2. a
+3  d
+2  b
+b
+1  a
+2   a
+1. d
+b
+b
+
+e

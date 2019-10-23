@@ -1,0 +1,564 @@
+-C
+-t
+-f
+{My Lord Willoughby's welcome home/My Lord Willoughby's welcome home}
+b
+c
+0abd
+0f
+b
+1.\4da \2c
+2\1b
+1a
+#2\1b
+x\3d
+b
+#1f  d
+x  d
+#1  \4g
+x d
+b
+1.aacc
+2 a
+#1   c
+x  c
+b
+#1 bd a
+xa
+#1\4f
+x\2e \3f&{  a
+b
+#1f g a
+xe f  a
+#1f g a
+x  d
+b
+#2 bd a
+x a
+x  d
+x a
+#2 b d
+x a
+x b
+x d
+b
+
+b
+1.aac  a
+2   c
+#1    c
+x   c
+b
+1. aba d
+2 b
+1 d
+#2 b   d
+x d
+b
+#1abb d
+x db c
+#1abb d
+x db c
+b
+#1abb d
+x db c
+#1abd a
+xc
+b
+1.ddf  d
+2   f
+#1    f
+x   f
+b
+#1abd a
+x    d
+#1cd  c
+xe
+b
+1.fcd a
+2 d
+#1af
+xab  d
+b
+#1 \1d&{\3fa
+x b&}d
+#1 ad\1c a
+x  \2c&{
+b
+1.  d \3e\4f
+2   a
+0   \1c
+b
+
+b
+1. a\1ba d
+2 \1b
+1 d   d
+#2 b
+x d
+b
+#1abb d
+x db c
+#1abb d
+x db c
+b
+#2a   d
+xc
+1dd  c
+#1db  a
+xc
+b
+1.ddf  d
+2   f
+#1    f
+x   f
+b
+#1 bdca
+xa   d
+#1cd  c
+xe
+b
+1\4fc\2d a
+#2\3d
+xc
+#2a   d
+x d
+1a
+b
+1. daa
+2 b
+#2 acc
+x  d
+1 a
+b
+1  dca
+#2  c
+x  a
+#2   c
+x   a
+1   c
+b
+b
+
+b
+#2  \3d\2ca
+xa
+x\1b
+x\2d
+#2\4f
+x  \2d
+x \1b
+x \3d
+b
+#2a    a
+x\2c
+x\4d
+x   \2c
+#2  \1b
+x  \4d
+x a   \3d
+x \1b
+b
+#2 \4d   \1b
+x   a
+x   \3d
+x  \2b
+#2  \4d
+x a
+x \2b
+x \4d
+b
+#2a    a
+x   \1c
+x  \2c
+x  \3d
+#2 a
+x  \2c
+x  \3d&{
+x a
+b
+#2abd
+x    a
+x    d
+x   a
+#2f   a
+x    d
+xea a
+x   c
+b
+
+b
+#2f   d
+x    a
+xea a
+x   c
+#2f   a
+x  d
+x c
+x d
+b
+#2a   a
+x b
+x d
+xa
+#2  \4d  \1b
+x a
+x \2b
+x \4d
+b
+#2a    a
+x  \2c
+x  \3d
+x a
+0  \2c\1c
+b
+1. aba d
+2 b  a
+1 d  c
+#2 b  a
+x d   d
+b
+#1a b d
+x d  c
+1a b d
+#2 d  c
+x   d
+b
+#2a  \1c\3d
+x\2c
+x\4d    \3d
+x \1b
+1 \4d\3da
+#2\2c
+x \1b
+b
+1\4da a d
+#2 \3d
+x b
+1. ab
+2  a
+b
+
+b
+1a bc
+#2  \4da
+x    \3d
+#1c  a
+xea  c
+b
+1.ffg a
+2 \4d
+1ab  \3d
+#2 a
+x  d
+b
+1 \2d\4fa
+#2  \3d
+x \1b
+1 a \1c a
+#2  \2c&{
+x   a
+b
+1  d \3e\4f
+#2    \1c
+x    a
+0  d ef
+b
+#2 ab
+x     d
+x   a
+x b  d
+#2 d  c
+x     d
+x b c
+x d a
+b
+#2a \1b d
+x b
+xd   c
+xb
+#2a b d
+x b
+xd   c
+xb
+b
+
+b
+#2a b
+x    d
+xd  c
+x   a
+#2  d d
+x    a
+xc  a
+x    d
+b
+#2d   cd
+x  b
+x d
+x b
+#2 a
+x  b
+xa
+x d d
+b
+#2 b ca
+x a
+xa d
+x b
+#2ca a
+x    c
+xe  c
+x   a
+b
+#2f g a
+x a
+x  d
+x b
+#2aa   e
+x a
+x b  a
+x  d
+b
+#2 df
+x   a
+x bdd
+x   a
+#2 a c
+x   a
+x  c c
+x   c
+b
+
+b
+#2  d e
+x     f
+x   ef
+x    c
+#1   ce
+x     f
+b
+b
+#2abd
+x    a
+x    d
+x    c
+#2f   a
+x    c
+x    d
+x   a
+b
+#2da c
+x     a
+x  b
+x  a
+#2   c
+x  a
+xa b
+x   c
+b
+#2f  d
+x  d
+x  g
+x  f
+#2  d
+x  f
+x  g
+x d
+b
+#2a    a
+x  c
+x a
+x  d
+#2  cc
+x  d
+x a
+x  c
+b
+
+b
+#2abd
+x    a
+x    d
+x    c
+#2f   d
+x    a
+xe  c
+x     a
+b
+#2f   d
+x    a
+xe  c
+x     a
+#2f   a
+x  d
+x b
+x d
+b
+#2 bd a
+x  d
+xa
+x  d
+#2 bdd
+x a
+x b
+x d
+b
+#2aac  a
+x a
+x  c
+x  d
+#2 a
+x b
+1 a
+b
+1. ab  d
+2 b
+#2 d
+x a
+x b   d
+x d
+b
+
+b
+#2a   \2d
+x\1c
+x\4d
+x \3d
+#2a   d
+xc
+xd   c
+x d
+b
+#2a   d
+x   a
+xd  \1c
+x    c
+#2    d
+x    a
+1\2c  a
+b
+1.dab  d
+2    a
+#2    c
+x    d
+x   a
+x    c
+b
+#2a d d
+x    a
+x    c
+x    d
+#2ca b
+x    c
+1ea c
+b
+1fcd a
+#2d
+xb
+#2a   d
+x d
+xa
+x  d
+b
+#2 dfa
+x  d
+x  f
+x  a
+#2 acc
+x   a
+x   c
+x    c
+b
+
+b
+#2  dce
+x    a
+1  def
+0  d ef
+b
+1. aba d
+2 d
+#2 a
+x b
+x d
+x a   d
+b
+#2a   \2d&{
+x\4d
+x \3d  c
+x\1b
+#2a   d
+xd
+x d  c&}
+xb
+b
+#2a   \3d
+x   \2c
+x \4d  \1c
+x   a
+#2a   \2d
+x    a
+1\1c  a
+b
+#2\4d    \2d
+x a
+x \3d
+x \1b
+#2da
+x    c
+x   c
+x   a
+b
+
+b
+#2ab  d
+x    c
+x    a
+x    d
+#2c   c
+x d
+xeff  a
+x d
+b
+#2f g a
+x a
+x  d
+x a
+#2 b
+x d
+xa   d
+x  d
+b
+#2 dfa
+x  d
+x  c
+x  a
+#2 acc
+x  d
+x     a
+x  c
+b
+#2  dca
+x  b
+x  a
+x   c
+#2   a
+x   c
+x  a
+x  c
+b
+#2acd a
+x d
+x c
+x a
+#2  d
+x a
+x c
+x d
+b
+Yacdca
+b
+b
+
+e

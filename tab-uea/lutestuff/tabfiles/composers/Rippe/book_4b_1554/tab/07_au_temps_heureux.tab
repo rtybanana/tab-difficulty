@@ -1,0 +1,639 @@
+-C
+-t
+-f
+{7. Au temps heureux/7. Au temps heureux}
+b
+c
+waacc a
+b
+0aacc a
+0aacc a
+b
+0 cdca
+0 aabc
+b
+1 acc
+1     a
+1   cef
+1 e  c
+b
+1 c cef
+1   b
+1 a c e
+1 c
+b
+1 da  c
+1 c
+1 a b
+1  d
+b
+1  ccca
+1  a
+1 a c
+1   b
+b
+0  d ef
+1ac
+1  c
+b
+1    c
+1 efe
+1aa c
+1     e
+b
+
+b
+1c d  c
+#2   b
+x    e
+1c  c
+1   b
+b
+0 acc a
+0a  c
+b
+1 efec
+1 c
+1a dce
+1 e
+b
+1 cab
+1 a
+1 ac
+1   c
+b
+1 c ce
+#2  e
+x  c
+1 cf
+1  e
+b
+1 efec
+1  c
+1  a
+1   c
+b
+1   b
+1    e
+0he g h
+b
+0he e h
+0he e h
+b
+0ef ce
+0he e h
+b
+0ha g h
+0hf g a
+b
+
+b
+1fcd  c
+1  c
+1fcde c
+1   c
+b
+0e fg e
+0e   c
+b
+0 ac  a
+1a  c
+1  d
+b
+1a c
+1  ab
+1ac ce
+1   bc
+b
+1cc  ef
+1    ce
+0c d ef
+b
+1e f ge
+1c
+1ef c a
+1f
+b
+1he e h
+1f
+1e c
+1c
+b
+0ac  e
+0f d  c
+b
+0ea   a
+0ccd a
+b
+1 ac c
+1a
+1a dce
+1  c
+b
+
+b
+0  fec
+0 e
+b
+#2a cc a
+x  d
+x a
+x c
+#2 e
+xa
+xc
+xe
+b
+#2c
+xa
+x d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+1a cc a
+1c  {
+1e
+1c   }
+b
+1a cc a
+1 e
+1 ccc a
+1 a
+b
+1 cdc
+1    a
+1    c
+1 aab
+b
+0a cc
+1   cef
+1 e  c
+b
+
+b
+1 c cef
+1   b
+1 a c e
+1 c
+b
+1 d   c
+1 c
+1 a b
+1  d
+b
+1  ccca
+1  a
+1 a c
+1   b
+b
+0  d ef
+1ac
+1  c
+b
+0 efec
+1aa ca
+1     e
+b
+1c d  c
+1     a
+1c  c c
+1   b
+b
+1 acc a
+1e
+1c  c
+1a
+b
+1 efec
+1a
+1a dce
+1 e
+b
+1 cab
+1 a
+1 ac
+1   c
+b
+
+b
+1 c ce
+#2  e
+x  c
+1 cf
+1  e
+b
+1 efec
+1  c
+1   e
+1   c
+b
+1   b
+1    e
+0he g h
+b
+0he e h
+0he g h
+b
+0ef ce
+0ha g h
+b
+0hf g a
+0hf g a
+b
+1fcd a
+1  c
+1fc e c
+1   c
+b
+0effg e
+0e   c
+b
+0 ac  a
+1a  c
+1  d
+b
+1a c
+1  ab
+1ac ce
+1   bc
+b
+1cc  ef
+1    ce
+0c d ef
+b
+
+b
+1e fg e
+1c
+1ef ce
+1f
+b
+1he e h
+1f
+1e  c
+1c
+b
+0ac  e
+0f d  c
+b
+1ea   e
+1  d
+1cc  a
+1ea
+b
+1cad c
+1a c
+1a dee
+1  cc
+b
+1  fec
+1 e  {
+#2 f
+x e
+x c
+x e   }
+b
+1a cc
+1 a
+1 c
+1 e
+b
+1a cc a
+1c
+1e
+1f
+b
+
+b
+1h  gha
+1    g
+1    h
+1   e
+b
+1h  gha
+1   e
+1h   h
+1    g
+b
+0f  eec
+1ea c e
+1c
+b
+1a  cef
+1   c
+1f a  c
+1   b
+b
+1e cc
+1     a
+1     c
+1ca b
+b
+0 fcce
+0c d ef
+b
+0 a   e
+0b   c
+b
+#2c d ec
+x  c  {
+x   e
+x  c
+#2  d
+x   e
+x  c
+x  d   }
+b
+0 a   e
+0e   g
+b
+
+b
+0e f ge
+0ea c a
+b
+1cef c
+1 f
+1cef c
+1e
+b
+1fc ca
+1c
+1ec ca
+1f
+b
+1eac c
+1c
+1a d e
+1  c
+b
+1  fec
+1 e  {
+#2 f
+x e
+x c
+x e   }
+b
+1a cc a
+1   c
+1  a
+1  c
+b
+1  d
+1 a
+1ac  a
+1 e
+b
+1aacc
+1c
+1aacc
+1 d
+b
+
+b
+1 cdca
+1 a
+0acd a
+b
+1aacc
+1    e
+1aada
+1   c
+b
+1 cdca
+1 e
+1a cce
+1 cd
+b
+1 efec
+1   c
+1   e
+1  c
+b
+1 cdca
+1 a
+1 cd
+1  c
+b
+1 ea c
+1 c
+1 ac
+1  d
+b
+1a c  e
+1  a
+1 c c
+1   a
+b
+1c d  c
+1     a
+0c  b c
+b
+1e cc a
+1   b
+1   c
+1  a
+b
+
+b
+1  c
+1     a
+0ea c
+b
+1ffh a
+1  c
+1  d
+1 a
+b
+1fcd a
+1 e
+1ff  a
+1c
+b
+1eacc
+1a
+1cc c
+1e
+b
+1ccda
+1f
+1eaa
+1c
+b
+1 gc e
+1 c
+1  f
+1  d
+b
+1  c
+1   e
+0ha g h
+b
+0he e h
+0he g h
+b
+0ef ce
+0ff ce
+b
+0he e h
+0ea c a
+b
+
+b
+0ec  ef
+0cc  ef
+b
+1e f ge
+1  d
+#2 a
+x  d
+x  c
+x  a
+b
+1  c
+1  d
+0ac  e
+b
+0cef c
+0eef c
+b
+0fc ca
+0cef  c
+b
+0ea   a
+0hff  a
+b
+1  cc
+1f
+1ea
+1c  b
+b
+1acc e
+1    c
+1f d a
+1     e
+b
+1 c   c
+1e
+1cef c
+1a
+b
+
+b
+1 efec
+1a
+1ccd a
+1e
+b
+1ccd e
+1a c
+1a a
+1  dc
+b
+1  fec&{
+#2 e
+x c   }
+#2 f  c
+x e  {
+#3 f
+x e
+x c
+x e   }
+b
+1aaccca
+#2 d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+1   c
+1     a
+0ha g h
+b
+0he e h
+0he g h
+b
+0ef ce
+0ff ce
+b
+0he e h
+0ea c a
+b
+0ec  ef
+0cc  ef
+b
+
+b
+1e f ge
+1  d
+#2 a
+x  d
+x  c
+x  a
+b
+1  c
+1  d
+0ac  e
+b
+0cef c
+0ea  c
+b
+0fc ca
+0cef c
+b
+0ea   a
+0hff  a
+b
+1  cc
+1f
+1ea
+1c  b
+b
+1acc e
+1    c
+1f d a
+1     e
+b
+1 c   c
+1e
+1cef c
+1 f
+b
+1 ea c
+1a
+1ccd a
+1e
+b
+1ccd a
+1a c
+1a a
+1  dc
+b
+
+b
+#2    c
+x ffe{
+x e
+x c   }
+#2 f  c
+x e  {
+#3 f
+x e
+x c
+x e   }
+b
+1     a
+1aac
+1   c
+1  d
+b
+Yaacc a
+b
+b
+
+e

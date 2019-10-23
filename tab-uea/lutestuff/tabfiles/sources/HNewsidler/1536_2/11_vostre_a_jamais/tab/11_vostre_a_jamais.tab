@@ -1,0 +1,339 @@
+-C
+-t
+-f
+{11. Vostre à jamais/11. Vostre à jamais}
+b
+c
+0a  c
+1a  c
+#2   a
+x    d
+b
+0 da c
+0 abc
+b
+0 bd a
+1 bd a
+#2 a   d
+x  d  c
+b
+1  b  a
+1   c
+1 abc
+#2   a
+x    d
+b
+1 a  c
+1     d
+0 dff
+b
+1ab
+#2 b  d
+x a
+#2a b d
+x  d
+1 df  d
+b
+1 b ca
+1  d  c
+#2 a   d
+x  b
+1  b
+b
+1  da
+1  a
+0a b d
+b
+
+b
+1a   a
+1a  cd
+#2   c
+x  a
+x db c
+x b  a
+b
+1 d   d
+1 b  a
+#2b   a
+x    c
+xa b d
+x  a
+b
+#2a b d
+x d
+1 daa
+#3   ca
+x d
+x c
+x a
+#2 d
+x c
+b
+1 d
+1   a
+1 d a
+#3   c
+x   a
+x    d
+x    c
+b
+1  d d
+1   a
+1a d a
+1  b d
+b
+1a d
+1 d  c
+1ab  a
+#2     d
+x     c
+b
+1da   a
+1   c
+1d
+1c  a
+b
+
+b
+1a  cd
+#2 da
+x b
+#2 abc
+x  a
+x  b
+x  d
+b
+#2 a
+x b
+x  da
+x    d
+1    c
+1  c
+b
+#2 bd a
+x a
+x b
+x d
+1a b
+1c da
+b
+#2ca
+xa
+1a  cd
+1  a c
+1 e
+b
+1a  c
+1    d
+#2a   d
+x   a
+x   cd
+x  a
+b
+#2  b d
+x   a
+xa  c
+x  a
+1  b
+#2 d cd
+x b
+b
+
+b
+#2a  cd
+x  a
+x  b
+x  d
+#2 d  c
+x    a
+x    c
+x    d
+b
+#2   a
+x   c
+x daa
+x   c
+#2  a
+x d
+x b ac
+x a
+b
+#2 d ac
+x   c
+x  a
+x  b
+1 bd a
+#2    a
+x    c
+b
+#2    d
+x   a
+x b  d
+x   a
+#2   c
+x b
+x a  d
+x  d
+b
+#2 b  a
+x   a
+x   c
+x  a
+#2 ab  d
+x  d
+x a
+x b
+b
+
+b
+#2 d
+xa
+1 df
+#2 d   d
+x b
+x a
+x  d
+b
+1  bcd
+1 d ac
+1a   d
+1 d  cd
+b
+#2 d ca
+x b
+1 b d
+1   a d
+1 a
+b
+1 b  d
+1    a
+#2 b  a
+x    c
+x    d
+x   a
+b
+1   cd
+1    d
+#2 b  d
+x   a
+x   c
+x  a
+b
+1 ab
+1     d
+#2 ab  d
+x    a
+x    c
+x    d
+b
+1  def
+1   a
+#2 da
+x     a
+x     c
+x     d
+b
+
+b
+1 b ca
+#2   c
+x  a
+1 ab  a
+#2a a
+x   c
+b
+#2  b
+xa
+x dd
+x b
+#2 da c
+x b
+#3 d
+x b
+x a
+x  d
+b
+1  bcd
+#2    d
+x    c
+#2  d a
+x    d
+1 a a d
+b
+#2 a a
+x  d d
+x  d c
+x    a
+1    c
+1  c
+b
+1  d a
+1    a
+1    d
+#2   cd
+x   a
+b
+1  bc
+#2  bc a
+x  d  c
+#2 a   d
+x    a
+x   ac
+x    d
+b
+
+b
+1  aa
+#2  def
+x    d
+#2 bd a
+x a
+x b  a
+x d  c
+b
+#2a   d
+x   a
+1  bc
+1 ddd
+#2   d
+x   c
+b
+#2ab  d
+x d
+xa
+xc
+1da c
+1fb  a
+b
+#2f
+xd
+1d b c
+1  d d
+1c  a
+b
+#2d b  d
+x    a
+x    c
+x    d
+1ca a
+1ab  d
+b
+#2ab  a
+x d
+x b
+x a
+1 bd
+1 abc
+b
+#2   c
+x   a
+1a   d
+1  a c
+1 e
+b
+Ya  c a
+b
+b
+
+e

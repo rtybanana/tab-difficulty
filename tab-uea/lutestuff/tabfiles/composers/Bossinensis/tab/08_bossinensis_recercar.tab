@@ -1,0 +1,130 @@
+-C
+-t
+-f
+{Ricercar 8/Ricercar 8}
+b
+c
+#2 bdca
+x a
+1a b d
+#2b d
+x  b
+x  d
+x   d
+b
+#2b b d
+xa
+#3b
+xa
+x d
+xa
+1bd  b
+1gd f
+b
+#2fg a
+xh
+1ifg
+1 def
+1d bc
+b
+1 bdca
+1 db b
+1 bdca
+1 db b
+b
+
+b
+1a b d
+1b d  b
+1 de  d
+1a b d
+b
+1 dff
+1a   d
+#2b da
+x d
+xa
+xc
+b
+1d e  d
+1ab  d
+1bdda
+1df  d
+b
+#2f  a
+xb
+xd
+xf
+1gd f
+1fd a
+b
+1gd f
+1d e  d
+1fd d
+1c da
+b
+
+b
+1d  a
+1cd a
+#2   bd
+x   a
+x   b
+x    d
+b
+#2 dda
+xc
+#3d
+xc
+xa
+xc
+#2d e  d
+x  d
+#3  e
+x  d
+x  e
+x b
+b
+1b da
+1a d a
+1  b d
+1  ddf
+b
+
+b
+#2  dca
+x c
+#3 d
+x c
+x a
+x c
+#2 dddb
+x    a
+x    b
+x    a
+b
+#2 de  d
+x  d
+x  e
+x  d
+#2 de  d
+x  d
+#3  e
+x  d
+x  b
+x  d
+b
+#2 de  d
+x    a
+#3    b
+x    a
+x    b
+x    d
+0fdda
+b
+0gd f
+Yfdda
+b
+b
+
+e

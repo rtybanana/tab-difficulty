@@ -1,0 +1,366 @@
+-C
+-t
+-f
+{38. Quanto sia liet'el giorno/38. Quanto sia liet'el giorno}
+b
+c
+#2 d
+x c
+x d
+xa
+1.bd
+2a
+b
+1bd
+1ac
+#2bd a
+xa
+xb
+xd
+b
+1f ddf
+#2f
+x   c
+1  ddf
+1   cd
+b
+#2    f
+xf dd
+x    d
+x    c
+1fbd a
+1  d
+b
+1da
+1ab
+#2bd a
+x   c
+x   d
+x  b
+b
+#2abd
+x a
+x b
+x  d
+1 ab
+1 b c
+b
+
+b
+#2  dd
+x b
+x a
+x  d
+1  bc
+1abd a
+b
+1bdda
+1bdda
+1dfg d
+1dfg d
+b
+#2fbdd
+xa
+xb
+xd
+1fbdd
+#2df  d
+x  f
+b
+1bdda
+1aabc
+#2 b  d
+x a
+x dddf
+x   f
+b
+#2 cdca
+x a
+x d
+x c
+#2 dda
+x c
+x d
+xa
+b
+1.bd
+2a
+1bd
+1ac
+b
+
+b
+2bdda
+#3 a
+x b
+#3 d
+xa
+xb
+xd
+1f ddf
+#2f
+x   c
+b
+1  ddf
+1   cd
+#2   a
+xf dd
+x    d
+x    c
+b
+#2fb  a
+x    c
+x    d
+x   a
+1da c
+1ab  d
+b
+#2bdda
+xa
+xb
+x d
+2abd
+#3 d
+x b
+#3 d
+x b
+x a
+x  d
+b
+1 ab
+1 b c
+2  dd
+#3b
+xa
+#3 d
+x b
+x a
+x  d
+b
+1  bc
+1abd a
+1bdda
+1bdda
+b
+
+b
+1dfg d
+1dfg d
+1fbdd
+#2   a
+x   c
+b
+1fbdd
+#2df  d
+x a
+1bdda
+#2abb d
+x    c
+b
+#2    f
+x ddd
+x dff d
+x   d
+2  dca
+#3 c
+x a
+2 c
+#4 d
+x c
+x a
+x c
+b
+#2 dda
+x   c
+x   d
+x  b
+#2  d
+x a
+xabd a
+x    c
+b
+1abb d
+1abb d
+#2abb d
+xd
+xb
+xa
+b
+
+b
+#2 dddf
+x   f
+x  d
+x  f
+1 cdca
+1 cdc
+b
+1    a
+1abd a
+1abd a
+1abd a
+b
+1bdda
+1bdda
+#2dfg d
+x d
+x f
+x g
+b
+#2    d
+xdfg
+x g
+x f
+1 dddf
+1 cdca
+b
+1 daac
+#2 ac
+x d
+#2 cdca
+x d
+xa
+x    c
+b
+1df  d
+1   c
+1 gddf
+1aabc
+b
+1abd a
+#2 dfec
+x  d
+#2a bcd
+x d
+x b
+x a
+b
+
+b
+2 bdca
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+#2df
+xc
+xab
+x df
+b
+1ab
+1 bbcd
+1 a df
+1  dcd
+b
+1  dac
+1  c
+#2  dca
+x  c
+x  d
+x a
+b
+#2 b
+x d
+1ffg a
+1dabc
+1fbdd
+b
+1bdda
+1dabc
+#2fb  a
+xd
+xb da
+xa   d
+b
+#2 d  c
+x b  a
+xda   d
+xb da
+#2ab  d
+x d  c
+x b  a
+x a   d
+b
+
+b
+#2bbd  b
+xaab
+x ddd
+x bbc
+#2 aba d
+x c
+x da c
+x  c
+b
+1  dca
+1 c
+#2 dda
+x c
+x d
+xa
+b
+#2b
+xd
+1ffg a
+1dabc
+1fbdd
+b
+1bdda
+1dabc
+#2abd a
+xd
+xb da
+xa   d
+b
+#2 d  c
+x b  a
+xda   d
+xb da
+#2ab  d
+x d  c
+x b  a
+x a   d
+b
+#2bbd  b
+xaab
+x ddd
+x bbc
+#2 aba d
+x b
+x da c
+x  b
+b
+
+b
+#2  dca
+x c
+#3 d
+x c
+x a
+x c
+1. dda
+2   c
+b
+1 dde
+1 dff d
+#2 ddef
+x   f
+x   e
+x   c
+b
+1 ddef
+1 dff d
+1 ddff
+1   e
+b
+#2 dff d
+x    a
+x    c
+x    e
+Y ddef
+b
+b
+
+e

@@ -1,0 +1,260 @@
+-C
+-t
+-f
+{17. Dubienschela/Anonymous}
+b
+c
+1  d a
+b
+#2 bd
+x d
+xa
+x b
+#2 d a
+x b
+x a
+x  d
+b
+0 a c
+1
+1 a c
+b
+1 bd
+#2 db
+x  a
+1a  c
+1b  a
+b
+#2b d
+xa
+1 b
+1 db
+#3a
+x d
+x b
+x a
+b
+0 b  d
+1
+1a d
+b
+1a d
+1  d
+1b  a
+1   a
+b
+
+b
+#2 db
+x  d
+x db
+x  a
+1a  c
+1c  a
+b
+1d   d
+#2 b
+xc
+1a
+1 db
+b
+1 bd
+1  dd
+1 a c
+1 a c
+b
+0  d a
+1
+1  d a
+b
+#2 bd
+x d
+xa
+x b
+#2 d a
+x b
+x a
+x  d
+b
+0 a c
+1
+1 a c
+b
+1 bd
+#2 db
+x  a
+1a  c
+#2b  a
+xd
+b
+
+b
+#2b d
+xa
+x d
+x b
+1 db
+#3a
+x d
+x b
+x a
+b
+0 b  d
+1
+1a d
+b
+1a d
+1  d
+1b  a
+1   a
+b
+#2 db
+x  d
+x db
+x  a
+1a  c
+1c  a
+b
+1d   d
+#2 b
+xc
+1a
+1 db
+b
+1 bd
+1  dd
+1 a c
+1 a c
+b
+1  d a
+1  d
+1 b
+1a
+b
+#2ca
+xd
+xa
+xc
+0d  c
+b
+
+b
+1a
+1  d
+1  d
+1a d
+b
+#2a  c
+x   a
+xa  c
+x  a
+1 db
+#2b  a
+xd
+b
+#2b d
+xa
+x d
+x b
+1 db
+#3a
+x d
+x b
+x a
+b
+0 b  d
+1
+1 b d
+b
+#2 b d
+x d
+xa
+x b
+#2 d a
+x b
+x a
+x  d
+b
+0 a c
+1
+1 a c
+b
+1 bd
+1 db
+1a   d
+1 db
+b
+
+b
+#2 db
+x b
+x ad
+x  d
+1 a c
+1 a c
+b
+0  d a
+1
+1a d
+b
+1a d
+1  d
+#2b  a
+xd
+xb  a
+xa
+b
+#2 db
+x  d
+x db
+x  a
+1a  c
+1c  a
+b
+1d   d
+#2 b
+xc
+1a
+1 db
+b
+1 bd
+1  dd
+1 a c
+1 a c
+b
+0  d a
+1
+1a d
+b
+1a d
+1  d
+#2b  a
+xd
+xb  a
+xa
+b
+
+b
+#2 db
+x  d
+x db
+x  a
+1a  c
+1c  a
+b
+1d   d
+#2 b
+xc
+1a
+1 db
+b
+1 bd
+1  dd
+1 a c
+1 a c
+b
+wa d a
+b
+b
+
+e

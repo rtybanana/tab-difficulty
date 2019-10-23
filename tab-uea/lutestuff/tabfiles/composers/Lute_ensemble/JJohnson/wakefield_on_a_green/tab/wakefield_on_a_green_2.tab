@@ -1,0 +1,630 @@
+-C
+-t
+-f
+{Wakefield on a green/Wakefield on a green}
+b
+0  ba d
+1  da c
+b
+0 acc a
+1 acc a
+b
+0  dca
+1  dca
+b
+0  dca
+1   c
+b
+b
+#2 a
+x c
+#2 d
+x a
+#2 d
+x  d
+b
+2  c
+#3  a
+x  c
+2  d
+#3  c
+x  d
+2 a
+#3  d
+x a
+b
+
+b
+2 c
+#3 a
+x c
+2 d
+#3 c
+x d
+2a
+#3 d
+xa
+b
+2c
+#3a
+xc
+2e
+#3c
+xe
+1f
+b
+b
+0  ba d
+1  da c
+b
+0 acc a
+1 acc a
+b
+0  dca
+1  dca
+b
+0  dca
+1   c
+b
+b
+2 a
+#3 c
+x d
+2a
+#3 d
+x c
+#3 a
+x c
+2  d
+b
+
+b
+2  c
+#3h
+xf
+2h
+#3 a
+x c
+#3 e
+xa
+xc
+xe
+b
+#2f
+xa
+#2c
+x d
+#2a
+x c
+b
+#2  d
+xa
+#3a
+x d
+x c
+x a
+1  d
+b
+b
+0  ba d
+1  da c
+b
+0 acc a
+1 acc a
+b
+0  dca
+1  dca
+b
+0  dca
+1   c
+b
+b
+
+b
+#3    c
+x    e
+x   a
+x   c
+#3  a
+x  c
+x  d
+x a
+#3  d
+x a
+x c
+x d
+b
+#3a
+xc
+xe
+xf
+#3h
+xf
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+#2  d
+xf
+#3c
+xe
+2f
+#2a
+x c
+b
+#3 c
+x d
+2a
+#3  d
+x a
+x c
+x d
+#3a
+xc
+xe
+xf
+b
+b
+0  ba d
+1  da c
+b
+
+b
+0 acc a
+1 acc a
+b
+0  dca
+1  dca
+b
+0  dca
+1   c
+b
+b
+2 a
+#3  b
+x  d
+#3 a
+x b
+2 a
+#2  d
+x  a
+b
+2  c
+#3   c
+x  a
+#3  c
+x  d
+2 a
+#2  c
+x   c
+b
+2    e
+#3    a
+x    c
+#3    e
+x   a
+2   c
+#2    e
+x    a
+b
+
+b
+2  d
+#3  d
+x a
+#3 c
+x d
+2a
+#2 c
+x  d
+b
+b
+0  ba d
+1  da c
+b
+0 acc a
+1 acc a
+b
+0  dca
+1  dca
+b
+0  dca
+1   c
+b
+b
+0  ba d
+1  da c
+b
+0 acc a
+1 acc a
+b
+0  dca
+1  dca
+b
+0  dca
+1   c
+b
+b
+#3 a
+x  d
+x  b
+x  a
+#2   c
+x a
+#3 c
+x a
+x c
+x d
+b
+
+b
+2a
+#3c
+xe
+#3f
+xh
+xk
+xl
+#2n
+xl
+b
+#3k
+xh
+xk
+xl
+2k
+#3 a
+x c
+#3 e
+xa
+xc
+xe
+b
+2f
+#3 f
+x h
+#3e
+xf
+xh
+xe
+1f
+b
+b
+0  ba d
+1  da c
+b
+0 acc a
+1 acc a
+b
+0  dca
+1  dca
+b
+0  dca
+1   c
+b
+b
+
+b
+2 a
+#3 c
+x d
+2a
+#3 d
+x c
+#3 d
+x c
+x a
+x  d
+b
+2  c
+#3e
+xc
+#3e
+xc
+xa
+x d
+#3 c
+x a
+x  d
+x  c
+b
+2  d
+#3f
+xd
+#3f
+xd
+xc
+xa
+#3c
+xa
+x d
+x c
+b
+#3a
+x d
+xa
+xc
+#3a
+x d
+x c
+x a
+2  d
+#3 a
+x c
+b
+b
+
+b
+2 d
+#3 c
+x d
+2a
+#3 d
+x c
+#2 a
+x  d
+b
+2  c
+#3d
+xc
+2a
+#3 d
+x c
+2 a
+#3  d
+x  c
+b
+2  d
+#3f
+xd
+2f
+#3a
+xc
+#2a
+x d
+b
+2 c
+#3 d
+xa
+2c
+#3a
+x d
+2 c
+#3 a
+x  d
+b
+b
+0  ba d
+1  da c
+b
+0 acc a
+1 acc a
+b
+0  dca
+1  dca
+b
+
+b
+0  dca
+1   c
+b
+b
+0  ba d
+1  da c
+b
+0 acc a
+1 acc a
+b
+0  dca
+1  dca
+b
+0  dca
+1   c
+b
+b
+2 a
+#3 d
+x c
+#2 d
+x c
+#2 a
+x  d
+b
+2  c
+#3e
+xc
+#2e
+xc
+#2a
+x d
+b
+2 c
+#3f
+xe
+#2f
+xc
+#2a
+x d
+b
+
+b
+2  d
+#3a
+x d
+#2a
+x d
+#2 c
+x  d
+b
+b
+0  ba d
+1  da c
+b
+0 acc a
+1 acc a
+b
+0  dca
+1  dca
+b
+0  dca
+1   c
+b
+b
+2    c
+#3    e
+x   a
+#3   c
+x  a
+2  b
+2   a
+#3   c
+x  a
+b
+#3  c
+x  d
+2 a
+2     e
+#3    a
+x    c
+#3    e
+x   a
+2   c
+b
+
+b
+2a
+#3c
+xe
+#3f
+xh
+2k
+2    a
+#3    a
+x    c
+b
+#3    e
+x   a
+2   c
+2  d
+#3  d
+x a
+#3 c
+x d
+2a
+b
+b
+0  ba d
+1  da c
+b
+0 acc a
+1 acc a
+b
+0  dca
+1  dca
+b
+0  dca
+1   c
+b
+b
+2 a
+#3  d
+x a
+#2  b
+x a
+#2  d
+x  a
+b
+2  c
+#3  a
+x  c
+#2   c
+x  d
+#2  c
+x   c
+b
+
+b
+2 c
+#3 a
+x c
+#2  d
+x d
+#2 c
+x  d
+b
+2    e
+#3    c
+x    e
+#2    a
+x   a
+#2    e
+x    a
+b
+b
+0  ba d
+1  da c
+b
+0 acc a
+1 acc a
+b
+0  dca
+1  dca
+b
+0  dca
+1   c
+b
+b
+2 a
+#3 c
+x d
+#2a
+xh
+#3f
+xe
+xf
+xc
+b
+
+b
+2e
+#3a
+xc
+#3e
+xf
+xh
+xf
+#3e
+xc
+xa
+x d
+b
+#3 c
+x a
+x c
+x d
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+2  d
+#3  a
+x  c
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+1  d
+b
+b
+
+e

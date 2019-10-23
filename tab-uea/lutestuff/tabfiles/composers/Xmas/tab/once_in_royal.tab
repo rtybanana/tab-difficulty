@@ -1,0 +1,94 @@
+-C
+-t
+-f
+{Once in David's Royal City/Once in David's Royal City}
+b
+C
+1  def
+1 cbc
+b
+1 dde
+#2   a
+x d
+#2 da a
+x c c
+x da
+xa b
+b
+1a b
+1 daa
+1 da a a
+1cda   /a
+b
+
+b
+1fda  c
+#2      a
+xcd
+#2cdd a
+xa b
+x da a
+x c c
+b
+0 daa  a
+1  def
+1 cbc
+b
+1 dde
+#2   a
+x d
+#2 da a
+x c c
+x da
+xa b
+b
+1ac  a
+1 daa
+1 da a a
+1cda   /a
+b
+
+b
+1fda  c
+#2     d
+xcd
+#2cdd a
+xa b
+x da a
+x c c
+b
+1 daa
+1      a
+#2hi f
+x   h
+xh f
+x  h
+b
+1fda
+#2   a
+x d
+1da c a
+1dcd a
+b
+1cdda
+1      a
+#2hi f
+x   h
+xh f
+x  h
+b
+
+b
+1fda
+#2   a
+xcd
+#2cdd a
+xa b
+x ddca
+x c
+b
+w da a a
+b
+b
+
+e

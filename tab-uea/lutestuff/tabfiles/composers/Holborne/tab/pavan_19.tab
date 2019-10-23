@@ -1,0 +1,325 @@
+-C
+-t
+-f
+{Pavan 19/Pavan 19}
+b
+c
+0 dda  a
+#1 daa
+xa b
+b
+#2cdda
+x    c
+x    e
+x   a
+1 dff d
+#2 c
+x d
+b
+1ad c a
+#2 c
+x a
+2acdca
+#3 d
+x c
+#3 d
+x c
+x a
+x c
+b
+#2cdda
+xa
+xc
+xd
+#2f  a
+xc
+xd
+xf
+b
+#2dff  a
+x     c
+x     d
+x     a
+#1cdd  c
+x c
+b
+
+b
+#1aab  d
+x cdca
+#2 daac
+x   c
+x da
+x  c
+b
+#1ac ca
+x   a
+xac c
+x da
+b
+#1 c ca
+x a a
+xac ca
+x    cd
+b
+#1f   ac
+x     a
+xf da c
+xda   a
+b
+#1fhi   a
+xdf
+xcd a
+xac
+b
+#1 df fd
+x    e
+xhd f d
+x  d  c
+b
+#1hi   a
+xfh
+xdf
+xcd
+b
+1acd a
+#2c  a
+xd  c
+#2f a
+xc
+xd
+xd
+b
+
+b
+1f d a
+#2d
+xc
+2acd
+#3 a
+x c
+#3 d
+x c
+x a
+x c
+b
+wcdd   a
+.
+b
+b
+.
+0 dfffd
+#1 df
+x c
+b
+#1 dfffd
+x  f
+xaab c
+x   ce
+b
+#1ccd  c
+x f
+x dfffd
+x     c
+b
+#1ab   a
+x a
+xd  ce
+x  d
+b
+#1cda   a
+x  d
+x  def
+x ab
+b
+1acdca
+#2    a
+x    c
+#2  d d
+x    c
+x    d
+x    a
+b
+
+b
+#2 da c
+x  b
+x  a
+x   c
+#2 da c
+x   c
+x  a
+x  b
+b
+#2 cdca
+x a
+x c
+x d
+#2a
+x a
+x c
+x d
+b
+#1acd a
+x d
+#2aa c d
+xc
+xd
+xc
+b
+1c d ec
+#2f
+xd
+#2fc e c
+xd
+xf
+xc
+b
+#1dfg  a
+x  f
+xdf f a
+x  da c
+b
+#1dff  d
+xc   a
+x da c
+xa d e
+b
+#1cdda
+xdc
+xfa a c
+x  d
+b
+
+b
+#2aa c a
+xf
+xe
+xc
+2ef c
+#3f
+xe
+#3f
+xe
+xc
+xe
+b
+wfcdca
+.
+b
+b
+.
+0fdaa
+#1f a
+xd b
+b
+#2fhia
+x i
+x h
+x i
+#1fhia
+xd  c
+b
+1cdf c
+#2   a
+x   c
+#1ccde c
+x f
+b
+1 dff d
+#2d
+xf
+1ha f a
+#2f
+xd
+b
+#1fc e c
+x  d
+xda acd
+x    a
+b
+
+b
+2caa c
+#3 d
+x c
+#3 a
+x c
+x d
+xa
+#3c
+xa
+x d
+x c
+#3 a
+x  d
+x  c
+x  a
+b
+#2aac  a
+x c
+x a
+x  d
+#2 abc
+x c
+x d
+x a
+b
+#1 cd a
+x d
+0if  a
+b
+#1ha  he
+x   a
+xffh a
+x   c
+b
+#1dff  a
+x     c
+x a   d
+x c  a
+b
+#2cda c
+xd
+xc
+xa
+#2ca  c
+xa
+xc
+xd
+b
+
+b
+#2ff  a
+x     d
+x     c
+x     a
+#2fha   a
+xc
+xd
+xf
+b
+#1dff ca
+x    e
+#2cdd  c
+x f
+x d   d
+x c
+b
+1addca
+#2 c
+x a
+2acd a
+#3 d
+x c
+#3 d
+xa
+xc
+xd
+b
+Ycdda  a
+.
+b
+b
+
+e

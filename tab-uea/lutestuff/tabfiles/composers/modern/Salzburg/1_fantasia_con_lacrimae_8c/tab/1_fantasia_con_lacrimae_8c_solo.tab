@@ -1,0 +1,577 @@
+-C
+-t
+-f
+{1. Fantasia con "Lacrimae"/1. Fantasia con "Lacrimae"}
+b
+2    e a
+x    b /a
+b
+b
+C
+w a
+w c
+b
+w. d
+#1 b
+x  e
+b
+w  d
+#0   d
+x  b
+b
+w.  c
+0  a
+b
+w   c
+w   b
+b
+wc
+#0    e
+xe
+b
+wf   c
+0    b
+#1d
+xb
+b
+0a
+#1    d
+x   a
+#0 b b
+x d
+b
+#0 eb
+x   d
+0   c
+#1 c
+x a
+b
+
+b
+w  ee
+w  c c
+b
+#0  dge
+x   e
+0 aa f
+#1   g
+x  a
+b
+0   d
+#1 b  d
+x    b
+0 d  a
+#1  b
+x  d
+b
+#0  e  b
+x     d
+#0ad   e
+x  g
+b
+#1 ef  c
+x c
+0 e
+w c   a
+b
+w ea   &'c
+#0ac    a
+x  c
+#0 dd   /b
+xc
+b
+0d     /a
+#1 f f
+x   d
+0fb c
+#1 a    /c
+x      /e
+b
+#0  d d /f
+xh   f
+#0   fg g
+x      e
+b
+
+b
+0h  gga
+#1g   e
+xe   c
+0g    g/i
+#1   i
+x  a
+b
+wea &^  e
+#0 c  a
+xf     f
+b
+#0h i
+x     h
+0 i    /h
+#1 hg d
+x  e
+b
+0a da b
+#1     d
+x    a
+#0 d dfg
+x  bc
+b
+#0  ccf
+x    d
+#1 eabc
+x    e
+#0   b
+x   ce
+#1b
+x c
+b
+wc  bc
+#0 a c
+xe
+b
+#0f a
+x c
+0 d  c
+#1d c
+xb
+b
+0a d
+#1 b  e
+x  e
+0  d f
+#1   f
+x   d
+b
+
+b
+0 b c
+#1    d
+x    b
+w d da
+b
+w eb d
+0  c  b
+#1 c a
+x a
+b
+0  egg
+#1   e d
+x   c
+0   b e
+#1 b  e
+x    c
+b
+0 d  b
+#1     c
+x     a
+0 ee b c
+#1 e
+x c
+b
+#0 b
+xb
+#0 d
+x  e
+b
+0
+#1  b
+x   c
+#0  d
+x  a
+b
+#0 a
+x  c
+0. c
+1 a
+b
+#0c e
+x e
+#0e g
+x   g
+b
+
+b
+0f
+#1   d
+x    f
+0   f
+#1d  c
+xb
+b
+#0a d
+x  a
+0. a
+1  d
+b
+0a c
+#1 c
+x a
+0c e
+#1   e
+x   c
+b
+#0d  b
+x    d
+0   d
+#1b  a
+x e
+b
+#0 db
+x   c
+0  d
+#1  d
+x  b
+b
+0 d e
+#1  f
+x  d
+#1a c
+x  a
+x   c
+x   a
+b
+#0b   e
+x    b
+0   b
+#1 e  d
+x c
+b
+
+b
+0 b d
+#1b  a
+x   a
+#1 db
+x  b
+xd  c
+x   c
+b
+#1a d
+x   f
+xf a
+xd
+#1ca
+x  d
+xh  g
+xf
+b
+#1 kh
+x   k
+xk  ik
+x    h
+#1  k g
+xg
+0m  lm
+b
+0   gi
+#1e   e
+x g
+#1g  d g
+x   a
+xd b
+x     d
+b
+#1    d
+x   c
+x  d
+x    a
+#1   a
+x  a
+x a
+x    c
+b
+
+b
+#1   c
+x  d
+x  c
+x   a
+#1 c  e
+x a
+x  ee
+x   c
+b
+#1  ab
+x   c
+x   bc
+x    a
+1    de
+#2   a
+x   c
+#1   d b
+x   b
+b
+1   ab
+#2   c
+x  a
+#1  b  d
+x   d
+1   cd
+#2  a
+x  b
+#1  d a
+x  b
+b
+1  aa
+#2  b d
+x  d
+#1 a  c
+x  d
+1  cc
+#2  d
+x a
+#1 c  e
+x a
+b
+0ccdeec
+#1   c
+x   a
+#0ea ce a
+x f
+b
+
+b
+#0fd    /b
+x  a
+0 d f a
+#1d
+x g
+b
+#0a gfa
+x a
+0 bdd  b
+#1 d
+x   d
+b
+w eef  /c
+0  cd  /a
+#1 c
+x a
+b
+0  egg /f
+#1   e
+x    h
+0  efg /f
+#1      e
+x     d
+b
+w  cbde
+#0  c  e
+x   e
+b
+#0   de a
+x    c
+0   db a
+#1  b
+x  d
+b
+0  ee c
+#1    d
+x   a
+#0 ddb c
+x b
+b
+0 a c a
+#1  b
+x   d
+w cdc c
+b
+
+b
+#0 ebc a
+x  aa
+wa ccd
+b
+0   ac
+#1cdd
+x b
+#0 df a
+xd
+b
+#0ffgh  g
+x      e
+#0hd f a
+x   d
+b
+0 fh h a
+#1g  a  f
+xe
+0g   e
+#1 ee
+x  h
+b
+#0 ef  c
+x   e  c
+#0ea b e
+x  c  b
+b
+#0 c db
+xf
+#0h  f d
+x d
+b
+#0aig hf
+x h
+#0a gfa
+x a
+b
+#0 ddec
+x d
+#0 efh  e
+x     d
+b
+
+b
+0 e  ge
+#1 e g
+x  g
+0 g d e
+#1 g g e
+x  h
+b
+wcce ec
+w   e
+b
+W
+b
+w a  c
+0    e
+#1  d
+x   f
+b
+w  aa
+0 d
+#1    d
+x    b
+b
+#0    a
+x c
+#0 c   b
+x a   d
+b
+w a   e
+0     c
+#1  e
+x  c
+b
+0  e  a
+#1  c
+x  e
+w a    c
+b
+wc a
+0  c   a
+#1a
+x d
+b
+#0 cd
+x      /b
+0f     /a
+#1   f
+x   d
+b
+
+b
+0   c
+#1e     /c
+x      /e
+#0e a   c
+xc
+b
+#0b
+x c
+0.cd
+1 b
+b
+0 cf  d
+#1     b
+x e
+wac   a
+b
+#0  e  c
+x d
+#0h f  e
+x d
+b
+0  h a
+#1f
+x i
+#0 hi
+x k   h
+b
+0lli
+#1   l i
+x i i
+#0 h hf
+xk
+b
+#0kk ai
+xh  fh
+#0h  g
+x g
+b
+0gh  h
+#1  a g
+x    hk
+wh   g
+b
+w h
+#0eh  e
+x g
+b
+
+b
+#0f
+x  ia h
+0f h hg
+#1 if
+x g
+0aa  d
+#1  e
+x   a
+b
+wca bc
+#0    a
+xk
+b
+0la  l
+#1      g
+xi
+0hf
+#1   d e
+x d
+b
+wk h hg
+#0gha   f
+x f
+b
+#0h i kh
+x   g
+0hf he
+#1g
+xh
+b
+wghaa
+0  a
+#1l    i
+x     g
+b
+#0kg aa
+xh
+#0he    e
+x      g
+b
+0hf  ee
+#1g
+xe
+0g h
+#1      f
+x     a
+b
+whaa   /f
+w      /b
+b
+b
+
+e

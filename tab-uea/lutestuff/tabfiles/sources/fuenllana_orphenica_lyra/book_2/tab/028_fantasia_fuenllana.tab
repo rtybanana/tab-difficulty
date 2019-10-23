@@ -1,0 +1,442 @@
+-C
+-t
+-f
+{28. Fantasy/Miguel de Fuenllana}
+b
+c
+w d
+b
+0 d
+0 c
+b
+0 db
+0a
+b
+1  b
+1 d
+0b  d
+b
+0a b
+0 bd
+b
+1b
+1  b
+0 de
+b
+1  da
+1a
+1b
+1 a
+b
+1 b a
+1 a
+0ab  d
+b
+0  ea d
+0  bc
+b
+1     d
+1   a
+0  dd b
+b
+0  bc d
+0    df
+b
+1   d
+1     d
+0   ab
+b
+
+b
+0   ca
+0    d
+b
+1 d ab
+1   c
+1   d
+1   a
+b
+0 d da
+0 c c
+b
+0 d a
+0a   d
+b
+1    a
+1 bd
+1b
+1   d
+b
+1  e
+1a
+1 d
+1  d
+b
+1df f
+1 d d
+1 c c
+1 a a
+b
+0dc c
+0cd a
+b
+1fb d
+1  d
+1 d
+1 g
+b
+1gf f
+1 d
+0 d
+b
+0f d
+1 c
+1d
+b
+
+b
+0bde
+0d
+b
+0 dda
+1b
+1a
+b
+1bdda
+1 a
+0dfg d
+b
+0. dea
+1  d
+b
+1 bbc
+1  e
+1  d
+1  b d
+b
+0  dd
+1   a
+1   d
+b
+1  bc
+1    d
+0 d df
+b
+0d  c
+0    d
+b
+1.b  a
+2a
+1 d
+1b
+b
+1a b
+1 d
+1a
+1b
+b
+1. d d
+2   c
+1   a
+1   d
+b
+
+b
+0 b c
+1    d
+1  d
+b
+0  ea
+1  d
+1    d
+b
+1    b
+1  b
+0  b d
+b
+0 b  a
+0  a
+b
+1.  ef d
+2  d
+1   f
+1  e
+b
+0  ddf
+0 a
+b
+0dbbc
+0  ef
+b
+0i  h
+0    k
+b
+1.gd f
+2f
+1d
+1g
+b
+0f g
+1   h
+1  g
+b
+1d e  d
+1f
+0d
+b
+0f g d
+1d
+1f
+b
+
+b
+1.gd f g
+2    a
+1     d
+1   a g
+b
+0fb d b
+0  d
+b
+0dde  d
+0deg d
+b
+1 dda
+1d
+0c
+b
+1.ddef
+2  d
+1  e
+1   f
+b
+1. ddd
+2   c
+1   a
+1   d
+b
+1. bbc
+2  e
+#2 b
+x  e
+x b
+x  d
+b
+1  ea
+1  d
+0  d d
+b
+0 d  b
+0  b
+b
+0  d a
+0 c
+b
+0 d a
+0b
+b
+
+b
+0a
+0    e
+b
+0 dda
+0   d
+b
+0   c
+0 bb
+b
+0 dda
+0deg d
+b
+0 dea
+0c d
+b
+0ddef
+0g
+b
+0f g
+0   e
+b
+0d gf
+0 de
+b
+0cbd
+0de  d
+b
+0 d
+0    c
+b
+0 bb d
+0   b
+b
+0 d ff
+0   e
+b
+0 d f d
+0  e
+b
+0 bd a
+0  ef g
+b
+0  dfd
+0   ef
+b
+
+b
+1dbbb
+1   d
+1   f
+#2   d
+x   b
+b
+0ddda
+1c
+1  f
+b
+1deg d
+1f
+0ggi  g
+b
+1f g d
+1 d
+1deg
+1  e
+b
+1ddda
+1  b
+1c d
+1    d
+b
+1ddb b
+1 b
+0 eb d
+b
+0 b  a
+1  b
+1  a
+b
+0  ef d
+1  d
+1   f
+b
+0  def
+0  bb
+b
+1  d f
+1   f
+0fd e
+b
+0gd f d
+1 d
+1f
+b
+
+b
+1de b
+1 d
+1 e
+1 d
+b
+1fb d
+1  e
+1  d
+1d  c
+b
+1cd a
+1 b
+1 d
+1 b
+b
+1d eb
+1  d
+1  b
+1b  a
+b
+1 fg d
+1  e
+1  g
+1  e
+b
+1cdda
+1 b
+1 d
+1 b
+b
+1d eb
+1   a
+1deg d
+1  e
+b
+1cdda
+1    d
+0ddb b
+b
+1fb  a
+1  b
+0  de
+b
+
+b
+1 def d
+1    a
+1    b
+1    d
+b
+0  ea
+0    b
+b
+0  d d
+0  bb
+b
+0   df
+1  e
+1    d
+b
+1    b
+1  d
+0  b d
+b
+1    a
+1  b
+0  a
+b
+1g  f d
+1  d
+1  e
+1  g
+b
+0gd
+0  e
+b
+0f g
+0de
+b
+0cd
+1g
+1  g
+b
+1  e
+1f
+0d e b
+b
+0  d d
+0c  a
+b
+
+b
+0d  b
+1  e
+1   a
+b
+0dbb d
+0 d  c
+b
+0de  d
+0  g
+b
+Yddf  d
+b
+b
+P
+e

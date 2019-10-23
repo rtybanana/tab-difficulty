@@ -1,0 +1,244 @@
+-C
+-t
+-f
+{Vivre ne puis/Vivre ne puis}
+b
+c
+0aabc
+1aabc
+1c
+b
+#2dabc
+x  a
+x  b
+x  d
+b
+1ddff
+#2   e
+x   c
+b
+1cd a
+#2 c
+x a
+1  d
+1cdda
+b
+1cdda
+1cdda
+#2dabc
+xd
+1dfg
+b
+#2ffg a
+xd f
+xc d
+xa b
+#2c da
+xa
+1da ac
+b
+#2  bcd
+xc
+1a d
+#2a a c
+x   c
+x ea
+#3a
+x e
+b
+
+b
+1aab  a
+#3   c
+x  a
+x  b
+x  d
+1 aaa
+1  dcd
+b
+1 aa c
+1 dff
+#2 bd a
+x    c
+xa   d
+x   a
+b
+#2 abc
+x  d
+x abc
+x c
+1 dda
+1    c
+b
+#2ab  d
+x    c
+xabd a
+xc
+1ddf  d
+1ccd
+b
+1aab  d
+#2 d
+x  a
+#2  dca
+x c
+x d
+x c
+b
+1 daac
+1  b  d
+1 dd f
+1   e
+b
+
+b
+#2 ab  d
+x b
+#3 d
+x b
+x a
+x  d
+#2 db
+x  d
+1ddf
+b
+1ddda
+1cd
+#2ddff
+xf
+xh  f
+x   h
+b
+#2h ff
+x  h
+1 dde
+#2 dff
+xd
+1dcbc
+b
+#2 dda
+xc
+#3d
+xc
+xa
+xc
+1dab
+1   c
+b
+1 ab
+#2a
+x  a
+1d  c
+1ca a
+b
+#2 abc
+xa
+1a dcd
+2a a c
+#3 e
+x c
+#2 e
+x  a
+b
+
+b
+#2a bc
+x  a
+xd bc
+x   a
+#2 abc
+x  d
+xca
+xac
+b
+1c da
+1da   d
+1.db  d
+2    c
+b
+1f   a
+1hd f d
+#2abb d
+xc
+xda c
+xa
+b
+1c da
+1da ac
+#2  bcd
+xc
+1a d
+b
+1aaa c
+1 ea c
+1aa c
+1     a
+b
+2aa c
+#3 d
+x b
+#3 a
+x  d
+x  b
+x  a
+1d bc
+1ca a
+b
+#2 abc
+xa
+xa dcd
+x    a
+1 ab c
+1 ea
+b
+
+b
+#2a bc
+xc
+xd bc
+x  a
+#2 abc
+x  d
+xca
+xac
+b
+2c da
+#3a
+xc
+1da   d
+1.db  d
+2    c
+b
+1f   a
+1hd f d
+#2abb d
+xc
+xda c
+xa
+b
+#2c da
+xa
+xda ac
+xc
+#2  bcd
+xa
+xa d
+x  b
+b
+#2 ea c
+x     d
+x ea a
+x    c
+1aa   a
+#2   c
+x d
+b
+#2    a
+x b c
+x a
+x  d
+0aa c a
+b
+b
+
+e

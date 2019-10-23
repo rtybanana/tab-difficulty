@@ -1,0 +1,186 @@
+-C
+-t
+-f
+{236. Galliard/Francis Cutting}
+b
+2.aa c
+3c
+#2d
+x   c
+#2da b
+xc
+b
+2.aa c
+3  a
+#2  b
+x   c
+#2  de
+x e
+b
+2.da c
+3 c
+#2cd a
+x a
+#2aa  e
+x  e
+b
+2. df c
+3    e
+#2   a
+x    c
+#2a b d
+x  d
+b
+
+b
+2. ab c
+3 c
+#2 da
+x    c
+#2 b ca
+x  a
+b
+2. ab  d
+3    a
+#2    c
+x     d
+#2ab  a
+xc
+b
+#2da   a
+x     c
+#2     d
+x     a
+#2 f ec
+x e
+b
+#2     a
+xaac
+#2   c
+x  d
+1aac  a
+.
+b
+b
+.
+1 da c
+#2 da
+x c  a
+#2 a   d
+x  d  c
+b
+
+b
+#2  b  a
+x   c
+#2 ab
+x   a
+#2a   e
+x d  c
+b
+#2 c  a
+x  d
+#2ac
+x  b
+#2f  e
+xd  c
+b
+#2c  a
+x d
+#2c
+xac
+#2 df
+x cd
+b
+#2 d f
+x  f
+#2 d
+x  de
+#2 abc
+x c
+b
+#2 daa
+xc
+#2 ab
+xa
+#2  de
+x e
+b
+
+b
+#2aa c
+xd
+#2   b
+xc
+#2aa c
+x     a
+b
+#2    c
+x ef
+#2   e
+x f
+1 efec
+.
+b
+b
+.
+1a d d
+#2 d  c
+x  b
+#2 b  a
+x  a
+b
+#2 a   d
+x   c
+#2  d  c
+x   b
+#2     a
+xda c
+b
+#2c  a
+x a
+#2a   d
+x  d
+#2 d  c
+x  b
+b
+
+b
+#2  dff
+x   e
+#2   f
+xh
+#2f  e
+x e
+b
+#2d  c
+x c
+#2c  a
+x a
+#2a   e
+x  e
+b
+#2 ef c
+x    a
+#2     d
+x d
+#2 b  a
+x  b
+b
+#2  a d
+x   c
+#2 a bc
+x   c
+#2  d
+x   b
+b
+#2     a
+x ac
+#2   c
+x  d
+Yaaccca
+.
+b
+b
+
+e

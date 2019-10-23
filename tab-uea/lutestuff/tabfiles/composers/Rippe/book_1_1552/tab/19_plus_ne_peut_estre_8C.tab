@@ -1,0 +1,239 @@
+-C
+-t
+-f
+{19. Plus ne peut estre/19. Plus ne peut estre}
+b
+c
+wcdda  a
+b
+wddf  d
+b
+0cdda  a
+1aab  a
+1  a
+b
+1  b
+1  d
+1aab  a
+1 c
+b
+1cdd
+1   a
+1      a
+1d
+b
+1cdda  a
+#2a    {
+xc
+#2d
+xc
+#3d
+xc
+xa
+xc
+b
+1ddf
+1    f
+1     d
+1ddf
+b
+1      a
+1cdd
+1aab  a
+#2 a
+x c
+b
+
+b
+#2 d
+xa
+xc
+xd
+#2f   a
+xd
+xc
+xa
+b
+1cdda
+#2 c
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+1   a
+1      a
+1cdd
+1   a
+b
+b
+1 aba d
+1 aba d
+1 aba d
+b
+#2  def a
+x   c
+#2   a
+x    e
+#2  dac
+x    a
+b
+1 aba d
+#2   c a
+x cd
+1 dfec
+b
+1 dff d
+2 cdca
+#3 a  {
+x c
+#3 d
+x c
+#4 d
+x c
+x a
+x c    }
+b
+
+b
+#2 da
+x   a
+#2      a
+x  b
+1 daa  a
+b
+1abb d
+1abb d
+1abb d
+b
+#2abb d
+xc
+#2a
+x d
+#2 c a
+x a
+b
+#2 cd
+x   c
+#2    a
+x d
+1 cdca
+b
+1 dff d
+1 dff d
+1 dff d
+b
+#3abb d
+x a
+x b
+x d
+#3a
+xc
+xd
+xc
+#3a  a
+x d
+x c
+x a
+b
+
+b
+2 cdca
+#3  c
+x  a
+#3   c
+x   a
+x    e
+x    c
+1 cdca
+b
+b
+c
+0
+0fcd a
+b
+0fdde  a
+0fdde  a
+b
+1dab  a
+1  d
+1dab  a
+1 c
+b
+1      a
+1cdd
+1   a
+1acd a
+b
+1    c
+1 da
+1     c
+1 c c
+b
+1 a a d
+1    e
+1 a a
+1     d
+b
+#2  dca
+x a
+x b
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+1  a
+1   a
+1      a
+1  b
+b
+
+b
+0  aaa a
+0fcd a
+b
+0fdde  a
+0fdde  a
+b
+1dab  a
+1  d
+1dab  a
+1 c
+b
+1      a
+1cdd
+1   a
+1acd a
+b
+1    c
+1 da
+1     c
+1 c c
+b
+1 a a d
+1    e
+1 a a
+1     d
+b
+#2  dca
+x a
+x b
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+1  a
+1   a
+1      a
+1  b
+b
+Y  aaa a
+b
+b
+
+e

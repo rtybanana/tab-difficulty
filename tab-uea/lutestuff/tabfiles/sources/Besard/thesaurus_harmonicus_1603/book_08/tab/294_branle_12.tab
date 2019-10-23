@@ -1,0 +1,207 @@
+-C
+-t
+-f
+{294. Branle 12/294. Branle 12}
+b
+1   aa a
+2   c
+b
+.
+2   da a
+#3   f
+x   d
+x   c
+x   a
+#2    e
+x    a
+x  d
+b
+#2  ba  a
+x  d
+x   d
+#2    e
+x   a
+x      a
+b
+
+b
+#3   ca
+x   a
+x   c
+x   d
+2   c
+#3   a  a
+x    e
+x   a
+x   c
+x   a
+x   c
+b
+2   d  a
+#3   f
+x   d
+x   c
+x   a
+2    e
+#3   c
+x   d
+x   f
+x   c
+b
+2   d  a
+#3    a
+x    c
+x    e
+x   a
+#3   c a
+x   a
+x    e
+x   a
+x   c
+x    e
+b
+
+b
+#3   a  a
+x    e
+x   a
+x   c
+2   a
+#2 dda
+x      a
+xacd a
+b
+2bdda
+#3d
+xb
+xa
+x d
+#2 c  a
+x  d
+xf
+b
+#2d   d
+xf
+xbdda
+#2acd a
+x d d
+x      a
+b
+#3acd a
+x d
+xa
+xb
+2a
+#3 dda
+x c
+x d
+xa
+x d
+xa
+b
+
+b
+2bdda
+#3d
+xb
+xa
+x d
+2 cdca
+#3a
+xb
+xd
+xa
+b
+2bdda
+#3  d
+x a
+x c
+x d
+#3a   a
+x d
+x c
+x d
+xa
+x c
+b
+#3 dda  a
+x c
+x d
+xa
+2 d
+#3  d   a
+x a
+#2 b  a
+x  d
+b
+1 dda
+2 b
+1  e  d
+2  d  b
+b
+
+b
+1  b d
+2   d
+#3  b d
+x   d
+x   c
+x   d
+x  b
+x   c
+b
+#3   d b
+x   c
+x   d
+x  b
+x  d
+x a
+2 b  a
+#3  d
+x a
+x b
+x  d
+b
+2.  e  d
+3 b
+2  d  b
+2  b d
+#3  d
+x  b
+x   d
+x   c
+b
+
+b
+2   d  a
+#3   c
+x   d
+2   a
+#3   c a
+x   a
+x    e
+x   a
+x   c
+x    e
+b
+A1
+#3   a  a
+x    e
+x   a
+x   c
+2   a
+1   aa a
+2   c
+.
+b
+b
+A2
+#3   a  a
+x    e
+x   a
+x   c
+Y   a
+b
+b
+
+e

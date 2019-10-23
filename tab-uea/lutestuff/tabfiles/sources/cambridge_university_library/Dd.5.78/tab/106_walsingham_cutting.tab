@@ -1,0 +1,494 @@
+-C
+-t
+-f
+{106. Walsingham/Francis Cutting}
+b
+#2bbd  b
+xd
+1f
+1dfg d
+b
+1bbd  b
+1 dedb
+1 bdd b
+b
+#2b  a
+xd  c
+#2f dd
+x  f
+1dfg d
+b
+1bbd  b
+1   d
+1     b
+b
+#2abb d
+xb  a
+#2da c
+x b
+#2f  d
+x d
+b
+#2b da
+x  bc
+#2 ddd
+x ab
+#2 cdca
+x d  c
+b
+#2a   d
+xc  a
+1da c a
+1acd a
+b
+
+b
+2 dda
+#3 a
+x c
+#3 d
+x c
+x d
+xa
+1 dda
+b
+b
+#2bbdd
+xd
+1f
+1dfg d
+b
+#2b da
+x   c
+#2 d db
+x  b
+1  dca
+b
+#2bbd  b
+xd
+#2f
+x d
+1dfg d
+b
+1bbd  b
+#2   d
+x  e
+1bbd  b
+b
+#2abb d
+xb
+#2d
+x d  c
+#2if  a
+xhi
+b
+#2fg a
+x      a
+#2 d   b
+x     d
+1  dca
+b
+#2aa c d
+xcd a c
+#2dc c a
+x a
+1acd a
+b
+
+b
+2 dda
+#3 a
+x c
+#4 d
+x c
+x d
+x c
+#4 d
+x c
+x a
+x c
+1 dda
+b
+b
+#2bdda
+xd
+#2f  d
+x g
+#2df f
+x d
+b
+1bbd
+1 de
+#2 bdd
+x   c
+b
+2bdda
+#3d   d
+x    b
+#2f   a
+x    b
+2dbb d
+#3   a
+x   c
+b
+1bbdd
+2  d
+#3a
+x d
+2 b
+#3 d c
+x   a
+b
+2a   d
+#3b  a
+x  d
+2d bc
+#3b
+xd
+#2f   a
+xdf
+b
+
+b
+#2bd a
+x   c
+#2 d db
+x  b
+#2  dca
+x a
+b
+#2abd
+xcd
+2df c
+#3cda
+x  b
+#2add
+x c
+b
+2 dda
+#3 c
+x a
+#3  d
+x  b
+#4  d
+x  b
+x  a
+x   c
+1   a
+b
+b
+#3b  d
+xa
+xb
+xd
+#3f
+x a
+x b
+x d
+#3a   d
+xb
+xd
+xa
+b
+
+b
+#3b  a
+x  d
+x a
+x b
+#3 d  b
+x   a
+x   d
+x  b
+#3  d a
+x b
+x d
+xa
+b
+#3b    b
+x  b
+x  d
+x  e
+#3 b
+x d
+x f
+xb
+#3d   d
+xf
+xg
+xd
+b
+2bbdd
+#3   c
+x   a
+#3    d
+x    b
+x    a
+x     d
+#3     b
+x     d
+x    a
+x    c
+b
+#3a   d
+x   a
+x   c
+x   d
+#3d  c
+x   a
+x    d
+x    c
+#3f   a
+x     d
+x     b
+x     a
+b
+
+b
+2.bdd   a
+3a    a
+#3 d   b
+x     a
+x     b
+x     d
+#3  d a
+x a
+x b
+x d
+b
+#3a    d
+x d
+xa    c
+xc
+#3d    a
+xf
+xd
+xcd
+#3acd a
+x a
+2acd
+b
+#3      a
+x d
+x c
+x a
+#3  d
+xf
+xc
+xd
+1cdd
+b
+b
+#3   d
+x  g
+x g
+xd
+#3f
+x   d
+x  d
+x  f
+#3db  d
+x a
+x  d
+x  b
+b
+
+b
+2b da
+#3a
+x  b
+#3 d d
+x   c
+x   d
+x   a
+#3 cdca
+xa
+xb
+xd
+b
+#3f
+xh
+2i
+#2h  a
+xfg d
+#2dg  d
+x f
+b
+#tx  d
+x d
+t3 d
+2  e
+t2 b
+2 d
+b
+#txd
+xb
+t3b
+2 d  c
+#txi
+xh
+b
+t3d
+2b
+#txd
+xb
+t3 d
+2 b
+b
+
+b
+#txa
+xc
+t3f
+2h
+t#3c
+xd
+2f
+b
+#txa
+xc
+xd
+2c
+#tx c
+x d
+xa
+2 d
+1 dda  a
+b
+b
+#2bdda
+xd b
+#2f dd
+x d a
+#2d  c
+xac
+b
+2bdd   a
+#3 b   a
+x a
+#2 dd  b
+x a
+#2 cdca
+x     d
+b
+#2bbd  b
+xd
+2f  d
+#3 b  a
+x d  c
+#3df  d
+x g
+x  e
+x f
+b
+
+b
+#2bbd  b
+x   d
+#2 bd
+x de
+#2 b
+xb d
+b
+#2ab  d
+xbd
+#2df c
+x d
+2f gd
+#3 d
+x f
+b
+#2bd a
+xab
+#2 dgf
+x  f
+2 bb d
+#3a
+x   a
+b
+#3   c
+x  a
+x  b
+xc d
+#3da
+x c
+2cd e
+#2adb
+xacd
+b
+2.cdda
+3  bc
+#3  de
+x ab
+x c c
+x  b
+1 dda
+b
+b
+#2bbdd
+xd
+#2f
+x d
+#2df  d
+x  g
+b
+
+b
+2.bdda
+3f
+#3df
+xf
+xbd
+xd
+#2acd a
+xi
+b
+#2bde b
+xd
+#2fb d b
+x d
+#2dfg d
+x  e
+b
+#2bbd  b
+x  b
+#2  d
+x  e  d
+#2 b  a
+x d  c
+b
+#2a b d
+xb d
+#2d e
+x     d
+#2 d  b
+xa   d
+b
+#2b da
+x      a
+#2  d  b
+x a   d
+#2 bd a
+x d  c
+b
+2ab  d
+#3c   c
+x    a
+#3da   d
+x c
+xcd
+xd
+2f   a
+#3 c
+xd
+b
+
+b
+1cdd   a
+#2   a
+xd
+Ycdd   a
+b
+b
+
+e

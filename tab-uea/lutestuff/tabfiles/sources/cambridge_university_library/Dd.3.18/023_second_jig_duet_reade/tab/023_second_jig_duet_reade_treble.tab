@@ -1,0 +1,242 @@
+-C
+-t
+-f
+{23. Second jig/Richard Reade}
+b
+#2
+x
+x
+#3 dda
+xa
+#2c
+x d
+b
+1ddf  d
+2acd a
+2cdda
+#3 d
+x     a
+x     c
+x     d
+b
+1a d a
+2     d
+#3f d a
+xh
+#2i
+xh    a
+b
+2f    c
+#3    a
+xd
+2acd a
+1.cdda
+b
+b
+#2
+x
+x
+#4 d a
+x c
+x d
+xa
+#2c
+x d
+b
+
+b
+#4d
+xc
+xd
+xf
+#3h
+xd
+xa
+x c
+#3c
+xa
+#4 d
+x c
+x d
+x f
+#3 d
+x a
+b
+1a d a
+2     d
+#4f
+xd
+xf
+xh
+#2i
+xh
+b
+#4f
+xd
+xf
+xh
+3f
+#4c
+xf
+2d
+2a
+1cdda
+b
+b
+#2
+x
+x
+#3cd a
+xd
+#2f
+xhd f d
+b
+#2fdda
+xc
+xda c a
+#2a   a
+x c
+x  da
+b
+#2 a  c
+x d
+xda c
+1a d a
+#3a    d
+x d
+b
+
+b
+2. c  a
+3  d
+2 acc a
+1.  dca
+b
+b
+#2
+x
+x
+#4c
+xa
+xc
+xd
+#3f
+xc
+2h
+b
+#2f
+xc
+#3d
+xc
+#4a
+x d
+xa
+xc
+#4a
+x d
+x c
+x a
+2  d
+b
+
+b
+#4 a
+x  d
+x a
+x c
+3 d
+#4a
+xc
+#3d
+xc
+#4a
+x d
+x c
+x a
+#4 c
+x d
+x c
+x  d
+2 acc a
+b
+0.  dca
+b
+b
+#2
+x
+x
+2.f
+#4d
+xc
+#3a
+xd
+b
+#2c  a
+x d
+x cd  c
+#3 d  c
+xa
+xc
+xd
+2f   a
+b
+#2h    d
+xl
+xk   a
+#2ha   a
+x     d
+xfd a
+b
+2.fcd a
+3d
+2ac
+1.cdda
+b
+b
+#2
+x
+x
+2.f
+#4d
+xc
+#3a
+xd
+b
+
+b
+#2c
+x d
+x c
+#4 d
+x c
+x d
+xa
+#4c
+xa
+xc
+xd
+2f
+b
+#2h
+xl
+xk
+#3h
+x a
+#4d
+xf
+#3h
+xf
+x d
+b
+#4c
+xd
+#3f
+xa
+3 c
+#3f
+xd
+Y.cdda
+b
+b
+
+e

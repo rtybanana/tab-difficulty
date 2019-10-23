@@ -1,0 +1,209 @@
+-C
+-t
+-f
+{354. Courante 27/354. Courante 27}
+b
+x   a  a
+x    d /a
+b
+b
+2 b
+2. bdd
+3 d
+2a  c
+b
+.
+#2b  a
+xa   d
+#3 d
+xa
+2 dff
+#3     d
+x  g
+2  f
+b
+#2  g
+x    d
+xd
+2.dfg
+3f
+2d f
+b
+2f
+#3   h
+xh
+xi
+x h
+2h
+#3   f
+x  i
+x f
+x h
+b
+#2 i
+x  g
+xi
+#2h
+x  i
+x f
+b
+
+b
+2.fg
+3h
+2f
+#3df
+x d
+x  g
+x  f
+xf d
+xd
+b
+#3bd
+x b
+x  e
+x  d
+xd b
+xb
+#3a d
+x  b
+x   d
+x   c
+xb  a
+xa
+b
+#3 db
+x   d
+x   c
+x   a
+xa  c
+x d
+b
+2 bdd
+#3   c
+x   a
+2 b  d
+#3 d
+xa
+2 d   d
+#3  g
+x d
+b
+A1
+#2  g
+x      /a
+x b
+2. bdd
+3 d
+2a  c
+.
+b
+b
+A2
+#2  g
+x      /a
+xd
+b
+
+b
+.
+2d  c
+#3a
+xb
+xd
+x b
+2b  a
+#3a
+xb
+xd
+xb
+b
+#3a   d
+xd
+xb
+xa
+x d
+x b
+#3 a
+x  d
+x  b
+x   d
+x   c
+x   a
+b
+2a   d
+#3    c
+x    a
+2d    d
+#3     c
+x     a
+2c     a
+#3a
+xc
+b
+2d
+#3     d
+x b
+x a
+x  d
+2.  b
+3f
+2h
+b
+#2i  h
+x    a
+xha
+#3f   a
+x i
+xf
+xh
+x i
+xf
+b
+
+b
+#3b   a
+xa
+xb
+xd
+xa b
+xb
+#3 d d
+x b
+x d
+xa
+x b c
+x d
+b
+2 aba d
+#3  d
+x a
+#2 b   a
+x     b
+#3 a   d
+x b
+x d
+xa
+b
+A1
+2 bbcd
+#3      /a
+x d
+xa
+x d
+1 b
+2d
+.
+b
+b
+A2
+2 bbcd
+#3      /a
+x d
+xa
+x d
+Y. b
+b
+b
+
+e

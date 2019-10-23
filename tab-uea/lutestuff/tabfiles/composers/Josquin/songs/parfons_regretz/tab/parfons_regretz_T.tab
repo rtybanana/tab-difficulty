@@ -1,0 +1,289 @@
+-C
+-t
+-f
+{Parfons regretz/Parfons regretz}
+b
+c
+wa  c
+b
+0 df
+1  f
+#2 b
+x a
+b
+0 bd
+1 b
+1  b
+b
+0 a c
+0   c
+b
+0  a
+0 da
+b
+0 bd
+0 bd
+b
+1 ab  a
+1   c
+0  b
+b
+0  a c
+0 d  c
+b
+0 b  a
+1 b
+1     d
+b
+1 a c a
+1a
+1a  c
+1a
+b
+
+b
+0 df c
+0aa c a
+b
+1. bd ac
+2 a
+1  d a
+1  b  d
+b
+0   cdf
+0  d  f
+b
+1 a  cd
+1     a
+1 a c d
+1    c
+b
+0  defc
+1  d  d
+1   f
+b
+0 bd a
+0  d a
+b
+1 abc a
+1  a
+1  b
+1 a
+b
+0 daac
+1    c
+1 a a
+b
+0 b ca
+1 b  d
+#2     d
+x   a
+b
+
+b
+1 a c a
+1a
+1a
+1a  c
+b
+0 df c
+0aa c a
+b
+1. bd ac
+2 a
+1  d a
+1  b  d
+b
+0   cdf
+0  d a
+b
+1 a  cd
+1     a
+1 a c d
+1    f
+b
+0  defc
+1  d d
+1  b
+b
+0 bd a
+0  d a
+b
+1 abc
+1   c
+0  b
+b
+0  aac
+0 d
+b
+0a  c
+1 abc
+1 cd
+b
+
+b
+1 dfa
+1  d
+1   a
+#2  b
+x  a
+b
+1 abc
+1  bc
+1  aa
+#2  bc
+x   e
+b
+#2a  f
+x  def
+x a ce
+x   ac
+#2a  ce
+x  e
+x  e e
+x  c
+b
+0 dfec
+0 d
+b
+1a
+1   c
+1 df
+1a  f
+b
+#2   c
+x d
+x c
+x ab
+1 ca
+1 c
+b
+0 a  c
+0 df
+b
+
+b
+0a  c
+1. abc
+2 c
+b
+0 dda
+0  aa
+b
+1 abc
+1  bc
+1  aa
+#2  bc
+x   e
+b
+#2a  f
+x  def
+x a ce
+x   ac
+#2a  ce
+x  e
+x  e e
+x  c
+b
+0 dfec
+0 d
+b
+1a
+1   c
+1 d
+1a b
+b
+#2   c
+x d
+x c
+x ab
+1 ca
+1 c
+b
+0 a  c
+0   a
+b
+
+b
+0   c
+0 a c
+b
+0 da
+0 ba
+b
+0 ab
+1 a
+1  a
+b
+1aa c
+1   a
+0ab  d
+b
+0cd  c
+1c f
+1 d
+b
+0df c
+1   c
+#2cda
+x  b
+b
+1abd
+1 df
+0 bde
+b
+0. a  cd
+1 a
+b
+0 b  a
+0 b ca
+b
+0 ab c
+0 da c
+b
+0.a bcd
+1 d  c
+b
+
+b
+1 bd a
+1 a   d
+0  d  c
+b
+0  b  a
+0  bc
+b
+0.ab
+1 df
+b
+1 bd
+1 ab
+0  de
+b
+0 a c
+1  b  a
+1 a
+b
+0 bdca
+0 bd a
+b
+0. abc a
+1 ab  a
+b
+0. bdca
+1 bd a
+b
+1 a c d
+1 ab  a
+1. bd a
+2     d
+b
+w abc a
+b
+w ab&Uc a
+b
+w abc a
+b
+b
+
+e

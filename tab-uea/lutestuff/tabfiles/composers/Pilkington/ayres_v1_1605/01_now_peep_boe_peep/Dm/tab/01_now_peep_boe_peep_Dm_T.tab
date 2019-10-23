@@ -1,0 +1,208 @@
+-C
+-t
+-f
+{1. Now Peep, Boe Peep/1. Now Peep, Boe Peep}
+b
+C
+0
+1
+1  aa  /a
+b
+0  a ec
+1
+1  e ec
+b
+0 a ac
+1 c  b
+1  a
+b
+1 aa c
+1  e ec
+1 ca b
+#2 a ac
+x   c
+b
+1  eee
+1     c
+1 dde  a
+#2 dde
+x dde
+b
+1. df  d
+2 dde  a
+1 cd a
+1  dca
+b
+0
+1 dd   a
+#2 dd   a
+x dd
+b
+1. ca  c
+2 cb  a
+1 dd   a
+1 ab  d
+b
+
+b
+1     a
+1 abc
+#2     c
+x  fe
+#2  e
+x   c
+b
+1 aab  /a
+1    c
+1 a
+1  aa
+b
+1  bc
+1  de
+1 a c
+1 a a
+b
+1 a  e
+1  e
+1 a  c
+1    e
+b
+1 a a  /a
+1.  e ec
+2 a  cd
+1 cd a
+b
+1. d ec
+2  f
+1 cd
+1     c
+b
+1 cc e
+1 cc
+0  eeec
+b
+1  a  c
+1 aa   a
+1  bc a
+1  a ec
+b
+0  ab  /a
+1  c ca
+1   c
+b
+0.  ccca
+1  cc
+b
+
+b
+0  dca
+1 d e  a
+1  d
+b
+#2  d a
+x a
+#2 c
+x  d
+#2 a  c
+x d
+#2 c
+x a
+b
+0  ee
+0     c
+b
+1
+1  ee c
+0 aa c
+b
+1
+1  ee c
+1  cee
+1  cde
+b
+0  eeec
+0 c ca
+b
+.
+1  de c
+1  de
+1 ab  d
+1   c
+b
+1 c ca
+1  d
+1 da c
+1 daa
+b
+1 ab  d
+1 ab
+1.  aac
+2  b
+b
+
+b
+1    a
+1  dc
+#2   c
+x  b
+x  a
+x   c
+b
+0  aa  a
+0  aa
+0      a
+b
+0. aba d
+1 da   a
+1 a c a
+1 c
+b
+0 dde  a
+0    f
+0      a
+b
+0.  dca
+1  de c
+1   acd
+1   c
+b
+0  a ec
+0  a e
+1      a
+1 daa
+b
+1     a
+1 cb
+#2 a
+x   c
+x  a
+x  b
+1  ee
+1     c
+b
+
+b
+#2  aa  /a
+x    c
+x   a
+x   c
+#2   e
+x  f
+x  e
+x  c
+1  e  c
+1   c
+b
+A1
+c
+0 aab  /a
+0 c ca
+.
+b
+b
+A2
+w aab  /a
+b
+b
+
+e

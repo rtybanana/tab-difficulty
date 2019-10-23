@@ -1,0 +1,257 @@
+-C
+-t
+-f
+{/}
+b
+1 ea   //a
+1 ea   //a
+1 ea   //a
+b
+1 ea c
+1 ea c
+1 ca b
+b
+1 aabc
+1 aab  //a
+1 a c e
+b
+1  eeec
+0
+.
+b
+b
+.
+1cce  c
+1cce  c
+1cce  c
+b
+1cef   //a
+1cef   //a
+1      //a
+b
+1ce  c
+1cc  b
+1cc  b
+b
+1 ea c
+0
+b
+1 ce  c
+1 ce  c
+1 ce  c
+b
+1 efe  //a
+1      //a
+1 ce  c
+b
+1 a b e
+1 cf  c
+1  e
+b
+
+b
+1 efe  //a
+0
+.
+b
+b
+c
+0ccd  c
+0      5
+b
+0 dd  c
+1 dd  c
+1 cc  b
+b
+1 cd  c
+1 a   e
+1 ca a
+1     c
+b
+1b c e
+1ac  a
+1 da c
+1a d e
+b
+1cdda
+#2    e
+x    c
+1 cdca
+1 ef
+b
+1 ccc
+1 a d e
+1 cde c
+1 ccd
+b
+1 cde
+1 cc  b
+1 cd  c
+1     e
+b
+1 cd a
+1 ed  c
+1a c  a
+1 ed  c
+b
+
+b
+1 ba  e
+1acc   /a
+1 eh  e
+1  g
+b
+1 cdca
+1 ca b
+1 da c
+1aa   e
+b
+1b c e
+1cc  a
+1 daa
+1    c
+b
+1 dc  b
+1 cd  c
+1 ccee
+1   d  /a
+b
+w cde c
+b
+w dd  c
+b
+0ccd  c
+1ca bc
+1bac e
+b
+0cdda
+0ec de
+b
+0a\3c\2c&{   /a
+0 \4e&(d\3e  /a
+b
+1ae\1c   /a
+1 c
+0\1c\4e\2d   /a
+b
+0\4e\2c   \1b
+0ccd  c
+b
+0ccd   5
+0ced   5
+b
+0ecc   6
+0eeg   4
+b
+b
+
+b
+wbcc   /a
+b
+.
+1ccd  c
+1     c
+1aa   e
+b
+0cc  a
+#2 ef  e
+x g
+b
+0.ccd  c
+b
+0.acc e
+b
+0bac   /a
+1cbc   a
+b
+0.ec   b
+b
+1cca
+1ec c
+1c da
+b
+1b c e
+#2      /a
+x    c
+#2    a
+x     e
+.
+b
+b
+1b c e
+1      /a
+1ec ce
+b
+.
+1fc ca
+1    a
+1ed  c
+b
+0.ff  e
+b
+0cdda
+1e
+b
+0.acd e
+b
+
+b
+1 dd c
+1 ddc
+1a c  a
+b
+0 cdca
+1 e
+b
+0.aa   e
+b
+0 ed  c
+1 ea c
+b
+1aa   e
+1ac  a
+1 ea c
+b
+0.aac  a
+b
+0 ed  c
+1ac
+b
+0 eg  e
+1 cc  a
+b
+1 ed  c
+1eeh  e
+1  g
+b
+1ec c  /a
+#2    e
+x   b
+#2ec d
+x    e
+b
+1cca
+1ec c
+1ca a
+b
+0ec de
+1 ca a
+b
+1 dcec
+1 ccee
+1   d  /a
+b
+
+b
+A1
+0 cde c
+1ec ce
+.
+b
+b
+A2
+0. cde c
+b
+b
+
+e

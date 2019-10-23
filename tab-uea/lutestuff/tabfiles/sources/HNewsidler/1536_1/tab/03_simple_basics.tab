@@ -1,0 +1,272 @@
+-C
+-t
+-f
+{3. Simple Basics/3. Simple Basics}
+b
+c
+#2     \3d
+x     \2c
+x     \3d
+x    a
+#2    \2c
+x    a
+x    \2c
+x     \3d
+b
+#2    a
+x     \3d
+x    a
+x    \2c
+#2    \3d
+x    \2c
+x    \3d
+x    a
+b
+#2    \2c
+x    a
+x    \2c
+x    \3d
+#2   a
+x    \3d
+x   a
+x    \2c
+b
+#2    \3d
+x    \2c
+x    \3d
+x   a
+#2   \2c
+x   a
+x   \2c
+x    \3d
+b
+
+b
+#2   a
+x    \3d
+x   a
+x   \2c
+#2   \3d
+x   c
+x   \3d
+x   a
+b
+#2   \2c
+x   a
+x   \2c
+x  a
+#2  \1b
+x  a
+x  \1b
+x   \2c
+b
+#2  a
+x   \2c
+x  a
+x  \1b
+#2  d
+x  \1b
+x  d
+x  a
+b
+#2  \1b
+x  a
+x  \1b
+x  d
+#2 a
+x  d
+x a
+x  \1b
+b
+#2  d
+x  \1b
+x  d
+x a
+#2 \1b
+x a
+x \1b
+x  d
+b
+
+b
+#2 a
+x  d
+x a
+x \1b
+#2 d
+x \1b
+x d
+x a
+b
+#2 \1b
+x a
+x \1b
+x d
+#2a
+x d
+xa
+x \1b
+b
+#2 d
+x \1b
+x d
+xa
+#2\1b
+xa
+x\1b
+x d
+b
+#2a
+x d
+xa
+x\1b
+#2d
+x\1b
+xd
+xa
+b
+#2\1b
+xa
+x\1b
+xd
+#2f
+xd
+x\1b
+xa
+b
+
+b
+#2\1b
+xa
+x d
+x \1b
+#2 d
+x \1b
+x a
+x  d
+b
+#2  \1b
+x  d
+x a
+x \1b
+#2 d
+x \1b
+x a
+x  d
+b
+#2 a
+x \1b
+x  d
+x a
+#2 \1b
+x a
+x  d
+x  \1b
+b
+#2  d
+x  \1b
+x  a
+x   \2c
+#2   a
+x   \3c
+x  a
+x  \1b
+b
+#2  d
+x  \1b
+x  a
+x   \2c
+#2  a
+x  \1b
+x   \2c
+x  a
+b
+Y  \1b  \3d
+b
+b
+
+{3. Simple Basics/3. Simple Basics}
+b
+1  \1b"+  \3d
+#2     \3d
+x    a
+#2    \2c
+x    \3d
+b
+1  \4da
+#2  \4d
+x a
+#2 \1b
+x \4d
+b
+1a   \3d
+#2    \3d
+x   a
+#2   \2c
+x   \3d
+b
+1 \4d a
+#2 \4d
+x \1b
+#2 a
+x  \4d
+b
+1 a\1b
+#2  \1b
+x  a
+#2   \2c
+x   a
+b
+1 \1b  \3d"+
+#2 \1b
+x a
+#2  \4d
+x  \1b
+b
+1  \4da
+1  \1b\2c
+1  \4da
+b
+Y.  \1b  \3d
+b
+b
+
+{/}
+b
+c
+#2  \1b"+  \3d
+x    a
+x    \2c
+x    \3d
+#2  da
+x a
+x \1b
+x \4d
+b
+#2a   \3d
+x   a
+x   \2c
+x   \3d
+#2 \4d a
+x \1b
+x a
+x  \4d
+b
+#2 a\1b
+x  a
+x   \2c
+x   a
+#2 \1b  \3d"+
+x a
+x  \4d
+x  \1b
+b
+1  \4da
+1  \1b\2c
+0  \4da
+b
+Y  \1b  \3d
+b
+b
+
+e

@@ -1,0 +1,228 @@
+-C
+-t
+-f
+{La Circe/La Circe}
+b
+C
+1 dff
+2.
+3 dff
+#2 dff
+xab  d
+xda   d
+xab  a
+b
+#2 db c
+x     d
+xab  d
+xda   d
+#2cdda
+xdd  c
+2.db  a
+3c
+b
+1da a d
+1
+1\1c\3d\2da
+2.
+3cdda
+b
+#2cdda
+x\4da   \2d
+x\2c\3d    a
+xa\2c\1b  a
+#2 \4d\3d  \1c
+x      a
+x aba d
+x da   a
+b
+#2ac  a
+xfd   c
+2.\2dd   a
+3 c   a
+2cdd   a
+#2   a
+x   a
+#3   c
+x  a
+b
+
+b
+2ddff
+#3  f
+x  d
+#2   f
+x dde
+2aabc
+#3  b
+x  a
+#2   c
+x aaa
+b
+2 bbcd
+#3   c
+x   a
+#2    d
+x db c
+#2 bdca
+xaab  a
+xaaa c
+x e    //a
+b
+2aac  a
+#3  c
+x  a
+#2   c
+x daa
+2aUd e
+#3 acc
+x X a
+#2a d e
+x dc c
+b
+#2 c ca
+x  d
+2acd
+#3  a
+x   c
+#2 daa
+x      a
+2 da   a
+#3     a
+x     c
+b
+#2 aba d
+x     d
+2 aba d
+#3    a
+x    c
+#2 bbcd
+x aba d
+x db   a
+x  a
+b
+
+b
+0 aba d
+b
+b
+.
+2.dab
+3  d
+2 a
+#2cd
+x b
+x d
+b
+2.da
+3  d
+2  b
+#2 da
+x   c
+x  a
+b
+1 dff
+2 daa
+1acd
+2    a
+b
+2.\2c\4d\3d&{   a
+3     a
+2     \1c
+#2a\1cd&} a
+x     \2d
+x    a
+b
+2. aa \2c
+3    a
+2     \3d
+#2\1c\2d  a
+xa\2d&{\4f  \1d
+xac&}\3d a
+b
+1. \4da   a
+1. daa
+.
+b
+b
+
+b
+.
+2.cd
+3 c
+2 a
+#2acd
+x  b
+x  d
+b
+2.ca
+3  d
+2aab
+#2 da
+x   c
+x  a
+b
+1 dff
+2ab  d
+1. df  d
+b
+2.ab  d
+3   a
+2   c
+#2 db
+x  a
+x  b
+b
+2.aabc
+3  a
+2  b
+#2fda
+x   c
+x  a
+b
+1dab
+2cd a
+1acd
+2    a
+b
+1cdda
+2da c
+#2db cd
+xddda
+xc     a
+b
+
+b
+2.dab
+3  a
+2   c
+#2\1c\4d\3da
+x    \2d
+x   a
+b
+2.aabc
+3  a
+2  b
+#2 da
+x   c
+x  a
+b
+1 dff
+2ab  d
+1. df  d
+b
+1abb d
+2dd\4f  d
+#2ddd \3f
+x    d
+x\2c\4d\3da
+b
+Y.da a d
+.
+b
+b
+w dff  4
+b
+b
+
+e

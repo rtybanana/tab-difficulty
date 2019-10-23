@@ -1,0 +1,101 @@
+-C
+-t
+-f
+{Saltarell darauff/Saltarell darauff}
+b
+1.acd a
+2acd
+1    a
+b
+1 c
+1 d
+1a
+b
+1.c da
+2c d
+1   a
+b
+1c da
+1a c e
+#2 da c
+xa
+b
+
+b
+1 cd a
+1 dda
+1 acc
+b
+1.acd a
+2acd
+1    a
+b
+1.acd a
+2acd
+1    a
+b
+1 c
+1 d
+1a
+b
+1c da
+#2c
+xa
+#2c
+xd
+b
+
+b
+1c aa
+1a c e
+#2 da c
+xa
+b
+1 cd a
+1 dda
+1 acc
+b
+1a d a
+1a d
+1    a
+b
+1a d a
+1 acc
+1 cd a
+b
+1 dda
+#2 cd
+x d a
+1 a c
+b
+
+b
+1a d a
+1a d
+1    a
+b
+1a d a
+1 acc
+1 cd a
+b
+1 dda
+#2 a
+x c
+#2 d
+xa
+b
+1 cd a
+1 dda
+1 acc
+b
+1.a d a
+2a d
+1    a
+b
+
+b
+Y.acd a
+b
+b
+
+e

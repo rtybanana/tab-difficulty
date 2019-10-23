@@ -1,0 +1,492 @@
+-C
+-t
+-f
+{9. N'ayant le souvenir/9. N'ayant le souvenir}
+b
+c
+0aabc
+b
+1.aabc
+2  a
+1  b
+1  d
+b
+1aabc
+1 c
+1 efe
+1    c
+b
+1a bcd
+1  a
+1a bcd
+1  d
+b
+1 dff d
+1 cd a
+1 d ac
+1a   e
+b
+1   a
+1cdd
+1cdf
+1    c
+b
+1dabc
+1  a
+1  b
+1  d
+b
+1 abc
+1d
+1c
+1aabc
+b
+1cdd
+1   a
+1da  d
+1    c
+b
+
+b
+1   cd
+1d
+1c d
+1a
+b
+1 efe
+1    c
+1 efe
+1 f
+b
+0 efec
+0 dff d
+b
+1. dff d
+2  d  {
+1  f
+1  g   }
+b
+1 dff
+1     d
+1 daac
+1  c
+b
+0 cdca
+0 cdea
+b
+0 aba d
+0 aba d
+b
+0  da
+0 dd
+b
+0da   d
+1  b
+#2  a
+x  b
+b
+0  da
+1 dd
+#2a
+xc
+b
+1dab  d
+1    a
+1dab c
+1     d
+b
+
+b
+1cbd a
+1a b c
+1a a d
+1   ca
+b
+1aaa c
+1     d
+1 ea a
+1    c
+b
+1     a
+1aab
+1   c
+1     a
+b
+0aab  a
+0 dff d
+b
+#2 dff d
+x  d  {
+x  f
+x  g
+#2 d
+x  g
+x  f
+x  d   }
+b
+1 dff
+1     d
+1 daac
+1  c
+b
+1 cdca
+1   a
+1   c
+1 cdea
+b
+1     d
+1 ab  {
+1   a  }
+1 ab  d
+b
+0  da
+1 dd
+#2a
+xc
+b
+
+b
+0da   d
+1  b
+#2  a
+x  b
+b
+0  da
+1 dd
+#2a
+xc
+b
+#2dab  d
+x  a  {
+x  b
+x  d
+#2 a
+x c
+x d
+xa
+b
+#2c a a
+xd
+xf
+xd
+#2c a d
+xa
+x e
+x c
+b
+1 efec
+1 f  a
+#2  fec
+x e  {
+#3 f
+x e
+x c
+x e   }
+b
+1 f
+1     a
+1aab
+1   c
+b
+0aabcca
+b
+b
+0aabc
+b
+
+b
+1aabc
+#2   c
+x   b
+#2   c
+x  a
+x  b
+x  d
+b
+#2aabc
+x  d
+x a
+x c
+1 efe
+1    c
+b
+1abb d
+#2   c {
+x   b
+#2   c
+x  a
+x  b
+x  d   }
+b
+1 dff d
+1 cd a
+1 d ac
+1a   e
+b
+1   a{
+1cdd
+1cdf  }
+1    c
+b
+1dab
+#2   c
+x   b
+#2   c
+x  a
+x  b
+x  d
+b
+#2 abc
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+xa
+b
+
+b
+#2cdda
+x d
+xa
+xc
+1da  d
+1    c
+b
+1   cd
+1d
+1c d
+1a
+b
+1 efe
+1    c
+1 efe
+1 f
+b
+0 efec
+0 dff d
+b
+#2 dff d
+x  d  {
+x  f
+x  g
+#2 d
+x  g
+x  f
+x  d   }
+b
+1 dff
+1     d
+1 daac
+1  c
+b
+1 cdca
+1   a
+1 cdca
+1   e
+b
+1 aba d
+#2  a  {
+x  b
+#2  d
+x  b
+#3  d
+x  b
+x  a
+x  b   }
+b
+
+b
+1  da
+#2a  {
+xc
+#2d d
+xc
+#3d
+xc
+xa
+xc   }
+b
+1dab  d
+#2  a  {
+x  b
+#2  d
+x  b
+#3  d
+x  b
+x  a
+x  b   }
+b
+#2  da
+x  c
+x  d
+x a
+#2 cd
+x d
+xa
+xc
+b
+#2dab  d
+x  a  {
+x  b
+x  d
+#2 a
+x c
+x d
+xa
+b
+#2c   a
+xd
+xf
+xd
+#2c a d
+xa   {
+x e
+x c   }
+b
+
+b
+#2 ea c
+x a
+x c
+x e
+#2 ffec
+x e  {
+#3 f
+x e
+x c
+x e   }
+b
+1 f
+1     a
+1aab
+1   c
+b
+0aab  a
+0 dff d
+b
+#3 dff d
+x  d  {
+x  f
+x  g
+#3 d
+x f
+x g
+x f
+#3 g
+x f
+x d
+x  g
+#3 d
+x  g
+x  f
+x  d
+b
+1 df
+1     d
+#2 daac
+x   c
+x  a
+x  c
+b
+1 cd a
+#2   c
+x   b
+#2   c
+x  a
+x  b
+x  d
+b
+
+b
+1 ab  d
+#2  a
+x  b
+#3  d
+x  b
+x  d
+x  b
+#3  d
+x  b
+x  a
+x  b
+b
+1  da
+#2a
+xc
+#3d
+xc
+xd
+xc
+#3d
+xc
+xa
+xc
+b
+1dab  d
+#2  a
+x  b
+#3  d
+x  b
+x  d
+x  b
+#3  d
+x  b
+x  a
+x  b
+b
+#2  da
+x  c
+x  d
+x a
+#2 cd
+x d
+xa
+xc
+b
+
+b
+#2dab  d
+x  a
+#3  b
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+xa
+b
+#2c a a
+xd
+xf
+xd
+#2c   d
+xa
+x e
+x c
+b
+#2 ea c
+x a
+x c  a
+x e
+#3 ffec
+x e
+x f
+x e
+#3 f
+x e
+x c
+x e
+b
+1 f
+1     a
+1aab
+1   c
+b
+Yaabcca
+b
+b
+
+e

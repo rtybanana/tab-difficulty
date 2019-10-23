@@ -1,0 +1,89 @@
+-C
+-t
+-f
+{Time, that leads the fatal round/Time, that leads the fatal round}
+b
+c
+0aa c
+1acd a
+1aa c
+b
+0 ef c
+1 ef c
+1aa c
+b
+1ca b
+1aa c
+0acd a
+b
+1 efec
+1    c
+1. efec
+2    e
+b
+1ca b
+1aa c
+1  f c
+1 e
+b
+A1
+0aacc
+0     a
+.
+b
+b
+A2
+0aacc
+1     a
+1aa c
+b
+.
+1aac  a
+1   c
+1aac
+1acd a
+b
+0.aacc
+1   c
+b
+1acd a
+1    a
+1acd
+1aa c e
+b
+
+b
+1.acd a
+2 d
+1 cd
+#2 dc c
+x  a
+b
+1 ccee
+1   d
+1. cee
+2   c
+b
+1 aab
+1c
+1aa c
+1acd a
+b
+A1
+1aaa c
+#2 e
+x  d
+1aac  a
+1aa c
+.
+b
+b
+A2
+1aaa c
+#2 e
+x  d
+0aac  a
+b
+b
+
+e

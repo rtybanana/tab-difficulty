@@ -1,0 +1,685 @@
+-C
+-t
+-f
+{85. Branles/85. Branles}
+b
+c
+#2
+xa
+1 dda
+#2 a
+x d
+b
+1 c  a
+#2  d
+x c
+#2 a   a
+x  c
+x  d
+x a
+b
+1 c  a
+#2  d
+xa
+1 d a
+#2 a
+x d
+b
+1 cd a
+#2  d
+x c
+#2 a a
+x  d
+x   c
+x  c
+b
+1acd a
+#2   c
+xd
+#2c
+x   a
+x d
+xa
+b
+
+b
+#2 c
+x    a
+x  d
+x c
+#2 a   a
+x  c
+x  d
+x a
+b
+1 c  a
+#2  d
+xd
+#2c
+x   a
+x d
+xa
+b
+#2 c
+x    a
+x  d
+x c
+#2 a a
+x  d
+x   c
+x  c
+b
+1acd a
+1   c
+.
+b
+.
+#2  d a
+x a
+x c
+x d
+1acd a
+#2c
+xa
+b
+#2 ea c
+xa
+x c
+x e
+1aac  a
+#2   c
+xa
+b
+
+b
+#2c  a
+xe
+xf
+xh
+1ea   a
+#2c
+xa
+b
+#2 ea c
+xa
+x c
+x e
+1aac  a
+1   c
+b
+#2  d a
+x a
+x c
+x d
+1acd a
+#2c
+xa
+b
+#2 ea c
+xa
+x c
+x e
+1aac  a
+#2   c
+xa
+b
+#2c  a
+xe
+xf
+xh
+1ea   a
+#2c
+xa
+b
+#2 ea c
+xa
+xc
+x e
+1aac  a
+#2   c
+xa
+b
+
+b
+1c da
+#2 d
+xa
+1 c  a
+#2  d
+x c
+b
+#2 a   a
+x  c
+x  d
+x a
+1 c  a
+#2  d
+xa
+b
+1c da
+#2 d
+xa
+1 c  a
+#2  d
+x c
+b
+#2 a a
+x  d
+x   c
+x  c
+1acd a
+1   c
+.
+b
+.
+#2  d a
+x a
+x c
+x d
+1acd a
+1f
+b
+1e    a
+#2f
+xe
+1c  a
+1acd a
+b
+1cdda
+#2a
+x d
+1 cd a
+#2 a
+x  d
+b
+
+b
+#2  cc a
+x  a
+x  d
+x  c
+1acd a
+1   c
+b
+#2  d a
+x a
+x c
+x d
+1acd a
+1f
+b
+1e    a
+#2f
+xe
+1c  a
+1acd a
+b
+1c  a
+#2a
+x d
+1 cd a
+#2 a
+x  d
+b
+#2 acc a
+x  a
+x  d
+x  c
+1acd a
+1   c
+.
+b
+.
+#2 cd a
+x d
+1a
+#2 ab  d
+x c
+1 d
+b
+#2  d a
+x a
+x c
+x d
+1aacc
+#2     a
+xa
+b
+
+b
+#2c  a
+xa
+x d
+x c
+#2 a a
+x  d
+x  c
+x  a
+b
+#2 acc a
+x  d
+x a
+x  c
+1acd a
+1   c
+.
+b
+.
+#2 c  a
+x d
+xa
+x c
+#2 ab  d
+x c
+x d
+x c
+b
+#2  d a
+x a
+x c
+x d
+#2 a   a
+x  d
+x a
+x c
+b
+#2    a
+xa
+x c
+x d
+#2  aa
+x  c
+x  d
+x   a
+b
+#2 acc
+x  d
+x     a
+x  c
+1acd a
+1
+.
+b
+
+b
+.
+#2  d a
+x  d
+x  d a
+x  d
+#2 acc a
+x c
+b
+2 d a
+#3a
+x d
+2 c  a
+#3 a
+x c
+1 dda
+#2  d a
+x  d
+b
+#2  d a
+x  d
+x  cc a
+x c
+2 dda
+#3a
+x d
+2 cd a
+#3 a
+x c
+b
+1 dda
+#2 dda
+xacd a
+#2cdda
+xacd a
+#3 d a
+xa
+2 c
+b
+#2 acc a
+x d
+#3a    a
+x d
+2a
+#2 c  a
+x  d
+x dda
+xacd a
+b
+
+b
+#2c  a
+xacd a
+#3 dda
+xa
+2 c
+#2 acc a
+x  da c
+#3  cc a
+x  a
+2  c
+b
+1  d a
+#2 d a
+xacd a
+#2cdda
+xacd a
+#3 dda
+xa
+2 c
+b
+#2 acc a
+xa
+#3a    a
+x d
+2a
+#2 c  a
+x a
+x dda
+xacd a
+b
+#2cdda
+xacd a
+#3 d a
+xa
+2 c
+#2 acc a
+x  da c
+#3  cc a
+x  a
+2  c
+b
+1acd a
+1acd
+.
+#2   c
+x  d a
+x a
+x cd a
+2 a
+b
+
+b
+#3  d a
+x  c
+x  d
+x a
+#2  d a
+x   c
+#2  d a
+x a
+x cd a
+x a
+b
+1  dca
+#2  dc
+x   c
+#2  d a
+x a
+x cd a
+x a
+b
+#3  d a
+x  c
+x  d
+x a
+#2  d a
+x   c
+#2  d a
+x a
+x cd a
+x a
+b
+1  dca
+#2  dc
+x  d
+#2 cd a
+x a
+x cd a
+x d
+b
+1aac  a
+#2 acc a
+xa
+#2 da c
+x c
+#3 acc a
+x c
+x d
+x a
+b
+
+b
+1 cdca
+#2 cd
+x  d
+#2 acc a
+x acc
+x acc a
+x c
+b
+2  d a
+#3 a
+x  d
+#2  cc a
+x  d
+#2 acc a
+x acc
+x cd a
+x a
+b
+1  dca
+2  dc
+#3 a
+x c
+#2 da c
+x da
+x da c
+xa
+b
+1 cd a
+#2 acc a
+x d
+#2 cd a
+x aa c
+x cee
+x ce
+b
+1 aa c
+2 aa
+#3 a
+x c
+#2 da c
+x da
+x da c
+#3a
+x d
+b
+
+b
+1 cd a
+#2 aa c
+x d
+#2 cd a
+x aa c
+x cee
+x ce
+b
+1 aa c
+#2 aa
+x  d
+#2 acc a
+x acc
+x acc a
+x c
+b
+2  d a
+#3 a
+x  d
+#2  cc a
+x  d
+#2 acc a
+x acc
+x cd a
+x a
+b
+1  dca
+#2  dc
+x  d
+#2 acc a
+x acc
+x acc a
+x c
+b
+2  d a
+#3 a
+x  d
+#2  cc a
+x  d
+#2 acc a
+x acc
+x cd a
+x a
+.
+b
+
+b
+.
+1  d a
+#2  d a
+x  d
+#2 da c
+x da
+x dda
+x dd
+b
+1 cdca
+2 cd a
+#3 a
+x  d
+1 acc a
+#2 dda
+x c
+b
+#2 a   a
+x  c
+1  d a
+1 acc a
+1 cdca
+b
+1  d a
+#2  d a
+x  d
+#2 da c
+x da
+x dda
+x dd
+b
+#2 cd a
+x a
+x c  a
+x d
+#2acd a
+xacd
+x da c
+x c
+b
+#2 acc a
+xa
+xaac  a
+#3 d
+x c
+#2 acc a
+xa
+xaac  a
+#3 d
+x c
+b
+
+b
+1 acc a
+1  d a
+1  d a
+2  d a
+#3 a
+x c
+b
+1 dba d
+2 cd a
+#3 a
+x  d
+#2 acc a
+x  d
+x  cc a
+#3  a
+x  c
+b
+1  d a
+1acd a
+1f
+2.da c
+3c
+b
+#2ab  d
+xab
+x dda
+xa
+2. bd a
+3 a
+#2  d a
+x b
+b
+#2 a a
+x  d
+x  c  a
+x   c
+1acd a
+1f
+b
+2.da c
+3c
+#2ab  d
+xab
+#2 d a
+xa
+2. b  a
+3 a
+b
+
+b
+#2  d a
+x b
+x a c
+x  c
+1  d a
+1 bd a
+b
+1 dba d
+1abb d
+1 bd a
+1 db  d
+b
+2.abb d
+3 d
+2 bd a
+#3 a
+x b
+2 dba d
+#3 b
+x d
+1ab  d
+b
+#2  d a
+x b
+x a c
+x  c
+Yacd a
+.
+b
+b
+
+e

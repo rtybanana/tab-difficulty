@@ -1,0 +1,514 @@
+-C
+-t
+-f
+{6. Toccata 3 Cromatica/6. Toccata 3 Cromatica}
+b
+x    d /a
+x    e 7
+b
+b
+c
+w gih  a
+b
+1 gih  a
+1   a
+1   d
+1  b
+b
+#2  d
+x    a
+x    c
+x    e
+1   a
+1      a
+b
+0     b
+0     d
+b
+0ffg a
+1bbd   ///a
+1      //a
+b
+0bbd   /a
+2a b
+#3  d
+x  f
+1  g
+b
+0ddf   a
+2b d
+#3  f
+x  h
+#2  i
+xf g
+b
+0eff  a
+0ffg   /a
+b
+
+b
+0fgf   a
+0eff  a
+b
+0ffh   ///a
+0acd a
+b
+0bdd   a
+0bbd   ///a
+b
+0bdb   //a
+0abb   /a
+b
+0a d   7
+0   f
+b
+0a dd  a
+0 dddf
+b
+0 dbc a
+0 bbc a
+b
+0 bdc b
+1 b a c
+1    d
+b
+0 b c d
+1 a a e
+1   c
+b
+0 c da
+1 d cb
+1   a
+b
+0 db c
+1a  de
+1   c
+b
+1b  c  a
+1   a
+1  d&_
+1a     /a
+b
+
+b
+0 d    //a
+#2 ab
+x c
+x d
+x a
+b
+#2 cb   ///a
+x   d
+x  b
+x   c
+#2   d
+x   c
+x   d
+x   a
+b
+#2 cdca
+x     d
+x    a
+x     a
+#2 dd  b
+x     a
+x     b
+x      a
+b
+2. d ab
+3   c
+1   d
+2 b  a
+#3   aU
+x   c
+#3   dX
+x  b
+2  d
+b
+0  ed d
+0  bcd
+b
+0  dc b
+0  da b
+b
+0  ba a
+0   cda
+b
+0   dd a
+0   ab
+b
+
+b
+0   cb /a
+0   da
+b
+0   d d/a
+0   cd
+b
+0   cab
+1   aab
+1    c
+b
+0   cda
+0  b c
+b
+0   cd
+0    a
+b
+0   d
+0   ef
+b
+0  b c
+0  cc
+b
+0  d e
+0    f
+b
+0  f g
+0  a
+b
+0  cc
+0a
+b
+1 c&_
+1    a
+1     c
+1  d
+b
+1  a
+1c
+1 d&_
+1    c
+b
+
+b
+1 e   e
+#2  dU
+x  fX
+1a
+#2     eU
+x     fX
+b
+1     b
+#2  bU
+x  dX
+1 d&_
+#2     bU
+x     dX
+b
+1  b  a
+3 dU
+2. fX
+1 c&_
+3cU
+2.dX
+b
+0bdd   a
+3  hU
+2.  iX
+3   fU
+2.   hX
+b
+1    a
+3  fU
+2.  gX
+3 dU
+2. fX
+1     a
+b
+3   eU
+2.   gX
+3  dU
+2.  fX
+3    cU
+2.    dX
+3  fU
+2.  dX
+b
+
+b
+3   aU
+2.   cX
+3  dU
+2.  fX
+1  c
+3    cU
+2.    eX
+b
+1     b
+3  cU
+2.  dX
+3    e
+2.   a
+3     eU
+2.     fX
+b
+0a d da
+0  c c
+b
+0acd a
+0ccd   ///a
+b
+0cdb   //a
+0aab   4
+b
+0 cb   ///a
+0 dde  5
+b
+0 dbc  4
+0 c c  ///a
+b
+0 daa  a
+0  d
+b
+0  f
+0   f
+b
+0  d
+#2    a
+x  b
+x  a
+x   c
+b
+1   ac
+1  b&_
+#2     d
+xc
+xa
+x d
+b
+
+b
+1 c  a
+1   c
+#2   e&_
+x    a
+1   ac
+b
+1     d
+1   c
+1  aa
+1  d
+b
+#2  f&_
+x   a
+1  bc
+1  d e
+1  aa
+b
+1   ca
+#2  a
+x  b
+#2  d   ///a
+x  b
+x  a
+x   c
+b
+#2  b   //a
+x  a
+x   c
+x   a
+#2   c  4
+x   a
+x    e
+x    c
+b
+1    e ///a
+#2    a
+x    c
+#2a   e
+x   a
+x   c
+x    e
+b
+
+b
+#2c  a
+x   c
+x   a
+x    e
+#2 d  c
+x    a
+x     d
+x     c
+b
+#2a    a
+x   a
+x    e
+x    c
+#2 c  a
+x     d
+x     c
+x     a
+b
+#2 d    a
+x c
+x d
+xa
+#2c d
+x d
+xa
+xc
+b
+#2d f&_
+x a
+x c
+x d
+#2a b
+x d
+x c
+x a
+b
+#2 cd
+x   c
+x d e
+x   a
+#2    e
+xa
+xc  a
+x d
+b
+
+b
+#2 c c
+x  d a
+x  b c
+x  a  d
+#2a   a
+x d c
+x c e
+x a a
+b
+#2 c c
+x     a
+x d   c
+x      a
+#2a   a
+x  h
+x  i   a
+x  f
+b
+1  h   ///a
+#3  dU
+x  b
+x  aX
+x   c
+#3  b
+x  a
+x   c
+x   a
+#3   e
+x   c
+x   a
+x    e
+b
+#3   c
+x   a
+x    e
+x    c
+#3    e
+x    c
+x    a
+x     d
+#3    c
+x    a
+x     d
+x     c
+#3     d
+x     c
+x     a
+x      a
+b
+
+b
+#3    a
+x    c
+x    e
+x   a
+#3   c
+x   e
+x   c
+x   a
+#3    e
+x    c
+x    a
+x     d
+#3     c
+x     a
+x      a
+x     a
+b
+#3     c
+x     d
+x     a
+x     c
+#3     d
+x    a
+x    c
+x    e
+#3   a
+x   c
+x   e
+x   a
+#2   h
+x    a
+b
+#2      ///a
+xa
+xb
+x    a
+#2    b&_
+x d
+xd
+x     d
+b
+#2    d&_
+x   c
+x   d
+x  b
+#2  d&_
+x    a
+x    c
+x    d
+b
+#2   a
+xd
+xb
+xa
+#2 d
+xb d
+xa b
+xb d
+b
+
+b
+#2d e  d
+x  d
+x  ef
+xf d
+#2d e
+xb d
+xa b
+xb d
+b
+#2 d d
+xa b
+x c  a
+x d  b
+#2a    d
+x c  a
+x d   b
+x a   d
+b
+#2 c   a
+x d   c
+xa    e
+x   a
+1ad  a
+1 c
+b
+Ycdd   a
+b
+b
+
+e

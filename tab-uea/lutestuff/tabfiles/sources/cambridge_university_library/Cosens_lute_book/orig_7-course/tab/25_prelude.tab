@@ -1,0 +1,333 @@
+-C
+-t
+-f
+{Prelude/Anonymous}
+b
+x   a  a
+b
+b
+c
+w   c
+b
+0  a
+0  c
+b
+0  d
+0    a
+b
+#1  c c
+x a
+0  d e
+b
+0  aa
+0  cc
+b
+#1  de
+x a
+#1 c
+x e
+b
+0aac
+#1   c
+xa
+b
+#1c da
+x a
+0ea c
+b
+#1fc e
+xe
+#1c
+x   c
+b
+1cd a
+#2e
+xf
+#1e
+xc
+b
+
+b
+#1ea c
+xc
+#1a
+xc
+b
+#1e
+xa
+#1h
+xf
+b
+#1ea c
+x   e
+#1  cc
+x  a
+b
+#1 ac
+x   c
+#1 a
+x  d
+b
+#1 acc
+xa
+#1 d
+x a
+b
+#1 cd
+x    a
+#1 a c e
+x     a
+b
+#1  da c
+x  c
+#1  a
+x   c
+b
+1 aaa
+#2  c
+x  d
+#1  c
+x  a
+b
+
+b
+1 acc a
+#2a
+x d
+1 cd a
+#2 a
+x  d
+b
+1 acc a
+#2a
+x d
+#1 c
+x a
+b
+#1acd
+x a
+#1 cdca
+xa
+b
+#1 da c
+x  cc
+1a cce
+#2c
+xd
+b
+#1cdda
+xa
+#1 da
+x c c
+b
+#1 a a
+x c c
+#1 da
+x a a
+b
+#1 c c
+x  d e
+#1 a a
+x  c c
+b
+#1  d e
+x  a a
+#1  c c
+x   c e
+b
+#1  a a
+x  c c
+#1  a a
+x  c  e
+b
+
+b
+1  dc c
+#2   b
+x    e
+#1 aab
+x  d
+b
+#1 acc a
+xa
+#1c
+xe
+b
+#1fc
+x    a
+#1ea  c
+x    e
+b
+#1cdda
+xa
+#1 d
+x c
+b
+#1 acc
+x     a
+#1 dd  c
+x a c e
+b
+#1 cdca
+x    a
+#1    c
+x    e
+b
+#1 aaa
+x  d
+#1 a
+x c ce
+b
+#1 da c
+x c
+#1 a
+x  d
+b
+1 acc a
+#2a
+x d
+1 cdca
+#2 a
+x  d
+b
+
+b
+1 acc a
+#2  a
+x  c
+1   c
+#2 c
+x d
+b
+1a d e
+#2    c
+x    e
+1acd a
+#2c
+xd
+b
+1cdda
+#2    e
+x   a
+1 daac
+#2a
+xc
+b
+1ea c
+#2   a
+x   c
+1a d e
+#2c
+xe
+b
+1fcde
+#2   c
+x   e
+1c da
+#2a
+xc
+b
+1ea c
+#2   a
+x   c
+1a d e
+#2c
+xe
+b
+1c da
+#2    e
+x   a
+1 daac
+#2a
+xc
+b
+
+b
+1a c e
+#2    c
+x    e
+1 cd a
+#2 a
+x c
+b
+1 da c
+#2    a
+x    c
+1 a c e
+#2 c
+x d
+b
+1 a c e
+#2     c
+x     e
+1  cc a
+#2  d
+x a
+b
+1  da c
+#2     a
+x     c
+1  aa  a
+#2  c
+x  d
+b
+#2aac  a
+x   c
+x  a
+x  c
+#2  d
+x  a
+x  c
+x  d
+b
+#2 a
+x  d
+x a
+x c
+#2 d
+xa
+xc
+xe
+b
+
+b
+1fcd a
+#2e
+xc
+#2a
+xc
+xe
+xc
+b
+#2 d
+xa
+xc
+xa
+#2 c
+x d
+xa
+x d
+b
+#2 a
+x  d
+x a
+x c
+#2 d
+x a
+x c
+x d
+b
+#2a
+xc
+xd
+xc
+#2a
+x d
+x c
+x a
+b
+Y cd a
+b
+b
+
+e

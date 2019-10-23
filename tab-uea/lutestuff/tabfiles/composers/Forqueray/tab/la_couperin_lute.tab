@@ -1,0 +1,294 @@
+-C
+-t
+-f
+{Suite 1 in D minor - La Couperin/Suite 1 in D minor - La Couperin}
+b
+0 aaa  //a
+b
+1 cfe  5
+1  e
+b
+1 daa  //a
+1    c
+b
+1 \2c\4f\3e&{ \1c
+#2 \4cac&}\1b
+x     \2c
+b
+1cdea
+#2  f
+xace e
+b
+1 da c
+1 cacb
+b
+#2 da c
+xa
+1cdf
+b
+1cef a
+#2ca b
+x    c
+b
+1da c
+1aab
+b
+1acb a
+#2  d e
+x    a
+b
+1cdda
+1 da   a
+b
+
+b
+1add a
+#2a dfe
+x    a
+b
+1acd  c
+1 d
+b
+1 dbc a
+#2   c
+x c
+b
+1 da a a
+#2     c
+x      a
+b
+1add   ///a
+1    a
+b
+1 adc a
+1   c
+b
+1a a c
+1 a
+b
+1ccfe
+#2\3ca\4d\1b
+x    \2c
+b
+1cab  a
+1aa   d
+b
+1cce  c
+1
+b
+1cce   5
+1
+b
+1cce  c
+1      5
+b
+1cce   5
+1 gfg
+b
+
+b
+1cce   5
+1
+b
+1cce   5
+1
+.
+b
+b
+.
+1ccd  c
+1
+b
+1 cce  /a
+1   d
+b
+0 cde c
+b
+1 a\3c  \2c
+#2 ac  \1b
+x      /a
+b
+1\1b\2c\3d a
+2\2cca a
+#3    \1c
+x    a
+b
+#2 efe e
+x      e
+1aa c d
+b
+1a e ec
+#2 dfe  a
+x
+b
+1 cfe  5
+1  e
+b
+1 aaa  //a
+1 aa&Uac
+b
+1
+#2 cacb
+x     c
+b
+
+b
+1cdea
+2  f
+#3   a
+x    c
+b
+1 cf  c
+#2  d
+x bda c
+b
+1 dd\2e d
+#2a\2d\4f  \1d
+x    \3e
+b
+1a ba  a
+#2 da
+x      a
+b
+1\2c\3d\1b  a
+#2adb
+x     a
+b
+1df   c
+#2cdd
+x     c
+b
+1da a d
+#2 dd  c
+x      a
+b
+1add a
+1 c    ///a
+b
+1 da a a
+#2     c
+x      a
+b
+1add a
+1 c
+b
+1\2c\4d\3da
+#2     c
+x      a
+b
+
+b
+1add a
+1 cb   ///a
+b
+1a b   a
+1 daa
+b
+1
+1abb a
+b
+1 ba a a
+1 a a d
+b
+#2a dfd
+x    a
+1 daa
+b
+1da a d
+#2aab  d
+x     a
+b
+1aaa c
+1 e    //a
+b
+1aabcca
+1
+b
+1 ea c
+#2   b
+x    c
+b
+1cab  a
+1aa   d
+b
+1ccf  c
+1  e
+b
+1 aa c
+1cdf
+b
+
+b
+1 c
+#2ace
+x   e
+b
+1gd
+#2haaa
+x    c
+b
+1ccfe
+1 ce  c
+b
+1 aaac
+#2cdf
+x  a
+b
+1ca   d
+#2ac
+xaac e
+b
+1cdea
+#2ca
+x    c
+b
+1ccfe
+1  e  c
+b
+1 aaa  //a
+#2 da c
+xacd a
+b
+#2\2ca a \3d
+x \4e\3d  \1c
+#2aa   \2d
+x\2d\1c\4f  a
+b
+A1
+1a ee c
+1 dcacb
+b
+A1
+A2
+1 cfe  5
+1a e
+b
+
+b
+A1
+A2
+1 da c //a
+1c e
+b
+A1
+A2
+0ca a  //a
+.
+b
+b
+A2
+0a ee c
+b
+0 dcacb
+b
+1 cfe c5
+1  e
+b
+1 efe  //a
+1ace   5
+b
+0cefec //a
+b
+b
+
+e

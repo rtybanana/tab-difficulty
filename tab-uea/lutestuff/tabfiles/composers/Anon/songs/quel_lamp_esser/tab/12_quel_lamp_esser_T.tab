@@ -1,0 +1,488 @@
+-C
+-t
+-f
+{Quel lamp' esser vorrei/Quel lamp' esser vorrei}
+b
+C
+0a
+0f d
+1 f c
+1d
+1c f c
+1cd
+b
+1ab c
+1 bd
+1 ab
+1 aaa
+1a  cd
+1  dcd
+1 ab c
+#2 d
+x  de
+b
+1  bc a
+1 b
+1  aa c
+1 a   d
+1  dca
+1 bd  b
+1     a
+1aac
+b
+1 bd a
+1c
+1 df
+1e   c
+1ff ce
+#2 daa
+x b
+1dabc
+1cbd a
+b
+
+b
+#2 a  c
+xa
+1a b
+#2 e ec
+x f
+#2 c
+x e
+1aa c a
+1a
+1ca
+1e  c
+b
+1f de
+1aac
+1 bd
+1 dfa
+#2   c
+x b
+2 bd
+#3 a
+x  d
+2 a c
+#3  c
+x  a
+1  cc
+b
+1  dca
+1   c
+1   a
+1  d
+1  d d
+1a b
+#2abd a
+x    c
+#2a   d
+x    a
+b
+1 dfec
+1   f
+1. cdca
+2  a
+#2aab
+xc  a
+#2d  c
+xa
+#2fb  a
+x d  c
+#2a   d
+x b  a
+b
+
+b
+1da c
+1     a
+#2abd a
+x df
+#2ab
+x bd
+1 df
+1 a
+1a bc
+1 abc
+b
+1 ddef
+0abb d
+1 dff d
+2 b ca
+#3  d
+x  c
+1  d
+1 a c a
+#2h  f
+x     h
+b
+1f aa
+1da c
+1 a  c
+1ca a
+1a  cd
+1  d
+0 efec
+b
+1 ac
+1     a
+1    e
+1  d  c
+1   a
+1 a   d
+1   c
+1 b  a
+b
+1  d e
+1  da c
+1  b  a
+1    d
+1  def a
+1   ef
+1 a
+1  bc
+b
+
+b
+1 b
+1  de
+1 d
+1  ff
+1aa
+1bbd
+#2  b
+xa
+2a
+#3 d
+x b
+b
+1 dff
+1     d
+0ab  d
+1     a
+1 acc
+1     a
+1 cdca
+b
+2. dff d
+3  d
+#3  f
+x  d
+x  f
+x  g
+1  f
+1ddf  d
+1   f
+1abd a
+#2 efec
+x c
+#2 e
+x f
+b
+1 e
+1 efec
+1a dcd
+1 bbc
+1 ddef
+1      a
+1  ff d
+1h
+b
+
+b
+1f
+1ddf  d
+1 d
+1c d   a
+#2 ab  d
+xa
+#2a
+x    a
+2 efec
+#3 f
+x e
+#3 f
+x e
+x c
+x e
+b
+1a bc a
+1a
+1d
+1 a c
+1a   d
+1ab  d
+1 bdd
+1 dda
+b
+1 abc
+1  b  a
+1 b  a
+1 d  c
+1a   d
+1ab c
+1abd a
+1c d
+b
+1ddf  d
+1     d
+1  bc
+2a
+#3  a
+x   c
+1 dde
+1 dff
+1dbbc
+2 a
+#3c
+xa
+b
+
+b
+#2cdfa
+x  d
+#2d b c
+x a
+#2abd d
+x  b
+1 bb
+1 dd f
+1 dde
+#2 i fh
+xf
+#2h i  h
+x i
+b
+#2f g d
+xd  a
+#2db c
+x    d
+#2 dda
+xd
+2c
+#3a
+xc
+1d ff d
+1 df
+1 b c
+1f a
+b
+1aab
+1c a
+1da c
+1aabc
+1 efec
+1a bcd
+1 aaa
+1 bdcd
+b
+1 efec
+1 f
+1  fec
+1 e ec
+1a bc
+#2  bc
+x ab
+1  de
+1  d
+b
+
+b
+1 dff
+#2 dff d
+x   f d
+1abb d
+#2abb d
+xdd  c
+#2fb  a
+x  b
+1  a
+2. dff d
+3  d
+#3  f
+x  d
+x  f
+x  g
+b
+1  f
+1aab  a
+1  b
+1aab  a
+2. efec
+3 c
+#3 e
+x c
+x e
+x f
+1 e
+1ddf  d
+b
+1abb d
+1dabc
+0cdda
+0cdda
+1  d
+1fdda
+b
+1ff ce
+1fd ef
+0fc ca
+2fc ca
+#3d
+xc
+#3a
+x d
+x c
+x a
+1  d
+1  bc
+b
+1  b c
+1 daa
+1 abc
+1a dcd
+1 ab c
+1 da
+1  b  d
+1 ab
+b
+
+b
+1. a ac
+2    d
+#2 d a
+x    d
+#2h  a
+x    h
+1fd e
+1h  f
+1    f
+1fd e
+b
+#2 abc
+xd d
+#2da
+x b
+#2 dda
+xc
+#3d
+xc
+xa
+xc
+1ddf  d
+#2d
+x    a
+#2 d  c
+x    a
+#2    c
+xa   d
+b
+#2c da
+xa
+#2c
+xda
+#2fb  a
+x d
+1 f
+1a  cd
+#2 bb
+x   a
+#2da c
+x     a
+2  b  d
+#3c   a
+xa
+b
+
+b
+#2 efec
+x  f
+1 f c
+2   ec
+#3 e
+x c
+#2 e
+x    c
+2aa c a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+1   c
+1  bc
+b
+1  b c
+1 daa
+1 abc
+1a dcd
+1 ab c
+1 da
+1  b  d
+1 ab
+b
+1. a ac
+2    d
+#2 d a
+x    d
+#2h  a
+x    h
+1fd e
+1h  f
+1    f
+1fd e
+b
+#2 abc
+xd d
+#2da
+x b
+#2 dda
+xd
+2c
+#3a
+xc
+1ddf  d
+#2d
+x    a
+#2 d  c
+x    a
+#2    c
+xa   d
+b
+
+b
+#2c da
+xa
+#2c
+xda
+#2fb  a
+x d
+1 f
+1a  cd
+#2 bb
+x   a
+#2da c
+x     a
+2  b  d
+#3c   a
+xa
+b
+#2 e ec
+x  f
+1 f c
+2   ec
+#3 e
+x c
+#2 e
+x    c
+b
+1aac  a
+1   c
+1aac
+1c
+wea c a
+b
+b
+
+e

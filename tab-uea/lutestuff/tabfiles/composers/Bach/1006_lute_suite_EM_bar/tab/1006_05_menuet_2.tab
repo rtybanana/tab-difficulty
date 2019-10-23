@@ -1,0 +1,221 @@
+-C
+-t
+-f
+{5. Menuet/5. Menuet}
+b
+1  de  /a
+#2   f  U
+x   e  X
+#2   c  U
+x   a  X
+b
+#2  dc  //a
+x   e
+0   f
+b
+#2  de  /a
+x   c
+#2   f  U
+x   e  X
+#2   c  U
+x   a  X
+b
+#2  b c 4
+x   a
+1   c
+1     d
+b
+
+b
+#2   a
+x  a
+#2  a   /a
+x  d
+#2  d  a
+xa
+b
+#2 c   d
+x  d
+#2  d c
+x c
+#2 c c
+xc
+b
+#2c   c
+xe
+#2f    d
+x f
+1h    h
+b
+#2f  Ud
+xe  X
+#2f  U d
+xe  X
+#2 f    /a
+xa
+b
+1  ded
+#2   f  U
+x   e  X
+#2   c
+x   a
+b
+
+b
+#2  dcc&Ud
+x   eX
+0  b
+b
+#2a a a
+x   a
+#2   a
+x  a
+#2  a
+x  d
+b
+#2a \1c   a
+x  \1d
+#2  f
+x   a
+#2   cc
+x    a
+b
+#2  d c
+x c
+#2 cU
+x fX
+#2 f
+xh
+b
+
+b
+#2 aUa
+x cX
+#2aU  a
+xeX
+#2  cc
+xc
+b
+#2a    d
+x c
+#2 a    /a
+x  d
+#2   c  a
+x  c
+b
+0.  d   4
+.
+b
+b
+.
+1 cdf
+#2a
+x c
+#2 a
+x  d
+b
+#2a de
+xc
+#2eU a
+x\3fX
+#2\3h    g
+x \2h
+b
+
+b
+#2 f  a
+x e
+#2 faU
+x e X
+#2 cd
+x a
+b
+#2 fUf
+x hX
+#2f     a
+x f
+1    f
+b
+#2    e
+x  f
+#2h  U
+xe  X
+#2f  U
+xc  X
+b
+#2e
+x a
+#2 b
+x  d
+#2   b
+x a
+b
+#2h
+x h
+#2f   f
+x \4f
+#2  dea
+x e
+b
+
+b
+#2 f \2f  a
+x a
+#2   \2c
+x a
+#2c  a
+x\3e
+b
+1f dcc
+#2h  U
+xf  X
+#2e
+x \3f
+b
+#2eUda
+xfX
+#2h
+x  \1g
+#2  ah
+x  g
+b
+#2 a f
+xa
+#2f hff
+x f
+#2e da
+x d
+b
+#2 c  Ud
+x a  X
+#2a   a
+x c
+#2 a  c
+x  d
+b
+
+b
+1edda
+#2f   f
+x h
+#2 f  h
+x  i
+b
+#3 f f
+x  i  U
+2  h  X
+0hfhf
+b
+#2     a
+x  d
+#2 a    d
+x  b
+#2   \2c d
+x c
+b
+0. dde  /a
+.
+b
+b
+
+e

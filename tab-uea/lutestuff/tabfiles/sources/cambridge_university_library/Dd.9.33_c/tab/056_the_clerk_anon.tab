@@ -1,0 +1,64 @@
+-C
+-t
+-f
+{56. The clerk/Anonymous}
+b
+#2   a
+x d
+x  d
+#2 a   d
+x  b
+x a   d
+b
+2 d a
+1  d
+2  aa
+1  b
+b
+#2   a
+x d
+x  d
+#2 a
+x  b
+x     d
+b
+#2   a
+x d
+x  d
+#2  a
+x   a
+x  bc
+b
+#2   a
+x  d
+x  a
+#2     d
+x a
+x  d
+b
+#2   a
+x d
+x  d
+#2  a
+x   a
+x  bc
+b
+
+b
+#2   a
+x b
+x  d
+#2 a
+x  b
+x a
+b
+#2  da
+x a
+x  d
+#2  a
+x   a
+x  bc
+b
+b
+
+e

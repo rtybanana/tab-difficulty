@@ -1,0 +1,494 @@
+-C
+-t
+-f
+{Recercar dopo il Credo/Recercar dopo il Credo}
+b
+0 a
+b
+1.d
+2d
+b
+1 d
+1 e
+b
+1a
+1b
+b
+1c
+1 d  c
+b
+2  b
+#3 c
+x a
+#2a
+x  b
+b
+#2c  a
+x  a
+#2 a b
+x  d
+b
+2e cc
+#3  d
+x a
+1 c d
+b
+
+b
+#2c a
+x a
+#2 c   c
+x  d
+b
+2 a a
+#3  d
+x  c
+#2  a
+x   a
+b
+#2 a   d
+x    c
+#2   c e
+x   a
+b
+2 c  ef
+#3   a
+x   c
+1  a b
+b
+1   ac
+#2  a
+x   c
+b
+#2 da
+x   a
+#2  c
+x da
+b
+#2  bc
+x a a
+#2a c e
+x d
+b
+
+b
+2 ca
+#3 d
+xa
+#2c e
+x   c
+b
+1 a b
+1d  c
+b
+1c
+#2  aa
+x    e
+b
+#2a   c
+x   a
+#2  b
+x da
+b
+1  bc a
+2.  c
+3     a
+b
+2  d ec
+#3   a
+x   c
+1  ee
+b
+#2 a
+x   c
+1   a c
+b
+1 aba
+#2  a
+x   a
+b
+
+b
+#2     d
+x   c
+1   c e
+b
+#2    a
+x c
+#2c   eg
+xa
+b
+2 da c
+#3a
+xc
+#2d
+xc
+b
+2 a  cd
+#3a
+x d
+#2a
+x     d
+b
+#2c
+x  a
+#2 a
+x  d
+b
+#2a c  a
+x     e
+#2 c  eb
+x    c
+b
+
+b
+2    ac
+#3    c
+x    e
+#2 aaa
+x  d e
+b
+2  c c
+#3    a
+x    c
+1   de
+b
+#2  d  c
+x     e
+#2    ef
+x    c
+b
+#2  d e
+x    a
+#2   a
+x  d e
+b
+#2   ac
+x    a
+#2   b e
+x     c
+b
+2   c e
+#3    a
+x    c
+1   de
+b
+
+b
+#2  a ac
+x     a
+2    c
+#3     a
+x     c
+b
+#2 a   d
+x    e
+#2  da c
+x d
+b
+#2da   a
+xc
+2ac  e
+#3 d
+xa
+b
+#2c  ac
+x  a
+#2c
+x  d
+b
+2  c e
+#3  d
+x a
+1bc  e
+b
+2ccd  c
+#3a
+x d
+#2a   e
+x cd
+b
+1c  a
+1e  bd
+b
+
+b
+#2   ce
+x  c
+#2fc d
+xea
+b
+2c aa
+#3 a
+x c
+2 d
+#3    e
+x    c
+b
+1 ca b
+1 df c
+b
+1 c   c
+1  e
+b
+0 e  c
+b
+#2     c
+x  a
+2    e
+#3   a
+x   c
+b
+#2  aa
+x  c
+#2  d
+x  a
+b
+1 a a
+1  a
+b
+
+b
+#2     d
+x a
+2a  c
+#3 d
+x c
+b
+#2 a c e
+x  d
+#2  c
+x a
+b
+#2 c  a
+x da
+2a   e
+#3   a
+x   c
+b
+#2 ca b
+x    e
+#2  a
+x   c
+b
+2  a c
+#3   a
+x    e
+#2   a
+x   c
+b
+#2 da
+x  c c
+2  d  c
+#3     e
+x    a
+b
+
+b
+#2 da c
+x    e
+#2  aa
+x    c
+b
+2  bc
+#3   c
+x   a
+#2   c a
+x    c
+b
+2  cc
+#3   a
+x    e
+#2    c
+x    e
+b
+#2  d  c
+x     e
+#2    a
+x    c
+b
+#2  e e
+x     c
+#2  a
+x   c
+b
+#3 a a
+x    e
+x    c
+x    a
+#2     d
+x   c
+b
+
+b
+2    c
+#3    ec
+x   a
+#2   c a
+x  a
+b
+#2  b  a
+x   c
+2    c
+#3  a e
+x   c
+b
+#2  aa c
+x  c
+#2    a
+x  a
+b
+2    cd
+#3   c
+x   a
+#2   c
+x a
+b
+2a    d
+#3 da
+x c
+#2 a
+x c c
+b
+#2 da
+x    c
+2     c
+#3 c   e
+x    a
+b
+
+b
+#2    c
+x a   c
+#2 a  c
+x    a
+b
+2     e
+#3    a
+x    c
+#2    e
+x  c
+b
+2 c   b
+#3 a   e
+x  d
+#2  c e
+x c
+b
+#2  d  c
+x d  c
+#2 c
+x    b
+b
+2. d  c
+3    a
+2     e
+#3 a
+x     c
+b
+2a b  a
+#3 d  c
+x c
+2 a c
+#3 c a
+x    e
+b
+
+b
+#2 db c
+x c  a
+2 a   d
+#3     c
+x     a
+b
+#2   a
+x a
+2  a
+#3  c c
+x  d
+b
+2 a b c
+#3  d  e
+x    a
+#2  c c
+x  a a
+b
+2  cc e
+#3    a
+x    c
+#2    e
+x  c
+b
+2. c d
+3 a
+#2  d e
+x  c c
+b
+2  deac
+#3    c
+x    e
+#2   a
+x c  e
+b
+
+b
+2c
+#3a   c
+x d
+#2 c
+x    b
+b
+#2    c
+x d
+2  d  c
+#3 a   e
+x c  a
+b
+#2 d  c
+x c  ef
+2  da c
+#3 a  e
+x    c
+b
+2 c  a
+#3     c
+x   a
+#2  a
+x     c
+b
+2 d  c
+#3    a
+x     e
+#2     c
+x da
+b
+2  d ec
+#3   a
+x   c
+#2  e
+x    ec
+b
+
+b
+2 a ac
+#3    ef
+x    ce
+#2    ac
+x  d e
+b
+2 da
+#3 c c
+x a a a
+#2  d ec
+x d  c
+b
+#2 c  b
+x a  c
+#2    ec
+x  e
+b
+0 aaac
+b
+b
+
+e

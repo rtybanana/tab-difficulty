@@ -1,0 +1,445 @@
+-C
+-t
+-f
+{14. L'Eraclito amoroso/14. L'Eraclito amoroso}
+b
+C
+w bdc  ///a
+b
+0
+0 bdc  ///a
+b
+w bdd b
+b
+w bdd b
+b
+w bdb b
+b
+w dedb
+b
+0 cbdb
+0 cdca
+b
+w
+b
+w cdc  ///a
+b
+0 ddd  a
+0 a
+b
+w bbc  /a
+b
+0 \1ba a
+0 a a \2d
+b
+w  \3ff\2f&{ 4
+b
+w  \1eff 4
+b
+w  dc  ///a
+b
+#2
+x     \1c
+#2     \2d
+x      a
+0  \2d&{\1ca
+b
+w  d\3e  a
+b
+b
+
+b
+w b ca
+b
+w a c d
+b
+0  dc b
+0   a
+b
+0  d ca
+0a c
+b
+w b ca
+b
+w a c d
+b
+0  dc b
+0   a
+b
+0  c ca
+0aac
+b
+w bdca
+b
+w a c d
+b
+w  dc b
+b
+0  c ca
+0a c
+b
+w bdca
+b
+w a c d
+b
+0  dc b
+0   a
+b
+0  ccca
+0a c
+b
+w bdca
+b
+0. a c d
+1   a
+b
+
+b
+0  dc b
+0   a
+b
+0 bdc a
+0aac
+b
+wa dca
+b
+b
+w. bdca
+b
+w. a c d
+b
+0  dc b
+w   a
+b
+w. ac  a
+b
+w. bdca
+b
+w. a c d
+b
+0  dc b
+w   a
+b
+0 dc  a
+wadc
+b
+w. bdca
+b
+w. a a d
+b
+w.  dddb
+b
+w. ac  a
+b
+w. bdca
+b
+w. a a d
+b
+w.  dd b
+b
+w. ac  a
+b
+w. bdca
+b
+
+b
+w. a c d
+b
+w. aca b
+b
+w.  ccca
+b
+w. b ca
+b
+0 a d d
+w   c
+b
+0  dc b
+w   a
+b
+w.  ccca
+b
+w. bdca
+b
+w. a a d
+b
+w.  dd b
+b
+w.  ccca
+b
+w. bdca
+b
+0 a a d
+w   c
+b
+w  dc b
+0   a
+b
+w.  ccca
+b
+w. bdca
+b
+w. a a d
+b
+w. bd  b
+b
+w.aab  a
+b
+w. bdca
+b
+
+b
+w. a c d
+b
+w.  dddb
+b
+w. a c a
+b
+b
+C
+0  dca
+0      ///a
+b
+0
+0  dca
+b
+w  dce ///a
+b
+0  dd  a
+0 a
+b
+w \1bb\2c  /a
+b
+0  \3d&{\4e\2d ///a
+0  f&}f\2f&( 4
+b
+w  \1eff 4
+b
+w
+b
+wa dc  ///a
+b
+#2
+x     c
+#2     d
+x      a
+0a dca
+b
+w dde  a
+b
+b
+w. bdca
+b
+w. a c d
+b
+w  dc b
+0   a
+b
+
+b
+w.  ccca
+b
+0 bdca
+0 d
+0a
+b
+0aa c d
+0 a
+0a
+b
+0  dd b
+0.  c
+1  d
+b
+w ac  a
+0a
+b
+w. bdca
+b
+w. a c d
+b
+w.  dddb
+b
+w. ac  a
+b
+w. bdca
+b
+w. d a d
+b
+w. d d b
+b
+w.aac  a
+b
+w \1b\4d\2ca
+0   \3dU
+b
+w  \4e  \2d
+0   \1c
+b
+w  \4d\2c\3d\1b
+0   a
+b
+
+b
+w  ba a
+0    d
+b
+w. bdca
+b
+w d a d
+0 a
+b
+0   a b
+w  d
+b
+w a   a
+0a b
+b
+w \1b  a
+0   \4d
+b
+w a   \3d
+0   \2c
+b
+w  \4d  \1b
+0   a
+b
+w. ac  a
+b
+w. bdca
+b
+w. b c d
+b
+w. dd  b
+b
+w ad  a
+0  c
+b
+0 bdca
+0 d
+0a
+b
+0aa c d
+0 a
+0a
+b
+
+b
+0  dd b
+0.  c
+1  d
+b
+w ac  a
+0a
+b
+w. bdca
+b
+w. df  d
+b
+w. bdd b
+b
+0 ad ca
+w  c
+b
+w. bdca
+b
+w. a c d
+b
+0.  dd b
+1   c
+0   a
+b
+w.  ccca
+b
+w. bdca
+b
+w. df  d
+b
+w. dd  b
+b
+w.aac  a
+b
+w. bdca
+b
+w. b c d
+b
+w. bdd b
+b
+w bd  a
+0 ac
+b
+w. bdca
+b
+
+b
+w. b c d
+b
+w. bdd b
+b
+0 bd  a
+0 ac
+0 bc
+b
+w. bdca
+b
+w.aa   d
+b
+0b d  b
+w d
+b
+0aad  a
+w  c
+b
+w.a dc  ///a
+b
+b
+C
+0 bd   5
+1  dd b
+1 bb  a
+b
+0 ddd  a
+0 a a
+b
+1a b d
+1 db b
+0 cdca
+b
+w cdc  ///a
+b
+0 dddf
+0      a
+b
+1 dddf
+1 bdd
+1 b da
+1 dedb
+b
+
+b
+1 b da
+1 dedb
+0 bb d
+b
+w bdd b
+b
+0 bdd  5
+0 bb  a
+b
+w  b da
+b
+1 b ca
+1 bbcd
+1 a c e
+1 b ca
+b
+1 bdc  /a
+1      a
+1 ad  a
+1  c
+b
+wa dc  ///a
+b
+b
+
+e

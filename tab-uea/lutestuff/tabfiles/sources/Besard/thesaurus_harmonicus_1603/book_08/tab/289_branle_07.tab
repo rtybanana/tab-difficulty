@@ -1,0 +1,156 @@
+-t
+-f
+{289. Branle 7/289. Branle 7}
+b
+#2 dda
+xa   a
+x c
+b
+.
+1 dda  a
+2  d
+#3 dda
+x c
+x d
+xa
+xc
+x d
+b
+2.a   a
+3 d
+2 c
+#3 a   a
+x  d
+x  c
+x  d
+x a
+x  c
+b
+
+b
+#3  d a
+x  c
+x  d
+x a
+2  d
+#2 daa  a
+xa   a
+x c
+b
+2 dda  a
+#3 c
+x a
+2  d
+#3 d a
+x c
+x d
+xa
+xc
+x d
+b
+2.a   a
+3 d
+2 c
+#3 a   a
+x  d
+x  c
+x  d
+x a
+x  c
+b
+1  d a
+2   c
+2. dda  a
+3a
+2c
+b
+
+b
+2.acd a
+3c
+2a
+#2 c  a
+x d  c
+xa   e
+b
+#3c da
+xa
+xc
+xd
+2c
+#3 dda  a
+x c
+x d
+xa
+xc
+x d
+b
+#3acd a
+x d
+xa
+xc
+2a
+#2 cd a
+x dd   a
+xa   a
+b
+
+b
+1cdda
+2      a
+#3   a
+xa
+x d
+x c
+x a
+x  d
+b
+#3 a   d
+x  d
+x a
+x b
+2 a
+#2  a   a
+x  b  a
+x  d  c
+b
+#3 aba d
+x  d
+x a
+x b
+2 a
+2d    a
+#3f
+xd
+xc
+xa
+b
+
+b
+2cdd   a
+#3a
+xc
+2 d   c
+#3a    d
+x d
+x c  a
+x d
+xa
+x c
+b
+A1
+1 dda  a
+2   a
+#2 dda
+xa   a
+x c
+.
+b
+b
+A2
+1 dda  a
+Y   a
+b
+b
+
+e

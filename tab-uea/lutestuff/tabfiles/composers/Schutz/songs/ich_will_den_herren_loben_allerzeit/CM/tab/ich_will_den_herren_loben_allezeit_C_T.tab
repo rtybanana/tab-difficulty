@@ -1,0 +1,430 @@
+-C
+-t
+-f
+{Ich will den Herren loben allezeit/Ich will den Herren loben allezeit}
+b
+1 cdca
+#2     c
+x     e
+1 cdca
+1 aa c
+1 cdca
+#2 dd   a
+x c
+1 a a d
+1acd a
+b
+1.aac  a
+2     a
+#2     a
+x e    //a
+xa     /a
+xc     b
+1ea c a
+1      a
+#2ff    /a
+x f
+xc  a  //a
+xe
+b
+1fcd   ///a
+1da   d
+#2 dd  c
+x      a
+xaab  a
+xcd   c
+1.da   d
+2fc   c
+#2da   a
+x c
+1 dd  c
+b
+
+b
+1aa   d
+1dcd a
+1cdda
+1    e
+#2    c
+x  a
+x  b a
+x  d
+#2 ab  d
+x   a
+x   c c
+x  a
+b
+c
+1  bcca
+1      a
+1  dc  /a
+#2   a  //a
+x  c
+1  dca
+1 a   e
+1 cd  c
+1  b  a
+b
+1 da   a
+#2  cc  /a
+x  d
+#2 aaa  //a
+x  c
+1  dc  /a
+1 aa   a
+#2  d
+x c
+0aa c a
+b
+c
+w cdc  ///a
+b
+b
+#2cc  a
+xb c e
+1ccd  c
+1bcc   /a
+b
+#2 dfe  a
+x ca bc
+1 aaa  //a
+1  e ec
+#2 a   e
+x  abc
+#2  cc e
+x     a
+x a bc
+x      //a
+b
+
+b
+#2a c   /a
+x     a
+#2a d   /a
+x      ///a
+#2aad  a
+x  c
+b
+b
+c
+w cdc  ///a
+b
+0.aac  a
+1  d ec
+0  ccca
+0      6
+b
+0.  ccca
+1  ec  /a
+0 aaa  //a
+1  b ea
+1 a
+b
+1 aa ec
+1  e   5
+0 aaa  //a
+0 ac  a
+0a
+b
+0bcc  b
+0cce  c
+1      5
+#2 ce  c
+x     a
+0ca    b
+b
+0aac  a
+1cdf   //a
+#2    c
+x    a
+#2da a d
+x    a
+x    c
+x    e
+0cdda
+b
+
+b
+2da a d
+1 a
+2 c
+0 da a a
+1acdca
+1c da
+0a dc  ///a
+b
+c
+0 da a a
+0      7
+b
+b
+#2 aa   a
+x ce  c
+1 df   //a
+1 ce  c
+b
+#2aa   e
+x ea c
+1a c  a
+1 ea c
+#2 cc e
+x   c
+#2  d e
+x    a
+x  cc
+x a   a
+b
+#2 cd  c
+x c ca
+#2 dd  c
+x      a
+#2 ddca
+x c
+b
+b
+c
+0 da a a
+0      7
+b
+0 cdca
+0 cdc  ///a
+1  dce ///a
+1.      ///a
+2 a
+1 cdc  ///a
+b
+
+b
+1 aaa  //a
+#2  dc  /a
+x  c
+1  a e a
+#2  c c
+x  a
+1   dee/a
+1 ccde
+1 cd  c
+1 da   a
+b
+1 d  cd
+1 ab  a
+1  d ef
+1 a c e
+0 ea c
+#2a c  a
+x     c
+x a c e
+x c ca
+b
+#2 ac  a
+x     a
+x      a
+x c c  /a
+#2 ea   //a
+xa     ///a
+x  a   //a
+x e
+0aac  a
+1  ccc
+1  aa  //a
+b
+#2
+x  dc  /a
+1  de  a
+1  ec  /a
+1 aaa  //a
+1    ec
+1  e   5
+#2 aaa  //a
+x      /a
+x      a
+x cb  a
+b
+
+b
+#2 dd  c
+x     c
+xaab  a
+xc     a
+#2da a d
+xc
+1aab  a
+1acd a
+1cce  c
+1cd  c
+1 ca b
+b
+c
+1 ccee
+1   d  /a
+0  eee 5
+b
+b
+#2 aa   a
+x ce  c
+1 df   //a
+1 ce  c
+b
+#2aa   e
+x ea c
+1a c  a
+1 ea c
+#2 acc a
+x     e
+1 ccc  /a
+1 b b e
+b
+#2  d a
+x    e
+#2  a a
+x cd  c
+#2 ccde
+x      /a
+b
+b
+c
+0  eeec
+0      5
+b
+w  a ac
+0.ccd   a
+1      a
+b
+
+b
+1da a d
+#2dc   a
+x a
+1cce  c
+1      5
+1cdf   //a
+#2da   a
+xca    a
+1aa    /a
+1  e
+b
+0 dfe  //a
+1 ccd  /a
+1    e
+1 cd  c
+#2 aaa  //a
+x      ///a
+1 aa   4
+1   d
+b
+1 ca   5
+#2cca  c
+x     a
+1ca    a
+1a e   /a
+1 da   //a
+1 cd   /a
+1 da a a
+#2aac  a
+x d
+b
+#2 cd  c
+xc
+1aa c d
+1 baca
+1 aabc
+0 ac  a
+0      6
+b
+b
+#2a d   /a
+xa c  a
+1 cdc  ///a
+1a c  a
+#2 cd a
+x    e
+1 cd  c
+1 ccd  /a
+b
+
+b
+#2 da a a
+x ca bc
+x da   //a
+x a
+#2 aa ec
+x  e
+x a c e
+x  abc
+#2  cc e
+x a   a
+x aacc
+x   b  //a
+b
+b
+1  ccca
+0a
+1 a
+0 cdc  ///a
+0    a
+b
+0 cd  c
+0 df c
+1 cb  a
+1 a
+1 aa ec
+1  e   5
+b
+#2 aaa  //a
+x c
+1 db cd
+1 ddca
+1 c
+0 da a a
+0 db cd
+b
+0aac  a
+0acd   ///a
+0 daa  a
+1 adc a
+1  c
+b
+c
+w cdc  ///a
+b
+b
+#2 ca a
+x  cde
+#2  d ec
+x a
+1 ccd  /a
+b
+
+b
+#2 da c a
+x ca bc
+1 aaa  //a
+1  e ec
+#2 a   e
+x  abc
+#2  cc e
+x     a
+x a bc
+x      //a
+b
+#2  cc  /a
+x     a
+#2  dce
+x    a
+#2 adc a
+x  c
+b
+b
+c
+w cdc  ///a
+b
+0 da a a
+0acd   /a
+0aad  a
+0  c   6
+b
+Yacdca ///a
+b
+b
+
+e

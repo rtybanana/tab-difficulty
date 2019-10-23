@@ -1,0 +1,168 @@
+-C
+-t
+-f
+{Entrée 4/Entrée 4}
+b
+W   a  a
+W    d /a
+W    b //a
+W    a ///a
+b
+b
+c
+1 dda  a
+1   a
+1 dd
+1a
+b
+1bdda
+1d
+1f
+1    d
+b
+1   ab
+#2d
+xb
+1d
+1   c
+b
+
+b
+1f  da
+#2   c
+x   a
+1  d e
+#2da a
+xb
+b
+1ab  a
+1b d
+1 dd b
+#2  b
+x   a
+b
+1 d da
+1 b c
+#2      a
+x  d
+x   d
+x  f
+b
+1 fg   /a
+#2d
+x    b
+#2    a
+x bd
+xb
+x    b
+b
+1bbd d
+1a b
+1a dda
+1 d
+b
+
+b
+1  bc a
+1 bd
+1aadcca
+#2  c
+x d
+b
+#2 bdca
+x d
+xa
+x     d
+#2  d  b
+x     a
+xbdd   a
+xd
+b
+#2f
+x   a
+x    e
+xdf
+#2bdda
+x      a
+x      /a
+x      //a
+b
+
+b
+#2      ///a
+xab
+x  d
+xb
+#2dde  d
+x   f
+x de
+x f
+b
+#2bdd   a
+xd
+xfg
+xh
+#2if ha
+x f
+xhf g
+x  i
+b
+2hfgh
+#3f
+x i
+#2f
+x  g
+#2     a
+xf
+1d f
+b
+
+b
+#3    a
+xa
+x b
+x d
+#3a
+x b
+2b
+#3     d
+x a
+x  b
+x  d
+#3 a
+x  b
+2a
+b
+#2      ///a
+x cb
+1 d d
+#2      ///a
+x d c
+x c
+x     d
+b
+#2     c
+x d
+x  da
+x b
+1  effd
+#2  da c
+x    d
+b
+#2     d
+x  b b
+x    d
+x    b
+2      a
+#3  a
+x  b
+#2  aa
+x   ce
+b
+
+b
+Y  aaa a
+b
+b
+
+e

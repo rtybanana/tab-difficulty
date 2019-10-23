@@ -1,0 +1,74 @@
+-C
+-t
+-f
+{Belle, qui m'avez blessé/Belle, qui m'avez blessé}
+b
+0 bdc  ///a
+1 bdca
+1 a c e
+b
+1 b ca
+1  d
+1 d  c
+1  b
+b
+1    d&#
+#2 b c
+x    c
+1    a
+1 dba d
+b
+
+b
+1 bbc  /a
+#2 bb d
+x   a
+1 bbc
+1   d
+b
+1 bbcd
+1      /a
+1     d
+1 aba
+b
+1 bbcd
+1      /a
+0 bbc
+.
+b
+b
+.
+1. bbcd
+2    c
+1    a
+1 a c e
+b
+
+b
+1ab  a
+1  d
+1  b
+1 d&# d
+b
+1  bc
+1 b
+1 dddf
+1    d
+b
+1 aba d
+1     b
+1     a
+1      a
+b
+1 bbc  /a
+1  d
+1      a
+1 acc a
+b
+0  dca
+0      ///a
+.
+b
+b
+
+e

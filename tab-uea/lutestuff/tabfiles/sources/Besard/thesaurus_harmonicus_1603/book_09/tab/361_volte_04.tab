@@ -1,0 +1,190 @@
+-C
+-t
+-f
+{361. Volte 4/361. Volte 4}
+b
+x   a  a
+x    a /a
+b
+b
+#2  d
+x a
+x c
+b
+.
+2 dda  a
+#3   a
+xd
+2b
+#2a   d
+xb   b
+xd
+b
+1.fcd a
+#2i
+xh
+xf
+b
+#2e f
+x f
+xf
+#3h    a
+xf
+xe
+xf
+xh
+xe
+b
+2f   a
+#3  a
+x  c
+2  d
+#2    a
+x    c
+x    e
+b
+
+b
+#3   a  a
+x    e
+x   a
+x   c
+x   a
+x   c
+#3   d
+x   a
+x   c
+x   a
+x    e
+x    c
+b
+#2    a
+x  d
+#2   d
+x b
+#2 a a
+x  d
+b
+#2  c c
+x   c
+#2  d d
+x   a
+#2 a c
+x  c
+b
+#2  d
+x    a
+x      /a
+#2f
+xd   d
+xb  a
+b
+2acd a
+#3 d
+xa
+2b  a
+#2    b
+x d
+xa    d
+b
+#2 cdca
+x  d
+x d
+#3a   a
+x d
+xa
+xb
+xd
+xa
+b
+
+b
+2b  a
+#3a
+xb
+2 d
+#2f   a
+xd   d
+xb  a
+b
+2acd a
+#3 d
+xa
+2b  a
+#2    b
+x d
+xa    d
+b
+#2 c  a
+x     b
+2 d
+#3a    d
+x d
+#3 c  a
+x d
+xa
+x c
+b
+#2 dda  a
+x    a
+x   a
+#2  d
+x  b
+x   d
+b
+#2   cd
+x    a
+x   d
+#2   ab
+x     d
+x   a
+b
+1   ca
+2      /a
+#3   ca
+x   a
+x   c
+x   d
+x   f
+x   c
+b
+
+b
+2   d  a
+#3   c
+x   d
+2   a
+#2  d
+x  b
+x   d
+b
+#2   cd
+x    a
+x   d
+#2   ab
+x     d
+x   a
+b
+#2   ca
+x     b
+#2   a
+x     d
+#2add a
+x c
+b
+A1
+1 dda  a
+2   a
+#2  d
+x a
+x c
+.
+b
+b
+A2
+1 dda  a
+Y   a
+b
+b
+
+e

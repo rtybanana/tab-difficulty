@@ -1,0 +1,155 @@
+-C
+-t
+-f
+{Kemp's Jig/Kemp's Jig}
+b
+c
+1.cdda
+2d
+1c"#dda
+1a d e
+b
+1. da c
+2a
+1 da c
+1 c  a
+b
+1 a   d
+1  d  c
+1 ab  a
+1 c
+b
+1 dda
+1  d
+0   a
+b
+b
+#2c"#  a
+xa
+xc"#
+xd
+1c"#dda
+1a d e
+b
+
+b
+#2 da c
+x a
+x d
+xa
+1 da c
+1 c  a
+b
+1 a   d
+1  d  c
+#2 a   a
+x  d
+x a
+x c
+b
+1 d a
+1  d
+0   a
+b
+b
+1c"+ aa
+1f
+1c"+ aa
+1f  a
+b
+1c aa
+#2f"#
+xd
+0c"+
+b
+1a"# b d
+1d
+1a b d
+1d
+b
+
+b
+1a b d
+#2 d
+x b
+1 a   d
+1 c  a
+b
+1 dda
+1  d
+1  aa
+1  d
+b
+1 dda
+#2  d
+x  b
+1  aa
+1  d
+b
+1 a   d
+1  d  c
+1 ab  a
+1 c
+b
+1 d a
+1  d
+0   a
+b
+b
+1c"# aa
+1f
+#2c"# aa
+xd
+1f
+b
+
+b
+1c aa
+#2f"#
+xd
+#2c"#
+xa
+1 d
+b
+1a"# b d
+1d
+#2a"# b d
+xc
+1d
+b
+1a b d
+#2 d
+x b
+1 a   d
+1 c"+  a
+b
+1 dda
+1  d
+2.  aa
+3  b
+1  d
+b
+#2 d"+ a
+x  d
+x a
+x  d
+2.  aa
+3  b
+1  d
+b
+
+b
+1 a   d
+1  d  c
+#2 a   a
+x  d
+x a
+x c
+b
+1 d a
+1  d
+Y   a
+b
+b
+
+e

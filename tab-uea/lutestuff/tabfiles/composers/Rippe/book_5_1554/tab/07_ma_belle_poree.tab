@@ -1,0 +1,452 @@
+-C
+-t
+-f
+{7. Ma belle porée/7. Ma belle porée}
+b
+c
+0 dddf
+0abb d
+b
+1bbd  b
+1     a
+1     b
+1     d
+b
+1bbd a
+1     d
+1bbd a
+1    c
+b
+1abb d
+1    a
+1 d ab
+1    d
+b
+1 d  a
+1    b
+0 c ca
+b
+1   a
+1 d
+1  d
+1   a
+b
+0 dddf
+0abb d
+b
+1bbd  b
+1d
+1f
+1d
+b
+
+b
+1b    b
+#2a    {
+xb
+#2d
+xb
+xa
+x d
+b
+#2a   d
+xb   {
+xd
+xb    }
+#2a   a
+x d
+x c
+x a
+b
+#2 c ca
+x d
+x a ac
+x c
+#2 d  a
+x c  {
+#3 d
+x c
+x a
+x c   }
+b
+1 d
+1   a
+1 d
+1  d
+b
+0 dda
+0abb d
+b
+0abb d
+1    d
+1abb d
+b
+1abb d
+1b
+1db  d
+1a
+b
+
+b
+1b da
+1a
+1 dd d
+1 c
+b
+1 ddab
+1 a
+1 cca
+1 d
+b
+1    a
+1 cd
+1   c
+1 d
+b
+0 cdca
+0abb d
+b
+0abb d
+1    d
+1bb  d
+b
+1    f
+1 ddd
+1    a
+1 cdc
+b
+1 d ab
+1     d
+1 d  a
+1    b
+b
+1 d  a
+1     b
+1 c c d
+1    a
+b
+1   a
+1 d
+1  d
+1   a
+b
+
+b
+0 dda
+0abb d
+b
+#2abb d&{
+x a
+x b
+x d
+#2a    }
+x d
+xa   d
+xb
+b
+#2d   d
+x a  {
+x b
+x d   }
+#2a   d
+xb
+xd
+xa
+b
+#2b  a
+xa
+xb
+xd
+#2f
+xb
+xd
+xf
+b
+#2g  a
+xf
+xd
+xb
+#2d
+xb
+xa
+x d
+b
+
+b
+#2    a
+xad
+x c
+x a
+#2 c
+x a
+x c
+x d
+b
+1acd
+1    a
+1    d
+1abb
+b
+1abb d
+#2  d {
+x a
+#2 b
+x d
+xa
+xb    }
+b
+#2d   d
+x  a
+x  b
+x  d
+#2 a
+x b
+x d
+xa
+b
+1b  a
+#2  a
+x  c
+#2  d
+x a
+x c
+x d
+b
+1ac
+1bd
+1ad  a
+1 c
+b
+
+b
+1   a
+1 d
+1  d
+1   a
+b
+1 dda
+1a
+1b  a
+1d
+b
+1f
+1   c
+1   d
+1  b
+b
+1f d
+1 a
+1fb
+1 d
+b
+1df
+1  d
+1ba
+1 c
+b
+1add
+1 c
+#2 d
+x c
+x a
+x c
+b
+1 d
+1   a
+1 d
+1  d
+b
+
+b
+1 dda
+#2 a
+x c
+#2 d
+xa
+xb
+xd
+b
+1f
+#2   a
+x   c
+#2   d
+x   c
+x   d
+x  b
+b
+1f d
+#2     b
+x     a
+#2     b
+x     d
+x    a
+x    c
+b
+1    d
+1dbbc
+1bdd
+1   a
+b
+1add a
+#2 c
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+1 d
+1   a
+1 d
+1  d
+b
+0   a
+0dfg
+b
+
+b
+1dfg
+1  f
+1  g
+1dd
+b
+1df
+1  g
+1dd
+1 f
+b
+1 d
+1b
+1  d
+1ac
+b
+1bde
+1  b
+1bdd
+1  e
+b
+1    a
+1add
+1 c
+1 a
+b
+1acd
+1    a
+0dfg
+b
+0dfg
+1d   d
+1f
+b
+1   a
+1bd
+1  d
+1ac
+b
+1bde
+1  b
+1bdd
+1  e
+b
+
+b
+1acd
+1bd
+1add
+1 c
+b
+1 d
+1   a
+1 d
+1  d
+b
+1   a
+1 dd
+1d
+1 bbc
+b
+1    d
+1b
+1a
+1   a
+b
+1  bc
+1 d
+1 b
+1   a
+b
+1    d
+1 a
+1 b
+1 d  c
+b
+1a   d
+1b  a
+1d  c
+1a   d
+b
+1   a
+1bdd
+1   c
+1a
+b
+
+b
+1 d d
+1  b
+1 dd
+1  e
+b
+1  d
+1ad
+1ac  a
+1 a
+b
+1ac
+1    a
+1 d
+1 bbc
+b
+1    d
+1b
+1a
+1   a
+b
+1  bc
+1 d
+1 b
+1   a
+b
+1    d
+1 a
+1  d
+1    c
+b
+1    a
+1  b
+1   d
+1   c d
+b
+1   aab
+1   acd
+1   cef
+1   af
+b
+
+b
+1   cff
+1    e
+1     c
+1 dda
+b
+1    a
+1     d
+0 ddaac
+b
+Y ddaac
+b
+b
+
+e

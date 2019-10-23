@@ -1,0 +1,82 @@
+-C
+-t
+-f
+{Ben mio de dove sei/Ben mio de dove sei}
+b
+c
+w bdca
+b
+#2 abc
+x  a
+x  b
+x  d
+1  b
+1aabc
+1cdda
+1dfg d
+1f dd
+1 d
+b
+1effc
+1ffg a
+1dfg d
+1dfg d
+1bdda
+1bdda
+1aadc
+1  c
+b
+A1
+0acd a
+.
+b
+b
+A2
+1acd a
+1abd
+b
+.
+1abd
+1f
+1f
+1dabc
+1ddff
+1c d
+1dd f
+1  f
+b
+
+b
+1dfg d
+1 fg d
+1 dff
+1d
+1d
+1cdda
+1aabc
+1 ddd
+b
+0aabc
+1dfg d
+0bdda
+1bdda
+2aacc
+#3  d
+x  c
+#3  d
+x  c
+x  a
+x  d
+b
+A1
+1acd a
+1abd
+.
+b
+b
+A2
+0acd a
+b
+b
+
+e

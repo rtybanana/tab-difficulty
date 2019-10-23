@@ -1,0 +1,177 @@
+-C
+-t
+-f
+{400. Passemesso courante/400. Passemesso courante}
+b
+1
+2  d
+1 bd a
+2     d
+1 bdd b
+2 dda  a
+2. acc a
+3b
+2a
+b
+1  dca
+2    c
+1abb d
+2   a
+1dabc
+2    d
+2.cd a
+3d
+2f
+b
+1ddf  d
+2if h
+1hi f
+2fg d
+1df c
+2dbb d
+2.fhi f
+3h
+2f
+b
+1ddf  d
+#2 ab
+x  da
+1      a
+1 aba d
+#2acd
+xc a
+1ea c
+b
+
+b
+1fcd a
+#2 fgh
+x ffg
+1ffgh
+1hk  h
+#2f  d
+xfd  f
+1ea c a
+b
+1fcd a
+2a d
+1b  a
+2   c
+1 d d
+2 c c
+2. d d  a
+3a
+2b
+b
+1aac  a
+2     c
+1aab  d
+2    a
+1cea c
+#2abb d
+x    a
+1cea c
+b
+1aac  a
+2   c
+1abd a
+2    c
+1abb d
+2 bdd b
+2. dff d
+3 f
+2 d
+b
+1 fgfd
+2dfg
+1fg d
+2hd f
+2.if h
+3   f
+#2h   h
+xfg d
+1ddff
+b
+
+b
+1 fgfd
+2 bdd b
+2. dff d
+3 f
+2 d
+2.abb d
+3   a
+2 abc
+2.  def
+3  f
+2  d
+b
+1     d
+2 aba
+1a b d
+2  da
+2. abc
+3   a
+#2  b c
+x    d
+1  da
+b
+1ddf  d
+#2dfg
+xfdd
+1    f
+1ddf  d
+2 bda
+2. acc
+3 b   a
+2 a
+b
+1  dca
+#2    c
+xab  d
+1c  a
+2.ea c
+3   a
+#2f   d
+x   a
+1ea c
+b
+1fcd a
+2if h
+2.h  g
+3i
+2h
+2.ffgh
+3   f
+#2h   h
+xf  d
+1fd  f
+b
+
+b
+1ea c a
+2aac
+2.abd
+3 dda  a
+2 b
+1 acc a
+#2  d  b
+x      a
+1 acc a
+b
+1 cdca
+2ac  e
+2.cdda
+3    e
+2 da c
+1 cdca
+2cdda
+2.ea c
+3   a
+2   c
+b
+Y.fcd a
+b
+b
+
+e

@@ -1,0 +1,541 @@
+-C
+-t
+-f
+{133. Quiero dormir/Miguel de Fuenllana}
+b
+c
+wa
+b
+0a d
+0a
+b
+0 bd
+1  d
+1 b
+b
+0 d d
+0 db
+b
+0abd
+0  d
+b
+0a  c
+0a c
+b
+0. bdd
+1 b
+b
+0 dda
+1 d
+1   a
+b
+0 bdd
+1   d
+#2 a
+x  d
+b
+0 ab
+1  bc
+1  b
+b
+0 bdd
+1 b
+1 b
+b
+0 d
+1 dff
+1   f
+b
+
+b
+1ab
+1 a
+1  d
+1 bb
+b
+0 ddd
+0 dff
+b
+0a bc
+0 b  d
+b
+0 d f
+0  f
+b
+0 b  d
+0a
+b
+0 bd
+0a
+b
+0 bd
+1 bd
+1 b
+b
+0 ddd
+0 dff
+b
+0 bd
+0 dda
+b
+0 a c
+0  c
+b
+0  dd
+0   a
+b
+1  d
+1   c
+1   d
+1 ab
+b
+1 bd
+1 df
+1abd
+1 a
+b
+
+b
+1 b  d
+1bd
+1df
+1 g
+b
+0db  d
+0ab
+b
+0 d
+0  f
+b
+0 b
+0  d
+b
+1  d
+1 a
+1ab
+1 df
+b
+1ab
+1 d
+1abd
+1 a
+b
+1 bd
+1bd
+1df
+1 g
+b
+1db
+1 a
+0 bd
+b
+0 d f
+0  f
+b
+w b  d
+b
+wdf  d
+b
+0df
+0df
+b
+0.ab
+1bd
+b
+
+b
+0df
+0bd
+b
+0 df
+0 b
+b
+0 d
+0  f
+b
+0 b  d
+1df
+1   a
+b
+1   c
+1   d
+1df f
+1   c
+b
+1fb d
+1   f
+1  d
+1 df
+b
+0dfg
+0bd
+b
+0 dff
+0 bd
+b
+0 d f
+0  f
+b
+0 b  d
+0df
+b
+0    d
+0df
+b
+0.ab
+1bd
+b
+0df
+0bd
+b
+
+b
+0 df
+0 b
+b
+0 d
+0  f
+b
+0 b  d
+1df
+1   a
+b
+1   c
+1   d
+1df f
+1   c
+b
+1fb d
+1   f
+1  d
+1 df
+b
+0dfg
+0bd
+b
+0 dff
+0 bd
+b
+1 dff
+1  g
+0  f
+b
+0 b  d
+0ab  d
+0ab  d
+b
+w bdd
+0 bd
+b
+w dff
+0 dff
+b
+c
+0 bd
+0 d a
+b
+
+b
+0 a c
+0  c
+b
+0  dd
+0   a
+b
+1  d
+1   c
+1   d
+1 ab
+b
+1 bd
+1 df
+1abd
+1 a
+b
+1 b  d
+1bd
+1df
+1 g
+b
+0db  d
+0ab
+b
+0 d
+0  f
+b
+0 b
+0 b
+b
+1a
+#2 a
+x  d
+0  b
+b
+0abd
+1a
+#2 ab
+x  dd
+b
+0 bbc
+1  dd
+1 b
+b
+
+b
+0 d
+0 dff
+b
+0 bd
+0  d
+b
+1 a c
+1  d
+0  c
+b
+0  d
+1  d
+1 a
+b
+1 bd
+1 d
+1ab
+1 a
+b
+1 b
+1 d
+1abd
+1 a
+b
+1 b
+1bd
+1dfg
+1 g
+b
+1db
+1 a
+0 bd
+b
+0 d f
+0  ff
+b
+0 b
+0ab
+b
+0
+0ab
+b
+0. bd
+1 df
+b
+
+b
+0ab
+0bd
+b
+0 df
+0 b
+b
+0 d
+0  f
+b
+0db
+1df  d
+1   a
+b
+1d  c
+1   d
+1df f
+1   c
+b
+1fb d
+1   f
+1  d
+1 df
+b
+0dfg
+0bd
+b
+0d ff
+0 bd
+b
+1 dff
+1  g
+1 d
+1  f
+b
+0 b
+0ab
+b
+0
+0ab
+b
+0. bd
+1 df
+b
+
+b
+0ab
+0bd
+b
+0 df
+0 b
+b
+0 d
+0  f
+b
+0db
+1df  d
+1   a
+b
+1d  c
+1   d
+1df f
+1   c
+b
+1fb d
+1   f
+1  d
+1 df
+b
+0dfg
+0bd
+b
+0dab
+0 bd
+b
+0 d f
+0  f
+b
+0 b  d
+0ab  d
+0ab  d
+b
+w bdd
+0 bd
+b
+w dff
+0 dff
+b
+c
+0 bd
+0 d a
+b
+
+b
+0 adc
+0  c
+b
+0  dd
+1   a
+1   a
+b
+0.  dd
+1   d
+b
+0  b
+1  bc
+1  b
+b
+0 b d
+1 b
+1 b
+b
+0 d
+1 dff
+1   f
+b
+1ab
+1 a
+1 bd
+1  b
+b
+0 ddd
+0 dff
+b
+0a bc
+0 b  d
+b
+0 d f
+0  f
+b
+0 b  d
+0a
+b
+0 bd
+0a
+b
+
+b
+0 bd
+1 bd
+1 b
+b
+0 ddd
+0 dff
+b
+0 bd
+0 dda
+b
+1 a c
+1  d
+0  c
+b
+0  dd
+0   a
+b
+1  d
+1   c
+1   d
+1 ab
+b
+1 bd
+1 df
+1abd
+1 a
+b
+1 b  d
+1bd
+1df
+1 g
+b
+0db  d
+0ab
+b
+0 d
+0  f
+b
+0 b
+0  d
+b
+1  d
+1 a
+1 b
+1 df
+b
+
+b
+1ab
+1 d
+1abd
+1 a
+b
+1 bd
+1bd
+1df
+1 g
+b
+1db
+1 a
+0 bd
+b
+1 d f
+1  g
+0  f
+b
+w b  d
+b
+Y
+b
+b
+
+e

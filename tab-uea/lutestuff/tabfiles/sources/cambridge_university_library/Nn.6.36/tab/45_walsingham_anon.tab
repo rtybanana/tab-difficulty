@@ -1,0 +1,392 @@
+-C
+-t
+-f
+{45. Walsingham/Anonymous}
+b
+#2 bd
+x d
+1a
+1 d
+b
+1 bdca
+#2 a
+x  d
+1 accca
+b
+#2 bd
+x df
+1ab
+2. bd
+3 d
+b
+0. bbcd
+b
+#2 ab
+x bd
+1 df
+#2aabc{
+x d
+b
+1 bdca
+#2 a
+x  d
+1aaccca
+b
+2 ab
+#3 b
+x d
+#2aacc
+x bdca
+#2 adc
+x  c
+b
+0. cdca
+b
+b
+
+b
+#2 b
+x d
+#3abbcd
+xd
+xc
+xa
+2 db
+#3a
+x d
+b
+#3 bdca
+x  d
+x a
+x b
+#3  d
+x b
+2 d
+1aacc
+b
+#2 bdca
+x daac
+#3   cd
+x    c
+x    d
+x   a
+#3   c
+x  a
+x  b
+x     d
+b
+0. bbcd
+b
+#3 ab
+x  d
+x a
+x b
+#3 d
+x a
+x b
+x d
+#3a
+x d
+x b
+x a
+b
+
+b
+2 bdca
+#3 a
+x b
+#3 d
+x b
+x a
+x  d
+1aacc
+b
+#3  b
+x  d
+x a
+x b
+#2 d
+xd
+3.aacc
+4 d
+2 a
+b
+0. cdca
+b
+b
+#3  d
+x a
+x b
+x d
+#2a
+x    d
+#2  b
+x     d
+b
+#2    a
+x  d
+#2 b
+x d
+1aacc
+b
+2f
+#3  d
+x a
+#3 b
+x d
+xa
+xb
+2.d
+3b
+b
+0.abbcd
+b
+
+b
+#3  b
+x  d
+x a
+x b
+#2 d
+x a
+#2   c
+xa
+b
+2 b
+#3    a
+x    c
+#3    d
+x    c
+x    d
+x   a
+1aacc
+b
+#3a
+x d
+x b
+x a
+#3 d
+x b
+x a
+x  d
+#2aacc
+x d
+b
+0. cdca
+b
+b
+#2  d
+x a
+#3 b
+x d
+2a
+#3 a
+x b
+2 d
+b
+#3  d
+x a
+x b
+x   c
+#3    a
+x  d
+x  c
+x  a
+1aacc
+b
+
+b
+#3  d
+x  b
+x   d
+x a
+#3 b
+x    a
+x    d
+x   c
+#2     d
+x  b
+b
+2    d
+#3 b
+x a
+#3 b
+x  b
+x  d
+x  b
+1abbcd
+b
+#3 a
+x b
+x d
+x a
+#3  b
+x d
+x a
+x  b
+#2   c
+xa
+b
+#3   a
+x d
+x b
+x a
+#2 bd
+x d
+1aacc
+b
+#3   c
+xa
+xd
+x   c
+#3   a
+xd
+xb
+x   a
+#3   c
+x  d
+2aacc
+b
+0.acdca
+b
+b
+
+b
+2.db
+3b
+2a
+#3 a
+x  d
+2  b
+#3a
+x d
+b
+2 bd
+#3    a
+x a
+#3  d
+x    c
+x    d
+x   a
+#2   c
+x     a
+b
+2 fg
+#3 df
+x bd
+#3 ab
+xd
+xbd
+xa
+#3 db
+x b
+2 d
+b
+0.abbcd
+b
+1 db
+2 a
+#3  a
+x   c
+#3a
+x   a
+x    d
+x    c
+b
+#3    a
+x d
+x b
+x a
+#3  d
+xf
+xe
+xc
+1aacc
+b
+
+b
+#3 ab
+x b
+x d
+x  a
+#3  b
+x   c
+x  d
+x b
+1 ac
+b
+0. cdca
+b
+b
+#2a
+xd
+#2f
+x f
+#2 a
+x d
+b
+#3  d
+xa
+x d
+x b
+#3 a
+x  d
+x  c
+x  a
+#2aacc
+x     a
+b
+#2f
+xi
+#2d
+xf
+3.a
+4b
+3.d
+4  b
+b
+2 b
+#3 a
+x  d
+#3  b
+x   d
+x   c
+x   a
+1    d
+b
+
+b
+#2     d
+x  b
+#3   a
+x   c
+x   a
+x    d
+#3    c
+x    a
+x  d
+x  c
+b
+#3  d
+x    a
+x    c
+x    d
+#3    a
+x    c
+x    d
+x   a
+2aacc
+2     a
+b
+2. db
+3  a
+#2   c
+x bd
+#2 adc
+x  c
+b
+0. cdca
+b
+b
+
+e

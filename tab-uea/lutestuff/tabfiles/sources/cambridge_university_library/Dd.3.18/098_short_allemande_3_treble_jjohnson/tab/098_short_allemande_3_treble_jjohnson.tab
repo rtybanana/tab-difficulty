@@ -1,0 +1,575 @@
+-C
+-t
+-f
+{98. Short allemand 3/Francis Cutting}
+b
+c
+1 b
+1 d
+b
+1a
+#2  d
+x a
+#2 b
+x d
+xa
+x b
+b
+#2 d
+x a
+x b
+x d
+#2 b
+x  d
+x a
+x b
+b
+1 a
+#2 d
+x b
+#2 a
+x  d
+x  c
+x  a
+b
+#2   c
+x  a
+x  c
+x  d
+#2 a
+x b
+x d
+x a
+b
+
+b
+1 b
+#2  d
+x a
+#2 b
+x d
+xa
+xb
+b
+1d
+#2  b
+x  d
+#2 a
+x b
+x d
+x a
+b
+1 b
+#2 d
+xa
+#2b
+xd
+xf
+xh
+b
+0i
+1f
+1h
+b
+1i
+#2h
+xf
+#2 i
+xf
+xh
+xi
+b
+1h
+#2i
+xh
+1f
+#2h
+xf
+b
+
+b
+1e
+#2 f
+x h
+#2e
+xf
+xh
+xf
+b
+1e
+#2 b
+x d
+#2a
+xb
+xd
+xa
+b
+#2b
+xa
+xb
+xd
+#2f
+xh
+xi
+xf
+b
+#2h
+xf
+xe
+x h
+#2e
+xf
+xh
+xe
+b
+1f
+#2d
+xc
+#2a
+x d
+x c
+x a
+b
+
+b
+#2  d
+x  c
+x  d
+x a
+#2 b
+x a
+x b
+x d
+b
+b
+#2a
+xb
+xd
+xa
+#2b
+x d
+xa
+x b
+b
+#2 d
+x b
+x d
+x a
+#2 b
+x a
+x b
+x  d
+b
+#2 a
+x  c
+x  d
+x  a
+#2  c
+x   c
+x  a
+x   b
+b
+#2   c
+x   a
+x   c
+x   d
+#2   c
+x   a
+x    d
+x    c
+b
+
+b
+#2    a
+x    c
+x    d
+x   a
+#2   c
+x  a
+x  c
+x  d
+b
+#2 a
+x  d
+x a
+x b
+#2 d
+xa
+xb
+x d
+b
+#2a
+xb
+xd
+xa
+#2b
+xd
+xf
+xh
+b
+1i
+#2h
+xf
+#2d
+xb
+xa
+x d
+b
+#2 b
+x a
+x b
+x d
+#2a
+xb
+xd
+xf
+b
+
+b
+#2h
+xa
+xc
+xe
+#2f
+x a
+x c
+x e
+b
+#2 f
+x  a
+x  c
+x  d
+#2  f
+x   a
+x   c
+x  a
+b
+#2  c
+x  d
+x  a
+x  c
+#2  d
+x  b
+x   d
+x   c
+b
+#2   a
+x   c
+x   d
+x  b
+#2  d
+x a
+x b
+x d
+b
+#2a
+xc
+xe
+xf
+#2h
+xf
+xh
+xe
+b
+
+b
+#2f
+xd
+xc
+xa
+#2d
+xc
+xa
+x d
+b
+#2a
+x d
+x c
+x a
+#2 c
+x a
+x  d
+x  c
+b
+b
+#2  d
+x a
+x b
+x d
+#2a
+xc
+xd
+xf
+b
+#2h
+xf
+xe
+xh
+#2f
+xe
+x h
+xf
+b
+#2e
+xf
+xh
+xf
+#2e
+x h
+x f
+x e
+b
+
+b
+#2a
+xc
+xd
+xc
+#2a
+x d
+x b
+x a
+b
+1 b
+#2 d
+xa
+#2b
+xa
+x d
+x b
+b
+1 a
+#2  b
+x  d
+#2  b
+x   d
+x   c
+x   a
+b
+1   c
+#2    d
+x   a
+#2   c
+x   d
+1  b
+b
+1  b
+#2  d
+x a
+#2 b
+x d
+1a
+b
+1a
+#2b
+xd
+#2f
+xh
+1i
+b
+
+b
+1h
+#2  d
+x a
+#2 b
+x d
+1a
+b
+1a
+#2d
+xf
+#2h
+xi
+xl
+xi
+b
+1h
+#2f
+xh
+#2i
+xh
+xf
+x i
+b
+1 g
+#2a
+x d
+#2 b
+x a
+x b
+x d
+b
+#2a
+xc
+xd
+xc
+#2a
+x d
+x c
+x a
+b
+1 c
+#2c
+xd
+#2f
+xd
+xc
+xa
+b
+
+b
+#2 c
+x  d
+x  d
+x a
+#2 b
+x d
+xa
+xb
+b
+b
+#2a
+x b
+x b
+x d
+#2a
+xc
+xd
+xf
+b
+#2h
+x a
+x a
+x a
+#2 b
+x d
+xa
+xc
+b
+#2e
+x f
+x f
+x h
+#2e
+xf
+xh
+xf
+b
+1e
+#2   c
+x  a
+#2  c
+x  d
+x a
+x  c
+b
+
+b
+#2  d
+x a
+x b
+x b
+#2 b
+x d
+xa
+xc
+b
+#2d
+xf
+xg
+xf
+#2d
+x g
+x f
+x d
+b
+#2a
+x b
+xd
+xb
+#2a
+x d
+x b
+x a
+b
+#2 b
+x  b
+x  d
+x a
+#2 b
+x d
+xa
+xb
+b
+#2a
+x b
+xa
+xb
+#2d
+xf
+xh
+xi
+b
+
+b
+#2h
+xl
+xi
+xh
+#2f
+xi
+xh
+xf
+b
+#2e
+xa
+x d
+x b
+#2 a
+x b
+x a
+x  d
+b
+#2  c
+x d
+x b
+x a
+#2 b
+xd
+xb
+xa
+b
+1b
+#2i
+xh
+#2f
+xi
+xh
+xf
+b
+#2h
+xf
+xe
+x h
+#2e
+xc
+xa
+x d
+b
+
+b
+#2a
+x d
+x c
+x a
+#2 c
+x a
+x  d
+x  c
+b
+Y  dca
+b
+b
+
+e

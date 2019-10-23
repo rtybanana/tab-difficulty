@@ -1,0 +1,238 @@
+-C
+-t
+-f
+{Finale/Finale}
+b
+c
+#2  d a
+x  c
+x  a
+x  c
+#2  d
+x a
+x b
+x d
+b
+#2a   a
+xb
+xd
+xb
+#2a
+x d
+x b
+x a
+b
+#2 b  a
+x a
+x b
+x d
+#2a   d
+x b
+x d
+xa
+b
+
+b
+#2b  a
+xa
+x d
+x b
+#2 d d
+x b
+x a
+x  d
+b
+#2  cc
+x  d
+x a
+x b
+#2 d  d
+x b
+x a
+x  d
+b
+#2 a a
+x  d
+x  c
+x  a
+#2  cc
+x  d
+x a
+x  c
+b
+b
+1 b  a
+#2  d
+x a
+#2 b
+x d
+xa
+x b
+b
+
+b
+#2 d d
+x b
+x d
+x a
+#2 b c
+x a
+x b
+x  d
+b
+#2 a a
+x  d
+x a
+x  b
+#2  d d
+x  c
+x  d
+x  a
+b
+#2 a  c
+x  b
+x  d
+x a
+#2 b  d
+x  d
+x a
+x b
+b
+#2 d a
+x b
+x a
+x  d
+#2  cc
+x  d
+x a
+x  c
+b
+b
+
+b
+1abd a
+#2 d
+xa
+#2b
+xa
+x d
+x b
+b
+1 d
+1   d
+1 d
+#2 b
+x a
+b
+1 b
+1   c
+1 b
+#2 a
+x  d
+b
+1 a
+1   a
+1 a
+#2  d
+x  b
+b
+1  d
+1    d
+1  d
+#2  c
+x  a
+b
+1  c
+1    c
+1  d
+1    d
+b
+
+b
+#2   a
+x b
+x a
+x  d
+#2 a c
+x  d
+x  a
+x  c
+b
+b
+1abd a
+#2 d
+xa
+#2b
+xa
+x d
+x b
+b
+1   d
+#2 b
+x d
+#2a
+x d
+x b
+x a
+b
+1   c
+#2 a
+x b
+#2 d
+x b
+x a
+x  d
+b
+
+b
+1   a
+#2  d
+x a
+#2 b
+x a
+x  d
+x  b
+b
+1    d
+#2  c
+x  d
+#2 a
+x  d
+x  c
+x  a
+b
+1    c
+#2  a
+x  c
+#2    d
+x  c
+x  d
+x a
+b
+#2 b
+x  d
+x a
+x b
+#2   a
+x b
+x a
+x  d
+b
+
+b
+#2 a
+x  d
+x  c
+x  a
+#2   c
+x  d
+x  a
+x  c
+b
+1  d
+1    a
+0  d
+b
+b
+
+e

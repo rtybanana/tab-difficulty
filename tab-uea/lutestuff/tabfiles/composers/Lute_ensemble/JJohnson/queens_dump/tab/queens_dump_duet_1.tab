@@ -1,0 +1,656 @@
+-C
+-t
+-f
+{The Queen's Dump/The Queen's Dump}
+b
+c
+1.f
+2d
+#1c
+xa
+b
+#1 d
+x b
+#1 a
+x  d
+b
+1. a
+2  d
+#1  b
+x  a
+b
+#1  b
+x  d
+#2 a
+x c
+1 d
+b
+1. c
+2 d
+#1 c
+x a
+b
+#1  d
+x  b
+#1  a
+x   c
+b
+
+b
+1.c
+2d
+#2c
+xa
+x d
+x c
+b
+#1 d
+x  d
+0   a
+b
+b
+0 ddef
+#1 dde
+x    f
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+0 dff d
+#1 dff
+x     d
+b
+#1 dff
+x     d
+#1 dff
+x     d
+b
+0 cdca
+#1 cdc
+x    a
+b
+#1 cdc
+x    a
+#1 cdc
+x    a
+b
+0 ddef
+#1 dde
+x    f
+b
+
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+b
+1f
+#2c
+xd
+#2f
+xd
+xc
+xa
+b
+1 d
+#2 a
+x b
+#2 d
+x b
+x a
+x  d
+b
+1 a
+#2 d
+x b
+#2 a
+x  d
+x  b
+x  a
+b
+1  b
+#2  a
+x  b
+#2  d
+x a
+x c
+x d
+b
+
+b
+1 c
+#2  a
+x  c
+#2  d
+x a
+x c
+x d
+b
+1a
+#2 c
+x d
+#2a
+xc
+xd
+xa
+b
+1c
+#2d
+xc
+#2a
+xc
+xd
+xa
+b
+1c
+#2  a
+x  b
+#2  d
+x  b
+x  a
+x   c
+b
+b
+0 ddef
+#1 dde
+x    f
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+0 dff d
+#1 dff
+x     d
+b
+
+b
+#1 dff
+x     d
+#1 dff
+x     d
+b
+0 cdca
+#1 cdc
+x    a
+b
+#1 cdc
+x    a
+#1 cdc
+x    a
+b
+0 ddef
+#1 dde
+x    f
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+b
+#2  d
+x  b
+x  a
+x   c
+#1   a
+x  d
+b
+#1  a
+x   a
+0   a
+b
+#2 d
+x b
+x a
+x  d
+#1  b
+x d
+b
+
+b
+#1 a
+x  b
+0  b
+b
+#2a
+x d
+x c
+x a
+#1  d
+xa
+b
+#1 c
+x  d
+0  d
+b
+#2f
+xd
+xc
+xa
+#1 d
+xf
+b
+#1c
+x d
+0 d
+b
+b
+0 ddef
+#1 dde
+x    f
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+0 dff d
+#1 dff
+x     d
+b
+
+b
+#1 dff
+x     d
+#1 dff
+x     d
+b
+0 cdca
+#1 cdc
+x    a
+b
+#1 cdc
+x    a
+#1 cdc
+x    a
+b
+0 ddef
+#1 dde
+x    f
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+b
+1c
+#2f
+xd
+1c
+#2f
+xd
+b
+1c
+#2f
+xd
+1c
+#2l
+xi
+b
+
+b
+1h
+#2l
+xi
+1h
+#2l
+xi
+b
+1h
+#2l
+xi
+1h
+#2 f
+x d
+b
+1 c
+#2 f
+x d
+1 c
+#2 f
+x d
+b
+1 c
+#2 f
+x d
+1 c
+#2f
+xd
+b
+1c
+#2f
+xd
+1c
+#2f
+xd
+b
+1c
+#2f
+xd
+1c
+#2  d
+x  b
+b
+b
+
+b
+0 ddef
+#1 dde
+x    f
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+0 dff d
+#1 dff
+x     d
+b
+#1 dff
+x     d
+#1 dff
+x     d
+b
+0 cdca
+#1 cdc
+x    a
+b
+#1 cdc
+x    a
+#1 cdc
+x    a
+b
+0 ddef
+#1 dde
+x    f
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+b
+1. d
+2a
+#1c
+xd
+b
+
+b
+#1f
+xc
+0 d
+b
+1. a
+2 b
+#1 d
+xa
+b
+#1 d
+x a
+0  b
+b
+1. c
+2 d
+#1a
+xc
+b
+#1a
+x c
+0  d
+b
+1.c
+2d
+#1f
+xh
+b
+#1f
+x h
+0  i
+b
+b
+0 ddef
+#1 dde
+x    f
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+
+b
+0 dff d
+#1 dff
+x     d
+b
+#1 dff
+x     d
+#1 dff
+x     d
+b
+0 cdca
+#1 cdc
+x    a
+b
+#1 cdc
+x    a
+#1 cdc
+x    a
+b
+0 ddef
+#1 dde
+x    f
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+b
+#2  a
+x   c
+x  a
+x  b
+#1  d
+x  d
+b
+1  d
+#2  d
+x  b
+#2  a
+x   c
+1   a
+b
+
+b
+#2 a
+x  d
+x a
+x b
+#1 d
+x d
+b
+1 d
+#2 d
+x b
+#2 a
+x  d
+1  b
+b
+#2 c
+x a
+x c
+x d
+#1a
+xa
+b
+1a
+#2a
+x d
+#2 c
+x a
+1  d
+b
+#2c
+xa
+xc
+xd
+#1f
+xf
+b
+1f
+#2f
+xd
+#2c
+xa
+1 d
+b
+b
+
+b
+0 ddef
+#1 dde
+x    f
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+0 dff d
+#1 dff
+x     d
+b
+#1 dff
+x     d
+#1 dff
+x     d
+b
+0 cdca
+#1 cdc
+x    a
+b
+#1 cdc
+x    a
+#1 cdc
+x    a
+b
+0 ddef
+#1 dde
+x    f
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+b
+
+b
+#1   a
+x  d
+#2  d
+x  b
+x  a
+x   c
+b
+#1   a
+x d
+#2 d
+x b
+x a
+x  d
+b
+#1  b
+x a
+#2 a
+x  d
+x  b
+x  a
+b
+#1  b
+xd
+#2d
+xc
+xa
+x d
+b
+#1 c
+xa
+#2a
+x d
+x c
+x a
+b
+#1  d
+xf
+#2f
+xd
+xc
+xa
+b
+
+b
+#1 d
+xi
+#2i
+xh
+xf
+x i
+b
+1 h
+#2f
+xd
+#2c
+xa
+x d
+x c
+b
+b
+0 ddef
+#1 dde
+x    f
+b
+#1 dde
+x    f
+#1 dde
+x    f
+b
+0 dff d
+#1 dff
+x     d
+b
+#1 dff
+x     d
+#1 dff
+x     d
+b
+0 cdca
+#1 cdc
+x    a
+b
+#1 cdc
+x    a
+#1 cdc
+x    a
+b
+
+b
+0 ddef
+#1 dde
+x    f
+b
+Y ddef
+b
+b
+
+e

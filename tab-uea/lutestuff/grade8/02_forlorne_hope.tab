@@ -1,0 +1,525 @@
+-C
+-t
+-f
+{2. Forlorn hope fancy/2. Forlorn hope fancy}
+b
+c
+0   c
+1   b
+1   a
+b
+1    e
+1    d
+#2 a  c
+x    e
+x   a
+x    c
+b
+#2  \4e \2e
+x   \3e
+#3  \2d
+x   c
+x    e
+x   b
+#2  cc
+x     a
+#3  b
+x     c
+x     d
+x    a
+b
+#3  a c
+x    a
+x    c
+x    e
+#3 a a
+x    e
+x   a
+x    c
+#2a   e
+x    c
+x   cd
+x  de
+b
+
+b
+2 effc
+#3   ee
+x   c
+#3 d a
+x  f
+x  ec
+x  c
+#2 cde
+x  c
+x bd
+x    a
+b
+2 adc
+#3  c
+x  a
+#2  b
+x   c
+2 aa c
+#3  f
+x c
+2 d
+#3 ad
+x  b
+b
+#2 da b
+x c
+1 ca a
+#3h    e
+x  a
+x   \3d
+x   \1b
+1   c d
+b
+2gc e c
+#3   c e
+x   a
+#2f   ef
+x   bc
+#2ef ce
+x  ab
+#3d bc
+x  d
+x a   a
+x c
+b
+
+b
+#2ce  c
+x  f
+#3 d
+x    a
+2     c
+#3 c
+x     d
+2  d a
+#3 b
+x     d
+2  c  a
+b
+#3 a
+x     c
+#2  b  d
+x  da
+#3     c
+x b
+#3 a   d
+x  b
+#2  b c
+x  baa a
+#3  a
+x    d
+b
+2  b ca
+#3   \3c
+x     \2c
+2    \2c&{\4d
+#3     \4f
+x    \2e&}
+#2  a\1b\2c
+x  \1b
+x    c
+#3  d
+x   e
+b
+#3 a&{bec
+x   c
+#2  bc
+x }a c
+x   b"+
+1   \3c a
+1  \2b
+b
+#2    c b
+x  a
+1 aa c a
+#2      /c
+x  \4e&{
+1a d&}\2c  /b
+b
+
+b
+#2  \4f\2e  /a
+x \3e
+1hda
+2 c e c
+#3g
+x     d
+#2f g hf
+x    \4k
+b
+#3eac  a
+x  a
+x  c
+x  d
+#3da
+x  d
+x a
+x c
+#3cdfec
+x    a
+x    c
+x    e
+#3  aa
+x   ce
+xa aa
+x dcc
+b
+#3 cee c
+x a
+xccd
+x d
+#3acff
+x a
+2 a
+2ccfe
+#3  e
+x  c
+#2  e  c
+xa
+b
+1 efec
+1  f
+1c e
+1  d
+b
+1b c
+1aab
+1c ee
+#2 cd
+x a
+b
+
+b
+#2  cd
+x c
+1 ccc
+1ccab
+#2 b
+x  c
+b
+1\1b\2c\3d&{ \4e
+1a e&}
+1 efec
+1 dde c
+b
+1 cdeec
+#2  c  b
+x a
+#2  deec
+x   e
+1  a
+b
+2  cee /c
+#3   d
+x    g
+1 c c
+1 cde c
+1  g ge
+b
+#2 ccd  /c
+x    e
+xe
+x    c
+#2e \4h  \2g
+x     e
+x  \3h  g
+x \4i
+b
+1eeh  e
+#2  g
+x h
+1bce b
+1cce  c
+b
+
+b
+2 h ge
+#3 g
+x e
+#2 \2g\4h
+x     \3h
+1cca b
+#2  e  c
+xa
+b
+#2 efec
+x c
+x e
+x    a
+#2aa c d
+x     c
+xda c a
+x  b
+b
+#3cffec
+x f
+x e
+x c
+#2 e  c
+xc
+#3 a c
+x   b
+x   c
+x  a
+#3 ab
+x   c
+x  b
+x cd
+b
+
+b
+#3 df
+x   e
+#4 a
+x  d
+x  b
+x  a
+#3a b
+x   c
+#4  d
+x  b
+x  a
+x   c
+#3ca b
+x    c
+#4 d
+x b
+x a
+x  d
+#3d b
+x   c
+#4  b
+x  a
+x   c
+x   a
+b
+#3f   \2d
+x    a
+#4   a
+x    \2d
+x    c
+x    a
+#4h    d
+x   f
+x   a
+x   c
+#4    c
+x    a
+x    c
+x    e
+#4   a
+x    e
+x   a
+x   c
+3g a
+#4   c
+x   a
+#4f   e
+x    c
+x    e
+x   b
+b
+
+b
+3\4e  \1c
+#4   a
+x    e
+#4d   c
+x    a
+x    c
+x    e
+#4c  a
+x    e
+x   a
+x   c
+#4f  a
+x   c
+x   e
+x   a
+#4d  c
+x   b
+x   c
+x  a
+#4a b
+x  a
+x  b
+x  d
+3 ef
+#4  d
+x   f
+#4 da
+x   c
+x  a
+x  c
+b
+3 cd
+#4  b
+x  a
+#4 b c
+x   a
+x   c
+x  a
+3 ab
+#4  a
+x   c
+#4   a
+x    e
+x   a
+x   c
+#4  de
+x   c
+x   e
+x   f
+#4  be
+x   c
+3   c
+#4  a
+x   c
+x   b
+x    e
+#3   b
+xc
+b
+
+b
+#4a  c
+x  b
+x  a
+x  d
+#4  b
+x a
+x  d
+x b
+#4ca \1b
+x  a
+x  \1b
+x  d
+#4ca a
+x c
+x d
+x a
+#4ac  e
+x a
+x c
+x e
+#4a   d
+x   c
+x  b
+x  d
+#4 ea c
+x c
+x a
+x  e
+#4 a
+x c
+x e
+xa
+b
+#4c   b
+x c
+x d
+xa
+#4 h  a
+xe
+xf
+x h
+#4e    e
+x h
+xe
+xg
+#4h    d
+x  f
+x d
+x f
+#4g    c
+xc
+xc
+x c
+#4 e  c
+x f
+xc
+xf
+#4d  c a
+x  a
+x  b
+x  d
+#4 a
+x  b
+x   c
+xa
+b
+
+b
+#4c   c
+x d
+x  f
+xc
+#4f   a
+xa
+x b
+xa
+#4d    a
+x a
+x    c
+x d
+#4c   c
+x d
+x a a
+xc
+#4a  cd
+x   b
+x   c
+x  a
+#4  b
+x   c
+x  bc
+x  d
+#4 ab c
+x c
+x e
+xa
+#4c a
+x a
+x cd
+x e
+b
+#4a  \1c
+x  a
+x  \2c\1c
+x  \3d\4e
+#4 a\2c
+x  c\1c
+x  de
+x ac
+#4 \1b\3d
+x a\2c
+x bd
+x ac
+#4 bd
+x ac
+x bd
+x ac
+#4 bd
+x ac
+x bd
+x ac
+#4 bd
+x    a
+x    d
+x   a
+#3     a
+xaadc
+x  c
+x  a
+b
+waaccca
+b
+b
+
+e

@@ -1,0 +1,165 @@
+-C
+-t
+-f
+{Io vorrei pur fuggir/Io vorrei pur fuggir}
+b
+w  def
+b
+0 ab  d
+0 da c
+b
+1 ddca
+#2 c
+x a
+#3 d
+x c
+x d
+x c
+#3 d
+x c
+x a
+x c
+b
+w dda  a
+b
+0cdda
+#1dab  d
+x    a
+b
+
+b
+#1    c
+x    e
+0cdda
+b
+1add a
+#2 c
+x a
+#1 d
+x c
+b
+A1
+wcdda
+.
+b
+b
+A2
+0cdda
+b
+.
+0 ab
+b
+0  de
+#1   c
+x   a
+b
+0   c
+0da c
+b
+0cd a
+#1a
+x d
+b
+
+b
+0ad  a
+0 c
+b
+0 d a
+0  d
+b
+0   ce
+#1    c
+x    a
+b
+0    c
+0 da c
+b
+0 cd a
+#1 a
+x  d
+b
+0 adc
+0  c
+b
+#1 cd a
+x a
+#1 c
+x d
+b
+
+b
+0acd a
+#1 dda  a
+x  c
+b
+#1 da
+x  c
+0 cd a
+b
+1 adc
+#2  c
+x  a
+#1  d
+x  c
+b
+0. cd a
+1a
+b
+#1c  a
+xa
+#1 da c
+x c
+b
+#1 a
+x    a
+#1 ab  d
+x     c
+b
+
+b
+#1 ab  a
+xa
+#1da c
+xc
+b
+#1a
+x   a
+#1a   e
+x    c
+b
+#1 cd a
+xa
+#1f
+xd
+b
+#1cd a
+xa
+#1 da c
+x c
+b
+#1 aa
+x    a
+#1 ab  d
+x     c
+b
+0 ab  a
+0dabc
+b
+
+b
+0caa c
+0cdda
+b
+1add a
+#2 c
+x a
+#1 d
+x c
+b
+Ycdda
+.
+b
+b
+
+e

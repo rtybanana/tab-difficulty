@@ -1,0 +1,548 @@
+-C
+-t
+-f
+{27. Fantasy 8/Simone Molinaro}
+b
+c
+0aacc
+1     a
+#2a cc
+xc d
+b
+1ea c
+1fc  e
+3.fa a
+4h
+2f
+3.e   h
+4f
+2e
+b
+3.f h a
+4h
+2f
+3.e
+4f
+2e
+3.c d
+4e
+2c
+3.a c
+4c
+2a
+b
+3. ea c
+4 c
+2 e
+3.a  ce
+4  a
+2  c c
+3. cd a
+4 e
+2a   e
+3. aa c
+4 c
+2 e
+b
+
+b
+0aacc a
+1h
+#2 a
+xf
+b
+1ec
+#2f
+x a
+#2 c
+x e
+1ef
+b
+1c f
+#2 e  c
+x  d
+1a c e
+#2  d
+x    c
+b
+#2    e
+x   b
+1  cc
+1 aa
+#2   b
+x  d
+b
+#2a cc
+x  d
+x  f
+x dc
+1 cde
+#2 d
+x  cc
+b
+#2  de
+x  fg
+1 cd
+1 a c
+#2  c
+x   a
+b
+1  dce
+#2   ef
+x   c
+#2 aa
+x  c
+1 cd e
+b
+
+b
+2 d  c
+#3  c
+x  a
+#3  d
+x  c
+x  a
+x  c
+1 cd a
+#2f
+x a
+b
+#2 c
+x d
+1ef c
+1c d
+1cef
+b
+1afh
+1fc  a
+1 a a
+#2e  c
+x c
+b
+#2f  e
+x d
+xh  g
+x f
+#2k  h
+x h
+x f  a
+xk
+b
+#2h ia
+xf
+x  fc
+xe
+#2f de
+x   c
+2 d e
+#3e c
+xc
+b
+1acd
+#2    a
+xac
+#2 df c
+x cd
+x a c
+x  c
+b
+
+b
+2  de
+#3 a
+x c
+#2 d
+x   c
+#2   e
+x  c
+x cd
+x   e
+b
+#2 ac
+x   c
+x  de
+x     c
+#2    e
+x   a
+1  cc a
+b
+1  a a
+1   bc
+2   ce
+#3  a
+x  c
+#2  d
+x    c
+b
+#2    e
+x   a
+x  cc
+x    e
+#2  aa
+x    c
+x   ce
+x    a
+b
+#2   ac
+x     e
+x    ef
+x     c
+1    ce
+1    af
+b
+1    c
+1     e
+0    af
+b
+1f d
+#2 c
+x d
+1ef c
+#2cda
+x  c
+b
+
+b
+1acd a
+#2    e
+x   a
+1aacc a
+#2 da  c
+x     e
+b
+1 c ca
+#2 a  ce
+x    e
+#2  da c
+xf
+xea c a
+x c
+b
+#2cda   a
+x  d
+x a a
+x c
+#2 d e
+x  c
+x cd
+x    a
+b
+#2    e
+x   a
+x acc
+xa
+#2 c  e
+xc da
+x a  c
+xe
+b
+1fc  a
+#2n
+x  l
+#2lh
+x k
+xkl
+x   h
+b
+#2  h
+x  i
+xhkl
+x    h
+#2fh e
+x   g
+x f h
+xf h
+b
+
+b
+#2  fc
+xe
+x  de
+xc
+#2  c e
+xa
+x  aa
+x d
+b
+#2   ca
+x c
+x   ac
+x a
+#2    ec
+x  d
+x a c a
+x c
+b
+#2 da   a
+x  c
+x  da
+x a
+#2 c ca
+x  a
+x ac c
+x    e
+b
+#2  def
+x ac
+x cd e
+x   a
+#2 acc
+x cd
+x dfa
+x   c
+b
+#2 cde
+x df
+xac c
+x   e
+#2 dff
+xac
+xcda
+x  c
+b
+
+b
+#2acd
+xcd
+xefc
+x  d
+#2cdf
+xef
+xfhd
+x  f
+b
+1efh
+2    e
+#3f
+xe
+1c da
+2 a  c
+#3e
+xc
+b
+1a c e
+2  d a
+#3c
+xa
+#2 ec c
+xa    e
+x  a a
+x e  c
+b
+0aacc a
+#2h
+x a
+xfc
+x d
+b
+#2ef
+x   c
+xcda
+x  c
+#2acd
+xf
+xea c
+xc de
+b
+#2a c e
+x daa
+x c ca
+x a ac
+#2  d ec
+x   e
+x a c e
+x   a
+b
+
+b
+#2   cef
+x     e
+x  aa c
+x     e
+#2   cef
+x  d
+x   ac
+x  c
+b
+#2  dce
+x   ef
+x a
+x ccc
+#2  de
+x d
+xaac
+x cd
+b
+#2c
+x df
+xe
+xffh
+#2 hi
+xh
+xffh
+xedf
+b
+#2ccd
+xaac
+x  de
+x e
+#2a cc
+x a
+x a
+x c
+b
+#2 a
+x   c
+x   c
+x  de
+#2  cc
+xa
+xa
+xc aa
+b
+
+b
+#2a c e
+x  aa
+x  cc
+x dde
+#2 ccc
+x aaa
+x  dce
+x  cac
+b
+#2  dca
+xa
+xa
+xc
+#2a
+x  d
+x  d
+x df
+b
+#2 cd
+xf
+xf
+xh fg
+#2fca
+xe
+xcdf
+xe
+b
+#2fcd
+x  a
+xefc
+x  d
+#2cef
+x    c
+xef c
+x     a
+b
+#2ac  a
+x    c
+x cd e
+x   a
+#2 acc
+x     a
+x     a
+x     c
+b
+
+b
+#2     a
+x   c
+x   c
+x  a   a
+#2   c  /c
+x      /a
+x  d   /c
+x      a
+b
+#2  c  a
+x a
+x a c
+x c
+#2 d a
+x    c
+x c  e
+x   a
+b
+#2 a c
+x  a
+xa c
+x  d
+#2 da
+x ac
+x cd
+x da
+b
+#2a  c
+xc
+xef
+xf
+#2hd
+x a
+xfc
+xcd
+b
+#2ef
+xf
+xh   h
+xe
+#2f a
+xa d
+x  c
+x da
+b
+
+b
+#2 c c
+x    a
+x a  c
+x  da
+#2    e
+x  c c
+x  d a
+x   c
+b
+#2   c
+x   e
+1  cc a
+1  a c
+1   b
+b
+#2   c a
+x a
+x a
+x c
+#2 a
+x   c
+x   c
+x  de
+b
+#2  cc
+xa
+xa
+xc aa
+#2a c e
+x   c
+x da c
+x  c
+b
+1 cd a
+1 af  e
+#2 c  a
+x  d
+1  d
+b
+1 a   a
+#2  c c
+x  a
+1  c c
+1  d e
+b
+Yaaccca
+b
+b
+
+e

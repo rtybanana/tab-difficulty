@@ -1,0 +1,91 @@
+-C
+-t
+-f
+{186. Jig/Anonymous}
+b
+1 aa c
+2 ce  c
+#2 ea c
+x a
+xda c
+b
+#2ca b
+x    c
+xaabc
+2. efec
+3 e
+2 a
+b
+2.da c
+3d
+2a
+2.da c
+3d
+2abd
+b
+2cc e
+2.cef
+3  d
+1aacc
+2     a
+.
+b
+b
+.
+#3 dda
+xa
+#2c
+x d
+1fhaa
+2cdda
+b
+#3 dff
+xa
+#2cdda
+xaabc
+2. efec
+3 c
+2 a
+b
+
+b
+#3 da c
+xa
+#2c da
+x da c
+#3aa c
+xc
+#2d
+xaa c
+b
+#3 ef c
+x f
+#2c
+x ef
+1aaccca
+2aac
+.
+b
+b
+.
+#3da c
+xd
+#2d
+xaabc
+#3d  c
+xd
+#2d
+xabd
+b
+#3c  e
+xc
+xc
+xa
+2 ef
+1aaccca
+2aac
+.
+b
+b
+
+e

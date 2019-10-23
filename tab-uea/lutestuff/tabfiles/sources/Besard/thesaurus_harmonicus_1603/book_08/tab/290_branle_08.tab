@@ -1,0 +1,177 @@
+-t
+-f
+{290. Branle 8/290. Branle 8}
+b
+#3  aaa a
+x   c
+x  a
+x  b
+2  d
+b
+.
+#2  ba  a
+x  d
+x  a
+#2   a  a
+x   c
+x    a
+b
+#3  aaa a
+x   c
+x  a
+x  b
+2  a
+#3  aaa a
+x   c
+x  a
+x  b
+2  d
+b
+
+b
+#2  ba  a
+x  d
+x  a
+#3   ca
+x   a
+x   c
+x  a
+x  b
+x   c
+b
+A1
+2  aaa a
+#3   c
+x  a
+2   a
+#3  aaa a
+x   c
+x  a
+x  b
+2  d
+.
+b
+b
+A2
+2  aaa a
+#3   c
+x  a
+2   a
+#3  aa  a
+x   c
+x  a
+x  b
+2  d
+b
+
+b
+.
+1  d   a
+2   a
+#3  a   a
+x   c
+x  a
+x  b
+x  d
+x a
+b
+1  d   a
+2   a
+#3  a   a
+x   c
+x  a
+x  b
+2  d
+b
+#2   aa a
+x d
+x   a
+2 a    a
+#3 b
+x a
+x  d
+x  b
+b
+#3  aaa a
+x   c
+x  a
+x  b
+2  a
+#3  a   a
+x   c
+x  a
+x  b
+2  d
+b
+
+b
+#2   a  a
+x d
+x   a
+2 a    a
+#3 b
+x a
+x  d
+x  b
+b
+#3  aaa a
+x   c
+x  a
+x  b
+2  a
+#3  a   a
+x   c
+x  a
+x  b
+2  d
+b
+#2  d   a
+x   a
+x  d
+#3  da  a
+x  b
+x  a
+x  b
+x  d
+x a
+b
+
+b
+#2  d   a
+x    a
+x   a
+#3  a   a
+x   c
+x  a
+x  b
+2  d
+b
+2   a  a
+#3 a
+x c
+2 d
+#3 b  a
+x a
+x b
+x a
+x  d
+x  b
+b
+A1
+1  aaa a
+2    a
+#3  aa  a
+x   c
+x  a
+x  b
+2  d
+.
+b
+b
+A2
+1  aaa a
+Y    a
+b
+b
+
+e

@@ -1,0 +1,170 @@
+-C
+-t
+-f
+{377. Volte 20/377. Volte 20}
+b
+x   a  a
+x    a /a
+b
+b
+#2   c
+x    a
+b
+.
+2   c  /a
+#3   a
+x   c
+2    e
+#2  aa
+x    e
+x  c c
+b
+#2  d
+x    a
+x      /a
+#3  d
+x a
+#2 c  a
+x d  c
+b
+#2a   e
+x  d
+xc  a
+#2a  c
+x  a
+x d
+b
+2 c c
+#3 a
+x c
+#2 a
+x   a
+#2a   e
+x d  c
+b
+
+b
+#2 c  a
+x   c
+x a   e
+2 c  a
+#3 a
+x c
+x  d  c
+x a
+b
+#3  c  a
+x  d
+x a
+x   c
+#3   a
+x    e
+x    c
+x    a
+2.  cc a
+#4  a
+x  c
+b
+A1
+#2  d
+x    a
+x      /a
+#2
+x   c
+x    a
+.
+b
+b
+A2
+#2  d
+x    a
+x      /a
+1 c
+2    a
+b
+.
+2 c    /a
+#3 a
+x c
+2  d
+#2a    e
+x     c
+x e
+b
+#2a
+x     a
+x   c
+2a   e
+#3c  a
+xe
+xf
+xc
+b
+
+b
+#2e
+x   c
+xccde
+2.a d e
+3c
+2 dda
+b
+2 c  a
+#3   c
+x d
+xa
+x c
+#3c  a
+xa
+x d
+x c
+x a
+x  d
+b
+2. a c
+3  d
+2  c  a
+2.  a c
+3   c
+2  ab
+b
+#2aacc
+x     a
+xaac
+#3  a
+x  c
+x  d
+x a
+x c
+x d
+b
+2a   e
+#3 d   c
+x c
+#3 a
+x c
+x  da  a
+x a
+2.  cc a
+#4  a
+x  c
+b
+
+b
+A1
+#2  d
+x    a
+x      /a
+1 c
+2    a
+.
+b
+b
+A2
+#2  d
+x    a
+Y      /a
+b
+b
+
+e

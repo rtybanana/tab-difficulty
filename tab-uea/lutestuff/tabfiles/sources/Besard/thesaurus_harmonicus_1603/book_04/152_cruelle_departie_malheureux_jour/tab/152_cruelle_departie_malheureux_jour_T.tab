@@ -1,0 +1,46 @@
+-C
+-t
+-f
+{152. Cruelle départie malheureux/152. Cruelle départie malheureux}
+b
+c
+1 aba d
+1cdda
+1 db c
+1 b&Ubcd
+b
+1
+1 bdca
+1 aabc
+1 abc a
+b
+1 bbcd
+1 db c
+0 b&Udca
+b
+0
+0 aba d
+b
+1 aba d
+1cdda
+1caa c
+1aa&Ubc
+b
+1
+1 dde
+1ddff
+#2cdda
+x    d
+b
+
+b
+#2    c
+x    a
+0 aba d
+1cdd   a
+b
+wdabacd
+b
+b
+
+e

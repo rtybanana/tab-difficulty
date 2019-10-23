@@ -1,0 +1,827 @@
+-t
+-f
+{Captain Hume's Lamentations/Tobias Hume}
+b
+c
+1.  d
+2 a
+2 b
+#3  d
+x a
+#3 b
+x d
+2aU
+b
+2aX
+1   c
+2  a
+#3  c
+x d
+2 bd
+#2 adc
+x  c
+b
+1.  dd
+2   c
+0bdda
+b
+1.abdca
+2    c
+1abbcd
+#2     d
+x a
+b
+#2  dca
+xa
+x d
+x b
+#2 a
+x   c
+x   a
+x    d
+b
+
+b
+1  aac
+1  c
+1 bdca
+1abd
+b
+1aabc
+#2  dd
+x   c
+1 dda
+#2  d
+x a
+b
+1. bbcd
+2 b
+#2 a
+x  b
+x  d
+x    a
+b
+#2     d
+x     a
+x     b
+x   d
+#2   c
+x     a
+x    a
+x  d
+b
+#2 acc
+xa
+x  d
+xa
+1aadc
+#2  c
+x d
+b
+w cdca
+b
+b
+0  d
+1 b
+1a
+b
+
+b
+1.da
+2d
+1bbd
+#2a
+x   c
+b
+#2  c
+x d
+1 bd
+1 adc
+1  c
+b
+1  dca
+1    d
+1  aac
+1  c
+b
+1  dca
+1  d
+1   c
+1  b
+b
+1  dd
+1f
+1   c
+1d
+b
+1bdda
+1abd
+1aadc
+1     a
+b
+1  dca
+#2   c
+x  a
+1 ab
+#2  dd
+x a
+b
+
+b
+1 bbc
+1 a
+1  d
+#2ab
+xc
+b
+2da
+#3c
+xa
+#2 d
+xa
+1bbd
+1a
+b
+#2  c
+x d
+1 bd
+1aabc
+1     a
+b
+1    a
+1     d
+0     b
+b
+1aaccca
+#2   c
+x  a
+#2 ac
+x   c
+x bd
+x d
+b
+1aadc
+1  c
+1  dd
+1   a
+b
+1.abd
+2 a
+1ab
+1da
+b
+
+b
+1abd
+#2   c
+x  a
+1 db
+1 bd
+b
+1 a c
+#2     a
+x     c
+#2     e
+x     a
+1    a
+b
+#2   c
+x a
+x bd
+x d
+1aadc
+#2  c
+x d
+b
+w cdca
+.
+b
+b
+.
+0
+0   c
+b
+1  d
+1ab
+1da
+#2c
+x  d
+b
+1aac
+#2abd
+x d
+1aadc
+1  c
+b
+1 bdca
+1    d
+0    c
+b
+
+b
+1abdca
+1  d
+1aab
+1   c
+b
+1  dd
+1f
+#2   c
+xd
+1a d
+b
+1bdda
+#2
+x d
+1 b
+1  d
+b
+1 a
+1  c
+1abd
+1    a
+b
+0.
+1    d
+b
+1    c
+1    d
+0 dda
+b
+1 bd
+1 ab
+0  dd
+b
+1 acc
+#2 bd
+x d
+1aadc
+#2  c
+x d
+b
+w cdca
+.
+b
+b
+
+b
+.
+1.  dd
+2   c
+1bdda
+#2    e
+x b
+b
+1  ea
+1  d
+1   ce
+#2f
+xd
+b
+1bdda
+1bd
+1abd
+1  b
+b
+1  dd
+1bdda
+0acdca
+b
+0  d
+1bd
+1ab
+b
+0 de
+1acd
+#2    a
+x    c
+b
+#2    e
+x    a
+x   a
+x d
+#2acd
+xf
+xd
+xb
+b
+
+b
+1add
+#2 c
+xd
+0cdda
+.
+b
+b
+.
+1. abacd
+2    a
+#2    c
+x    d
+x   a
+x   c
+b
+#2  a
+x   a
+1 ab
+1  de
+1  bc
+b
+1.cdda
+2   c
+#2  a
+x  b
+x  d
+x a
+b
+#2ac
+x  d
+1cd
+1ad
+1 c
+b
+1. df
+2  a
+1. cd
+2   c
+b
+1 ab
+1cdda
+1a d
+#2    a
+x    c
+b
+
+b
+#2    e
+x    a
+1cdda
+1. abacd
+2  a
+b
+#2   ca
+x   a
+1   c
+1 aaac
+#2  bacd
+xd
+b
+wcdda
+.
+b
+b
+.
+0
+0
+b
+1  da
+1 a
+1  da
+#2    e
+x  b
+b
+1  aa
+#2  aac
+x  b
+1  dca
+1f
+b
+#2da
+x c
+1cd
+1acd
+1 de
+b
+1acd
+#2    a
+x  b
+1  aa
+#2   ce
+x  a
+b
+
+b
+1  bac
+1  a
+#2    a
+x  a
+x   c
+x     a
+b
+1  bacd
+1d
+1cd
+#2  d
+x a
+b
+1ab
+#2 d
+x   a
+1acd
+#2    a
+x    c
+b
+#2    e
+x   a
+1  bc
+1  aac
+#2  b
+x  d
+b
+1 abacd
+#2a
+x d
+1acdca
+1cd
+b
+1addca
+1 c
+0cdda
+.
+b
+b
+.
+1.cd
+2ac
+1 df
+1aabc
+b
+
+b
+1  d
+#2    a
+x  b
+1  aa
+1    c
+b
+1aabc
+1     a
+1    c
+1 a
+b
+1  ee
+1     c
+1    c
+#2 a
+x  d
+b
+#2  cc
+x  a
+1  cc
+1.  dca
+2  b
+b
+2.  aa
+3   c
+#2  a
+x  b
+1acd
+1cd
+b
+1add
+1 c
+1. df
+2  a
+b
+1 cd
+1 ab
+1.  ee
+2   c
+b
+
+b
+#2   a
+x a
+x    e
+x  e
+1 aaac
+#2  a
+x  c
+b
+1  ee
+#2c
+xa
+1 d
+1 a
+b
+1 da
+1 c
+1 ef
+1aabc
+b
+0 af
+1cd
+#2 c
+x a
+b
+1acd
+#2  b
+x  a
+2.aabc
+3  a
+#2  b
+x  d
+b
+1. aaac
+#3  d
+x  b
+1  aa
+#2    e
+x    c
+b
+
+b
+1  dca
+#2  b
+x  a
+#2   ca
+x   a
+1   c
+b
+0  aac
+2.  bacd
+3    a
+#2    c
+x    e
+b
+1  aa
+#2c
+xd
+1f
+#2 c
+xf
+b
+1da
+#2c
+x  a
+#2  d
+xc
+xa
+x   c
+b
+#2  b
+xa
+x a
+x c
+1 da
+1 c
+b
+1. af
+2  d
+0 ab
+b
+1  ee
+1     c
+1    b
+1    c
+b
+
+b
+1  ee
+#2c
+xa
+1 d
+1 a
+b
+1 da
+#2 c
+x   c
+1  ab
+#2 a
+x  d
+b
+1 abc
+#2   b
+x    e
+1 aabc
+#2 abc
+x c
+b
+wcaabc
+.
+b
+b
+.
+1ca
+1d
+2 a
+#3c
+xa
+#2c
+x  d
+b
+2.aac
+3 d
+#2 b
+x a
+1abd
+#2    a
+xc
+b
+
+b
+1.dabc
+#3   b
+x    e
+1  ab
+1c
+b
+1aabc
+1     a
+0 abacd
+b
+2.  da
+3  b
+#2  d
+x a
+1 bdca
+2abd
+#3  b
+x  a
+b
+1.aabc
+2   a
+#2   cd
+x  a
+x  b
+x  d
+b
+1 aabc
+1 abc
+1 aacc
+1   b
+b
+1   cd
+1 bdca
+1 adc
+1  c
+b
+1  d
+1ab
+1da
+1c
+b
+
+b
+#2a
+x   c
+1 ab
+1 da
+#2  d
+x a
+b
+1 bbc
+1 a
+1   b
+#2 a
+x  d
+b
+1  bc
+#2   cd
+x  a
+1  bac
+1  a
+b
+#2     d
+x a
+x  dca
+x  b
+1  abc
+1  bc
+b
+1  acc
+1   b
+1   c
+1 ab
+b
+1 da
+#2  d
+x a
+1 bbc
+1 a
+b
+#2   b
+x  d
+1  bc
+1  acc
+1   b
+b
+
+b
+1   cd
+#2a
+xc
+1da
+1c
+b
+1.df
+2 a
+1cd
+1ab
+b
+1 ef
+#2    c
+x  d
+1 ab
+1 da
+b
+1 bbc
+#2 a
+x    c
+1  da
+1  bc
+b
+1 aacc
+#2   b
+x  d
+1.  bcd
+2    c
+b
+1abdca
+#2     e
+x d
+1 bdca
+1  d
+b
+1aadc
+#2  c
+x  a
+0aaccca
+.
+b
+b
+
+b
+.
+1.   c
+2   a
+1  bcd
+1    c
+b
+1 bdca
+2  d
+#3  c
+x  a
+1 acc
+#2a
+x d
+b
+1abd
+1bdda
+1.abd
+2  b
+b
+#2  dd
+x a
+x b
+x d
+1aacc
+#2 bd
+x d
+b
+1aadc
+1  c
+1  dd
+1bdda
+b
+1add
+1 c
+#2 dda
+x   c
+x  dd
+x a
+b
+
+b
+#2abbcd
+xd
+xb
+xa
+#2 dda
+xb
+xa
+x d
+b
+1abd
+#2  c
+x  a
+1aacc
+#2abd
+x d
+b
+1aadc
+#2  c
+x d
+1acdca
+1bdda
+b
+1addca
+#2 c
+x a
+Yacdca
+x
+b
+b
+
+e

@@ -1,0 +1,67 @@
+-C
+-t
+-f
+{6. Il gratioso/6. Il gratioso}
+b
+1 daa
+1    c
+1 db  d
+b
+0 cd a
+1 daa
+b
+1 d   c
+1 a   d
+1 c  a
+b
+0 daa  a
+1   a
+b
+0hd f
+1hd f
+b
+0fd a
+1ea c
+b
+1fc  a
+1cf  c
+1 e
+b
+0.aac  a
+.
+b
+b
+.
+1hd f
+1hd f
+1h
+b
+0fd a
+1fd a
+b
+1ea c
+1     a
+1f   a
+b
+0ca bc
+1ca bc
+b
+
+b
+0hd f
+1f  a
+b
+1ea c
+1     a
+1f   a
+b
+1df c
+1cf  c
+1 e
+b
+Y.aac  a
+.
+b
+b
+
+e

@@ -1,0 +1,298 @@
+-C
+-t
+-f
+{/Alfonso Ferrabosco}
+b
+c
+w acc a
+b
+0 aacc
+1   b
+1  c
+b
+1  d e
+1   b
+1  cc
+1  d
+b
+1 acc
+1  ab
+1 c ce
+1 e
+b
+1a c e
+1  e
+1 ff  e
+1 e
+b
+1 cf a
+#2  d
+x  c
+1 cd
+#2     e
+x     c
+b
+1 ac  a
+1  a  c
+#2     e
+x   c
+1   c
+b
+1   cac
+1     a
+0   bac
+b
+0. accca
+1   a
+b
+
+b
+0.a  ce
+1 d  c
+b
+wacd a
+b
+1aadc
+#2  c
+x  a
+0aacc
+b
+0 aacc
+1 aab
+1    c
+b
+0 acc
+0a d e
+b
+0 eab
+1    e
+1    c
+b
+1 ca
+1 a
+0 ca  c
+b
+0. aabc
+1  d
+b
+1. ac
+2  a
+#2   c
+x   a
+x    e
+x    c
+b
+0 cdca
+0  d
+b
+0 adbc
+1  cc
+1  d
+b
+
+b
+1 aa c
+1   c
+0 aa c
+b
+w acc a
+b
+b
+w acc a
+b
+w cdca
+b
+w cdca
+b
+0 dda
+1 cde
+b
+0aadc
+1  cc
+b
+0acd a
+1 adc a
+#2  c
+x  a
+1 acc
+1     a
+b
+c
+0 cdca
+1 ca
+1    a
+b
+1 a bc
+1   c
+1 a cc
+1   b
+b
+0 acc a
+1. acc
+2   a
+b
+1a  ce
+#2  a c
+x  c
+1acd a
+1aa   e
+b
+
+b
+1acd a
+0cdda
+1cd a
+b
+1ad c
+1 cd
+1aadc
+1  c
+b
+wacd a
+b
+0 ccde
+0 ca  c
+b
+0 aabc
+1 aabc
+1 acc a
+b
+0 aa c
+1 acc
+b
+0 dda
+1 d ac
+b
+1. c ca
+2     e
+1 ca  c
+1 cd a
+1 ad  a
+1  c
+b
+c
+wacd a
+b
+wacdca
+b
+0acd a
+0cdda
+b
+1.acd a
+2    c
+1.a d e
+2   a
+b
+0.aacc
+1acd a
+b
+
+b
+1cdda
+1a d e
+1aad  a
+1  c
+b
+wacd a
+b
+w cc e
+b
+w ca bc
+b
+w aabc
+b
+w acc a
+b
+0 cdca
+0 ca  c
+b
+1 c de
+1   e
+1 c ee
+1   d
+b
+0 ca  c
+0 cde
+b
+0. dda
+1 dda
+b
+0cdda
+0 cd a
+b
+1
+1 cd  c
+0 cc  b
+b
+w ca  c
+b
+w ccce
+b
+0  c ee
+0    d
+b
+w cc e
+b
+w ca  c
+b
+
+b
+w ca bc
+b
+1 aa c
+1  cc
+1 aacc
+1   b
+b
+1 a c a
+1 cd
+1 adc
+1  c
+b
+w cdca
+b
+0. dda
+1 c
+b
+1 a c a
+1  d
+1 adc a
+1  c
+b
+w  d ac
+b
+1 cc e
+1 cd a
+1 ad c
+1  c
+b
+1. cd a
+2 a   e
+0  d ac
+b
+0 acc a
+1. acc
+2  aa
+b
+0a  ce
+0 d ac
+b
+0acd a
+1.aabc
+2 c
+b
+
+b
+0 daa
+0cdda
+b
+1ad c
+1 c
+1aa c a
+1 d
+b
+Yacd a
+b
+b
+
+e

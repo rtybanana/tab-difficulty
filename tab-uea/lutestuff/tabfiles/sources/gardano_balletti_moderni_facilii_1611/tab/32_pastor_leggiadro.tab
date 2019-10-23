@@ -1,0 +1,85 @@
+-C
+-t
+-f
+{32. Pastor leggiadro/32. Pastor leggiadro}
+b
+c
+1acd a
+b
+.
+1acd a
+1acd a
+1cdda
+1cdda  a
+b
+1acd a
+1 c
+1  d
+1 cd a
+b
+A1
+0. cd a
+1acd a
+.
+b
+b
+A2
+0. cd a
+#2 a
+x c
+b
+.
+0 db  d
+0 cd a
+b
+0aac  a
+1   c
+#2 c
+x d
+b
+1a
+1a   e
+1aaa c
+1 e
+b
+A1
+0.aac  a
+#2 a
+x c
+.
+b
+b
+A2
+0.aac  a
+1  d
+b
+
+b
+.
+1 ab  d
+1 c  a
+1 d  c
+1a   e
+b
+1.fd a
+2d
+1c
+1cdaa
+b
+1acd a
+1 da c
+1 cfe c
+1  e
+b
+A1
+0. aabc
+1  d
+.
+b
+b
+A2
+Y aabc
+b
+b
+
+e

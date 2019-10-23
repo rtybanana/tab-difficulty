@@ -1,0 +1,203 @@
+-C
+-t
+-f
+{30b. Le jaune et blanc/30b. Le jaune et blanc}
+b
+c
+1
+1   c
+0 a c
+b
+1 ab
+1  da
+1 d
+1  aa
+b
+1  da
+1 d
+1  bc
+1 a
+b
+0  a c
+1 a
+1     d
+b
+1  da
+1  da
+#2  bc
+x  a
+x  b
+x  d
+b
+#2 a c
+x  d
+1 b  a
+1 a  c
+#2  da
+x  b
+b
+#2  d
+x  b
+x  ac
+x   c
+#2  a c
+x    a
+1  a c
+b
+
+b
+1   c
+1     a
+b
+1
+1   c
+0 a c
+b
+1 ab
+1  da
+1 d
+1  aa
+b
+1  da
+1 d
+1  bc
+1 a
+b
+0  a c
+1 a
+1     d
+b
+1  da
+1  da
+#2  bc
+x  a
+x  b
+x  d
+b
+#2 a c
+x  d
+1 b  a
+1 a  c
+#2  da
+x  b
+b
+#2  d
+x  b
+x  ac
+x   c
+#2  a c
+x    a
+1  a c
+b
+
+b
+1   c
+0     a
+b
+b
+1   c
+1  bc
+#3  d
+x  b
+x  a
+x  b
+#2  d d
+x  a
+b
+#2  b
+x  d
+x a  c
+x  d
+#2 a
+x c
+1 a
+b
+1  de
+1 d a
+1    c
+#2 ca
+x ab
+b
+1 ca
+1 a  c
+#3   c
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a
+x c
+b
+1 a c
+1 a c
+1 a c
+1  de
+b
+
+b
+1  da
+1  bc
+#2  da
+x    d
+1 a  c
+b
+1 b  a
+1 a c
+1  b
+1  da
+b
+1  da
+1  b  d
+0     d
+b
+.
+1
+1   c
+0 a c
+b
+1 ab
+1  da
+1 d
+1  aa
+b
+1  da
+1 d
+1  bc
+1 a
+b
+0  a c
+1 a
+1     d
+b
+1  da
+1  da
+#2  bc
+x  a
+x  b
+x  d
+b
+#2 a c
+x  d
+1 b  a
+1 a  c
+#2  da
+x  b
+b
+
+b
+#2  d
+x  b
+x  ac
+x   c
+#2  a c
+x    a
+1  a c
+b
+1   c
+Y.     a
+.
+b
+b
+
+e

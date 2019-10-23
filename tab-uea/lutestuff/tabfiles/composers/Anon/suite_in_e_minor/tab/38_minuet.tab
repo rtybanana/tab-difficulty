@@ -1,0 +1,204 @@
+-C
+-t
+-f
+b
+S3
+1 ce  a
+1ec
+1 ce
+b
+1 cc   a
+#2 c U
+x e X
+1 cc
+b
+1 ca   /a
+1e
+1 a
+b
+1 a&, d  //a
+#2  e  U
+x  c  X
+1  a
+b
+1 ea   ///a
+#2 c  U
+x a  X
+#2  e
+x  c
+b
+1 c    4
+#2  a U
+x  c X
+1  e
+b
+
+b
+1 ae   d
+#2 c  U
+x a  X
+#2  e  a
+x a
+b
+1  c&,
+1      /c
+1  cd
+b
+1 ce  a
+1ec
+1 ce
+b
+1 cc   a
+#2 c U
+x e X
+1 cc
+b
+1 ca   /a
+1e
+1 a
+b
+1 a&, d  //a
+#2  e
+x  c
+1  e
+b
+1 e    ///a
+#2 c  U
+x a  X
+#2  e  U
+x  c  X
+b
+
+b
+1. c d  //a
+2 a
+#2  e  a&U
+x  c  X
+b
+#2  e  a
+x a
+1.  c&,d  //a
+#3  a
+x   d
+b
+1  ae
+1     a
+1  ae
+.
+b
+b
+.
+1  cd  //a
+1 c
+1  c
+b
+1   d&,c
+1     c
+1      a
+b
+1  cd  //a
+1 c
+1  c
+b
+1   d&,c
+1     c
+1      a
+b
+1 ce  a
+1e
+1 c
+b
+
+b
+1  ee
+1    c
+1     e
+b
+1 ce  a
+1e
+1 c
+b
+1 ea a
+#2 e
+xd
+1e
+b
+1dc   c
+#2e  U
+xd  X
+#2 e
+xd
+b
+1 d&,    4
+#2 d
+x e
+1d
+b
+1  e   /a
+1 e
+1  e
+b
+1  a&,   /a
+#2   d
+x  a
+1    e
+b
+
+b
+1  e   /a
+1 e
+1  e
+b
+#2  a&,   /a
+x   d
+1  a
+1    e&#
+b
+1   d c
+1.   d&,  4
+#3    e
+x   d
+b
+1    e&#
+1      /a
+1      //a
+b
+1  c&x   ///a
+1  c
+1  e   4
+b
+1 ae  c
+1      a
+1 c    //a
+b
+1  e  a
+1      /a
+1 a    ///a
+b
+1  c   a
+1      /a
+1  e   4
+b
+
+b
+1  a&,   /a
+1  a
+1  c   ///a
+b
+#2      //a
+x    e
+1    c
+1 c    4
+b
+1 e    ///a
+1. a&,
+2  e
+b
+1  c&,
+1      //a
+1  cd
+.
+b
+b
+P
+e

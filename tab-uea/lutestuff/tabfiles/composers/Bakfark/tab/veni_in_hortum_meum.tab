@@ -1,0 +1,919 @@
+-C
+-t
+-f
+{Veni in hortum meum/Veni in hortum meum}
+b
+c
+0   c
+0 a c
+b
+1 a c
+1  b
+1 abc
+1  bc
+b
+1 abc
+1 a c
+#3 bdca
+x  d
+x a
+x b
+#3 d
+x b
+x a
+x  d
+b
+1aabc
+#2 a c
+x  a
+#2h  fh
+x   h
+#3aabc
+x  a
+x  b
+x  d
+b
+2 efec
+#3 c
+x e
+1hefe h
+#2effc
+xf
+#3e  c
+x d
+#4 f
+x d
+x c
+x  f
+b
+
+b
+1f ghhf
+#2  f
+x  g h
+1h ffh
+#2   f
+x   e
+b
+2 abc a
+#3  a
+x  b
+2h
+#3g
+xh
+2 df c
+#3  f
+x c
+#3 d
+x f
+xc
+xd
+b
+#3cdda
+x d
+xa
+xc
+#3hd f d
+xd
+xf
+xh
+#3fdaa
+xd
+xc
+xa
+#3c d
+xa
+x e
+x c
+b
+
+b
+#3 dfec
+x c
+#4 d
+x c
+x d
+x f
+#2   a
+xc d
+#2  bcd
+xa
+xa ded
+x   c
+b
+2 ffec
+#3 e
+x c
+#3 f
+x e
+#4 f
+x e
+x c
+x e
+2aabc a
+#3   c
+x  a
+#3  b
+x  a
+#4  b
+x  a
+x  b
+x  d
+b
+1aab
+2 abc
+#3  a
+x  b
+2 aab
+#3   a
+x   b
+2aabc
+#3  a
+x  b
+b
+
+b
+2a bcd
+#3  d
+x  b
+#3  d
+x  a
+#4  b
+x  a
+x  b
+x  d
+2 efec
+#3 c
+x e
+1dffc
+b
+1aa
+#3d  c
+xa
+xc
+xd
+#3ca b
+x e
+xa
+xc
+#3dabc
+xa
+xc
+xd
+b
+2aa cd
+#3  d
+x  b
+#3 a
+x  d
+#4 a
+x  d
+x  b
+x  d
+1 db c
+#2 aa
+xac
+b
+1cd ec
+1  f
+2 cee
+#3  c
+x  e
+2cdf c
+#3 c
+x d
+b
+
+b
+#2  b
+xa
+xcc
+x a
+2ccfe
+#3  e
+x  c
+#3  f
+x  e
+#4  f
+x  e
+x  c
+x  e
+b
+1 df c
+#2  ba
+xa
+1caa c
+#2  a
+x a
+b
+2cc  a
+#3   c
+x  a
+2 daac
+#3 c
+x d
+#2    cd
+x d
+x c c
+x a a
+b
+2  feec
+#3  e
+x  c
+#3  fe
+x  e
+#4  f
+x  e
+x  c
+x  e
+#2 dfec
+x   e
+x ab  d
+x d
+b
+#2 dff
+x     d
+xaab  a
+x a
+2cdfec
+#3 c
+x d
+#2d   cd
+x d
+b
+
+b
+#2cdda
+xa
+2cdd
+#3a
+xc
+#2a dca
+x  d
+xfc
+x   c
+b
+#2 d ef
+xf
+2h  f d
+#3f
+xh
+#2da a
+x  b  d
+2 dff d
+#3  d
+x  f
+b
+#3cdda
+x d
+xa
+xc
+#3ac  a
+x c
+x d
+xa
+#3 abc
+x d
+xa
+xc
+#3db c
+x a
+x  d
+x  b
+b
+2ddda
+#3c
+xa
+#3d
+xc
+#4d
+xc
+xa
+xc
+1.ddff d
+2 df
+b
+
+b
+1ddff d
+1 dff d
+1. fgfd
+2 fgfd
+b
+#3 dff d
+x  f
+x  g
+x d
+#3 cdca
+x  d
+x a
+x c
+2aadc a
+#3  c
+x  a
+#2a d  a
+x  c
+b
+1acdca
+1acd a
+1.cdda
+2cdda
+b
+#2acd a
+x  c
+x dfec
+x   c
+2 cfe c
+#3  e
+x  c
+#2  fe
+x  e
+b
+1 dfec
+1   e
+1 a ac
+1  b
+b
+1  bcd
+1  bc
+2   cd
+#3  a
+x  b
+#2   ac
+x  b
+b
+
+b
+#2 a   d
+x    c
+1  d ec
+#3  bac
+x   c
+x  a
+x  b
+#2  a
+x    a
+b
+2    cd
+#3   c
+x   a
+2 a c
+#3   a
+x   c
+2  feec
+#3  e
+x  c
+2  e
+#3  c
+x  e
+b
+1 efec
+2 e e
+#3 c
+x e
+#2aacc
+x  d
+#3a cc a
+x d
+x c
+x a
+b
+#3acdca
+x a
+x c
+x d
+#3 c  a
+x  d
+x a
+x c
+2 ddef
+#3   a
+x   c
+#3  a
+x  c
+x  d
+x a
+b
+
+b
+1 cdca
+1a
+2a dca
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+b
+2ddf
+#3  d
+x  f
+1ab
+1f
+2hd f
+#3i
+xh
+b
+#2 df
+xf
+xd
+#3c
+xd
+2 hihf
+#3 h
+x f
+#3 i
+x h
+#4 i
+x h
+x f
+x h
+b
+1dffc
+2 a
+#3c
+xa
+1 dff
+#2  ff
+x   e
+b
+
+b
+1ab c
+2 abc
+#3  a
+x  b
+2a dcd
+#3   c
+x  a
+#3  b
+x  d
+x a
+x  b
+b
+2 ddef
+#3   e
+x   c
+#3   f
+x   e
+#4   f
+x   e
+x   c
+x   e
+1 dff d
+#2d
+x  d
+b
+#2cdf
+xa
+#3c   c
+xa
+#4c
+xa
+xc
+xd
+#2fc e
+x   c
+x   e
+x ab
+b
+#3acd
+x a
+x c
+x d
+2df c
+#3c
+xd
+#2 a
+xf  e
+#3h  f
+x i
+xf
+xh
+b
+
+b
+2h he
+#3g
+xe
+#3g  e c
+xc
+#4e
+xc
+xe
+xg
+1h ik h
+#2  aa
+x    a
+b
+#2hdff"+ d
+x    a
+x  a c
+x   ce
+2 ddef
+#3   c
+x   e
+#3 b ca
+x  d
+x a
+x b
+b
+2 aacc
+#3   b
+x    e
+#3c  b
+x d
+xa
+xc
+2da c a
+#3   c
+x  a
+#3  b
+x  d
+x a
+x c
+b
+
+b
+1ddf
+#3c   c
+x  d
+x a
+x c
+#3 dda
+x a
+x b
+x d
+#3abd a
+x  b
+#4  d
+x  b
+x  a
+x   c
+b
+2 ffec
+#3 e
+x c
+#3 f
+x e
+#4 f
+x e
+x c
+x e
+2aabc
+#3   c
+x  a
+#3  b  a
+x  a
+#4  b
+x  a
+x  b
+x  d
+b
+1 df c
+#2c a c
+x d  c
+#3cdfec
+x c
+#4 d
+x c
+x d
+x f
+#2cd  c
+x  fe
+b
+
+b
+1cdfec
+1caaac
+2haaa
+#3e
+xg
+#3h
+xe
+#4g
+xe
+xg
+xh
+b
+#3gc ee
+xe
+xc
+xe
+#3g    c
+xc
+#4e
+xc
+xe
+xg
+1h aa h
+#2ha
+x   a h
+b
+1hd f d
+#2     d
+xhd f
+#3cdda
+xa
+#4c
+xa
+xc
+xd
+#2fda
+x   a
+b
+
+b
+#3ffgh
+x  f
+#4  g
+x  f
+x  g
+x  i
+#2ffgc
+x   e
+#2effc
+x  d
+#3fffc
+xe
+#4f
+xe
+xc
+xe
+b
+#2  da
+x  d
+#3a d e
+x  c
+#4  d
+x  c
+x  a
+x  c
+#2 ddef
+x    f
+3 c ca
+#4 a
+x c
+#4 d
+x c
+x a
+x c
+b
+#2 dff
+x  f
+xfdde
+x d e
+3ddff
+#4  d
+x  f
+#4  g
+x  f
+x  d
+x  f
+3cdda
+#4a
+xc
+#4d
+xc
+xa
+xc
+b
+
+b
+#2dab
+xd
+x df c
+x   e
+3 cdca
+#4 a
+x c
+#4 d
+x c
+x a
+x c
+#2ha   e
+x a   e
+b
+#2f gha
+xa  ha
+#3fff  a
+xe
+#4f
+xe
+xc
+xe
+#2fcdca
+xf  c
+xha gca
+x a gha
+b
+#2acdca
+x  d
+xac c
+xacd
+3ddff
+#4  d
+x  f
+#4  g
+x  f
+x  d
+x  f
+#2 dde
+xf de
+b
+#2dab
+x db
+#3d da
+xc
+#4d
+xc
+xa
+xc
+2hd f
+#3f
+xh
+#2 da c
+xh a
+b
+
+b
+#2abd a
+x  d a
+xaa c e
+x a c e
+#2abd a
+x b  a
+3 acc a
+#4  a
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+#2c da
+x  d
+xa   e
+xf   e
+3cdda
+#4a
+xc
+#4d
+xc
+xa
+xc
+#2acdca
+x cd
+b
+#2 dff d
+x d
+xf de c
+x  d  c
+3ddf  d
+#4  d
+x  f
+#4  g
+x  f
+x  d
+x  f
+#2cdda
+xcdd
+b
+#2ddef
+x   f
+xfddef
+x  de
+3 ab  d
+#4  a
+x  b
+#4  d
+x  b
+x  a
+x  b
+#2ac ca
+x    a
+b
+
+b
+#2dff  a
+xa    a
+xcdf c
+x dfe
+#2 cde c
+xc
+3 efec
+#4 c
+x e
+#4 f
+x e
+x c
+x e
+b
+#3a bc a
+x  a
+#4  b
+x  a
+x  b
+x  d
+#2aabc
+x  bc
+3cdda
+#4a
+xc
+#4d
+xc
+xa
+xc
+#2ac ca
+x cd a
+b
+#2 ddef
+x    f
+xh  ffd
+x    f
+#3 abc a
+x  a
+#4  b
+x  a
+x  b
+x  d
+#2da
+x a
+b
+
+b
+#2 abc a
+xc
+xaa
+x  b  a
+2 ffec
+#3 e
+x c
+#3 f e
+x e
+#4 f
+x e
+x c
+x e
+b
+#3aabc
+x  a
+#4  b
+x  a
+x  b
+x  d
+#3 abc
+x  b
+x  d
+x a
+1ab cd
+#2 bd a
+x b  a
+b
+#2aabc
+x abc
+2 bdca
+#3 a
+x b
+#3aa c
+x  a
+x  b
+x  d
+3  b  a
+#4  a
+x  b
+#4  d
+x  b
+x  a
+x  b
+b
+
+b
+2abdca
+#3  a
+x  b
+x  d
+x a
+#4 b
+x a
+x b
+x d
+#3abdca
+x  d
+x a
+x b
+#4 d
+x b
+x a
+x  d
+#4 a
+x  d
+x  c
+x  a
+b
+Yaacc a
+b
+b
+
+e

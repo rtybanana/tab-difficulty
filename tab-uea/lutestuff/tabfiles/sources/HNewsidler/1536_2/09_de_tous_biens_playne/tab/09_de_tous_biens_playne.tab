@@ -1,0 +1,565 @@
+-C
+-t
+-f
+{9. De tous biens plaine/9. De tous biens plaine}
+b
+c
+0a    a
+1a   a
+1    a
+b
+1a  c
+1     d
+1a d d
+#3 d a
+x b
+x a
+x  d
+b
+1 a c
+1  b
+#3ab  a
+x a
+x b
+x d
+#2 b
+x a
+b
+2.a d
+3  b
+#3  d
+x  b
+x  a
+x   c
+#3   e
+xa
+x e
+x c
+#3a
+x e
+x c
+x e
+b
+
+b
+1a  c
+1  b  d
+#2a b d
+x  a
+x   cd
+x   ac
+b
+#2a   a
+x    c
+1   c d
+1c    c
+1   b
+b
+1d  c a
+1c
+1 da
+1   a
+b
+1a   e
+1  d
+1 d  c
+1  b
+b
+1 da
+1    c
+1a  cd
+#2 d  d
+x    c
+b
+#2 c  a
+x     d
+1  a a
+#3 ab  d
+x  a
+x  b
+x  d
+#2  b
+x  a
+b
+#2 a c
+x   a
+1   c
+1 d a
+#3c  c
+xa
+x d
+xa
+b
+
+b
+#2c  a
+x    d
+1   a
+1d    d
+#2     a
+x     c
+b
+#2d    d
+x    a
+1cd  c
+1a b d
+1  d a
+b
+#2a b c
+x  a
+1a  cd
+#2a a c
+x e
+#3a
+x e
+x c
+x e
+b
+1a bc
+1 a
+#2ab c
+x a
+xa b
+x  d
+b
+#3   e
+xa
+x e
+x c
+#2a
+x e
+1a  c
+1   c
+b
+
+b
+#2d  c
+x  a
+x  bc
+x  d
+#3da c
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+#2cd
+xd
+1a d
+1ca
+1 e
+b
+1a  c
+#2   c
+x  a
+#3a b
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a
+x c
+b
+#2cd
+x a
+1a d
+#2 a
+xc
+#3d
+xc
+xa
+x d
+b
+0acd
+#3ac  a
+x d
+x c
+x a
+#3 c
+x d
+xa
+xc
+b
+
+b
+1da
+1cd  c
+#2    c
+x    e
+#3d  a
+xc
+xa
+x d
+b
+1 cde
+1 d
+#2 a  c
+x d
+#3a
+x d
+x c
+x a
+b
+1 cd
+1   e
+1 c e
+1 c
+b
+1 cd
+1   e
+#2 d  c
+x    e
+x a a
+x   c
+b
+1 cde
+1 d
+#2 df
+xa
+xc   c
+xd
+b
+#2ca  c
+x    e
+x   a
+x   c
+1 c e
+1     c
+b
+1 a   d
+1     a
+#2 a   a
+x     c
+x a   d
+x    a
+b
+
+b
+#3 a  c
+x  d
+x a
+x c
+#3 d
+x c
+x d
+xa
+1cd
+1df
+b
+1c
+1 d  c
+#3c   c
+x    a
+x    c
+x    e
+#3   a
+x    e
+x   a
+x   c
+b
+0 cde
+1 a  c
+#3 a
+x  d
+x  b
+x  a
+b
+1 ab
+1   c
+#2a  c
+x  a
+x  b  a
+x  d
+b
+#2aa   a
+x     c
+x db  d
+x    a
+#3  a c
+xa
+x e
+x c
+#2a
+x e
+b
+1a  c a
+1  b
+#2a b  a
+x  a
+1  a  c
+b
+
+b
+#2 a   d
+x   c
+#3   e
+x   c
+x   a
+x   c
+0  de c
+b
+1  da
+#2   a
+x   c
+#2 daa
+x  b  a
+x  d  c
+x     d
+b
+1 c ca
+#2   c a
+x  a
+#2 ab  a
+x  d  c
+x a   d
+x    a
+b
+#2 a  c
+x    e
+1  aa
+#3    e
+x a
+x  e
+x  c
+#3 a
+x  e
+x  c
+x  e
+b
+1 a ac
+#2   c a
+x  a
+#2 ab  a
+x  d  c
+x a   d
+x c  a
+b
+
+b
+#2 ea c
+x a
+xa
+x    a
+#2a a c
+x e
+#3a
+x e
+x c
+x e
+b
+1a  c
+#2   c
+x  a
+#2  bc
+x  de
+x ab
+x  d
+b
+#2 a c
+x  b
+#3  d
+x  b
+x  a
+x  b
+#3  bc
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a
+x c
+b
+#2 a  c
+x  d
+#3 a
+x  d
+x  b
+x  d
+#2 a  cd
+x    e
+x   a
+x   c
+b
+1  de c
+1   a
+#2 d a
+x     a
+x  a  c
+x     d
+b
+
+b
+1 c ca
+#2 a c a
+x  a
+#2 ab  a
+x  d  c
+x a   d
+x    a
+b
+1 a  c
+1   a
+#2   ce
+x  a
+#3  b
+x  a
+x  b
+x  d
+b
+1 ab  d
+1  b  a
+#2 a   a
+x     c
+x     d
+x    a
+b
+1   ac
+#2    c
+x    e
+#3 a ac
+x    a
+x    c
+x    e
+#3   a
+x    e
+x   a
+x   c
+b
+1 da c
+1a b
+1c a
+1   ac
+b
+
+b
+#3c   c
+xa
+xc
+xd
+#2c  a
+xd
+#2f aa
+x   c
+x  a
+x  b
+b
+1c da
+1d  c
+#2d bc
+x a
+xc d
+xa b
+b
+1 d  c
+1  a
+1a b
+#3  d  a
+x  b
+x  a
+x   c
+b
+1c  ac
+#2    c
+x    e
+#2 daa
+x   c
+1  a c
+b
+1d   c
+1c  a
+#2a  ce
+x  a
+#3  b
+x  a
+x  b
+x  d
+b
+#2 d  c
+x    a
+x   ac
+x   ce
+#2 daa
+x   c
+1  a c
+b
+
+b
+#3d  c
+x   a
+x   c
+x  a
+#3  b
+x  a
+x  b
+x  d
+1ca a
+#3d
+xc
+xa
+xc
+b
+#2da  c
+x  d
+1 a c
+1fc  a
+#2d
+x a
+b
+#2c d
+x  b
+1a dc
+#2a bc
+x   a
+#3   c
+x   a
+x    e
+x    c
+b
+#2a  ce
+x  a
+#3  b
+x  a
+x  b
+x  d
+#3  a c
+xa
+x e
+x c
+#3a
+x e
+x c
+x e
+b
+Ya  c a
+b
+
+b
+#3d
+xc
+xa
+x d
+#3 c
+x a
+#4  d
+x  b
+x  a
+x   c
+1 ea c
+1a  cd
+b
+#3  a c
+xa
+x e
+x c
+#2a
+x e
+Ya  c a
+b
+b
+
+e

@@ -1,0 +1,265 @@
+-C
+-t
+-f
+{158. Passavase el rey moro/Miguel de Fuenllana}
+b
+c
+w b
+b
+w b
+b
+w da
+b
+1  d
+1 b
+1  d
+#2  c
+x  a
+b
+w bc
+b
+0 d d
+1 b
+1 d
+b
+0 ea
+0 d
+b
+1 bc
+1  d
+1 b
+1  c
+b
+0 dd
+0 g
+b
+0d f
+0 e
+b
+0gd f
+0  d
+b
+0f fd
+0 d
+b
+0b d
+0 bc
+b
+
+b
+0dea
+0 d
+b
+0f  d
+0  f
+b
+1gdd
+1   f
+1  d
+1  f
+b
+1gd
+1 f
+1fg
+1 d
+b
+1de
+1 g
+1 e
+#2 d
+x  f
+b
+1gdd
+1  f
+1  d
+#2  c
+x  a
+b
+1f fd
+#2 d
+x f
+1 g
+1 e
+b
+1bdd
+1 e
+1 d
+1 bc
+b
+0d df
+0 ef
+b
+
+b
+0f
+1 dd
+1 bc
+b
+0gd f
+1  d
+1  f
+b
+1gd f
+1  d
+1fb d
+1 d
+b
+1def
+1 d
+1 e
+1  f
+b
+1gda
+1  c
+1  d
+#2  c
+x  a
+b
+0f fd
+0 d
+b
+1c  a
+1 b
+1  d
+1  c
+b
+1d ab
+1  cd
+1  df
+1 bc
+b
+0ddd
+0def
+b
+0bbc
+0 dd
+b
+
+b
+1 ea
+#2  c
+x  e
+0  f
+b
+1 d
+1  f
+1  ef
+1   f
+b
+1 bc
+1  d
+0  f
+b
+0 d
+0  e
+b
+0 ef
+1 d
+1  f
+b
+0 dd
+1 bc
+1  a
+b
+0  c
+0  df
+b
+0   d
+1 bc
+1 b
+b
+1 dd
+1  c
+1 da
+1   d
+b
+1 eab
+1  c
+0 edf
+b
+1b  d
+1  a
+0b c
+b
+
+b
+0d db
+0 b
+b
+1d db
+#2 b
+x d
+0 e
+b
+0b d
+1 d
+1 b
+b
+1bdd
+1 b
+1b d
+1  c
+b
+0 edf
+0  fg
+b
+0 dcd
+0  df
+b
+1  ab
+1 d
+1 b
+1  c
+b
+0 dda
+1  c
+1  a
+b
+w dca
+b
+0  ca
+1 bcd
+1 b
+b
+0 d
+0 ddf
+b
+0 e
+1b cd
+1b c
+b
+
+b
+0d db
+1d a
+1  cd
+b
+1d df
+1 bc
+1ddd
+1d a
+b
+0bbc
+1 dd
+1 bc
+b
+0 edf
+1 d
+1  cd
+b
+1  ab
+1 d
+1 b
+1  c
+b
+0 dda
+1  c
+1  a
+b
+w dca
+b
+Y
+b
+b
+
+e

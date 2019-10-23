@@ -1,0 +1,159 @@
+-C
+-t
+-f
+{Almaine 4/Almaine 4}
+b
+1 dda
+b
+1.cdda
+2d
+1fd a
+1dab  d
+b
+1.cdda
+2a
+1 dda
+1 da c
+b
+#2a   d
+xc
+#2da c
+x    d
+#2   a
+xddd
+#2c
+x b
+b
+
+b
+#2     d
+xddf
+#2   f
+x  g
+1ddf  d
+1 df  d
+b
+1.ddf  d
+2f
+1hdf  d
+1fh a
+b
+1.ddf  d
+2ddf
+1   f
+1cdda
+b
+1acd a
+1 da c
+1 db  d
+#2 dd a
+x c
+b
+1 dd f
+1   e
+1    f
+.
+b
+b
+.
+1fd a
+.
+b
+
+b
+1cdda
+#2a
+x d
+1add a
+1acd
+b
+1 ddef
+1   e
+1    f
+1cdda
+b
+1da c
+#2c
+xa
+1caa c
+1   b
+b
+0aaccca
+1
+1da c
+b
+0ca bc
+1
+1hd f d
+b
+0.fh a
+#2da c
+x c
+b
+
+b
+1cdda
+#2a
+x d
+1add a
+1acd
+b
+0. ddef
+.
+b
+b
+.
+1fd a
+b
+1fd a
+#2fd a
+xfd
+1fd a
+#2l
+xf
+b
+1fd a
+#2l
+xf
+1fd a
+1cdda
+b
+1.hd f d
+2f   a
+#2d-- c
+x    d
+1cdda
+b
+0.acd a
+1dfg d
+b
+
+b
+1dfg d
+#2dfg d
+xdfg
+1dfg d
+#2i
+xd
+b
+1dfg d
+#2i
+xd
+1dfg d
+1 fg
+b
+1cdda
+#2d-- cd
+xc
+#2acd a
+x d
+1acd a
+b
+1 dda
+1   a
+Y   a
+.
+b
+b
+
+e

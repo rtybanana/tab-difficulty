@@ -1,0 +1,264 @@
+-t
+-f
+{Ricercar 2/Ricercar 2}
+b
+c
+0 f
+1 f
+1 f
+b
+0 g
+1 g
+1 f
+b
+0 fd
+1 fd
+1  d
+b
+0 de
+1 de
+1  e
+b
+1 bd
+#2  d
+x a
+#2 b
+x d
+1a b
+b
+#2   d
+xa
+x d
+x b
+#2 d a
+x a
+x b
+x d
+b
+
+b
+#2a  c
+xc
+xd
+x a
+#2 b
+xb
+xa
+x d
+b
+#2 bd
+xb
+xa
+x d
+#2 bd
+x   d
+x  b
+x  d
+b
+#2 d a
+x   c
+x   d
+x  b
+#2 bd a
+x a
+x  d
+x b
+b
+1 adc
+1  c
+#2  dd
+x a
+x b
+x d
+b
+#2aa c
+x  d
+1 dc c
+1 bd a
+1 a c d
+b
+
+b
+2  dc b
+#3   a
+x    d
+#3   a
+x    d
+x    c
+x    a
+2  d ca
+#3  c
+x  a
+#3  d
+x  c
+x  a
+x  c
+b
+#2  d a
+x    c
+x    d
+x   a
+1  d d
+1   a
+b
+1 acc
+1 b
+#2  dd
+x a
+x b
+x d
+b
+#2aa c
+xc
+xd
+x b
+#2b da
+x d
+xabd
+x    a
+b
+2 dd b
+#3  b
+x   d
+#2 dd b
+x  b
+1 cd a
+1abd
+b
+
+b
+1abd
+1bbd
+1bde
+1dde
+b
+1abd
+1   cdf
+1   cdf
+1   ddf
+b
+1   dfg
+1   ffg
+1   cdf
+1   d
+b
+#2     f
+x   c
+1   ccd
+1   cab
+1   a
+b
+1   cca
+1abd
+#2bbd
+xa
+1aab
+b
+2a dd
+#3 d
+x b
+#3 d
+xa
+x b
+x d
+1aa c
+1 bd a
+b
+
+b
+1 bdca
+1 bdca
+#2 abc a
+x     c
+x     d
+x    a
+b
+1 dff d
+1 dff d
+#2 bdca
+x d
+xa
+x  b
+b
+#2aaa c
+x   c
+1 ea
+1aa c a
+1da c a
+b
+1da cc
+1ca ac
+#2a bcd
+x    c
+xabd a
+x  b
+b
+#2aaa c
+x   c
+x da
+x  b
+#2 b ca
+x  d
+x a c d
+x     a
+b
+
+b
+2  dc b
+#3   a
+x    d
+#3   a
+x    d
+x    c
+x    a
+2  d ca
+#3  c
+x  a
+#3  d
+x  c
+x  a
+x  c
+b
+2  d a
+#3  b
+x   d
+#3   c
+x   a
+x    d
+x    c
+1  d a
+1acd a
+b
+1.bdda
+2bdda
+1acd a
+1f
+b
+#2  da
+xd
+xb
+xa
+1bdda
+1a d e
+b
+#2 dda
+x c
+x d
+xa
+#2b da
+x d
+1bdda
+b
+
+b
+1acd a
+#2 c
+x a
+1acd a
+1bd
+b
+Yacd a
+b
+b
+
+e

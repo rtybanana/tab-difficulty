@@ -1,0 +1,458 @@
+-C
+-t
+-f
+{45. Tantz 1/45. Tantz 1}
+b
+c
+1 dda
+b
+1 dda
+#2 d
+xa
+1bdda
+1dabc
+b
+1fb d b
+#2dab  d
+xb
+1acd a
+1fcd a
+b
+1d b c
+1abb d
+1bdda
+#2a    d
+x d
+b
+1acd a
+#2   c
+x d
+1acd a
+1 dda
+b
+2 dda
+#3 c
+x d
+2acd a
+#3 d
+xa
+2bdda
+#3a
+xb
+2dabc
+#3b
+xd
+b
+
+b
+1fb d b
+#2dab  d
+xb
+1acd a
+1fcd a
+b
+#3d b c
+xa
+xb
+xd
+#3a b d
+x b
+x d
+xa
+#3 dda
+x a
+x b
+x d
+2a    d
+#3 c
+x d
+b
+#2acd a
+x a
+#3 c
+x a
+x c
+x d
+1acd a
+#2a
+xb
+b
+1dab  d
+1     a
+1bbd  b
+#2a    d
+x d
+b
+1acd a
+#2   c
+x d
+1acd a
+1if h f
+b
+
+b
+1hff  h
+1f d e
+1 a a
+1ea c
+b
+1fcd a
+#2   c
+x d
+1fcd a
+#2a
+xb
+b
+1dab  d
+1     a
+1bbd  b
+#2a    d
+x d
+b
+1acd a
+#2   c
+x d
+1acd a
+1if h f
+b
+1hff  h
+1f d e
+2 a a
+#3e
+xc
+1ea c
+b
+2fcd a
+#3e
+xc
+#3a
+x d
+x c
+x a
+1acd a
+1fb d b
+b
+0gd d g
+0dfg d
+b
+
+b
+1fb d b
+#2   d
+xd
+1bbd  b
+1fb d b
+b
+1dab  d
+1bbd a
+1 d  b
+1abb d
+b
+1bbd  b
+#2   d
+x  e
+1bbd  b
+1fb d b
+b
+0gd d g
+1dfg d
+#2f
+xg
+b
+1fb d b
+#2   d
+xd
+1bbd  b
+1fb d b
+b
+#3dab  d
+xa
+xb
+xd
+#3bbd a
+x d
+xa
+xb
+#3 d  b
+x  e
+x b
+x d
+#3a b d
+x b
+x d
+xa
+b
+
+b
+#2bbd  b
+x  b
+#3  d
+x  b
+x  d
+x  e
+1bbd  b
+#2abb d
+xb
+b
+1dbb d
+1bbd  b
+1a b  d
+1 d   d
+b
+1 b  a
+1  b  a
+1  d  b
+1b  a
+b
+1a b  a
+1 d   b
+1 ab  d
+1 cdca
+b
+#2 dda
+x c
+x d
+xa
+1cdda
+#2abb d
+xb
+b
+#2dbb d
+xa
+xbbd  b
+x d
+#2a b  d
+x b
+x d   d
+x a
+b
+#2 b  a
+x a
+x  d  a
+x  b
+1  d  b
+1b  a
+b
+
+b
+1a b  a
+1 d   b
+2 db  d
+#3 c
+x a
+2 cdca
+#3 a
+x c
+b
+#2 dda
+x c
+#3 d
+x c
+x d
+xa
+Ycdda
+b
+b
+
+{45. Tantz 1/45. Tantz 1}
+b
+1 dda
+b
+.
+1 dda
+#2 c
+x d
+1acd a
+b
+1bdda
+#2a
+xb
+1dabc
+b
+1fb d b
+1fb d
+#2dab  d
+xb
+b
+1acd a
+1acd
+1fcd a
+b
+1d b c
+1d b
+1abb d
+b
+1bdda
+#2a
+x d
+#2 c   d
+x d
+b
+
+b
+1acd a
+#2   c
+x d
+#2 c
+x a
+b
+A1
+1acd a
+1   c
+1 dda
+.
+b
+b
+A2
+1acd a
+1   c
+#2a
+xb
+b
+.
+1dab  d
+1     d
+1     a
+b
+1bbd  b
+1     b
+#2a    d
+x d
+b
+1acd a
+#2   c
+x d
+#2 c
+x a
+b
+1acd a
+1   c
+1if h f
+b
+1hff  h
+1hff
+1f d e
+b
+
+b
+1 a a
+1   c
+1ea c
+b
+1fcd a
+#2e
+xc
+#2a
+x d
+b
+A1
+1acd a
+1   c
+#2a
+xb
+.
+b
+b
+A2
+1acd a
+1   c
+1fb d b
+b
+.
+1.gd d g
+2gd d
+1     g
+b
+1dfg d
+1   f
+1dfg
+b
+1fb d b
+1   d
+1d
+b
+1bbd  b
+1bbd
+1fb d b
+b
+
+b
+1dab  d
+#2b
+xd
+1bbd a
+b
+1 d  b
+#2 b
+x d
+1abb d
+b
+1bbd  b
+#2   d
+xb
+#2  d
+x  b
+b
+A1
+1bbd  b
+1   d
+1fb d b
+.
+b
+b
+A2
+1bbd  b
+1   d
+#2abb d
+xb
+b
+.
+1dbb d
+1dbb
+1bbd  b
+b
+1a b  d
+1a b
+1 d   d
+b
+
+b
+1 b  a
+#3 d
+x b
+x a
+x b
+1  b  a
+b
+0  d  b
+1b  a
+b
+1a b  a
+1a b
+1 d   b
+b
+1 ab  d
+1 db  d
+1 cdca
+b
+1 dda
+#2   a
+x c
+#2 d
+xa
+b
+A1
+1cdda
+1cdd
+#2abb d
+xb
+.
+b
+b
+A2
+1cdda
+0cdd
+b
+b
+
+e

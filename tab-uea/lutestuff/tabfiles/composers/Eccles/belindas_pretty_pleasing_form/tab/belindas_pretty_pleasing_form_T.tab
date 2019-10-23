@@ -1,0 +1,215 @@
+-C
+-t
+-f
+{/John Eccles}
+b
+w   b  a
+b
+c
+1
+b
+0 ea c
+0aac  a
+b
+1 a    a
+1     e
+1  c e
+1  e  c
+b
+1  a c
+1    b
+0 a d e
+b
+1  e  c
+1     a
+1 a    a
+1  a c
+b
+0aa  e
+0cadb
+b
+0aa\2c\1c
+1 \3ca
+1   \2c
+b
+1 a \1b
+1 \4e  \1c
+1 \2ca
+1a    \1c
+b
+1. e  c
+2  a
+1  \2c
+1\2c \4e
+b
+
+b
+1ca
+1a \1c
+1\2c \4e
+1 \4e&{a
+b
+1 e\2c
+1 \2c&{ \1c
+1 c&}a
+1 a \1b&{
+b
+1 a c
+1  \4e \3e
+1 a b
+1  \3c \2c
+b
+1  \1c \3e
+1  \4e  \1c
+1 aa\1b\2c
+1      /a
+b
+1  a \2c
+1 \4c  \1b
+1 e&{   \3e
+1 e&}  \1c
+b
+1\4e   \3e
+1    \1c&{
+1\2c   b&}
+1\1b   \4e
+b
+1\1cca
+1   \2c
+1\1c  a
+1a   \3e
+b
+1 \2d  \1c
+1a    \3e
+1 \2c  a
+1 d\2ca\1c
+b
+1 \1c\2d \3e
+1   \1b
+1 \1c \2d
+1    \3e
+b
+
+b
+1 \2ca
+1 \4d  \1c
+x \1c \2d\3e
+1      /c
+b
+A1
+0. c\4e  c
+1
+.
+b
+b
+A2
+w ce  c
+b
+0. ce  c
+1     c
+b
+1  \1c \3e
+1  c \2d\3e
+1 \1cc \3e
+1 \4ea \1c
+b
+0aa   a
+1
+1   \1c&{
+b
+1aa c
+1  \4e}\3e
+1 a b
+1 \2c \3d&{
+b
+0 \1c\2de
+1 cde
+1aa \1c
+b
+0a\2c  a
+1  \3d
+1 a\1c&{
+b
+1  c \3e
+1  ab
+1  cc
+1 ccd
+b
+1 \2cde
+1  c
+0 cd
+b
+
+b
+1 \1b\2c
+1 \3c \2c
+1 \1c\2d&{\3e
+1 \4ec&}
+b
+1a c \3e
+1      /c
+1      a
+1 \2c&{   \1b&(
+b
+1 c\4e&{  c
+1     a
+1 a    a
+1  e&}  \1c
+b
+1 aa \2c
+1 \4c  \1b
+1 \4e&{   \3e
+1 e&}a \1c
+b
+1 cc\2d\3e
+1    c
+1  a \1b
+1   \2d\3e
+b
+0  \2d  \1c
+0\2c\1ca
+b
+0c\4e\1c
+1  a
+1 a \1c&{
+b
+1 a b
+1  \4e \3e
+1 aa \1c
+1  \4e  \1c
+b
+1 aa \1c&{
+1 \2ca b&}
+1 \4e   \3e
+1   \2d
+b
+1 \2c\4e  \1c
+1     a
+0 aa   a
+b
+
+b
+.
+0aa\2c  a
+0 \2c\4e&{  \1c
+b
+0 \3e&{f  \2e
+0 c&}a\2c\1b&(
+b
+1 aa c
+1     a
+1 a  \3e\1c
+1  \4e
+b
+A1
+0. aabc
+1 a    a
+.
+b
+b
+A2
+w aab  /a
+b
+b
+
+e

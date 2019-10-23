@@ -1,0 +1,674 @@
+-C
+-t
+-f
+{19. O s'io potesi donna/19. O s'io potesi donna}
+b
+c
+1.hd f d
+2h
+#2hd f d
+x  d
+#3  f
+x  d
+x  f
+x  g
+b
+#2   a
+xfda
+xfda
+x   a
+#3da c
+xa
+xc
+xd
+1ca ac
+b
+2a  cd
+#3  d
+x  b
+#3  d
+x a
+x b
+x  d
+1 dfec
+1c
+b
+
+b
+2c b
+#3a
+x d
+#3a
+xc
+xd
+xa
+#3cca
+xa
+xc
+xd
+#3c
+xa
+x d
+x c
+b
+1 df
+2 cde
+#3 a
+x c
+#3 d
+x a
+x c
+x d
+#2aabc
+x d
+b
+#2 cde
+x d
+x c c
+x a
+#3 daa
+x c
+x d
+xa
+1caa c
+b
+2cdda
+#3a
+xc
+#2dabc
+xc
+#2a bcd
+x  a
+#3  b
+x  a
+#4  b
+x  a
+x  b
+x  d
+b
+
+b
+1 efec
+1   e
+#2 efec
+x c
+#3 e
+x c
+x e
+x f
+b
+#3c fec
+x f
+x e
+x c
+#3 e
+x f
+xc
+x e
+#3aabc
+x c
+x d
+xa
+#3c da
+x d
+xa
+xc
+b
+#2   f
+xddf
+x dff
+x  de
+#2dabc
+x c
+1cdda
+b
+#2c d d
+xa b
+xa a
+x   c
+2aaa c
+#3 e
+x c
+#3 e
+x a
+#4 c
+x a
+x c
+x e
+b
+A1
+waa c a
+.
+b
+b
+
+b
+A2
+#3aa c a
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+#3c
+xd
+2f
+1he
+b
+1hf
+1f h
+1ha
+2da
+#4 a
+x c
+x d
+xa
+b
+2cd
+#3 a
+x c
+#3 d
+xa
+#4 d
+xa
+xc
+xd
+1fc
+1df
+b
+2ce
+#3 f
+x e
+#3 f
+x e
+#4 f
+x e
+x c
+x e
+2aabc
+#3  a
+x  b
+#3  d
+x  b
+#4  d
+x  b
+x  a
+x  b
+b
+
+b
+#2  da
+x  a
+#3  b
+x  a
+#4  b
+x  a
+x  b
+x  d
+#2 a  c
+x    a
+#3    c
+x    a
+x    c
+x    e
+b
+1  da
+1  bc
+2  ab
+#3   c
+x   b
+#3   c
+x   b
+#4   c
+x   b
+x    e
+x   b
+b
+1   c
+1 dfec
+#2 dfec
+x c
+1 dff d
+b
+#2a bcd
+x  a
+#3  b
+x  a
+#4  b
+x  a
+x  b
+x  d
+#2 efec
+x c
+#3 e
+x c
+x e
+x f
+b
+
+b
+#3c fec
+x f
+x e
+x c
+#3 e
+x f
+xc
+x e
+2aab
+#3 d
+xa
+2ccd
+#3a
+xc
+b
+1ddf
+#2d
+xccd
+#2aab
+xc
+xddf
+#3c
+xa
+b
+1ccd
+1aab  d
+#2    a
+x  a
+x    c
+x ea
+b
+1a  cd
+1   c
+1  bcd
+1  bac
+b
+#2    a
+x  a
+x     d
+xa bc
+1c d  c
+2c d  c
+#3a
+xc
+b
+1da c a
+#2   c
+xc d
+#3aabc
+x d
+xa
+xc
+#2da ac
+x    e
+b
+
+b
+#3cdda
+xa
+x d
+x c
+#3 a c
+x c
+x d
+xa
+#3 ea c
+xa
+xc
+xa
+#4c
+xa
+x e
+x c
+#3a
+x e
+b
+2aa c a
+#3 d
+x b
+#3 d
+x b
+x a
+x  d
+#3 a
+x  d
+x  c
+x  a
+1aabc
+b
+1aabc
+1 ea c
+2aabc
+#3 d
+xa
+2cdda
+#3a
+xc
+b
+#3dab  d
+x     c
+x     d
+x    a
+#3    c
+x    a
+x    c
+x    e
+1cdda
+1ca  c
+b
+
+b
+#2   e
+xccd
+xaa f
+x d
+2ccee
+#3  e
+x a
+#4 c
+x a
+x  e
+x  c
+#3 a
+x  e
+b
+1caa c
+#3 aa
+x c
+x d
+x a
+#3 cd
+x a
+x c
+x d
+#2a
+x  b
+b
+2a a
+#3 e
+x c
+#2    c
+x ea
+1a d e
+1a bc
+b
+1   c
+1c ab
+#2da c
+xc
+#3d
+xc
+xa
+xc
+b
+#2da
+xc
+xdabc
+xa
+1cdda
+1 a  c
+b
+
+b
+2ccee
+#3  e
+x  c
+#3  e
+x a
+x c
+x  e
+1caa c
+#3 a
+x  d
+x a
+x c
+b
+#3 d
+x c
+x d
+xa
+1caa c
+2caa c
+#3a
+xc
+#2da a d
+xc
+b
+1ab ca
+1 efec
+#3a bcd
+x  d
+x a
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+#3 efec
+x c
+x e
+x f
+#3c
+x f
+x e
+x c
+2.hd f d
+3f
+#3d
+x h
+xd
+xf
+b
+
+b
+#2hd f d
+xf
+xd
+xh
+#2fdaa
+xc
+#3d
+xc
+xd
+xf
+b
+#3da c
+xa
+xc
+xd
+1ca ac
+2a  cd
+#3  d
+x  b
+#3  d
+x a
+x b
+x  d
+b
+1 dfec
+1c
+2c b
+#3a
+x d
+#3a
+xc
+xd
+xa
+b
+#3cca
+xa
+xc
+xd
+#3c
+xa
+x d
+x c
+1 df
+2 cde
+#3 a
+x c
+b
+
+b
+#3 d
+x a
+x c
+x d
+#2aabc
+x d
+#2 cde
+x d
+x c c
+x a
+b
+#3 daa
+x c
+x d
+xa
+1caa c
+2cdda
+#3a
+xc
+#2dabc
+xc
+b
+#3a bcd
+x   b
+x   c
+x  a
+#3  b
+x  a
+x  b
+x  d
+2 aabc
+#3  d
+x a
+#3 b
+x a
+x  d
+x  b
+b
+#3  d
+x  b
+x  a
+x   c
+1 a b
+1  bc
+1  de
+b
+1  ff
+#2 d
+x  de
+1a bc
+1c ab
+b
+
+b
+#2da c
+xf
+xda a d
+xc
+1abd a
+1 efec
+b
+1a bcd
+#2a bcd
+x d  c
+#2a d a
+xc
+1da a d
+b
+#2   ca
+xc
+1abd a
+2aaa c
+#3 e
+x c
+#3 e
+x a
+#4 c
+x a
+x c
+x e
+b
+2a bcd
+#3  d
+x a
+#3 b
+x a
+x  d
+x  b
+#2    c
+x a
+x  a
+x   b
+b
+#2   c
+x  b
+x  d
+x   e
+#2   f
+x d
+x  f
+x   e
+b
+
+b
+1a bc
+1c ab
+#2da c
+xf
+xda a d
+xc
+b
+1abd a
+1 efec
+#3a bcd
+x  a
+x  b
+x  d
+#2a bcd
+x d  c
+b
+#2a d a
+xc
+1da a d
+#2   ca
+xc
+1abd a
+b
+2aaa c
+#3 e
+x c
+#3 e
+x a
+#4 c
+x a
+x c
+x e
+1aab  a
+1   c
+b
+#2abd a
+x a
+x  d
+x b
+1aab  d
+#2  d
+x  b
+b
+
+b
+2abd a
+#3 a
+x b
+#2 a
+x  d
+Yaac  a
+b
+b
+
+e

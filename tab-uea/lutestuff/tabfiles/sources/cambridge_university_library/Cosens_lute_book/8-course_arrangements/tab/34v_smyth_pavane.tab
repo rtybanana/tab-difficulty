@@ -1,0 +1,299 @@
+-C
+-t
+-f
+{Pavane/Pavane}
+b
+c
+1. fb ca
+2  d
+#1  b
+x  a
+b
+1. fb
+2    a
+#1 dd  c
+x b
+b
+1. aba d
+2  d
+#1 a
+x b
+b
+#1 d
+x    a
+x    c
+x f  d
+b
+#1 ddef
+x f
+x h
+x    f
+b
+#1    h
+x fff
+x   a
+x dde
+b
+#1  ff
+x d
+x  de
+x b c
+b
+#1  b c
+x   a
+x ba a
+x  dcd
+b
+
+b
+#1 aabc
+x d
+x d ca
+x ba
+b
+#1 ab  d
+x   a
+x b c
+x  de
+b
+#1  ff
+x d  c
+x f  d
+x h  a
+b
+#1 if
+x    d
+x hi f
+x f
+b
+#1 e  c
+x  f
+x fb c
+#2  a
+x   c
+b
+#2    c
+x f
+x e c
+x c
+#2 e e
+x f
+x  d
+x e
+b
+1. fc  a
+#3 d
+x b
+#2 a
+x  d
+x  c
+x  a
+b
+
+b
+#2     a
+x fc
+x   c
+x  d
+0 fccca
+.
+b
+b
+.
+1  abc
+#2   c
+x  a
+#1  b  a
+x  d  c
+b
+#1 a   d
+x   c
+x b  a
+x  a
+b
+#1 d
+x  b c
+x f  d
+x bd a
+b
+#1 dd f
+x   f
+x  d
+x ba
+b
+#1 ab  d
+x b  a
+x df c
+x  a
+b
+#1 b  a
+x g  c
+x fg d
+x  b
+b
+#1  f
+x fg d
+x ddff
+x   e
+b
+1   f
+1  d f
+1 b c
+1 ab c
+b
+
+b
+1  da
+#2 a
+x b
+#1 da a
+x b
+b
+1 aba d
+#2 b
+x d
+#1 f  d
+x b  a
+b
+1 d  c
+#2 f
+x h
+#1 i  h
+x f  d
+b
+#1 ea c
+x  a
+x fb
+#2  a
+x   c
+b
+#2     c
+x  f e
+x  e c
+x  c
+#2  e e
+x  f
+x   c
+x  e
+b
+1. aabc
+2  b
+#2  a
+x   c
+x   b
+x    e
+b
+0 aabc
+0      /a
+.
+b
+b
+
+b
+.
+1. daa
+#3 b
+x a
+#1  d
+x ab
+b
+#1 bbc
+x dde
+x  f
+x   f
+b
+1.  def
+#3    d
+x    c
+#1    a
+x  bac
+b
+#1  bcd
+x  def
+x  bac
+x     d
+b
+1 fff
+#2  i
+x  g
+#1 i
+x hi
+b
+#1 fg
+x   h
+x ef
+x   e
+b
+1  bc
+#2   a
+x    d
+#1  b
+x  aa
+b
+#1   cd
+x    a
+x  ab
+x    c
+b
+
+b
+1 a
+#2  d
+x  b
+#1  a
+x   cd
+b
+#1 a
+x  db
+x  c
+x   c
+b
+1 aa c
+#2    a
+x     d
+#2 c   c
+x e
+x f
+x    a
+b
+#2    c
+x f
+x e
+x    a
+1 f   e
+#2     a
+x c
+b
+#1 da a
+x c c
+x aabc
+#2  bc
+x  d
+b
+1 aacc
+#2   b
+x    e
+1 aabc
+#2      /a
+x  d
+b
+1. fc ca
+#3 d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+
+b
+#2     a
+x fc
+x   c
+x  d
+Y fccca
+.
+b
+b
+
+e

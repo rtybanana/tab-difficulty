@@ -1,0 +1,436 @@
+-C
+-t
+-f
+{194. Au joli bois/Johannes Lupi}
+b
+c
+1 a
+#2ca
+x a
+#2c a
+xc a
+x cd
+x c
+b
+1a  c
+1 ab
+#2 da
+x  b
+x cde
+x dfe
+b
+#2ac  e
+xc d e
+1ea c
+#2    c
+xc d
+xc ca
+x  a
+b
+1  c e
+1b
+1c aa
+#2   a
+x   a
+b
+1 a  c
+#2ca
+x a
+#2c a
+xc a
+x cde
+x d e
+b
+
+b
+#2a c e
+x    e
+x acc
+x c
+#2 da c
+xa
+xc aa
+x d
+b
+1a d e
+1a c e
+#2c aa
+xa c
+xc d
+x a
+b
+1ac  a
+1 df c
+1 c e
+1  de
+b
+1 ac
+1  cc
+1  de
+1 c
+b
+1 caa
+1 acc
+1 c  e
+1ac
+b
+1cd  c
+#2  f
+xe
+1fc
+1e   e
+b
+#2  da
+xc
+1ca  c
+1  c e
+1b   e
+b
+1c aa
+1 d  c
+1 c  e
+1ec  e
+b
+
+b
+1fc e
+1cd e
+1ea c
+1 c c
+b
+1 cde
+1ca  c
+2   ge
+#3 g
+x e
+1 g
+b
+1c  e
+1 c
+1 ca
+1 ca
+b
+1  de
+1c aa
+1cd a
+#2c   c
+x c
+b
+#2 dff
+x  d
+x  f
+x   e
+#2da c
+x   a
+1d  c
+b
+1ca  c
+#2 a
+xa
+#2 d
+x cd
+xcac
+x  a
+b
+1cac
+1ba
+1c de
+1c a
+b
+
+b
+1cd
+#2c
+x c
+1 df
+1 cde
+b
+#2f de
+x a
+x c
+xf de
+#2ea c
+xac
+1cd a
+b
+#2   f
+x c
+x dff
+x a
+1 c e
+1c e
+b
+1ca  c
+1c de
+1 dde
+1 cde
+b
+1f aa
+#2 c  e
+xe
+1ccd
+#2a
+x ac
+b
+#2 dde
+x c
+1 ccc
+1  aa
+1 aa
+b
+1 ca e
+1   d
+1 ca
+2  a
+#3   d
+x   b
+b
+
+b
+1 c ee
+1   d
+1 c e
+#2 c
+x   e
+b
+1 c c
+1ca a
+1cc  e
+#2b
+x c
+b
+1ca
+#2  d
+xc
+1b c
+#2 df
+x  a
+b
+1 cfc
+1  ee
+1 df c
+#2c
+x  f
+b
+1c d
+1bac
+1ca e
+#2  de
+xc
+b
+1 dff
+#2 d f
+x  d
+1 ccc
+#2  de
+x a
+b
+#2 cde
+x d
+1a cc
+#2  de
+x ac
+x cd
+x dfe
+b
+
+b
+1ac c
+#2c da
+x a
+#2ac  e
+x  d
+1cd  c
+b
+#2   a
+x c
+xaa c
+x d
+1 c e
+1  e
+b
+1 a  c
+1 a
+#2 d  c
+x d
+x  def
+x a a
+b
+#2 cd a
+x dd c
+xa  ce
+x  aa
+#2 acc
+x cd
+x df c
+x d  c
+b
+#2  def
+x   ef
+x cd a
+x cd
+#2a  ce
+xa
+x acc
+x c c
+b
+#2 df c
+xaa  e
+xc aa
+x  cc
+#2 cde
+x df
+xac  e
+xa   e
+b
+
+b
+#2 acc
+x acc
+xca  c
+x a
+#2f de
+xfa
+xacd
+xcdd
+b
+#2ef c
+xf  e
+xeac
+x  d
+1cdf
+1h
+b
+1 ca
+1f  e
+1e  c
+1ca a
+b
+#2  d e
+xc
+1a c
+1 da
+1 cde
+b
+#2 ac
+x   c
+xf de
+x aa
+#2ec c
+xac  e
+xcc a
+xca a
+b
+#2ac  e
+x    e
+xa c e
+x   a
+#2 acc
+x   c
+x cde
+x cde
+b
+
+b
+#2 ccc
+x daa
+xa c e
+xc d
+#2c c
+xb
+1c de
+b
+1c a
+1ec c
+1fc e
+#2 c
+xe  c
+b
+1cd a
+1a d e
+1ca  c
+1ed
+b
+1fc
+1fd
+#2   e
+xfd
+xfc e
+x a
+b
+#2f de
+x a
+1ec c
+1f  e
+2 ac
+#3e
+xc
+b
+1acd
+#2ff
+x  c
+#2fd e
+x c
+xfc c
+xea
+b
+#2c da
+x  c
+xc d
+x a
+1cc  e
+#2b
+x a
+b
+
+b
+1cc e
+#2 d
+x  c
+1acd
+1ea c
+b
+1c de
+#2c da
+x a
+1cc  e
+#2b   e
+x a
+b
+#2c de
+x a
+xcc e
+x  d
+#2ca  c
+x c
+x d
+xa   e
+b
+#2ca a
+xe
+1fc  a
+#2ed  c
+xc
+1ca  c
+b
+1cc e
+1c de
+1.aab
+2aab
+b
+1aab
+1ca a
+1.da c
+2  a
+b
+1dab
+1c  a
+1aa c
+#2 e
+x c
+b
+Y efec
+b
+b
+
+e

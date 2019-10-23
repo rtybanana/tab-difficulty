@@ -1,0 +1,645 @@
+-C
+-t
+-f
+{64. Go from my window/64. Go from my window}
+b
+c
+1aac  a
+#2   c
+xc d
+1ea   a
+#2ca bc
+x  d
+b
+2.aac"#  a
+3  d
+#2  c
+x  a
+0aaccca
+b
+1ccd  c
+#2   e
+xe f
+1fc   c
+#2e  de
+x a
+b
+2.cce  c
+3  f
+#2  e
+x  c
+0cceeec
+b
+1ccd  c
+#2   e
+xe f
+1fc   c
+1e f
+b
+#2ccd  c
+x f
+xc
+xe
+#2f    c
+xc
+1 c"#
+b
+
+b
+#2aac  a
+xc
+xe
+x     a
+2.caa c"#
+3a
+#2e
+xc
+b
+2.aac"#  a
+3  d
+#2  c
+x  a
+0aaccca
+b
+b
+1ea   a
+#2   c
+xc d
+#2 ac  a
+xa
+x f ec
+x e
+b
+#2aac  a
+x cd
+x ac
+x  de
+#2aac  a
+x   c
+1     a
+b
+1fc e c
+#2   e
+xe f
+#2  d  c
+xc
+x  c e
+x g
+b
+#2c e  c
+x df
+x ce
+x ac
+#2cce  c
+x   e
+1     c
+b
+
+b
+#2   e
+x  a
+x  d
+x d
+#3 c e
+x a
+x  d
+x  c
+1  a
+b
+#2     c
+xfc e
+xe  c
+xc  a
+#3a   e
+x d  c
+x c  a
+x a   e
+1  d  c
+b
+#2     a
+xea
+xc d  c
+xa c  e
+#2a a a
+x     c
+x e  c
+x  d
+b
+#2     a
+xaad
+x  c
+x  a
+0aaccca
+b
+b
+#3e
+x  h
+2  f
+#3c
+x  f
+2  d
+#3a
+x  d
+2  c
+#3 e
+x  c
+2  a
+b
+
+b
+#2aac
+x   c
+x     a
+x  d
+#2aac
+x   c
+1aaccca
+b
+#3f
+x d
+2 c
+#3e
+x c
+2 a
+#3c
+x  f
+2  d
+#3b
+x  d
+2  c
+b
+#2cce  c
+x   e
+x     c
+x  f
+#2cce
+x   e
+1     c
+b
+#3f
+x  c
+2  d
+#3f
+x a
+2 c
+#3f
+x d
+2 c
+1  d
+b
+
+b
+#3f a
+x  c
+x  d
+x a
+#3 c
+x d
+xfc
+x a
+#3f d
+x  c
+x  a
+x  c
+#3  d
+x a
+xfc
+x e
+b
+#3ef
+x d
+x a
+x c
+#3cd
+x c
+x  d
+x a
+#3ac
+x a
+x  c
+x  d
+#3 ef
+x  d
+x  a
+x  d
+b
+#2aac
+x   c
+x     a
+x  d
+0aaccca
+b
+b
+#2e
+x   c
+#3c a
+x  c
+x  d
+x a
+#2a c
+x   c
+x  de
+x e
+b
+#2aac
+x     a
+x   ec
+x e
+0aaccca
+b
+
+b
+#2f
+x   e
+#3e c
+x  d
+x a
+x c
+#2c d
+x  a
+x ac
+xb
+b
+#2ccd
+x     c
+x  c e
+x g
+0cceeec
+b
+#2 cd  c
+xf
+xe
+xc da
+#2a   e
+x d  c
+x c  a
+x a   e
+b
+#2 cd  c
+xf
+xe
+xc  a
+#2a   e
+x    c
+x    a
+xc
+b
+#2    c
+xe
+x    e
+xa
+2c
+#3    a
+xa
+#3 e  c
+x c
+x e
+x    a
+b
+
+b
+#3a    e
+x     c
+#2     e
+x    a
+x c
+0aaccca
+b
+b
+#2a c  a
+x  d
+x     c
+#2 a   e
+x c
+x    a
+b
+#2 a   e
+xa
+x     a
+#2  a c
+xc
+x e
+b
+#2a
+x     a
+x c  a
+2 a   e
+#3    a
+x c
+2  d
+b
+0.aac  a
+b
+#2c d  c
+x  f
+x     e
+#2 c  a
+x d
+x    c
+b
+#2 c  a
+xc
+x     c
+#2  c e
+xe
+x g
+b
+
+b
+#2c
+x     c
+x da c
+2 c  b
+#3    c
+x d
+2 a
+b
+0.cce  c
+b
+#2f    c
+x    a
+x     c
+#2    a
+x    e
+x    a
+b
+#2f   a
+x    e
+x    a
+#2   a
+x    e
+x    a
+b
+#2f  a
+x    e
+x    a
+#2   e
+x   c
+x    e
+b
+#2f  e
+x   c
+x    e
+2.  d
+3  c
+2  a
+b
+#2e c
+x a
+x  d
+2.  c
+3  a
+2   c
+b
+
+b
+2. e  c
+3c
+2a
+2. e
+3 c
+2 a
+b
+#3 f   a
+x e
+x f
+x h
+2 f
+#3  f
+x  e
+#3  f
+x  h
+2  f
+b
+#3  c
+x  a
+x  c
+x  d
+2  c
+1.   c
+b
+b
+c
+1   c
+1a
+#2 e e
+x c
+1  a
+b
+2.  cc
+3  d
+1 a
+2 c c
+2 a
+1  c
+b
+1  a
+1c
+#2b c
+x e
+1  c
+b
+
+b
+2.  ee
+3  f
+1 c
+2 e e
+2 c
+1  a
+b
+1c de
+1f
+#2c  e
+x c
+1  d
+b
+#2f  e
+xc
+1 c
+#2 e e
+x c
+1  a
+b
+#2a  c
+xc
+1e
+#2f   g
+x h
+1 e
+b
+1ea
+1   c
+0     a
+b
+b
+#2     a
+xea
+xc d
+xa c
+#2 e ec
+x c c
+x e e
+x  d
+b
+#2a    a
+x cd
+x ac
+x  de
+#2  cc
+x  aa
+x  de
+x a  c
+b
+
+b
+#2 c  a
+x  d
+x dc a
+x  a
+#2 c de
+x  de
+x  c e
+x   d
+b
+#2c    c
+x df
+x ce
+x ac
+#2cce  c
+x   e
+1     c
+b
+#2f
+x   e
+x   c
+x   a
+#3f   e
+x    c
+x    a
+x     e
+1     c
+b
+#3f
+x   e
+x   c
+x   a
+#3    e
+x    c
+x    a
+x     e
+#3f    c
+x     a
+x     c
+x     e
+#3    a
+x    c
+x    e
+x   b
+b
+
+b
+2e  c
+#3     a
+x     c
+#3     e
+x     c
+x     e
+x    a
+2c   c
+#3    a
+x     e
+#3    a
+x     c
+2    c
+b
+#2a    e
+x     a
+#3     c
+x     e
+2     f
+#2a    e
+x     a
+1     a
+b
+b
+#2     a
+xe
+2.c
+#4a
+xc
+#2e
+x     e
+x    a
+x    c
+b
+#2     a
+xe
+2.c
+#4a
+xc
+#2e
+x     a
+x    a
+x     e
+b
+#2     c
+xf
+2.e
+#4c
+xe
+#2f
+x    a
+x    c
+x    e
+b
+
+b
+#2     c
+xc
+2.b
+#4 e
+xb
+#2c
+x c
+1     c
+b
+#2     c
+xf
+2.e
+#4c
+xe
+#2f
+x   a
+x    e
+x    c
+b
+#2    a
+xf
+2.e
+#4c
+xe
+#2f
+x    c
+x    e
+x   b
+b
+#2     a
+xe
+#3c
+xe
+2a
+#2c   c
+xa c  e
+x  a a
+x e  c
+b
+#2a
+x  c"#  a
+x c  a
+x a   e
+0aaccca
+b
+b
+
+e

@@ -1,0 +1,216 @@
+-C
+-t
+-f
+{60. Gagliardo 12 con obligo/60. Gagliardo 12 con obligo}
+b
+1   c
+1  a
+1  c
+b
+0.  dca
+1 a  e
+1 c  a
+1 ef c
+b
+1a d e
+1  c a
+1  a c
+1   c
+0 efe  //a
+b
+0.aac  a
+1  a  c
+1  c  a
+1  de  a
+b
+1 a c  /a
+1   a  //a
+1    ec
+1    c
+0  e e
+b
+0. aabc
+1h
+1e
+1fh
+b
+1he
+1 f
+1 h&_
+1f
+1e   e
+1 f
+b
+
+b
+1 c  b
+1ca  c
+1  d e
+1b c
+1c e  c
+1   e
+b
+1. a b  //a
+2h    h
+1f    e
+1e   a
+1c   c
+1  f
+b
+1.aac  a
+2  d
+1  f
+1   c
+1  d e
+1   b
+b
+#2  cc
+x  a
+x  c
+x  d
+1 a
+1 aaa
+1 cc e
+1a e
+b
+1. efec
+2a
+1c
+1    a
+#2e    e
+xc
+xe
+xa
+b
+#2f    c
+xe
+xf
+xc
+1eg  e
+1 h
+1 g
+1  f
+b
+
+b
+0cce  c
+w      5
+b
+1.ccee
+2   c
+1c  b
+1ea c
+1a   e
+1  e
+b
+0 efec
+w      //a
+b
+1. efec
+2    a
+1aa c e
+1ac  a
+1c d  c
+1   b
+b
+w.ea c a
+b
+1.hf g a
+2f
+1e
+#2f   a
+xe
+#2c
+xa
+1 ea c
+b
+0aac  a
+0   c
+1c
+1e
+b
+0fh e
+1.f
+2f    c
+1.e   e
+2eg
+b
+
+b
+0cce  c
+0   e
+0k   a
+b
+0cd ac
+1fc e c
+0ec de
+1caaa
+b
+0 ghge
+0   g
+1 c  a
+1 d  c
+b
+0a   e
+1 cd a
+#2 d
+xa
+#2c  a
+x   c
+x da
+x  c
+b
+1 cd
+1a   a
+1 da c
+1 cd e
+1 a a
+1  cc
+b
+1.  dca
+2 a
+1 c
+1a
+1c
+1e   c
+b
+1.f   e
+2   a
+1e  c
+1c de
+1aac
+1  d  c
+b
+
+b
+1. a   e
+2 c  a
+1 d  c
+1c
+1e
+1f     /a
+b
+1h     b
+1  a
+1.a c  a
+2  d
+#2  f
+x  d
+x ac
+x ca
+b
+#2 d c
+xa  a
+xc   e
+xd   c
+1c e ec
+1  f c
+1  e e
+1a
+b
+w efec
+0      //a
+b
+b
+
+e

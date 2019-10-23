@@ -1,0 +1,212 @@
+-C
+-t
+-f
+{/}
+b
+1 cdca
+2 cd
+b
+1 ac  a
+2a d   /a
+b
+1c d   a
+2ed  c
+b
+1ff  e
+2fc  a
+b
+1ea c
+2aac  a
+b
+1 dd  c
+2aa   e
+b
+1cc  a
+2ccd  c
+b
+1cada
+2aac  a
+b
+1. cdca
+b
+1aa   e
+2ac  a
+b
+2 dc c
+1aa   e
+b
+1 cd a
+2 ed  c
+b
+1a c  a
+2  d   /a
+b
+1c     a
+2ed  c
+b
+
+b
+1ff  e
+2 c  a
+b
+1 a c e
+2acd a
+b
+2ed  c
+1ea c e
+b
+1.fcd a
+b
+#2
+x\4f\1c  a
+x\3ea   \2e
+b
+1\4f\3e   \1c
+2ea c
+b
+1cb b
+2a c e
+b
+1ee  d
+2ec ce
+b
+1e \3g&{  e
+2 \4hh&} a
+b
+1.eeg  e
+b
+1\4e\3e&{  \1d&(
+2\2ef&}  e&)
+b
+1\4f\1ca a
+2c \2d  c
+b
+1e\2f\4h  e
+2 e\3g
+b
+1.acc   /a
+b
+1ac  a
+2
+b
+
+b
+1fc   c
+2
+b
+1cdf   //a
+2
+b
+1ea c a
+2
+b
+1ec c  /a
+2
+b
+1ac  a
+2aa   e
+b
+1\2c\4d\3d  \1c
+2\4e\1c   a
+b
+1\2ca    a
+2a \3d&{   /a
+b
+#2 \2cd&}  \1c
+x ad\1c a
+x  \2c
+b
+1 \2c\3d\1ca
+2aa   \4e
+b
+1 dd  c
+2acc  a
+b
+1.cdd   a
+b
+#2a d   /a
+xaad  a
+x  c
+b
+1 cdca
+2 cdca
+b
+1 ac  a
+2a     /a|
+b
+
+b
+1c d   a
+2ed  c
+b
+1ff  e
+2fc  a
+b
+1eff  a
+2a c  a
+b
+1 dd  c
+2 a c e
+b
+1 ca a
+2 cde
+b
+1 daa
+2aacc
+b
+Y. cdca
+b
+1cd  c
+2cc  b
+b
+1cd  c
+2aab  a
+b
+1 dfe  a
+2ace   /a
+b
+1cdf   //a
+2aab  a
+b
+#2 c\4f&{  c
+xa\1cf\3e
+x  e&}
+b
+1 \2da \1c
+2\1cc  a
+b
+1aa   \2d
+2 \4d\3d  \1c
+b
+1\4d\2c   a
+2\2ca    a
+b
+
+b
+#2a \1b  a
+x c\4f  c
+x  \3e
+b
+1 aaac
+2da   d
+b
+1f d  c
+2cd    a
+b
+1acd a
+2acd a
+b
+1dd  c
+2cc  a
+b
+1aa   e
+2cdf
+b
+2acdca
+1  b
+b
+1. da a a
+b
+b
+
+e

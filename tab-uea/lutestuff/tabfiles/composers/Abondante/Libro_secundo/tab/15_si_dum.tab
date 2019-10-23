@@ -1,0 +1,423 @@
+-C
+-t
+-f
+{15. Si dum pet. de vetre bien/15. Si dum pet. de vetre bien}
+b
+c
+0  b
+1  b
+1  b
+b
+1d  c
+1   c
+1d   d
+1db  d
+b
+#2bbd  b
+x     d
+x    a
+x    c
+#2abb d
+x   a
+x   c
+x d d
+b
+1. bd a
+2 d
+#2a b  d
+xb d
+xda
+xd b
+b
+1fbd  b
+#2     b
+xda   d
+#2bbd a
+x    c
+xa b d
+x a
+b
+
+b
+1 ddd b
+1 b c
+2 bba d
+#3 a
+x  d
+#3 a
+x  b
+x  d
+x a
+b
+#2 b  d
+x  b
+x  b
+x  b
+#2d  c
+x   c
+xd b d
+xdb  d
+b
+#2bbd  b
+x     d
+x    a
+x    c
+#2abb d
+x   a
+x   c
+x d d
+b
+#2 bdca
+x   a
+x   c
+x d d
+#2aab  d
+xb d
+xda
+xd b
+b
+1fbd  b
+#2     b
+xda   d
+#2bbd a
+x    c
+xa b d
+x a
+b
+1 ddd b
+1 b c
+1  ba d
+1 a
+b
+
+b
+2 bb d
+#3    a
+x    c
+#3    d
+x    c
+#4    d
+x    c
+x    a
+x     d
+1  d  b
+1 bd  b
+b
+#2 bd  b
+x bd  b
+1 bd  b
+1fb d b
+#2fb d
+xfb d
+b
+1fb d
+1d  c
+1fg a
+1if   i
+b
+1hd f
+#2df  d
+xd   d
+#2f dd
+x a
+xdb c
+xbd a
+b
+1if
+2   h
+#3h
+xi
+1ha f
+1f  d
+b
+1d  c
+1d
+1   a
+1cd
+b
+1da c
+1d b
+1ab  a
+1 bd
+b
+1b  a
+1   d
+1abb d
+1 df  d
+b
+
+b
+#2   da
+x b
+1 b d
+1  ba d
+1 a
+b
+#2 bb d
+x    c
+x    a
+x     d
+1  d  b
+#2 bd  b
+x bd  b
+b
+#2 bd  b
+x bd  b
+x bd  b
+x     b
+1fb d b
+#2fb d
+xfb d
+b
+1fb d
+1d  c
+1fg a
+1if   i
+b
+1hd f
+#2df  d
+xd   d
+2f dd
+#3 a c
+x   d
+#2db c
+xbd a
+b
+1if
+2   h
+#3h
+xi
+#2ha f
+x  g
+xfd d
+x a
+b
+
+b
+#2 b c
+xda
+xd d
+x  b
+1  da
+1cd
+b
+1da c
+1d b
+1ab  a
+1 bd
+b
+1b da
+1   d
+1abb d
+1 df  d
+b
+#2  d a
+x b
+x b d
+#3 a
+x  d
+1  ba d
+2 a
+#3  d
+x a
+b
+1 bb d
+1  b
+1   c
+1d  c
+b
+1d   d
+1d   d
+1a b
+1a
+b
+1f  d
+1f
+1db c
+1da
+b
+1i  h
+#2    i
+xha
+1fb d
+#2d  c
+x  b
+b
+
+b
+#2b da
+x a
+1ab  d
+1 d f
+1  f
+b
+1 b  d
+1a
+1df
+1 f
+b
+1dfg
+#2d b
+x d
+1abd
+#2aa
+x  b
+b
+1f dd
+1fb d
+1db c
+1da
+b
+1i  h
+#2    i
+xha
+1fb d
+#2d  c
+x  b
+b
+#2b da
+x a
+1ab  d
+1 db
+1 a
+b
+0 b  d
+1df  d
+#2df  d
+xdf  d
+b
+1df  d
+1df  d
+1fd d
+1hd f
+b
+
+b
+1i gh
+1da c
+1if   i
+#2if   i
+xif   i
+b
+#2hd f
+xf
+xd
+xb
+1abd
+1da c
+b
+#2fbd
+x d
+xif
+x  g
+1hd f
+1f  d
+b
+#2 b c
+xda
+xd d
+x  b
+2d da
+#3c
+xa
+#3d
+xc
+#4d
+xc
+xa
+xc
+b
+1d b
+#2  b
+x  b
+1d   d
+#2d   d
+xd
+b
+1. bd
+2a
+#2bd a
+x    d
+xbd a
+x   c
+b
+
+b
+1. bdd
+2 df
+#2ab  d
+xb  a
+xd  c
+xa   d
+b
+#2f  a
+x  bc
+x  dd
+x a a
+#2db c
+x a
+1bd a
+b
+#2  d
+xa
+x d
+x b
+1 db
+1 a
+b
+0 b  d
+1d   d
+#2d
+xd   d
+b
+1 db
+#2  b
+xa b
+1bd a
+#2bd
+x   c
+b
+1 bdd
+#2   d
+x df
+#2ab  d
+xb
+1db
+b
+
+b
+2 ab
+#3b
+xa
+#2 bd
+xa
+1b  a
+2   a
+#3a  a
+x d
+b
+#2ab  a
+x d
+xa b
+x d  c
+1 bb d
+#2 dff d
+x   f
+b
+#2  dda
+x   c
+x b a
+x    d
+2 bba d
+#3 a
+x  d
+#3 a
+x  b
+x  d
+x a
+b
+Y bbcd
+b
+b
+
+e

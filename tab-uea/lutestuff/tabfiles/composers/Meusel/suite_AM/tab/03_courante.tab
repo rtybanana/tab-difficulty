@@ -1,0 +1,634 @@
+-C
+-t
+-f
+{3. Courante/Gottfried Meusel}
+b
+2  a
+#2   d
+x  a
+b
+#3  e  a
+x  c
+2  a
+#2 c    4
+x  a
+#2   d  //a
+x  c
+b
+#3  eU a
+x  cX
+2  a
+#2 c    4
+x  a
+#2   d  //a
+x  c
+b
+#3  e  a
+x  c
+2  a
+#2e     4
+x c
+#2  eU a
+x  aX
+b
+#2 eU a
+x cX
+1 a&'    d
+2      //a
+#3  e
+x a
+b
+#2  e  a
+x c
+#2 eU a
+x cX
+#2 a&'    ///a
+x  e
+b
+
+b
+#2  c&'   //a
+x    c
+#2 c    a
+x  c
+#2   d  //a
+x  c
+b
+#3  eU a
+x  cX
+2  a
+#2 c    a
+x  c
+#2   d  //a
+x  c
+b
+#3  eU a
+x  cX
+2  a
+#2e     4
+x c
+#2  eU a
+x  aX
+b
+#3 eU a
+x cX
+2 a
+#2e     4
+x c
+#2  eU a
+x  aX
+b
+#3 e    ///a
+xc
+x eU
+x cX
+#3 aU
+x c
+x aX
+x  a
+#3  c
+x a
+x  e
+x a
+b
+
+b
+#3 cU   4
+x eX
+x cU
+x aX
+#3  e
+x a
+x  eU
+x  cX
+#3  aU
+x  eX
+x  cU
+x  eX
+b
+#3 aU   5
+x cX
+x a
+x  e
+#3  cU
+x  eX
+x  cU
+x  aX
+#2   d  //a
+x  c
+b
+#3  eU a
+x  cX
+2  a
+#2 a    5
+x  a
+#2 c    4
+x  a
+b
+#2 e    ///a
+x a
+#3 aU
+x cX
+2 e
+#3  cU
+x  eX
+2 a
+b
+#2   d  //a
+x  c
+#2    c
+x  cU
+#2  eX
+x a
+b
+#3 cU   4
+x aX
+2  e
+#3  e
+x a
+2 c"_
+#3  aU
+x  cX
+2  e
+b
+
+b
+#2   b  ///a
+x  a
+#2    a
+x  a
+#2  cU  4
+x  eX
+b
+#3 a    5
+x  e
+2  c
+#3  cU
+x  eX
+2 a
+#2    e ///a
+x  a
+b
+#2   d  //a
+x    c
+#2   d
+x  c
+2  a&'   /a
+#3   d
+x  a
+b
+#2  c"_   a
+x    c
+#3  cU
+x  eX
+2 a
+#2  eU  //a
+x  cX
+b
+#2  eU a
+x  aX
+#3  e
+x a
+2 c
+#2 a    5
+x e
+b
+#2 c    4
+x  a
+#3 cU
+x eX
+2c
+#2 eU  a
+x cX
+b
+
+b
+#2 e&'    ///a
+x  f
+#2 e
+x \2g
+2e&'
+#3 \2g
+xe
+b
+#2 g    //a
+x  h
+#2  k
+x g
+#2 h    4
+x  h
+b
+#2 a    ///a
+x  e
+#2      //a
+x   e
+#2  c
+x   d&'
+b
+#2  ae"_ a
+x  e
+#2 c
+xe
+#2  c   //a
+xd
+b
+#2      /a
+x   e
+#2  e
+x e
+#2  a   4
+x c
+b
+#2      ///a
+x e
+#2 a&'    d
+x  a
+#2   d  //a
+x  c
+b
+#3  eU a
+x  cX
+2  a
+#2 c    4
+x  a
+#2   d  //a
+x  c
+b
+
+b
+#3  eU a
+x  cX
+2  a
+#2 c    4
+x  a
+#2   d  //a
+x  c
+b
+#2  e  a
+x a
+1  e&'
+2     a
+#3   g
+x  e
+b
+1   g
+#2      //a
+x    c
+#2   d
+x  c
+b
+#2 c
+x  c
+#2d
+x c
+#2  c
+x   d
+b
+1.      //a
+.
+b
+b
+.
+#2    b
+x    c
+2   b
+b
+#3   dU //a
+x   bX
+2    c
+#2  c   a
+x    c
+#2    b&'c
+x   b
+b
+#3   dU //a
+x   bX
+2    c
+#2  c   a
+x    c
+#2    b&'c
+x   b
+b
+
+b
+#2   d  //a
+x    c
+#2 c    a
+x  c
+#2   d  //a
+x  c
+b
+#3  eU a
+x  cX
+2  a
+#2 c    a
+x  c
+#2   d  //a
+x  c
+b
+#3  eU a
+x  cX
+2  a
+#2e     4
+x c
+#2  eU a
+x  aX
+b
+#2 eU a
+x cX
+1 a&'    d
+2      //a
+#3  e
+x a
+b
+#2  e  a
+x c
+#2 eU a
+x cX
+#2 a&'    ///a
+x  e
+b
+#2  c&'d  //a
+x a
+#2  edd
+x  c
+#2  a&'   4
+x   d
+b
+#2  ad  /a
+xe
+#2     c
+x a
+#2d&'    a
+x e
+b
+
+b
+#2 d&'    4
+xi
+#2g&'
+x h
+#3 gU
+x hX
+2g
+b
+#2      4
+xg
+#2e&'
+x g
+#3 eU
+x gX
+2e
+b
+#2      4
+xe
+#2d&'
+x e
+2 d&'
+#3 e
+xd
+b
+#2      ///a
+x d
+#2 e
+x  e
+#2  c&'
+x e
+b
+#2 d&'    4
+x  e
+#2 ee  a
+x c
+#3 aU   /a
+x cX
+2  e
+b
+2 ae   d
+#3 eU
+x cX
+#3 aU
+x cX
+x a
+x  e
+#3  cU
+x  eX
+x  cU
+x  aX
+b
+
+b
+#2   d  //a
+x  c
+#2    c a
+x  c
+#2  e   //a
+x a
+b
+2  e  a
+#3 cU
+x aX
+#3  e
+x a
+x  eU
+x  cX
+#3  aU
+x  cX
+x  a
+x   d
+b
+#2   b  ///a
+x  a
+#2    a /a
+x  a
+#2  c"_   ///a
+x  e
+b
+#3 a   c
+x  eU
+x  c
+x  eX
+#3 aU
+x cX
+x a
+x  e
+#3  cU
+x  eX
+x  cU
+x  aX
+b
+#2   d  //a
+x  c
+#2    c
+x  c
+#3  eU
+x  c
+x  aX
+x   d
+b
+
+b
+#2  a   /a
+x    a
+#2   b
+x  a
+#3 a
+x  eU
+x  cX
+x  a
+b
+#2  c   a
+x    c
+#2   d
+x  c
+#3 cU   //a
+x aX
+x  eU
+x  cX
+b
+#2  e  a
+x c
+#2e     4
+x  e
+#2  c&'   //a
+xd
+b
+#2    a
+x  a
+#2 eU   ///a
+x aX
+#2  a  e
+x c
+b
+#2     c
+x   d
+#2 a    a
+x  c
+#2  eU a
+x  aX
+b
+#2      //a
+x  c
+#2   d
+x  c
+#2    c ///a
+x   d
+b
+#2  a   4
+x  e
+#2 c   a
+x  a
+#2   c a
+x  a
+b
+
+b
+#2   b  ///a
+x    a
+#2   b
+x  a
+#2   b  4
+x    a
+b
+#2  c  c
+x a
+#2b     ///a
+x a
+#2  c b
+x  a
+b
+#2   d  //a
+x    c
+#2   d
+x  c
+#2   d  ///a
+x    c
+b
+#2  a   4
+x  e
+#2 c   e
+x  a
+#2   d  //a
+x  c
+b
+#3  eU a
+x  cX
+2  a
+#2 c    4
+x  a
+#2   d  //a
+x  c
+b
+#3  eU a
+x  cX
+2  a
+#2e     4
+x c
+#2  e  a
+x c
+b
+#3 eU a
+x cX
+2 a
+#2c     4
+x c
+#2  e  a
+x c
+b
+
+b
+#3 eU   ///a
+x cX
+2 a
+#3 a
+x  e
+2  c
+#3  cU
+x  eX
+2 a
+b
+1. ccd  //a
+2   d
+#2  a   4
+x a
+b
+#2  eU  ///a
+x  cX
+1.  c&'d  //a
+2  a
+b
+#2  aU a
+x  eX
+#2 c    4
+x  a
+#2   d  //a
+x  c
+b
+#2  e  a
+x c
+#2e     4
+x  e
+#2  c&'   //a
+xd
+b
+2e    a
+#3 cU
+x aX
+#2  eU
+x  aX
+#2    c
+x     e
+b
+#2     a
+x    c
+#2   e
+x  e
+#2 c
+xd&'
+b
+1e"_
+2     a
+.
+b
+b
+P
+e

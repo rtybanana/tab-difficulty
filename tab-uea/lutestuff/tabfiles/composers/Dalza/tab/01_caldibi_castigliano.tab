@@ -1,0 +1,494 @@
+-C
+-t
+-f
+{1. Caldibi Castigliano/1. Caldibi Castigliano}
+b
+c
+0 bd a
+0 db c
+b
+0a b
+0    d
+b
+0a b d
+0 db c
+b
+0
+0 bd a
+b
+0aac
+0     a
+b
+#1 a
+x  d
+0aac
+b
+0     a
+0 bd a
+b
+0aac
+0     a
+b
+0 bd a
+0 db c
+b
+wa b d
+b
+0abb
+0 db c
+b
+0
+0 bd a
+b
+#1 acc
+x b
+#1 a
+x  d
+b
+
+b
+#1  c
+x  a
+0 acc
+b
+0 bd a
+0 db c
+b
+0a b
+0    d
+b
+0c da
+0dab
+b
+0   c
+#2   a
+xa
+xc
+xd
+b
+#1c
+xa
+#1 d
+x b
+b
+#1 a
+x  d
+#1  b
+x  a
+b
+0aab
+0     a
+b
+#1 a
+x  d
+0aac
+b
+0     a
+0  d
+b
+0aac
+0     a
+b
+
+b
+#2    a
+x a
+x b
+x d
+#1 b
+x a
+b
+#1  d
+x  b
+#1  a
+x   a
+b
+#1  a
+x  c
+0  d
+b
+0 ac  a
+0 bd a
+b
+0 db c
+0aab
+b
+0    d
+#1 db c
+x b
+b
+#1 d
+x b
+#1 a
+x  d
+b
+1 acc
+0  d
+1  c
+b
+#1    a
+x b
+#1  d
+x b
+b
+#1    c
+x d
+#1  b
+xa
+b
+
+b
+#1    d
+xa
+#1  d
+xc
+b
+#1  b
+xd
+#1   c
+xd
+b
+#2   a
+xa
+xc
+xd
+#1c
+xa
+b
+#1 d a
+x b
+0aac
+b
+0     a
+#1 a
+x  d
+b
+0aac
+0     a
+b
+0abd
+0aac
+b
+0     a
+#1  d
+x b
+b
+#1    a
+x b
+#1    c
+x d
+b
+#1  b
+xa
+#1    d
+xa
+b
+
+b
+#1    c
+x d
+#1  b
+x b
+b
+#1 a
+x  d
+0aac
+b
+#1     a
+x  a
+#1  c
+x  d
+b
+0aac
+0     a
+b
+0 bd a
+0 db c
+b
+0.a b d
+1    c
+b
+0a b d
+0 db c
+b
+0
+0 bd a
+b
+#1   c
+x ac
+#1  d
+x  c
+b
+#1    a
+x a
+0 bd
+b
+0aac
+0     a
+b
+0 bd
+0    a
+b
+0 db c
+0a b
+b
+
+b
+0    d
+0c da
+b
+0d b
+0   c
+b
+0a   d
+#1c  a
+xd
+b
+#1f
+xd
+#1c
+xa
+b
+#1 d a
+x b
+#1 a
+x  d
+b
+0aac
+0     a
+b
+0abd
+0aac
+b
+0     a
+#1 a
+x  d
+b
+0aac
+0     a
+b
+#2    a
+x a
+x b
+x d
+#1 b
+x a
+b
+#1  d
+x  c
+#1     c
+x  c
+b
+
+b
+#1  d
+x a
+#1 b
+x d
+b
+0aac
+0     a
+b
+#1 a
+x  d
+0aac
+b
+0 bd a
+0 db c
+b
+0a b
+#1    d
+xa
+b
+#1 db c
+x b
+0 acc
+b
+0
+0 bd a
+b
+#1   c
+x ac
+#1  d
+x  c
+b
+0 bd a
+0 db c
+b
+#1a b d
+x a
+#1 b
+x d
+b
+0a b d
+0 db c
+b
+#1 bd a
+x a
+#1  d
+x  c
+b
+
+b
+#1    a
+x  c
+#1  d
+x a
+b
+#1 b
+x d
+0a b
+b
+#1    d
+xc
+#1d
+xa
+b
+#1c  a
+xa
+0d bc
+b
+#1c  a
+xd
+#1c
+xa
+b
+#1 d
+x b
+#1 a
+x  d
+b
+0 ac
+#1     a
+x  a
+b
+#1  c
+x  d
+#1 a
+x  d
+b
+#1 a
+x  c
+#1  d
+x a
+b
+0 bd a
+0 db c
+b
+
+b
+0a b d
+#1 b
+xa
+b
+#1 db c
+x b
+#1 a
+x  d
+b
+0 ac  a
+0 bd a
+b
+0 ac  a
+#1  d
+x  c
+b
+#1  d a
+x a
+#1 b
+x  d
+b
+0 ac  a
+0 bd a
+b
+0 db c
+0 db c
+b
+#1 db c
+x b
+#1 a
+x  d
+b
+0 ac  a
+0 bd a
+b
+0 db c
+0a b
+b
+#1    d
+xa
+#1 db c
+x b
+b
+
+b
+#1 a
+x  d
+#1 ac  a
+x d
+b
+#1 b  a
+x a
+#1  d
+x  b
+b
+#1  da c
+x  a
+#1  c
+x  d
+b
+#1 ac  a
+x b
+#1 a
+x  d
+b
+#1 a
+x  c
+#1  d
+x a
+b
+#2    a
+x a
+x b
+x d
+#1 b
+x d
+b
+#1 b  a
+x a
+#1  d
+x  b
+b
+#1  aa
+x  c
+#1  d
+x  a
+b
+#1  c
+x  d
+#1 a
+x  d
+b
+
+b
+0 ac  a
+0 bd a
+b
+0 db c
+0a b d
+b
+0 bd a
+0 db c
+b
+0
+0 bd a
+b
+1 ac  a
+0  d
+1  c
+b
+Yabdca
+b
+b
+
+e

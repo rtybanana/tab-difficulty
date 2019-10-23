@@ -1,0 +1,336 @@
+-C
+-t
+-f
+{90. Fantasia 5/90. Fantasia 5}
+b
+c
+wd
+b
+0 b
+0d
+b
+1 b
+1b
+1a
+#2 d
+x b
+b
+0 db
+0 b
+b
+1a
+1 a
+1  d
+#2  b
+x   d
+b
+0d  c
+0a b
+b
+1d  c
+1  a
+1  b
+1b d
+b
+1 df
+1 b
+0bd
+b
+0  d
+0ab
+b
+1 dff
+#2  d
+x  f
+1  g
+1  f
+b
+
+b
+0ab  d
+0  b
+b
+1a   d
+1   d
+1   c
+#2   a
+x    d
+b
+0 d a d
+0  b d
+b
+1   c
+1    c
+1  d a
+#2     d
+x     b
+b
+0 ab  a
+0   c d
+b
+1 ab  a
+1     c
+1     d
+1 b ca
+b
+1 d ac
+1    d
+0    f
+b
+0 b ca
+0    d
+b
+0 d a
+0    c
+b
+0a b d
+0d
+b
+0b d
+0ab
+b
+
+b
+0 dfa
+1  d
+1 b
+b
+0 abc
+0   f
+b
+0  d
+0   e
+b
+0 ab
+1 d
+1   d
+b
+1   a
+1 b c
+1  dd
+1 ab
+b
+1 bd
+1  f
+0 fg
+b
+1. d f d
+2  d
+#2  f
+x  d
+x   f
+x   d
+b
+0 b ca
+1a   d
+1  a
+b
+1  b
+1  d
+0 db c
+b
+1.a b d
+2b
+1d
+#2b
+xa
+b
+
+b
+1 db c
+#2   d
+x   c
+#2   a
+x    d
+x   a
+x   c
+b
+1 bdda
+#2   c
+x   a
+1   c
+1   d
+b
+1 d ab
+1   c
+1   d
+1  b
+b
+1  dca
+1 a
+1 bdd b
+1   c
+b
+1 bba d
+1    d
+0 aba d
+b
+0 bb d
+0  dd
+b
+0  bc
+0 b  d
+b
+0 ab
+0  bc
+b
+0 d a
+1   d
+#2 b
+x a
+b
+1  d
+1 a
+0 b c
+b
+0   a
+0ba
+b
+
+b
+0ab  d
+0 b
+b
+0da
+1  b
+#2b
+xa
+b
+1 d
+1a
+1b
+#2 b
+x a
+b
+1  d
+1 a
+0ab
+b
+0 df
+1 bdd
+1 d
+b
+1a bc
+1c
+1d   d
+#2b d
+xa
+b
+1 dff
+1 c
+1 d a
+#2 b c
+x a
+b
+1.  dd
+2 a
+#2 b
+x d
+xa
+xc
+b
+
+b
+1db cd
+1   d
+1  b
+#2   d
+x   c
+b
+1dd ac
+#2b
+xa
+1 dff d
+1a
+b
+1bdda
+1d
+1f
+1    d
+b
+1 bd a
+1d
+1a
+1    c
+b
+1abb d
+1bd
+1df
+1 a a
+b
+1  bc
+1bddd
+1 dff
+1a
+b
+1bdda
+1  bc
+1  dd
+1 ab
+b
+1abd a
+1    c
+1   cd
+1  a
+b
+1  b
+1 d  c
+1 a   d
+1 b da
+b
+
+b
+1 d ab
+1   c
+1   d
+1 b  a
+b
+1  dd b
+1 a   d
+1 b  a
+1 d  c
+b
+1a bcd
+1  a
+1  b
+1  d
+b
+1 ab c
+1 c
+1 d
+1   d
+b
+1  bcd
+1 b
+0 bdd b
+b
+1  ba d
+#2 a
+x  d
+1 b
+1 a
+b
+0 bb d
+0   c
+b
+0  dd
+1 b
+#2   c
+x   a
+b
+1 bbcd
+1    c
+1    a
+1     d
+b
+0 bdd b
+1  b
+1   d
+b
+
+b
+Y bbcd
+b
+b
+
+e

@@ -1,0 +1,233 @@
+-C
+-t
+-f
+{Poor Tom of Bedlam/Poor Tom of Bedlam}
+b
+c
+1a
+b
+1d"xa c
+1c"#  a
+1a b d
+1  d
+b
+1 ea c
+1      /a
+1    c
+1 a  {}
+b
+1 d  c{
+1  b   }
+1 b"#  a
+#2 a
+x  d
+b
+1 a   d
+0  b"#  {
+1 a    }
+b
+1 d   d
+1 a   {}
+1a   d
+1 d  c
+b
+1d  c
+1a b d
+1.ha    /a
+2 a
+b
+#2 c"#  a
+x d
+1aab  a
+1da  c&{
+1c"#
+b
+
+b
+1aac  a
+1   c
+1     a
+#2a
+xc
+b
+b
+#2d  c&{
+x a  }
+xc  a
+x d
+#2a b d&{
+x  a
+x  b
+x  d }
+b
+1 e"xa c
+1 a"#
+1      /a
+#2 a
+x c
+b
+#2 d  c{
+x  b
+x  d
+x a
+2 b"#  a
+#3 d
+x b
+#2 a"#
+x  d
+b
+1 a   d
+1  b"#
+1     d&{
+#2 a
+x c    }
+b
+1 d   d
+1 a   {
+#2a     }
+x    d
+x d
+x {  c
+b
+
+b
+#2d  c{
+xc    }
+xa b d{
+x  d   }
+1.ha    /a
+2 a
+b
+#2 c  a
+x d
+xaab  a
+x  d
+#2    c
+xaaa
+x e    /a
+x  d
+b
+#2     a
+xaac
+x   c
+x  d
+0aac"#  a
+b
+b
+1 dba d
+#2 d   {
+x d    }
+1 d   d
+#2a    {
+xc     }
+b
+1da   d
+#2 a   {
+x b
+1 d   d&{
+1  b   }
+b
+1 db c
+#2 b  d{
+x a    }
+#2  da
+x  b
+x  d{
+x b  }
+b
+1 a"#   d
+1  b
+0ha    /a
+b
+
+b
+1c"#  a
+1 d
+1f  e
+#2   a
+xc
+b
+#2a    a
+xc
+xd
+xf
+1c"#aa c
+1 a
+b
+#2 c  a
+x d
+1aab  a
+1da  c{
+1c"#     }
+b
+1aac  a
+1   c
+0     a
+b
+b
+1 dba d
+#2 d   {
+x d    }
+1 d   d&{
+#2a
+xc     }
+b
+1da   d&{
+#2 a
+x b    }
+#2 d   d
+x  b  {
+x a
+x b    }
+b
+#2 d  c{
+x  b   }
+x b"#  d{
+x a    }
+#2  da
+x  b
+x  d{
+x b  }
+b
+
+b
+1 a"#   d
+1  b {}
+1ha    /a
+#2f
+xd
+b
+#2c
+x   a
+xc
+x d
+#2f
+x   e
+x   a
+xc
+b
+#2a    a
+xc
+xd
+xf
+1c"#aa c
+#2 a
+x     d
+b
+#2 c  a
+x d
+xaab  a
+x  d
+1da  c{
+#2c"#
+x  d   }
+b
+#2     a
+xaac
+x   c
+x  d
+Yaaccca
+b
+b
+
+e

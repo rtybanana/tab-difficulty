@@ -1,0 +1,101 @@
+-C
+-t
+-f
+{Good Christian Men, Rejoice/Good Christian Men, Rejoice}
+b
+2 aabc
+b
+#2 a b e
+x     c
+x aa  a
+#2 ea   b
+x      /a
+xaac  a
+b
+1cef c
+2ef   a
+1ce  c
+2cea   /a
+b
+#2 a b e
+x     c
+x aa  a
+#2 ea   b
+x      /a
+xaac  a
+b
+
+b
+1cce  c
+2ec de
+1ccee
+2
+b
+#2caabc
+x      /a
+xea   a
+#2caabc
+x      /a
+xaca b
+b
+1 ea c
+2 ce  c
+1 a b e
+2 aab
+b
+1 ccc
+2 cc  a
+1 ea  c
+2 ca b
+b
+
+b
+1 a b e
+2 ca b
+1 ea c
+2
+b
+#2caab
+x    c
+xea c
+#2caab
+x    c
+xaca b
+b
+1 ea c
+2 ca  c
+1 a b e
+2 aa   b
+b
+1 cc  a
+2 ccc
+1 ea  c
+2 ca b
+b
+
+b
+1 a b e
+2 ca b
+1 ea c
+2
+b
+1  ccca
+2  c   /c
+1  eeec
+2  eee
+b
+1. a b e
+1.cca b
+b
+1 ea c
+2 efg e
+1 ccc a
+#3 cee c
+x   c
+b
+1. aabc
+1      /a
+b
+b
+
+e

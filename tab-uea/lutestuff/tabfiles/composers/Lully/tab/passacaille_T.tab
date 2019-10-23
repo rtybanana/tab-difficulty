@@ -1,0 +1,470 @@
+-C
+-t
+-f
+{Passacaille/Passacaille}
+b
+w.aabcca
+b
+0cdda
+w a
+b
+0aa  d
+w  d
+b
+0a b c
+w ea   /a
+b
+w.aabc
+b
+0c da
+w a
+b
+0aa  d
+w  d
+b
+0a b c
+w ea   /a
+b
+w. abc a
+b
+0 baa  a
+w a
+b
+0aa    /b
+w  d
+b
+
+b
+0aaa   /a
+w e
+b
+w.aab  a
+b
+0cdd   a
+w a
+b
+0aa    /b
+w  d
+b
+0aaa   /a
+w ea c
+b
+0     a
+waabc
+b
+0c da
+w a
+b
+0aa  d
+w  d
+b
+0aaa c
+w e    /a
+b
+0     a
+waabc
+b
+0c da
+0 a
+0   a
+b
+
+b
+0aa  d
+0  d
+0    d
+b
+0aaa c
+0 e    /a
+0  d
+b
+0aabcca
+0
+0
+b
+w.
+b
+0
+0aabc
+0aabc
+b
+0 dde
+0fd e
+0c de
+b
+#1aab
+x  a
+#1   c
+x  a
+#1  b
+x  d
+b
+0cef
+w    c
+b
+0aabc
+0     a
+0     a
+b
+
+b
+0 dd  c
+0 bd  c
+0 dd  c
+b
+#1 aba d
+x     c
+#1     a
+x     c
+#1 aba d
+x    a
+b
+0 da c
+w da   /a
+b
+0 dc  a
+0 bdc
+0 bdc
+b
+0 baa
+0 a
+0 ab
+b
+0 a cd
+0.  dcd
+1  dcd
+b
+0 aacc
+w   b  /a
+b
+0 abc a
+0
+0
+b
+w.
+b
+
+b
+0aabcca
+0aabc
+0aabc
+b
+0caaa
+0caaa
+0caaa
+b
+0aadcd
+0aadcd
+0a dcd
+b
+0 ea c
+0 ea c
+0 ea c
+b
+0aab  a
+0aabc
+0aabc
+b
+0cdda
+0caaa
+0caaa
+b
+0aadcd
+0aadcd
+0aadcd
+b
+0aab c
+0 ea c
+0 ea c
+b
+0aab  a
+0aa   d
+0aab  a
+b
+
+b
+0cdda  a
+0 dd ac
+0cdd   a
+b
+0ab  d
+0abac
+0aab
+b
+0cef c
+0 aabc
+0 aabc
+b
+0aabc a
+0aa   d
+0aabc a
+b
+0cdda  a
+0 dd  c
+0cdd   a
+b
+0ab  d
+0abac
+0aab
+b
+#1cef c
+x
+#1aa   d
+x     a
+#1 ea c
+x      /a
+b
+#1aab  a
+x   c
+0aabc
+0aabc
+b
+
+b
+0cdda
+0 dbac
+#1 dbac
+x
+b
+0aab d
+0a dcd
+#1a dcd
+x
+b
+0aab c
+0 ea c
+0 ea   /a
+b
+0aabc a
+0aabc
+0aabc
+b
+0cdda
+0 db c
+0 abac
+b
+0aab d
+0abd d
+0abd d
+b
+0aaa c
+0 ea c
+0 ea c /a
+b
+0aab  a
+0dabc
+0aab c
+b
+
+b
+wcdda
+#1cdd a
+x
+b
+wa b d
+0aab  d
+b
+0 ea c
+w ea   /a
+b
+0aab  a
+0     a
+0aa   d
+b
+0 da c
+0 daa
+0 dc d
+b
+0 bdca
+wa d d
+b
+0aab  d
+0aaa c
+0 ea   /a
+b
+0aab  a
+0.aabc
+1aabc
+b
+0 bab
+0. aaa
+1 aaa
+b
+
+b
+0aa  e
+0.a d d
+1a d d
+b
+0da  c
+wce    /a
+b
+0aab  a
+0.aabc
+1aabc
+b
+0 aab
+0. aaa
+1 aaa
+b
+0aa  e
+0.a d d
+1a d d
+b
+0aaa c
+w ea   /a
+b
+0aabcca
+0
+0
+b
+w.
+b
+0
+#1 da c
+x
+#1 aaac
+x
+b
+
+b
+0aacc
+0abd a
+0a d d
+b
+0 bda
+0 aba d
+0 db cd
+b
+0aab d
+wa d e
+b
+0cdda
+0 da c
+0da c
+b
+0a d d
+0cdda
+0      a
+b
+0da a d
+0
+0
+b
+w.
+b
+0
+0da c
+0aabc
+b
+0abd
+0f de
+0c d
+b
+
+b
+0ce  c
+0.ce  a
+1  d
+b
+#1aab  d
+x   c
+0cef c
+0      /a
+b
+0aabc
+0aab  a
+0aa   d
+b
+0abd a
+0 bd  c
+#1ab  a
+x     c
+b
+w efec
+0 efea
+b
+0aaa  d
+0 ea c
+0      /a
+b
+0aab  a
+0.aabc
+1   c
+b
+0 bab
+0. aaa
+1   a
+b
+
+b
+0aa  e
+0.a dcd
+1    d
+b
+0 a bc
+0 ea c
+#1ca b
+x    c
+b
+0da c
+0da c
+0aabc
+b
+0 aab
+0 aaa
+0 aaa
+b
+0aa  e
+0a d d
+0a d d
+b
+0aaa c
+w ea   /a
+b
+0aab  a
+0. abc
+1 bbc
+b
+0 bab
+0. aaa
+1   a
+b
+0aa  e
+0.a d d
+1a d d
+b
+
+b
+#1 ea c
+x    a
+#1    c
+x    e
+#1 aab
+x    c
+b
+#1aabc
+x   b
+#1da c
+x  a
+#1aab
+x   c
+b
+#1 aab
+x    e
+#1 aaa
+x   c
+#1   a
+x   c
+b
+0abb d
+wabd a
+b
+0aaa c
+w ea   /a
+b
+Y.aabcca
+b
+b
+
+e

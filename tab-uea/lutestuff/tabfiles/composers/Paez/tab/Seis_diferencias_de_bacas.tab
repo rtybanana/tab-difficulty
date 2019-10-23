@@ -1,0 +1,537 @@
+-C
+-t
+-f
+{Seis diferencias de bacas/Seis diferencias de bacas}
+b
+2dab  d
+#3   c
+x  a
+#3  b
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xd
+b
+#3c  a
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+#3 d
+x b
+x a
+x  d
+b
+2dabc
+#3   c
+x  a
+#3  b
+x  d
+2ca  c
+#3a   d
+xd
+xc
+xa
+b
+
+b
+#3 ea c
+xa
+xc
+xd
+#3c
+xa
+x e
+x c
+#2 ea c
+x    a
+b
+2dab  d
+#3a
+xc
+#3d
+xc
+xa
+x d
+#3 b
+x a
+x  d
+x  b
+b
+2  aa
+#3f
+xd
+#3c
+xa
+x d
+x b
+#3 a
+x  d
+x  b
+x  a
+b
+#3aabc
+x  a
+x  b
+x  a
+#3   c
+x   a
+2a  cd
+#2aaa c
+x e
+b
+
+b
+1aacc a
+#2a
+x     a
+1aacc a
+b
+b
+2dab  d
+#3c
+xa
+#3 d
+x b
+x a
+x  d
+#3  b
+x  d
+x a
+x c
+b
+#3 d a
+x c
+x a
+x  d
+#3 a
+x c
+x d
+xa
+#3c
+xd
+xf
+xc
+b
+
+b
+2da c
+#3   c
+x  a
+#3  b
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xd
+b
+#2ca  c
+xa
+#2 e
+x c
+#2 e  c
+x    a
+b
+2dab  d
+#3 d
+x b
+#3 a
+x  d
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+2c  a
+#3    c
+x    d
+#3   a
+x   c
+x  a
+x  b
+#2c da
+x  a
+b
+
+b
+2da c
+#3f
+xd
+#3c
+xa
+x d
+x c
+#3 ea c
+xa
+xc
+x e
+b
+#3aacc a
+x     c
+x     e
+x    a
+#3    c
+x    a
+x     e
+x     c
+#2aacc
+x     a
+b
+b
+#3h
+xf
+xd
+xc
+#3a
+x d
+x b
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+
+b
+#3cd a
+x   c
+x  a
+x  b
+#3  d
+x a
+x c
+x d
+#3a
+x d
+xa
+xc
+b
+2da c
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+#3d
+xc
+xd
+xf
+b
+2ha   h
+#3f
+xd
+#3c"_
+xa
+x d
+x c
+#2 ea c
+x    a
+b
+#2hd f d
+xf
+#2dd   d
+xf
+#2hd f d
+xd
+b
+#2fh a
+xdf
+#2cd
+xac
+#2cd a
+x    c
+b
+
+b
+#3da c
+xc
+xa
+x d
+#3 cd a
+x d
+2aa   d
+#2  a a
+x e  c
+b
+2a  c a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+1aacc a
+b
+b
+2 a   d
+#3  b
+x  d
+#3 a
+x b
+2 d
+#3 a
+x c
+x d
+xa
+b
+2cdda
+#3 d
+xa
+#3c
+xd
+2f
+2   a
+#3d
+xc
+b
+
+b
+#2da c
+x     a
+#2da   d
+xcd a
+#3a bc a
+x     c
+x     d
+x    a
+b
+#3 ea c
+xa
+xc
+xd
+#3c
+xa
+x d
+x c
+#2 ea c
+x    a
+b
+2 a   d
+#3  b
+x  d
+#3 a
+x b
+2 d
+#3 a   d
+x c
+x d
+xa
+b
+2cdda
+#3 d
+xa
+#3c
+xd
+2f
+2   a
+#3d
+xc
+b
+
+b
+#2da c
+x     a
+2da   d
+#3c   a
+xa
+#3 ea c
+xa
+xc
+x e
+b
+2aa c a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+1aac  a
+b
+b
+2.hi f
+3f
+#3h
+xi
+2h
+2   f
+#3f
+x i
+b
+2.fh  f
+3 f
+#3 h
+x i
+2f
+#3    f
+x i
+xf
+xh
+b
+#2if h
+x   h
+#3  f
+xh
+2ha f
+#2 fg
+xf
+b
+
+b
+2hhk  h
+#3 l
+x k
+#3 h
+x  l
+x  k
+x  h
+#2hh k h
+x   k
+b
+#2l i
+x   l
+#2l  k
+xi  h
+2h  f
+#3f
+x i
+b
+#2fh  f
+x f
+#2f i
+x  h
+#2fhi
+xhf f
+b
+#2if h
+xhf f
+#2ffd
+xdf f
+#2c f
+x e
+b
+#3aa c
+x   b
+x   c
+x   e
+#3   c
+x  a
+x  b
+x  a
+#3  d
+x a
+2  d
+b
+b
+
+b
+#3dab
+x  d
+x a
+x  d
+#3  b
+x  a
+x   c
+x   a
+#3da c
+x  d
+x a
+x c
+b
+#3cd a
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+#3 d
+x b
+x a
+x  d
+b
+#3aa c
+x  a
+x  b
+x  d
+#3 a
+x   a
+x    d
+x    c
+#3abb d
+x  a
+x  b
+x  d
+b
+#2ca  c
+x   c
+#2   b
+x    e
+#2ca  c
+x   b
+b
+
+b
+#3d  c a
+xc
+xd
+x     c
+#3     d
+xc
+xa
+x d
+#3 c
+x a
+x  d
+x  b
+b
+#3  aa
+x   c
+x  a
+x  b
+#3  d
+x a
+x c
+x d
+#3a
+x d
+xa
+xc
+b
+2da c
+#3c
+xd
+#3f   a
+xd
+xc
+xa
+b
+#3 ea c
+xa
+x c
+x e
+b
+2aac  a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+Yaacc a
+b
+b
+
+e

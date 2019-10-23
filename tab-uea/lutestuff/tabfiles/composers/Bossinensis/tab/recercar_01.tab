@@ -1,0 +1,141 @@
+-C
+-t
+-f
+{Recercar primo/Recercar primo}
+b
+c
+#2a  c
+x   a
+x    d
+x    c
+1 b  a
+#3 d
+x b
+x a
+x  d
+b
+#2 b  a
+x a
+x b
+x d
+#2ab  a
+x    c
+x    d
+x   a
+b
+
+b
+#2a b d
+xc
+xd
+xc
+#2a
+x d
+x b
+x a
+b
+#2 bd a
+x    c
+x    d
+x   a
+#2   c
+x  a
+x  b
+x  a
+b
+#2a b
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+xa
+b
+
+b
+#2c  a
+xd
+xf
+xd
+#2c  a
+xa
+x d
+x b
+b
+#2 abc
+x   a
+x    d
+x    c
+#2    a
+x     d
+x     c
+x     a
+b
+#2 b  a
+x d
+#3a
+x d
+x b
+x a
+1 bd a
+#3 a
+x b
+x d
+xa
+b
+
+b
+1b da
+#2d
+xb
+#2d
+xb
+xa
+x d
+b
+1b  a
+#2   c
+x   a
+#2   c
+x   a
+x    d
+x    c
+b
+1f d a
+#2d
+xb
+#2d
+xb
+xa
+x d
+b
+1b da
+#2d
+xb
+#2d
+xb
+xa
+x d
+b
+
+b
+#2a   a
+x    c
+x    d
+x    a
+#2b da
+x   c
+x   d
+x   c
+b
+1b  a
+#3d
+xb
+xa
+x d
+wac  a
+b
+b
+
+e

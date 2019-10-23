@@ -1,0 +1,318 @@
+-C
+-t
+-f
+b
+c
+2  a
+b
+.
+3  ab&Uc 6
+2.  bc&X
+1      //a
+2.     a
+3  bc
+1  a&'bac
+b
+2.  a  d
+3  a
+2.    c
+3   c
+2.    ac
+3   a
+2.     dc
+3    d
+b
+2.      6
+3     d
+2.     ca
+3    c
+2.     a/a
+3    c
+1    a 5
+b
+2.    c 4
+3    c
+2.   c
+3    c
+1 a/ c/ e
+2.   c
+3 a
+b
+3 a    ///a
+#2.   c
+2.     a
+3 a
+1 b"_   c
+2.    a
+3 b
+b
+
+b
+3 b    //a
+#2.   b
+2.     c
+3   c
+1   "+c&' d
+2    e
+#3   b
+x   c
+b
+1  a   b
+2.     c
+3  b
+2  a c
+#3  b
+x  d
+2.  b&'   //a
+3  a
+b
+1  b"_  a
+2.   c&'c
+3 e
+1 f"_  d
+2.     a
+3a
+b
+3a    c
+#2.  d
+2.    a
+3 d
+1 "+d&'   d
+#2      a
+x b
+b
+1 "+a&'   d
+1    c
+2.   c
+3a
+2 d c d
+#3 b
+x a
+b
+1  "+d  c
+2.   c
+3 a
+#3 b b
+x a
+2  d
+2.  b&'  c
+3  a
+b
+
+b
+1  b"_  a
+2.      6
+3  d
+2. a
+3     a
+2.      a
+3  a
+b
+1 a c&'  /a
+2.    d
+3  c
+2.  dc
+3    d
+2.      /a
+3   c
+b
+1   b  //a
+#3
+x  b
+x  a
+x  b
+1.  "+b&'c
+2  a
+b
+A1
+1  a
+2.   b
+3    e
+2.  abc
+3      ///a
+2.      4
+3      5
+.
+b
+b
+.
+1  a
+2.   b
+3    e
+1.  abc
+2  a
+b
+#2  a bU
+x    cX
+2.   b
+3  a
+1  b"_   //a
+2.    c
+3   a
+b
+1    d&'f
+2.      ///a
+3  b
+1   d
+2.   c
+3   d
+b
+
+b
+2.   c&' e
+3    c
+2.   c
+3 a
+1 acc a
+2.   c
+3 a
+b
+2. bdc  ///a
+3   c
+2.  d
+3 b
+1 b&'a   a
+2. a a
+3 b
+b
+2.     d
+3 a
+2.   c
+3 a
+2. f
+3   c
+2.     a
+3  f
+b
+1  e  c
+2.    e
+3 c
+2.   a
+3 c
+2  a
+#3    c
+x a
+b
+1   "+c&'cc
+2.    b
+3  a
+1   ac
+2.     a
+3  b
+b
+3  b  c
+#2.    e
+2.      6
+3   a
+1    "+d&' 5
+#2    bc
+x    c
+b
+
+b
+#2      4
+x    c
+2.      //a
+3   c
+1   "+a&'ce
+#2     a
+x    c
+b
+1    d ///a
+2.    aa
+3   "+a&'
+1   "+a&' c
+#2      5
+x    d
+b
+1    "+c&' 4
+2.      a
+3  a
+2  aU a
+2  bX
+2.      6
+3  b
+b
+3  d   /a
+2.  b
+#4  a
+x  b
+2.   c
+3  d
+1  "+d&' e
+2.    a
+3   f
+b
+1   e&'  a
+2.   a&' c
+3 c
+2 cU c
+2 dX
+2.      //a
+3 d
+b
+2. d    b
+3 b
+2. a   c
+3  d
+1  b&' c
+2      //a
+#3  d
+x  a
+b
+
+b
+#2  aU a
+x  bX
+2.   c&'  6
+3c
+2.da
+3     a
+2.      a
+3c
+b
+1a&'     /a
+2.    d
+3 a
+1  d
+2.      /a
+3c
+b
+1 e&'    //a
+2.    c
+3  a
+2.  b
+3 a
+2.  a
+3 d
+b
+2.   b
+3  a
+2.    c
+3  a
+2.  b
+3   b
+2.   c
+3  b
+b
+1  ac  ///a
+2    a
+#3  b
+x   c
+1   "+c&'c
+#2      //a
+x   b
+b
+1   c a
+1      6
+1      //a
+#2      b
+x   c
+b
+1   ccdc
+0
+.
+b
+b
+P
+e

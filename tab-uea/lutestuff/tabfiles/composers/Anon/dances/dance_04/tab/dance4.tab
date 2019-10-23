@@ -1,0 +1,355 @@
+-C
+-t
+-f
+{Dance 4/Dance 4}
+b
+S3
+0
+1 dda
+b
+1f  a
+#2      a
+xd
+#2c
+xa
+b
+1 dda
+1      a
+1 dda
+b
+1f  a
+#2      a
+xd
+#2c
+xa
+b
+1 dda
+1      a
+1 dda
+b
+#2    a
+x a
+#2 c
+x d
+1acd
+b
+#2    a
+x a
+#2 c
+x d
+1acd
+b
+#2   a
+xa
+#2c
+xd
+1c da
+b
+
+b
+1 dda
+1      a
+1 dda
+b
+#2    a
+x a
+#2 c
+x d
+1acd
+b
+#2    a
+x a
+#2 c
+x d
+1acd
+b
+#2   a
+xa
+#2c
+xd
+1c da
+b
+1 dda
+1      a
+1 dda
+b
+1f  a
+#2      a
+xd
+#2c
+xa
+b
+1c da
+#2d
+xc
+#2a
+x d
+b
+#2    a
+x a
+#2 c
+x d
+#2a
+x c
+b
+
+b
+1 dda
+1      a
+1 dda
+b
+1 dda
+1      a
+1 dda
+b
+#2    a
+x a
+#2 c
+x d
+1acd
+b
+1.c da
+2a
+1 dda
+b
+#2    a
+x a
+#2 c
+x d
+1acd
+b
+1.c da
+2a
+1 dda
+b
+1f  a
+#2      a
+xd
+#2c
+xa
+b
+1c da
+#2d
+xc
+#2a
+x d
+b
+#2    a
+x a
+#2 c
+x d
+#2a
+x c
+b
+
+b
+1 dda
+1      a
+1 dda
+b
+#2 c
+x a
+#2  d
+x  b
+#2  a
+x   c
+b
+1 dda
+1      a
+1 dda
+b
+1f  a
+1      a
+1f  a
+b
+1l  a
+1      a
+1l  a
+b
+1f  a
+#2      a
+xd
+#2c
+xa
+b
+1 dda
+1      a
+1 dda
+b
+1f  a
+1      a
+1f  a
+b
+1l  a
+1      a
+1l  a
+b
+1f  a
+#2      a
+xd
+#2c
+xa
+b
+
+b
+1 dda
+1      a
+1 dda
+b
+1acd
+1    a
+1acd
+b
+1acd
+1    a
+1acd
+b
+1f  a
+#2      a
+xd
+#2c
+xa
+b
+1 dda
+1      a
+1 dda
+b
+1acd
+1    a
+1acd
+b
+1acd
+#2a
+xc
+#2d
+xa
+b
+1f  a
+#2      a
+xd
+#2c
+xa
+b
+1 dda
+1      a
+1 dda
+b
+
+b
+1f  a
+#2      a
+xd
+#2c
+xa
+b
+1c da
+#2d
+xc
+#2a
+x d
+b
+#2    a
+x a
+#2 c
+x d
+#2a
+x c
+b
+1 dda
+1      a
+1 dda
+b
+#2 c
+x a
+#2  d
+x  b
+#2  a
+x   c
+b
+1 dda
+1      a
+1 dda
+b
+#2acd a
+xa
+#2a
+xa
+1acd
+b
+#2acd a
+xa
+#2a
+xa
+1acd
+b
+
+b
+#2cdda
+xc
+#2c
+xc
+1cdd   a
+b
+1 dda
+1      a
+1 dda
+b
+#2acd a
+xa
+#2a
+xa
+1acd
+b
+#2acd a
+xa
+#2a
+xa
+1acd
+b
+#2cdda
+xc
+#2c
+xc
+1cdd   a
+b
+1 dda
+1      a
+1 dda
+b
+1f  a
+#2      a
+xd
+#2c
+xa
+b
+1c da
+#2d
+xc
+#2a
+x d
+b
+
+b
+#2 c
+x a
+#2  d
+x  b
+#2  a
+x   c
+b
+1 dda
+1      a
+1 dda
+b
+#2 c
+x a
+#2  d
+x  b
+#2  a
+x   c
+b
+0 ddaa a
+b
+b
+
+e

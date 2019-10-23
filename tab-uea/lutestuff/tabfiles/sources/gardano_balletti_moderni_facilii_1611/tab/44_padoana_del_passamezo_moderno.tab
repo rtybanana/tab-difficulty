@@ -1,0 +1,219 @@
+-C
+-t
+-f
+{44. Padoana del passamezo moderno/44. Padoana del passamezo moderno}
+b
+2aac  a
+b
+#2aac  a
+x  d
+#2 a
+x c  a
+#2 a   e
+x  d  c
+b
+#2 ac  a
+x   c
+#2  d  c
+x   b
+#2 a   e
+x   c
+b
+#2 cd a
+x  d e
+#2 a a
+x  d
+#2 adc
+x  c
+b
+#2 cd a
+x a   e
+#2 cd a
+xa
+#2aaa c
+x e
+b
+#2aac  a
+xc
+#2e
+xf
+#2h    a
+x  a
+b
+
+b
+#2  c  a
+x  d
+#2 a
+x     e
+#2a   e
+x  e
+b
+#2 efec
+x f
+#2c
+x    c
+#2a   e
+x  e
+b
+#3 efec
+x c
+x e
+x f
+#3c
+x f
+x e
+x c
+#3 a
+x  d
+x  c
+x  a
+b
+2  c  a
+#3  a
+x  c
+#3  d
+x a
+2 cd a
+#3 a
+x  d
+x  c
+x  a
+b
+
+b
+2aac  a
+#3   c
+x  a
+#3 acc
+x  d
+x a
+x  d
+#3 acc
+x  a
+x  d
+x  c
+b
+#2acd a
+x   c
+#3 dda
+x c
+x a
+x  d
+#3aacc
+x  d
+x  a
+x  c
+b
+#3 cd a
+x a
+x c
+x e
+#2a   e
+xacd a
+#2aaa c
+x e
+b
+#3aac  a
+x e
+xa
+xc
+#3ea c
+xc
+xa
+x e
+#3a   e
+xe
+xc
+xa
+b
+
+b
+#3 ea c
+xa
+xc
+xe
+#3c   c
+xa
+x e
+x c
+#3 a  c
+x  d
+x  c
+x  a
+b
+#2  c  a
+x a
+#2  d  c
+x a   e
+2 cd a
+#3 a
+x  d
+b
+2 ac  a
+#3   c
+x  a
+#2  c
+x  d  c
+#2 a   e
+x cd a
+b
+#2 ea c
+x  a
+#2 ea c
+xca  c
+#2a   e
+x  e
+b
+#2 ea c
+xa
+#2c
+xaacc
+#2acd a
+x  c
+b
+#2 ea c
+xa
+#2c
+xe  c
+#2a   e
+x  e
+b
+
+b
+#2 ea c
+xc
+#2h
+xe  c
+#2fcd a
+xca bc
+b
+#2ea c a
+x   c
+#2ca bc
+x ea c
+#2a   e
+x  e
+b
+#2 ea c
+xc
+#2a   e
+xacd a
+#2aaa c
+x e
+b
+2aac  a
+#3   c
+x  a
+#2  c
+x  d  c
+#2 a   e
+x cd a
+b
+1aac  a
+1   c
+Yaac
+b
+b
+
+e

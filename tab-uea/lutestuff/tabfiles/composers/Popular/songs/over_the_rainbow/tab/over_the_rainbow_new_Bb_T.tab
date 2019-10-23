@@ -1,0 +1,285 @@
+-C
+-t
+-f
+{/Music:  Harold Arlen  Lyrics:  E.Y. Harburg}
+b
+C
+#2 ad   4
+x   a
+x db
+x   a
+#2 ad
+x   a
+x db
+x   a
+b
+#2 bdf  ///a
+x   a
+x dgf
+x   a
+#2 bdf  a
+x   a
+x dge
+b
+.
+#2 ad  d
+x   a
+x db
+x     c
+#2 ab  a
+x    c
+x a c
+x    c
+b
+
+b
+#2  ac  //a
+x    c
+x  aa
+x    c
+#2  dd  4
+x    c
+x a d
+x     d
+b
+#2   cf /a
+x     d
+x   cd
+x      //a
+#2 b c  ///a
+x    d
+x    a
+x      a
+b
+#2 aa  d
+x   a
+x    c
+x     d
+#2 a d  4
+x   a
+x    c
+x     d
+b
+#2  b   /a
+x   c
+x    d
+x     d
+#2  b   /a
+x   b
+x    d
+x     d
+b
+
+b
+#2  b   4
+x   a
+x    c
+x      4
+#2  c   6
+x   a
+x    c
+x     a
+b
+#2   ce /b
+x    a
+x  b e ///a
+x    a
+#2  a   a
+x    d
+1 aa d a
+b
+A1
+1 a a  4
+#2  b  a
+x    c
+1   ccd/a
+1  a dfa
+.
+b
+b
+A2
+#2 ab   4
+x   a
+x  b   //a
+x   a
+#2  dfd ///a
+x    a
+1  a dfa
+b
+1  b c 4
+1     d
+1  ba  //a
+1     d
+b
+1   cd ///a
+1     d
+1  d  c
+1   a
+b
+
+b
+0 a cfd4
+#2  b   //a
+x   a
+x     d
+x   a
+b
+#2   c  /a
+x    d
+x    a
+x    d
+0  a dfa
+b
+1  b c 4
+1     d
+1  ba  //a
+1     d
+b
+1  ac c
+1    b
+1  ac  4
+1    b
+b
+#2  a   //a
+x   a
+x    c
+x   a
+#2  a   ///a
+x    e
+x    a
+x    e
+b
+
+b
+#2   cd ///a
+x    a
+x     a
+x    a
+#2   cf a
+x    a
+x  aab
+b
+b
+#2 a   d
+x  b
+x   a
+x     c
+#2 a   a
+x  b
+x   c
+x    c
+b
+#2 a    //a
+x  a
+x   a
+x    c
+#2  dd  4
+x    c
+x a d
+x     d
+b
+#2 b c  /a
+x    d
+x     d
+x      //a
+#2 b c  ///a
+x    d
+x    a
+x      ///a
+b
+
+b
+#2 aa   4
+x   a
+x    c
+x     d
+#2 a d  4
+x   a
+x    c
+x     d
+b
+#2  b   /a
+x   c
+x    d
+x     d
+#2  b   /a
+x   b
+x    d
+x     d
+b
+#2  b   4
+x   a
+x    c
+x      4
+#2  c   6
+x   a
+x    c
+x     a
+b
+#2   ce /b
+x    a
+x  b e ///a
+x    a
+#2  a   a
+x    d
+1 aa d a
+b
+
+b
+#2 ab   4
+x   a
+x  b  a
+x   a
+#2  dfd ///a
+x    a
+1  abd a
+b
+#2 ad   4
+x   a
+x db
+x   a
+#2 ad
+x   a
+x db
+x   a
+b
+#2 bdf  ///a
+x   a
+x dgf
+x   a
+#2 bdf  a
+x   a
+1 dge
+b
+1  b c 4
+1     d
+1  ba  //a
+1     d
+b
+1   cd ///a
+1     d
+1  aaa a
+1    d
+b
+1  b c 4
+1     d
+1   dc
+1     d
+b
+
+b
+1   cd 4
+1     d
+1   bd 4
+1     d
+b
+1   ac 4
+1     d
+1    df4
+1      a
+b
+x    ch4
+b
+b
+
+e

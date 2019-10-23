@@ -1,0 +1,196 @@
+-C
+-t
+-f
+{Ghevare, Ghevare/Ghevare, Ghevare}
+b
+c
+1   a
+1  d
+1  d
+1  d
+1   ef
+1 dde
+0 ddef
+b
+1  def
+1 d
+1 cd a
+1f
+1fdda
+1  d
+1c d
+1f
+b
+0f def
+1c d   a
+1 d e
+0 ddef
+1 ddef
+1  def
+b
+0 ddef
+1 ddef
+1 daa
+1acd a
+1ccd a
+1dabc
+1aabc
+b
+1.fdda
+2d
+#2f
+xd
+xc
+xa
+0c
+0cd a
+b
+
+b
+0.cdda
+1cdda
+0cdda
+0cdda
+b
+0.ddf  d
+1ddf  d
+0ddf  d
+0cbd a
+b
+0abb d
+0 ddef
+0 ddca
+1 cdca
+#2 a
+x c
+b
+1 daa  a
+1 da
+1 ab
+1 c c
+1 d a
+1   a  a
+1   ca
+1   ca
+b
+1   a  a
+1 ddef
+1aab  d
+1acdca
+1 daa  a
+1 ddef
+1 ab  d
+1 cdca
+b
+0 daa  a
+0 d
+1a
+1c
+1d
+1a
+b
+
+b
+1.f
+2d
+#2f
+xd
+xc
+xa
+0c
+0cd a
+b
+0.cdda
+1cdda
+0cdda
+0cdda
+b
+0.ddf  d
+1ddf  d
+0ddf  d
+0cbd a
+b
+0abb d
+0 ddef
+0 ddca
+0 cdca
+b
+1 daa  a
+1  aa
+1  b c
+1   ce
+1  aa
+1 da
+1 ab
+1 c c
+b
+1 daa
+1c da
+1da  cd
+1acd a
+1c da  a
+1 dda  a
+1 ddca
+1 cdca
+b
+0 dda  a
+0   a
+1   c
+1  a
+1  b
+1   c
+b
+
+b
+1.  d
+2  b
+#2  d
+x  b
+x  a
+x   c
+0  a
+0cdda
+b
+0.cdda
+1cdda
+0cdda
+0cdda
+b
+0.ddf  d
+1ddf  d
+0ddf  d
+0cdd   a
+b
+0aab  a
+0 dde c
+0 dff d
+0 cdca
+b
+b
+S3
+w dda  a
+0cdda
+b
+wcdda
+0cdda
+b
+wcdda
+0cdda
+b
+wddf  d
+0ddf  d
+b
+wddf  d
+0cdd   a
+b
+waab  a
+0 dde c
+b
+w dff d
+0 cdca
+b
+w. ddef a
+b
+b
+
+e

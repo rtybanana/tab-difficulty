@@ -1,0 +1,457 @@
+-C
+-t
+-f
+{9. Ce qui m'est deu et ordonné/9. Ce qui m'est deu et ordonné}
+b
+#2cdda
+xa
+#2cdda
+x d
+#2adda
+xc
+b
+#2da a
+x     d
+#2da a
+xc
+#2abd a
+x d
+b
+#3abb d
+x d  {
+xa
+xc
+#3d
+xc
+xa
+x d    }
+#3a aa
+x d
+x c
+x a
+b
+c
+#2 cdc
+x  c
+x  d
+x a
+#2 c
+x a
+#3 c
+x a
+x c
+x d
+b
+
+b
+1aabc a
+1d
+1cab  a
+1a
+b
+1 dba d
+1 c
+1 a ca
+1  d
+b
+1 abc a
+1  a
+1  b
+1  d  c
+b
+#2 aba d
+x  d  {
+x a
+x c    }
+#2 daa
+x   c
+x  a
+x  c
+b
+#2    a
+x d
+x c a
+x a
+#2 ddca
+x c
+#3 d
+x c
+x a
+x c
+b
+#2 dde
+x    f
+#2 dde
+x   f
+#2 dde
+x    f
+b
+
+b
+#2cdda
+x   c
+#2cdda
+x    d
+#2c d c
+x    a
+b
+#3da a d
+x  a  {
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+#3c da
+x d
+xa
+xc
+b
+#3abb d
+x d  {
+xa
+xc
+#3d
+xc
+xa
+x d    }
+#3a aa
+x d
+x c
+x a
+b
+c
+#2 cdca
+x  c
+x  d
+x a
+#2 c
+x a
+#3 c
+x a
+x c
+x d
+b
+
+b
+1aabc a
+1d
+1cab  a
+1a
+b
+#2 dba d
+xa    {
+xc
+xa     }
+#2 d ca
+x c
+x a
+x  d
+b
+#2 abc a
+x   b
+x   c
+x  a
+#2  b
+x  a
+x  b  c
+x  d
+b
+#2 aba d
+x  d  {
+x a
+x c    }
+#2 daa
+x   c
+x  a
+x  c
+b
+#2    a
+x d
+x c a
+x a
+#2 ddca
+x c
+#3 d
+x c
+x a
+x c
+b
+
+b
+2 ddef
+#3 c
+x a
+#3  d
+x  b
+#4  d
+x  b
+x  a
+x   c
+#2 dde
+x    f
+b
+#2 dfec
+x c
+2 dfec
+#3 c  {
+x a   }
+#3 ca c
+x a  {
+#4 c
+x a
+x c
+x d    }
+b
+#2aab  a
+x e
+#2a
+x c
+#2 eb  a
+xa
+b
+2cdda
+#3 a
+x c
+#3 d
+xa
+xc
+xd
+#4f
+xd
+xc
+xa
+#4d
+xc
+xa
+xc
+b
+
+b
+2da   d
+#3c
+xa
+#3 d
+x b
+#4 d
+x b
+x a
+x  d
+#2  b
+x     d
+b
+#2da a d
+x     c
+#2da a d
+x    a
+#2da ac
+x    e
+b
+#2cdda
+x   c
+#2  a
+x  b
+#2c da
+x  a
+b
+#2aabc
+x     a
+#2aabc
+x     c
+#2aab  d
+x    a
+b
+#2 efe
+x    c
+#2 efe
+x f
+1 efec
+b
+
+b
+#3 ea c
+x    a
+x    c
+x    d
+#3 ea c
+x    d
+x   a
+x    d
+#3 ea c
+x    a
+x     d
+x     c
+b
+#2aab  a
+x     c
+#2     d
+x    a
+#2a   c
+x    e
+b
+#2cdda
+x   c
+#2cdda
+x    d
+#2c d c
+x    a
+b
+c
+1     d
+1da
+1   a
+1     d
+b
+0daba d
+1da a d
+1a
+b
+1c da
+1d
+1cab  a
+1a
+b
+1 ea
+1    c
+1da   a
+1ccd  c
+b
+1aab  d
+1 da a
+1 dccc
+1   a
+b
+
+b
+1 ddca
+#2 c a
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+#2 dde
+x    f
+#2 dde
+x   f
+#2 dde
+x    f
+b
+#3 ea c
+x    a
+x    c
+x    d
+#3 ea c
+x    d
+x   a
+x    d
+#3 ea c
+x    a
+x     d
+x     c
+b
+#2aab  a
+x ea
+#2a b
+x c c
+#2 ea
+xa b
+b
+#2cdda
+xa   e
+#2c  a
+x e  c
+#2a   e
+xc  a
+b
+c
+1da a
+1     d
+1da
+1   a
+b
+
+b
+0da a d
+1da a
+1     d
+b
+1   a
+1cdd
+1aabc
+1     a
+b
+1 efec
+1 efe
+1da   a
+1ccd  c
+b
+1aab  d
+1 da a
+1 dccc
+1   a
+b
+1 ddca
+#2 c a
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+1 dd
+1   a
+1 dd
+1da   d
+b
+#2cdd
+x   a
+1cdd
+#2aabc
+x     a
+1aabc
+b
+
+b
+#2 efe
+x    c
+1 efe
+#2da
+x     a
+1ccd  c
+b
+#2     d
+xaab
+x da
+x    a
+#2    c
+x dc
+x   c
+x   a
+b
+1 ddca
+#2 c  {
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c   }
+b
+1 dde
+1    f
+1 dde
+1   f
+b
+Y ddef
+b
+b
+
+e

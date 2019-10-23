@@ -1,0 +1,192 @@
+-C
+-t
+-f
+{Basse danse la roque/Basse danse la roque}
+b
+1   \1ca
+#2  \3d
+x  \2c
+#2  \3d
+x a
+b
+1 \2c  a
+1  \3d
+1   \1ca
+b
+1 \2c  a
+1  \3d
+1   \1ca
+b
+1 \3d a
+1 a \1c
+1     a
+b
+#2a  \1c
+x d
+#2 c
+x a
+#2 \2c
+x \3d
+b
+
+b
+#2 \2c  a
+x a
+#2 \2c
+x \3d
+#2a
+x \2c
+b
+#2 \3d a
+x \2c
+#2 a
+x  \3d
+#2  \2c
+x  a
+b
+0  \2c\1c
+1     a
+b
+b
+1   \1ca
+#2  \3d
+x  \2c
+#2  \3d
+x a
+b
+1 \2c  a
+1  \3d
+1   \1ca
+b
+1 \2c  a
+1  \3d
+1   \1ca
+b
+1 \3d a
+1 a \1c
+1     a
+b
+
+b
+#2a  \1c
+x \3d
+#2 \2c
+x a
+#2 \2c
+x \3d
+b
+#2 \2c  a
+x a
+#2 \2c
+x \3d
+#2a
+x \2c
+b
+1 \3d a
+#2 a \1c
+x   a
+1   \1c
+b
+0  \3d a
+1  \3d
+b
+b
+1  \3d a
+#2  \3d
+x a
+#2 \2c
+x \4d
+b
+1a \3d
+1 \2c
+1  \3d
+b
+
+b
+#2a \3d
+x \4d
+#2 \2c
+x a
+#2 \4d
+x \2c
+b
+0 \4d a
+1 \4d
+b
+#2 \4d\1b
+x \3c
+#2 \4d
+x \3c
+#2 a
+x  \4d
+b
+#2 a\1b
+x \3c
+#2 \4d
+x a
+1 \3c \2c
+b
+1 a a
+1    \3e
+1  \4e
+b
+1 a  c
+1  a
+1  c
+b
+b
+
+b
+#2  \3d a
+x  \2c
+#2  \3d
+x a
+#2 \2c
+x \4d
+b
+#2a \3d
+x \4d
+#2a
+x\2c
+#2\4d \1b
+x\2c
+b
+#2a \3d
+x \4d
+#2 \2c
+x a
+#2 \4d
+x \2c
+b
+0 \3d a
+1 \3d
+b
+#2 \3d a
+x \2c
+#2 \2c
+x a
+#2  \3d
+x  \2c
+b
+
+b
+#2  \3d a
+x a
+#2 \2c
+x a
+#2 a
+x  \3d
+b
+#2  \1c  a
+x  a
+#2  \1c
+x  \3d
+#2  a
+x  \1c
+b
+0  \3d a
+1  \3d
+b
+b
+
+e

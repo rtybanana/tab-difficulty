@@ -1,0 +1,608 @@
+-C
+-t
+-f
+{Ardet cor meum/Ardet cor meum}
+b
+c
+w aaa  //a
+b
+w aaa  //a
+b
+w dfe  //a
+b
+1 da c
+1    a
+1  g ge
+1  h
+b
+1      4
+1  g
+0 ccd  /a
+b
+0b c e
+0ec d
+b
+0ccee
+1     c
+1 ca a
+b
+1 dc c
+#2 ccee
+x   d
+0 cd  c
+b
+0 aabc
+0      //a
+b
+w ac  a
+b
+0aab  a
+1 cf  c
+1  e
+b
+w ea c
+b
+0 dfe  //a
+0     c
+b
+
+b
+0 ccd  /a
+0    e
+b
+1 cd  c
+1   e
+0 cc  b
+b
+0 cd  c
+1cdd   a
+1     c
+b
+0aac  a
+0aa   e
+b
+0 cdca
+0 ea c
+b
+1aacc
+1     a
+0 aa   b
+b
+0 cc  b
+0 cd  c
+b
+0 ccde
+0      /a
+b
+0 ce  c
+0ca    b
+b
+0ccf  c
+0  e   5
+b
+w efe  //a
+b
+w da c
+0ccd  c
+b
+wb c e
+0      /a
+b
+wccd  c
+0cdd   a
+b
+
+b
+w df  d
+0 dd  c
+b
+wadd a
+0 c
+b
+w.cdd   a
+b
+w. cdca
+b
+w aaac
+0acd a
+b
+wca   d
+0a
+b
+wcce  c
+0da   a
+b
+wcdd   a
+0aab  a
+b
+w ea c
+0      //a
+b
+w.aab  a
+b
+w dd  c
+0aa a d
+b
+wadd a
+0 c
+b
+w.cdd   a
+b
+w. da   //a
+b
+w cd  c
+0 ec c
+b
+w ccde
+0      /a
+b
+
+b
+0 ce  c
+0 cde
+0 dd   a
+b
+0 ac  a
+0a
+0 ce  c
+b
+0. ab  d
+1  a
+0a b  a
+b
+0ca    b
+w ca  c
+b
+w. efe  //a
+b
+c
+wcdf   //a
+b
+w da c
+b
+wcc  b
+b
+0ce  c
+0ea   a
+b
+0acd a
+1ccd  c
+1fda   a
+b
+0ec d  /a
+0cdf   //a
+b
+0.bcc   /a
+1cdd   a
+b
+1ccc   /a
+1b
+0ccd  c
+b
+0ca    b
+0 a
+b
+wca b
+b
+
+b
+0aabc
+1ac  a
+1     d
+b
+1 dd  c
+1     a
+0cdd   a
+b
+0add a
+0 c    ///a
+b
+1cdd   a
+1   a
+0cc  b
+b
+wcc  b
+b
+1aaa c
+1 e    //a
+0aab  a
+b
+0aab   6
+0     a
+b
+1 ce  c
+1a b  a
+1 cf  c
+1c e
+b
+w efe  //a
+b
+0
+0 e  c
+0a e e
+b
+0ca b
+0a bc
+0     a
+b
+wce  c
+0 a c e
+b
+0 caca
+0 aa c
+0      //a
+b
+
+b
+0 ac  a
+0   c
+0  a
+b
+0aac
+w cd
+b
+w a c
+0a d e
+b
+0cada
+0aa c
+0     a
+b
+wacd a
+0 ea c
+b
+w cc e
+0  da
+b
+w cc e
+0      /a
+b
+0 cd  c
+0     c
+0     e
+b
+0 ca b
+0 e  c
+0c
+b
+wcce  c
+0ca    b
+b
+0ea   a
+0cc   c
+0   e
+b
+w. efe  //a
+b
+c
+1 aabc
+1      //a
+0 ab  a
+b
+
+b
+0 ccde
+1 cd  c
+1     e
+b
+w ca b
+b
+0 ea c
+1 ccee
+1   d  /a
+b
+0 ce  c
+0      5
+b
+0.cce  c
+1     e
+b
+0cc  b
+0  a
+b
+1ce  c
+1ea   a
+1ccf  c
+1  e
+b
+1 ea c
+1ca b
+1aacc
+1a d e
+b
+1cdda
+1 ca b
+1 ea c
+1aa   e
+b
+1ac  a
+1  d
+0ec d
+b
+1cce
+1   b
+0ca b
+b
+1aacc
+1a d e
+0 daa
+b
+
+b
+0 ca b
+0 aabc
+b
+1cef
+1ccd
+1aac
+1 ede
+b
+1aacc
+1ca b
+1ea c
+1ce  c
+b
+1aa   e
+1ca    b
+1.ea   a
+2ccd  c
+b
+0ca   e
+xb
+b
+w.cce  c
+b
+w.ce  c
+b
+w.c e  c
+b
+w.ce  c
+b
+waa c
+0     a
+b
+w ea c
+0      //a
+b
+w.aac  a
+b
+0acd a
+0aa   e
+0ccd  c
+b
+0ea   a
+0ca    b
+0a c   /a
+b
+
+b
+0 ea   //a
+0a
+0ccd  c
+b
+wa c e
+0      /a
+b
+w.c e  c
+b
+w.ca  c
+b
+w.cce  c
+b
+w.ce  c
+b
+w.aa   a
+b
+w. ea c
+b
+w ac  a
+0aacc
+b
+wacd
+0aac
+b
+wccde
+0ea c
+b
+wfd a
+0ff  e
+b
+wcd  c
+0cc  a
+b
+wda   d
+0fd   c
+b
+w.ff  a
+b
+wfda   a
+0cdda
+b
+w.ce  c
+b
+w.ec  e
+b
+
+b
+0cce  c
+0     c
+0 cee
+b
+w ea c
+0 ca a
+b
+0 a c e
+0a
+0 ed  c
+b
+waac  a
+0      a
+b
+wa d   /a
+0ed    //a
+b
+w.fc c  ///a
+b
+wfda   a
+0da   a
+b
+wccf  c
+0  e
+b
+w da c
+0c
+b
+c
+0cef   //a
+0aa   e
+b
+1acd a
+1    e
+0aacc
+b
+0 cdca
+0a     ///a
+b
+0aac  a
+0b c e
+b
+1
+1cdda
+1eh  e
+1 g    /a
+b
+
+b
+0fc   c
+0cdd   a
+b
+waab  a
+b
+waab   6
+b
+0aab  a
+0      6
+b
+1c e  c
+1da   a
+1ccf  c
+1  e
+b
+w efe  //a
+b
+0cdf
+0 df
+0ccd
+b
+0cab
+0a
+0 ede
+b
+waabc
+0 daa
+b
+wa b d
+0 db c
+b
+0a dfd
+0 dba
+0  a   a
+b
+0 df  d
+0   f
+0 dde
+b
+waabc
+0 daa
+b
+wa d e
+0 dc c
+b
+
+b
+0 cdca
+w      ///a
+b
+0. da a a
+1 c   a
+0 dd  c
+b
+0cd a
+0aa c
+0     a
+b
+0 cdca
+0    c
+0a d e
+b
+w daa
+0a d e
+b
+0 da c
+0    a
+0ba   e
+b
+wccd  c
+0 c   e
+b
+wcca a
+0cd  c
+b
+wb c e
+0      /a
+b
+wccd  c
+0     e
+b
+w cd a
+0 dc c
+b
+0.a d e
+1ca b
+0aa c
+b
+0 cdca
+0 aacc
+0   b  //a
+b
+
+b
+0 ac  a
+0     c
+0 a c e
+b
+w. cdca
+b
+0 ce  c
+0     e
+0cc  b
+b
+w.cd  c
+b
+0.aab  a
+1     c
+0 a c d
+b
+0 db  a
+0 cf  c
+0c e
+b
+w. efe  //a
+b
+c
+1 da c
+1    a
+1 df  d
+1 adb c
+b
+1aab  a
+1ca    b
+0aab  a
+b
+w qbc a
+b
+w aab  //a
+b
+b
+
+e

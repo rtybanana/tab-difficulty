@@ -1,0 +1,170 @@
+-C
+-t
+-f
+{27. Nach willen dein/27. Nach willen dein}
+b
+c
+0   a
+1   a
+1   c
+b
+0  aa
+1  a c
+1  c
+b
+1  de
+#2  d
+x a
+1 c c
+1 d a
+b
+0  de
+0 a c
+b
+0  d a
+1
+1  da
+b
+1  da
+1  da
+1  aa
+#2   a
+x    d
+b
+1 a  c
+1     d
+1   cd
+1  d a
+b
+#2  b c
+x  a
+x   c
+x   a
+0   ca
+b
+w   a  a
+b
+
+b
+0   a
+1   a
+1   c
+b
+0  aa
+1  a c
+1  c
+b
+1  de
+#2  d
+x a
+1 c c
+1 d a
+b
+0  de
+0 a c
+b
+0  d a
+1
+1  da
+b
+1  da
+1  da
+1  aa
+#2   a
+x    d
+b
+1 a  c
+1     d
+1   cd
+1  d a
+b
+#2  b c
+x  a
+x   c
+x   a
+0   ca
+b
+w   a  a
+b
+0
+0  aa
+b
+
+b
+1  a c
+#2    c
+x    e
+0  aa
+b
+w   ca
+b
+0
+0   ca
+b
+0   ac
+0  b  a
+b
+0  a  c
+1
+1  a  c
+b
+0  a c
+0   c
+b
+0  da
+1 d
+1 a c
+b
+#2    c
+x  d
+1  aa
+0  bc
+b
+w  a c
+b
+0
+0   c a
+b
+0   ac
+0   cd
+b
+0  a c
+0  bc
+b
+0  da
+1  d
+1   a
+b
+
+b
+0  b  d
+1
+1  b  d
+b
+1  aa
+1  bc
+1  da
+1   e
+b
+1  d
+1 a c
+#2 c
+x a
+x  d a
+x  b
+b
+1  a c
+1   ce
+1  da
+#2    a
+x  b
+b
+1  a c
+1  b  d
+0   ca
+b
+w   a  a
+b
+b
+
+e

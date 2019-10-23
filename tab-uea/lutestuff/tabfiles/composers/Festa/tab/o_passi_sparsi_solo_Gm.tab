@@ -1,0 +1,267 @@
+-C
+-t
+-f
+{O passi sparsi/Sebastian Festa}
+b
+c
+w abc a
+b
+1 dfec
+1 bdef
+1abb d
+1ddf  d
+b
+1cdda
+1aabc
+#2 aa c
+x c
+x e
+xa
+b
+1 efec
+1a
+1aab  a
+0aab  a
+b
+1
+1 dfec
+#2dabc
+x   c
+xd ac
+x bb
+b
+
+b
+#2cfda
+x a a
+xa  cd
+x  d
+1 dfec
+1   e
+b
+1 ddef
+1 abc
+#2   cd
+x  a
+1  dc
+b
+1 aaac
+1 aaac
+1
+1 dfec
+b
+#2dabc
+x   c
+xd ac
+x bb
+#2cdda
+x a a
+xa  cd
+x  d
+b
+1 dfec
+1  a
+1 ddef
+1 abc
+b
+#2  bcd
+x  a
+1  dc
+1 aaac
+1 aaac
+b
+
+b
+1  bc
+1 a c
+1 abcc
+1 aaac
+b
+1 abc
+1 abc
+1 aacc
+1  bac
+b
+#2 bdca
+x d
+xab
+x  b
+#2 aa c
+x   c
+1 ea
+b
+0a b  a
+0aab  a
+b
+b
+1hd a d
+0  b
+1fda   a
+b
+0da c a
+1ca ac
+#2a bcd
+x  d
+b
+1 dfec
+1 ab  d
+1 bdca
+1 aaac
+b
+
+b
+#2   cd
+x   c
+1a d
+1 aa c
+1 e
+b
+1aab  a
+1 a
+1 da c
+1 df  d
+b
+0abd a
+0a d
+b
+1 dfec
+1 db
+1abd a
+#2 b
+x  b
+b
+1 efec
+1a dcd
+1 aa c
+1 e
+b
+1a bcd
+1abd a
+1 dfec
+1 dff d
+b
+1  dca
+2 c
+#3   a
+x   c
+2 daa
+1  b
+2  a
+b
+
+b
+1 dff d
+1 a
+1.abb d
+2 a
+b
+1cdda
+1dbbc
+1ddda
+1cd a
+b
+1dab  d
+1da   d
+1
+1cdda
+b
+1cdda
+1cdda
+1cdda
+1cdf c
+b
+1dffc
+#2 a c
+xcd
+1abd a
+1abd a
+b
+1 efec
+1 efec
+1
+1 efec
+b
+1 efec
+1 efec
+1aabc
+1abbc
+b
+
+b
+0.cdda
+1cdda
+b
+1abd a
+1 efec
+1a   d
+1  dc
+b
+0 efec
+0 aa
+.
+b
+b
+1cdda
+1cdda
+1aabc
+1aabc
+b
+0. efec
+1 aa c
+b
+1aabc
+1a dcd
+1 aa c
+1 e
+b
+1aab  a
+1a
+b
+1 ddef
+1 dff d
+1 ddff
+1 ddef
+b
+
+b
+1 ab  d
+1 dfa d
+#2 bdca
+x  a
+1 dff d
+b
+1 dda
+#2  a
+x   c
+0  a
+b
+w aba d
+b
+1fdaa
+1fdaa
+1dabc
+1abbc
+b
+0.
+1dabc
+b
+1 abc
+1abd a
+1 aa c
+1 e
+b
+1aa c a
+1a
+1
+1aab  a
+b
+1abd a
+1aa   d
+0abd a
+b
+waab  a
+b
+b
+Q
+
+e

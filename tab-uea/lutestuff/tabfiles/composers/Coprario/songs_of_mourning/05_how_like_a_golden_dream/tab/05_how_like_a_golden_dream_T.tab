@@ -1,0 +1,135 @@
+-C
+-t
+-f
+{5. How like a golden dream/5. How like a golden dream}
+b
+c
+0. acc
+1  a
+b
+1 ac
+1 aab
+0 acc
+b
+0 aabc
+0  cce
+b
+1 a c e
+1   ca
+1 aacc
+1   b
+b
+w acc a
+b
+w aabc
+b
+0 ca b
+1 aabc
+1 a c e
+b
+0 aabc
+0
+b
+0
+0 cdca
+b
+0
+1. acc a
+2  a
+b
+#2 ac
+x   b
+1 a c
+1 cfe
+1  e
+b
+
+b
+0 aabc
+1 acc
+1  dce
+b
+1 aab
+0 acc
+1 a c e
+b
+1 cd a
+1 ccce
+#2     e
+x c
+1 bc
+b
+w ccde
+b
+w cdca
+b
+1. acc
+2     c
+1. a c e
+2   ca
+b
+1 aabc
+#2   ce
+x  e
+0 aabc
+b
+0
+0 aabc
+b
+1 acc
+1   ce
+1 aab
+1 acc
+b
+1
+1   ca
+1 aacc
+1   b
+b
+w acc a
+b
+
+b
+.
+0. acc
+#2   b
+x    e
+b
+0  cbd
+0  cde
+b
+0 ca b
+1 aabc
+1 acc a
+b
+w aabc
+b
+1 ca  c
+1 a c e
+1. cdca
+2    c
+b
+1 ccce
+1 a c e
+0 aabc
+b
+0 aabc
+1 acc
+1 aab
+b
+0 ccd
+1 cee
+1 ca b
+b
+1 aabc
+#2  bc
+x    a
+1 aacc
+1   b
+b
+w acc a
+.
+b
+b
+
+e

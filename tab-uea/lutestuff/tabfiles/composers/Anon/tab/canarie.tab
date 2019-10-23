@@ -1,0 +1,110 @@
+-C
+-t
+-f
+{Canarie/Canarie}
+b
+c
+#2 c  a
+x a
+1 c
+#2  d
+x a
+1 c
+b
+#1 dda
+x cd a
+x ac  a
+x  d a
+b
+#2 c  a
+x a
+1 c
+#2  d
+x a
+1 c
+b
+
+b
+#1 dda
+x acc
+x  d a
+x   c
+.
+b
+b
+.
+0a   a
+#2 c
+x d
+1a
+b
+#1 d a
+x c  a
+x a   a
+x  d a
+b
+0a   a
+#2 c
+x d
+1a
+b
+#1 d a
+x a c
+x  d a
+x   c
+b
+
+b
+0a   a
+#2 c
+x d
+1a
+b
+#1 d a
+x cd a
+x ac  a
+x  d a
+b
+0a   a
+#2 c
+x d
+1a
+b
+#1 d a
+x a c
+x  d a
+x   c
+.
+b
+b
+
+b
+.
+#2 c  a
+x a
+1 c
+#2  d
+x a
+1 c
+b
+#1 d a
+x c  a
+x a   a
+x  d a
+b
+#2 c  a
+x a
+1 c
+#2  d
+x a
+1 c
+b
+#1 d c
+x a c
+x  d a
+x   c
+.
+b
+b
+
+e

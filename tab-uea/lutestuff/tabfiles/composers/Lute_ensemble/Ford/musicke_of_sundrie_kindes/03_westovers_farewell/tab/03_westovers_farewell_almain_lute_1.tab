@@ -1,0 +1,138 @@
+-C
+-t
+-f
+{3. Mr. Westover's Farewell - Almain/3. Mr. Westover's Farewell - Almain}
+b
+1. df  d
+2 b
+1 ab  d
+1  d   a
+b
+1.  ba d
+2  d
+#2 a
+x b
+1 d
+b
+1da   d
+1cd
+1ad  a
+1 c
+b
+w dda  a
+b
+1.a   d
+2a
+1 d  c
+1 a   d
+b
+1. b  a
+2 b
+1  d a
+1  a
+b
+2. ab  d
+3  a  c
+#2   c a
+x   a  a
+1   c a
+1  b
+b
+0.  da  a
+#2 d
+x b
+b
+
+b
+1 ab  d
+#2 b
+x a
+#2  da
+x  b
+1  d   a
+b
+A1
+w  ba d
+.
+b
+b
+A2
+0.  bf d
+#2  d
+x a
+b
+.
+2. b  a
+3 d
+1a
+2. a   d
+3 b
+1 d
+b
+1 b  a
+#2 a
+x  d
+1 ac  a
+#2a
+x d
+b
+1 b  a
+#2 dd   a
+x b
+1 ad  a
+1  c
+b
+w  dca
+b
+1. dda
+2a
+#2b
+xd
+1f
+b
+1.  dd
+2 a
+1 b
+1  dd
+b
+
+b
+2. a   d
+3 b
+#2 d
+x  a
+1     a
+1 c
+b
+0 dda  a
+0cd
+b
+1.dd   d
+2d
+1.cd a
+2cd
+b
+1.ab  d
+2ab
+1. df c
+2 df
+b
+1 bd a
+1 ab  d
+#2  d   a
+x  b
+1  da
+b
+A1
+0.  ba d
+#2  d
+x a
+.
+b
+b
+A2
+w  ba d
+b
+b
+
+e

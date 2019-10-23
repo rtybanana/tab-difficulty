@@ -1,0 +1,179 @@
+-C
+-t
+-f
+{12b. Si vostre cueur/12b. Si vostre cueur}
+b
+c
+1. dda
+2  b
+#2 dda
+x  a
+x  b
+x  d
+b
+#2 df c
+x    a
+x     d
+x     c
+#2 abc
+x  d
+x a
+x  b
+b
+#2 dda
+x   c
+x  a
+x  b
+1 dda
+1 cd a
+b
+1 aa c
+1 df
+#2     d
+x cd
+x ab
+x  a
+b
+1  dca
+#2  d
+x  b c
+#2   cd
+x  b
+x  def
+x   c
+b
+
+b
+#2   a
+x  a
+1 ab  d
+1  dca
+1   c
+b
+1  aa
+#3    c
+x    a
+x    c
+x    e
+#3    c
+x    e
+x   a
+x   c
+1  a c
+b
+1  a c
+1  a c
+#2 a   d
+x    a
+x a  c
+x c  e
+b
+#2 dda
+x  b
+x  d
+x a
+1 c  e
+#2 d  c
+x c
+b
+#2a
+x d
+1 c  e
+1 a a
+1aa c
+b
+
+b
+1  d a
+#3  d
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+1  def
+b
+1  d
+1 dfa
+1 abc
+1 cd a
+b
+#2  da
+x  b
+x  a
+x   ce
+#2 aa c
+x    a
+1 df  d
+b
+#2   a
+x  d
+x ab
+x  a
+#2 abc
+x   a
+x  bc
+x c
+b
+#2 daa
+x    a
+x    c
+x    e
+#3   a
+x    e
+x   a
+x   c
+1 dda
+b
+.
+1 dda
+1 df c
+#2 abc
+x  d
+x ca
+x  b
+b
+
+b
+#2 dda
+x    e
+x    c
+x    a
+1 dda
+1 cd a
+b
+1 aa c
+1 df
+#2     d
+x cd
+x ab
+x  a
+b
+1  dca
+#2  d
+x  b c
+#2   cd
+x  b
+x  def
+x   c
+b
+#2   a
+x  a
+1 ab  d
+1  dca
+1   c
+b
+A1
+0.  aa
+1 dda
+.
+b
+b
+A2
+Y  aa
+b
+b
+
+e

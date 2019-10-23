@@ -1,0 +1,608 @@
+-C
+-t
+-f
+{43. Passamezo moderno in tenore/43. Passamezo moderno in tenore}
+b
+c
+1aac  a
+b
+1aac  a
+#2   c
+xaac
+#2   c
+x a   e
+x  d  c
+x   b
+b
+1aac  a
+#2   c
+xaac
+#2   c
+xa   e
+x d  c
+x  c
+b
+1 cd a
+#2   c
+xacd
+#2   c
+xa   e
+x d  c
+x  c
+b
+#2acd a
+x    c
+x    a
+x     e
+#2     c
+x     a
+x  d  c
+x   b
+b
+1aac  a
+1aac  e
+#2acd a
+x    e
+x aa c
+x   b
+b
+
+b
+#2aac  a
+xe
+x   c
+xc   c
+#2a   e
+xe
+xc d
+xa
+b
+1 ef c
+1c  e
+2a   e
+#3  e
+x  c
+2  e
+#3  c
+x  e
+b
+#2 ef c
+xc
+xa   e
+x  e
+1 ef c
+1hf g a
+b
+#2hf g a
+xf
+1ea c
+#2ccd a
+xa c
+xaaa c
+x e
+b
+#2aac  a
+x   c
+x   a
+xa   e
+#2 d  c
+x    a
+x d  c
+x  c
+b
+#2acd a
+x   c
+x a a
+x  d
+#2 adc
+x  a
+1 acc
+b
+
+b
+#2 cd a
+xf
+xf  c
+xe
+2fcd a
+#3c
+xe
+#3f
+xc
+xe
+xf
+b
+#2e    a
+xc
+xa    e
+x e
+#2 cd a
+x ea c
+xa  ce
+x  e
+b
+#2 ef c
+x   e
+x    a
+x     e
+#2  d  c
+x     a
+x  d  c
+x   b
+b
+#2aac  a
+xe
+xc d
+xa c
+#2 e  c
+x c
+xaaa c
+x e
+b
+#2aac  a
+x   c
+xaac
+x  d
+1aac  a
+1aac  a
+b
+b
+1aac  a
+1acd a
+#2aa c e
+x     a
+x  d  c
+x   b
+b
+
+b
+1aac  a
+1acd a
+2aad  a
+#3  c
+x  a
+#2aad  a
+x  c
+b
+1acd a
+1cdda
+2aadc
+#3  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+#2acd a
+x    c
+x    a
+x     e
+#2    a
+x    e
+x aa c
+x   b
+b
+#2aac  a
+x   c
+2e
+#3c
+xa
+#2 ea c
+xa
+xaaa c
+x e
+b
+#2aac  a
+xh
+x   g
+xfca
+#2e  c
+xca  c
+xa   e
+x  e
+b
+
+b
+#3 efec
+x f
+xc
+xe
+#3f
+xe
+xc
+x f
+#2 efec
+xc
+xa   e
+x  e
+b
+#2 ef c
+xh
+xh  e
+xg
+#2he e h
+xhf g a
+xfc ca
+xca bc
+b
+#2ea c a
+x     e
+xccd a
+xa c
+2aaa c
+#3 e
+x c
+#2aa  c
+x e
+b
+2aac  a
+#3   c
+x  a
+#2  c
+xaac  a
+#2  d  c
+x   b
+xa    e
+x   c
+b
+2 cd a
+#3   c
+x  a
+#2  c
+xa   e
+#2c  a
+xf
+xf  c
+xe
+b
+
+b
+#2fc  a
+xa   e
+xcdda
+xaacc
+#2 cd a
+xaac  a
+xaaa c
+x e
+b
+#2aac  a
+x    c
+x    a
+x     e
+#2    a
+x    c
+xa   e
+x  e
+b
+#2 ea c
+x f
+xc
+x a   e
+#2 cd a
+xa c
+xaaa c
+x e
+b
+#2aac  a
+x     e
+x cd a
+xa c
+2aaa c
+#3 e
+x c
+#2aaa c
+x e
+b
+1aac  a
+1   c
+1aac  a
+1aac  a
+b
+b
+2.aac  a
+3 c
+#2 a
+x  d
+#2  cc
+x     a
+x  d  c
+x   b
+b
+
+b
+#2aac  a
+xf
+xe
+xc
+#2aac  a
+x d
+x c
+x a
+b
+#2 cdca
+xf
+xc
+xf
+#2e    a
+xc
+xf
+xe
+b
+#2fcd a
+xe
+xc
+xa
+#2 ea c
+xa
+xaaa c
+x e
+b
+#2hf g a
+xf
+xe
+xc
+#2aac  a
+x d
+x c
+x a
+b
+2acd a
+#3   c
+x a
+#2 c
+x ea c
+#2a   e
+xe
+xc e
+xa
+b
+1 efec
+1a  c e
+1 cdca
+1aac  a
+b
+
+b
+#2 efec
+x f
+xc
+x f
+#2 e
+x c
+x f
+x e
+b
+#2aac  a
+x   c
+x     c
+x  d
+#2 a   e
+xacd a
+x  d  c
+x   b
+b
+#2aac  a
+xc
+xe
+xf
+#2h    a
+x   c
+x  a
+x  c
+b
+#2 cd a
+xa
+xc
+xe
+#2f
+x  c
+x  d
+x a
+b
+2acd a
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+2a
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+b
+
+b
+#2e  c a
+xf
+xe    a
+xc
+#3a    e
+xc
+xe
+xc
+#3a
+xe
+xc
+xa
+b
+#3 efec
+x f
+xc
+xe
+#3f
+xe
+xc
+x f
+#3 efec
+x c
+x f
+x e
+#3 f
+x e
+x c
+x e
+b
+#2aac  a
+xc
+xe
+xf
+#2hf g a
+xf
+xe
+xc
+b
+#2ea c a
+xh
+xf  c c
+x   b
+1ea c a
+1aac  a
+b
+b
+#2aac  a
+x     e
+x    a
+x    e
+#2 ea c
+xa
+xaaa c
+x e
+b
+
+b
+2.aac  a
+3  a
+#2  c
+x  d  c
+#2 a   e
+x cd a
+x da c
+x  c
+b
+#2 cd a
+xa   e
+x d a
+x c
+#2 a e
+x  d
+1 acc
+b
+1 cd a
+1a  c e
+1acd a
+1 ea c
+b
+#2aac  a
+x a   e
+xacd a
+x  c
+#2a a e
+x   c
+xaaa c
+x e
+b
+#2aac  a
+x   b
+x    e
+x    c
+#2acd a
+x  c
+xa a e
+x   c
+b
+#2 efec
+x f
+xc
+x e
+#2 c c
+x  f
+x cfe
+x  e
+b
+
+b
+#2 efec
+xc
+xccfe
+x  e
+1cef c
+1aac  a
+b
+1aac
+#2   c
+x   b
+#2a   e
+x    a
+xaaa c
+x e
+b
+1aac  a
+1e
+#2   c
+xc
+xaacc
+x d
+b
+#2 cd a
+x    c
+x    e
+x  d
+#2 a a
+x  d
+x adc
+x  c
+b
+#2acd a
+x a
+x  d
+x  c
+#2  a
+x   c
+x  acc
+x   b
+b
+#2aac  a
+x   c
+x  d  c
+x   b
+#2 a   e
+x   c
+x cd a
+x   c
+b
+
+b
+1 efec
+1 acc a
+#2 cdca
+x   c
+x aacc
+x   b
+b
+#2 ac  a
+x   c
+x  d  c
+x   b
+#2 a   e
+x   c
+2 cd a
+#3 a
+x  d
+b
+#2 ac  a
+x   c
+xaaa c
+x e
+Yaac  a
+b
+b
+
+e

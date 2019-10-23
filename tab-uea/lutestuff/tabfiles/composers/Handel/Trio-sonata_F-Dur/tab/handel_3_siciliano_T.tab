@@ -1,0 +1,124 @@
+-C
+-t
+-f
+{/}
+b
+1 d  c
+2a   e
+1c  a
+2d  c
+1 ca
+2c    c
+2.a a
+3 d
+2 c c
+b
+1\2c  a
+2\2d  c
+1\2f a
+2\4h  \1f
+1a d
+2f   a
+2.c d
+3a
+2 d a
+b
+
+b
+1 db
+2 da
+2. db
+3c
+2a  c
+2. ca
+3 d
+2a
+#2c  a
+xe
+xg   e
+b
+1h    h
+2 a f
+1c a
+2a    c
+1 d  c
+2 df
+2.a b
+3 d
+2 cd
+b
+#2 d a
+x    e
+x d  c
+1f   a
+2  \2d\1c  ///a
+1  \2d\3e  a
+2 da
+2. a a
+3 c
+2 d  c
+b
+
+b
+1 c  e
+2 c  c
+2. c  b
+3 a
+2  e  c
+1 a  c
+2  a
+#2 af
+x c
+x d a
+b
+2. d c
+3 c
+2 a   a
+#2 c  a
+x d
+xa
+2.af
+3 d
+2 c a
+#2 a   d
+x c
+x d
+b
+
+b
+2. d
+3 c
+2 a  e
+#2  e  c
+x a
+x c  b
+1 d  c
+2a   e
+2.c  a
+3    e
+2 d  c
+b
+#2d  c
+x  a
+x ab
+1c a
+2cc   c
+1.aa   d
+1. bd  c
+b
+1.aa   a
+1 c e c
+2  e
+#2  a  d
+x   a
+x    c
+#2 a   d
+x  e
+x a
+b
+w. ceeec
+w.      5
+b
+b
+P
+e

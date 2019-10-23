@@ -1,0 +1,179 @@
+-C
+-t
+-f
+{Pavan Blondeau/Pavan Blondeau}
+b
+c
+0d  c
+b
+0d-- d
+0b  a
+b
+0a-- a
+#1 d
+x b
+b
+0 a c
+0   a
+b
+#1a-- d
+x   a
+x   c
+x  a
+b
+#1 db
+x c
+x d
+x a
+b
+
+b
+#1 bd
+x a
+x b
+x  d
+b
+0 a c
+0-----a
+b
+0-----a
+0a- c
+b
+b
+0a-  d
+#1--- a
+xa
+b
+#1b- a
+xa
+xb
+x d
+b
+#1a d
+x  c
+x  d
+x a
+b
+0 b
+0a d
+b
+
+b
+0a b
+0a d
+b
+0b- a
+0 db
+b
+#1a-  d
+x--- c
+x--- d
+x   a
+b
+#1a- c
+x-- a
+x-- c
+x  a
+b
+0 db
+0d   d
+b
+#1   a
+xc
+xd
+xc
+b
+
+b
+#1d- c
+x   a
+x   c
+x  a
+b
+0  b
+0a d
+b
+0 df
+0d b
+b
+#1  da
+xc
+#2d
+xc
+xa
+xc
+b
+0d b
+0---- d
+b
+0---- d
+b
+0ab  d
+b
+0ab  d
+0b da
+b
+
+b
+0ab  a
+0 dda
+b
+#1ab  a
+x a
+x  d
+x  c
+b
+0  d
+#1--- a
+x  d
+b
+0 a c
+0 b  d
+b
+#1   a d
+x a
+x b
+x a
+b
+0 b
+0----d
+b
+0----d
+0ab
+b
+
+b
+0a d
+0bd
+b
+0ab
+0 db
+b
+#1 bd
+x a
+x b
+x a
+b
+#1  dd
+x  c
+x  d
+x   d
+b
+0 a c
+0 b  d
+b
+#1   a
+x b
+x d
+x a
+b
+0 b
+0--- d
+b
+
+b
+Y--- d
+b
+b
+
+e

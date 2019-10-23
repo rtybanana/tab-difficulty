@@ -1,0 +1,285 @@
+-C
+-t
+-f
+{O passi sparsi/O passi sparsi}
+b
+c
+w abcca
+b
+1 aa c
+1  def
+1 bb d
+1 df  d
+b
+1 dda
+1 abc
+0 aa c
+b
+0 aa   /a
+1 ab  a
+1 ab  a
+b
+1
+1 aa c
+#2 abc
+x   c
+x  ac
+x bb
+b
+#2a da
+x a a
+x   cd
+x  d
+1 aa c
+1  a
+b
+
+b
+1  def
+1  bc
+#2   cd
+x  a
+1   c
+b
+1  aac
+1  aac
+1
+1 aa c
+b
+#2 abc
+x   c
+x  ac
+x bb
+#2 dda
+x a a
+x   cd
+x  d
+b
+1 aa c
+1  a
+1  def
+1  bc
+b
+2  bcd
+#3  a
+x  b
+#2  a
+x   c
+1  aac
+1  aac
+b
+1  bc
+1   c
+1  bcc
+1  aac
+b
+
+b
+1  bc
+1  bc
+1  acc
+1  bac
+b
+1  dca
+#2 b
+x  b
+#2 aaec
+x   c
+x   e
+x  d
+b
+0  bcca
+0  bcca
+.
+b
+b
+1 dba d
+0  b
+1 da   a
+b
+0 a c a
+1 a ac
+#2  bcd
+x  d
+b
+1 aa c
+1 ab  d
+1  dca
+1  aac
+b
+
+b
+#2   cd
+x   c
+1a
+#2  a c
+x e
+#3a
+x e
+x c
+x e
+b
+0a b  a
+1  a c
+1 a   d
+b
+0a d a
+0a d
+b
+1 da c
+1 db
+1 bd a
+#2 b
+x  b
+b
+1 aa c
+1  dcd
+0 aa c
+b
+1  bcd
+1 bd a
+1 aa c
+1 ab  d
+b
+1.  dca
+#3   a
+x   c
+2  aa
+1  b
+2  a
+b
+1 db  d
+1 a
+1. bb d
+2 a
+b
+
+b
+1 dda
+1 bbc
+#2 dda
+x  b
+x  da  a
+x b
+b
+1 ab  d
+1 a   d
+1
+1 dda
+b
+1 dda
+1 dda
+1 dda
+1 df c
+b
+1aa c
+#2 a   a
+x d
+1 bd a
+1 bd a
+b
+1 aa c
+1 aa c
+1
+1 aa c
+b
+1 aa c
+1 aa c
+1 abc
+1 bbc
+b
+0. dda
+1 dda
+b
+
+b
+1 bd a
+1 aa c
+2 a cd
+#3  d
+x  b
+1  dc
+b
+0 aa c
+0 aa   /a
+b
+w dfffd
+b
+1 dda
+1 dda
+1 abc
+1 abc
+b
+0. aa c
+1 aa c
+b
+1 abc
+1  dcd
+0 aa c
+b
+0 ab  a
+0 bb d
+b
+0 bb d
+1  def
+1 ab  d
+b
+2  dff
+#3   e
+x   c
+1  def
+1  b  d
+1 a a d
+b
+
+b
+#2  dca
+x   e
+1 db  d
+1 d a
+#2  a
+x   c
+b
+2 daa
+#3  b
+x  a
+#3  b   a
+x  a
+x   c
+x  a
+0 aba d
+b
+w dba d
+b
+1 daa
+1 daa
+1 abc
+1 bbc
+b
+0 dda
+0      a
+b
+0.
+1 abc
+b
+1 abc
+1 bd a
+1 aa c
+1      /a
+b
+0. a c a
+1 ab  a
+b
+
+b
+1 bdca
+1 a   d
+1 bd a
+#2 a
+x  d
+b
+w abcca
+b
+b
+
+e

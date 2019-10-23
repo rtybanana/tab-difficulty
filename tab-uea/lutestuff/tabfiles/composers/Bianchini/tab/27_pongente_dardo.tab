@@ -1,0 +1,409 @@
+-C
+-t
+-f
+{27. Pongente dardo/27. Pongente dardo}
+b
+c
+0 ddef
+1 dfec
+1 dfec
+b
+#2aabc
+x  d
+x a
+x c
+1cdda
+1ddf  d
+b
+1   f
+1cdda
+1aab
+1 efec
+b
+#2a  cd
+x  b
+1a d
+#2 efec
+x c
+x e
+xa
+b
+1c
+1cdda
+#2c da
+x d
+xa
+xc
+b
+#2dabc
+x   a
+x   cd
+x    c
+#2ab ca
+x a
+x  d
+x  c
+b
+
+b
+#2  d a
+x  c
+x  d
+xa
+2c da
+#3 d
+xa
+#3c
+xa
+x d
+x c
+b
+1 df
+1d b
+#2  d
+xa
+1c d
+b
+1aa f
+#2 df  d
+x   e
+1 d ca
+1 c ca
+b
+1 d ac
+1  ba d
+#2  bcd
+x  a
+x  bc
+x  d
+b
+1 aa c
+1  aa
+#2  dca
+x a
+x  d
+x     d
+b
+1  de c
+#2 a a d
+x d   c
+1a b  a
+1a   e
+b
+
+b
+2c da
+#3 d
+xa
+#3c
+xd
+xf
+xc
+#2dabc
+x  d
+x ab
+x c
+b
+1cdde
+1cd a
+#2aa c
+x  d
+x ac
+x   c
+b
+#2  d a
+x a
+xab
+x  d c
+1  b d
+1 ddef
+b
+2 ddca
+#3 c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+#2 dda
+x  b
+x  a
+x   c
+b
+1   a
+1 a a d
+#2 ab  d
+x  d
+x a
+x c
+b
+
+b
+#2 daac
+x   c
+x   a
+x d
+#2 ca a
+x  c
+x  d
+x c
+b
+1 a c
+1 c  a
+#2 da c
+x   c
+x   a
+x c
+b
+#2 aaa
+x  d
+1  dce
+2  dac
+#3  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+#2  dca
+x a
+1 cde
+1 abc
+1     a
+b
+1  eeec
+#2 c  a
+x    c
+#2    e
+x a a
+1 a c d
+b
+1  deec
+1  def
+#2 adc a
+x  a
+x ac
+x   c
+b
+
+b
+2  dca
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+1 cdca
+b
+1acd a
+1acd a
+2c da
+#3 d
+xa
+#3c
+xd
+xf
+xc
+b
+#2ddff
+x     d
+xddf
+x   f
+1c d a
+#2a
+x  b
+b
+1 dfec
+1 dff d
+#2 ddca
+x a
+x cd
+x   c
+b
+1 daac
+2  bc
+#3 c
+x a
+1 cdca
+1f
+b
+1fd
+1cd
+1ea
+1fcd
+b
+1cdda
+1  def
+1  c c
+1  dce
+b
+
+b
+1  def
+#2 aa c
+x   c
+#2  aa
+x  c
+x  d ef
+x   e
+b
+1  bac
+1  b c
+1    cd
+1   c
+b
+1   eec
+1 cee c
+1 efec
+1aac  a
+b
+1 cdca
+#2 d
+xa
+#2cd a
+xd
+xc
+xac c
+b
+1 dff
+1 cd
+#2 a c
+x  d
+x  cc
+x   c
+b
+#2  de
+x a
+x  d a
+x  b
+1  aa h
+#2    e
+x     f
+b
+1 a  cd
+1c da c
+1d b  a
+#2    e
+x  d
+b
+
+b
+1 a a
+1c def
+1 dff d
+#2 df  d
+x   e
+b
+2 ddca
+#3 c
+x a
+#2 cdca
+x d
+#2 dda
+x c
+x d
+xa
+b
+1cd a
+#2  d
+xd
+#2c
+xa
+1cdda
+b
+2c da
+#3 d
+xa
+#3c
+xd
+xf
+xc
+#2ddff
+x     d
+xddf
+x   f
+b
+1c da
+#2   a
+x   c
+#2  a
+x  c
+1a d e
+b
+1 da c
+1 dcac
+1 cdca
+#2   e
+x  d
+b
+
+b
+1 abc
+1 cd a
+1 da c
+1a d e
+b
+1  def
+#2  fec
+x d
+1aabc
+1cdda
+b
+1 df  d
+#2d
+x d
+1acd a
+1c
+b
+1 dfec
+1 db  d
+1 ddca
+1 cdca
+b
+#2 d  c
+x  a
+x dca
+x    c
+1 cdca
+#2   e
+x  d
+b
+1 abc
+1 cd a
+1 da c
+1a d e
+b
+1  def
+1 dfec
+#2aabc
+x c
+1cdda
+b
+1 df  d
+#2d
+x d
+1acd a
+1c
+b
+
+b
+1 dfec
+1 db  d
+1 ddca
+1 cdca
+b
+Y ddef
+b
+b
+
+e

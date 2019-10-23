@@ -1,0 +1,259 @@
+-C
+-t
+-f
+{22. Amor dormiglione/22. Amor dormiglione}
+b
+0. dde  7
+0. dde  a
+b
+.
+0. dde  a
+0. dc   //a
+b
+w. cdc  ///a
+b
+1. c ca
+2     d
+1 c ca
+1 dd  c
+0 dde  a
+b
+1. ddef
+2a d e
+1 ddef
+1 db c
+0 a a d
+b
+0 c ca
+1     d
+1 dd  c
+1     a
+1 dd  c
+b
+1 df  d
+1     c
+1 df  d
+1a\1c\3d a
+1     \2d
+1    a
+b
+1 db c
+1    a
+1  b c
+1  dce
+1    c
+1    e
+b
+
+b
+1  def
+1 a
+1 c c
+1 dde
+1   f
+1 dd
+b
+1 cbc
+1  a
+1 cb
+1 da
+1   c
+1 da
+b
+1a d e
+1   a
+1 cdc
+0. dc c
+b
+0. cdca
+1
+#2 da   a
+x     a
+x     c
+x      a
+b
+1 c ca
+#2    a
+x    c
+#2    e
+x    a
+1 dda
+#2   a
+x   c
+x  a
+x   a
+b
+1 dd   a
+1  a
+1 dda
+1 c ca
+1 dd  c
+1c da  a
+b
+0.aa c d
+1 ddea
+0 cdc
+b
+
+b
+0 dde  a
+1 daa  a
+0.acd a
+b
+0 dcac
+1 cdca
+0. acac
+b
+1 cdca
+#2    a
+x     d
+#2     c
+x     a
+0. dd  c
+b
+1 da
+#2   a
+x    d
+#2    c
+x    a
+0. df  d
+b
+1 cdc
+#2    a
+x     d
+#2     c
+x     a
+0. bde  a
+b
+0 df  d
+1aa   e
+0acd a
+1      ///a
+b
+0.dd    //a
+0.a d   /a
+b
+1 ddf  a
+0   e
+0. df  d
+b
+0 c ca
+1     d
+1 dd  c
+0 dde  a
+b
+
+b
+0aad  a
+1  c
+1a\1c\3d a
+1     \2d
+1    a
+b
+1 d   c
+1 c   a
+1 d   c
+1 dda
+1a   e
+1 dda
+b
+0 \4d\1b \2c
+1 \3c \2ca
+1 \4d\1b \2c
+1aa   \3d
+1 d
+b
+0. cdca
+0 dde  a
+1    f
+b
+0a d e
+1 dc c
+0 c ca
+1 dd  c
+b
+1aa   d
+1add a
+#2 c
+xd
+0.cdd a a
+b
+b
+C
+0. \2c&{\3d\1ca
+#2 d&}c c
+x     \3e
+b
+1 cdca
+1     d
+1fd   c
+#2da   a
+x c
+b
+
+b
+0cdd   a
+#2fdde
+x   a
+#2ff  e
+xed  c
+b
+b
+0fcd a
+1     d
+0. dd  c
+b
+0. df  d
+0.aa   e
+b
+1acd a
+0c
+0.dd  c
+b
+0.ff  e
+0ddda
+1c     a
+b
+0da a d
+1     c
+0.da c a
+b
+1cdda
+0      a
+1cdda
+1a d e
+1a d d
+b
+0 da c
+1 db b
+0 cdca
+1     d
+b
+0 dd  c
+1 dd  b
+0.aac  a
+b
+0.bad   a
+0aac  a
+1 dd  b
+b
+
+b
+1bad   a
+0aa c a
+0 cdc  ///a
+1      /a
+b
+0. dde  a
+0 aba d
+1cdd  c
+0.da   a
+b
+b
+0.fda   a
+0. dde  7
+.
+b
+b
+
+e

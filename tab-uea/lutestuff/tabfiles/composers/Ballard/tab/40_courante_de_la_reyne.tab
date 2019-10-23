@@ -1,0 +1,389 @@
+-C
+-t
+-f
+{Courante 1 -- de la Reyne/Courante 1 -- de la Reyne}
+b
+W   a  a
+W    d /a
+W    a ///a
+b
+b
+S3
+1 f
+b
+1ffgh
+1h f
+1   g
+b
+1.if h
+2h
+1f
+b
+1eff  a
+1a
+#2if h
+x h
+b
+1hif
+1 fg
+1f
+b
+1e f  a
+1af
+#2f dd
+x a
+b
+
+b
+1db c
+1bb a
+1 a
+b
+1abb d
+#2      /a
+xc
+1d
+b
+1cdda
+1d
+1ffg a
+b
+1e f  a
+1if
+1h i
+b
+1f g
+1.eff  a
+#3c
+xe
+b
+1f   a
+1      ///a
+1    h
+b
+1ffhh
+1   c
+1   a
+b
+1  dcd
+1   ac
+1 ac
+b
+
+b
+1 bdca
+#2 a
+x b
+#2  d
+x a
+b
+1  c  a
+#2  d
+x a
+1 bdca
+b
+#2 ab c
+x  a
+1   cd
+1  d a
+b
+1  ccca
+1    d
+#2  da b
+x    c
+b
+1  b da
+1   d  a
+1    c
+b
+1.   cd /a
+2  a
+#2  b
+x   c
+b
+
+b
+#2  aa  a
+x   c
+#2  a
+x  b
+#2  d
+x a
+b
+#2  c  a
+x  d
+#2 a
+x  ca
+#2  d d
+x a  c
+b
+#2 b ca
+x  a
+1. ac  a
+#3  d
+x a
+b
+1  d a
+1      ///a
+1    a
+b
+1  dc
+1a
+1 d
+b
+1abd
+1 aff
+1a
+b
+1cd e
+1d
+1f
+b
+
+b
+1 d f
+1  f
+1  de
+b
+1aabc
+1d
+1 c
+b
+1cef c
+1 a
+1af   d
+b
+1  g a
+1 efec
+1    a
+b
+1af   e
+1  fc
+1 d
+b
+1 c  a
+1  dc
+1     d
+b
+1 d  ac
+1  da
+1 b
+b
+1     d
+1 aba
+1  d  c
+b
+
+b
+1  b  a
+1 b c
+1 a
+b
+1  dc b
+#2   a
+x    d
+1   a
+b
+1ab c a
+1 a
+1c d
+b
+1da c
+#2  b
+xb
+#2ab  d
+x  d
+b
+1 dff d
+1   d
+1 bbc a
+b
+1     b
+1. a a d
+#3  d
+x a
+b
+1 b  a
+1  dc
+1     d
+b
+
+b
+1 d  ab
+1    c
+1    a
+b
+1aaccca
+1 c  a
+1bdd   a
+b
+1 b
+1aadcca
+#2  c
+x d
+b
+1 cdca
+1      ///a
+1    a
+b
+1 cdc
+1a
+1 d
+b
+#2 bd
+x a
+#2 b
+x d
+#2a
+x  b
+b
+
+b
+#2  a
+xf
+#2c
+xd
+#2f
+x d
+b
+#2 ab
+x b
+#2 d
+x  d
+#2  b
+x  a
+b
+#2   c
+xda
+#2  b
+x  d
+#2 a
+x c
+b
+#2    c
+xc
+#2 e
+x    a
+#2  f  d
+xa
+b
+#2  d a
+x  b
+#2  a c
+x c
+#2 e
+x    a
+b
+
+b
+#2     e
+xa
+#2 a
+x   c
+#2  d
+x a
+b
+#2     a
+x c
+#2  d
+x   c
+#2    a
+x     d
+b
+#2     c
+x d
+#2  d
+x   a
+#2 d
+x b
+b
+#2     d
+x a
+#2  ba
+x  d
+#2 a
+x  d  c
+b
+#2  b  a
+x b
+#2   c
+x d
+#2 b
+x a
+b
+
+b
+#2     b
+x  dc
+#2   a
+x    d
+#2   a
+x    a
+b
+#2     a
+xab c
+#2 a
+x b
+#2  d
+xc
+b
+#2     a
+xda
+#2  b
+xb
+#2a   d
+x  d
+b
+#2     d
+x d
+#2  f
+x  d  b
+#2     a
+x  bc
+b
+#2 b    a
+x      /a
+#2   a d
+x b
+#2 a
+x   d
+b
+
+b
+#2 b ca
+x d
+#2a
+x  d
+#2   c
+x     d
+b
+#2 d  ab
+x b
+#2  d
+x a
+#2 b
+x d
+b
+#2a b  a
+xc d
+#2da
+xab
+#2bdd   a
+x b c
+b
+#2  dd
+x b a
+#2aac ca
+x  d d
+#2  c c
+x d
+b
+1 cdca
+1      ///a
+1   c
+b
+Y. cdca
+b
+b
+
+e

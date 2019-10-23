@@ -1,0 +1,152 @@
+-t
+-f
+{Zart schöne fraw/Hans Newsidler}
+b
+0a  c
+1a
+1   c
+b
+0 db
+1 d"+b
+1  a
+b
+1a  c
+#2   c
+x  a
+1 db
+1 bd
+b
+#2 d
+x b
+x a
+x  d
+1 a c"+
+1 a
+b
+0  d a
+1
+1 bd
+b
+
+b
+1 bd
+1 bd
+0 db
+b
+0 bd
+1 af
+#2 a
+x b
+b
+1 db
+1a  c
+1  a
+1 e
+b
+0a  c
+1
+1a d
+b
+1a d
+1c d
+1d  c"+
+#2d
+xc
+b
+1a   d
+0 db
+1 bd
+b
+
+b
+0  dd
+0 a c
+b
+w  d a
+b
+0
+0 bd
+b
+0 bd
+0 db
+b
+0 a c
+1a   d
+1 db
+b
+#2a
+x d
+x b  d
+x a
+1  da
+1  d
+b
+0  b  d
+1
+1  b  d
+b
+
+b
+0 b  d
+0a   d
+b
+1 d"+b
+#2  b
+x  a
+1a  c
+1b  a
+b
+#2b  d"+
+xa
+x d
+x b
+0 db
+b
+0 b  d
+1
+1a   d
+b
+0 db
+1 d"+b
+1  a
+b
+
+b
+1a  c
+#2   c
+x  a
+1 db
+1 bd"+
+b
+#2 d
+x b
+x a
+x  d
+1 a c"+
+1 a
+b
+0  d a
+1
+1a d
+b
+1a d
+1c d
+1d  c"+
+#2d
+xc
+b
+1a   d
+0 db
+1 bd
+b
+0  dd
+0 a c
+b
+
+b
+Y  d a
+b
+b
+Q
+
+e

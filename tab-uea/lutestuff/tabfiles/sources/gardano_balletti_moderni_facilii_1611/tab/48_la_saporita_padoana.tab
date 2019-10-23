@@ -1,0 +1,297 @@
+-C
+-t
+-f
+{48. La saporita/48. La saporita}
+b
+2aacc
+b
+#2 bd a
+xa
+#2abb d
+x    c
+1abd a
+b
+#2 db  d
+x   a
+#2 dba d
+x dba d
+#2 dba
+x dba d
+b
+#2abd a
+x d
+#2 bd a
+x ab  d
+#2  d  b
+x   a
+b
+#2aac  a
+x   c
+#2aac  a
+xaac  a
+#2aac
+xaac  a
+b
+#3abd a
+x d
+x b
+x a
+#3 bd a
+x a
+x b
+x    c
+#3    d
+x   a
+x   c
+x   e
+b
+
+b
+#2 dff
+x     d
+#2 dff d
+x dff d
+#2 dff
+x dba d
+b
+2abd a
+#3   c
+x d
+#2 bd a
+x aba d
+#2  d  c
+x   b
+b
+#2aac  a
+x   c
+#2aac  a
+xaac  a
+#2aac
+xaac  a
+b
+#2aabc
+xaab
+#2aabc
+xaabc
+1 ea c
+b
+#2dabc
+xd
+#2d
+xca bc
+#2aa cd
+x  d
+b
+#2 ea c
+xc
+#2abb d
+xabd d
+#2aaa c
+x e
+b
+#2aac  a
+x   c
+#2aac  a
+xaac  a
+#2aac
+xaac  a
+b
+
+b
+#3 abc a
+x  d
+x  b
+x  a
+#3  b  a
+xd
+xc
+xa
+#3 ea c
+xa
+xaaa c
+x e
+b
+#3aab  a
+x e
+xa
+xc
+#3d    a
+x  a
+x  b
+x  d
+#3 ab  a
+x     c
+x     d
+x    a
+b
+#2 ea c
+xc
+#3dabc
+xc
+2abd a
+#2aaa c
+x e
+b
+#2aac  a
+x   c
+#2aac  a
+xaac  a
+#2   c
+xaac  a
+b
+#2ea c
+x     a
+#2ea c a
+xea c a
+1fdaa
+b
+#2hd f d
+xhd f
+#2hd f d
+xhd f d
+#2hd f
+xfd a
+b
+
+b
+#2dabc
+x     a
+#2c   c
+x ea c
+#2a   e
+x  e
+b
+#2 ea c
+x  a
+#2 ea c
+x ea c
+#2 ea
+x ea c
+b
+#2aac  a
+x   c
+#2aac  a
+x ac  a
+1  def
+b
+2 ab  d
+#3   a
+x  d
+#3 a
+x c
+2 db  d
+#2d
+xcdda
+b
+#2aab  a
+xd
+#3     a
+xc
+xa
+x e
+#3aab  a
+xd
+xc   a
+xa
+b
+
+b
+#2 ea c
+x  a
+#2 ea c
+x ea c
+3 ea
+#4 a
+x c
+#4 d
+xa
+xc
+xd
+b
+#2cdda
+xf
+#3   a
+xd
+xc
+xa
+#3 d a
+x c
+x a
+x  d
+b
+#2 ab  a
+xd
+#3     a
+xc
+xa
+x d
+#3acd a
+xd
+xc
+xa
+b
+#2 ea c
+xc
+#3dabc
+xc
+2abd a
+#2aaa c
+x e
+b
+#2aac  a
+x   c
+#2aac  a
+xaac  a
+3aac
+#4 a
+x c
+#4 d
+xa
+xc
+xd
+b
+
+b
+3cdda
+#4 a
+x c
+#4 d
+xa
+xc
+xd
+#3f  a
+xd
+xc
+xa
+#3 d
+x c
+x a
+x  d
+b
+#3 ab  a
+x d
+x b
+x a
+#2 bd a
+x ab c
+3   cd
+#4  d
+x  b
+2  d
+b
+#2 ea c
+xc
+#2abb d
+xabd a
+#2aaa c
+x e
+b
+#2aac  a
+x   c
+#2aac  a
+xaac  a
+Yaac
+b
+b
+
+e

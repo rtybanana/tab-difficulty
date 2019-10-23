@@ -1,0 +1,277 @@
+-C
+-t
+-f
+{O passi sparsi/O passi sparsi}
+b
+c
+w cc e
+b
+c
+#1 cc e
+x acc
+x dda
+xac  a
+b
+#1aa c
+x cde
+0 cc e
+b
+0 cc e
+#1 cd  c
+x cd  c
+b
+#1
+x cc e
+#2 cde
+x  a
+x  ce
+x dd
+b
+#2ca c
+x c c
+x  aa
+x a
+#1 cc e
+x  c
+b
+
+b
+#1 acc
+x  de
+#2  aa
+x  c
+1  a
+b
+#1  cce
+x  cce
+x
+x cc e
+b
+#2 cde
+x  a
+x  ce
+x dd
+#2aa c
+x c c
+x  aa
+x a
+b
+#1 cc e
+x  c
+x acc
+x  de
+b
+#2  def
+x  c
+#1  a
+x  cce
+x  cce
+b
+#1  de
+x   e
+x  dee
+x  cce
+b
+
+b
+#1  de
+x  de
+x  cee
+x  dce
+b
+1  fec
+#2 d
+x  d
+#2 cc e
+x  a
+x  c
+x a
+b
+0  deec
+0  deec
+.
+b
+b
+1acdca
+0  d
+1a c  a
+b
+0 ca  c
+1 c ce
+#2  def
+x a
+b
+#1 cc e
+x cd a
+x aa c
+x  cce
+b
+
+b
+#2  aa
+x  a
+1 h
+#2  hge
+x g
+#3 h
+x g
+x e
+x g
+b
+0c d  c
+#1  c e
+x c  a
+b
+0ca  c
+0ca
+b
+#1a c e
+xa d
+x df c
+#2 d
+x  d
+b
+#1 cc e
+x aaa
+0 cc e
+b
+#1  def
+x df c
+x cc e
+x cd a
+b
+1. aa c
+#3   c
+x  a
+2  cc
+1  d
+2  c
+b
+#1a d a
+x c
+1. dda
+2 c
+b
+
+b
+#1aa c
+x dde
+xaa c
+xa  c
+b
+#1 cd a
+x c  a
+x
+xaa c
+b
+#1aa c
+xaa c
+xaa c
+xac  e
+b
+1cca
+#2 ca
+xa
+#1 df c
+x df c
+b
+#1 cc e
+x cc e
+x
+x cc e
+b
+#1 cc e
+x cc e
+x cde
+x dde
+b
+0.aa c
+1aa c
+b
+#1 df c
+x cc e
+x   a
+x aa
+b
+
+b
+0 cc e
+0 cc
+b
+wacdca
+b
+#1aa c
+xaa c
+x cde
+x cde
+b
+0. cc e
+1 cc e
+b
+#1 cde
+x aaa
+0 cc e
+b
+0 cd  c
+0 dda
+b
+0
+#1 acc
+1 cd a
+b
+2 adc
+#3  c
+x  a
+1 acc
+1  d a
+1 c ca
+b
+
+b
+#2 aa c
+x  c
+1a d a
+1a  c
+#2  c
+x  a
+b
+2a cc
+#3  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+0 c ca
+b
+wacdca
+b
+#1a cc
+xa cc
+x cde
+x dde
+b
+0aa c
+0     a
+b
+0.
+1 cde
+b
+#1 cde
+x df c
+0 cc e
+b
+0. ca  c
+1 cde c
+b
+#1 dfec
+x ca a
+0 df c
+b
+
+b
+w cdeec
+b
+b
+
+e

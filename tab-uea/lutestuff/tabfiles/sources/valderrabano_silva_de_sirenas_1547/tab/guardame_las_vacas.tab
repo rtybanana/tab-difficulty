@@ -1,0 +1,594 @@
+-C
+-t
+-f
+{Guardame las vacas/Guardame las vacas}
+b
+1a b d
+#2a b
+x    d
+2a b d
+#3    c
+x    a
+b
+#2 db c
+x     d
+#2 d   d
+x  b
+#2 d  c
+x   a
+b
+2 b ca
+#3  d
+x    c
+#3    d
+x   a
+2 b c
+2   d
+#3 a
+x  d
+b
+2  cc
+#3a
+x  a
+#2aac
+x   c
+1aa c
+b
+2 bd
+#3    a
+x d
+2a
+#3    d
+x   a
+2   c
+#3a
+x  a
+b
+
+b
+#2 db
+x     d
+#3 d
+x    a
+x    c
+x    d
+#2 db c
+x     d
+b
+2 bd a
+#3   c
+x  b
+#2  dd
+x    a
+#2 adc
+x  c
+b
+#2  d a
+xa
+#2a d a
+x  d
+1a d a
+b
+b
+#2ab
+x  d
+#2a b
+x   c
+#2a b d
+x  d
+b
+#2 d  c
+x  b
+#2 da
+x  b
+#3 d   d
+x    a
+2    c
+b
+#2 b  a
+x   d
+#2 b c
+x   d
+#3 b
+x  b
+2  d
+b
+
+b
+#2 a c
+x     a
+#3 a
+x     c
+2     e
+#3 a
+x    a
+2    c
+b
+#2a b d
+xa b d
+2a b d
+#3d
+x   a
+2  bc
+#3b   d
+xa
+b
+#2 db
+x a
+#3  b
+x d
+x a
+x c
+#2 db
+xa
+b
+2 bd
+#3     b
+x  b
+#3   d
+x   c
+x   a b
+x    d
+#2    ca
+x  c
+b
+#2  d a
+xa
+#2  d a
+x   c
+#2a   a
+x  d
+b
+b
+
+b
+#2a  c
+x    a
+#3a
+x    c
+x    d
+x   a
+#3a  c
+x  a
+x  b
+x  d
+b
+#2 df
+x   f
+2 d   d
+#3  b
+x    a
+#3  b c
+x    d
+x   a
+x   c
+b
+2  dd
+#3     b
+x  b
+#3  d
+x     d
+x    a
+x    c
+#3    d
+x   a
+x   c
+x   d
+b
+2  cc
+#3     a
+x  d
+#3 a
+x     c
+x     e
+x    a
+#2  c c
+x     a
+b
+
+b
+2a b d
+#3d
+x   a
+#3   c
+x  a
+xa b
+xc
+2d b
+3    d
+#4b
+xa
+b
+2 db c
+#3     d
+x b
+#3 a
+x  d
+x  b
+x  d
+#3 ab  d
+x c
+x d
+xa
+b
+#3 bd  b
+x     d
+x    a
+x    c
+#3    d
+x   a
+x   c
+x   d
+#2  cc
+x     a
+b
+#2  d a
+x   c
+#2   ca
+x  d
+1  d a
+b
+b
+#2a
+x bd
+#2a  c
+x bd
+#3a
+x  b
+2   c
+b
+
+b
+#2 d
+x  ff
+#2   a
+x a f
+2 d a
+#3    d
+x    c
+b
+#2 b  a
+x   d
+#2 b c
+x   d
+#3  d
+x   c
+x   a
+x    d
+b
+2 a c
+#3   a
+x    d
+#3 a  c
+x    a
+x     d
+x     c
+#2     a
+x a
+b
+2d b
+#3a
+x   d
+#3d  c
+x   a
+x    d
+xb
+#2a b d
+x  d
+b
+2 db
+#3     d
+x  d
+#3 a
+x    a
+x    c
+x    d
+#2 d a
+x a f
+b
+
+b
+2 bd
+#3    a
+x d
+#3a
+x    c
+2f   d
+#2 a a
+xe  c
+b
+#2f d a
+xa
+#2b d
+xa
+#2  d a
+x   c
+b
+b
+#2ai
+x  g
+#3a
+x  i
+x f
+x g
+#3 i
+xf
+xh
+xk
+b
+#2l i
+xh  f
+#3 i
+x   h
+x  f
+x  g
+#2  i
+xd ff
+b
+#2 fg d
+xf  d
+#3 g
+x   f
+x  d
+x  f
+#2 fg d
+x  d  b
+b
+
+b
+2 a c
+#3     a
+x  a
+#3  cc
+x  d
+x a   a
+x     c
+#3   c e
+x    a
+2    c
+b
+#2a
+x  d
+#3 b c
+x d
+2a   a
+#3    d
+x   a
+2a  c
+b
+2 d   d
+#3  b
+x b
+#3 a a
+x  d
+2 d
+#2 ab c
+x d   d
+b
+#2 b  a
+x  d
+#3 b   b
+x  b
+x bd
+x d
+#2aa   a
+x  c
+b
+#2  d a
+x   c
+#3  d
+x   a
+x    d
+x    c
+#2    a
+x  d
+b
+b
+
+b
+#2   c
+xa b
+#3    d
+xc
+2d b
+#2f g a
+xi
+b
+#2 d f d
+xh
+#3     d
+xf
+xd
+x    a
+#2 d ac
+x   d
+b
+#2 b ca
+x   d
+#3  d
+x   c
+x   a
+#4    d
+x    c
+#3 b ca
+x     d
+x bd  b
+x d
+b
+#2aa   a
+x  c
+#3   c
+x  d
+2 a
+#3   c
+x  d
+x  c
+x  a
+b
+
+b
+2   c
+#4    a
+x   d
+x   c
+x   a
+#3    d
+x   a
+x    d
+x    c
+#3   ca
+xa
+#4 d
+x b
+x a
+x  d
+b
+#3 ab
+x d
+#4     d
+x b
+x a
+x  d
+#3  b c
+x    d
+x   a
+x   c
+#2 db c
+xa
+b
+#3   cd
+x d
+x b
+x a
+#3 bd a
+x     d
+2 bd  b
+#2 a   a
+xa cc
+b
+#2b d a
+xa
+#3    a
+x d
+x cd
+x a
+#2 cd a
+x   c
+b
+b
+
+b
+#2a
+xa
+#4db
+xb
+xd
+xf
+#4d
+xb
+x f
+x d
+#4 b
+x a
+x  d
+x  b
+#4   d
+x   c
+x   a
+x    d
+b
+3 db c
+#4     d
+x b
+#4 a
+x b
+x d
+xa
+#3 db
+x  d
+x df
+x  g
+#3 d f
+x   d
+x   c
+x   a
+b
+#3 b c
+xa
+#4    a
+x d
+x b
+x a
+#3  d
+x     d
+x     b
+x  b
+#3   da
+x     d
+x     b
+x   a
+b
+
+b
+#3   c a
+x  a
+x  cc
+x  d
+#3 a
+x     c
+x   c e
+x    a
+#3    ca
+x    d
+2    c
+b
+#2   c
+x   c
+2  b
+#4    d
+x   d
+x   c
+x   a
+3d   d
+#4 g
+x f
+#4 d
+x  g
+x  f
+x  d
+b
+2 dff
+#4     d
+x  g
+x  f
+x  d
+#3  ff
+x  f
+x d
+x f
+#4 d
+x  g
+x  f
+x  d
+#3 d f
+x f
+b
+
+b
+#3  gh
+x   f
+xf dd
+#4d
+x g
+#3 fg d
+xd
+xfb   b
+x d
+#2af   a
+x  cc
+b
+Y.  dca
+b
+b
+
+e

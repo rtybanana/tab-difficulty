@@ -1,0 +1,392 @@
+-C
+-t
+-f
+{Galliard 10/Galliard 10}
+b
+S3
+2.aabc
+3\3c
+#2\4da
+x   \2c
+#2\4da \1b
+x\3c
+b
+2.aa c
+3  a
+#2 ab
+x   c
+#2  de
+x e
+b
+2.da c
+3 c
+#2cd a
+x a
+#2a   \3e
+x  \4e
+b
+2. \2da \1c
+3    e
+#2   a
+x    c
+#2a b d
+x  d
+b
+2. ab c
+3 c
+#2 da
+x    c
+#2 bb a
+x  a
+b
+
+b
+2. aba d
+3    a
+#2    c
+x     d
+#2ab  d
+xc
+b
+2.da c a
+3     c
+2.aa c d
+3    a
+#2aaa c
+x e
+b
+#2     a
+xaac
+#2   c
+x  d
+1aac  a
+b
+b
+#3aa c
+x e
+xa
+xc
+#2d
+xa
+#2da b
+xc
+b
+#3aa c
+x   b
+x   c
+x  a
+#2  b
+x   c
+#2  de
+x e
+b
+2da c
+#3 a
+x c
+#2cd a
+x a
+#2a   \3e
+x  \4e
+b
+
+b
+2. \2da \1c
+3    e
+#2   a
+x    c
+#2a b d
+x  d
+b
+#3 ab c
+x  d
+x a
+x c
+#2 da
+x    c
+#2 bb a
+x  a
+b
+#3 ab  d
+x  a
+x  b
+x    a
+#2    c
+x     d
+#2ab  d
+xc
+b
+2da c a
+#3     a
+x     c
+#2aa c d
+x    a
+#2aaa c
+x e
+b
+#2     a
+xaac
+#3   c
+x  d
+x  c
+x  a
+1aac  a
+b
+b
+1 \4da \1c
+#2 da
+x \2c  a
+#2 ab  d
+x  db c
+b
+
+b
+#2  bc a
+x   c
+#2 a
+x   a
+#2a \2d&{ \3e
+x \4dc&} \1c
+b
+#2 \2c  a
+x  \3d
+#2a
+x  b
+#2fda
+xdc c
+b
+#2cd a
+x d
+#2c
+xac
+#2 df
+x cd
+b
+#2 d f
+x  f
+#2 d
+x  de
+#2 abc
+x c
+b
+#2 daa
+xc
+#2 ab
+xa
+#2  de
+x e
+b
+#2ab c
+xd
+#2 a b
+xc d
+#2aabc
+x     a
+b
+
+b
+#2    c
+x \3e\4f
+#2   e
+x \4f
+1 ef
+b
+b
+2 da c
+#3 a
+x c
+#2 d
+x c  a
+#2 ab  d
+x  db c
+b
+#3  bc a
+x  a
+x  b
+x  d
+#2 ab
+x   a
+#2a d e
+x dc c
+b
+#3 \3c\2d a
+x a
+x c
+x d
+#2ac
+x  b
+#2fda
+xdc c
+b
+#3cd a
+xa
+xc
+xd
+#2c
+xac
+#2 df
+x cd
+b
+
+b
+2 d f
+3.  f
+4 d
+#2 d
+x  de
+#2 abc
+x c
+b
+#2 daa
+xc
+#2 ab
+xa
+#3  de
+xa
+2 e
+b
+#2ab c
+xd
+#2   b
+xca
+#2aabc
+x     a
+b
+2 ea c
+#3 a
+x c
+#3 e
+xa
+xc
+xd
+1c
+b
+b
+1a \3d \2d
+#2 d  c
+x  b
+#2 b  a
+x  a
+b
+#2 a   \3d
+x   \1c
+#2  \4d  \2c
+x   \1b
+2  bc a
+2d
+b
+
+b
+#2c  a
+x a
+#2a   d
+x  d
+#2 d  c
+x  b
+b
+#2  dff
+x   e
+2   f
+2h\4f
+#2f a
+x d
+b
+#2d  c
+x c
+#2c  a
+x a
+#2a   e
+x  e
+b
+#2 efec
+x    a
+#2  ba d
+x d
+#2 bd a
+x ab
+b
+#2  ded
+x   c
+#2 a bc
+x   c
+#2  d
+x   b
+b
+#2     a
+x  cc
+#2    c
+x  d
+1  ccca
+b
+b
+
+b
+2a \3d \2d
+#3  \1b
+x  \3d
+#2 \4d  c
+x  b
+#2 b  a
+x  a
+b
+2 a   \4d
+#3   \3c
+x a
+#2  \4d  \2c
+x   \1b
+2  bc a
+2da c
+b
+2\1c  a
+#3 a
+xc
+#2a   \2d
+x  \3d
+#2 d  c
+x  b
+b
+2  dff
+#3   e
+x   f
+2   f
+#3 f
+xh
+#2\4f a
+x \2d
+b
+2\3d  \1c
+#3 \1c
+xd
+#2\1c  a
+x a
+#2a   \3e
+x  \2e
+b
+#2 efec
+x    a
+#2  ba d
+x d
+#2 bd a
+x ab
+b
+
+b
+#2  ded
+x   c
+#2 a bc
+x   c
+#3    c
+x  a
+x   b
+x  d
+b
+#2     a
+x  cc
+#3    c
+x  d
+x  c
+x  a
+Y  ccca
+b
+b
+
+e

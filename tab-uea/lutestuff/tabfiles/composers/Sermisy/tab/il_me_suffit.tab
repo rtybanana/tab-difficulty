@@ -1,0 +1,166 @@
+-C
+-t
+-f
+{Il me suffit/Il me suffit}
+b
+c
+0
+0 aa c
+b
+#1 da c
+x a
+#1 c
+x d
+b
+#1a  cd
+xd
+#1c
+xa
+b
+0 da c
+0da   d
+b
+0d da
+0c da
+b
+
+b
+0.d b  d
+1  d
+b
+#1 a
+x b
+0da   d
+b
+0c da
+0a bc
+b
+0f g a
+0    a
+b
+0da  c
+#1c
+x    d
+b
+#1  da
+xa
+0a bc
+b
+
+b
+0a a c
+0 e
+b
+wa  c a
+b
+0a bc
+0a bc
+b
+0a bc
+#1c da
+xa
+b
+#1 d
+x cb
+0 da
+b
+0a d a
+#1  b c
+x  a
+b
+
+b
+#1 d cc
+x   a
+#1 d ca
+x c
+b
+#2 d
+x c
+x a
+x c
+0. d a
+b
+#1 c
+x a
+1  d
+0 dda
+b
+0 db
+#1 ab
+xa
+b
+0c de
+0d bc
+b
+
+b
+#1   c
+xc  a
+#1a   d
+x d  c
+b
+0a  cd
+0a  c
+b
+w ea c
+b
+0 aa c
+#1 da c
+x a
+b
+#1 c
+x d
+#1a  cd
+xd
+b
+#1c
+xa
+0 da c
+b
+
+b
+0da   d
+#1d da
+xc
+b
+#2d
+xc
+xa
+xc
+0.d b  d
+b
+1  d
+#2 a
+x  d
+#2 a
+x b
+0da   d
+b
+0c da
+0a bc
+b
+0f g a
+0    a
+b
+
+b
+0da  c
+#1c
+x    d
+b
+#1  da
+xa
+0a bc
+b
+1a a c
+#2 e
+xa
+#1 e
+xa
+b
+Ya  c a
+b
+b
+
+e

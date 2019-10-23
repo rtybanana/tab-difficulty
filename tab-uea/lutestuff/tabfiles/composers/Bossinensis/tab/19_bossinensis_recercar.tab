@@ -1,0 +1,132 @@
+-C
+-t
+-f
+{Ricercar 19/Ricercar 19}
+b
+c
+#3  a
+x  b
+x  d
+x a
+#3 b
+x a
+x b
+x  d
+#2 a  c
+x  d
+x a
+x c
+b
+
+b
+2 df
+#3  d
+x  b
+#3  a
+x   c
+x   a
+x    d
+#3 d  c
+x    a
+x    c
+x    e
+#3   a
+x    e
+x   a
+x   c
+b
+#3 d d
+x   c
+x   a
+x    d
+#3    c
+x    d
+x   a
+x   c
+#tx  b
+x   c
+#tx   c
+x    d
+b
+
+b
+#3 bd
+x  b
+x   d
+x   c
+#3   d
+x   c
+x   a
+x    d
+#3 b a
+x    d
+x    c
+x    a
+#3   a
+x    d
+#4   a
+x    d
+x    c
+x    a
+b
+#3 a   d
+x    a
+x    c
+x    e
+#3   a
+x   c
+x  a
+x  b
+#3  d
+x  b
+x  a
+x   c
+#3   a
+x    e
+x    c
+x    a
+b
+
+b
+2 a  c
+#3    a
+x     d
+#3     c
+x     a
+x    e
+x    c
+2a   a
+#3b
+xa
+#3b
+xa
+x d
+x b
+b
+2 a a d
+#3   c
+x   a
+#3   c
+x   a
+x    d
+x    c
+2 bd a
+#3    c
+x    a
+#3    c
+x    a
+x     d
+x     c
+b
+2 b   a
+#3 d
+x b
+#3 d
+x b
+x a
+x  d
+Y ac  a
+b
+b
+
+e

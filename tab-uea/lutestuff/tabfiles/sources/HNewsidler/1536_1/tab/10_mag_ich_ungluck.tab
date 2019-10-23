@@ -1,0 +1,99 @@
+-C
+-t
+-f
+{10. Mag ich, ungluck, nicht widerstan/10. Mag ich, ungluck, nicht widerstan}
+b
+c
+0   \2c
+0   \2c
+b
+0  \1b
+0  \1b
+b
+0  \4d a
+0 \1b\3d
+b
+0 a \2c
+0 a \2c
+b
+Y  \4d\3d
+b
+0
+0a   \3d
+b
+0 \4d a
+0 \1b  a
+b
+Y a \2c
+b
+0
+0 \1b  \3d
+b
+0 a\1b
+0  \4da
+b
+0  \1b\2c
+1   \2c\3d"+
+#2   \2c
+x   \4d
+b
+#1  \1b\2c
+x  \4d \3d
+0   \1d\3f
+b
+Y   \2ca
+b
+0
+0  \1b\2c
+b
+
+b
+#1  \3d a
+x \1b
+x   a
+x a
+b
+0 \1b  \3d
+0a   \3d
+b
+0 \4d\1b
+0 \4d\1b
+b
+0 \1b\3d
+0 \1b\3d
+b
+0   \2c
+0a  \2c
+b
+0 \1b\3d
+0 \1b \3d
+b
+0  \4d\3d
+0 \4d a
+b
+0 a\1b
+0 a \2c
+b
+0  \1b\2c
+0  \1b \3d
+b
+#1
+x    \3d
+x  \1b"+\2c
+#2   \2c
+x   \3d
+b
+0 a\1b
+0 \1b\3d
+b
+0 \4d\1b
+0  \4d\3d
+b
+0 a \2c
+0 a \2c
+b
+Y  \2d a
+b
+b
+
+e

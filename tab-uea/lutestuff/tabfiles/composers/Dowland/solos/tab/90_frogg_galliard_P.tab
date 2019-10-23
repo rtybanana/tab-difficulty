@@ -1,0 +1,443 @@
+-C
+-t
+-f
+{90. Frogg Galliarde/90. Frogg Galliarde}
+b
+1.\2e\4f\3f  a
+2e
+1caa \1c
+b
+1.acc e
+2a
+1 ec  e
+b
+2. cd a
+3 a
+#2 c
+x e
+1aacc
+b
+1caabc
+#2      /a
+xf
+xe
+xc
+b
+1ea   a
+#2 f
+x h
+xe
+xf
+b
+1h    e
+1fc  a
+1ea   a
+b
+1cef c
+#2      /a
+x f
+x e
+x c
+b
+1cef c
+0      /a
+b
+
+b
+1.eff  a
+2e
+1caa c
+b
+1.acc e
+2a
+1 ec  e
+b
+2. cd a
+3 a
+#2 c
+x e
+1aacc
+b
+1caabc
+#2      /a|
+xf
+xe
+xc
+b
+1.\1ea   a
+2\4h
+#2f   a
+x\3e
+b
+#2\1c   e
+xa
+1ea  c
+#2caa   /a|
+x  d
+b
+#2     a
+xaac
+x   c
+x  d
+x  c
+x  a
+b
+1aac  a
+0   c
+b
+b
+
+b
+2ea   a
+#3a
+xc
+#3e
+xa
+xc
+xe
+1caa c
+b
+2a   e
+#3 c
+x e
+#3a
+x c
+x e
+xa
+1 ec  e
+b
+2 c  a
+#3  a
+x  c
+#3  d
+x a
+x c
+x e
+#2aacc
+x     a
+b
+2 ea   /a|
+#3 a
+x c
+#3 e
+xa
+xc
+xe
+#2f
+xc
+b
+1ea   a
+#2 f
+x h
+xe
+xf
+b
+#2h
+x     e
+xf    c
+x e
+xe    a
+x c
+b
+
+b
+2caa   /a|
+#3 a
+x c
+#3 e
+xa
+xc
+xe
+#3c
+xa
+x e
+x c
+b
+#2 a
+x  a
+x   b
+x    c
+1      /a|
+b
+#2e    a
+x f
+xh
+xe
+xc   c
+x e
+b
+#2a   e
+x c
+xe
+xa
+x e   e
+x a
+b
+#2 c  a
+x  d
+xa
+x  d
+x  c  a
+x   c
+b
+#2 ea c
+x a
+xcU
+x    a
+x     e
+x     c
+b
+1.eff  a
+2h
+#2f   a
+xe
+b
+
+b
+#2c   e
+xa
+1ea  c
+#2c     /a|
+x  d
+b
+2aac  a
+#3   c
+x  a
+#3  c
+x  d
+x a
+x  c
+#3  d
+x a
+x c
+x e
+b
+#2     a
+xaac
+x   c
+x  d
+x  c  a
+x  a
+b
+1aac  a
+0   c
+b
+b
+1acd a
+#2   c
+x d
+x c
+x a
+b
+1 cdca
+#2a
+x    c
+x    e
+x   b
+b
+1aa c
+#2     a
+x  d
+x  c
+x  a
+b
+
+b
+1aa c
+#2     a
+xc
+1ea c
+b
+1.fc   c
+2f
+#2e   c
+x  f
+b
+#2c
+x  d
+x   ge
+x h
+x g
+x  f
+b
+#2     c
+xcc\3e
+x   \2e
+x  \4f
+x  \3e
+x  c
+b
+1cc\3e  c
+0   \2e
+b
+1.\2e\4f\3f  a
+2e
+1ca  \1c
+b
+1.acc e
+2a
+1 ec  e
+b
+2. cdca
+3 a
+#2 c
+x e
+xa
+x     a
+b
+
+b
+1caabc
+#2      /a|
+xf
+xe
+xc
+b
+1.\2e\4f\3f&{  a
+2e
+#2c   a
+x  d&}
+b
+#2a
+x  c
+xaa ec
+x    a
+x e ec
+x  d
+b
+#2     a
+xaac
+x   c
+x  d
+x  c
+x  a
+b
+1aac  a
+0   c
+b
+b
+#2    a
+xacd
+x   c
+x d
+x c
+x a
+b
+2 cd a
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+xc
+xe
+xf
+b
+
+b
+#2ea
+x     a
+x   c
+x  d
+x  c
+x  a
+b
+2aac  a
+#3   c
+x  a
+#3  c
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xe
+b
+1.fc   c
+2f
+1e   c
+b
+#2c
+x  d
+xe   e
+xh
+xg
+xe
+b
+#2     c
+xcc\3e
+x   \2e
+x  \4f
+x  \3e
+x  c
+b
+1cce  c
+0   e
+b
+#2\1ea   a
+x\4h
+#3f
+x\3e
+x\1c
+xa
+#2 ea   /a|
+xc
+b
+
+b
+#2a   \3e
+x\4e
+#3\1c
+xa
+x \4e
+x \1c
+#2 a   \2e
+x \4e
+b
+#2 cd a
+xa
+#3 d
+x c
+x a
+x  d
+#2  c  a
+xa
+b
+#2 ea   /a|
+xe
+#3c
+xa
+x e
+x c
+#3 a
+x  d
+x  c
+x  a
+b
+1.ea   a
+2h
+#2f   a
+xe
+b
+#2c   e
+xa
+1ea  c
+#2caa   /a|
+x  d
+b
+#2     a
+xaac
+x   c
+x  d
+x  c
+x  a
+b
+1aac  a
+0   c
+b
+b
+
+e

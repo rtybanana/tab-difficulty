@@ -1,0 +1,487 @@
+-C
+-t
+-f
+{79. O gelosia d'amanti/79. O gelosia d'amanti}
+b
+c
+wabb d
+b
+0abb d
+0abb d
+b
+w dba d
+b
+0  ba d
+0 aba d
+b
+w bdca
+b
+0cdda
+0cdda
+b
+0abd a
+0aacc
+b
+wabd a
+b
+1aacc
+#2 d
+x b
+#2 a
+x  d
+x  c
+x  a
+b
+#2   c
+x  c
+x  d
+x a
+#2 b
+x d
+1a
+b
+w dba d
+b
+0 dba d
+0 dba d
+b
+
+b
+w bdca
+b
+0cdda
+0cdda
+b
+wddf  d
+b
+0cdda
+0cdda
+b
+0abd a
+0aacc
+b
+wabd a
+b
+1aacc
+#2   a
+x    d
+#2    c
+x    a
+x     d
+x     c
+b
+0     a
+0aacc
+b
+waacc
+b
+wabd a
+b
+waacc
+b
+0 bd
+0 ac
+b
+1  de
+1  c
+1  d
+1  a
+b
+waacc
+b
+
+b
+0 bd
+0 ac
+b
+1  de
+1  c
+1  d
+1  a
+b
+1aacc
+1  d
+1 a
+1 b
+b
+0aa c
+0  d
+b
+1aa c
+1  d
+1  c
+#2  a
+x  c
+b
+w cdca
+b
+wabb d
+b
+0ddff
+1fb d
+1   c
+b
+1   a
+1    d
+1da a
+1b
+b
+wabb d
+b
+0abb d
+0abb d
+b
+0abb d
+0abb d
+b
+
+b
+0ddff
+1fb d
+1   c
+b
+1   a
+1    d
+1da a
+1b
+b
+#2ab  d
+x   c
+x  a
+x  b
+#2  d
+x a
+x b
+x d
+b
+#2 b
+x a
+x  d
+x  b
+#2  a
+x   c
+x  a
+x  b
+b
+0  d
+0ab  a
+b
+1ab  a
+1    c
+1ab  d
+1   a
+b
+0aa c
+0 ddd
+b
+1aa c
+1  d
+1  c
+#2  a
+x  c
+b
+wcdda
+b
+
+b
+1 aba d
+1  a
+1   c
+1   a
+b
+0fc ca
+0 d a
+b
+wfc ca
+b
+wcdda
+b
+w dff
+b
+0 bd
+0 ab
+b
+1 bd
+1  b
+1  d
+1  a
+b
+w ab
+b
+w dff
+b
+0 bd
+0 abc
+b
+0 bd d
+0  def
+b
+wddff
+b
+0cdda
+0ddff
+b
+wabb d
+b
+w dff d
+b
+wabb d
+b
+0abb d
+0abb d
+b
+
+b
+0 dba d
+0 aba d
+b
+w bdca
+b
+0cdda
+0cdda
+b
+0abd a
+0aacc
+b
+wabd a
+b
+1aacc
+#2 d
+x b
+#2 a
+x  d
+x  c
+x  a
+b
+#2   c
+x  c
+x  d
+x a
+#2 b
+x d
+1a
+b
+w dba d
+b
+0 dba d
+0 dba d
+b
+0 bdca
+0cdda
+b
+wddf  d
+b
+0cdda
+0cdda
+b
+0abd a
+0aacc
+b
+
+b
+wabd a
+b
+1aacc
+#2   a
+x    d
+#2    c
+x    a
+x     d
+x     c
+b
+0     a
+0aacc
+b
+0aacc
+0aacc
+b
+0aacc
+0aacc
+b
+wabd a
+b
+0aacc
+0aacc
+b
+0 bd
+0 ac
+b
+1  de
+1  b
+1  d
+1  a
+b
+0aacc
+0aacc
+b
+0aacc
+0aacc
+b
+wabd a
+b
+0aacc
+0aacc
+b
+
+b
+0aacc
+0aacc
+b
+0abd a
+0aacc
+b
+1  de
+1  c
+1  d
+1  a
+b
+0aacc
+0aacc
+b
+wabd a
+b
+0aacc
+0aacc
+b
+0 bd
+0 ac
+b
+1  de
+1  c
+1  d
+1  a
+b
+1aacc
+1  d
+1 a
+1 b
+b
+0aacc
+0  d
+b
+1aa c
+1  d
+1  c
+#2  a
+x  c
+b
+w cdca
+b
+w
+b
+
+b
+wabb d
+b
+0ddff
+1fb d
+1   c
+b
+1   a
+1    d
+1da a
+1b
+b
+0abb d
+0abb d
+b
+0abb d
+0abb d
+b
+0ddff
+1fb d
+1   c
+b
+1   a
+1    d
+1da a
+1b
+b
+#2ab  d
+x   c
+x  a
+x  b
+#2  d
+x a
+x b
+x d
+b
+#2 b
+x a
+x  d
+x  b
+#2  a
+x   c
+x  a
+x  b
+b
+
+b
+0  d
+0ab  a
+b
+1ab  a
+1    c
+1ab  d
+1   a
+b
+0aa c
+0 ddd
+b
+1aa c
+1  d
+1  c
+#2  a
+x  c
+b
+w  d
+b
+1 aba d
+1  a
+1   c
+1   a
+b
+0fc ca
+0 d a
+b
+wfc ca
+b
+wcdda
+b
+0.abb d
+1   a
+b
+1aabc
+1c
+1dabc
+1a
+b
+0cdda
+0aabc
+b
+0  de
+0 e
+b
+
+b
+waacc
+b
+wabb d
+b
+0aabc
+0dabc
+b
+0cdda
+0acd a
+b
+w ddef
+b
+w
+b
+w cdca
+b
+Y
+b
+b
+
+e

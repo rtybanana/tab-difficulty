@@ -1,0 +1,408 @@
+-C
+-t
+-f
+{Galliard/Charles Bocquet}
+b
+2.d"x
+3b
+1ab"x
+1 d"#ff
+b
+1. b"xd
+2  b"#
+1 bdd
+b
+1 b"# c
+#2 d a
+xa
+#2b"#
+x a
+b
+#2a"#   d{
+x      /a
+#2d"x
+xb
+#2a"#
+x b
+b
+2  b"#cd{
+#3  d
+x a
+#2 b&(
+x    c
+2 b"#  a
+#3 a
+x b
+b
+#2 d   d&{
+x a"#
+2  b
+#3 b
+x d
+#2a"#   d
+x b  {
+b
+
+b
+2  d
+#3 d    }
+xa
+#2b"#  a
+x d
+2 a
+#3a
+xb
+b
+#2d  c
+xa"#  {
+2 b
+#3b
+xd   }
+#2f"#  d&{
+x d  }
+b
+#2d  f&{
+x f  }
+#2 b"xd&{
+xd  }
+#2c  a
+x d
+b
+#2df
+x   f
+#2 d"#
+x   d
+#2   c&{
+x b  }
+b
+#2 d d
+x b c
+#2 a"#   d{
+x    d
+2 a"# a
+#3  d{
+x a  }
+b
+#2 b"#
+x      /a
+#2  b"#
+x   d
+1   c"#d&{
+b
+
+b
+#3d
+xb
+xa"#
+x d
+#3 b",
+xa
+x d   }
+x b
+#3   f
+x d {
+x f
+x d",  }
+b
+#3  d{
+x d
+x b"#
+x a
+#3 b  }
+x  b
+x  d
+x  b
+#3   d&{
+x d
+x b
+x d  }
+b
+#3a  c&{
+xb
+xd
+x b  }
+2b"#  a
+#3 a
+x  d
+#3 a
+x b
+x d
+x a
+b
+#2ab"x  d
+x      /a
+#2  b"#
+x   d
+1   c"#
+b
+2  b"#cd&{
+#3  d
+x a
+#2 b&(   }
+x    c
+2 b"#  a
+#3 a
+x b
+b
+
+b
+#3 d   d&{
+x b
+x a
+x  d
+#3  b
+x a
+x b
+x d
+#3a   d&{
+x d
+x b"#
+x a
+b
+#3  d
+x b
+x d   }
+xa
+#3b"#  a
+xa
+x d
+x b
+#3 a
+xb
+xa
+xb
+b
+#3d  c{
+xb
+xa
+x d
+#3 b
+xa
+xb
+xd     }
+#2f"#  d
+x d {
+b
+#3d b
+x  d
+x a
+x  b
+#3  d{
+x b
+xc
+xa
+#3c
+xd
+xc"#
+x d  }
+b
+
+b
+2df f{
+#3 d
+x f
+#2 d"#   }
+x   d
+#3   c&{
+x b  }
+x { a
+x   c
+b
+#3 d d{
+x b
+x a
+x b   }
+#3 d   d
+x b   {
+x a
+x  d   }
+#3 a a
+x  b
+x  d
+x a
+b
+#2 b"#    /a
+x  b
+#2  d"x
+x a
+1 b"#
+b
+1i"xfg
+1h if
+1ffgh
+b
+2d"x  c
+#3    d&{
+xb
+#3a
+xb
+xd
+xa     }
+#2b"#  a
+x a
+b
+#2a  c&{
+x b  }
+#2   d{
+x f
+#2fdd
+x  f  }
+b
+
+b
+2db"x c{
+#3 a
+x b
+#2 a"#   }
+x   a
+#2f"#   d&{
+x  d
+b
+1h"#    h
+1i"x   a
+#2h
+xf
+b
+2.hi f{
+3i
+#2h"#    }
+x db c
+#3a   d&{
+x a
+x b
+x d
+b
+#3a
+xc
+xd    }
+x a
+#2c"#d a
+xd b
+#3  d{
+xd
+2c"#   }
+b
+1ddff d&{
+#2   f
+x  g
+1 df"#f
+b
+2. ab"x  d&{
+3  d
+#2 a"#
+x  b
+#2     d&{
+x d
+b
+
+b
+#3   a
+x b
+2 a"#
+#3     d&{
+x  d
+2  b"#   }
+#2     b
+x     a",
+b
+#3a
+xb
+2d"x
+#2 b
+x      a
+#3 a
+x b
+2 d"x
+b
+#2b
+xa"#
+#2    d
+x      /a
+#2 d
+xa b"#
+b
+#3    d&{
+x  b
+x  d
+x a
+#3 b
+x d
+2a"#     }
+#3   c&{
+xb
+2d
+b
+#3   f{
+x  d
+x  f
+x  g
+#3 d
+x f  }
+2 d"#
+#3   a
+xa
+2b"#
+b
+
+b
+#3   d{
+x  g
+x d
+x f
+#3 g
+xd
+2f"#     }
+#3  d{
+xb
+2a"#   }
+b
+#3   c&{
+x a
+x b
+x d
+#3a
+xb
+2d"x   }
+#3  b{
+x b
+2 d"x  }
+b
+#3   a
+x b
+x a
+x b
+#3 d
+xa
+2b"#
+#3   d
+xa  {
+2 d"x  }
+b
+2a   d{
+#3d
+xb
+#3a
+x d
+x b
+x a
+#3  d
+x  b
+x   d
+x   c
+b
+
+b
+#3   a
+x    d
+x    c
+x    a
+#2ddf  d
+x  g"x d
+#2  f f&{
+x g   }
+b
+Y. fgf  /a
+b
+b
+
+e

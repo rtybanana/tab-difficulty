@@ -1,0 +1,122 @@
+-C
+-t
+-f
+{There was a wily lad/There was a wily lad}
+b
+c
+0 abc
+1 abc
+1aab  a
+b
+1.caa c
+2 d a
+1a   d
+1cb  a
+b
+#2ddf  d
+x    a
+#2    c
+x    e
+1c aa
+1 dd
+b
+
+b
+#2acd a
+x    c
+#2    e
+x   a
+1da c
+1aa   a
+b
+0 ea c
+1 a
+1 ea c
+b
+0c  b
+1aa c
+1ab  d
+b
+0ce  c
+1      /a
+1 ea c
+b
+1 da  c
+#2 a   d
+x c  a
+1 ef c
+1      /a
+b
+
+b
+1 ac  a
+1 acc
+1a c e
+1 cd a
+b
+1a d e
+1c da
+1a cc
+1acd a
+b
+1. dda
+2  b
+1c aa
+1aa c
+b
+1ac  a
+1 cd a
+1  d  c
+1      a
+b
+1cc   c
+#2aa   d
+x d
+1. cd a
+2 a
+b
+
+b
+1. cd a
+2 d
+1.aab  a
+2     c
+b
+1 a   d
+1 cd a
+1cd  c
+1 a
+b
+0 cd a
+1 df  d
+1cd
+b
+1cc   c
+1cc  a
+1 dda
+1ca  c
+b
+1a d e
+1 cd
+#2c aa
+x  b
+1c da
+b
+
+b
+0 ea c
+1aabc
+1 ab  a
+b
+1aa c d
+#2a
+x c  a
+1 ef c
+1 a    /a
+b
+0aacc
+0 acc a
+b
+b
+
+e

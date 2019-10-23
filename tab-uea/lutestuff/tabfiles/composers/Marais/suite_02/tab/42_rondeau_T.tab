@@ -1,0 +1,375 @@
+-C
+-t
+-f
+{/}
+b
+c
+1 aabc
+b
+#2 aabc
+x    b
+1 a b e
+1  cc a
+b
+.
+1  ee c
+1 aabc
+1 c cb
+1 ea c
+b
+1 aa   a
+1 ac  a
+1 ce  c
+1ba   e
+b
+1cce  c
+1 ea   //a
+0 ce  c
+b
+
+b
+1     \3c
+#2 aa\2b\3c
+x    \1b
+1 a b e
+1acc  a
+b
+1cce  c
+1      a
+1aac  a
+1 c
+b
+#2 ce  c
+x     a
+x      a
+x      /a
+1 aab  //a
+1    c
+b
+1aac  a
+1 e
+0 ce  c
+b
+A1
+1 ea   //a
+#2 aabc
+x    b
+1 a b e
+1  cc a
+.
+b
+b
+A2
+0 ea   //a
+0cef
+b
+
+b
+0aac
+0   c
+b
+0ccee
+1cef
+#2  e
+x  c
+b
+1 cee
+#2   c
+x   b
+1.a e e
+2 ea c
+b
+#2 ca b
+x     e
+1 ce  c
+0 ccc  /a
+b
+0 ccce
+1 ccd
+1 cde c
+b
+0 ccd  /a
+0    e
+b
+
+b
+1 aaa
+1 da c
+1 ccee
+1   d  /a
+b
+1 ce  c
+#2 aabc
+x    b
+1 a b e
+1 cc  a
+b
+1  ee c
+1 aa   a
+#2 ccc  /a
+x      //a
+x      ///a
+x      4
+b
+0 cee  5
+1 aab  //a
+1    c
+b
+0 acc a
+0  ee c
+b
+0 aabc
+0 aab  //a
+b
+b
+0. acc a
+1acc   /a
+b
+
+b
+0d e   a
+0   b
+b
+0e\3f\2f e
+1eee \2g
+1 \4i    a
+b
+0eef  e
+0      4
+b
+0 ghg  /a
+0    e
+b
+wcce  c
+b
+1ccee
+1cca b
+1ca bc
+1      //a
+b
+1cce  c
+#2 ea c
+x    b
+1 a b e
+1 ccc a
+b
+
+b
+1  ee c
+1 ca b
+1 ea c
+1accc
+b
+#2ccee
+x   c
+x   b
+x    e
+1ce  c
+1      //a
+b
+0ea c a
+0cce  c
+b
+0ca bc
+0
+b
+b
+1
+1cef
+1cef
+#2  e
+x  f
+b
+1eefg
+1efh
+1efh
+#2eff
+x  h
+b
+
+b
+1ace
+1  a
+1cef
+1    c
+b
+1ccee
+1   e
+1ccee
+#2   c
+x   e
+b
+1caab
+1    c
+1ca bc
+#2    b
+x    c
+b
+1eef  e
+1   g
+1eefg
+#2  e
+x  f
+b
+1ea d
+#2ccee
+x ea c
+1 ccee
+1   d  /a
+b
+
+b
+1 cee c
+#2     e
+x    b
+1 a b e
+#2    b
+x    c
+b
+0 ca b
+1 ea c
+1 cc  a
+b
+#2 cee c
+x     a
+x      a
+x
+1 aab
+1 ea c
+b
+0aac  a
+0 ce  c
+b
+0 aabc
+0
+b
+b
+1
+1 ce  c
+1 aa  e
+1 cacb
+b
+0 e ec
+1 ccd
+1 ca b
+b
+
+b
+0 aa  e
+0 c d
+b
+0  e ec
+0   e
+b
+0 ccce
+0 cee
+b
+0. ea c
+1    c
+b
+1 acde
+1  eeec
+1 cce  /a
+1   d
+b
+1 cee c
+#2     e
+x    b
+1 a b e
+#2    b
+x    c
+b
+0cca b
+1ce  c
+1ec c a
+b
+
+b
+#2cce  c
+x     a
+x      a
+x      /a
+1ca b  //a
+1    c
+b
+0ea c a
+0cce  c
+b
+.
+0ca b  //a
+1 e
+1    c
+b
+0.cca b
+1     c
+b
+0. acb e
+1 ccc a
+b
+0. cee c
+1     a
+b
+0. aab  a
+1      //a
+b
+0. acc a
+1     c
+b
+0. acb e
+1 ccc a
+b
+
+b
+0. cfe c
+1  e  c
+.
+b
+b
+1 aabc
+#2    c
+x    b
+1 acb e
+1 ccc a
+b
+1cce  c
+1ce  c
+1cc cb
+1cef c
+b
+1 aa   a
+1 ac  a
+1 ce  c
+1 a d e
+b
+1 cee c
+1 ea   //a
+0cce
+b
+1cce  c
+#2ca bc
+x    b
+1aa c e
+1ec c a
+b
+
+b
+1cce  c
+1caa   a
+1aac  a
+1 c
+b
+#2 ce  c
+x     a
+x      a
+x      /a
+1 aab  //a
+1 ea c
+b
+0aac  a
+0cce  c
+b
+wcaabc //a
+b
+b
+
+e

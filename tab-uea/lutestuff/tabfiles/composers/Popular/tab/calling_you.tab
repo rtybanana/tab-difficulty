@@ -1,0 +1,557 @@
+-C
+-t
+-f
+{Calling You (Baghdad Café)/Bob Telson}
+b
+C
+#2    c
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    d
+x  a
+#2  b
+x dU
+0 dX
+b
+#2     a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    c
+x  a
+#2  b
+x dU
+0 dX
+b
+
+b
+#2    d
+x  a
+#2  b
+x dU
+0 dX
+b
+#2     a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2   b
+x  d
+#2 b
+xdU
+0dX
+b
+#2    d
+x  d
+#2 d
+xcU
+0cX
+b
+#2    c
+x  d
+#2 d
+xbU
+0bX
+b
+
+b
+#2     a
+x  c
+#2 d
+xaU
+0aX
+b
+#2    e
+x  f
+#2 f
+xdU
+0dX
+b
+#2     c
+x  e
+#2 d
+xcU
+0cX
+b
+#2    c
+x  d
+#2 d
+xbU
+0bX
+b
+#2     a
+x  c
+#2 d
+xaU
+0aX
+b
+#2    c
+x  a
+#2  b
+x dU
+0 dX
+b
+
+b
+#2    d
+x  a
+#2  b
+x dU
+0 dX
+b
+#2     a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    c
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    d
+x  a
+#2  b
+x dU
+0 dX
+b
+#2     a
+x  a
+#2  b
+x dU
+0 dX
+b
+
+b
+#2    a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2   b
+x  d
+#2 b
+xdU
+0dX
+b
+#2    d
+x  d
+#2 d
+xcU
+0cX
+b
+#2    c
+x  d
+#2 d
+xbU
+0bX
+b
+#2     a
+x  c
+#2 d
+xaU
+0aX
+b
+#2    e
+x  f
+#2 f
+xdU
+0dX
+b
+
+b
+#2     c
+x  e
+#2 d
+xcU
+0cX
+b
+#2    c
+x  d
+#2 d
+xbU
+0bX
+b
+#2     a
+x  c
+#2 d
+xaU
+0aX
+b
+#2    a
+x  b
+#2 d
+x bU
+0 bX
+b
+#2   a
+x  a
+#2 b
+x dU
+0 dX
+b
+#2    b
+x   d
+#2 b
+x dU
+0 dX
+b
+
+b
+#2    b
+x   d
+#2 b
+x eU
+0 eX
+b
+#2    b
+x   d
+#2 b
+x dU
+0 dX
+b
+#2    b
+x   b
+#2  e
+x bU
+0 bX
+b
+#2    b
+x   d
+#2 b
+x dU
+0 dX
+b
+#2    b
+x   d
+#2 b
+x eU
+0 eX
+b
+#2    b
+x   d
+#2 b
+x dU
+0 dX
+b
+
+b
+#2  b a
+x b
+#2 d
+x  aa&U
+#2  aa&X
+x dU
+#2 dXa
+x   a
+b
+#2   b
+x  d
+#2 b
+xdU
+0dX
+b
+#2    d
+x  d
+#2 d
+xcU
+0cX
+b
+#2    c
+x  d
+#2 d
+xbU
+0bX
+b
+#2     a
+x  c
+#2 d
+xaU
+0aX
+b
+#2    e
+x  f
+#2 f
+xdU
+0dX
+b
+
+b
+#2     c
+x  e
+#2 d
+xcU
+0cX
+b
+#2    c
+x  d
+#2 d
+xbU
+0bX
+b
+#2     a
+x  c
+#2 d
+xaU
+0aX
+b
+#2    c
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    d
+x  a
+#2  b
+x dU
+0 dX
+b
+#2     a
+x  a
+#2  b
+x dU
+0 dX
+b
+
+b
+#2    a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    c
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    d
+x  a
+#2  b
+x dU
+0 dX
+b
+#2     a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    c
+x  a
+#2  b
+x dU
+0 dX
+b
+
+b
+#2    d
+x  a
+#2  b
+x dU
+0 dX
+b
+#2     a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    c
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    d
+x  a
+#2  b
+x dU
+0 dX
+b
+#2     a
+x  a
+#2  b
+x dU
+0 dX
+b
+
+b
+#2    a
+x  a
+#2  b
+x dU
+0 dX
+b
+#2   b
+x  d
+#2 b
+xdU
+0dX
+b
+#2    d
+x  d
+#2 d
+xcU
+0cX
+b
+#2    c
+x  d
+#2 d
+xbU
+0bX
+b
+#2     a
+x  c
+#2 d
+xaU
+0aX
+b
+#2    e
+x  f
+#2 f
+xdU
+0dX
+b
+
+b
+#2     c
+x  e
+#2 d
+xcU
+0cX
+b
+#2    c
+x  d
+#2 d
+xbU
+0bX
+b
+#2     a
+x  c
+#2 d
+xaU
+0aX
+b
+#2   b
+x  d
+#2 b
+xdU
+0dX
+b
+#2    d
+x  d
+#2 d
+xcU
+0cX
+b
+#2    c
+x  d
+#2 d
+xbU
+0bX
+b
+
+b
+#2     a
+x  c
+#2 d
+xaU
+0aX
+b
+#2    e
+x  f
+#2 f
+xdU
+0dX
+b
+#2     c
+x  e
+#2 d
+xcU
+0cX
+b
+#2    c
+x  d
+#2 d
+xbU
+0bX
+b
+#2     a
+x  c
+#2 d
+xaU
+0aX
+b
+#2    a
+x  b
+#2 b
+x eU
+0 eX
+b
+
+b
+#2   a
+x  a
+#2 b
+x dU
+0 dX
+b
+#2    c
+x  a
+#2  b
+x dU
+0 dX
+b
+#2    d
+x  a
+#2  b
+xaU
+0aX
+b
+b
+Q
+
+e

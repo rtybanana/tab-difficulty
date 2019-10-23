@@ -1,0 +1,467 @@
+-C
+-t
+-f
+{202. Galliard 15/202. Galliard 15}
+b
+#2b d
+xa b
+#2 d d
+xa
+1 c c
+b
+1. daa  a
+2a
+#2b  a
+xd
+1f   d
+1ff  c
+1e
+b
+1.ffh  f
+2h
+1if h
+b
+0hff h
+1fggd
+b
+1.dfg d
+2f
+1gd f d
+b
+#2bbd  b
+xd
+1fb d b
+#2a b  d
+x d
+b
+
+b
+1bdd a
+#2a
+x  b
+#2   d
+x d
+x   c
+x   a
+2addca
+#3 c
+x a
+#2 c
+xd
+b
+2cdd   a
+#3 c
+x a
+#2  d
+x  b
+1  aa  a
+b
+#2b d
+xa b
+2 d da
+#3   c
+x   a
+#3   c
+x c
+x a
+x c
+b
+#3 dda  a
+x c
+x a
+x  d
+#3 a
+x c
+x d
+xa
+#2b  a
+xd
+xf
+x    d
+#3    c
+xf
+xe
+xc
+#3e
+xf
+2e f
+b
+
+b
+2ffgh f
+#3  i
+x f
+#3 g
+x i
+xf
+xh
+1if h
+b
+2hf fh
+#3 i
+xf
+#2h
+xfggd
+#3 g
+xd
+2f
+b
+2dfg d
+#3  g
+x d
+#3 f
+x g
+xd
+xf
+2g    d
+#3   f
+x  d
+#3  e
+x  g
+x d
+x f
+2b   b
+#3  e
+x b
+#3 d
+x f
+xb
+xd
+b
+
+b
+#2f
+x     b
+xda   d
+xb
+#2ac  a
+x d d
+x d cb
+x   a
+2 ddca
+#3 c
+x a
+#2 c
+x  b
+b
+2 dde  a
+#3  b
+x  a
+#3  b
+x  d
+x a
+x c
+1 dda  a
+b
+1bde
+1bbd
+1gd f
+b
+#2fggd
+x   f
+#2  d
+x  f
+1dfg
+b
+1ig h
+2gg f
+#3 f
+x d
+1 f
+b
+#2fb d b
+x     d
+#2    a
+x    c
+1abb d
+b
+1 dddf
+2 dd c
+#3  c
+x  a
+1  c
+b
+
+b
+#2 bdca
+x a
+x b
+x d
+1aabc
+#2bdda
+x    d
+2 da c
+#3 a
+x c
+#3 d
+xa
+xc
+xe
+b
+2fcd a
+#3d
+xc
+#3a
+x d
+x c
+x a
+1  d
+b
+1bde
+2bbd
+#3  b
+x  d
+#2gd f
+x f
+b
+#3fg d
+x  f
+x  g
+x d
+#3 f
+x g
+xd
+xf
+1dfg
+b
+1ig h
+2gg f
+#3 f
+x d
+1 f
+b
+#3fggd
+x f
+x d
+x f
+#3fggd
+x   f
+x  d
+x  f
+1dfg d
+b
+
+b
+#2 dddf
+x    d
+#3    b
+x  d
+x  b
+x   d
+#3  b
+x  d
+2  b
+b
+#3    a
+x   c
+x   d
+x  b
+#3  d
+x a
+x b
+x d
+2aabc
+#3 d
+xa
+b
+#2bdda
+x    d
+2 dd c
+#3  c
+x  a
+1  c
+b
+#2 cdca
+x  d
+#2a
+x d
+1 cdca
+b
+#2f dd
+xd
+#2 g
+x f
+#2bd a
+xd
+b
+1.abb d
+2    b
+1 bdca
+b
+#2gd f d
+xf
+1dfg d
+1fggd
+b
+
+b
+#2bde b
+x    d
+#2   a
+x   c
+1bbdd
+b
+#2dd  b
+x    d
+1ddda
+1cdd   a
+b
+1ddef
+#2   a
+xb
+#2a b
+x d
+1 d d
+#2   c
+x   a
+1dc c
+b
+1bdda
+#2  d
+x    d
+1 db b
+1 bdda
+1  ed d
+1   c
+b
+#2bbd  b
+x     d
+#2    a
+x    c
+1a b d
+b
+#2 fef d
+x d d
+2 ddca
+#3 c
+x a
+#2 c
+xd
+b
+1cdd   a
+#2   a
+xd
+1cdda
+b
+
+b
+2.fddd
+3d
+#3b  a
+xa
+x d
+x b
+#3da
+xb
+xa
+x d
+b
+2abb d
+#3  b
+x  d
+#3 a
+x b
+x d
+xa
+#2b
+x    a
+b
+#2g    d
+xf
+1dfg d
+1fggd
+b
+#3b   b
+x    d
+x    b
+x    a
+#3    b
+x    d
+x   a
+x   c
+#3   d
+x   a
+x   c
+x   d
+b
+#2ddef
+x     d
+2dd a
+#3c
+xa
+#3 d
+x b
+x a
+x  d
+b
+
+b
+1ddef
+#3   a
+xb
+xd
+xb
+#3   f
+x f
+x d
+x f
+b
+#3   d
+x d
+x f
+x d
+#3   c
+x d
+x c
+x a
+#3 c
+x d
+2 c
+b
+#3b  a
+x  e
+x  d
+x  e
+#3    d
+x  d
+x  b
+x  d
+#3    b
+x  b
+x  d
+x  b
+b
+#3    a
+x   d
+x   c
+x   d
+#3     d
+x   d
+x   c
+x   a
+#3   c
+x   d
+x     d
+x   c
+b
+
+b
+#2bbd  b
+x     d
+#2b   a
+x    c
+#2abb d
+x  d
+#2ddef d
+x   d
+2add a
+#3 c
+x a
+#2 c
+xd
+b
+Y.cdd   a
+b
+b
+
+e

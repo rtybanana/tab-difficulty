@@ -1,0 +1,486 @@
+-C
+-t
+-f
+{281. Fantasy/Alfonso Ferrabosco I}
+b
+c
+1. a
+2 c
+#2 d
+xa
+xc
+xd
+b
+1.c a
+2  c
+#2c d
+x a
+#2 c
+xcd
+b
+#2ac
+xc
+1 df
+#2 ca
+x a
+1 cee
+b
+1. aa c
+2    e
+#2 a a
+x   c
+x  de
+x ac
+b
+#2 cd
+x d
+xa c
+x c
+#2 da
+x  c
+x cd
+x  a
+b
+
+b
+1 ab
+#2   c
+x c
+#2 d e c
+x  c
+x cd
+x     e
+b
+#2 c  a
+x    c
+x    e
+x   a
+#2    e
+x a
+x  d  c
+x  c
+b
+#2  a
+x     e
+x    a
+x  c c
+#2  d e
+x a a
+x c  e
+x d
+b
+#2 c   c
+x   b
+x   ce
+x  a
+#2 ac c
+x  d
+2  c
+#3  a
+x  c
+b
+1 cd a
+#2 ac c
+x  a
+1 cdee
+#2  cd
+x a
+b
+
+b
+2  def
+#3 a
+x c
+2 daac
+#3 c
+x a
+#2 cee
+x  c
+1 cee c
+b
+1 aa c
+1   a
+1   ca
+1  aaac
+b
+2.   acd
+3    e
+#2   a
+x   c
+#2  a  c
+x  c
+1 cd
+b
+#2 c
+x  de
+1 acc
+1 acc
+1 cd ac
+b
+1  aaac
+1 a a  a
+1 a  ea
+1c e ec
+b
+1ca ac
+1 df
+1a d
+1c a
+b
+#2 ab
+x c
+x d
+xa
+#2c a
+xe
+1fc
+b
+
+b
+#2e
+xc
+1c d
+1 a
+1ac
+b
+#2 da
+x c
+x cc e
+x a
+#2 cd e
+x  c
+1  aa
+b
+1    c
+1   ce
+1   a c
+#2      /a
+x    e
+b
+1    efe
+1   a
+#2     e
+x    e
+1   ce
+b
+2  aa  a
+#3    c
+x    e
+#3   a
+x   c
+x  a
+x  c
+#2  d
+x  c
+#3     e
+x  a
+x   d
+x   b
+b
+
+b
+#2  cde
+x   e
+x cce
+x   d
+#2 da  c
+x c
+#3    e
+x a
+x  d
+x  c
+b
+#2  aa
+x  c
+x  d e
+x a
+#2 c
+x d  c
+xa   ef
+x     e
+b
+#2  a  c
+x d
+1 cd
+1   ac
+#2 a    /a
+x  e
+b
+2 aaac
+#3  d
+x  c
+#3  a
+x  c
+x  d
+x a
+1  deec
+1  ccce
+b
+#2  c a
+x  a
+1  aac
+2    ce
+#3   d
+x  a
+#3  c
+x  e
+x a
+x c
+b
+
+b
+#2 da  c
+x c
+#3    e
+x a
+x  d
+x  c
+#2  aa
+x a
+#3    c
+x  d
+x  c
+x  a
+b
+#2   ce
+xa
+#3    a
+x d
+x c
+x a
+#2  d ec
+x  a
+#3      a
+x   c
+x   a
+x    e
+b
+#2   ac
+xc
+#3  a
+xa
+x d
+x c
+#3 a
+x  d
+x  c
+x  a
+#3   c
+x   a
+x    e
+x    c
+b
+
+b
+#2    ac
+x c
+#3    e
+x a
+x  d
+x  c
+#3  a
+x   c
+x   a
+x    e
+#3    c
+x    a
+x     e
+x     c
+b
+#3    ca
+x a
+x  c
+x   c
+#3 a
+x    c
+x     e
+x     a
+#3    c
+x  a
+x   a
+x    c
+#3  a
+x    c
+x      a
+x      /a
+b
+#3   e
+x c
+x  d
+x   e
+#3 c
+x    e
+x    a
+x     c
+#3 d
+x   a
+x    c
+x  c
+#3    a
+x cd
+x a c e
+x     a
+b
+#2     c
+x  d
+x   e
+x    g
+1  cc a
+1a
+b
+
+b
+1 d ec
+#2  f
+x  c
+#2 cd a
+x  c
+x  a
+x   c
+b
+#2 a ac
+x    e
+x   a
+x   c
+#2  aac
+x  c
+1  d  c
+b
+#2  cac
+x  a
+1 ca a
+1 a   e
+1  cd
+b
+#2  de c
+x  c
+x  d
+x  f
+#2 c  e
+x e
+1a
+b
+1 da
+1 c
+#2    c
+x a
+1ca a
+b
+1aa  e
+1 ce
+2 da c
+#3 c
+x d
+#2 c
+x a
+b
+
+b
+#2  de c
+x  f
+x c
+x     e
+#2    a
+x a ac
+x   ce
+x  d
+b
+#2  cac
+x  a
+1  a a
+2 aa  e
+#3   d
+x  a
+#2   d
+x c
+b
+#2 da  c
+x  c
+x cd
+x     e
+#2    a
+x a
+x c
+x    c
+b
+#2    e
+x e
+xa
+x   b
+#2   c
+x d
+x ac
+x c
+b
+#2 da c
+x  c
+1 cd e
+2 a a
+#3  d
+x  c
+#3  a
+x  c
+x  d
+x a
+b
+
+b
+1 cdee
+#2  cd
+x  f
+#2  eeec
+x  f
+x c
+x  f
+b
+2  f ec
+#3  e
+x  c
+#2  e
+x     a
+1 aa c /a
+1 abc a
+b
+2  f ec
+#3  e
+x  c
+1  e
+2 a acd
+#3    e
+x   a
+#2   c
+x  a
+b
+#2 ab
+x     c
+x     a
+x  a   b
+#2 a c a
+x   b
+x   c
+x  a
+b
+2 abc a
+#3  d
+x  b
+#2  a
+x   c
+#3 abc  /a
+x  a
+x  b
+x   c
+#3 aab  /a
+x  b
+x   c
+x  b
+b
+
+b
+2 aac  /a
+#3   b
+x    e
+Y. aabc /a
+b
+b
+
+e

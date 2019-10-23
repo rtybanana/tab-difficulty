@@ -1,0 +1,441 @@
+-t
+-f
+{La Bernardina/Francesco Spinacino}
+b
+#2 a   d
+x b  a
+x d  c
+xa   d
+1c  a
+1d  c
+b
+#2a  c
+xd  a
+#3f b
+xd
+xc
+xa
+#2 d
+x b
+#3 da
+x b
+x a
+x  d
+b
+
+b
+#2 a f d
+xi   a
+xh    h
+xf   d
+#2d  a
+xc
+xa  cd
+x d
+b
+#2 b c
+x a a
+x  dfc
+x a
+#2 b  a
+x d
+#3 da
+x b
+x a
+x  d
+b
+#2  b  d
+x  d
+x a
+x b  a
+1 db c
+#2a   d
+x d
+b
+#2a b d
+xc   c
+1d  c
+#2f da
+xd
+xf
+xc
+b
+
+b
+#2d f  d
+xf
+xh
+xi
+#2aa
+xc
+xd d
+xf
+b
+#2ha  h
+xi
+#3i g
+xh
+xf
+xd
+1cd a
+2da c
+2f
+b
+#2db c
+xc  a
+xa   d
+x d  c
+1ab  a
+#2da c
+xf
+b
+#2db c
+xc  a
+xa   d
+x d  c
+1ab  a
+#2da c
+xc
+b
+
+b
+#2db c
+xc  a
+xa   d
+x d  c
+#2a   a
+xc
+x dh
+xa
+b
+#2cdda
+xd
+xf
+xd  c
+#2fda
+xd
+xc b
+xa
+b
+#2c  a
+xh
+xf
+xd  c
+#2c aa
+xa
+x d  c
+x b
+b
+#2 a c
+x  d
+x  bcd
+x  aac
+#2   ca
+x  d
+x aa
+x b
+b
+
+b
+#2 abc
+x c
+x d
+xa
+#2c bc
+xd
+xf
+xh
+b
+#2 h a
+xf
+xh
+xk
+#2l  a
+xk
+xh
+xf
+b
+#2d   d
+xc
+xa
+x d
+#2 b cd
+x a
+x  d
+x  b
+b
+#2 da c
+x  b
+x   c
+x  dc
+#2 aa c
+x c
+x db
+x a
+b
+
+b
+#2 cde
+xf
+xd
+xc
+#2f de
+xd
+xc
+xa
+b
+#2d  c
+x  b
+x  a
+x   c
+#2   ah
+x    d
+x    c
+x    a
+b
+#2   a d
+x    a
+x    c
+x    d
+#2  aa
+x   c
+x   e
+x  c
+b
+#2  bcd
+x a
+x c
+x da
+#2a b d
+x d
+xa d
+x c
+b
+
+b
+#2 df c
+xd
+xc
+xa
+#2 df c
+x b
+x a
+xf
+b
+#2a d
+xc
+xa
+x d
+#2 bd a
+x a
+x  b
+x  de
+b
+#2 a c
+x  d
+x  b
+x  d
+#2 aaa
+x b
+x d
+xa
+b
+#2cd a
+xd
+xf
+xh
+#2fd a
+xd
+xc  c
+xa a
+b
+
+b
+#2 dff
+xa
+x dd
+x b
+#2 abc
+x  d
+x  b
+x  d
+b
+#2f da
+x c
+x d
+xa
+#2c da
+xd
+xda
+xc
+b
+#2ab  a
+x d
+x b
+x d   d
+#2a   a
+xc   c
+xd   d
+xf  a
+b
+
+b
+#2db c
+xc
+#3f a
+xd
+xc
+xa
+#2 dff
+xa
+x d   d
+xf    c
+b
+#2 a   d
+x  d a
+x  b c
+x  a d
+#2 a cf
+x   a
+x    d
+x    c
+b
+#2f de
+xd
+xc    c
+xa    a
+#2 d   c
+x c   d
+x a  a
+x  d c
+b
+#2  b d
+x  a
+x   cf
+x  d
+#2 abc
+x c
+x d
+xa  a
+b
+
+b
+#2 b c
+x da
+xa b
+xc d
+#2dab
+xf
+xd  c
+xc
+b
+#2f a
+xd  c
+xc  a
+xa   d
+#2c  a
+xd  c
+xf  e
+xh  f
+b
+#2 cd
+x d
+#3 d a
+x c
+x a
+x  d
+1  bc
+1  b
+b
+1  da
+1   e
+1 ab
+#2  bc
+x  d
+b
+
+b
+#2 ab
+x  a
+x   c
+x  de
+#2 ab
+x bd
+x df
+x bd
+b
+#2 db
+xa
+xc b
+x d
+#2a
+xc a
+xdb c
+xf
+b
+1cd a
+#2 d  c
+x  a
+#2 db
+x bd
+x a
+x cd
+b
+#2 db
+xa a
+xcb c
+xd
+1fd a
+#2     d
+x   c c
+b
+
+b
+#2   a d
+x    a
+x  b c
+x    d
+#2   a
+x  ac
+x  be
+x  d c
+b
+#2a   d
+x  da
+x a   d
+x b  a
+#2 db c
+x    d
+x   a
+x   c
+b
+#2a b d
+xa
+xc   d
+xd
+#2f if
+xh
+xif  h
+xh
+b
+#2i gh
+xh
+xfd a
+xd
+#2cab
+xa
+x dg d
+xa
+b
+
+b
+#2c da
+xd
+xf
+xc
+Yd b  d
+b
+b
+Q
+
+e

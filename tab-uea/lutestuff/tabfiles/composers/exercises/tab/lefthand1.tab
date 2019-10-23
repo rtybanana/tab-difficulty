@@ -1,0 +1,585 @@
+-t
+-f
+{Left Hand Exercises    Exercise 1/Paul O'Dette}
+b
+x     \1g
+x     \2h
+x    g
+x    h
+x   g
+x   h
+x  g
+x  h
+x g
+x h
+xg
+xh
+x g
+x h
+x  g
+x  h
+x   g
+x   h
+x    g
+x    h
+x     g
+x     h
+b
+x
+x
+x
+b
+x     f
+x     g
+x    f
+x    g
+x   f
+x   g
+x
+x
+x
+b
+b
+
+b
+x     \2h
+x     \1g
+x    h
+x    g
+x   h
+x   g
+x  h
+x  g
+x h
+x g
+xh
+xg
+x h
+x g
+x  h
+x  g
+x   h
+x   g
+x    h
+x    g
+x     h
+x     g
+b
+x
+x
+x
+b
+x     g
+x     f
+x    g
+x    f
+x   g
+x   f
+x
+x
+x
+b
+b
+x     \1f
+x     \3h
+x    f
+x    h
+x   f
+x   h
+x  f
+x  h
+x f
+x h
+xf
+xh
+x f
+x h
+x  f
+x  h
+x   f
+x   h
+x    f
+x    h
+x     f
+x     h
+b
+x
+x
+x
+b
+
+b
+x     \3h
+x     \1f
+x    h
+x    f
+x   h
+x   f
+x
+x
+x
+x
+b
+b
+
+{  Exercise 2/}
+b
+
+b
+1     \1g
+x     \2h
+x     \3i
+x     \4k
+x    g
+x    h
+x    i
+x    k
+x   g
+x   h
+x   i
+x   k
+x  g
+x  h
+x  i
+x  k
+x g
+x h
+x i
+x k
+xg
+xh
+xi
+xk
+x g
+x h
+x i
+x k
+x  g
+x  h
+x  i
+x  k
+x   g
+x   h
+x   i
+x   k
+x    g
+x    h
+x    i
+x    k
+x     g
+x     h
+x     i
+x     k
+b
+x
+x
+x
+b
+x     f
+x     g
+x     h
+x     i
+x
+x
+x
+x
+b
+b
+
+{  Exercise 3/}
+b
+1\4l
+xl
+xl
+xl
+x\3k
+xk
+xk
+xk
+x\2i
+xi
+xi
+xi
+x\1h
+xh
+xh
+xh
+x\2i
+xi
+xi
+xi
+x\3k
+xk
+xk
+xk
+x\4l
+xl
+xl
+xl
+b
+x
+x
+x
+b
+
+b
+x\4k
+xk
+xk
+xk
+x\3i
+xi
+xi
+xi
+x\2h
+xh
+xh
+xh
+x\1g
+xg
+xg
+xg
+x\2h
+xh
+xh
+xh
+x\3i
+xi
+xi
+xi
+x\4k
+xk
+xk
+xk
+b
+x
+x
+x
+b
+xi
+xi
+xi
+xi
+x
+x
+x
+x
+x
+xa
+xa
+xa
+xa
+b
+b
+
+{Exercise 4/}
+b
+1    \4h
+x\4h
+x   \4h
+x\4h
+x    \4h
+x\4h
+x     \4h
+x\4h
+x    \4h
+x\4h
+x   \4h
+x\4h
+x  \4h
+x\4h
+x \4h
+x\4h
+x  \4h
+x\4h
+x    \4h
+x\4h
+x  \4h
+x\4h
+x    \4h
+x\4h
+x \4h
+x\4h
+x
+x
+b
+x\3g
+x \3g
+x\3g
+x  \3g
+x\3g
+x   \3g
+x\3g
+x
+x
+b
+b
+
+{  Exercise 5/}
+b
+1     \1b
+x    \2c
+x   \3d
+x  \4e
+x  \1b
+x   \2c
+x    \3e
+x     \4d
+b
+x
+x
+x
+x
+b
+x    b
+x   d
+x  c
+x e
+x b
+x  d
+x   c
+x    e
+b
+x
+x
+x
+x
+b
+x   b
+x  c
+x d
+xe
+xb
+x c
+x  d
+x   e
+b
+x
+x
+x
+x
+b
+
+b
+x    b
+x   c
+x  d
+x e
+x b
+x  c
+x   d
+x    e
+b
+x
+x
+x
+b
+x     b
+x    c
+x   d
+x  e
+x  b
+x   c
+x    d
+x     e
+b
+b
+x     c
+x    d
+x   e
+x  f
+x
+x
+x
+b
+b
+x     \1b
+x    \2c
+x   \4e
+x  \3d
+x  \1b
+x   \2c
+x    \4e
+x     \3d
+x
+x
+x
+b
+b
+
+b
+x     \1b
+x    \3d
+x   \2c
+x  \4e
+x  \1b
+x   \3d
+x    \2c
+x     \4e
+x
+x
+x
+b
+b
+
+{  Exercise 6/}
+b
+1\2f
+x\4h
+x
+x
+x\4f
+b
+x\2e
+x\4g
+x
+x
+x\4e
+b
+b
+
+{    Exercise 7/}
+b
+
+b
+1\1h
+x\4l
+x\3k
+x\4l
+xh
+xl
+xk
+xl
+xh
+xl
+xk
+xl
+xh
+xl
+xk
+xl
+x\1h
+x\4l
+x\2i
+x\4l
+xh
+xl
+xi
+xl
+xh
+xl
+xi
+xl
+xh
+xl
+xi
+xl
+x\1h
+x\3k
+x\2i
+x\3k
+xh
+xk
+xi
+xk
+xh
+xk
+xi
+xk
+xh
+xk
+xi
+xk
+b
+x
+x
+x
+b
+xg
+xk
+xi
+xk
+x
+x
+x
+x
+b
+b
+
+{Exercise 8/}
+b
+1  \4d&{\3d
+x    \3d
+x     \3d
+x    \3d
+x   \3d
+b
+x  d&}\3d
+x \4d
+x\4d
+x \4d
+x  \4d
+b
+x  \4d\3d
+x \4d  \3d
+x\4d    \3d
+x \4d  \3d
+x  \4d\3d
+b
+x \4d&{\3d
+x   \3d
+x    \3d
+x     \3d
+x    \3d
+x   \3d
+x }\3d
+b
+x\4d\3d
+x  \3d
+x   \3d
+x    \3d
+x     \3d
+x    \3d
+x   \3d
+x  \3d
+x \3d
+b
+
+b
+x   \4d\3d
+x  \4d
+x \4d
+x\4d
+x \4d
+x  \4d
+x   \4d
+b
+x    \4d\3d&{
+x   \4d
+x  \4d
+x \4d
+x\4d
+x \4d
+x  \4d
+x   \4d
+x    \4d}
+b
+x\4da\1b  \3d
+x
+x\2c\4d\3da
+x
+xdab  d
+x
+xcdda
+x
+xdab  d
+x
+xaddca
+x
+x c
+x
+xcdda
+b
+b
+
+e

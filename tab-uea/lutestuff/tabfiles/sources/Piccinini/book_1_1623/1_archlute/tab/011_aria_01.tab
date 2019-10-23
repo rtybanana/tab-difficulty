@@ -1,0 +1,525 @@
+-C
+-t
+-f
+{11. Aria 1 Affettuosa/11. Aria 1 Affettuosa}
+b
+1  aef
+1  c
+0  def
+0  dce
+b
+1 a ac
+1  d
+1 a
+1 c  a
+1 d  c
+1  c
+b
+0 cdca
+0 adc a
+0  c
+b
+0  dca
+w      ///a
+b
+0acd
+0c d
+0eac
+b
+1f de
+1 a
+1 c
+1  d
+1ea c
+1  c
+b
+1c da
+1 a
+0  hge
+0 g
+b
+0ccee
+w     c
+b
+
+b
+1.  ae
+2  c
+1  d
+1   c
+1  da
+1    e
+b
+1 a ac
+1  d
+1 a
+1 cd a
+1 da c
+1  c
+b
+0 cd a
+1 adc a
+1  c
+#2  d
+x  c
+x  a
+x  c
+b
+0  dca
+w      ///a
+b
+#2a d
+x c
+x d
+xa
+0ccd
+#2eac
+xa
+xc
+xe
+b
+0f de
+#2 d a
+x   c
+x   e
+x   a
+#2ec c
+xc
+xe
+xa
+b
+
+b
+#2ca a
+x c
+x d
+x a
+1  hge
+#2 g e
+x e
+1 g g
+1  f
+b
+wccee
+0     c
+b
+1.cc e
+2e
+0f
+0a   e
+b
+1c aa
+1  c
+0  d
+0   ce
+b
+1 aa c
+1 c
+0 d
+0  def
+b
+1. cd  c
+2     e
+0    a
+0 ac  a
+b
+1  de c
+1 a   e
+1 c  a
+1 d  c
+0a   e
+b
+0 dfe  //a
+0 cce  /a
+0   de
+b
+w.  eee 5
+b
+0ffhh
+1ffhh
+0ffhh
+1effc
+b
+
+b
+0cef
+1.h
+2f
+0efh
+b
+1ffd
+1e
+0cff
+0 e
+b
+waacc
+0     a
+b
+0  ae
+0  cd
+0 cee
+b
+0 df c
+1      //a
+1 cd
+0 ac
+b
+1   e&_
+1  d
+0  ce  /a
+0   d
+b
+w.  ee  5
+b
+0af
+0ce
+0ef
+b
+1.ff h
+2 k
+1f
+1h
+0k&_
+b
+1 a
+#3h
+xf
+xe
+x h
+0e h
+0 g
+b
+
+b
+0ccee
+w     c
+b
+0  dcef
+1  d  e
+0  deec
+1  d  a
+b
+0.  def a
+1  d
+1  bcca
+1  a
+b
+1   c
+1   a
+1   eec
+1    c
+0   ee
+b
+w.  abc //a
+b
+0cdf
+0cc e
+0acd
+b
+1 dda
+1a
+1c
+1e  c
+0f a
+b
+#2e c
+xc
+xa
+x d
+0 cd
+0 af
+b
+
+b
+1 cee
+#2   c
+x   a
+#2    e
+x    c
+x    a
+x     e
+0     c
+b
+#2fc e
+xc
+xe
+xf
+0ef  e
+#2c da
+xa
+xc
+x d
+b
+1acd
+1    a
+1 df c
+1 cd   //a
+1 cd   /a
+1  c
+b
+#2 a e  a
+x  d
+x  c
+x  a
+1  cc a
+#2  da
+x    e
+#2    c
+x    a
+1  c c
+b
+0  dca
+w      ///a
+b
+0acd
+1acd
+0aac
+1 dde
+b
+0. ccc
+1  fa
+1  d e
+1  c c
+b
+
+b
+0   ea
+1   d e
+1.   e c
+2     a
+1      a
+b
+w.  cd  /a
+b
+0fcde
+1fc e
+0eccd
+1ccde
+b
+0 ghge
+1h    e
+1 a
+1fc  a
+1 e
+b
+1 f
+1e
+0cf  c
+0 e    //a
+b
+w.aac  a
+b
+0effc
+0efh e
+0caab
+b
+0effc
+1.h
+2f
+0e    a
+b
+0caa   a
+0aac   /a
+1  ee
+1   c
+b
+w. efe  //a
+b
+0 dfec
+0 dfc e
+0 ca b
+b
+
+b
+0 dfec
+1. h
+2 fh
+0 df
+b
+1 c  a
+1  h&_
+1 d   d
+1  f
+1  f&_
+#3 f
+x d
+x c
+x a
+b
+0.  ee c
+#2  ae
+x  c
+#2  d
+x a
+1 c c
+b
+#2 d a
+x   c
+x  a
+x  c
+1 cd
+1 a c
+#2     a
+x  d
+1  c
+b
+1  d a
+#2  c
+x  a
+1   c
+1  de
+1  de
+1  cd
+b
+
+b
+1  de
+#2   c
+x   a
+1    e
+1f  e
+1f  a
+1e  c
+b
+1f d
+#2e
+xc
+1a
+1 cd
+1 cd
+1 ac
+b
+1 cd
+#2  c
+x  a
+1   c
+1 dde
+1 ccc
+1 aaa
+b
+1 c de
+#2 a
+x  d
+1  c
+1  ee c
+1 aa c
+1 ca b
+b
+1 da c
+#2      //a
+x d
+1 c c  /a
+1 a a  a
+1    ea
+1  e  c
+b
+0 aabc
+1 aa
+1cc e
+1 df
+1acd
+b
+
+b
+1cdda
+#2      a
+xc
+1a b  a
+1 da  c
+1   c d
+1 c  a
+b
+1cdda
+#2      a
+xd
+1f    c
+1    a
+1a   e
+#2   c
+xc
+b
+1d    a
+1 a
+#2    c
+x c
+1 da
+#2   a
+x  c
+1  d
+b
+1a   e
+1   c
+1  b c
+#2 d
+x  a
+#2   a
+xa
+xc
+x    a
+b
+#2     c
+xe
+xf
+x    e&_
+#2a
+x  d
+xc  a
+x  a
+#2 d
+x    c&_
+x a
+x  f
+b
+b
+
+b
+C
+#2  cc
+x  a
+#2  c
+x  da
+#2 a  e
+x c  c
+#2 d  a
+xa    d
+b
+#2c e  c
+x  c
+#2  e
+x  a   a
+#2  c  a
+x  e   /a
+#2  f   a
+x  c   //a
+b
+#2  e  c
+x  a
+#2  c  a
+x  e   a
+#2 a    /a
+x c    //a
+#2 e    ///a
+xa     4
+b
+2cce   5
+#3 f
+x d
+#3 c
+x d
+x  f
+x c
+2  e
+#3  f
+x  e
+#3  f
+x  e
+#4  f
+x  e
+x  c
+x  e
+b
+w efe  //a
+b
+b
+
+e

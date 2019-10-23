@@ -1,0 +1,416 @@
+-C
+-t
+-f
+{Il est bel et bon/Il est bel et bon}
+b
+c
+#2 a
+x c
+x d
+xa
+#2c   c
+x    e
+xc   f
+x   c
+b
+#2c  e
+x  c
+xc de
+x  f
+#2ccd  c
+x     e
+xccd  f
+x    c
+b
+1acc e
+1 cc e
+1 c ce
+1 c  e
+b
+
+b
+#2 dfec
+x c
+x d
+xa
+#2cc e c
+x   c
+xc   f
+x   c
+b
+#2c  e
+x  c
+xc de
+x  f
+#2ccd  c
+x     e
+xccd  f
+x    c
+b
+1acc e
+#2 c  e
+x c
+1a cce
+#2 ccce
+x cc
+b
+1 dfec
+#2 aa c
+x   c
+1 aaa c
+1  eeec
+b
+0 aa  h
+1.h
+2f
+b
+
+b
+1ef
+#2f
+x d
+1ac
+1cd
+b
+1f d
+#2 a
+xe
+1cd
+#2a
+x c
+b
+1ca
+1  d
+1. a
+2  d
+b
+1  cc
+#2  d
+x   a
+1   ce
+1  aa
+b
+1  d a
+#2    c
+x  c
+1  aa
+#2   c
+x    e
+b
+
+b
+#2 aa c
+x c
+x d  a
+xa
+#2c   c
+x    e
+xc   f
+x   c
+b
+#2c  e
+x  c
+xc de
+x  f
+#2ccd  c
+x     e
+xccd  f
+x    c
+b
+1acc e
+1 cc e
+1 c ce
+1 c  e
+b
+#2 dfec
+x c
+x d
+xa
+#2cc e c
+x   c
+xc   f
+x   c
+b
+
+b
+#2c  e
+x  c
+xc de
+x  f
+#2ccd  c
+x     e
+xccd  f
+x    c
+b
+1acc e
+#2 c  e
+x c
+1a cce
+#2 ccce
+x cc
+b
+1 dfec
+#2 aa c
+x   c
+1 aaa c
+1  eeec
+b
+0 aa c
+1. a
+2 a
+b
+1c a
+#2c
+x  c
+1ac
+1ac
+b
+
+b
+1ha
+1 a
+1 h
+1f
+b
+1e
+1ef
+1cd  c
+#2 d
+x    c
+b
+1 ca  c
+#2  a
+x     c
+1   ce
+1   ce
+b
+1 a  c
+1    c
+1   e
+1  d
+b
+1  c
+1  cc
+1.c aa
+2c
+b
+
+b
+1c da
+#2c
+x  d
+1a d e
+#2 c
+xa
+b
+1efc
+#2 f c
+xe
+1h i  h
+#2ha
+x     h
+b
+1f aa
+#2c  a
+x  a
+1 cd e
+#2  d a
+x d
+b
+1efc
+#2 f c
+xe
+1h i  h
+#2ha
+x     h
+b
+
+b
+1f  a
+1c aa
+1acc e
+#2a d a
+x a
+b
+#2c d
+x  c
+x  d  c
+xa c
+1 dfec
+1 c c a
+b
+#2  a  c
+x a a
+x a cee
+x    c
+1   eec
+1  e
+b
+1 aa c
+1 a
+1c
+1    c
+b
+1  a
+1 da
+1cc
+#2   a c
+xe
+b
+
+b
+1f  e
+#2  d e
+x   g
+1acd
+#2    a
+x d
+b
+1.a  ce
+2    f
+1 a c
+1 a
+b
+1c   c
+1    c
+1  a
+1 da
+b
+1cc
+#2   a c
+xe
+1f  e
+#2  d e
+x   g
+b
+1acd
+#2    a
+x d
+1 f ce
+#2c
+x   a
+b
+
+b
+1ea c
+1e  c
+1c  ac
+#2    c
+xa
+b
+1 d a
+1   a
+1 cdc
+1  d a
+b
+#2  d ef
+x     f
+x cd  f
+x     f
+1c da
+#2a d ef
+x cd  f
+b
+#2 ddef
+x  d
+x cdca
+xa d ef
+#2c da
+x   a
+xa d ef
+x cdca
+b
+
+b
+#2 ddef
+x  d
+x cdca
+xa d ef
+#2c da
+x  da
+xa d ef
+x c c f
+b
+#2 ddef
+x  d
+x cdca
+xa d ef
+1c da
+#2a d ef
+x c c
+b
+1 ddef
+#2 cdca
+x  dca
+#2  dca
+x a
+1 aaac
+b
+1   eec
+1  eeec
+0 aa c
+b
+b
+
+b
+#2 a
+x c
+x d
+xa
+#2c   c
+x    e
+xc   f
+x   c
+b
+#2c  e
+x  c
+xc de
+x  f
+#2ccd  c
+x     e
+xccd  f
+x    c
+b
+1acc e
+1 cc e
+1 c ce
+1 c  e
+b
+#2 dfec
+x c
+x d
+xa
+#2cc e c
+x   c
+xc   f
+x   c
+b
+
+b
+#2c  e
+x  c
+xc de
+x  f
+#2ccd  c
+x     e
+xccd  f
+x    c
+b
+1acc e
+#2 c  e
+x c
+1a cce
+#2 ccce
+x cc
+b
+1 dfec
+#2 aa c
+x   c
+1 aaa c
+1  eeec
+b
+Y aa c
+b
+b
+
+e

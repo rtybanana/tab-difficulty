@@ -1,0 +1,207 @@
+-C
+-t
+-f
+{2. Begl'occhi, bel seno/2. Begl'occhi, bel seno}
+b
+w.cdd   a
+b
+w.dab  d
+b
+0cdd   a
+0aab  a
+0fc   c
+b
+0da   d
+0ac  a
+0ca  c
+b
+0add a
+w c
+b
+w. da   a
+b
+w. df  d
+b
+0 da a
+0   c
+0 cb   ///a
+b
+w. da   a
+b
+0 daa
+0a d e
+0cd  c
+b
+0 cdca
+0 a c d
+0 cd  c
+b
+waab  a
+0 dd  c
+b
+0 df  d
+0 ba a
+0   c
+b
+
+b
+w aaac
+0 da a
+b
+0aa   d
+0ced  c
+0da   a
+b
+wcb  a
+0    c
+b
+0c d d
+0    c
+0aba a
+b
+0a b c
+0  a   //a
+0 e
+b
+0aac  a
+wa d e
+b
+0 daa
+0      a
+0a b  a
+b
+0cc  a
+0dc   a
+0cdd   a
+b
+0.ddf  d
+1    a
+0 db c
+b
+0 df  d
+0 ddca
+0 c    ///a
+b
+w. da a a
+.
+b
+b
+.
+w. daa
+b
+w.a d e
+b
+
+b
+wcdd c
+0  c
+b
+w.acd a
+b
+0ac  a
+0     d
+0ac  a
+b
+0 dd  c
+0 db  a
+0 c
+b
+w da a a
+0a d   /a
+b
+0cad   a
+waac  a
+b
+0acd a
+0    a
+0 cd  d
+b
+0 dd  c
+0     a
+0 da   a
+b
+w.acd a
+b
+0 daa
+0a d e
+1c   c
+1 d
+b
+0 cdca
+0    a
+0    c
+b
+0a d e
+0    c
+0acd a
+b
+w.cdd   a
+b
+
+b
+w.a d   /a
+b
+0cda c
+0   a
+0a d e
+b
+0 da c
+0      //a
+0      ///a
+b
+w aba  4
+0     d
+b
+w. dff  4
+b
+0 cdc  ///a
+0    a
+0 cd  d
+b
+0 dd  c
+0     c
+0 cb  a
+b
+w. da   a
+b
+0
+0cdd   a
+0a d   /a
+b
+0cdd   a
+0a     /a
+0 d    //a
+b
+0 cdc  ///a
+0    a
+0 cd  d
+b
+0 dd  c
+0 cb  a
+0 da   a
+b
+
+b
+0 cdc  ///a
+0    a
+0    c
+b
+0a d e
+0    c
+0 cdca
+b
+0 daa
+0 dd  c
+0a
+b
+w.ca   d
+b
+0 da a
+0   c  ///a
+0 c
+b
+w. da a a
+b
+b
+
+e

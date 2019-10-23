@@ -1,0 +1,84 @@
+-C
+-t
+-f
+{1. Wo soll ich mich hinkeren/1. Wo soll ich mich hinkeren}
+b
+c
+1  d
+b
+.
+1 bd
+1 bd
+1 a c
+1  dd
+b
+1a  c
+#2   c
+x  a
+1 db
+1 db
+b
+1a   d
+0 db
+1 bd
+b
+A1
+0 a c
+1  d a
+1  d
+.
+b
+b
+A2
+0 a c
+0  d a
+b
+1
+1 bd
+1 a c
+#2   c
+x  a
+b
+1  bc
+1  d a
+0  a c
+b
+0   cd
+1
+1 b  d
+b
+0 a c
+1  dd
+1 db
+b
+
+b
+1
+1 bd
+0 a c
+b
+1
+1  d a
+1 bd
+1 bd
+b
+1 a c
+1  dd
+1a  c
+#2   c
+x  a
+b
+1 db
+1 db
+1a   d
+1 db
+b
+1
+1 bd
+0 a c
+b
+w  d a
+b
+b
+
+e

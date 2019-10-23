@@ -1,0 +1,332 @@
+-C
+-t
+-f
+{26. Galliarda 4b/26. Galliarda 4b}
+b
+1 acc a
+b
+1. acc a
+2 acc
+1     a
+b
+#2 acc a
+x  d
+#2 a
+x  d
+#2  c
+x  a
+b
+1. acc a
+2 acc
+1     a
+b
+#2 acc a
+x  d
+#2 a
+x  c
+#2  d
+x a
+b
+1 cdca
+#2 a
+x c
+1 daa
+#2 c
+x d
+1 acc a
+#2  d
+x a
+b
+1acd a
+#2  a
+x  c
+#2  d
+x a
+b
+
+b
+1acd a
+1   c
+1 acc a
+b
+1. acc a
+2 acc
+1     a
+b
+2 acc a
+#3 d
+x b
+#3 d
+x b
+x a
+x  d
+#3 a
+x  d
+x  c
+x  a
+b
+#2 acc a
+xa
+#2 d
+x b
+#2 a
+x  d
+b
+2 acc a
+#3a
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+b
+
+b
+#3 cdca
+x a
+x c
+x d
+#3a
+x c
+x d
+xa
+#3c da
+xa
+x d
+x c
+b
+#3 d
+x c
+x a
+x  d
+2 acc a
+#3  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+2acd a
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+b
+1acd a
+1   c
+1 aba d
+b
+1. aba d
+2 aba
+1     d
+b
+#2 aba d
+x b
+#2 d
+x b
+#2 a
+x  d
+b
+
+b
+1. aba d
+2 aba
+1     d
+b
+#2 aba d
+x b
+#2 d
+x a
+#2 b
+x d
+b
+#2abb d
+xc
+#2d
+xc
+#2a
+x d
+b
+#2 b
+x a
+#2  d
+x  b
+#2  a
+x   c
+b
+#2  aa
+x  c
+#2  d
+x  a
+#2  c
+x  d
+b
+#2 acc a
+x  a
+#2  c
+x  d
+#2aac  a
+x d
+b
+
+b
+#2 cdca
+x d
+xa
+x c
+#2 daa
+x c
+x a
+x  d
+#2 acc a
+x  d
+x a
+x  c
+b
+1acd a
+#2  a
+x  c
+#2  d
+x a
+b
+1acd a
+1   c
+1 aba d
+b
+1. aba d
+2 aba
+1     d
+b
+#3 aba d
+x  d
+x a
+x b
+#3 d
+x b
+x a
+x  d
+#3 a
+x  d
+x  b
+x  a
+b
+2 aba d
+#3 a
+x b
+#3 d
+x b
+x a
+x  d
+#3 a
+x  d
+x  b
+x  a
+b
+
+b
+2 aba d
+#3a
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x b
+x a
+b
+#2abb d
+xc
+#2d
+xc
+#3d
+xc
+xa
+x d
+b
+#3a
+x d
+x b
+x a
+#3 b
+x a
+x  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+#2  aa
+x  c
+#2  d
+x  a
+#2  c
+x  d
+b
+#2 acc a
+x  a
+#3  c
+x  a
+x  c
+x  d
+#2aac  a
+x d
+b
+
+b
+#3 cdca
+x a
+x c
+x d
+#3a
+x c
+x d
+xa
+#3c da
+xa
+x d
+x c
+b
+#3 a
+x  d
+x  c
+x  a
+2 acc a
+#3  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+2acd a
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+b
+1acd a
+Y   c
+b
+b
+
+e

@@ -1,0 +1,77 @@
+-C
+-t
+-f
+{30. Galliarda 8/30. Galliarda 8}
+b
+1.ca bc
+2ca b
+#2ca bc
+xca bc
+b
+1ca bc
+1    c
+1ea c a
+b
+1acd a
+1    a
+#2ccd  c
+xe
+b
+1fc e c
+#2   e
+xe
+1cce  c
+b
+1aac  e
+#2acd a
+x  c
+#2caa c
+x   b
+b
+1aac  a
+#2   c
+x  d
+1aac  a
+.
+b
+b
+.
+#2ccd  c
+xe
+1fc e c
+1ecc e
+b
+1cdda
+#2a
+x d
+1acd a
+b
+
+b
+1 da c
+#2 c
+x a
+#2 c  c
+x d
+b
+1aab  a
+#2   c
+x d
+1 c c
+b
+1 a a
+2 cfe c
+#3  e
+x  c
+#2  f
+x  e
+b
+1cef c
+#2   e
+x f
+1cef c
+.
+b
+b
+
+e

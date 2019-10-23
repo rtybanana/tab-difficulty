@@ -1,0 +1,424 @@
+-C
+-t
+-f
+{Mode 5/Luis de Narváez}
+b
+c
+wfd a
+b
+0fd a
+0fd a
+b
+whd f d
+b
+0hd f d
+0hd f d
+b
+1f da
+#2 a
+x c
+1 d
+1c  a
+b
+1d  c
+#2  b
+x  d
+#2 a
+x c
+1 d
+b
+1d bc
+1 a
+1 c
+1  d
+b
+1 dfa
+1d
+1c d
+1a b
+b
+wcdda
+b
+#2cd a
+xd
+xc
+xa
+1 d
+1a
+b
+
+b
+1c  a
+1e
+0f d e
+b
+1h i kh
+1k
+1l
+1   g
+b
+1 h ha
+1l
+1k l
+1h i
+b
+1.kh ha
+2 i
+0  l
+b
+wk lha
+b
+wl i kh
+b
+0h i kh
+1     k
+#2k
+xh
+b
+0fh a
+0  i
+b
+0fhia
+0fhia
+b
+0hdf  d
+0   f
+b
+0hd f d
+1   f
+1 f
+b
+1 h a
+1h
+1fh
+1df
+b
+
+b
+1cd a
+1a
+1df
+1    d
+b
+1    d
+1d
+0cd a
+b
+1    c
+1 d
+1d
+1     d
+b
+1 a   d
+1d
+1c d a
+1  b
+b
+1  aac
+1c
+1a c
+1 d
+b
+1 cdca
+1 a
+1 ca
+1 d
+b
+1a b  d
+1 d
+0c da
+b
+1  bc
+1a
+1 daac
+1  c
+b
+0  dca
+0fc  a
+b
+0f  a
+1 d
+1d
+b
+
+b
+0cd a
+1a
+1 c
+b
+1ca a
+1  d
+0d bc
+b
+1  de
+1c
+0ca a
+b
+1 abc
+#2a
+xc
+1a
+1   c
+b
+wcaa c
+b
+0 h k h
+0l  k
+b
+1lh k h
+#2   h
+x   k
+#2   h
+x    l
+x    k
+x    h
+b
+0lh  k
+0   a
+b
+#2l  a
+xk
+xh
+x l
+#2h
+x l
+xh
+xk
+b
+
+b
+#2l  a
+xk
+xl
+xh
+0k lh
+b
+1 hik
+1h
+0hfff
+b
+1 hhe
+#2h
+xg
+#2e
+x h
+xe
+xg
+b
+whhikkh
+b
+#2 d  c
+x c
+x a
+x  d
+#2 a
+x  d
+x a
+x c
+b
+1 daac
+1  c
+0 cdca
+b
+1  aac
+1 a
+0 a ccd
+b
+1cc   c
+1  e
+1  f c
+1 d
+b
+
+b
+1cc   c
+#2  f
+x  e
+#2  c
+x   e
+x  c
+x  e
+b
+0 df c
+0d f  d
+b
+0c da
+1a   a
+1  b
+b
+1  aac
+1 d
+0 dff d
+b
+1ff  a
+1  h
+1  i
+1 h
+b
+1ff  a
+1  i
+1f h
+1 i
+b
+1 hi
+#2 f
+x h
+1 i
+1  f
+b
+1  f
+1 h
+0 h h
+b
+0   f
+0hf
+b
+1 h  f
+1f
+0lh   h
+b
+
+b
+1   k
+#2  i
+x  l
+#2 h
+x  l
+x h
+x k
+b
+1kl h
+1 h
+1hi f
+#2    h
+x   e
+b
+1   f
+1   h
+1hif
+1  h
+b
+1 hi
+#2f
+x i
+#2 h
+x i
+x h
+x f
+b
+1  i
+1 h
+1 if
+1   h
+b
+1  f
+1  h
+0 hi
+b
+1 f
+1   h
+0   h
+b
+1   f
+1  i
+0  i k
+b
+1 f  h
+1 h
+1 ih
+1 f
+b
+
+b
+1 hi f
+1  f
+1 fg
+1    d
+b
+1  def
+1 d
+1 dff d
+1   e
+b
+0  dca
+1fc
+1d
+b
+1cd
+1a
+0dfg
+b
+1  g
+1f
+0cd
+b
+#2  d
+xa
+x c
+x a
+#2 c
+x a
+x c
+x d
+b
+1a b
+1 d
+0 da
+b
+1  bc
+#2a
+xc
+#2d
+xc
+xd
+xa
+b
+
+b
+1c da
+1 a
+1ab
+1    d
+b
+1  fef
+1 d
+1 dff d
+1   e
+b
+1  dca
+#2 d
+x c
+#2 a
+x  d
+x a
+x c
+b
+0 ddef
+0   f
+b
+1 ddff
+1   e
+1   f
+1   e
+b
+0 dff d
+0f def
+b
+0hd f d
+0f  ef
+b
+1hd f d
+1f
+1h
+1k
+b
+0lh a
+0  i
+b
+wlhia
+b
+Y
+b
+b
+
+e

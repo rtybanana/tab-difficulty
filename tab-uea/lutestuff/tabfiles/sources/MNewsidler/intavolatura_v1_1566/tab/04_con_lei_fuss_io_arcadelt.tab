@@ -1,0 +1,427 @@
+-C
+-t
+-f
+{4. Con lei fuss'io/Melchior Newsidler}
+b
+c
+0 dddf
+#2 dddf
+x   f
+x   d
+x    d
+b
+#2 dedb
+x b
+x de
+x f
+2bbd  b
+#3   d
+x  b
+#3  d
+x  f
+x b
+x d
+b
+2 ggfd
+#3 f
+x g
+#2 f
+x d
+1 fg
+1bbdd
+b
+#2
+xbbdd
+1bdda
+1ffg d
+1fb d b
+b
+
+b
+#3dde  d
+xf
+2g
+#2f
+xd
+2ddda
+#3c
+xd
+#2c
+xa
+b
+#3cdda
+xa
+x d
+x c
+#3 a
+x c
+#4 d
+xa
+xc
+xd
+1cd
+1f ddf
+b
+#2f g hf
+x   h
+xf g hf
+xdb cd
+#2  b
+xd  cd
+1fb d b
+b
+1  d
+1dbb d
+1bdda
+1abb d
+b
+#3 d df
+x  g
+#4 d
+x  g
+x d
+x f
+1 gf
+2  gfd
+#3 f
+x g
+#2 f
+x d
+b
+
+b
+#3 fgfd
+x g
+xd
+xf
+#3d
+x g
+#4d
+x g
+x f
+x d
+1 f fd
+2  b d
+#3   d
+x  b
+b
+#2 bd  b
+x   d
+x  b d
+x   c
+#2   df
+x   a
+2   cd
+#3   a
+x   c
+b
+2   ab
+#3    d
+x   a
+#2    df
+x  e  d
+#2   a
+x  d  b
+#3  d b
+x  b
+#4  d
+x  b
+x   d
+x  b
+b
+1  d a
+1bbd  b
+1.bbdd
+2dbbc
+b
+1fg df
+1gd d g
+1dfg d
+#2bbd  b
+xfggd
+b
+
+b
+#2  g
+xdfg d
+1bdda
+2add a
+#3 c
+x d
+#2ac
+x a
+b
+1acd a
+#2  d
+x b
+#3 d
+xa
+2bd
+#3a
+xb
+2d ef
+b
+#2 d
+xabd
+#3 d
+xa
+2b dd
+#3a
+xb
+2 fef
+#2 d
+x bd
+b
+#2 def
+x b d
+#3   f
+x  f
+#4  g
+x  f
+x  d
+x  f
+1  g d
+1fggd
+b
+
+b
+1  g
+1fggd
+#3dfg d
+xf
+xg
+xf
+#3d
+x g
+#4d
+x f
+x g
+xd
+b
+1bdda
+#3bde b
+x b
+x  e
+x  d
+#3  e
+x b
+#4 d
+x f
+xb
+xd
+1bdda
+b
+2bde b
+1 gihf
+2 gihf
+1 fgh f
+1 dddf
+b
+1bde b
+1dde  d
+#3 fgfd
+x d
+x  g
+x d
+#3 f
+x d
+#4 f
+x  g
+x d
+x f
+b
+2 dgf d
+#3  e
+x  g
+#2  e
+x  d
+1  ef d
+#2g
+x  d
+b
+
+b
+1gde
+#2   f
+xfd
+2deef
+#3 d
+x e
+#2 d
+x  dd
+b
+#2d bc
+x b
+1bbdd
+2 ggdf
+#3  f
+x  d
+#2  f
+x   f
+b
+1 fgh i
+#2   f
+x     g
+#2 gg  f
+x   d
+1bd db
+b
+2d  d d
+#3   c
+x   a
+#3   d
+x   c
+#4   d
+x   c
+x   a
+x   c
+#3 bdd b
+x d
+x e
+x d
+#3 b
+x  e
+#4 b
+x  e
+x  d
+x  b
+b
+
+b
+#2  dd
+x b
+x   d
+x  d
+#2    f
+x d
+2  ef
+#3   f
+x  d
+b
+2  b d
+#3   d
+x  b
+#2 bd d
+x  b
+#2   df
+x   f
+x   d
+x bd d
+b
+#2  d a
+x  ef g
+x   cd
+x  ddf
+#2  dab
+x  b
+1  dca
+b
+1
+1. gddf
+2 gddf
+1 gddf
+b
+1db cd
+1ffd  i
+#3gd d g
+xf
+xd
+x g
+#3 f
+x g
+#4d
+x g
+xd
+xf
+b
+1gd f d
+1fb d b
+1dbb d
+1bbdd
+b
+
+b
+#2abb d
+x   d
+x dddf
+x   f
+#3  dca
+x d
+x c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+1 dddf
+1. gddf
+2 gddf
+1 gddf
+b
+1 ig hi
+1f g hi
+#3g i ig
+x k
+x i
+x g
+#3  l
+x g
+#4 i
+x k
+xg
+xi
+b
+1g i ig
+1fb d b
+1dbb d
+1bbdd
+b
+#2 fgfd
+x   d
+x dddf
+x   f
+#3  dca
+x d
+x c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+
+b
+1 dddf
+1  d
+1 ddd
+#2   df
+x    d
+b
+1 d ab
+1 def d
+#2 def
+x  g
+x  ef
+x  d
+b
+#3dde  d
+xf
+2g
+#2f
+xd
+2 iihf
+#3 h
+x i
+#2 h
+x f
+b
+Y hihf
+b
+b
+
+e

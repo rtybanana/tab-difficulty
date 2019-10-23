@@ -1,0 +1,314 @@
+-C
+-t
+-f
+{24. Et don bon soir/24. Et don bon soir}
+b
+c
+0f
+1f
+1  d
+b
+#2 df
+xa
+xcd
+xd
+1a d
+1ac  a
+b
+#2 d ac
+x   c
+x  aa
+x  b
+1   c
+1f d e
+b
+#2   a
+xd
+xcd a
+xa
+1c d
+1ac  a
+b
+#2 ab c
+x da
+x dbc
+x   a
+#2  dca
+x c
+x d
+x c
+b
+1 ddef
+1 dde
+1   a
+1cd
+b
+
+b
+1cd a
+1cd
+#2ac
+x a
+xa d
+x  b
+b
+#2f a
+x   a
+xd  c
+xa
+#2c a
+xa b
+xc d
+x a
+b
+1ac
+1fd
+#2 a
+xe
+xf
+xe
+b
+1f d
+1  def
+2f def
+#3   c
+x   a
+#3   c
+x   a
+x    e
+x    c
+b
+1   ce
+1    a
+#2  d
+x    c
+x    e
+x    a
+b
+#2  b c
+x    e
+1  aa
+#2   c
+x  a
+x  b e
+x   c
+b
+
+b
+#2  aa
+x  b e
+x  d c
+x    a
+1    c
+1  c
+b
+1  d a
+1ac
+1cd
+1cdda
+b
+2cdda
+#3 c
+x d
+#3a
+xc
+xd
+xf
+#2hd   d
+x    a
+x    c
+x    e
+b
+#2fdaa
+x   c
+x  a
+xd b
+#2c da
+xa
+1da   d
+b
+#2   a
+xc d
+xc b
+x  a
+2 abc
+#3a
+x d
+#3a
+xc
+xd
+xa
+b
+
+b
+#2caa c
+xa
+x d
+x c
+1 df
+1c   c
+b
+1ddf  d
+1cdda
+1cdda
+1acd a
+b
+#2 ab c
+x da
+x dbc
+x   a
+1  dca
+#3 c
+x a
+x d
+x c
+b
+1 ddef
+1 dde
+1   a
+1 ddef
+b
+1 ddef
+1 dfec
+1acd a
+#3 d
+x c
+x d
+xa
+b
+#2c da
+xa b
+xc d
+xda
+#2ffh a
+xc d
+1hd  c
+b
+
+b
+#2 c
+xf
+xfa  e
+x  d
+1ca a
+1ef c
+b
+1fc  a
+#2  d
+xd
+#2c
+xa
+1cd a
+b
+#2cd a
+x   c
+xc a
+x  b
+1acd
+1    a
+b
+#2  dca
+x d
+xac
+x a
+1ac  a
+1  d
+b
+1 cd
+1cd a
+#2cd a
+x    e
+xda  c
+x    a
+b
+#2da   d
+xc d
+xa b  d
+x da
+1 cdca
+#2c  a
+x  bc
+b
+
+b
+#2  de
+x ab
+xacd a
+x  a
+#2 ab c
+x da
+x dbc
+x   a
+b
+2 cdca
+#3 d
+x c
+#3 a
+x  d
+x a
+x c
+2 daa
+#3 a
+x c
+#3 d
+xa
+xc
+xd
+b
+1f  a
+1  d
+#2 df
+xa
+xcd
+xd
+b
+1a d
+1ac  a
+#2 d ac
+x   c
+x  aa
+x  b
+b
+1   c
+1f d e
+#2   a
+xd
+xcd a
+xa
+b
+
+b
+1c d
+2ac  a
+#3 a
+x  d
+#2 ab c
+x da
+x dbc
+x   a
+b
+2  dca
+#3 c
+x a
+2 c
+#4 d
+x c
+x a
+x c
+#2 dda
+x    e
+x    c
+x    a
+b
+1 aba d
+1  da c
+#2     d
+x aba
+x  a
+x   c
+b
+w ddef
+b
+b
+
+e

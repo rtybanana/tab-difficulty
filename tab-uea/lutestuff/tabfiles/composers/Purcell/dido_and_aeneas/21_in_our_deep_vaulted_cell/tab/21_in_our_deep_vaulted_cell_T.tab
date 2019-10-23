@@ -1,0 +1,128 @@
+-C
+-t
+-f
+{/}
+b
+1 aaac
+b
+1a d e
+1    e
+1a dfe
+b
+0 daa
+1a dfe
+b
+0 daa
+1 aaac
+b
+1 cd  c
+1 dd  c
+1 a c d
+b
+0. cdca
+b
+0 cdca
+1 cdca
+b
+1abd
+1  d
+1aacc
+b
+1 bdca
+1    a
+1 bdca
+b
+1abd
+1  d
+1aacc
+b
+1 bdca
+1    a
+1 cbc
+b
+1 ddd
+1   d
+1dc c
+b
+
+b
+1fd d
+1   d
+1db c
+b
+1baba
+1   a
+1abbc
+b
+1bdda
+1   a
+1a d d
+b
+1 dd c
+1 dcc
+1     a
+b
+0 cdca
+1a d d
+b
+1 dd c
+1 dcc
+1     a
+b
+0 cdca
+1 cdca
+b
+1 da c
+1 db c
+1 cd  c
+b
+0 aba d
+1  da c
+b
+0 aba d
+1 dd  c
+b
+1aab  a
+1     a
+1cdd   a
+b
+0acd a
+1cdd   a
+b
+0acd a
+1cdd a
+b
+
+b
+1acd
+1cdd
+1acb
+b
+1 da
+1   a
+1 daaa
+b
+1acd
+1cdd
+1acb
+b
+1 da
+1   a
+1 dff
+b
+1 df  d
+1. ddca
+2 c
+b
+0 daa
+1 dff
+b
+1 df  d
+1. ddca
+2 c
+b
+0 daa
+b
+b
+
+e

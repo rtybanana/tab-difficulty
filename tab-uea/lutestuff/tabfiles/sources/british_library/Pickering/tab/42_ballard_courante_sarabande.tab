@@ -1,0 +1,135 @@
+-C
+-t
+-f
+{Courante sarabande/Courante sarabande}
+b
+#2  dU
+x a
+#2 c
+x d  X
+b
+.
+1.a\2c\4d a
+2c
+1a
+b
+1 \2c    ///a
+1  \4d
+1a
+b
+1    a
+0acd
+b
+1.\2cdd   a
+2a
+1 \4d a
+b
+0 \2cdca
+1      ///a
+b
+1. cdca
+2 a
+1 c
+b
+0 \4dda
+1a   \3e
+b
+1.cdda
+2a
+1c
+b
+1.a   a
+2 d
+#2 c
+x a
+b
+
+b
+1 c
+1. a "#  a
+#3  \4d
+x a
+b
+A1
+1  \4d\1ca
+#2  dU
+x a
+#2 c
+x d  X
+.
+b
+b
+A2
+0  d\1ca
+1      ///a
+b
+.
+1      ///a
+0 \1b\3d\2c
+b
+1      a
+0 \4dda
+b
+1      ///a
+0 \1b\3d\2c
+b
+1     a
+0 a\1b\2c
+b
+1      /a
+0a\2b\1b
+b
+1      a
+0 \4dda
+b
+1. b  a
+2 \3d
+1 a\2c\1c a
+b
+1  \4d\1ca
+0      ///a
+.
+b
+b
+.
+1      ///a
+0a\1b\3d
+b
+1      a
+0\1b\4d\3d
+b
+
+b
+1a\1b\3d
+1    a
+1\4f
+b
+1\2da
+1     a
+1a
+b
+1\4d  \2c
+1 a
+1\1b  a
+b
+1.a   d
+2\1c
+#2\4d
+xa
+b
+1\4f
+1\3ea   a
+#2c
+xe
+b
+1\4f   a{
+1   c
+1  \2d
+b
+1fcd a
+0      ///a
+.
+b
+b
+
+e

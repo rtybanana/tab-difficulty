@@ -1,0 +1,220 @@
+-C
+-t
+-f
+{41. Gagliarda 7 - Val cerca/41. Gagliarda 7 - Val cerca}
+b
+1dabc
+1cdda
+1abb d
+b
+1. db c
+2 b
+1 ab  d
+b
+1.abb d
+2 d
+1 bd a
+b
+1. db c
+2 b
+1 ab  d
+b
+1.abb d
+2 d
+1 bd a
+b
+1. dda
+2 b
+#2 a
+x  d
+b
+1  bc
+1  b d
+1  aa
+b
+1. ab  d
+2 ab
+1   a
+b
+1dabc
+1cdda
+1abb d
+b
+1. db c
+2 b
+1 ab  d
+b
+
+b
+1.abb d
+2 d
+1 bd a
+b
+#2 db c
+x b
+#2 a
+x  d
+1 ab  d
+b
+#2abb d
+x d
+#2 b
+x a
+1 bd a
+b
+#2 dda
+xa
+#2 d
+x b
+#2 a
+x  d
+b
+#2  b
+x   c
+#2    d
+x  b
+#2   a
+x  a
+b
+1. ab  d
+2 ab
+1   a
+b
+1. db  d
+2 a
+#2 b
+x d
+b
+1.abb d
+2abb
+1. db c
+2 db
+1. bd a
+2 bd
+b
+
+b
+1 ab  d
+#2   a
+x a
+#2 b
+x d
+b
+1.abb d
+2 d
+1 bd a
+b
+#2 dda
+x  b
+#2  d
+x a
+2  d
+#3  b
+x  a
+b
+1  bc
+1  b d
+1  aa
+b
+#2 ab  d
+x  a
+#2  b
+x  d
+#2 a
+x b
+b
+#2 db  d
+x b
+#2 d
+x a
+#2 b
+x d
+b
+1.abb d
+2abb
+1. db c
+2 db
+1. bd a
+2 bd
+b
+
+b
+1 ab  d
+#2   a
+x a
+#3 b
+x a
+x b
+x d
+b
+1.abb d
+2 d
+1 bd a
+b
+#2 dda
+x b
+#2 d
+x b
+#2 a
+x  d
+b
+2  bc
+#3  a
+x  b
+#2  d d
+x  b
+#2   a
+x  a
+b
+1. ab  d
+2 ab
+1   a
+b
+1dab  d
+1cdda
+1aabc
+b
+1. ea c
+2a
+1cdda
+b
+1aabc
+1abd a
+1 ea c
+b
+1.aac  a
+2aac
+1   c
+b
+
+b
+#2     d
+x ab
+#2  d
+x   a
+#2   c
+x  b
+b
+#2  a c
+x  b
+#2  d
+x a
+#2  d d
+x  b
+b
+#2  a
+x   c
+#2 aa c
+x   c
+#2  a
+x   b
+b
+#2     a
+xaac
+#2   c
+x  d
+Yaac  a
+b
+b
+
+e

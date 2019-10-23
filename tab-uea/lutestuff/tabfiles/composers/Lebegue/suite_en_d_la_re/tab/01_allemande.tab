@@ -1,0 +1,188 @@
+-C
+-t
+-f
+{Suite en de la ré/Suite en de la ré}
+b
+C
+#2
+x  a
+b
+.
+#2  aaa ///a
+x     a
+#3    a
+x  b
+x  a
+x   c
+2.   a&'  ///a
+3    c
+2    d&^f
+#3    c
+x   c
+b
+#2  aa
+x    a
+2  f&^
+#3   cc
+x a
+2. aaa
+3  d
+#3 a
+x  d
+x  cb
+x  a
+b
+#2  b&^ a a
+x    c
+2.  a&'a a
+3  a
+#3  a
+x  b
+x  a
+x   c
+2   c&'cc
+#3    a
+x   a
+b
+
+b
+2   cac
+#3    c&'d
+x     b
+2.  d&^  a
+3  d
+2a  e
+#3     a
+x c
+#3 a
+x  d
+x  b
+x  a
+b
+2 a    d
+#3   a
+x a
+2   ccc
+#3    a
+x   c
+#3   ccd
+x   f
+x   e&'d
+x   c
+2   c&'cd
+#3      4
+x    d
+b
+A1
+2.   ad /a
+3     d
+#2     a
+x     d
+1   ad
+#2
+x  a
+.
+b
+b
+A2
+2.   ad /a
+3     d
+#2     a
+x     d
+1   ad
+#3
+x    c
+x   a
+x   c
+b
+
+b
+.
+2  a&'a
+#3   e
+x  d
+#2 ac
+x ce c
+2 d&^  a
+#3  d
+x c
+2 a&' c
+#3  c
+x c
+b
+#3 cdcc
+x  f
+2  ded
+2. a aa
+3  a
+#2  c&'c
+x  d c
+2    a a
+#3   a&'
+x  c
+b
+2  dccd
+#3   c
+x  d
+2   c&'
+#3     d
+x  a
+2  bc  a
+#3     a
+x  d
+2 a    d
+#3      a
+x c
+b
+2aaa   ///a
+#3  c
+xc
+2 c&'d  a
+#3  f
+xa
+#2ccb   a
+xedd   /a
+2ca    d
+#3     a
+x e
+b
+
+b
+2cccc
+#3      a
+xa
+#3 c
+x a
+x  d
+x  c
+#2  e&'c a
+x a a
+2    c&'
+#3   c&'
+x  e
+b
+A1
+2 a  a
+#3  a
+x     a
+#2   a  ///a
+x     a
+1    a
+#3
+x    c
+x   a
+x   c
+.
+b
+b
+A2
+2 a  a
+#3  a
+x     a
+#2   a  ///a
+x     a
+0    a
+b
+b
+
+e

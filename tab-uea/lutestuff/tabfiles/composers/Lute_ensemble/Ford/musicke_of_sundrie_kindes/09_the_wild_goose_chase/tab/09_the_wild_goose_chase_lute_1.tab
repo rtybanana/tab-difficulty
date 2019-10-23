@@ -1,0 +1,151 @@
+-C
+-t
+-f
+{9. The wild goose chase/9. The wild goose chase}
+b
+1
+b
+.
+1
+1
+1   a
+0  b
+1   a
+b
+1    c
+1     d
+1 d
+0d
+1 d
+b
+1 a
+1  b
+1     d
+1. ab
+2 b
+1 d
+b
+1 ab
+1  de
+1  bc
+1  da
+0      a
+b
+1  d
+1    a
+1 a   d
+0 b  a
+1    c
+b
+1    d
+1  b
+1  d
+1 a
+1     d
+1    a
+b
+
+b
+1    c
+1 a
+1 b
+1 d
+1    c
+1    d
+b
+A1
+1.   a
+2 b
+1  d   a
+0.  ba d
+.
+b
+b
+A2
+1.   a
+2 b
+1  da
+0  bf d
+1 d
+b
+.
+1. d   d
+2 f
+1 d
+1. b  a
+2 d
+1 a   d
+b
+0  d   a
+1     a
+1     c
+1      a
+1      /b
+b
+1      /a
+1 d  c
+1    a
+1     d
+1 d
+1 b
+b
+1 a
+1     d
+1     c
+1     a
+1d
+1c
+b
+
+b
+0a
+1 d
+1  d
+0 c
+b
+0 dd   a
+#2f
+xd
+1.c
+2 d
+1 a
+b
+1. d
+2 a
+1  b
+1.  d
+2  a
+1   a
+b
+0  b  d
+1   a
+1    c
+1     d
+1 d
+b
+0d
+1 d
+1 a
+1     d
+#2 a
+x b
+b
+1. d   d
+2 b
+1 a   d
+1.  d   a
+2d
+1c
+b
+A1
+0da a d
+1 d
+.
+b
+b
+A2
+0.da a d
+b
+b
+
+e

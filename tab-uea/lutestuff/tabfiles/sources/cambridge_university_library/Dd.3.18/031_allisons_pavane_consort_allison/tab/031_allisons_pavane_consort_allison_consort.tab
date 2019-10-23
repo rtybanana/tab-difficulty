@@ -1,0 +1,786 @@
+-C
+-t
+-f
+{31. Allison's pavane/Richard Allison}
+b
+c
+1.aa c a
+2  a
+#2aab  a
+x   c
+x aacc
+x   b
+b
+2.aabc
+3c
+#2d
+xca a
+#2ab  d
+x   c
+x da c
+x  b
+b
+1.abdca
+2 d  c
+#2a   d
+xc  a
+xda c
+x b
+b
+2d da
+#3c
+xa
+#2c
+xa   d
+#2 d  c
+x  b
+x b  a
+x  a
+b
+1. aba d
+2c da
+#2aabc
+x  da c
+x a c d
+xacd a
+b
+
+b
+1 efec
+#2
+xdab  d
+#3c
+x   a
+x    c
+x d
+#3a
+x    d
+x    a
+x b
+b
+#3 d
+x    c
+x     d
+x a
+#3a
+x    d
+x    a
+x b
+#3 e
+x    c
+x     d
+x  d
+#3a
+x    c
+x  a
+x e
+b
+0aaccca
+1aac
+1   c
+b
+b
+
+b
+3.   c
+4  a
+#3  b
+x  d
+#3 a
+x b
+x a
+x  d
+3  b
+#4   c
+x  a
+#4  b
+x  a
+x  b
+x  d
+#4 a
+x  d
+x a
+x c
+#4 e
+xa
+xc
+x e
+b
+3a
+#4 d
+x b
+#4 a
+x  d
+x  b
+x  a
+#4   c
+x  a
+x  b
+x  d
+#4 a
+x  b
+x  d
+x a
+#4 b
+x a
+x  d
+x a
+#4 b
+x  d
+x a
+x b
+#4 d
+x b
+x a
+x b
+#4 d
+x a
+x b
+x d
+b
+
+b
+#4a
+x d
+xa
+xb
+#4a
+x b
+x d
+xa
+#4 d
+xa
+xc
+xa
+#4 d
+x a
+x b
+x d
+3a
+#4 d
+xa
+3c
+#4a
+xc
+#4d
+xc
+xa
+x d
+#4 b
+x d
+xa
+xc
+b
+#4d
+xa
+xc
+xd
+#4f
+xd
+xc
+xa
+3c
+#4a
+x d
+#3a
+x b
+3 d
+#4 b
+x a
+#4 b
+x a
+x b
+x a
+#4 b
+x a
+x  d
+x  b
+#4  a
+x  b
+x  d
+x  a
+b
+
+b
+3  b
+#4  d
+x a
+#4 b
+x d
+xa
+xc
+3d
+#4c
+xa
+#4c
+x d
+xa
+xc
+#4a
+x d
+x b
+x a
+#4  d
+x a
+x b
+x d
+#4a
+xc
+xd
+xa
+#4c
+xa
+x e
+x c
+b
+#2 e
+x a
+x
+xdab  d
+#txa
+xc
+#tx c
+x d
+#tx d
+x f
+#tx a
+x b
+b
+#tx b
+x d
+#tx b
+x d
+#txc
+xd
+#txd
+xa
+#txa
+xc
+#txc
+xa
+#txa
+xc
+#tx c
+x e
+b
+
+b
+3a    a
+#4 d
+x c
+#4 a
+x  d
+x a
+x c
+#4 d
+x c
+x a
+x  d
+#4 a
+x  d
+x  c
+x  a
+1aaccca
+1aac  a
+b
+b
+0ddf  d
+1ddf  d
+1ddf  d
+b
+0abb d
+1abb d
+1abd a
+b
+1 ea c
+#2a b d
+x  d
+#2aaa c
+x    a
+x ea c
+x  d
+b
+#2     a
+xaac
+x   c
+xc  a
+#2a   d
+x  d
+x da c
+x  b
+b
+#2abd a
+x d
+xa
+xc
+1da a d
+#2c  a
+xa
+b
+#2 da c
+x  b
+xab  d
+x a
+#2c da
+xd b
+xd da
+xc
+b
+
+b
+2dab  d
+#3a
+xc
+#4d
+xc
+xd
+xc
+#4d
+xc
+xa
+xc
+0ddf  d
+b
+b
+#3d
+xc
+xd
+xf
+#3h
+xf
+#4h
+xf
+xh
+xi
+#3h
+xi
+xl
+xi
+#3h
+xf
+x i
+x h
+b
+
+b
+#4a
+x d
+xa
+xb
+#4d
+xb
+xa
+x d
+#4a
+x d
+x b
+x a
+#4 b
+x a
+x b
+x d
+#4 b
+x a
+x  d
+x a
+#4 b
+x a
+x b
+x d
+3a
+#4c
+xd
+#4f
+xd
+xc
+xa
+b
+3c
+#4a
+xc
+#4d
+xc
+xa
+x d
+#4a
+x d
+xa
+xc
+#4d
+xc
+xd
+xf
+3h
+#4f
+xd
+#4c
+xa
+x e
+x c
+#4 a
+x c
+x e
+xa
+#4c
+xe
+xf
+xc
+b
+
+b
+#4e
+xc
+xe
+xf
+#3e
+xc
+3a
+#4 d
+x b
+#4 a
+x b
+x d
+x a
+#4 b
+x a
+x  d
+x a
+3 b
+#4 a
+x b
+#4 d
+x a
+x b
+x d
+#4a
+xc
+3d
+b
+3f
+#4d
+xc
+#4a
+x d
+x c
+x a
+#4  d
+x a
+x c
+x d
+#4a
+x d
+xa
+xc
+3d
+#4c
+xa
+#4 d
+x c
+x d
+xa
+3c
+#4d
+xc
+3a
+#4c
+xa
+b
+
+b
+3 d
+#4 a
+x b
+#4 d
+x a
+x b
+x d
+#4a
+xc
+xd
+xa
+#4c
+xa
+xc
+xd
+#4f
+xh
+xi
+xh
+#4i
+xh
+xi
+xh
+#4i
+xh
+xf
+x i
+#4f
+xh
+xi
+xf
+b
+3h
+#4a
+xc
+#4d
+xc
+xd
+xc
+#4d
+xc
+xd
+xc
+#4d
+xc
+xa
+xc
+1dab  d
+1dab
+b
+b
+1ddf  d
+#2ddf  d
+xddf  d
+1dfg d
+#2dfg d
+xddf  d
+b
+#2c da
+xd b  d
+xd da
+xc
+1.dab  d
+2c da
+b
+2aabc
+#3 cde
+x e
+2a dc
+#3  c
+x d
+1.acd a
+2da c
+b
+
+b
+#2cdf c
+xda   d
+#3c  a
+xa
+x d
+x b
+#3 a   d
+x  d
+x a
+x b
+#3 d
+xa
+xc  a
+x d
+b
+#3a   a
+x d
+2 da c
+#2 ddca
+x c
+#2 dda
+xa
+xcdda
+xda   d
+b
+#2c d a
+xa
+x f ec
+x e
+3a    a
+#4 e
+x c
+#4 a
+x  d
+x a
+x  c
+#4  a
+x  c
+x  d
+x a
+#4 c
+x d
+xa
+xc
+b
+
+b
+#3d
+xf
+xd
+xc
+#3a
+x d
+x b
+x a
+#4 b
+x a
+x  d
+x a
+#4 b
+x a
+x b
+x d
+#4a
+x d
+xa
+xc
+#4d
+xa
+xc
+xd
+b
+#4c
+xa
+xc
+xd
+#4f
+xd
+xf
+xd
+#4f
+xd
+xc
+xa
+#4c
+xd
+xf
+xc
+3d
+#4c
+xa
+#4 d
+x b
+x a
+x  d
+#4  b
+x  d
+x a
+x b
+#4 d
+x a
+x b
+x d
+b
+
+b
+#4a
+x d
+x b
+x a
+#4  d
+x a
+x b
+x d
+#4a
+x d
+xa
+xc
+#4e
+xa
+xc
+xe
+3f
+#4  a
+x  c
+#4  d
+x a
+x c
+x d
+#4a
+x d
+xa
+xc
+3d
+#4c
+xd
+b
+#4c
+x d
+xa
+xc
+#4d
+xa
+xc
+xd
+#4f
+xd
+xc
+xd
+#4f
+xc
+xd
+xf
+#3h
+xf
+#4h
+xf
+xh
+xi
+3h
+#4f
+xh
+#3i
+xh
+b
+
+b
+#4f
+xd
+xc
+xa
+#4 d
+xa
+xc
+xd
+#4f
+xd
+xf
+xd
+#4f
+xd
+xc
+xa
+3c
+#4 a
+x c
+#4 d
+x c
+x d
+xa
+#4c
+x d
+xa
+xc
+#4d
+xa
+xc
+xd
+b
+#4c
+xa
+xc
+xd
+#4f
+xd
+xc
+xa
+#4c
+xa
+x e
+x c
+#4 e
+x a
+x c
+x e
+1aac  a
+Yaacc
+b
+b
+
+e

@@ -1,0 +1,260 @@
+-C
+-t
+-f
+{10. Recercar 4/10. Recercar 4}
+b
+c
+#0 a  c
+x  a
+b
+0 a  c
+#1 a
+x  e
+b
+#1 a
+x c
+x e
+xa
+b
+#0ce
+xac
+b
+0 ea
+#1 c
+x a
+b
+#1 c
+x a
+x  e
+x  c
+b
+#1  ee
+x  a
+x  c
+x  e
+b
+0  cc
+#1     a
+x  d
+b
+#1 a
+x  c
+x  e
+x a
+b
+0  ee
+#1     c
+x  c
+b
+
+b
+#1  e
+x  a
+x  c
+x  e
+b
+#1 a
+x c
+x e
+xa
+b
+#0ce
+xac
+b
+#1    a
+x e
+xa
+x e
+b
+#1 c
+x a
+x  e
+x  c
+b
+#1 aa
+x   b
+x    c
+x   c
+b
+#1  a
+x   b
+x   c
+x  a
+b
+0  cc a
+#1h
+xg
+b
+#1ha
+xg
+xe
+xc
+b
+#1ea
+xf
+xc
+xe
+b
+
+b
+0fc
+#1  a
+xea
+b
+#1fca
+x a
+x c
+x e
+b
+0ef   a
+#1c
+xa
+b
+#1c d
+xe
+0fca
+b
+#0ea
+xaac
+b
+#1c d
+xa
+x ea
+x c
+b
+#1 acc
+x c
+x e
+x a
+b
+#1 cd
+x e
+xa
+x   c
+b
+#0 ea c
+x     e
+b
+#1 cd  c
+x d
+x c
+x a
+b
+#1  d
+x  c
+x  a
+x   c
+b
+
+b
+#1  abc
+x   c
+x  a
+x  c
+b
+#1  e
+x a
+x c
+x e
+b
+#0a c e
+x  e
+b
+#1 ea c
+x   c
+x  a
+x  c
+b
+#1 cd a
+x a
+x  d
+x  c
+b
+#1  d
+x  a
+x  c
+x  d
+b
+#0 ac  a
+x   c
+b
+0  da c
+#1   a
+x  d
+b
+#1  aa c
+x  c
+0  d
+b
+#1  cc a
+x  e
+x a
+x    c
+b
+#1    e
+x a
+x  e
+x  c
+b
+
+b
+#1  e e
+x a
+x  c
+x  e
+b
+#0 aa c
+x aa
+b
+#0 aab
+x abc
+b
+#1 aa c
+x c
+x e
+xa
+b
+#1cd  c
+xa
+#2c
+xa
+x d
+x c
+b
+#0 da c
+x ca
+b
+0 da c
+#1 c
+x a
+b
+#1 c c
+x a
+x  d
+x  c
+b
+0  aa
+#1    c
+x  a
+b
+#1  cc
+x  e
+x a a
+x    c
+b
+#1    e
+x a
+x  e
+x  c
+b
+
+b
+1  e e
+0 a
+1  e
+b
+Y aa c
+b
+b
+
+e

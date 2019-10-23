@@ -1,0 +1,639 @@
+-C
+-t
+-f
+{71. Galliard/Philip Rosseter}
+b
+2.aa   a
+3h
+2.fc  a
+3d
+2ca  c
+#3a
+xc
+b
+0aa c a
+2.ha   d
+3l
+b
+#2f aa
+xh
+#2df  d
+xf   a
+1 ef c
+b
+#2da a d
+xc
+#3a   d
+xd
+xc   a
+xa
+3. e  c
+4a
+3.c  a
+4d
+b
+3.f
+4    d
+#3    c
+x    a
+2.h    d
+3 a
+#2fc   c
+xce  c
+b
+
+b
+#2da   a
+xac  a
+#2 ea c
+xa
+1ca b
+b
+2.aa c a
+3h
+2.i   a
+3d
+2.ca  c
+3f
+b
+#2ea   a
+xaf
+0af
+b
+b
+3a
+#4    h
+x    g
+#4    h
+xh
+x a
+xh
+3f
+#4  d
+x  c
+#4  d
+xf
+x    a
+xd
+3c
+#4    c
+x    b
+#4    c
+xc
+x a
+xc
+b
+0aa c a
+3h
+#4   f
+x   e
+#4   f
+xh
+x i
+xl
+b
+
+b
+3f
+#4    f
+x    e
+#4    f
+xf
+x d
+xh
+3d
+#4    d
+x    c
+#4    d
+xd
+x    a
+xd
+1cef c
+b
+3d
+#4  b
+x  a
+#4  b
+xd
+x     d
+xc
+#4a
+x    d
+x  b
+xd
+#4c
+x    a
+x  d
+xa
+#4 e
+x    c
+x  f
+x f
+#4c
+x   a
+x  d
+xd
+b
+
+b
+3.f
+#5    d
+x    c
+#3    d
+x    a
+#4h    d
+x d
+x d
+xh
+#4d
+x  f
+x  f
+xd
+#4f    c
+x c
+x c
+xf
+#4c   c
+x e
+x e
+xc
+b
+#4d    a
+x a
+x a
+xd
+#4a   a
+x c
+x c
+xa
+#3 e  c
+x  f
+x  f
+x f
+#3c  b
+x a
+x a
+xc
+b
+#4a    a
+x   c
+x   c
+xa
+#4h
+x   f
+x   f
+xh
+#4i   a
+x   h
+x   h
+xi
+#4f
+x b
+x b
+xd
+#4c   c
+x  f
+x  f
+xc
+#4c
+x e
+x e
+xf
+b
+
+b
+#4e    a
+x f
+x f
+xe
+#4a
+x f
+x f
+xa
+0af
+b
+b
+2.cd  c
+3h
+2.d   d
+3i
+1f aa
+b
+2.dd f d
+3 h
+#3d
+xf
+2h
+#2ff  d
+xdd  c
+b
+#3 b  a
+xd
+2c  a
+0da a d
+b
+2. aba d
+3 d
+2. ca a
+3a
+#2  b c
+x ea
+b
+2.aabc
+3d
+#2c  a
+xda   d
+#2aa cd
+x  d
+b
+2. ea c
+3a b
+#2c da
+xd b c
+#2f gfa
+x   e
+b
+
+b
+#2hd f d
+xdf
+#2f    c
+xce
+#2df
+x     a
+b
+#2    c
+xcef
+#3   e
+x f
+x e
+x c
+1 ef
+b
+b
+#4c   c
+x f
+x d
+x c
+#3  f
+xh
+#4d   d
+x h
+x f
+x d
+#3  g
+xi
+#4f   f
+x i
+x h
+x f
+#3  i
+xl
+b
+
+b
+#4   f
+xi
+xh
+xf
+#4 i
+x  g
+x  f
+x   h
+3.   f
+4l
+#3i
+xh
+#4f g
+x i
+x h
+x f
+#3 df
+xd
+b
+#4  d
+xd
+xc
+xa
+#4cd
+xd
+xab
+xc
+#4d
+x a
+x  b
+xd
+#4d
+x d
+x  f
+xd
+1     d
+b
+#4 a   d
+x  d
+x  b
+x  a
+#3   c
+xa
+#4    a
+x d
+x b
+x a
+#3  d
+xf
+#4    c
+x f
+x e
+x c
+#3  f
+xh
+b
+
+b
+#4   c
+xf
+xd
+xc
+#3 f
+xd
+#4   a
+xd
+xc
+xa
+#3 d   d
+xd
+#4a   d
+x a
+x  d
+x  b
+#3  d
+xa
+b
+#4 e  c
+x a
+x c
+x e
+#4a
+x c
+x e
+xa
+#4c  a
+x d
+xa
+xc
+#4d   c
+xa
+xc
+xd
+#4f   a
+x i
+xf
+xh
+#4i
+xf
+xh
+xi
+b
+
+b
+#4h    d
+xf
+xd
+xf
+#4h
+x d
+x f
+xd
+#4f    c
+xd
+xc
+xd
+#4f
+x c
+x e
+xc
+#4d    a
+xc
+xa
+xc
+#4d
+x a
+x c
+xa
+b
+#4 e  c
+x c
+x e
+x f
+#4c
+x e
+x  f
+x c
+#4 e
+x  f
+x  c
+x  e
+#5  f
+x  e
+x  f
+x  e
+#5  f
+x  e
+x  c
+x  e
+1  f
+b
+b
+#2 a a d
+xh
+#2f aa
+xc
+#2da c
+x     a
+b
+1cef c
+0      a
+b
+#2  dcd
+xa
+#2 da c
+x abc
+#2 bdca
+x  def
+b
+0 aba d
+1     d
+b
+
+b
+#2 aba d
+xa
+#2c aa
+x d  c
+#2aa cd
+x  d
+b
+1 da c
+2 abc
+1 bdca
+2  def
+b
+2. aba d
+3  d
+#3  b  a
+x  a
+x   c
+xa
+#2  a c
+x e
+b
+1aacc
+0     a
+b
+b
+#4d    d
+x h
+xd
+xf
+#4h
+x d
+x  g
+x  f
+#4c  a
+xa
+xc
+xd
+#4f
+x b
+x a
+x  d
+#4a    a
+x d
+xa
+xc
+#4d
+x a
+x  d
+x  b
+b
+
+b
+1cef c
+0      a
+b
+3    d
+#4a
+x d
+#4 b
+x d
+xa
+x b
+3    c
+#4 d
+x b
+#4 a c
+x  d
+x a
+x  b
+3    a
+#4 b
+x a
+#4  da
+x  b
+x  d
+x  a
+b
+0 ab  d
+1     d
+b
+
+b
+#4 a   d
+x   a
+x   c
+x  a
+#4  b
+x    a
+x    c
+x    d
+#4   a
+x  a
+x  b
+x  d
+#4 a
+x    c
+x  b
+x a
+#4a   d
+x a
+x  d
+x  b
+#4  d
+xa
+x   c
+xa
+b
+#4    c
+x a
+3. d
+4 b
+#4 a
+x  d
+#4   c
+x  b
+x  d
+x a
+#4    a
+x  d
+3.  g
+4  f
+#4  d
+x   f
+#4   a
+x  a
+x  b
+x  d
+b
+
+b
+#4 a   d
+x  d
+x  b
+x  a
+#4  b
+xd
+xa
+xc
+#4d    a
+x a
+x  b
+x  d
+#4 a
+x    c
+x     d
+x    a
+#4    c
+xc
+x e
+xa
+#4c
+x a
+x c
+x e
+b
+#3     a
+xh
+3.e
+4k
+#3h
+xn
+3.h
+4f
+4f
+3e
+4c
+Ya
+b
+b
+
+e

@@ -1,0 +1,270 @@
+-C
+-t
+-f
+{If I fell/If I fell}
+b
+c
+#2   \2b
+x   \4d
+b
+#2  a \2b b
+x  \4c
+x   \2b
+x   \4d
+1  a
+#2   b
+x   d
+b
+#2  a a a
+x  \2c
+x   a
+x   \1c
+1.  a
+2   a
+b
+1    \3e /c
+0. ccc
+b
+2 b\2c  bU
+1  \4e
+1.   \3d  X
+2   \2b
+2   \4d
+b
+#2  a \2b b
+x  \4c
+x   \2b
+x   \4d
+1  \1a
+#2   b
+x   d
+b
+#2  a a a
+x  \2c
+x   a
+x   \1c
+1.  a
+2   a
+b
+
+b
+0   cc\2dc
+2  a\2c&{ \3d
+1  \1b
+2  \4dc
+b
+0   }a
+1  \1b a
+#2 a
+x \2c
+b
+.
+1 \4d&{a   a
+1    a
+1ad&}\1b  a
+1    \2c
+b
+1 c\2d&{  c
+1    \3e
+1   \4e
+1 ac&}  \1b
+b
+1 \4d\1b  a
+1    \2c&{
+1   a
+#2    c&}
+x a
+b
+1 \4d\1b\2c&{a
+1 \3c\4d
+1 a c&}
+#2 a\1b a
+x \2c
+b
+1 \4d&{a   a
+1    a
+1ad&}\1b  a
+1    \2c
+b
+1 c\2d&{  c
+1    \3e
+1   \4e
+1 ac&}  \1b
+b
+
+b
+1 \4d\1b  a
+1    \2c&{
+1   a
+#2    c&}
+x a
+b
+1 \4d\1b\2ca
+1 \3c\4d
+1 a\1b
+1 \3c \2c
+b
+A1
+1 \4da   a
+1    a
+1   a
+1    a
+b
+A1
+A2
+1  \2e&{  d
+#2    \3f
+x  e&}
+1  \4d\2ca
+#2 a\1b
+x \2c
+.
+b
+b
+A2
+1a\1b&{a   a
+1    a
+1   a
+#2 b\3d&(
+x d&}f
+b
+.
+1a\1b    a
+1\2c\3d
+1\3da
+#2f \4g   a
+xda
+b
+1da   \2d
+1    \1c
+1   a
+#2 d \4f&{
+x d\2e
+b
+1     d
+1   }\3f
+1   f
+#2  \2e
+x  \4g
+b
+
+b
+1 d\2e  d
+1 \3f\4g
+1\2b\4d\1b
+1d \3e&{
+b
+1c\4dd   a
+1    a
+1   a
+#2a\3d
+x\2c
+b
+1\4d\2c  a
+1   \1c
+1  \3d
+#2 a\1b
+x \2c
+b
+1 \4d&{a   a
+1    a
+1ad&}\1b  a
+1    \2c
+b
+1 c\2d&{  c
+1    \3e
+1   \4e
+1 ac&}  \1b
+b
+1 \4d\1b  a
+1    \2c&{
+1   a
+#2    c&}
+x a
+b
+1 \4d\1b\2c&{a
+1 \3c\4d
+1 a c&}
+#2 a\1b a
+x \2c
+b
+1 \4d&{a   a
+1    a
+1ad&}\1b  a
+1    \2c
+b
+
+b
+1 c\2d&{  c
+1    \3e
+1   \4e
+1 ac&}  \1b
+b
+1 \4d\1b  a
+1    \2c&{
+1   a
+#2    c&}
+x a
+b
+A1
+1 \4d\1b\2ca
+1 \3c\4d
+2 a\1b
+1 \2c
+2a\1b&{a
+b
+A1
+A2
+1      a
+1    a
+1   a
+#2 b&}\3d
+x df
+.
+b
+b
+A2
+1 \4d\1b\2ca
+1 \3c\4d
+2 a\1b
+1 \2c&{
+2 d&}a
+b
+A1
+A2
+1      a
+1    a
+1   a
+#2  \2d\3e
+x  d
+b
+A1
+A2
+1  \4ea \2d
+1 \1b\3d
+1 \3de
+1a \1b
+b
+A1
+A2
+1\1c\3d\2d&{   a
+1    a
+1   a
+1  d&}\3e
+b
+
+b
+A1
+A2
+1  \4ea \2d
+1 \1b\3d
+1 \3de
+1a \1b
+b
+A1
+A2
+Y.cddaa a
+b
+b
+
+e

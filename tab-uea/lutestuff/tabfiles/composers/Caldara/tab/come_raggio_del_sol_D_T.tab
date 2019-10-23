@@ -1,0 +1,324 @@
+-t
+-f
+{Come raggio del sol/Come raggio del sol}
+b
+#2 aaa  /a
+x aaa  /a
+#2 aaa  /a
+x aaa  /a
+#2 aaa  /a
+x aaa  /a
+b
+#2 aab  /a
+x aab  /a
+#2 aab  /a
+x aab  /a
+#2 aab  /a
+x aab  /a
+b
+#2 a ce /a
+x a ce /a
+#2  ece /a
+x  ece /a
+4  ace /a
+3.  e
+4  ace /a
+3.  e
+b
+#2 aaac
+x aaac
+#2 aaac
+x aaac
+#2 aaac
+x aaac
+b
+#2 cbcb
+x cbcb
+#2 cbcb
+x cbcb
+#2 cbcb
+x cbcb
+b
+
+b
+#2 cbcb
+x cbcb
+#2 cbcb
+x cbcb
+#2 cbcb
+x cbcb
+b
+#2 aaac
+x aaac
+#2 aaac
+x aaac
+#2 aaac
+x aaac
+b
+#2 aaac
+x aaac
+#2 aaac
+x aaac
+#2 aaac
+x aaac
+b
+#2 baba
+x baba
+#2 baba
+x baba
+#2 baba
+x baba
+b
+#2 baba
+x baba
+#2 baba
+x baba
+#2 baba
+x baba
+b
+#2 abc a
+x abc a
+#2 abc a
+x abc a
+#2 abc a
+x abc a
+b
+#2 a dfe
+x a dfe
+#2 a dfe
+x a dfe
+#2 a dfe
+x a dfe
+b
+
+b
+#2  eeec
+x  eeec
+#2  eeec
+x  eeec
+#2  eeec
+x  eeec
+b
+#2  eeec
+x  eeec
+#2  eeec
+x  eeec
+#2  eeec
+x  eeec
+b
+#2  \4d&{a \1c&(
+x  da c
+#2  da c
+x  da c
+#2  da c
+x  da c
+b
+#2  da\3dc
+x  dadc
+#2  dadc
+x  dadc
+#2  dadc&)
+x  dadc
+b
+#2  dad\2d
+x  dadd
+#2  ba\2c&{\3d
+x  bacd
+#2  bacd
+x  bac&}d
+b
+#2 a\2ca a
+x aca a
+#2 aca a
+x aca a
+#2 aca a
+x aca a
+b
+#2 a \2ca
+x a ca
+#2  \4d&{ca
+x  dca
+#2  dca
+x  dca
+b
+
+b
+#2 ad\1b \2c
+x adb c
+#2 adb c
+x adb c
+#2 ad&}b c
+x adb c
+b
+#2 abc a
+x abc a
+#2 abc a
+x abc a
+#2 abc a
+x abc a
+b
+#2 a dfe
+x a dfe
+#2 a dfe
+x a dfe
+#2 a dfe
+x a dfe
+b
+#2  eeec
+x  eeec
+#2  eeec
+x  eeec
+#2  eeec
+x  eeec
+b
+#2 aaac
+x aaac
+#2 aaac
+x aaac
+#2 ed c
+x ed c
+b
+#2 ec d
+x ec d
+#2 ec d
+x ec d
+#2 ec d
+x ec d
+b
+#2 c c e
+x c c e
+#2 cc\2de
+x d\4fd\2e
+#2 \1c\2dd\3e&{
+x a\1c\2de
+b
+
+b
+#2  \4e&( e&}c
+x  e ec
+#2  ea c
+x  e&)a c
+#2 aaa c
+x aaa c
+b
+#2 aaa c
+x aaa c
+#2 aaa c
+x aaa c
+#2  eeec
+x  eeec
+b
+#2  \4d&{a \2c&(
+x  da c
+#2  da c
+x  da c
+#2  da c
+x  da c
+b
+#2 \1bda c
+x bda c
+#2 bda c
+x bda c
+#2 bd&}a c&)
+x bda c
+b
+#2 \1bba \3d
+x bba d
+#2 aba d
+x aba d
+#2 ab\2c d
+x abc d
+b
+#2  \4d&{\2c\3d\1c
+x  dcdc
+#2  d\1bcc
+x  dbcc
+#2  dbcc
+x  d&}bcc
+b
+#2  bcca
+x  bcca
+#2  bcca
+x  bcca
+#2  bcca
+x  bcca
+b
+
+b
+#2  bcda
+x  bcda
+#2  bcda
+x  bcda
+#2  bcda
+x  bcda
+b
+#2 bbc a
+x bbc a
+#2 bbc a
+x bbc a
+#2 aba a
+x aba a
+b
+#2  eeea
+x  eeea
+#2  eeea
+x  eeea
+#2  eeea
+x  eeea
+b
+#2 aaa  a
+x aaa  a
+#2 aaa  a
+x aaa  a
+#2 aaa  a
+x aaa  a
+b
+#2 a\1b \2ca
+x ab ca
+#2 ab ca
+x ab ca
+#2 a\2c&{ \1ca
+x ac ca
+b
+#2 ac \4e&(\1b
+x ac eb
+#2 ac eb
+x ac eb
+#2 ac&} eb
+x ac eb
+b
+#2 aa e&)c
+x aa ec
+#2 c\4e\3e&{ c
+x \4f\2ef c
+#2 \2d\4e&(e c
+x ce&)c c
+b
+
+b
+#2 aaa  /a
+x aaa  /a
+#2 aaa  /a
+x aaa  /a
+#2 aab  /a
+x aab  /a
+b
+#2 abc  /a
+x abc  /a
+#2 abc  /a
+x abc  /a
+#2 abc  /a
+x abc  /a
+b
+#2 a \1c&{\3e /a
+x a ce /a
+#2 a\4ece /a
+x aece /a
+#2 aece /a
+x aece /a
+b
+0. a b \2c/a
+b
+b
+
+e

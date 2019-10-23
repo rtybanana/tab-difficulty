@@ -1,0 +1,184 @@
+-C
+-t
+-f
+{6. L'amante consolato/6. L'amante consolato}
+b
+C
+0 da   //a
+1cdf   //a
+1 da   //a
+b
+1. dd  c
+2 cb  a
+0 da   a
+b
+1aab  a
+#2 dd  c
+x c
+1 aa  d
+1   c
+b
+0  eeec
+#2 ce
+x     d
+#2     c
+x     a
+b
+b
+w. da   a
+b
+0 df  d
+0     d
+0    a
+b
+w. db c
+b
+0 ab  d
+w da   a
+b
+0 da a
+0   c
+0 c
+b
+w.cdd   a
+b
+0 da   a
+w cb  a
+b
+
+b
+0 ce  c
+0 aba d
+0acb  a
+b
+wcce  c
+0     a
+b
+wca    a
+0a e   /a
+b
+w aaa
+0    e
+b
+w da c
+1    a
+1     d
+b
+w dd  c
+0 cb  a
+b
+w da a a
+0a c   /a
+b
+w.cef   //a
+b
+0aab  a
+0   c
+0   a
+b
+w fefe
+0cc  b
+b
+0cd  c
+0 c
+0da   a
+b
+0cdf  c
+0 c
+0  e
+b
+w. efe  //a
+b
+w.aab  a
+b
+
+b
+0cdf  c
+0 c
+0  e
+b
+w. efe  //a
+.
+b
+b
+.
+w da c
+0a d e
+b
+wca a
+0      a
+b
+w da   //a
+0a d   /a
+b
+w dc   a
+0 da c
+b
+w ccde
+0 ca b
+b
+w da c
+0      //a
+b
+0 cde  /a
+0  c
+0   d
+b
+w cd  c
+0 cb  a
+b
+w da   a
+0a d e
+b
+0cdda
+waab
+b
+0aa c
+wa e e
+b
+wca a
+0c e e
+b
+w da c
+0 ca b
+b
+
+b
+0 da c
+wacb
+b
+0 fefe
+w cacb
+b
+w aaac
+0c   a
+b
+waa   d
+0 ed  c
+b
+waab  a
+0da c
+b
+wcce  c
+0cc   a
+b
+w.ca    a
+b
+w. ab  a
+b
+0 df  c
+0 c
+0c e
+b
+0 da c
+w cb  a
+b
+0 df  c
+0 c
+0  e
+b
+w. aab  //a
+b
+b
+
+e

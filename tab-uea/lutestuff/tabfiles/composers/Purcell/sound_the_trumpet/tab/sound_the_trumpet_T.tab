@@ -1,0 +1,334 @@
+-C
+-t
+-f
+{/Henry Purcell}
+b
+w  b  d
+b
+b
+c
+#2 \4d&{a   a:
+x    a
+x   a
+x     a
+#2 d&}\3d  \1c
+x    a
+x   a
+x     \2d
+b
+#2 \2c\3d\1ca
+x    \4e
+x \3daa
+x     \1c
+#2 a \1c&{ \2d
+x     a
+x cdc&}a
+x      ///a
+b
+#2 \4d&{a   a:
+x    a
+x   a
+x     a
+#2 d&}\3d  \1c
+x    a
+x   a
+x     \2d
+b
+#2 \2c\3d\1ca
+x    \4e
+x \3daa
+x     \1c
+#2 a \1c&{ \2d
+x     a
+x cdc&}a
+x      ///a
+b
+
+b
+#2 \4d&{a   a:
+x    a
+x   a
+x     a
+#2 d&}\3d  \1c
+x    a
+x   a
+x     \2d
+b
+#2 \2c\3d\1ca
+x    \4e
+x \3daa
+x     \1c
+#2 a \1c&{ \2d
+x     a
+x cdc&}a
+x      ///a
+b
+#2 \4d&{a   a:
+x    a
+x   a
+x     a
+#2 d&}\3d  \1c
+x    a
+x   a
+x     \2d
+b
+#2 \2c\3d\1ca
+x    \4e
+x \3daa
+x     \1c
+#2 a \1c&{ \2d
+x     a
+x cdc&}a
+x      ///a
+b
+#2 \4d&{a   a:
+x    a
+x   a
+x     a
+#2 d&}\3d  \1c
+x    a
+x   a
+x     \2d
+b
+
+b
+#2 \2c\3d\1ca
+x    \4e
+x \3daa
+x     \1c
+#2 a \1c&{ \2d
+x     a
+x cdc&}a
+x      ///a
+b
+#2 \4d&{a   a:
+x    a
+x   a
+x     a
+#2 d&}\3d  \1c
+x    a
+x   a
+x     \2d
+b
+#2 \2c\3d\1ca
+x    \4e
+x \3daa
+x     \1c
+#2 a \1c&{ \2d
+x     a
+x cdc&}a
+x      ///a
+b
+#2 \4d&{a   a:
+x    a
+x   a
+x     a
+#2 d&}\3d  \1c
+x    a
+x   a
+x     \2d
+b
+#2 \2c\3d\1ca
+x    \4e
+x \3daa
+x     \1c
+#2 a \1c&{ \2d
+x     a
+x cdc&}a
+x      ///a
+b
+
+b
+A1
+#2 \4d&{a   a:
+x    a
+x   a
+x     a
+#2 d&}\3d  \1c
+x    a
+x   a
+x     \2d
+b
+A1
+A2
+#2 \2c\3d\1ca
+x    \4e
+x \3daa
+x     \1c
+#2 a \1c&{ \2d
+x     a
+x cdc&}a
+x      ///a
+.
+b
+b
+A2
+#2 \4da a a
+x      a
+x      /a
+x      //a
+#2 \2c&{\3d\1c  ///a
+x     a
+x    a
+x      //a
+b
+.
+#2acd   /a|
+x     a
+x    a
+x      a|
+#2aa\1c  a
+x     \3e
+xa\1c\2d a
+x    \3e
+b
+#2\2ca a
+x    \1c
+xaa\2c&{\1c
+x     a
+#2a\1c&(d   ///a
+x     a
+x    a
+x      //a
+b
+
+b
+#2acd   /a|
+x     a
+x    a
+x      a|
+#2aa\1c  a
+x     \3e
+xa\1c\2d a
+x    \3e
+b
+#2cc a
+x    c
+xaacc
+x     a
+#2 cdca
+x    c
+x    e
+x    a
+b
+#2 da"=a
+x     a
+x      a
+x      /a
+#2 da   //a
+x     \1c
+x    c
+x      /a
+b
+#2 aa"=a  a
+x     \1c
+x    c
+x     a
+#2 \3c   \2c
+x    \1b
+x da c
+x   a
+b
+#2 cc"=c
+x    e
+xccfe
+x  e  c
+#2 da   //a
+x     \1c
+x    c
+x      /a
+b
+
+b
+#2 aa"=a  a
+x     \1c
+x    c
+x     a
+#2 ce  c
+x    b
+x da c
+x   a
+b
+#2 ccc
+x    e
+xccfe
+x  e  c
+#2 a\1ba\2c&{
+x     \3d
+x    c&}
+x    \4e
+b
+#2 da"=a
+x    a
+x   a
+x     a
+#2 \4d\3d  \1c
+x    a
+x   a
+x     \2d
+b
+#2 \2c\3d\1ca
+x    \4e
+x \3daa
+x     \1c
+#2 a \1c&{ \2d
+x     a
+x cdc&}a
+x      ///a
+b
+#2 \4d&{a   a
+x    a
+x   a
+x     a
+#2 d&}\3d  \1c
+x    a
+x   a
+x     \2d
+b
+
+b
+#2 \2c\3d\1ca
+x    \4e
+x \3daa
+x     \1c
+#2 a \1c&{ \2d
+x     a
+x cdc&}a
+x      ///a
+b
+#2 \4d&{a   a
+x    a
+x   a
+x     a
+#2 d&}\3d  \1c
+x    a
+x   a
+x     \2d
+b
+#2 \2c\3d\1ca
+x    \4e
+x \3daa
+x     \1c
+#2 a \1c&{ \2d
+x     a
+x cdc&}a
+x      ///a
+b
+A1
+#2 da a a
+x      a
+x      /a
+x      //a
+#2 cdc  ///a
+x     a
+x    a
+x      //a
+.
+b
+b
+A2
+w da a 7
+b
+b
+
+e

@@ -1,0 +1,305 @@
+-C
+-t
+-f
+{15. Canto Bello/15. Canto Bello}
+b
+c
+0. abc
+1 b
+b
+#1 abc
+x  d
+x  b
+x  a
+b
+#1  bc
+x  d
+x a
+x   a
+b
+#0   cd
+x  d
+b
+0. aa c
+1  b
+b
+1 aa c
+#2  b
+x  d
+#2 a
+x \1c
+x \2d
+xa
+b
+#1ca
+xa
+xc
+xd
+b
+
+b
+#1ca
+xa
+0 d
+b
+#1  \4f&{
+xa
+0\3c d&}a
+b
+#0  \1b\2c
+xa
+b
+0c a c
+#1 a
+xa
+b
+#0 hf
+xf   a
+b
+#0  d
+xda c
+b
+#1c de
+x   a
+0a bc
+b
+#0aaa c
+x e
+b
+#1aabc
+x  a
+x  b
+x   c
+b
+#0  aa
+x  d
+b
+
+b
+#0    d
+x  b c
+b
+#0  dea
+x a c d
+b
+#0f    c
+x   b
+b
+#1d  c a
+x     c
+x     d
+x    a
+b
+#0ca  c
+xa b d
+b
+#0 daa
+x ab  d
+b
+#0 b ca
+x a ac
+b
+#0   cd
+x  d
+b
+0 aa c
+#1  b
+x  d
+b
+#1 ab c
+x  a
+0 a
+b
+
+b
+#1    c
+x  d
+x  b
+x  a
+b
+#0a   d
+x  d
+b
+0 efec
+#1     d
+x    a
+b
+#1 efec
+x    a
+x     d
+x     c
+b
+0.a bc a
+1     c
+b
+#0   c d
+x  b  a
+b
+#0  a a
+x   c d
+b
+#0   b c
+x   c a
+b
+0d  c
+#1  a
+xc
+b
+#0a b
+xd  c
+b
+
+b
+#0c da
+xa bc
+b
+#0 ea c
+xaa c a
+b
+#0 aa c
+x  b
+b
+#1 aa c
+x  d
+x  b
+x  a
+b
+0   c d
+#1   c d
+x   c d
+b
+#0   b c
+x   c a
+b
+0aabc
+#1aabc
+xaabc
+b
+#0 efec
+xaa c a
+b
+0acd a
+#1acd a
+xacd a
+b
+#0 efec
+xaa c a
+b
+
+b
+1  cc
+0  d
+1  c
+b
+#0  def
+x   ce
+b
+1 acc
+0  d
+1  c
+b
+#1 cd a
+x d
+xa
+x\3c
+b
+#1  \1b
+x\4d
+x   \2c
+xc
+b
+0a b
+#1 d
+x  a
+b
+#0d bc
+xf aa
+b
+#1  bc
+xd
+0d
+b
+
+b
+#1  da
+xc
+#2d
+xc
+xa
+xc
+b
+#1d    d
+x  a
+x  b
+x   c
+b
+0  aa
+#1  d
+x    d
+b
+#0  b c
+x  d a
+b
+0.cd a
+1    d
+b
+#0cd  c
+x     d
+b
+#0 c  a
+x a  c
+b
+#1    e
+x  e
+x a
+x  e
+b
+#1ca  c
+x    a
+x    c
+x    e
+b
+
+b
+0.cdda
+1 b
+b
+#1dabc
+x  d
+x  b
+x  a
+b
+0fc ca
+#1d
+xc
+b
+#1a   a
+x d
+x c
+x a
+b
+#1    a
+xacd
+x  b
+x  a
+b
+#1 c ca
+x d
+xa  c
+x c
+b
+#1    c
+x efe
+x f
+x   c
+b
+#0 efec
+x efec
+b
+
+b
+Yaa c a
+b
+b
+
+e

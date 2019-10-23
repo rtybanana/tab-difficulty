@@ -1,0 +1,120 @@
+-C
+-t
+-f
+{11. Christe qui lux 2/11. Christe qui lux 2}
+b
+c
+1 d
+1 c
+#2   a
+x a
+1 a
+b
+1 a  e
+1  e
+1 ab c
+#2  a
+x    a
+b
+#2 a   d
+x   c
+1 c ca
+1  dc c
+1   b
+b
+1 b c a
+#2 a
+x   a
+#2    df
+x  d
+1  d
+b
+1 ad ca
+1  c
+0 bd a
+b
+1 ab  a
+1  a
+#2    c
+x   c
+1   b
+b
+1 b ca
+1 a   d
+#2  a  c
+x  d
+1  d
+b
+
+b
+1 ab  a
+1  a
+#2 a   a
+x   c
+1   c d
+b
+1  d a
+1  abc
+0 a c a
+b
+1 d f d
+1 d   c
+#2 b c
+x     a
+1 a   a
+b
+#2    c
+x  d
+1  abc
+0  bc a
+b
+1 b c a
+#2 a   d
+x   a
+#2    df
+x  d
+1  d
+b
+1  dc a
+1  c
+1 dda
+1 c
+b
+#2   a
+x a
+1 a
+#2    e
+x a
+1  e
+b
+1 ab c
+1  a
+#2     d
+x   c
+1 a c
+b
+
+b
+1  dc c
+1  ab
+1 a c a
+1   ac
+b
+1   ca
+1  b  d
+1 ba a
+1 a  c
+b
+#2   cd
+x  d
+1  d a
+#2    da
+x  d
+x  c c
+x  a
+b
+w  c ca
+b
+b
+
+e

@@ -1,0 +1,299 @@
+-C
+-t
+-f
+{Eyes, look no more/Eyes, look no more}
+b
+x    e /a
+b
+b
+c
+0ccde
+1     c
+#2 f
+x d
+b
+1 ca
+1     c
+1     b
+1 ac
+b
+1 cd  c
+1   e
+1 cd
+#2 a c e
+x   a
+b
+1  d ef
+1a
+0aa c e
+b
+1  \2d\4e c
+1     \3e
+#2  dca
+x a
+1 c
+b
+
+b
+#2  aa  a
+x c
+x a
+x  d
+#2 a
+x c
+x   a
+x a
+b
+1 ccde /a
+1  d
+1  c
+1   e
+b
+1  cd  /a
+1    e
+1   d
+1   e
+b
+1  c e
+1 c  a
+#2 a   e
+x   c
+x  d  c
+x a   e
+b
+1 cd a
+1  d ac
+#2  c ca
+x    e
+1  aa  a
+b
+#2  \1c\2d  /a
+x c
+x  \2d\3e
+x \4e
+#2 \2g\3h
+x \4h
+x \1e\2f   /a
+x \4g
+b
+
+b
+1.cceeec
+#3 f
+x d
+#2 c
+x  f
+x  e
+x  c
+b
+1cce
+1   e
+0     c
+.
+b
+b
+.
+0.acd a
+#2  c c
+x  a
+b
+1   ce
+1a d
+1c  a
+#2aa
+x d
+b
+#2 c c
+x  d
+x ac  a
+x   a
+#2  d ef
+xa
+x a   e
+x  d  c
+b
+1 ac  b
+1 c
+1  d  c
+1 e
+b
+1a c e
+#2  a
+x  c
+1 cd
+#2  c
+x  a
+b
+
+b
+1   de
+1 c
+1  a
+1 e
+b
+1 g ge
+#2  e
+x a  c
+1cca b
+#2 \3e&{c c
+x }\2d&(
+b
+1 gf  e
+0 \4h
+1 \3g&{
+b
+1 da  \1c
+#2 \2c
+x     \4e
+#2 \1c\2d a
+x \4e
+1aa   \3e
+b
+1  d  c
+1 d
+#2  c  a
+x c
+1 c
+b
+#2  aa  a
+x c
+x a
+x  d
+2 a
+1 c
+2 a
+b
+
+b
+1. ccd  /a
+2  c
+#2 c
+x    e
+x   d
+x   e
+b
+1 ccd
+1    e
+0      /a
+.
+b
+b
+.
+0 ccc\3e
+1      /a
+1 \4e \3e
+b
+1a c   /a
+1 cd
+1c
+1 ef
+b
+1\4e\2c \1c  /a
+1a
+1\4f
+1  a
+b
+1\4e \2c   /a
+1   \1c
+#2  \3d
+x\4e
+1\2c
+b
+1b c   /a
+1 c
+1a
+1 df
+b
+
+b
+#2      /a
+x cd
+x ac
+x  a
+1  c e
+#2 c
+x    c
+b
+1 ca b
+1c
+1cdaac
+#2 cc
+x a
+b
+0cceeec
+1
+1 c e
+b
+1 c c
+1 c e
+#3   a
+x c
+x a
+x  d
+#2  c
+x  a
+b
+0 ccde
+1
+1acd a
+b
+1c aa
+1 da c
+1 c ee
+#2   d
+x  f
+b
+1cce  c
+1 cc e
+#2ac  a
+x  d
+x  c c
+x da
+b
+
+b
+2. aa  e
+3  a
+#2   d
+x a
+0cceeec
+b
+1. cd a
+2  a
+1. ef c
+2  c c
+b
+1.ac  e
+2  d e
+1.cd a
+2 a a
+b
+1 \2g\3h   /a
+1ffh
+1      /a
+1edf
+b
+#2      /a
+xccd
+xc c
+x  a
+1ccc   /a
+#2b
+x a
+b
+1.cceeec
+#3 f
+x e
+#2 c
+x  f
+x  e
+x  c
+b
+1cce  c
+1   e
+Y     c
+.
+b
+b
+
+e

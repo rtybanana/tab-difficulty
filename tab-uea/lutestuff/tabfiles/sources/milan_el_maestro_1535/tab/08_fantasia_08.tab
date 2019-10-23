@@ -1,0 +1,408 @@
+-C
+-t
+-f
+{Fantasy 8/Luis Milán}
+b
+c
+w aa c
+b
+0 aa c
+0 aa c
+b
+0  bcd
+0  d
+b
+w aa c
+b
+wcdda
+b
+0cdda
+0cdda
+b
+0 dff
+0acd a
+b
+wcdda
+b
+0. dda
+1  b
+b
+#1  a
+x   c
+0 daa
+b
+0 bbc
+0 aaa
+b
+#1  dcd
+x  b
+x  a
+x   c
+b
+w aa c
+b
+0. aa c
+1   c
+b
+#1  a
+x   a
+0  b
+b
+w aa c
+b
+
+b
+0. dff
+1a
+b
+#1c da
+xa
+0d bc
+b
+0c da
+#1 d
+x   c
+b
+#1 da
+x   a
+0 db  d
+b
+0 daa
+#1   c
+x  b
+b
+#1 dde
+x   a
+0 dff
+b
+0 dde
+#1   a
+xa
+b
+#1c d
+xa
+0d bc
+b
+0c da
+0 a
+b
+#1a b d
+xc
+xd b c
+xa
+b
+#1f a a
+xd
+xc
+xa
+b
+#1 d ac
+xa
+xc   a
+xa
+b
+
+b
+#1da   d
+xc
+xa
+x d
+b
+0 b ca
+0 a ac
+b
+0a  cd
+0  d
+b
+0 aa c
+0   b
+b
+0.a bcd
+1 d
+b
+#1 b
+x a
+0 bbcd
+b
+0. aba d
+1    d
+b
+#1    c
+x    a
+0d bac
+b
+0.cdda
+1 b
+b
+#1 a
+x  d
+0 ab
+b
+#1 b c
+x a
+x  d
+x  b
+b
+#1  aa
+x  b
+x  d
+x  a
+b
+#1  b c
+x  d
+x a
+x c
+b
+
+b
+#1 d
+xa
+0cdda
+b
+#0aabc
+xabd a
+b
+#0  fec
+x e
+b
+#0aa c
+x b
+b
+#1   c
+x a
+x  d
+x  b
+b
+#0  de
+x d
+b
+#0  ff
+xd
+b
+#0c d
+xa b
+b
+#1  de
+x d
+0 dff
+b
+#0  bc
+xdc
+b
+#0cdda
+xa d d
+b
+#1   ac
+x d
+0 db  d
+b
+#0  dca
+x c
+b
+#0 d a
+x  d
+b
+#0  f
+x  b c
+b
+
+b
+#0a d d
+xc  a
+b
+#0dd  c
+x  b
+b
+#1f a a
+xd
+xc
+xa
+b
+#0 dff
+x     d
+b
+#0 b ca
+x a ac
+b
+#0   cd
+x  d
+b
+#0 aa c
+xc
+b
+0   a
+#1  d
+x  b
+b
+#0c d
+x a
+b
+#0d  c
+x b
+b
+0  b
+#1c
+xa
+b
+#0c da
+x a
+b
+#0ab  a
+x  d
+b
+0f
+#1  b
+x  a
+b
+0da c
+0 c
+b
+
+b
+0cd a
+0  d
+b
+0  f
+#1    d
+x    c
+b
+0a d d
+0  b
+b
+0 ef c
+#1   e
+xa
+b
+#1c d
+xa
+0da
+b
+#1  d
+xc
+0f aa
+b
+0d bc
+1c
+1a
+b
+0 ef c
+#1   e
+xa
+b
+#1c d
+xa
+0da
+b
+#1  da
+xc
+0cd
+b
+0 abc
+0a
+b
+wcaa c
+b
+0da c a
+#1  b
+xc
+b
+
+b
+#1a
+x d
+x b
+x a
+b
+0 dde
+#1   a
+x b
+b
+#1 a
+x  d
+x  b
+x  a
+b
+0a b d
+#1   c
+x d
+b
+#1 b
+x a
+x  d
+x  b
+b
+0f aa
+#1  d
+xd
+b
+#1c
+xa
+x d
+x b
+b
+0 ab  d
+0 d ac
+b
+0 b ca
+0 a ac
+b
+0   cd
+0  d
+b
+0 aa c
+0c
+b
+0da c
+#1  b
+xc
+b
+#1a
+x d
+x b
+x a
+b
+
+b
+0 dde
+#1   a
+x b
+b
+#1 a
+x  d
+x  b
+x  a
+b
+0a b d
+#1   c
+x d
+b
+#1 b
+x a
+x  d
+x  b
+b
+0f aa
+#1  d
+xd
+b
+#1c
+xa
+x d
+x b
+b
+0 ab  d
+0 d ac
+b
+0 b ca
+0 a ac
+b
+0   cd
+0  d
+b
+w aa c
+b
+Y
+b
+b
+
+e

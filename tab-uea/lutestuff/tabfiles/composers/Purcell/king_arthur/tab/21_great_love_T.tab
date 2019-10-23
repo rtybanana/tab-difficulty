@@ -1,0 +1,116 @@
+-C
+-t
+-f
+{/}
+b
+c
+0acd   ///a
+b
+0aac  a
+#2
+x     a
+xacd a
+x     a
+b
+0ccd  c
+0acd   /a
+b
+1.cdd   a
+2a d   /a
+0 dc   //a
+b
+0 cdc  ///a
+0acd a
+b
+1cdd   ///a
+1ac
+1aab
+1 da
+b
+0 cdc  ///a
+1acd a
+1c
+b
+1ea   a
+1ccd  c
+1ccd   a
+1 a
+b
+0ec d  /a
+0bac
+b
+1\2cc&{\3d a
+1     \1c
+1cc&}d   /a
+1\1b \2c&{
+b
+
+b
+0ccd  c
+0cd  c
+b
+0da   a
+0fcd a
+b
+0cdd   a
+0 df  d
+b
+1dc   a
+1cd  c
+1 df  c
+1 ce
+b
+0 dfe  //a
+1ca    a
+#2a b   //a
+x ea
+b
+0aac  a
+1ea   a
+1ff    /a
+b
+0ccd  c
+1aa a e
+#2ac   a
+x df
+b
+0 cdca
+1 dd  c
+1cdd   a
+b
+0acd a
+1 \2d&{a   a
+#2 d&}\4f
+x \1c\3e
+b
+1 dfe
+#2a c c
+x ea
+0aac  a
+b
+
+b
+1ea   a
+1fc    /a
+0ccd  c
+b
+1adf  e
+1     a
+0 cdca
+b
+0 da   a
+0aac  a
+b
+0 cdc  ///a
+0 cdca
+b
+0 da   a
+1aad  a
+1  c
+b
+0. cdc  ///a
+1
+b
+b
+
+e

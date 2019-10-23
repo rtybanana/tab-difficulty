@@ -1,0 +1,210 @@
+-C
+-t
+-f
+{394. Canaries/394. Canaries}
+b
+3 a
+2 b
+b
+.
+#2 d   d
+x  b
+x   a
+2.  b
+3 a
+2 b
+b
+#2 d   d
+x  b
+x   a
+#2   c
+x  b
+x    d
+b
+#2   a
+x  b
+x    c
+#2    a
+x  a
+x   a
+b
+1  ba d
+2   a
+2.  b
+3 d
+2 b
+b
+#2 a   d
+x  b
+x   a
+2.  b
+3 d
+2 b
+b
+
+b
+#2 a   d
+x  b
+x   a
+#2   c
+x  b
+x    d
+b
+#2   a
+x  b
+x    c
+#2    a
+x  a
+x   a
+b
+1  ba d
+2   a
+#2  b
+x   a
+x  b
+b
+#2   c
+x  b
+#2    d
+x  b
+#2   a
+x  b
+b
+#2   c
+x  b
+#2    d
+x  b
+#2   a
+x  b
+b
+#2   c
+x  b
+#2     d
+x  b
+#2    a
+x  b
+b
+#2    c
+x  b
+#2     d
+x  b
+#2    d
+x  b
+b
+
+b
+#2    c
+x  b
+x   c
+#2    a
+x  a
+x   a
+b
+1  ba d
+2   a
+2.  b
+3    a
+2  b c
+b
+#2    d
+x  b
+x    c
+#2    a
+x  a
+x   a
+b
+1 aba d
+2   a
+2. ab
+3 c
+2 d  c
+b
+1 cd a
+2 d   c
+#2a    d
+x d
+xa   a
+b
+A1
+1 dda
+2      a
+2. da
+3 a
+2 b
+.
+b
+b
+A2
+1 dda
+2      a
+2. da
+3   a
+2   c
+b
+
+b
+.
+2.   d b
+3  b
+2  d
+#2     b
+x    d
+x  bc
+b
+1 bdddb
+2    d
+2.   d
+3 b
+2  e
+b
+2.  dd b
+3  e
+#2  d
+x     b
+1  ef d
+b
+1  da  a
+2   a
+2.  d
+3  b c
+2  a
+b
+2.   cd
+3  a
+2  b
+2.  aa  a
+3  b
+2  d
+b
+1 aba d
+2   a
+2. aba d
+3 c
+2 d  c
+b
+2.a   d
+3c
+2d  c
+2.d d
+3  b
+2c da
+b
+
+b
+A1
+1dab  d
+2   a
+2.dab
+3   a
+2   c
+.
+b
+b
+A2
+1dab  d
+2   a
+Y.dab
+b
+b
+
+e

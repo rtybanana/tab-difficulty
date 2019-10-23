@@ -1,0 +1,87 @@
+-C
+-t
+-f
+{312. Ballet 2/312. Ballet 2}
+b
+x    d a
+x    a /a
+b
+b
+c
+#3  d
+x a
+2 b  a
+#3 a a
+x  d
+2 acc a
+b
+.
+2  dca
+#3      /a
+x a
+#3 b
+x d
+xa
+xb
+2d  c
+#3 d d
+xa
+#2 b c
+x a a
+b
+#2 bbcd
+x      a
+1 bbcd
+2a   d
+#3 d
+xa
+#2bbd  b
+xa   d
+b
+
+b
+#2 dba d
+x   a
+2 d
+#3 b
+x a
+#3 bd
+x d
+xa
+x  b
+#3   d
+xa
+2 d
+b
+#2aacc
+x     a
+xaac
+x d  c
+2a   d
+#3 d a
+x b
+#3 a
+x  d
+2 acc
+b
+A1
+#2  dca
+x      /a
+1  dca
+#3  d
+x a
+2 b  a
+#3 a a
+x  d
+2 acc a
+.
+b
+b
+A2
+#2  dca
+x      /a
+Y.  dca
+b
+b
+
+e

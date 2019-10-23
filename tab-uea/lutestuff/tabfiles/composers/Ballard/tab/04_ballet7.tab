@@ -1,0 +1,142 @@
+-C
+-t
+-f
+{Ballet 7/Ballet 7}
+b
+W   a  a
+W    d /a
+W    a ///a
+b
+b
+c
+0 bdc  ///a
+0 bdc
+b
+1 bdc  ///a
+#2 a
+x  d
+1  ccca
+1  d
+b
+1  dca
+#2      ///a
+x a
+1 b  a
+1 a   d
+b
+1  d  b
+#2 a    a
+x  d
+1  ccca
+1  d
+b
+
+b
+1  dca
+#2      ///a
+x a
+#2 b  a
+x a
+x b
+x d  c
+b
+1abb d
+#2      /a
+xb
+1abb d
+#2 dba d
+xa
+b
+1 bbcd
+#2d
+x   a
+1d  c
+1 d  c
+b
+1abb d
+1 bbc a
+1 bdd b
+#2     a
+x      a
+b
+#2      /a
+x    d
+x bbc
+x    c
+#2 bdca
+x a
+x b
+x d  c
+b
+
+b
+1abb d
+#2      /a
+xb
+1abb d
+#2 dba d
+xa
+b
+#2 bbcd
+x d
+xa
+x    c
+#2abd a
+x     d
+x  d  b
+x     a
+b
+#2      a
+x  d
+x   a
+x a
+#2  ca a
+x  d d
+2.  c ca
+#4  a
+x  c
+b
+#2  dca
+x      ///a
+x  dc
+x a
+#2 b  a
+x a
+x b
+x d  c
+b
+
+b
+#2abb d
+x      /a
+xd
+xb     a
+#2     a
+xa
+x d   b
+x     d
+b
+#2 bbcd
+x d
+xa
+x    c
+#2a   a
+x     d
+x  d  b
+x     a
+b
+#2      a
+xba
+x  d
+x b
+#2aac  a
+x  d d
+x  c c
+x d
+b
+0 cdca
+0      ///a
+b
+b
+
+e

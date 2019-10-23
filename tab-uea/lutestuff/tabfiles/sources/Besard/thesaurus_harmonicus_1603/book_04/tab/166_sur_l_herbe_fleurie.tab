@@ -1,0 +1,68 @@
+-t
+-f
+{166. Sur l'herbe fleurie/166. Sur l'herbe fleurie}
+b
+c
+1
+#2 dda  a
+x   a
+#3 dda  a
+x     a
+x     b
+x     d
+1 cdca
+b
+2. dda  a
+3a
+#2bdda
+xab  d
+#2 d  b
+x bd a
+#3 d  b
+x b
+2  e  d
+b
+#2  dd b
+x   d
+x  ea d
+x  d  b
+#2  b d
+x   da
+#3  b b
+x   d
+2   cd
+b
+#2  dd b
+x   d
+x bbcd
+x  d
+#2 bbcd
+x   ca
+x   df
+x   ab
+b
+
+b
+1 cdca
+#2  dca
+x a   e
+#2 cdca
+x d  c
+xa   e
+xbdda
+b
+1 cdca
+#2 dda  a
+xa
+2bdda
+#3d    b
+xb
+#3a    d
+x d
+2acd a
+b
+Y dda  a
+b
+b
+
+e

@@ -1,0 +1,173 @@
+-C
+-t
+-f
+{Ne je ne dors/Ne je ne dors}
+b
+0  d
+1a d
+1a
+b
+#2  d
+x d
+1 c
+0 ac
+b
+1 a
+1  c
+1 cd
+1 df
+b
+1.ac
+2 d
+1a d
+#2c
+xa
+b
+
+b
+1f
+#2  a
+xe  c
+#2c d
+xa
+#2c
+x  c
+b
+1e  c
+1a c
+1  a
+1 e
+b
+0a  c
+1  de
+1c
+b
+1e  c
+1ea
+1f de
+1fc
+b
+1cd
+1ef
+#2f d
+xe
+2.c  a
+3a
+b
+
+b
+1a c
+#2c a
+xf
+#2e  c
+xa
+#2  d
+xc
+b
+#2a  c
+x cd
+#2 da c
+x  c
+0 cd a
+b
+0  d
+#2 cd
+x d
+1a
+b
+#2  c
+x d
+1 a
+2.  de
+3  c
+1  a
+b
+1 a c
+1 a
+1 b
+1 bd
+b
+
+b
+1 ac
+1a
+#2   c
+x d
+#2 b
+x  d
+b
+0 acc
+1  d a
+1 b
+b
+0ea c
+1f de
+#2   a
+xe
+b
+1c
+1a   a
+1   c
+1 c
+b
+1 da
+#2a c
+xc d
+#2a
+xf d
+#2e  c
+xc d
+b
+
+b
+#3
+xa
+2a c
+#2  a
+x e
+0aa c
+b
+1  gh
+1f
+#2 if h
+x h
+1 i
+b
+1 f f
+1i  h
+1hdf
+1 f
+b
+1.fg a
+2 g
+1. i  h
+#3 g
+x f
+b
+1 df
+1ab
+1.bd
+2a
+b
+
+b
+1a   a
+1i  h
+#2   g
+xh
+#2hf
+x g
+b
+#2 i
+xf
+#2f   h
+x g
+1.da c
+#3c
+xe
+b
+Y.f d a
+b
+b
+
+e

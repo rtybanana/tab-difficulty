@@ -1,0 +1,2062 @@
+-C
+-t
+-f
+{43. Passamezzo commun/Melchior Newsidler}
+b
+c
+#2 bbcd
+x d
+b
+1abb d
+#2   c
+xb
+#2a b
+x d d
+x b c
+x a a
+b
+#2 bbcd
+x d
+xa
+xb   a
+#2d  ab
+xb   a
+xd  d d
+x   c
+b
+1 bdd b
+#2b
+x d
+#2 b d
+x  e
+x  d
+x  b
+b
+#2 bdd b
+xb
+x  d
+x  e
+#2bbd
+x     d
+xb d a
+x    c
+b
+
+b
+1abb d
+#2   c
+x  d
+#2a b
+x   d
+xd  c
+x   a
+b
+#2    d
+xb d
+xa b
+x d d
+#2 b ca
+x   a
+x   c
+x   e
+b
+1 ab  d
+#2   a
+xa
+#2 d
+x b c
+x a a
+x  d d
+b
+#2 ab cd
+x   a
+x  b
+x  d
+#2 ab
+xd
+x   a
+xb
+b
+#2a  cd
+x  b
+x   c
+x  d
+#2a b
+x   d
+xd  c
+x   a
+b
+
+b
+#2  bcd
+xb
+xa
+x b  a
+#2 d ab
+xb   a
+xd  d d
+x   c
+b
+2bbd  b
+#3   d
+x  b
+#3  d
+x  e
+x b
+x d
+#3 b
+x d
+x e
+x d
+#3 b
+x  e
+x  d
+x  b
+b
+#2bbd  b
+x  b
+xbbd
+x     d
+#2bbd a
+x     b
+xb d a
+x    c
+b
+2abb d
+#3 d
+xa
+#2b d
+xa b
+#2 d d
+x b c
+x a a
+x  d d
+b
+
+b
+2 aba d
+#3  d
+x a
+2 b c
+#3   a
+x    d
+#2 a acd
+x    a
+1da ac
+b
+2ab cd
+#3  d
+x a
+#3 b
+x d
+xa
+xb
+#3a
+xb
+xd
+xb
+#3a
+x d
+x b
+x a
+b
+#2 bbcd
+x d
+xa
+x b
+#2a  c
+xb
+xd
+x   d
+b
+b
+#2d  cd
+xb d
+xa b
+x d d
+#2 b c
+x d d
+xa b
+xb d
+b
+
+b
+2abb d
+#3 d
+xa
+#2bd  b
+x    a
+#2d    d
+x     b
+xgd   d
+x f
+b
+2fb d b
+#3d
+xb
+#3 f
+xb
+xd
+xf
+#3d
+xb
+x f
+x d
+#3 b
+x  e
+x  d
+x  b
+b
+#2bbd  b
+x  b
+x  dd
+x  e
+#2bbd
+x     d
+xbbd a
+x    c
+b
+2abb d
+#3 d
+xa
+#2b
+x    b
+#2dde  d
+xf
+xgdef
+xd
+b
+
+b
+#2fdb f
+xd
+2d e
+#3  d
+x  b
+2.ddda
+3c
+#3d
+xc
+#4d
+xc
+xa
+xc
+b
+2ddg  d
+#3  f
+x  g
+#3 d
+x f
+x g
+xd
+#3f
+xd
+x g
+x f
+#3 d
+x  g
+#4 d
+x  g
+x  f
+x  d
+b
+#2ddf  d
+x  g
+x  ff
+x  d
+#2d f
+x   d
+xd  c
+xb  a
+b
+#2a bcd
+x   d
+x  b
+x   d
+#2 b c
+x d d
+xa b
+xb d
+b
+
+b
+2abb d
+#3 d
+xa
+#2b   b
+x    a
+#3dde  d
+x g
+xd
+xf
+#3d
+xg
+xf
+xd
+b
+2fb d b
+#3d
+xb
+#3 f
+x d
+x b
+x  e
+#3  d
+x  b
+x   d
+x  b
+#3  d
+x  e
+x b
+x d
+b
+#2 bdd b
+x  b
+xbbd
+x     d
+2bbd a
+#3     b
+x     d
+#3    a
+x     b
+x    a
+x    c
+b
+2abb d
+#3 d
+xa
+#2b d
+xa b
+#2 d dd
+x b c
+x a a
+x  d d
+b
+
+b
+#3 a a d
+x  b
+x  d
+x a
+#3 b
+x  d
+x a
+x b
+#3 d a
+x b
+x a
+x  d
+2 aba d
+#3d
+xb
+b
+#2a  cd
+x  b
+x   c
+x  d
+#2a b
+x   d
+xd  c
+x   a
+b
+#2  bcd
+xb
+xa
+x d  c
+#2 b ca
+x   a
+x   c
+x   e
+b
+b
+#2 a a d
+x  b
+x   a
+xa
+#2 d
+x b c
+x a a
+x  d d
+b
+2 a a d
+#3  b
+x  d
+#3 a
+x  b
+x  d
+x a
+2 b ca
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+b
+
+b
+2da a d
+#3b
+xa
+#3 d
+xa
+xb
+xa
+#3 d
+x b
+x a
+x  d
+#3  b
+x  d
+x a
+x b
+b
+#2 a a d
+xa
+x   a
+x b
+#2 db
+x b
+x d   d
+xa
+b
+#2bbd  b
+x  b
+x  dd
+xa
+#2 d
+x b c
+x a a b
+x  d d
+b
+2 aba d
+#3  d
+x a
+2 b c
+#3   a
+x    d
+#2 a acd
+x    a
+xda ac
+xb
+b
+
+b
+#3ab cd
+x d
+x b
+x d
+#3a
+xb
+xd
+xb
+#3a
+x d
+x b
+x d
+#3a
+x d
+xa
+xb
+b
+#3ab cd
+x d
+x b
+x d
+#3a
+xc
+2da ac
+2.f  f f
+3   e
+#3   f
+x   e
+#4   f
+x   e
+x   c
+x   e
+b
+2d ff d
+#3   f
+x  d
+#3  f
+x  g
+x d
+x f
+#3 d
+x f
+x g
+x f
+#3 d
+x  g
+#4 d
+x  g
+x  f
+x  d
+b
+
+b
+2ddf  d
+#3 f
+x h
+#3d  f
+x f
+x h
+xd
+#3fh hf
+x i
+xf
+xh
+#3f
+xi
+xh
+xf
+b
+2hd f d
+#3f
+xd
+#3f
+xd
+x h
+x f
+#3 h
+x f
+x d
+x  g
+#3 d
+x  g
+x  f
+x  d
+b
+#2ddf  d
+x h
+x f f
+x h
+#2d f
+x f
+x g   d
+xd
+b
+#2fb d b
+xd
+xb d
+x f
+#2 d d
+x b
+x  f  b
+x  d
+b
+
+b
+2ddf  d
+#3  d
+x  f
+#3  g
+x  d
+x  f
+x  g
+#3 d f
+x  g
+x d
+x f
+#3 g   d
+x d
+x f
+x g
+b
+2dfg d
+#3  d
+x  f
+#3  g
+x d
+x f
+x g
+#3d
+xf
+xg
+xf
+#3d
+x g
+#4d
+x g
+x f
+x d
+b
+2dfg d
+#3   f
+xf
+#3d
+x b
+#4d
+x g
+x f
+x d
+1dfg
+1dfg d
+b
+1abb d
+#2d
+x   d
+1db cd
+1b d
+b
+1abb d
+1bbd a
+1bd db
+1d  c d
+b
+
+b
+1fb d b
+1ig hi
+1gd d g
+1df fd
+b
+1fb d b
+#2 ggd
+xd
+#2f
+x   f
+xf d
+x  e
+b
+#2deg
+xf
+1gd f
+#2 de
+xf
+1deg
+b
+#2 bd
+xd
+xc
+xa
+2cdda
+#3d
+xc
+#3d
+xc
+#4d
+xc
+xa
+xc
+b
+1ddef
+1dde  d
+1deg d
+1cdda
+b
+1ddf  d
+#2   f
+x  g
+#2  f
+x   d
+xd  c
+x   a
+b
+
+b
+1dfg d
+#2   f
+xf
+#2d g
+x g
+x ff
+x d
+b
+#3 f fd
+x  g
+x d
+x f
+#3 g   f
+x d
+x f
+x g
+#3d    g
+x g
+x f
+x d
+#3dg  d
+x f
+#4 g
+x f
+x d
+x f
+b
+1fb d b
+1ig hi
+1gd d g
+#2f   d
+xd
+b
+1bb d b
+#2 ggd
+xd
+#2f
+x   f
+xf d
+x  e
+b
+#2dfg
+x g
+x f  d
+x d
+#2 f
+x    f
+xd  c
+x   e
+b
+
+b
+1ddff
+1cbd
+2.ddgf
+3  f
+#3  g
+x  f
+#4  g
+x  f
+x  d
+x  f
+b
+1dfg d
+#2   f
+xf
+1dfg d
+1bb d b
+b
+1df fd
+#2if f i
+x     h
+2.if h f
+3 h
+#3 i
+x h
+#4 i
+x h
+x f
+x h
+b
+b
+1hd f d
+#2   f
+x  d
+#2  f
+x  g
+x d f
+x f
+b
+#2 dff d
+xd
+#3 f
+x h
+2d
+#2c da
+x d
+#3  d
+xa
+2c
+b
+
+b
+#2d f  d
+x d
+#3  f
+x  g
+2 d
+#2  ff d
+xl
+#3h
+xi
+2l
+b
+#2hd f d
+xd
+#3   f
+xf
+2h
+#2  f
+xd
+xf    d
+xh
+b
+#2fb d b
+xd
+xb d
+x f
+#2 d d
+x b
+x  f  b
+x  d
+b
+2  fffd
+#3  d
+x  f
+#3  g
+x  d
+x  f
+x  g
+#3 d f
+x  g
+x  f
+x  d
+2  f  d
+#3d
+x g
+b
+
+b
+#2 f  d
+x  g
+x   f
+xf
+#2d g
+x g
+x f f
+x d
+b
+1df fd
+#2if f i
+x     h
+2f  hhf
+#3    f
+x    h
+1    i
+b
+1hd f d
+#2  f
+x     f
+2da ac
+#3    a
+x    c
+1    d
+b
+2da a d
+#3  b
+x  d
+#3 a
+x c
+x d
+xa
+#3c da
+x d
+xa
+xc
+#3d
+xc
+#4d
+xc
+xa
+xc
+b
+
+b
+2ddf  d
+#3   f
+x  g
+#3 d
+x f
+x g
+xd
+#3f
+xd
+x g
+x f
+#3 d
+x  g
+#4 d
+x  g
+x  f
+x  d
+b
+2ddf  d
+#3 g
+x f
+#2 d
+x  g
+#2 d f
+x f
+x g   d
+xd
+b
+#3bb d b
+xd
+xf
+xd
+#3b
+x f
+x d
+x b
+#3 d
+x f
+xb
+x f
+#3 d   b
+x b
+x  f
+x  d
+b
+
+b
+2  ff d
+#3  d
+x  f
+#3  g
+x  d
+x  f
+x  g
+#3 d
+x  g
+x  f
+x  d
+#3  g  d
+x  f
+#4  g
+x  f
+x  d
+x  f
+b
+1 fgfd
+1dfg d
+1fb d b
+#2ddf  d
+x g
+b
+1dfg d
+#2   f
+x g
+1dfg
+1dfg d
+b
+b
+
+{43. Passamezzo commun/Melchior Newsidler}
+b
+1.abb d
+2b
+1abb d
+b
+1 bdca
+1 de b
+1abb d
+b
+1bbd  b
+#2   d
+x  e
+#2  d
+x  b
+b
+#2bbd  b
+x  b
+#2bbd
+x     d
+#2b d a
+x    c
+b
+#2a bcd
+x   a
+#2   c
+x   e
+#2a b
+x  d
+b
+#2 d ac
+x  b
+#2 b ca
+x   a
+#2   c
+x  a
+b
+#2 aba d
+xa
+#2 d
+x b c
+#2 a a
+x  d d
+b
+
+b
+#2 aba d
+x  d d
+#2 a a
+x  b c
+#2  d d
+x a a
+b
+#2 bbcd
+x   a
+#2   c
+x   d
+#2d b
+x   d
+b
+#2   c
+xb  a
+#2ab cd
+x   ca
+#2d  d d
+x   c
+b
+2bb d b
+#3  d
+x  e
+#3 b
+x d
+x e
+x d
+#3 b
+x  e
+x  d
+x  b
+b
+#2bbd  b
+x  b
+#2bbd
+x     d
+#2bbd a
+x    c
+b
+2abb d
+#3 d
+xa
+#2b d
+xa b
+#2 d d
+x b c
+b
+#2 a a
+x  d d
+#2 aba d
+xd
+#2   a
+xb
+b
+
+b
+#2a  cd
+x  b
+#2   c
+x  d
+#2  b
+x   d
+b
+#2 b c
+x   a
+#2 b cd
+x d
+#2a b
+xb
+b
+b
+#2d  cd
+x   a
+#2   c
+x   d
+#2d  c
+x    d
+b
+#2b   b
+x    a
+#2d    d
+x     b
+#2gd   d
+x f
+b
+2fb d b
+#3d
+xb
+#3d
+xb
+x f
+x d
+#3 b
+x  e
+#4 b
+x  e
+x  d
+x  b
+b
+#2bbd  b
+x     d
+#2b d a
+x     b
+#2bbd a
+x    c
+b
+
+b
+#2abb d
+xc
+#2d
+xa
+#2f
+xd
+b
+#2c d d
+xa b
+#2cdda
+xa b
+#2ddda
+xc
+b
+2ddg  d
+#3  f
+x  g
+#3 d
+x f
+x g
+x f
+#3 d
+x  g
+#4 d
+x  g
+x  f
+x  d
+b
+#2ddf  d
+x  d
+#2  ff
+x   d
+#2d  c
+x   a
+b
+#2d  cd
+xb d
+#2a b
+x d d
+#2a b
+xb d
+b
+#2abb d
+xb   a
+#2d   b
+xf  d f
+#2gd f d
+x f
+b
+
+b
+#2fbd  b
+xg
+#2ig hi
+xg
+#2f  d
+xd
+b
+#2fb d b
+xda c d
+#2bbd a
+x     b
+2bbd a
+#3a   c
+x d
+b
+#3abb d
+xb
+2d
+#2b d
+xa b
+#2 d dd
+x b c
+b
+#2 a a
+x  d d
+2da a d
+#3b
+xa
+#3 d
+xb
+xa
+x d
+b
+#2a  cd
+x  b
+#2   c
+x   d
+#2d  c
+x   a
+b
+#2  bcd
+xb
+#2a
+x d  c
+#2 b ca
+x   e
+b
+b
+#2 aba d
+xa
+#2 d
+x b
+#2 ab
+x d
+b
+
+b
+#2 b   d
+x a
+#3 b ca
+x d
+xa
+x b
+#3 d
+x b
+x a
+x  d
+b
+#3 a a d
+x b
+x d
+x a
+#3 b
+x d
+xa
+x d
+#3 c
+x d
+xa
+xc
+b
+#2da a d
+xb
+#2a b
+xd
+#2b    d
+xa
+b
+#2bbd  b
+x  b
+#2  dd
+xa
+#2 d
+x b c
+b
+#2 a a b
+x  d d
+2 aba d
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+b
+#2db cd
+xb
+#2  bc
+x d
+#2a b
+xc
+b
+
+b
+1da ac
+2.f  f f
+3   e
+#3   f
+x   e
+#4   f
+x   e
+x   c
+x   e
+b
+2dd f d
+#3 g
+x f
+#3 d
+x  g
+x  f
+x  d
+#2   f
+xd
+b
+#2 h   d
+x f
+#3fh hf
+x i
+xf
+xh
+#3f
+xi
+xh
+xf
+b
+2hd f d
+#3f
+xd
+#3f
+xd
+x h
+x f
+#3 d
+x  g
+#4 d
+x  g
+x  f
+x  d
+b
+#2ddf  d
+x h
+#2d  f
+x f
+#2 g   d
+xd
+b
+
+b
+#2fb d b
+xd
+#2b d
+x f
+#2 d d
+x b
+b
+#2  f  b
+x  d
+#3ddf  d
+x  g
+x d
+x  g
+#3  f
+x  d
+x  g
+x  f
+b
+2dfg d
+#3d
+x g
+#3d
+xf
+xg
+xf
+#3d
+x g
+x f
+x d
+b
+2dfg d
+#3   f
+x g
+#3d
+x g
+#4d
+x g
+x f
+x d
+1dfb d
+b
+b
+1abb d
+#2d
+x   d
+1db cd
+b
+1bbd a
+1bd db
+1d  c d
+b
+1fb d b
+#2i
+x   i
+1ig hi
+b
+
+b
+1g i
+#2fggd
+x   f
+#2f d
+x  e
+b
+#2deg
+xf
+#2gd f
+x   d
+#2  e
+xf
+b
+1dfg
+2.dbd
+3c
+#3d
+xc
+#4d
+xc
+xa
+xc
+b
+1ddff
+#2     d
+x  g
+1ddff
+b
+1   d
+1d bc
+1b  a
+b
+1dfg d
+#2   f
+x g
+2 f  d
+#3 d
+x f
+b
+#3 g   f
+x d
+x f
+x g
+#3d    g
+x g
+x f
+x d
+#3dg  d
+x f
+#4 g
+x f
+x d
+x f
+b
+
+b
+1fb d b
+#2i
+x   i
+1ig hi
+b
+1g i
+#2fggd
+x   f
+#2f d
+x  e
+b
+#2dfg
+x d
+#2 f  d
+x g
+#2df
+x    f
+b
+#2d  c
+x   e
+2.ddgf
+3  f
+#3  g
+x  f
+#4  g
+x  f
+x  d
+x  f
+b
+1dfg d
+#2   f
+x d
+#2 f
+x g
+b
+1ddb c
+1 bb a
+1i a
+b
+b
+1hd f d
+#2   f
+x  d
+#2  f
+x  g
+b
+
+b
+#2 dff
+x f
+2cdda
+#3d
+xc
+#3d
+xc
+#4d
+xc
+xa
+xc
+b
+1ddf  d
+2   f
+#3 g
+x f
+#2 d
+x  g
+b
+#2 d f
+x f
+#2 d   d
+x f
+#2 g f
+xd
+b
+#2fb d b
+xd
+#2b d
+x f
+#2 d d
+x b
+b
+#2  f  b
+x  d
+2  fffd
+#3  g
+x  f
+#3  g
+x  f
+#4  g
+x  f
+x  d
+x  f
+b
+1 fgfd
+#2d
+x    f
+1df f i
+b
+1     h
+2i  hhf
+#3    f
+x    h
+1    i
+b
+b
+
+b
+1h  ffd
+#2  f
+x     f
+2da ac
+#3     d
+x    a
+b
+#3    c
+x    e
+x   a
+x   c
+#3c da
+x d
+xa
+xc
+#3d
+xc
+#4d
+xc
+xa
+xc
+b
+2ddf  d
+#3   f
+x  g
+#3 d
+x f
+x g
+x f
+#3 d
+x  g
+#4 d
+x  g
+x  f
+x  d
+b
+2ddf  d
+#3 g
+x f
+#2 d f
+x f
+#2 g   d
+xd
+b
+
+b
+#3bb d b
+xd
+xf
+xd
+#3b
+x f
+x d
+x b
+#3 d d
+x f
+xb
+x f
+b
+#3 d   b
+x b
+x  f
+x  d
+#3  f  d
+x   f
+x  d
+x  f
+#3  g
+x  f
+#4  g
+x  f
+x  d
+x  f
+b
+1 fgfd
+#2d
+x   a
+1d  c
+b
+1b dd
+#2     b
+x  e
+1b d
+b
+1 df  d
+#2   f
+x  g
+1 dff
+b
+1  dd
+1d bc
+1   a
+b
+1dfg d
+1 g
+1df f i
+b
+1     h
+2.if h f
+3 h
+#3 i
+x h
+#4 i
+x h
+x f
+x h
+b
+
+b
+1hd f d
+2l
+1    l
+2i
+b
+2.hd f d
+3f
+#2d f
+x g
+#2 f   d
+x d
+b
+2. fgfd
+3 h
+#2d
+x f
+#2 h
+xd
+b
+2.cdda
+3d
+#2f
+x d
+#2a
+xc
+b
+2.ddf  d
+3 f
+#2 d
+x  gf
+#2  f
+x  d
+b
+2.ddf  d
+3f
+#2d
+x g f
+#2 f
+x d
+b
+2. fgfd
+3 h
+2d
+2. f
+3 h
+2d
+b
+
+b
+2.cdda
+3d
+2f
+2. d
+3a
+2c
+b
+2ddf  d
+#3   f
+x  g
+#3 d
+x f
+x g
+x f
+#3 d
+x  g
+x  f
+x  d
+b
+#2ddf  d
+xh
+#3   f
+xf
+xd
+x g
+#3d
+x g
+x f
+x d
+b
+#2 f fhi
+xi
+#3f
+xh
+xi
+xh
+#3f
+x i
+x h
+x f
+b
+#2 h hf
+xl
+2   a
+#3i
+xh
+#3 l
+xh
+2i
+b
+
+b
+#3hd f d
+xf
+2h
+#3d
+xf
+2h
+#3 d
+x f
+2 d
+b
+#3  ff d
+x  d
+2  f
+#2   f
+xd
+#3     d
+x g
+2 d
+b
+#3abb d
+x a
+2 b
+#3  b
+x d
+2a
+#3   c
+xb
+2d
+b
+#3bbd  b
+x  b
+2  d
+#3   d
+x  b
+2  d
+#3     b
+x  f
+2 b
+b
+2  fffd
+#3   f
+x  d
+#3  f
+x   f
+x  d
+x  f
+#3  g
+x  d
+x  f
+x  g
+b
+
+b
+2 df  d
+#3   f
+x  d
+#3  f
+x  g
+x d
+x f
+#3 g
+x d
+x f
+x g
+b
+2 f fd
+#3  g
+x d
+#3 f
+x  g
+x d
+x f
+#3 h
+x f
+#4 h
+x f
+x d
+x f
+b
+2 h hf
+#3  i
+x f
+#3 h
+x  i
+x f
+x h
+#3 i
+x h
+#4 i
+x h
+x f
+x h
+b
+2ddf  d
+#3 h
+xd
+#3f
+xd
+x h
+x f
+#3 d
+x  g
+x  f
+x  d
+b
+
+b
+#2ddf  d
+xl
+#3    l
+xi
+xh
+x l
+#3 i
+x g
+x  l
+x  i
+b
+#2 f fhi
+xi
+#3f
+xh
+xi
+xh
+#3f
+x i
+x g
+x f
+b
+#2bb d b
+xf
+#3b
+xd
+xf
+xd
+#3b
+x f
+x d
+x b
+b
+#2  ff d
+x d
+#3  f
+x  g
+x d
+x f
+#3 d
+x  g
+x  f
+x  d
+b
+#2  ff d
+xd
+#3 f
+x g
+xd
+xf
+#3d
+x g
+x f
+x d
+b
+
+b
+2a b d
+#3 b
+x d
+#3a
+xc
+xd
+xa
+#3c
+xd
+xf
+xd
+b
+#3c da
+x d
+xa
+xc
+#3d
+xa
+xc
+xd
+#3d
+xc
+#4d
+xc
+xa
+xc
+b
+#3ddf  d
+x f
+x h
+xd
+#3f
+xd
+x h
+x f
+#3 d
+x  g
+x  f
+x  d
+b
+#3ddf  d
+x f
+x g
+x f
+#3 d
+x  g
+x  f
+x  d
+#3   f
+x   d
+x    h
+x    f
+b
+
+b
+#3abb d
+xb
+xd
+xb
+#3a
+x d
+x b
+x a
+#3  d
+x  b
+x   d
+x   c
+b
+#3bb d b
+xd
+xf
+xd
+#3b
+x f
+x d
+x b
+#3 d
+x b
+x  f
+x  d
+b
+#2  ff d
+x d
+x f
+#2 d f
+x  f
+x  g
+b
+#2 dff d
+xd
+xf
+2d  f
+#3 d
+x f
+2 g
+b
+#2 f fd
+x  g
+x   f
+#2 f
+x  g
+x    d
+b
+#2 b   b
+x  d
+x   d
+#2b
+x b
+x   d
+b
+
+b
+#2 d   d
+x  f
+x   f
+#2d
+x d
+x   f
+b
+#2 a   d
+x  b
+x   a
+#2 d
+x  b
+xd
+b
+#2a   d
+x b
+x  b
+#2   c
+x b
+xa
+b
+#2b    b
+x b
+x  d
+#2   d
+x b
+xb
+b
+2 dff d
+#3  g
+x d
+1 f
+#2     f
+x d
+b
+1  g
+2.  gffd
+3  f
+#3  g
+x  f
+#4  g
+x  f
+x  d
+x  f
+b
+Y. bbcd
+b
+b
+P
+e

@@ -1,0 +1,131 @@
+-C
+-t
+-f
+{7. Mein Hertz hat sich mit Lieb - 1/7. Mein Hertz hat sich mit Lieb - 1}
+b
+c
+0  \1b
+0  \1b
+b
+0 \1b \3d
+0  \4d\3d
+b
+0 a\1b
+0 \1b \2c
+b
+0 \4d \3d
+0 \4d\1b
+b
+Y \1b  \3d
+b
+0
+0 \1b \3d
+b
+0 \1b \2c
+0 \1b  \3d
+b
+0  \4da
+0 a a
+b
+
+b
+0 \1b  \3d
+#1
+x  \1b\2c
+b
+#1  \4da
+x \1b"+  \3d
+x   a
+x a
+b
+Y \1b  \3d
+b
+0
+0 \1b  \3d
+b
+0 \1b  a
+0 \1b  a
+b
+0  \4da
+0  \4da
+b
+Y a   \3d
+b
+0
+0 a   \3d
+b
+0 \1b  \3d
+0a   \3d
+b
+
+b
+0 \4d\1b
+0  \1b\2c
+b
+0  \4d\3d
+1  \4d\3d
+#2 a \2c
+x   a
+b
+0 \1b  \3d
+#1 a\1b"+
+x \4d
+b
+#1  \1b
+x \1b\3d
+0  \4d\3d
+b
+0 a \2c
+0 a \2c
+b
+Y  \4d\3d
+b
+0
+0 \4d a
+b
+0 \1b\3d
+0 \4d\1b
+b
+
+b
+1a   \3d
+#2    \3d
+x    \2c
+#1 \1b  a
+x \4d"+   \3d
+b
+1    \2c
+#2 \1b  \3d
+x a
+0  \4da
+b
+0  \1b\2c
+0 \1b  a
+b
+0 \1b  a
+1 a  \2c
+#2    \2c
+x    \3d
+b
+#1  \4da
+x  \1b\2c
+0  \4da
+b
+Y  \1b  \3d
+b
+0
+0  \1b \3d
+b
+
+b
+0  aa
+0  \1b \2c
+b
+0  \4d \3d
+0  \4da
+b
+Y  \1b  \3d
+b
+b
+
+e

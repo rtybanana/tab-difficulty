@@ -1,0 +1,160 @@
+-C
+-t
+-f
+{/}
+b
+c
+3
+b
+.
+1 aabc
+2. ce  c
+3     a
+1ca    b
+1a e   /a
+b
+#2 ea   //a
+x    c
+1 ca b
+1 aa  e
+1   d
+b
+2 ce  c
+#3   e
+x   c
+#2 aab
+x  ece
+2. a bc
+3    c
+#2  ece
+x aaa
+b
+
+b
+1 cfde
+1 cee c
+#2 cce  /a
+x  ec
+#2 a b  //a
+x ce  c
+b
+1 aabc
+1aac  a
+2cce  c
+#3   e
+x   d
+#2ccde
+xcd  c
+b
+1b c e
+1ccd  c
+1b c   /a
+2.a c e
+3    e
+b
+1ca a
+1 dc c
+1. ccde
+2    c
+b
+
+b
+#2 ca a
+x     c
+#2 ccee
+x   d  /a
+0 cee c
+b
+A1
+2     c
+#3   e
+x  c
+#2   e
+x    e
+#2 cee
+x   c
+#2   b
+x    e
+.
+b
+b
+A2
+.
+0 cee c
+0     c
+b
+2 cee c
+#3     c
+x     a
+#2 aa   b
+xa e
+1 ea
+#2 cf
+x  e
+b
+
+b
+1 aab  //a
+#3
+x      //a
+x      /a
+x      b
+0 ccc a
+b
+0cb    b
+1b c
+1ccd
+b
+1bac
+1ccd
+1bcc
+#2    e
+x    c
+b
+#2cca b
+x     c
+#2aa c e
+xcca b
+0ce  c
+b
+0cef   //a
+0cce  a
+b
+
+b
+2.caa   b
+3     a
+#2      b
+xa e   /a
+#2 efe  //a
+x    c
+2a e e
+#3ca b
+x   c
+b
+0ccee
+1ccec
+1cc  b
+b
+1ce  c
+1 ccc a
+1 cfe c
+1  e   5
+b
+A1
+0 aab  //a
+2
+#3      //a
+x      /a
+#2      b
+x     a
+.
+b
+b
+A2
+0 aab  //a
+0 aabc //a
+b
+b
+
+e

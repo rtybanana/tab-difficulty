@@ -1,0 +1,163 @@
+-C
+-t
+-f
+{26. Jamais/26. Jamais}
+b
+c
+1   df
+#2   df
+x   df
+1   df
+1  dd
+b
+1  bc
+1   df
+2   ce
+#3   a
+x   c
+1   a
+b
+1bd
+#2bd
+xbd
+1bd
+1fg
+b
+1df
+1bd
+2ac
+#3 d
+x c
+1 d
+b
+1 dddf
+#2 dddf
+x dddf
+#2 dddf
+xa
+1bbd a
+b
+1ab  d
+#2 d d
+x   a
+1 cdca
+#2 d a
+x    d
+b
+
+b
+#2 d ab
+x    a
+x    b
+x     d
+1bbd  b
+#2bbd  b
+xbbd  b
+b
+#2     d
+xaab
+x d
+x   d
+1 cdca
+#2 d df
+x   a
+b
+1   a
+#2  d
+x   a
+1  da
+#2  d d
+x    a
+b
+#2  b c
+x     d
+x  d d
+x   c
+1   df
+1 d
+b
+1 d
+#2f
+x d
+1fd
+#2  d
+xf
+b
+1da
+#2fc
+xd
+#2bd
+xa
+x d
+x c
+b
+
+b
+#2 d a
+x   c
+x   d
+xa b
+#2bdda
+x   c
+xbbdd
+x a
+b
+1ab  d
+#2ab  d
+xab  d
+1 dddf
+#2   a
+x a
+b
+#2ab  d
+x a
+x  d
+x  b
+1 d df
+1 aba d
+b
+#2 d d
+x   a
+x   c
+x   d
+1 c ca
+1 d a
+b
+#2 d a
+x   c
+x   d
+xa b
+#2bdda
+x   c
+xbbdd
+x a
+b
+#2ab  d
+x a
+#3 b
+x a
+x  d
+x  b
+1 d df
+#2 d df
+x d df
+b
+
+b
+1ab  d
+#2ab  d
+xab  d
+#2   a
+x ddd
+x dbcc
+x   a
+b
+1 ddca
+2 cdca
+#3 a
+x c
+0 dda
+b
+b
+
+e

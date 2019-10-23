@@ -1,0 +1,290 @@
+-C
+-t
+-f
+{Rondeau 130/Rondeau 130}
+b
+c
+1
+b
+.
+1
+1abd
+1   d
+1ba a
+b
+1aacc
+1     a
+1      a
+1a dc  /a
+b
+1 \4d\2c\3d  //a
+1    \1c
+1a d d
+1 acc
+b
+0. bdca
+1
+b
+1
+1abd
+1   d
+1ba a
+b
+0aacc
+0aaca
+b
+#2a d d
+x    c
+1abd a
+1aadc a
+1  c
+b
+A1
+0. bdc  ///a
+1
+.
+b
+b
+
+b
+A2
+0. bdc  ///a
+1    a
+b
+.
+0 bdd b
+0bad   a
+b
+0aac  a
+0 bd
+b
+0aac  a
+0 b\3d&{
+b
+0aac  a
+1   c
+1aab
+b
+0ca a
+1aa  d
+1  d
+b
+0 efec
+1  f
+1 adb
+b
+0 abc
+1 baca
+1 aabc
+b
+1 ac  a
+1   c
+1  dcd
+1 bdca
+b
+1
+1abd
+1   d
+1ba a
+b
+
+b
+1aacc
+1     a
+1      a
+1a dc  /a
+b
+1 dcd  //a
+1    c
+1a d d
+1 acc
+b
+0. bdca
+1
+b
+1
+1abd
+1   d
+1ba a
+b
+0aacc
+0aaca
+b
+#2a d d
+x    c
+1abd a
+1aad  a
+1  c
+b
+0. bdc  ///a
+1    a
+.
+b
+b
+.
+0. bdca
+1 ddda
+b
+wba   d
+b
+wa d  b
+b
+0aac  a
+0abb d
+b
+wdb   a
+b
+
+b
+0dbd  b
+0bdd   a
+b
+1 a \3d&{ \2d
+#2 \2b c&}a
+x     \1b
+1db a d
+1 a    4
+b
+1abb   /a
+1   c
+1abd d
+1    a
+b
+1
+1abd
+1   d
+1ba a
+b
+1aacc
+1     a
+1      a
+1a dc  /a
+b
+1 dcd  //a
+1    c
+1a d d
+1 acc
+b
+0. bdca
+1
+b
+1
+1abd
+1   d
+1ba a
+b
+0aacc
+0aaca
+b
+
+b
+#2a d d
+x    c
+1abd a
+1aad  a
+1  c
+b
+0.abd   ///a
+#2  d
+x a
+.
+b
+b
+.
+0.dc
+1dcd
+b
+0.bd
+1bd
+b
+0.ba
+1bab
+b
+0.ab
+1ab
+b
+0.abd
+1aba
+b
+0.cdf
+1cdf
+b
+0.adc
+1adcc
+b
+0.abd
+1abd
+b
+0. bde
+1 bde
+b
+0. adb
+1 adbc
+b
+0. a\1ca
+1 ac&{a
+b
+
+b
+0.a d\3f\2e
+1a dfa
+b
+0. dded
+1 dded
+b
+0. dc c
+1 bdca
+b
+0. adc a
+1 acc  6
+b
+0. bdc  ///a
+1
+b
+1
+1abd
+1   d
+1ba a
+b
+1aacc
+1     a
+1      a
+1a dc  /a
+b
+1 dcd  //a
+1    c
+1a d d
+1 acc
+b
+0. bdca
+1
+b
+1
+1abd
+1   d
+1ba a
+b
+
+b
+0aacc
+0aaca
+b
+#2a d d
+x    c
+1abd a
+1aad  a
+1  c
+b
+A1
+0. bdc  ///a
+#2  d
+x a
+.
+b
+b
+A2
+w bdc  ///a
+b
+b
+
+e

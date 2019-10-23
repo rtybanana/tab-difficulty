@@ -1,0 +1,117 @@
+-C
+-t
+-f
+{Personent Hodie/Personent Hodie}
+b
+c
+1 aa c
+1      /a
+1  d a
+1  c  e
+b
+1  a  c
+1   c a
+1   a  a
+1    e /c
+b
+b
+.
+1  aac /a
+1  aa e
+1 ca a
+1     c
+b
+1  d e
+1 cd a
+1 dda
+1    e
+b
+
+b
+1 df c
+1 df a
+1aa   e
+1 d
+b
+1 c   a
+1a d   /c
+1a d   a
+1 d   c
+b
+1 cd a
+1 dda
+1a d e
+1    a
+b
+1 a   e
+1 cd  c
+1 ca   /a
+1 a
+b
+1  cc  /c
+1  c  a
+1  cc  /c
+1  a  c
+b
+
+b
+1  aac
+1    a
+1  aa e
+1     c
+b
+1  c ea
+1  de  a
+1  cc  /c
+1  a ec
+b
+1  cc a
+1      a
+1  cc  /c
+1      /a
+b
+1  d a
+1 ac c
+1 cd e
+1    a
+b
+1 adc a
+1  c
+1 cd a
+1   c
+b
+
+b
+1 df a
+1 cd
+1 dda
+1  a
+b
+1  de  a
+1  b  a
+1  da c
+1 c c
+b
+1 da   a
+1  d c
+1 adce
+1    a
+b
+1 cc e
+1  da
+1 acc
+1     a
+b
+1a d a
+1aa   e
+0cc e c
+b
+
+b
+0 efe  /a
+0 efe  /a
+.
+b
+b
+
+e

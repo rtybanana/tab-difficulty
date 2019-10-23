@@ -1,0 +1,441 @@
+-C
+-t
+-f
+{1. Toccata 1/1. Toccata 1}
+b
+c
+w dde  a
+b
+1 dde  a
+1 f
+1 h
+#3  i
+x f
+x h
+x i
+b
+1fda   a
+1     a
+1     c
+#3     d
+x    a
+x    c
+x    e
+b
+1fdaa
+1   c
+1   e
+#3   a
+x   c
+x   e
+x   f
+b
+1ffhh
+#2  iU
+x   Xa
+1  h   ///a
+1 i
+b
+1fhi   a
+1h
+1f
+1d f
+b
+
+b
+2.cdd   a
+3d
+1a b
+1 da
+1 c c
+b
+2 dde  a
+#3   c
+x  a
+#3  b
+x  d
+x a
+x c
+#3 d
+x c
+x a
+x c
+#3 d
+xa
+xc
+xd
+b
+2f
+#3  a
+x  b
+#3  d
+x  b
+x  a
+x   c
+#3   a
+x   c
+x   e
+x   c
+#3   a
+x    e
+x    c
+x    a
+b
+2. d ac
+3f
+2.e
+3c
+#2eU
+x d
+x c
+x a&X
+b
+
+b
+2.fc ca
+3   e
+2. d c
+3   a
+#2 f  e
+x    a
+xc    d
+x     c
+b
+2.d  c a
+3  d
+2.  b
+3  a
+#2  bU
+xd  c&X
+xc da
+xa   e
+b
+2. dfec
+3   f
+2.   e
+3   c
+#2   a
+x d  c
+x c ca
+x a   d
+b
+#2  de c
+x a
+x c
+x d
+1aa c d
+1cd a c
+b
+2dd c a
+#3 c
+x d
+2 f
+#3   c
+x  a
+#3  b
+x  d
+x a
+x c
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+
+b
+0cdd   a
+0  d
+b
+0  d
+0  d
+b
+0  f
+1f d
+1   f
+b
+1f  e
+1   c
+0f  a
+b
+0h  f
+1f d
+1d
+b
+1c f
+1a
+1 d
+#2a
+xc
+b
+0d  c
+0fd e
+b
+0hd f
+1 dU
+1f Xe
+b
+0df c
+1cd  c
+1ac
+b
+1 dfa
+1 cd
+1 cde
+#2 a
+x  d
+b
+
+b
+2 a c
+#3  c
+x  d
+#3  f
+x  d
+x  c
+x  a
+2  c
+#3  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+0 cd
+1    a
+1  b
+b
+0 cdea
+1   ca
+1  b
+b
+0 daac
+1acd a
+1     d
+b
+1ccd  c
+1     a
+0cdd   a
+b
+0da   d
+1fd   c
+1   a
+b
+1 d ac
+1a
+1cd a
+#2ec
+x a
+b
+#2fc ca
+x d
+x c
+x a
+#2  da c
+x  b
+x  a e
+x   c
+b
+1   acd
+1    a
+1   cca
+1    e
+b
+
+b
+0  aa  a
+1  d
+1    e
+b
+1  da
+1   c
+1  de
+1   a
+b
+0 dff
+1  de
+1  bc
+b
+1 daa
+1   ce
+0 d ac
+b
+0a d e
+1 d a
+1 c
+b
+1 abc
+1  d
+1  b
+1  aa
+b
+#2f  ce
+x    a
+1   af
+#2   cU
+x    e
+#3    f
+x    e
+x    c
+x    e&X
+b
+1f def
+1   f
+1f  e
+1   ce
+b
+1h aa h
+1     f
+1 d   d
+1   c
+b
+
+b
+1fc ea
+1d  c
+1c d
+1a b
+b
+1 dfec
+1a  c
+1c  a
+#2   c
+x   e
+b
+#2a  f
+x d
+x a e
+x c
+#2 d c
+x a
+#3 c a
+x a
+x c
+x d
+b
+1 cd
+#2    a
+x  b
+1   ea
+1   ca
+b
+1   ac
+#2    a
+x     d
+1     c
+1   c a
+b
+1   e  a
+1  d
+1  d
+1  d
+b
+1  fU
+1   a&X
+1  da
+1   a
+b
+
+b
+#2  bc
+x  a
+#3  b
+x  a
+x  b
+x  d
+#2  fa
+x  d
+x    eU
+x   c X
+b
+1  b c
+1  a a
+#2     dU
+x   c
+#3   e
+x   c
+x   a
+x   c  X
+b
+1   e c
+1f
+1f
+1fd
+b
+1hd
+1fd
+1df
+1cd
+b
+1ac
+#2fa
+x  d
+1 a
+1e  c
+b
+1f  ca
+1   c
+1   ea
+1f  ca
+b
+1d  ac
+1    ef
+1    cd
+1a
+b
+1c   ac
+1  d
+1a d ef
+#2  d
+xc
+b
+
+b
+1da a d
+#2  d
+xc
+1a b
+#2 d
+x  a
+b
+1 cdca
+1f  e
+#2   c
+xd
+1c d
+b
+#2a
+x  b
+1 da
+2   ca
+#3 a
+x c
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+1 dde  a
+1   a
+#2  d
+x    e
+1 d ac
+b
+#2  dca
+x ca
+1 aba d
+1 cdU
+1 d a&X c
+b
+0 dff d
+0 f
+b
+Ycdd   a
+b
+b
+
+e

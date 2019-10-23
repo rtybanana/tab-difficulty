@@ -1,0 +1,234 @@
+-C
+-t
+-f
+{If ever hapless woman/John Bartlet}
+b
+0  a
+1  a
+1  a
+b
+0  ee
+1  ee
+1 ac
+b
+0 ce  c
+1 df
+1     e
+b
+0 c  b
+1 df c
+1  d
+b
+0a c e
+1 c
+1e
+b
+0cd a
+1ca
+1   a
+b
+0 cc e
+1bc
+1    c
+b
+0.cca b
+1a
+b
+0 ea c
+0 df c
+b
+
+b
+0 ca  c
+1 da c
+1  c
+b
+1 ce b
+1     c
+0 aa c
+b
+1 ca b
+1     c
+0 da c
+b
+0. ca  c
+1 e
+b
+0b c e
+0c d
+b
+0  c e
+1b
+1    c
+b
+0cca b
+1    c
+1a   e
+b
+0 d a
+0  de
+b
+1 a c
+#2 c
+x d
+1 cc
+1 a
+b
+
+b
+1 cd a
+1 c
+1 df c
+1  d
+b
+0 cc e
+0  de
+b
+0 cc e
+1   d
+1 a
+b
+0  ee c
+0  de
+b
+0  cc
+0 c  e
+b
+1  aa
+#2  c
+x  d
+1 ac
+1  a
+b
+0. cc e
+1   a
+b
+0 acc
+1  aa
+1   ce
+1 da c
+1  c
+b
+
+b
+1 cd a
+1   c
+0a c  e
+1 e
+#2e
+xc
+b
+0bc
+1 c  e
+1    c
+b
+1 c  a
+1 a   e
+0ccd  c
+b
+1b c e
+1c a
+1  c
+1b
+b
+0c ee c
+1 cde
+1 d
+b
+1aa c
+1 c
+1 d a
+1cdda
+b
+0ac  e
+0 da c
+b
+1 ca  c
+1 d
+1 c
+1   c
+b
+
+b
+1 a bc
+1 c
+1 e
+1a
+b
+.
+1c de c
+1     e
+1    a
+1    c
+b
+1 cc e
+1  a
+0  c
+b
+1 cd a
+1    c
+1    e
+1   a
+b
+0 acc
+0     a
+1 da c
+1    e
+b
+1 d a
+1  cc
+1 cde
+1 d
+1a d e
+1   a
+b
+1a dc
+#2  c
+x  a
+1  c  a
+1 d
+b
+
+b
+0 cd a
+1 cd
+1    a
+b
+1 a   e
+1a
+1   e c
+1  e
+b
+1 a ac
+1 c
+1 da c
+1 ac
+b
+1 cd a
+1.c
+2a
+1 da c
+b
+1 cc e
+1  a
+1  c
+1 a
+b
+0  ee c
+1 aa c
+1    a
+b
+0 a   e
+0 ca  c
+b
+1 c de
+1 da c
+1 c  e
+1   d
+b
+wcceeec
+.
+b
+b
+
+e

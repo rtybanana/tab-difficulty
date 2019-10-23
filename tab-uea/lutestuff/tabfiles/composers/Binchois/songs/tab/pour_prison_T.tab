@@ -1,0 +1,153 @@
+-C
+-t
+-f
+{Pour prison/Pour prison}
+b
+0
+1 a
+b
+1  d
+0 cd
+b
+1 d a
+#2 a
+x   c
+#2  d e
+x a  c
+b
+1  bc
+#2  a
+x    c
+1 a  c
+b
+
+b
+#2  da
+x    e
+#2  aa
+x  b c
+1   ca
+b
+1  da
+#2 a
+x c
+1 d
+b
+0 ca
+1 c
+b
+1  d
+1. a c
+2 c
+b
+1 d  c
+#2 c c
+x ab
+#2   e
+x  d
+b
+
+b
+#2 a c
+x  b
+#2  aa
+x  bc
+#2    e
+x   c
+b
+2 ab c
+0  a
+2  a
+b
+1 a  c
+#2   c
+x   a
+#2 a  c
+x    e
+b
+1  da
+0  a
+b
+1 a c
+#2  a
+x  d
+1  bc
+b
+
+b
+2  aa
+#3    e
+x    c
+0  dUa
+b
+b
+0  d a
+1  da
+b
+#2   a
+x a
+1. c c
+2 a
+b
+1 d a
+1 a
+1 db
+b
+1 cd
+0 a c
+b
+1  de
+0 d a
+b
+
+b
+1 cd
+1. d a
+2 a
+b
+1  de
+1  b
+1 ca
+b
+1  d
+1.  b
+2  de
+b
+#2 d a
+x c c
+#2 a  c
+x a
+#2    e
+x  d
+b
+
+b
+2 a  c
+2.  bc
+3  a
+2  aa
+#2    e
+x   c
+b
+0  a c
+1    c
+b
+1    c
+1. a
+2    c
+b
+1.  da
+2   ac
+#2  aa
+x  b d
+b
+1  d a
+#2  aa
+x   ac
+1   ca
+b
+0. dda
+b
+b
+
+e

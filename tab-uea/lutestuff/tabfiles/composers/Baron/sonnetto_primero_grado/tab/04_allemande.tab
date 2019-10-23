@@ -1,0 +1,327 @@
+-C
+-t
+-f
+b
+.
+C
+1   a
+b
+1  baa d
+1 a
+1a
+1  b
+b
+1  a&'   /a
+#2   c
+x  a
+1   a
+1a b-- ///a
+b
+1c b-- //a
+1 d -- ///a
+1 b&' -- 4
+#2  a
+xa
+b
+1 a&' -- 5
+#2  dU
+x  bX
+1  d--a
+#2   a
+xa
+b
+1 b -- a
+1 a -- /a
+1  dc  //a
+#2 aU
+x bX
+b
+1  a-- //a
+1   a
+1  ba  ///a
+1  d-- //a
+b
+1 ad-- /a
+#2  dU
+x  bX
+1a
+1  a
+b
+
+b
+#2      d
+x  b
+#2    a
+x   a
+1      5
+.
+b
+b
+.
+1   a
+b
+1  baa d
+1 a
+1a
+1  b-- a
+b
+1  d--a
+1   a
+1a
+1  a-- /a
+b
+1  b-- a
+#2cU
+xaX
+#2 cU-- 4
+x aX
+#2  dU
+x  bX
+b
+1  a-- /a
+1   a
+1a
+1  a-- /a
+b
+1  b-- a
+#2cU
+xaX
+#2 cU
+x aX
+#2  dU
+x  bX
+b
+1  d--a
+#2aU
+xcX
+#2eU
+xcX
+#2 dU-- a
+x cX
+b
+
+b
+1 a -- d
+#2 f
+x e
+1f --  a
+1 a
+b
+1 c&' -- 4
+#2 d
+xc
+1  d
+1  d
+b
+1a --  4
+1 h
+1hU
+1aX
+b
+#2 c -- 4
+xc
+#2 cU
+x aX
+#2  dU
+x  b
+#2  aX
+x   c
+b
+1   a--4
+1  a
+1  d
+1   a
+b
+#2    c-4
+x   a
+#2    cU
+x    aX
+1     d
+1     b
+b
+1  d  a
+1a
+1e
+1  d--a
+b
+#2  bU--a
+x  aX
+#2  bU
+x  aX
+1  b
+1c b c
+b
+
+b
+1  a-- /a
+#2  a
+xa
+#2      4
+x   c
+#2  d
+x c
+b
+#2      /a
+xa
+#2  dU
+x  aX
+1   a
+1   a
+b
+1  baa 5
+1 a
+1a
+1  b
+b
+1  a-- /a
+#2   c
+x  a
+1   a
+1 d -- ///a
+b
+1cd -- //a
+1 d -- ///a
+1 b -- 4
+#2  a
+xa
+b
+1 a -- 5
+#2  dU
+x  bX
+1  d--a
+#2   a
+xa
+b
+1 b&' -- a
+1 a -- /a
+1  dc--//a
+#2 b
+x  d
+b
+1  a-- //a
+1   a
+1  ba  ///a
+1  d-- //a
+b
+
+b
+1 ad-- /a
+#2  dU
+x  bX
+1a
+1  a-- /a
+b
+#2      d
+x  b
+#2    a
+x   a
+1      d
+.
+b
+b
+.
+1    a
+b
+1   ca a
+1  b
+1 a
+1   c--a
+b
+1   b&'--///a
+#2    c
+x   b
+1    a
+1 a -- d
+b
+1 b-- d
+#2 bU
+x aX
+1 b
+1ab-- a
+b
+1 a -- d
+#2cU
+xbX
+1c
+1  b-- a
+b
+1  d--a
+#2  dU
+x  bX
+1  d
+1 ad
+b
+1  b&'-- a
+#2cU
+xbX
+1c
+1 a -- a
+b
+
+b
+#2 bU-- 4
+x aX
+#2  dU--///a
+x  bX
+#2  dU--///a
+x  bX
+#2  a-- 4
+x   c
+b
+1   b&'--///a
+#2   bU
+x   cX
+1  a
+1    a
+b
+1   b
+1  a
+1  d
+1b
+b
+1   c--///a
+1  b
+1 a
+1c
+b
+#2fU -- ///a
+xeX
+#2 f
+xe
+1f
+#2  f
+xf
+b
+#2      ///a
+x  d
+#2e
+x  a
+#2      ///a
+x  b
+#2 a
+xc
+b
+#2      ///a
+x  a
+#2cU
+xbX
+#2b
+x a
+#2  d
+x a
+b
+
+b
+1  b&'-- a
+#2  a
+x   c
+1  ac--///a
+1   b&'
+b
+1   ca
+1      a
+.
+b
+b
+P
+e

@@ -1,0 +1,825 @@
+-C
+-t
+-f
+{Scottish Hunt's Up (2)/Scottish Hunt's Up (2)}
+b
+1. c- a
+#3 a
+x c
+1 d
+#1 c- a
+x  d
+xa
+b
+1. c- a
+#3 a
+x c
+1 d
+#1 c- a
+x  d
+xa
+b
+#1 a-- d
+x  b
+x d
+1. d-- d
+#3 c
+x d
+1a
+b
+#1 a-- d
+x  b
+x d
+1. d-- d
+#3 c
+x d
+1a
+b
+1. c- a
+#3 a
+x c
+1 d
+#1 c- a
+x  d
+xa
+b
+1. c- a
+#3 a
+x c
+1 d
+#1 c- a
+x  d
+xa
+b
+
+b
+#1 a-- d
+x  b
+x d
+1. d-- d
+#3 c
+x d
+1a
+b
+#1 a-- d
+x  b
+x d
+0a b- d
+1 d
+b
+#1 a-- d
+x  b
+x d
+1. d-- d
+#3 c
+x d
+1a
+b
+#1 a-- d
+x  b
+x d
+1. d-- d
+#3 c
+x d
+1a
+b
+1. c- a
+#3 a
+x c
+1 d
+#1 c- a
+x  d
+xa
+b
+#1 a-- d
+x  b
+x d
+1. d-- d
+#3 c
+x d
+1a
+b
+#1 c- a
+x  d
+x c
+0a d
+1 d
+b
+
+b
+1. c- a
+#3 d
+xa
+1c
+1.a-- a
+#3c
+xe
+1f
+b
+1. c- a
+#3 d
+xa
+1c
+1.a-- a
+#3c
+xe
+1f
+b
+1. a-- d
+#3 b
+x d
+1a
+1. d-- d
+#3a
+xc
+1d
+b
+1. a-- d
+#3 b
+x d
+1a
+1. d-- d
+#3a
+xc
+1d
+b
+1. c- a
+#3 d
+xa
+1c
+1.a-- a
+#3c
+xe
+1f
+b
+1. c- a
+#3 d
+xa
+1c
+1.a-- a
+#3c
+xe
+1f
+b
+
+b
+1. a-- d
+#3 b
+x d
+1a
+1. d-- d
+#3a
+xc
+1d
+b
+#1 a-- d
+x  b
+x a
+0a b- d
+1 d
+b
+1. a-- d
+#3 b
+x d
+1a
+1. d-- d
+#3a
+xc
+1d
+b
+1. a-- d
+#3 b
+x d
+1a
+1. d-- d
+#3a
+xc
+1d
+b
+1. c- a
+#3 d
+xa
+1c
+1.a-- a
+#3c
+xe
+1f
+b
+1.e- c
+#3c
+xe
+1f
+#1c- a
+x d
+x acc
+b
+#1 c- a
+x  d
+x c
+0a d
+1 d
+b
+b
+
+b
+#1 c- a
+x  d
+#1  d
+xa
+#1c
+xe
+b
+1f-- a
+#2d
+xc
+#2d
+xc
+xa
+x d
+1a
+#2 d
+x b
+b
+#1 a-- d
+x  b
+#1  b
+x d
+#1a
+xc
+b
+1d--- d
+#2a
+xc
+#2d
+xc
+xa
+x d
+#2a
+x d
+x c
+x a
+b
+#1 c- a
+x  d
+#1  d
+xa
+#2c
+xa
+xc
+xe
+b
+1f-- a
+#2d
+xc
+#2d
+xc
+xa
+x d
+1a
+#2 d
+x b
+b
+
+b
+#1 a-- d
+x  b
+#1  b
+x d
+#1a
+xc
+b
+#1d--- d
+x d
+xa
+#1 d
+x     d
+x b
+b
+#1 a-- d
+x  b
+#1  b
+x d
+#1a
+xc
+b
+1d--- d
+#2a
+xc
+#2d
+xc
+xa
+x d
+#2a
+x d
+x c
+x a
+b
+1 c- a
+#2 a
+x c
+#2 d
+xa
+xc
+xe
+0f
+b
+1e    a
+#2c
+xa
+#2c
+xa
+x d
+x c
+#1 a
+x d
+b
+#1 c- a
+x  d
+x c
+0a d
+1 d
+b
+
+b
+1 c- a
+#2  a
+x  c
+1  d
+#2 c
+x d
+1a
+#2c
+xe
+b
+1f
+#2  d
+x a
+1 c
+#2 d
+xa
+#1c
+xa
+b
+1 a-- d
+#2   c
+x  a
+1  b
+#2 a
+x b
+1 d
+#2a
+xc
+b
+1d
+#2  b
+x  d
+1 a
+#2 b
+x d
+#1a
+x d
+b
+1 c- a
+#2  a
+x  c
+1  d
+#2 c
+x d
+1a
+#2c
+xe
+b
+1f
+#2  d
+x a
+1 c
+#2 d
+xa
+#1c
+xa
+b
+
+b
+1 a-- d
+#2   c
+x  a
+1  b
+#2 a
+x b
+1 d
+#2a
+xc
+b
+#1d
+x d
+xa
+#1 d
+x     d
+x b
+b
+1 a-- d
+#2   c
+x  a
+1  b
+#2 a
+x b
+1 d
+#2a
+xc
+b
+1d
+#2  b
+x  d
+1 a
+#2 b
+x d
+#1a
+x d
+b
+1 c- a
+#2c
+xe
+1f
+#2  d
+x a
+1 c
+#2a
+xc
+b
+1e--- a
+#2  c
+x  d
+1 a
+#2 c
+x d
+#1a
+x d
+b
+#1 c- a
+x  d
+x c
+0a d
+1 d
+b
+b
+
+b
+#1 a-- d
+x  b
+#1d
+x  b
+#1 a
+x  b
+b
+1 d-- d
+#2 b
+x d
+1a
+#1 d
+x a
+x d
+b
+#1 c- a
+x  d
+xa
+#2 d
+xa
+#1c
+xa
+b
+1f-- a
+#2d
+xc
+#2d
+xc
+xa
+x d
+#1 c
+x  d
+b
+#1 a-- d
+x  b
+#1 d
+x  b
+#1 a
+x  b
+b
+1 d-- d
+#2a
+xc
+#1d
+x d
+#1 a
+xd
+b
+1.c-- a
+2a
+#1 c
+xa
+#1 da-c
+x  c
+b
+
+b
+#1 c- a
+x  d
+x c
+0a d
+1 c
+b
+1 a-- d
+#2   c
+x  a
+#2  b
+x  d
+#2 a
+x b
+1 d
+#2a
+xc
+b
+1d
+#2c
+xa
+#2 d
+x b
+x a
+x  d
+0  b
+b
+1 c- a
+#2  a
+x  c
+x  d
+x a
+#2 c
+x d
+1a
+#2c
+xe
+b
+1f
+#2e
+xc
+#2a
+x d
+x c
+x a
+0  d
+b
+1h f
+#2 f
+x h
+#2 i
+xf
+xh
+xi
+1h
+#2f
+xd
+b
+
+b
+#2f
+xd
+xc
+xa
+#2 d
+x b
+x a
+x  d
+#1  b
+xd
+b
+1a-- a
+#2  d
+x a
+#2 c
+x d
+1a
+#1 d- c
+x  c
+b
+1 c- a
+#2  d
+x a
+x c
+x d
+0.a
+1d
+b
+b
+c
+0c-- a
+0a
+b
+0. ab- d
+1d
+b
+0c-- a
+0a
+b
+0. cd-a
+1d
+b
+1.c-- a
+2a
+#1 c
+xa
+b
+#1 a-- d
+x  b
+x  b
+xd
+b
+1.c-- a
+2a
+#1 c
+xa
+b
+#1 c- a
+x  d
+#1  d
+xd
+b
+
+b
+1.c-- a
+#3a
+xc
+#1a
+x d
+b
+#1 a-- d
+x  b
+#1  b
+xd
+b
+1.c-- a
+#3a
+xc
+#1a
+x d
+b
+#1 c- a
+x  d
+#1  d
+xd
+b
+1c-- a
+#2a
+xc
+#2d
+xc
+xa
+x d
+b
+#1 a-- d
+x  b
+#1  b
+xd
+b
+1c-- a
+#2a
+xc
+#2d
+xc
+xa
+x d
+b
+#1 c- a
+x  d
+#1  d
+x d
+b
+1 c
+#2 a
+x c
+#2 d
+x c
+x a
+x  d
+b
+
+b
+#1 a-- d
+x  b
+#1  b
+x d
+b
+1 c- a
+#2 a
+x c
+#2 d
+x c
+x a
+x  d
+b
+#1a-- a
+x  d
+#1  d
+x d
+b
+1 c  a
+#2 a
+x c
+#2 d
+x c
+x a
+x  d
+b
+#1 a-- d
+x  b
+#1  b
+x d
+b
+1 c
+#2 a
+x c
+#2 d
+xa
+xc
+xe
+b
+1f
+#2d
+xc
+#2d
+xc
+xa
+x d
+b
+1a
+#2 d
+x c
+#2 d
+x c
+x a
+x  d
+b
+
+b
+#1 a-- d
+x  b
+#1  b
+x d
+b
+1 c- a
+#2 a
+x c
+#2 d
+xa
+xc
+xe
+b
+#1f
+x  d
+#1    a
+x d
+b
+#1 c- a
+xf
+#1a
+xc
+b
+#1d--- d
+x  b
+#1 a
+x d
+b
+#1 c- a
+xf
+#1a
+xc
+b
+#1 c- a
+x  d
+#1  d
+x d
+b
+1 c- a
+#2  d
+x a
+#2 c
+x d
+xa
+xc
+b
+1d--- d
+#2  b
+x  d
+#2 a
+x c
+x d
+xa
+b
+
+b
+1c-- a
+x  d
+Ya
+.
+b
+b
+
+e

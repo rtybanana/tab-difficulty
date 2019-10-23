@@ -1,0 +1,257 @@
+-C
+-t
+-f
+{19. Corrente 6 - L'Alemana/19. Corrente 6 - L'Alemana}
+b
+x     b5
+b
+b
+1    a
+b
+.
+0 d a
+1a   e
+b
+1.bdda
+2a
+1 d
+b
+0ab  a
+1 d  c
+b
+1.a   d
+2 d
+1 b  a
+b
+1. a   d
+2 c
+1 d   b
+b
+1.a    d
+2 d
+1 c  a
+b
+0 d a
+1      a
+b
+A1
+0   a
+1    a
+.
+b
+b
+A2
+0   a
+1  d
+b
+.
+1.bbdd
+2  b
+1  d
+b
+
+b
+1a b d
+1  d
+1  b
+b
+0bd a
+1      a
+b
+0bd
+1acd a
+b
+0bdda
+1  bc
+b
+1  dd
+1   a
+1b
+b
+1.dbbc
+2b
+1d
+b
+1 b  a
+1 d  c
+1a   d
+b
+1.bdda
+2d
+1b
+b
+1 a   d
+1 b  a
+1 d  c
+b
+1.abb d
+2b
+1a
+b
+1b d  b
+1     d
+1    a
+b
+1 db b
+1    a
+1     d
+b
+
+b
+1.a   a
+2 d
+1 c
+b
+1 d a
+1    a
+1     c
+b
+A1
+0      a
+1  d
+.
+b
+b
+A2
+0      a
+1    a
+b
+.
+1. d a
+2   c
+1   d
+b
+1   d  a
+1   c  /a
+1   a  //a
+b
+1.    d ///a
+2    c
+1    a
+b
+1      4
+#3  dU  5
+x  b
+x  Xd
+x   c
+#3   a
+x    d
+x    c
+x    a
+b
+1.    c 4
+2    e
+1   a
+b
+1    e ///a
+1   a
+1   c
+b
+
+b
+1   a  a
+#2  d
+x  b
+#2  a
+x   c
+b
+A1
+0   a
+1    a
+.
+b
+b
+A2
+0   a
+1  d
+b
+.
+1bbdd
+#2  b
+x   dU
+#2   c
+x   aX
+b
+1a   d
+#2    cU
+x    a
+#2    cX
+x    d
+b
+1bdda
+#2    a
+x     dU
+#2     b
+x     aX
+b
+0      a
+1ac  a
+b
+1b  a
+#2a
+xb
+1d  c
+b
+1  dd
+1   a
+1b
+b
+1d  c
+1     a
+#2     bU
+x     dX
+b
+
+b
+1a   a
+1  d
+#2    cU
+x    eX
+b
+1b  a
+1 d    a
+#2     aU
+x     cX
+b
+1 a   d
+1  b
+#2    aU
+x    cX
+b
+1a   d
+1 b
+#2   aU
+x   cX
+b
+1bbdd
+1     b
+#2     d
+x    a
+b
+1    b
+1 d
+#2a    d
+xb
+b
+#2d
+xb
+1.a   a
+#3 d
+xa
+b
+1 d
+1   a
+1      a
+b
+A1
+0 dda
+1  d
+.
+b
+b
+A2
+0. dda
+b
+b
+
+e

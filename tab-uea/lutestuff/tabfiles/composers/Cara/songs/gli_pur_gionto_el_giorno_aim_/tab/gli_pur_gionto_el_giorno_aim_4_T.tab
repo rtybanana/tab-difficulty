@@ -1,0 +1,192 @@
+-C
+-t
+-f
+{Gli è pur gionto el giorno/Gli è pur gionto el giorno}
+b
+c
+0 a c a
+0 ab  a
+b
+1 a  c
+1  a
+0 ab  a
+b
+1 aa c
+1  b  d
+0  dca
+b
+0  bc a
+0  bc a
+b
+1 a  c
+1 a
+#2a    a
+x  d
+x a
+x b
+b
+1 d    a
+1 d
+#2 a   d
+x    a
+x b  c
+x a  d
+b
+1  da
+1 a  c
+1   cd
+1  d
+b
+1 aa c
+1  b
+0 aa   /a
+.
+b
+b
+
+b
+1 aa c
+1 a
+#2a    a
+x  d
+x a
+x b
+b
+1 d  c
+#2 d a
+x b
+#2 a  c
+x  dc
+x  ba
+x  a
+b
+1  bcd
+1 aa c
+1    d
+1  dc
+b
+1 aa c
+1   a
+#2 a    /a
+x   c
+1  a
+b
+1 ab  a
+#2   ca
+x     d
+#2  dca
+x    c
+x    d
+x   a
+b
+1   c
+1  bc a
+1   c
+#2  ba
+x    d
+b
+1  da
+1 a  c
+1   cd
+1  d
+b
+0 aa c
+0      /a
+b
+
+b
+0 a c a
+0 ab  a
+b
+1 a  c
+1  a
+0 ab  a
+b
+1 aa c
+1  b  d
+0  dca
+b
+0  bc a
+0  bc a
+b
+1 a  c
+1 a
+#2a    a
+x  d
+x a
+x b
+b
+1 d    a
+#2 d
+x b
+#2 a   d
+x    a
+x b  c
+x a  d
+b
+1  da
+1 a  c
+1   cd
+1  d
+b
+1 aa c
+1  b
+0 aa c /a
+b
+1 aa c
+1 a
+#2a    a
+x  d
+x a
+x b
+b
+
+b
+1 d  c
+#2 d a
+x b
+#2 a  c
+x  d
+x  ba
+x  a
+b
+1  bcd
+1 aa c
+#2   cd
+x  a
+x  df
+x   c
+b
+0 aa c
+0 aa   /a
+b
+1   c a
+1 a
+0 a c
+b
+1 c  a
+1 d
+1  d
+1 c
+b
+1 dda
+#2   a
+x   c
+#2  de
+x   f
+x  d d
+x a  c
+b
+1 b  a
+1 a   d
+1   cd
+1  d
+b
+0 aa c
+0      /a
+b
+w a c a
+b
+b
+
+e

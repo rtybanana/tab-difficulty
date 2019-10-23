@@ -1,0 +1,43 @@
+-t
+-f
+{Die drit regel/Hans Newsidler}
+b
+#2  b"+  d
+x    a
+x    c
+x    d
+#2  da
+x a
+x b
+x d
+b
+#2a   d
+x   a
+x   c
+x   d
+#2 d a
+x b
+x a
+x  d
+b
+
+b
+#2 ab
+x  a
+x   c
+x   a
+#2 b  d"+
+x a
+x  d
+x  b
+b
+1  da
+1  bc
+0  da
+b
+w  b  d
+b
+b
+Q
+
+e

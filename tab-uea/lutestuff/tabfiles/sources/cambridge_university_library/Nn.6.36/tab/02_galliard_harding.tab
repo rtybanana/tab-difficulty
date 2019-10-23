@@ -1,0 +1,439 @@
+-C
+-t
+-f
+{2. Galliard/James Harding}
+b
+1.dab  d
+2    a
+1ca  c
+b
+1aab  d
+1da  c
+1ca    a
+b
+1.aab  a&'
+2     c
+#2     d
+x  b
+b
+#2 ab  a
+x   c
+1 aba d
+1 c c
+b
+1. daa  d
+2 d
+#2 bbc a
+x a
+b
+#2 a
+x      d
+#2a     b
+x  a
+#2  b
+x  d
+b
+1 ef c
+0     "# a
+b
+1. da c
+2a   d
+1c  a
+b
+1d   c
+#2  da
+xd
+1c
+b
+
+b
+1dab  d
+1a
+1 cd a
+b
+1c   "#
+1 da c
+1da
+b
+#2    d{
+xc
+1a d   }
+#2 ea c
+x a
+b
+#2a d
+x  b
+#2 f ec{
+x   c
+#2 e e
+x  d   }
+b
+#2     a
+xaac
+#2   c
+x  d
+#2  c "#
+x  a
+b
+1aac "# a
+0   c "#
+b
+b
+2dab  d
+#3   c
+x  a
+#3  b
+x  d
+x a
+x    a
+1ca  c
+b
+1dab  d
+2da  c{
+#3c
+xd
+1ca    a
+b
+
+b
+2aab  a
+#3   c
+x  a
+#2  b
+x     c
+2  b  d
+#3  a
+x  b
+b
+#2  a  a
+x   c
+#3 a   d{
+x  d
+x  b
+x  d
+#3 a
+x  d
+x a
+x c
+b
+1. daa  d
+2 d
+#2 bbc
+x a   a
+b
+#2 a  "#
+x      d
+#3a     b
+x a
+x  d
+x  b
+#3  d
+x a
+x  b
+x  d
+b
+1 ef c
+0      a
+b
+2 da c{
+#3 a
+x c
+#2 d
+xa   d
+2c  "#a
+#3a
+xc
+b
+
+b
+1d   c
+#2  da
+xd
+1ca
+b
+1dab  d
+1a
+2 cd a
+#3 d
+xa
+b
+1c  "#
+2 da c{
+#3a
+xc
+1da
+b
+#2    d{
+xc
+1a d
+#2 ea c{
+x a    }
+b
+#2a d
+x  b
+#3    c{
+x f
+x e
+x c
+#3 e
+x f
+x  d
+x e
+b
+#2     a
+xaac
+2   c
+#3 d
+x b
+#3 a
+x  d
+x  c
+x  a
+b
+1aac  a
+0   c
+b
+b
+
+b
+0 ac "# a
+1a
+b
+1 acc "#
+1     a
+1 bd
+b
+1 abc a
+1d
+1   c
+b
+1c a"#
+1a b "#
+1  d
+b
+1 df
+1    c
+1 cee
+b
+1 aff
+1 c e
+1  e
+b
+1 a  "#c{
+1  a
+1  b "#  }
+b
+1c a"#
+1da  c{
+1c  "#   }
+b
+1 da c
+1a   d
+1cd  c
+b
+1da   d
+1ab  a
+1c d  c
+b
+1 ab "# a
+1 c
+1  d&'  c{
+b
+
+b
+1 d
+1 a   d{
+1a   "#
+b
+1 cd a
+1c
+1 da c
+b
+1da   {}
+1a b  d{
+1  d
+b
+1    c
+1 ef
+1   e
+b
+1    c
+0 efecca
+b
+b
+1. ac "# a
+#3 b
+x d
+1a  "#
+b
+1 ac  "#
+1     a
+1 bd
+b
+1 abc a
+1d
+2   c{
+#3c
+xd    }
+b
+1c "#a
+2a b "#
+#3  a
+x  b
+1  d
+b
+1 df
+1    c
+1 cee
+b
+
+b
+1 a f
+#3 c e{
+x a
+x  e
+x  c
+#3  e
+x a
+x c
+x  e  }
+b
+1 a "# c{
+1  a
+2  b "#
+#3  a
+x  b   }
+b
+1c "#a
+2da  c{
+#3c
+xd
+1c  "#
+b
+1 da c
+1a   d
+1cd  c
+b
+1da   d
+2ab "# a
+#3 d
+xa
+1c d  c
+b
+2 ab  "#a
+#3  d
+x a
+1 c  "#
+2  d  c{
+#3 a
+x c
+b
+1 d
+2 a  "# d{
+#3 b
+x d
+1a  "#
+b
+
+b
+2 cd a
+#3 d
+xa
+1c  "#
+2 da c{
+#3a
+xc     }
+b
+1da
+#3a   d{
+x a
+x  d
+x  b
+1  d
+b
+2 e  c{
+#3  f
+x c
+#3 e
+x f
+xc
+xd
+#3c
+x f
+x e
+x c
+b
+1 ef c
+0      a
+b
+b
+0 db  d
+1     c
+b
+1     d
+1 d
+1      d
+b
+1. abc a
+2 c
+1 da c{
+b
+1 ab
+1a b d{
+1  d
+b
+1 d  c
+1  b
+1 b  a
+b
+
+b
+1 ab  d
+1 bb "#a
+1  a
+b
+0. ab  d
+b
+1 ab  d
+1 cd a
+1ab  d
+b
+1 ea c
+#2      a
+xa
+1c     d
+b
+1da   a
+1a     b
+1  d
+b
+0 ea  "# a
+1    c
+b
+1 ab  d
+1 bd a
+1 aa c
+b
+1 ab  d
+#2     a
+x  d
+1 ab  d
+b
+1 bd a
+1 aa c
+#2      a
+x  d
+b
+#2     a
+xaac
+#2   c
+x  d
+#2  c
+x  a
+b
+1aac "# a
+0   c "#
+b
+b
+
+e

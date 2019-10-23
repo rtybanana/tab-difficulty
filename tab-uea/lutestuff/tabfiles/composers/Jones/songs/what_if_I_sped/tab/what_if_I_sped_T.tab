@@ -1,0 +1,181 @@
+-C
+-t
+-f
+{What if I sped/What if I sped}
+b
+c
+1.aa c
+2a
+1cd a
+#2a
+x d
+b
+1da c
+1aab  a
+1 aa c
+#2 abc
+x   a
+b
+1.ab  d
+2a
+1.cb  a
+2c
+b
+0ddf  d
+0dab
+b
+
+b
+1.aa c
+2a
+1cd a
+#2a
+x d
+b
+1da c
+1aab  a
+1 aa c
+#2 abc
+x   a
+b
+1.ab  d
+2a
+1.cb  a
+2c
+b
+0ddf  d
+0dab
+b
+0. df c
+#2 d  c
+x    a
+b
+1aa   d
+1cc   c
+1df   a
+1aa c
+b
+
+b
+0c da
+1c da
+1ca  c
+b
+1  bc
+1 d a
+1d  c
+1cca
+b
+0. ef c
+#2 e  c
+xa
+b
+1c d a
+1 d a
+1a b d
+1c   a
+b
+0.dd   d
+#2c
+xa
+b
+1c  a
+1a  c
+#2 ef c
+xa
+1 ef c
+b
+
+b
+0aabc
+0   c a
+b
+1
+1cd  c
+1. daa
+2cd a
+b
+1.fb  a
+2f   a
+1.ab  d
+2ab  d
+b
+1.ddf  d
+2ddf  d
+1. df c
+2 df c
+b
+1.  d  c
+2 ab  d
+#2 c  a
+x d
+1aab  a
+b
+
+b
+0 ef c
+1da c
+1aab
+b
+#2  a
+x   c
+#2   a
+x    e
+1 df c
+1dd   d
+b
+1c d a
+1a
+1    c
+1 ef
+b
+0aacc
+0  cc a
+b
+1
+1cd  c
+1. daa
+2cd a
+b
+
+b
+1.fb  a
+2f   a
+1.ab  d
+2ab  d
+b
+1.ddf  d
+2ddf  d
+1. df c
+2 df c
+b
+1.  d  c
+2 ab  d
+#2 c  a
+x d
+1aab  a
+b
+0 ef c
+1da c
+1aab
+b
+#2  a
+x   c
+#2   a
+x    e
+1 df c
+1dd   d
+b
+
+b
+1c d a
+1a
+1    c
+1 ef
+b
+0aacc
+0  cc a
+b
+b
+
+e

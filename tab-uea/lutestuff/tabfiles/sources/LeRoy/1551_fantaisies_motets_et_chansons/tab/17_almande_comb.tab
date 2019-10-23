@@ -1,0 +1,289 @@
+-C
+-t
+-f
+{17. Almande/17. Almande}
+b
+c
+1. d a
+2a
+1c
+1d
+b
+1.fcd a
+2fcd
+1   c
+1fcd a
+b
+1abb d
+1cdda
+1dab  d
+1acd a
+b
+1.cdda
+2cd
+1  d
+1   a
+b
+#2 d a
+x c
+x d
+xa
+#2 d a
+xa
+xc
+xd
+b
+1fc  a
+#2  d
+x  c
+#2  d
+x a
+x b
+x d
+b
+
+b
+#2abb d
+x a
+x b
+x d
+#2a
+xc
+xd
+xa
+b
+1.cdda
+2cd
+1  d
+1   a
+b
+b
+1. dda
+2a
+1c
+1da c
+b
+1fcd a
+#2  d
+x  c
+#2  d
+x a
+#3 b
+x a
+x b
+x d
+b
+2abb d
+#3 a
+x b
+#3 d
+xa
+xc
+xd
+#3f
+xh
+xi
+xh
+#3f
+xd
+xc
+xa
+b
+1.cdda{
+2cd
+1  d  }
+1   a
+b
+
+b
+#3 d a
+x c
+x d
+xa
+#3c
+xa
+x d
+x c
+2 d a
+#3 a
+x c
+#3 d
+xa
+xc
+xd
+b
+2fcd a
+#3a
+xc
+#3d
+xc
+xa
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x b
+x a
+b
+#3abb d
+x a
+x b
+x d
+#3a
+xc
+xd
+xc
+#3 d
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+b
+1.cdda{
+2cd
+1  d  }
+1   a
+b
+b
+
+b
+1 d a
+#2  d
+xa
+1cdda
+#2a
+x d
+b
+1.acd a
+2acd
+1   c
+1acd a
+b
+1cdda
+1cd  c
+1ac  e
+1 daa
+b
+1.acd a
+2acd
+1   c
+1acd a
+b
+1 d a
+#2  d
+xa
+1cdda
+#2a
+x d
+b
+1 cd a
+#2   c
+x d
+1abb d
+1cdda
+b
+1aab  d
+1 db c
+1 ddca
+1 cdc
+b
+1. dda
+2 d
+1  d
+1   a
+b
+b
+
+b
+1 d a
+#2  d
+xa
+2cdda
+#3a
+xc
+#3d
+xc
+xa
+x d
+b
+1.acd a{
+2acd
+1   c  }
+1acd a
+b
+1cdda
+1cd  c
+1ac  e
+1 daa
+b
+1.acd a{
+2acd
+1   c  }
+1acd a
+b
+1 d a
+#2  d
+xa
+2cdda
+#3d
+xc
+#3a
+x d
+x c
+x a
+b
+
+b
+#3  d a
+x  c
+x  d
+x a
+#3 c
+x a
+x c
+x d
+#3ab  d
+x a  {
+x b
+x d
+#3a
+xc
+xd
+xc
+b
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c    }
+x a
+#3  dca
+x c  {
+x d
+x c
+#3 d
+x c
+x a
+x c   }
+b
+#3   a
+x d
+x c
+x a
+#3  d
+x  b
+x  a
+x   c
+0 daa
+b
+b
+
+e

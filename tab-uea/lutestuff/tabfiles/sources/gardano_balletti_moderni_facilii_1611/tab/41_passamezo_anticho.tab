@@ -1,0 +1,496 @@
+-C
+-t
+-f
+{41. Passamezo anticho/41. Passamezo anticho}
+b
+c
+2aab  a
+b
+1aab  a
+#2   c
+xaab
+#2   c
+x  d
+x  b
+x  a
+b
+1aab  a
+#2c
+x     c
+#2dab  d
+x    a
+x    c
+x    e
+b
+1cdda
+1f
+#2   a
+xd
+xc
+xa
+b
+#2cdda
+xa
+x d
+x c
+#2 a
+x  d
+x  b
+x  a
+b
+1  bc a
+1 a
+#2     a
+x  d
+x  b
+x  a
+b
+
+b
+#2  b  a
+xf
+xd
+xc
+#2a    d
+xd
+xc   a
+xa
+b
+1 efec
+1c
+#2    c
+x f
+x e
+x c
+b
+1 efec
+1c
+#2dabc
+x c
+1cd a
+b
+1d ff d
+#2   f
+xddf
+1   f
+1d ff d
+b
+1d ff d
+1h
+#2     d
+xf
+1d ff d
+b
+1cdda
+1f
+#2   a
+xd
+xc
+xa
+b
+#2cdda
+xa
+x d
+x c
+#2 a
+x  d
+x  b
+x  a
+b
+
+b
+#2  b  a
+xd
+xc  ac
+xd
+#2abb d
+xd
+xcbd a
+xa
+b
+#2 efec
+x f
+xc
+x f
+#2 efec
+x c
+x f
+x e
+b
+1aac  a
+1   c
+#2     a
+x  d
+x  c
+x  a
+b
+#2aac  a
+x   c
+xaaa c
+x e
+1aac  a
+Y   c
+b
+b
+1aab  a
+b
+#2aab  a
+xc
+xd
+xf
+#2h    a
+x  d
+x  b
+x  a
+b
+
+b
+#2  bc a
+x  a
+x  b
+x  d  c
+#2 ab  d
+x c
+x d  c
+xa   d
+b
+#2cdda
+xd
+xf
+x  a
+#2  b
+x  d
+x ab  d
+x cd a
+b
+#2 dda
+xa
+xcdda
+xd
+2f
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+b
+#2dabc
+xc
+#3aaac
+x d
+x b
+x a
+#2 bd a
+x  b
+x aa c
+x   b
+b
+#2aab  a
+xh
+xhf f a
+xf
+#2dabc
+xc
+xabd a
+x  b
+b
+
+b
+#2 efec
+xc
+xd
+x   c
+#2abd a
+x efec
+xaa cd
+x  d
+b
+#2 dfec
+x dff d
+x bdca
+x  b
+#2 aabc
+xc
+#3dabc
+x c
+2cdaa
+b
+#2ddff d
+x    a
+x    c
+x    e
+#2cdda
+xd
+xf
+x   a
+b
+#2hd f d
+xf
+xd
+x h
+#2hdf  d
+xf
+xhd f d
+#3f
+xd
+b
+#2cdda
+x   c
+x   e
+x  d
+#2 dff
+xd
+xdabc
+x c
+b
+
+b
+#2cdda
+xd
+xaabc
+xd
+#2cbd a
+xa b
+xaaa c
+x e
+b
+#2aab  a
+x   c
+x  d  c
+x   a
+#2 ab  d
+x bd a
+x ab c
+#3a  cd
+x  d
+b
+#2 efec
+x f
+xc
+x f
+#2 e
+x c
+x f
+x e
+b
+#2aac  a
+x   c
+x   b
+x    e
+#2    c
+x    a
+x     e
+x     c
+b
+#2aac  a
+xc
+xe
+xf
+Yhf g a
+b
+b
+1
+1hf f a
+b
+1hf f a
+1hd f d
+1f def
+1cdda
+b
+
+b
+#2ddf  d
+xh
+xd
+xf
+#2hdf  d
+xf
+xdabc
+x c
+b
+#2cdda
+xf
+xc
+xd
+#2f  a
+x  d
+x  a
+x  b
+b
+#2  da
+xd
+xa
+xd
+#2cdda
+xh
+x i
+xf
+b
+#2h    a
+xi
+xh
+xf
+#2dabc
+xc
+#3aaac
+x d
+x b
+x a
+b
+#2 bd a
+x    c
+x    a
+x     d
+#2    d
+x  a
+xa b
+x  d
+b
+
+b
+2 efec
+#3  c
+x  e
+#3  f
+x c
+x e
+x f
+#3c
+xd
+xf
+xd
+#3c
+x f
+x e
+x c
+b
+2 efec
+#3f
+xd
+#3c
+x f
+x e
+x c
+#2 efec
+xf
+xd
+xc
+b
+1 dff d
+#2   f
+xhd f d
+2hd f d
+#3d
+xf
+#3h
+xf
+xd
+xf
+b
+1hd f d
+#2   f
+xf
+#2hd f d
+x    a
+x    c
+x    e
+b
+#2f def
+x   c
+x   e
+x  b
+#2  def
+x f
+x h
+xd
+b
+
+b
+#2f def
+x   f
+x   e
+x   c
+#2f def
+xd
+xcdda
+xa
+b
+#2 dfec
+x c
+x dff d
+x   e
+#3 bd a
+x d
+x b
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+#3 aabc
+x   c
+x  a
+x  b
+#3  d
+x  b
+x  a
+x   c
+#3 aabc
+x   c
+x  a
+x   c
+#3   b
+x    e
+x   c
+x   b
+b
+#2 acc a
+x   c
+1 cd a
+#2 aacc
+x   b
+1   b
+b
+1 acc a
+#2a
+xc
+Yeacc a
+b
+b
+
+{41. Passamezo anticho/41. Passamezo anticho}
+b
+#3 2100 |
+x  2   .
+x   0  .
+x   1  :
+#3   3  |
+x   1  .
+x   0  .
+x  2   :
+#3 2100 |
+x  2   .
+x   0  .
+x  2   :
+#3  0   |
+x 4    .
+x  2   .
+x  1   :
+b
+x0 200
+x  2
+1 0 32
+2 2200
+x  1
+1.  1   ;
+b
+x0 220
+x     0
+x     2
+Y.0 2200;
+b
+b
+P
+e

@@ -1,0 +1,246 @@
+-C
+-t
+-f
+{11. Prelude 11/11. Prelude 11}
+b
+c
+#2 abc
+x     a
+x abc
+x     c
+#2 aba d
+x    a
+x ab c
+x    e
+b
+#2 aab
+x   c
+x aa
+x   b
+3 bbc
+#4  a
+x  b
+#4  d
+x a
+x b
+x  d
+#4 a
+x  d
+x  b
+x  a
+#4  b
+x  d
+x a
+x c
+b
+#3 daa
+x  b
+x  d
+x    d
+2 db c
+#3  a
+x    a
+1 dff d
+#2h
+x    a
+b
+
+b
+#2 df c
+x      /a
+xc     a
+x     a
+#2 cde c
+x     d
+x  dca
+x  a
+b
+#2 abc a
+x     c
+x aba d
+xa
+1cda   a
+#2 cdca
+x d
+b
+2a
+#3  b
+x  a
+#2da c
+x  a
+2  b  a
+#3c
+xa
+2 e   c
+#3aab  d
+x     a
+b
+1  a c
+#2 d
+x     c
+1   c d
+#2 b  a
+x  a
+b
+1 ab  a
+#2  a  d
+x   c
+#2   a
+x     c
+1 a  cd
+b
+
+b
+2  b  a
+#3  a
+x  b
+#2  a
+x   c
+#3  a c
+x   b
+x   c
+x  a
+#3  b
+x  d
+x a
+x c
+b
+#2 da c
+x a
+2  b
+#3 c
+x d
+#2 b  a
+x  d
+2  a
+#3 a
+x b
+b
+2 a   d
+#3   c
+x   e
+#2   c
+x  d a
+#2   bc
+x  bc
+x  a
+x a b
+b
+#2   c e
+x b  a
+x  d  c
+x   b
+#2 a
+x b c a
+x  a a
+x ab c
+b
+
+b
+#3    d
+x a
+#2  d
+x  bac
+#3  a   /a
+x   c
+#3  b
+x  a
+x      /b
+x   c
+#2 aa   /a
+x   b
+b
+#2  bc
+x     a
+#3 a
+x     c
+x     d
+x    a
+#3 d  c
+x    e
+x   a
+x    c
+#3 f  e
+x   a
+x   c
+x d
+b
+#3 a
+x c
+2 da
+#3  b
+x c
+x a
+x   e
+#3   c
+x   a
+2  dc
+#3  b
+x  d
+2 a b
+b
+
+b
+#3  bc
+x  a
+x  b
+x  d
+#4 a
+x c
+x d
+x c
+#4 d
+x c
+x a
+x c
+2 df c
+#3c
+x    e
+#3   a
+x   c
+xf  e
+x  c
+b
+#3  d
+xd
+xc
+x  f
+#3d
+x  d
+x   f
+x   e
+3aa f
+#4 c
+x d
+#3 c
+x a
+2cc e
+#3  d
+x   c
+b
+#3   a
+x  a
+x  f
+x    c
+#2a   e
+xc e  c
+#2 dff d
+xa b  a
+#3  de c
+x     e
+x c  a
+xa
+b
+1ca bc
+1da c a
+2cf ec
+#3 e
+x c
+#2 e
+x  d
+b
+Yaac  a
+b
+b
+
+e

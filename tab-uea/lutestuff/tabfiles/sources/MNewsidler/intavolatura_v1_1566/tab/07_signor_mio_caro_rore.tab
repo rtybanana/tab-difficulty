@@ -1,0 +1,637 @@
+-C
+-t
+-f
+{7. Signor mio caro/Melchior Newsidler}
+b
+c
+0   c
+#3 a c
+x   b
+x   c
+x  a
+#3  c
+x  a
+#4  c
+x  a
+x  c
+x  d
+b
+1 af
+1  c
+#3acd
+x e
+x c
+x e
+#3a
+xc
+xe
+xf
+b
+#2h  g
+x e
+2 ea  h
+#3  h
+x e
+#2hf gh
+xf
+2e fc
+#3c
+xe
+b
+
+b
+#3ffh  f
+x k
+x h
+x k
+#3f
+x h
+x k
+xf
+#3eff  a
+xc
+x f
+x e
+#3 c
+x e
+#4 f
+xc
+xe
+xf
+b
+#3e  c
+xc
+#4e
+xc
+xe
+xf
+1ha
+2fc
+#3ea
+xc
+#2ac
+xce
+b
+2ef
+#3c
+xe
+1ce
+2 a  c
+#3  d
+x a
+2  d e
+#3  c c
+x  a
+b
+#2   ce
+x  ab
+2  cc
+#3  a
+x  c
+1  ab
+1 acc
+b
+
+b
+#3 cd a
+x a
+x c
+x e
+#3a   a
+x e
+xa
+xc
+#2acd a
+x e
+xac c
+x a   e
+b
+1ac  a
+1 dfec
+2 cfe c
+#3  e
+x  c
+#3  fe
+x  e
+#4  f
+x  e
+x  c
+x  e
+b
+#3 ac
+x c
+x d
+x c
+#3 a c
+x  d
+x  c
+x  a
+#2  c  a
+x  d
+2aac
+#3  a
+x   c
+b
+2 e ec
+#3 c
+x e
+1a cce
+2 ffec
+#3 e
+x c
+2 e e
+#3   c
+x   e
+b
+
+b
+2aacc
+#3  a
+x  c
+1 cd
+#3aa c
+x  d
+x  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+#3  d
+x  c
+x  a
+x  c
+#3  d
+x a
+2 c  a
+#2 a   e
+x  c
+x  de c
+x a
+b
+#2 c  a
+x    c
+x   ce
+x    a
+#2  aac
+x    e
+1c da
+b
+#2    a
+x a
+xac
+x  d
+#3 df
+x c
+x d
+xa
+#3cd
+xa
+xc
+xe
+b
+#2c d
+xe
+xfc  a
+xc
+#2e  c
+xf   e
+xha a
+x    h
+b
+
+b
+#2 d e
+xfc
+2fc
+#3  f
+x  d
+2f fc
+#3e
+xc
+#3f
+xe
+#4f
+xe
+xc
+xe
+b
+1fc  a
+2   c
+#3 a
+x c
+#2 a   e
+x  c
+x  d  c
+x a
+b
+#2 cd a
+x    c
+xa  ce
+x c  a
+#2 dfec
+xa d e
+xc da
+x a
+b
+#2ac  a
+xf
+xe  c
+xa   e
+#2cdfa
+xa cc
+x cde
+#3 ef
+x  d
+b
+#3aadc
+x  c
+#4  d
+x  c
+x  a
+x  c
+#2 cd
+x    a
+#2 c c
+x    e
+x dfa
+x   c
+b
+
+b
+#2  de
+x cc
+x   c
+x a
+#2 aab
+x   c
+xca  c
+x   b
+b
+#3ea c a
+xc
+xa
+xc
+#3e
+xf
+2ha
+#3ac
+x a
+x c
+x e
+#3af
+xc
+2e
+b
+#3c d
+xa
+xc
+xe
+#3fc
+xc
+xe
+xf
+#3  f
+xf
+xe
+xc
+#3f
+xe
+#4f
+xe
+xc
+xe
+b
+
+b
+2f d
+#3e
+xc
+#3a
+x d
+x c
+x a
+#3acd
+x a
+x  d
+x a
+#3 c
+x e
+xa
+xc
+b
+#3effc
+xc
+x f
+x e
+#3 c
+x e
+#4 f
+xc
+xe
+xf
+#3effc
+xc
+xf
+xe
+#3fffc
+xe
+#4f
+xe
+xc
+x f
+b
+#3cef c
+x c
+x  f
+x  e
+#3  c
+x  e
+#4  f
+x c
+x e
+x f
+1cef c
+2a c e
+#3c
+xe
+b
+
+b
+#3ffh  f
+x  i
+x f
+x h
+#3 f
+x  i
+#4 f
+x  i
+x  h
+x  f
+#2ffh
+x  i
+#3ef  e
+x d
+x c
+x  f
+b
+2c def
+#3a
+xc
+1a dce
+2 df c
+#3  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+#3 cdca
+x d
+xa
+xc
+#3a
+x d
+#4a
+x d
+x c
+x a
+1 cd
+1 dfec
+b
+1  f
+1 dff d
+1 dff
+1 dfec
+b
+
+b
+#2     c
+x df
+x cee
+x ac
+#3 ce  c
+x  f
+x  e
+x  c
+#3  f
+x  e
+#4  f
+x  e
+x  c
+x  e
+b
+#2 ac
+x  d
+x  cc
+x  a
+#3  c  a
+x  a
+#4  c
+x  a
+x  c
+x  d
+#2 acc
+x     a
+b
+1 aabc
+#2  cce
+x  e
+2 aacc
+#3   b
+x    e
+#3   c
+x   b
+#4   c
+x   b
+x    e
+x   b
+b
+
+b
+#3 acc a
+x c
+x d
+x c
+#3 a
+x  d
+#4 a
+x  d
+x  c
+x  a
+#3  cc a
+x  e
+x a
+x c
+#3 e
+x a
+x c
+x e
+b
+#3aacc
+x   a
+x   c
+x   e
+#3   c
+x   a
+x    e
+x    c
+#3 cd a
+x d
+xa
+xc
+#3a
+x d
+#4a
+x d
+x c
+x a
+b
+#2 c ca
+x e
+xacd a
+xc
+2acc e
+#3 e
+xa
+1cef c
+b
+
+b
+#3effc
+xc
+x f
+x e
+#3 c
+x e
+#4 f
+xc
+xe
+xf
+2effc
+#3c
+xe
+1fc ce
+b
+1c def
+1acc e
+#2f de
+x  f
+2 cd
+#3 dc
+x  a
+b
+#2effc
+xf
+xh fg
+x f
+1ff h
+#3cff
+x e
+#4 f
+x e
+x c
+x e
+b
+1ef c
+2 a c e
+#3  d
+x a
+#3  dca
+x  c
+2  d
+#3  abc
+x   c
+2  a
+b
+
+b
+#2  cc a
+x  d
+x acc
+x c
+#3c da
+xa
+#4c
+xa
+xc
+xd
+#2c  a
+xa   e
+b
+#2 da c
+x  c
+2 cd a
+#3 a
+x c
+2 adc
+#3  c
+x  a
+#3 ad
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+#3 cd a
+x a
+x c
+x e
+#3a
+x e
+#4a
+x c
+x e
+xa
+2c d
+#3a
+xc
+#3aac
+x c
+x e
+xa
+b
+2 f e
+#3 e
+x c
+1 ef c
+1a dce
+#2 cc
+x    c
+b
+
+b
+#2  a a
+x   c
+1 a c e
+2c dc c
+#3   b
+x    e
+#3   c
+x   b
+#4   c
+x   b
+x    e
+x   b
+b
+2 adc a
+#3  c
+x  d
+#3 a
+x  d
+#4 a
+x  d
+x  c
+x  a
+Y acc a
+b
+b
+
+e

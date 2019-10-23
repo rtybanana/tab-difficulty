@@ -1,0 +1,333 @@
+-C
+-t
+-f
+{Lacrimosa/Lacrimosa}
+b
+c
+0 cdca
+#1 cdca
+x cdca
+b
+0. acc a
+1  a
+b
+#1 acc a
+x  d
+x a
+x c
+b
+0. dff d
+1 dff d
+b
+0 cdca
+0  d  c
+b
+#1     a
+xa ac
+x   c
+x     a
+b
+waa c a
+b
+w cdca
+b
+#1 cdca
+xa
+x d
+x c
+b
+#1     a
+xaac
+x   c
+x  d
+b
+
+b
+1aac  a
+#2   c
+x  a
+#2  c
+x  d
+x a
+x c
+b
+0. dff d
+1 dff d
+b
+#2 cdca
+xa
+xc
+xa
+#2 d
+x c
+x a
+x  d
+b
+#1     a
+xaac
+x   c
+x     a
+b
+waac  a
+b
+wacd a
+b
+0acd a
+0acd a
+b
+0.cdda
+1a
+b
+#1cdda
+xf
+xe
+xc
+b
+#1ea   a
+x   c
+xfc  a
+x  d
+b
+
+b
+1   c
+#2e
+xc
+#1fa c
+xea c
+b
+#1    a
+xfc
+x  d
+x    a
+b
+0.fc  a
+1acd a
+b
+0.acd a
+1acd a
+b
+#2acd a
+x a
+x c
+x d
+#2a
+xc
+xe
+xf
+b
+#2cd a
+x c
+x d
+xa
+#2c
+xe
+xf
+xe
+b
+#2f  a
+xe
+xc
+xa
+#2cd a
+xf
+xe
+xc
+b
+
+b
+#1ea   a
+x   c
+xfc  a
+x  d
+b
+1   c
+#2e
+xc
+#1f  c
+xe  c
+b
+#1    a
+xfc
+x  d
+x    a
+b
+wfcd a
+b
+whd f d
+b
+0hd f d
+0fc ca
+b
+1ea   a
+#2a
+x e
+#2a
+xc
+xe
+xf
+b
+1ea   a
+0   c
+1hd   d
+b
+#1hd   d
+x    f
+x   f
+xhd   d
+b
+
+b
+1fc ca
+#2c
+xe
+#2f
+xc
+xe
+xf
+b
+1ea   a
+#2 e
+x f
+#2eh
+xf
+xh
+xf
+b
+1ea   a
+0. f
+b
+whd f d
+b
+0hd f d
+#1ffh a
+xh
+b
+#1ea   a
+x f
+xh
+xf
+b
+#1ea   a
+x f
+0hd f d
+b
+1.hd f d
+2f
+#2d
+xf
+1h
+b
+#2fc ca
+xe
+xc
+xa
+#2c
+xe
+1f
+b
+
+b
+#2ea   a
+x e
+x  f
+x h
+#2e
+xf
+xh
+xf
+b
+1ea   a
+0 f
+1ea c a
+b
+0fc ca
+0cdda
+b
+0ea c
+0fca
+b
+0cdda
+0ea c
+b
+#1fc  a
+x  d
+xe
+xc
+b
+#1ea   a
+x   c
+xfc  a
+x  d
+b
+1   c
+#2e
+xc
+#1f  c
+xe  c
+b
+#1    a
+xfc
+x  d
+x    a
+b
+0fc  a
+#2ea c
+xc
+1e
+b
+
+b
+#1fc  a
+x  d
+#2cd a
+xa
+1c
+b
+#1ea c
+x     a
+#2fca
+xe
+1f
+b
+#1cd a
+x  d
+#2ea c
+xc
+1e
+b
+#1fc  a
+x  d
+#2h
+xf
+xe
+x h
+b
+#2ef   a
+x e
+x f
+x h
+#2e
+xf
+xh
+xf
+b
+#2ha   a
+xf
+xe
+xc
+#1f    a
+xea   a
+b
+#1    a
+xfc
+x  d
+x    a
+b
+
+b
+Yfc  a
+b
+b
+
+e

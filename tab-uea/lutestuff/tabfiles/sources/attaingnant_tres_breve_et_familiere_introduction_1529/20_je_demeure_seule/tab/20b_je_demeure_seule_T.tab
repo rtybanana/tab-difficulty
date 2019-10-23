@@ -1,0 +1,186 @@
+-C
+-t
+-f
+{20b. Je demeure seule/20b. Je demeure seule}
+b
+c
+1  aa
+#2   a
+x   ce
+1  a c
+1  a c
+b
+1   ce
+1   ac
+1    a
+1    ef
+b
+#2   a
+x   c
+x  aa
+x  bc
+#2  de
+x  aa
+1  bc
+b
+#2  b  d
+x  aa
+x   c
+x   a
+1   ca
+#2    e
+x    c
+b
+#2   a
+x    e
+x    c
+x    a
+#2   ac
+x     d
+x    a
+x    c
+b
+0   ca
+1  da
+#2  d
+x  b
+b
+
+b
+1  aa
+#2    d
+x   c
+#2  a c
+x   a
+1  b c
+b
+#3    a
+x  a
+x   ca
+x   a
+#2   ca
+x   c
+w  aa
+b
+1  aa
+#2   a
+x   ce
+1  a c
+1  a c
+b
+1   ce
+1   ac
+1    a
+1    ef
+b
+#2   a
+x   c
+x  aa
+x  bc
+#2  de
+x  aa
+1  bc
+b
+#2  b
+x  aa
+x   c
+x   a
+1   ce
+#2   e
+x   c
+b
+
+b
+#2   ca
+x   a
+#3   c
+x   b
+x   c
+x  a
+#3   c
+x  a
+x  b
+x  d
+1  b  d
+b
+1   ca
+#2   a
+x    e
+#2    c
+x    a
+x     d
+x    a
+b
+1  a  c
+#2  b  a
+x  a
+#2  b
+x  d
+1  a  c
+b
+1  b  d
+1   ca
+b
+0  def
+1   a
+b
+0  da
+1  da
+b
+0   ca
+1  aa
+b
+1  b  d
+1  b
+#2  a a
+x   c
+b
+c
+1  da
+1  da
+b
+1.   ca
+2   a
+1    a
+#2   a d
+x    a
+b
+
+b
+#2    c
+x    e
+1   ca
+1    ca
+1    c
+b
+1.   ca
+2    c
+#2    e
+x    a
+1     c
+b
+.
+1.   a d
+2   c
+1  a  c
+#2  b  a
+x  d
+b
+#2  b
+x  a c
+1  a c
+1   ca
+1   ca
+b
+A1
+0.  def
+1     c
+.
+b
+b
+A2
+w  def
+b
+b
+
+e

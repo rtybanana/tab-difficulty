@@ -1,0 +1,306 @@
+-t
+-f
+{If my complaints/If my complaints}
+b
+S3
+1 ab  a
+1   c
+1  d
+b
+1 a c a
+1  b
+1 b
+b
+#2 a   a
+xa
+#2 d   d
+x a
+#2  bcd
+x  d
+b
+1 aa c
+#2 aa
+x    a
+#2     e
+x   c
+b
+1 bdca
+1  d  c
+1  ab
+b
+2. abc a
+3     c
+2.aab  d
+3    a
+1 da c
+b
+1  dcd
+#2    c
+x aac
+x   b
+x  d
+b
+
+b
+#2     a
+xaac
+#2   c
+x     a
+1aac
+b
+1 ab  a
+1   c
+1  d
+b
+1 a c a
+1  b
+1 b
+b
+#2 a   a
+xa
+#2 d   d
+x a
+#2  bcd
+x  d
+b
+1 aa c
+#2 aa
+x    a
+#2     e
+x   c
+b
+1 bdca
+1  d  c
+1  ab
+b
+2. abc a
+3     c
+2.aab  d
+3    a
+1 da c
+b
+1  dcd
+#2    c
+x aac
+x   b
+x  d
+b
+
+b
+#2     a
+xaac
+#2   c
+x     a
+1aac
+b
+b
+1 \3da \1c
+#2 a
+x\4d
+#2 \1b  a
+x\3c
+b
+2.\4da\1b  \2d
+3  \3d
+#2 a
+x\3c\4d
+#2a\1b  \3d
+x a
+b
+#2 bdc
+x  b
+2  da
+#3 a
+x b
+#2 d
+x b
+b
+#2     d
+x ab
+#2   a
+x     d
+1 ab
+b
+#2   \2c \3d
+x a
+#2 cd  c
+x \4f
+#2  f c
+x \3e
+b
+#2a  c a
+x  d
+x  b
+x da
+#2 bbc
+x a
+b
+
+b
+1 aaa
+2  bcd
+#3  d
+x  b
+#2  d
+x   c
+b
+#2    c
+x aa
+#2   b
+x      /a
+1 aa
+b
+1 \3da \2c
+#2 a
+x\4d
+#2 \1b  a
+x\3c
+b
+2.dab  d
+3  d
+#2 a
+xcd
+#2ab  d
+x a
+b
+#2 bdc
+x  b
+2  da
+#3 a
+x b
+#2 d
+x b
+b
+#2     d
+x ab
+#2   a
+x     d
+1 ab
+b
+#2   c d
+x a
+#2 cd  c
+x \4f
+#2  \4f c
+x e
+b
+
+b
+#2a  c a
+x  d
+x  b
+x da
+#2 bbc
+x a
+b
+1 aaa
+2  bcd
+#3  d
+x  b
+#2  d
+x   c
+b
+#2    c
+x aa
+#2   b
+x    c
+1 aa
+b
+b
+1 dff
+#2  f
+xd
+#2  d
+xc
+b
+1.dab
+2c
+1abd
+b
+1 ef
+#2ab
+xd
+xc
+xa
+b
+0cef
+1
+b
+#2 ab  a
+xd
+1\2c\4d\3da
+#2    \1c
+xc
+b
+
+b
+#2aabc
+x     a
+x     d
+x    a
+#2 da c
+x a
+b
+#2  bcd
+x  de
+#2 ab c
+x   c
+2. aa   /a
+3  d
+b
+#2     a
+xaac
+#2   c
+x     a
+1aac
+b
+1 dff
+#2  f
+xd
+#2  d
+xc
+b
+1.dab
+2c
+1abd
+b
+1 ef
+#2ab
+xd
+xc
+xa
+b
+0cef
+1
+b
+#2 ab  d
+xd
+1cdda
+#2    c
+xc
+b
+
+b
+#2aabc
+x     a
+x     d
+x    a
+#2 da c
+x a
+b
+#2  bcd
+x  de
+#2 ab c
+x   c
+2. aa   /a
+3  d
+b
+#2     a
+xaac
+#2   c
+x     a
+1aac
+b
+b
+
+e

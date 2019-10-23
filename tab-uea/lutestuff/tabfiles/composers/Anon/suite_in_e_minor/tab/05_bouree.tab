@@ -1,0 +1,90 @@
+-C
+-t
+-f
+b
+c
+#2 c
+x b
+b
+1 c    //a
+1  c
+1  d  a
+#2 a&,    /a
+x  d
+b
+1  c&,   a
+1    a
+1  cc
+1 c    a
+b
+1 b&,    /a
+1 c    //a
+1b&,   b
+1c /  c
+b
+
+b
+1b&,     4
+1     c
+1bbc
+b
+#2  c
+x  d
+b
+1 ac   a
+#2  d  U
+x  c  X
+1  d  a
+#2  c  U
+x  a  X
+b
+1  c   a
+#2  d
+x  c
+1  a&,   /a
+1 a
+b
+
+b
+1  d  a
+#2  c&,   a
+x  a
+1.  a&,   ///a
+#3   c
+x  a
+b
+1   c
+1      a
+1  cc
+b
+1c   c
+b
+1b&,   a
+1     c
+#2 c   d
+x     c
+x     a
+x      a
+b
+#2      /a
+x  a
+x a
+x  d
+1  c&,   a
+1 c
+b
+
+b
+1 b&,   a
+#2 c
+xb
+1. b&, b c
+2 b
+b
+1 c
+1      //a
+1 ccc
+b
+b
+P
+e

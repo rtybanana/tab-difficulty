@@ -1,0 +1,249 @@
+-C
+-t
+-f
+{Disperate speranza/Disperate speranza}
+b
+w   a  a
+w    d /a
+w     d4
+b
+b
+w.
+w.abd a
+b
+0 db c
+0 bbdd
+0   c
+0\1b\4d\3d \2d
+wbdb c
+b
+0a b d
+w      /a
+wbdd   a
+0aac  a
+b
+0a d  b
+w d
+0 db  a
+w b
+b
+0 da   a
+0 b a
+0 a  d
+w dd c
+0a c  a
+b
+0 \1b&{ \2ca
+0ab&}\4d
+0\2c
+0 ab
+wa
+b
+w  \3d\2d
+0 \4e
+waabc
+0 b   a
+b
+
+b
+0 dd  b
+0\1b b \3d
+0a
+w\1bb   \3d
+0 a
+b
+0a\1bb d
+wcbd a
+0\4da   \3d
+wd\2c\1b  a
+b
+w.bdd   a
+0aad  a
+w  c
+b
+0 b ca
+w  d
+w.aab
+b
+w fdd
+0 d
+w.aabc
+b
+w.a b d
+w.cdda
+b
+w.\4ea \1c&{
+0f\2d d
+0   c&}
+0\1ba\3d&{a
+b
+wabdc
+0aac  a
+w. bdca
+b
+w.abd
+0 b ca
+w db c
+b
+wa b d
+wbbd  b
+wa b d
+b
+0a b d
+w db c
+0a b d
+wa\1bb  a
+b
+
+b
+w.bbd  b
+w dg  d
+0  f
+b
+w.abb d
+w.abb  d
+b
+0a b d
+w \2d\4f&{  \1d
+0 \1bd&}a \3d
+w dd  c
+b
+w ab  d
+0 \2b&{\4d  \1b
+0 c&}\1b  a
+0 \4d&{b a a
+0   \3d
+b
+wad\3d a ///a
+0 \2c
+0cdd   a
+wcd&Uda
+b
+0
+wa dfe
+0 dba
+0  a
+0    d
+b
+0 dc c
+w cdca
+0 da   a
+w ac  a
+b
+w bdca
+w a c d
+w  da b
+b
+0  \3c\2cca
+waa\1b
+w\4da   \3d
+0a\1bb a
+b
+
+b
+w ea c
+0abb a
+0cad c
+0a
+0  b
+b
+waaa c
+0 e    //a
+w.aac  a
+b
+w.aaccca
+w.baca
+b
+waacc
+0a b d
+wca a
+0ea c
+b
+w.fddd
+wea c
+0db cd
+b
+w.cdda
+0aacc
+wab  a
+b
+waadc
+0  c  a
+0 cdca
+wabd a
+b
+0dd  c
+0 bbdd
+0   c
+0\1b\4d\3d \2d
+wbdb c
+b
+0a b d
+w      /a
+wbdd   a
+0aac  a
+b
+0a d  b
+w d
+0 db  a
+w b
+b
+
+b
+0 da   a
+0 b a
+0 a  d
+w dd c
+0a c  a
+b
+0 \1b \2ca
+0ab\4d
+0\2c
+0 ab
+wa
+b
+w  \3d\2d
+0 \4e
+waabc
+0 b   a
+b
+0 dd  b
+0\1b b \3d
+0a
+w\1bb   \3d
+0 a
+b
+0a\1bb d
+wcbd a
+0\4da   \3d
+wd\2c\1b  a
+b
+w.bdd   a
+0aad  a
+w  c
+b
+0 b ca
+w  d
+w.aab
+b
+w fdd
+0 d
+w.aabc
+b
+w.a b d
+w.cdda
+b
+w.\4ea \1c&{
+0f\2ddd
+0   c&}
+0\1ba\3d&{a
+b
+
+b
+wabdc
+0aac  a
+Y. cdc  ///a
+b
+b
+
+e

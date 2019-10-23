@@ -1,0 +1,319 @@
+-C
+-t
+-f
+{Le corps absent/Le corps absent}
+b
+c
+w   c
+b
+0. abc a
+1  a
+b
+1 abc a
+1   a
+0   c
+b
+0 daac
+0  a
+b
+1 cd a
+1   c
+1   c
+1  b
+b
+1 aa c
+1   c
+0  ab
+b
+0 abc
+0     a
+b
+1aab
+1     c
+1     d
+1    a
+b
+1 dfec
+1    e
+1  da
+1a b
+b
+0cdda
+0ddf  d
+b
+1 dfa
+1c
+0cdda
+b
+
+b
+1.cabc
+2a
+#2c
+xa
+x e
+xa
+b
+1  fec
+#2 e
+x f
+1 e
+1 c
+b
+0 ea c
+0ca
+b
+0d bc
+0c def
+b
+0 dffc
+0   e
+b
+0   a
+0 ddef
+b
+1 dde
+1    e
+1  b c
+1a
+b
+0ccd a
+0ddf  d
+b
+1     d
+1ccd
+1aab  d
+1 da
+b
+1 cdca
+1 d
+0a dcd
+b
+
+b
+1.  fec
+2 e
+#2 f
+x e
+#3 f
+x e
+x c
+x e
+b
+0a  c a
+0da  c
+b
+0c da
+1a   a
+1  b
+b
+0 da c
+0 dffc
+b
+0 ddef
+1 cdca
+1  b
+b
+0 aaac
+1 a
+1   a
+b
+0 da c
+1  f
+1a  f
+b
+0ccd
+0ddf  h
+b
+1   a
+1c
+1cdd
+1   c
+b
+1 c e
+1  a
+0a ff
+b
+1.ccfe
+2  e
+#2  f
+x  e
+x  c
+x  e
+b
+
+b
+0ca  c
+1
+1  a
+b
+0 ab c
+0c a
+b
+0da c
+0c  ac
+b
+0a  cd
+0 dfec
+b
+0abd a
+1    a
+1 ab
+b
+0c def
+1  a
+1    d
+b
+0 dffc
+1     d
+1  de
+b
+1a bcd
+1  a
+1  b
+1 d  c
+b
+1. bd a
+2  a
+#2  b
+x  a
+x   c
+x  a
+b
+0 aba d
+0 d
+b
+0 cd a
+0 daac
+b
+0 abc a
+0  aac
+b
+
+b
+0  aac
+0 dffc
+b
+0a   e
+0c def
+b
+0 abc
+1d  cd
+1  d
+b
+1 a  c
+1 c
+0cd a
+b
+1d bc
+1  a
+1aabc
+1  d
+b
+1 dff
+1 c
+1cd a
+1  d
+b
+1 abc
+1a
+1a ded
+1   c
+b
+1. aa c
+2 e
+#2 f
+x e
+x c
+x e
+b
+0aa c a
+0d b
+b
+1c d
+1a
+1  f  d
+1 d
+b
+
+b
+1 c ca
+1  d
+1 daac
+1  a
+b
+0 abc a
+0  aac
+b
+0  aac
+0 dffc
+b
+0a   e
+0c def
+b
+0 abc
+1d   d
+1  d
+b
+1 a  c
+1 c
+0cd a
+b
+1d bc
+1  a
+1aabc
+1  d
+b
+1 dff
+1 c
+1cd a
+1  d
+b
+1 abc
+1a
+1a ded
+1   c
+b
+1.  fec
+2 e
+#2 f
+x e
+x c
+x e
+b
+0a bc a
+0   c
+b
+
+b
+0 ab  a
+1   c
+1  a
+b
+1 abc a
+1   a
+0   c
+b
+0 daac
+0  aa
+b
+1 cd a
+1   c
+0   c
+b
+1 aa c
+1   c
+0  ab
+b
+0 acc a
+0 acc
+b
+0 bdca
+1  c
+1  a
+b
+Y acc a
+b
+b
+
+e

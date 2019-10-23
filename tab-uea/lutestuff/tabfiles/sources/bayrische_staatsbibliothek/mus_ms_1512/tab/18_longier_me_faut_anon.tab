@@ -1,0 +1,218 @@
+-C
+-t
+-f
+{18. Longier me faut/Anonymous}
+b
+c
+0 ab
+1 a
+1  b
+b
+.
+0  b d
+#2  bc
+x  d
+x a
+x  b
+b
+0  da
+1
+1  da
+b
+1 ab
+1   c
+#2 bd
+x d
+xa
+x b
+b
+#2 db
+xa
+x d
+x b
+#2 ab
+x  d
+x b d
+x d
+b
+#2 b c
+x a
+x  d
+x  b
+1  da
+1  da
+b
+A1
+0  b  d
+1 a
+1  b
+.
+b
+b
+
+b
+A2
+0  b  d
+1
+1  b
+b
+1  b
+1 d
+1d  c
+#3f
+xd
+xc
+xa
+b
+0c  a
+1 d
+1  b
+b
+1  b
+#2 db
+x  a
+1d  c
+#3f
+xd
+xc
+xa
+b
+0c  a
+1 d
+1a   d
+b
+1a b
+1 d
+2 bd
+#3 a
+x b
+#3 d
+x b
+x a
+x  d
+b
+1 ab
+1 a
+1  d
+1 db
+b
+
+b
+1 bd
+#2 aa
+x  d
+1 a c
+1 a c
+b
+0  d a
+1
+1  d
+b
+0 db
+0 db
+b
+1a   d
+1 db
+1 bd
+1 db
+b
+#2 d
+x b
+x aa
+x  d
+1  bc
+1  bc
+b
+w  def
+b
+0 ab
+1 a
+1  b
+b
+0  b d
+#2  bc
+x  d
+x a
+x  b
+b
+0  da
+1
+1  da
+b
+
+b
+1 ab
+1   c
+1 bd
+#3 d
+x b
+x a
+x  d
+b
+#2 db
+xa
+x d
+x b
+#2 ab
+x  d
+x b d
+x d
+b
+#2 b c
+x a
+x  d
+x  b
+1  da
+1  da
+b
+w ab  d
+b
+0 ab
+#2 ab
+x  d
+x  b
+x  a
+b
+#2  b d
+x  a
+x  b
+x  d
+#2  bc
+x  d
+x a
+x  b
+b
+0  da
+1
+1  da
+b
+
+b
+1 ab
+1   c
+#2 bd
+x d
+xa
+x b
+b
+#2 db
+xa
+x d
+x b
+#2 ab
+x  d
+x b d
+x d
+b
+#2 b c
+x a
+x  d
+x  b
+1  da
+1  da
+b
+w ab  d
+b
+b
+
+e

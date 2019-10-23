@@ -1,0 +1,132 @@
+-C
+-t
+-f
+{7. Double/Johann Gumprecht}
+b
+#2 af
+x a
+#2  e
+x a
+#2    a
+x    c
+b
+#2    d
+x   c
+#2  a
+x a
+#2   c
+x c
+b
+#2 c e
+x d
+#2 c&'
+x a
+#2  e  a
+x   c
+b
+
+b
+#2 a  a
+x    c
+#2    d
+x    a
+#2    c
+x  d
+b
+#2  da
+xa
+#2c
+xe
+#2   c
+xc
+b
+#2c  e
+x c
+#2e
+xc
+#2a f
+x  d
+b
+2a b
+#3  bU
+x  aX
+#2   c
+xc
+#2 a
+xa
+b
+
+b
+#2 c
+x   e
+#2  e
+x c
+1     a
+.
+b
+b
+.
+#2   e
+x  c
+#2  e
+x a
+#2 c   a
+x  e
+b
+#2    a
+x a
+#2   a
+x a
+#2  d c
+x  b
+b
+#2    d
+x   c
+2  a
+#3     a
+x  a
+#2   c b
+x   c
+b
+
+b
+#2   c d
+x      4
+#3   cU
+x   aX
+x    cU
+x    aX
+#2     d
+x     b
+b
+#2     a
+x   a
+#2  d
+x a
+#2  b&'   a
+x   c
+b
+#2      /a
+x  a
+#2   a
+x  c
+#2  e   //a
+x   c
+b
+#2      ///a
+x    d
+#2 a
+x     a
+2    c
+#3 a&'
+x  e
+b
+
+b
+1 af
+0      ///a
+.
+b
+b
+P
+e

@@ -1,0 +1,378 @@
+-C
+-t
+-f
+{Contrapunto XXIV/Contrapunto XXIV}
+b
+c
+0  a
+1  a
+1    e
+b
+1   c
+1  a c
+1   ac
+1     c
+b
+1    ef
+1   ac
+#2    cd
+x    e
+x   a
+x   c
+b
+#2  a  c
+x  b
+x  d
+x  a
+1  b  a
+#2 a
+x     c
+b
+#2 a   d
+x    a
+#3  a c
+x    e
+x   a
+x    c
+1  d e
+1 a a
+b
+1  bc
+1    c
+1  d c
+1 d   a
+b
+
+b
+1 c  a
+1 d  c
+#2     d
+x c
+1 a
+b
+#2     c
+x a
+1  da
+#2    e
+x  d
+1  da
+b
+#2    c
+x  b
+1  aa
+2   c
+#3    e
+x    c
+1  d e
+b
+1  aa
+1 d  c
+1 c  a
+1 d  c
+b
+#2   a
+x c
+1 a c
+2    e
+#3  e
+x  c
+1  e
+b
+1 a  c
+1  a
+1  a
+1    ef
+b
+1   c
+1    cd
+1   a c
+#2    e
+x     d
+b
+
+b
+#2    a
+x   a
+x   c
+x     d
+#2     a
+x  a
+x  b
+x  d  c
+b
+#2 a   d
+x    a
+x a  c
+x    e
+1  aa
+#2  d
+x    e
+b
+#2   a
+x a
+1  bc
+1  a
+1   a
+b
+1   c
+1  d e
+1  aa
+1    c
+b
+1  b c
+2  d  c
+#3  b
+x  a
+#2   ca
+x  a
+1  b c
+b
+#2     d
+x  a
+1   c
+1     c
+#2   a
+x     d
+b
+
+b
+#2    ef
+x   a
+2   c
+#3  a  d
+x     c
+#2  b  a
+x  d  c
+1 a   d
+b
+#2     a
+x  d
+1  bc
+1  a
+1 a a
+b
+#2  d
+x    e
+1  aa
+1    c
+1  b
+b
+#2    d
+x  a
+1   c
+1  b c
+1  a
+b
+1  bc
+1    c
+1  a
+1  a b
+b
+1   bc
+1   c e
+#2     f
+x    e
+1  a
+b
+1     d
+1 a
+1 c
+1 d   c
+b
+1     d
+#2 c
+x a
+1 d   c
+#2 c
+x     d
+b
+
+b
+#2    a
+x a
+x  d e
+x  b
+#2  aa
+x    e
+x a  c
+x    a
+b
+2 a   d
+#3     c
+x     a
+#2  a   a
+x     a
+#2  d  c
+x      a
+x a
+x     a
+b
+#2  b
+x     c
+x     d
+x    a
+#2  a c
+x    e
+x  aa
+x    c
+b
+#2    c
+x  b
+2  d  c
+#3  b
+x  a
+#2   ca
+x  a
+x    c
+x   a
+b
+#2     d
+x d
+x c
+x a
+#3  d  c
+x  b
+x  a
+x   c
+#2   a
+x     d
+b
+
+b
+#2    ef
+x  a
+x     d
+x   c
+#2     c
+x   bc
+x   c a
+x    ef
+b
+#2    c
+x   c e
+x    a
+x  cc
+#2  a
+x a b
+x   c
+x  e e
+b
+#2 a  c
+x d
+x c
+x    b
+#2    c
+x a a
+x   c
+x  de
+b
+#2  b
+x   c
+x  a
+x a a
+#2   c
+x  de
+x  bc
+x    e
+b
+#2  aa
+x     c
+x    a
+x    c
+#2     d
+x a
+x a   c
+x  a
+b
+
+b
+#2  d
+x a   d
+#3  b  a
+x     c
+x     d
+x    a
+#2  a c
+x d
+x d
+x c  b
+b
+#2    c
+x a a
+x  da
+x    e
+#2    c
+x  b
+x  b a
+x  aa
+b
+#2   cf
+x  d e
+x    c
+x d
+#2 d  a
+x c  a
+x a
+x     d
+b
+#2  d  d
+x     c
+x     a
+x  b c
+#2  b e
+x  aa
+x   cf
+x  d e
+b
+#2 a  c
+x d
+x   a
+x c c
+#2  a
+x a f
+x  d
+x da
+b
+
+b
+#2   c
+x c
+x   a
+x a c
+#2    e
+x  e
+x a  c
+x  a
+b
+#2  a
+x    ef
+x   c
+x  a  c
+#2     d
+x a
+x a   c
+x  d
+b
+#2  a a
+x  d  c
+x  b c
+x    e
+#2  aa
+x    c
+x    c
+x  d  c
+b
+#2   c f
+x    e
+x   ac
+x  a
+2     d
+#3   c
+x   a
+1   c
+b
+w  a  c
+b
+b
+
+e

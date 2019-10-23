@@ -1,0 +1,172 @@
+-C
+-t
+-f
+{65. Preambel 3/65. Preambel 3}
+b
+c
+0 ab  d
+1 aaa
+1  bc
+b
+1 a
+1  aa
+0 abc
+b
+1 a ac
+#2    c
+x    e
+1 aaa
+1  bc
+b
+1 a
+1 cde
+0 dff
+b
+0 aaa
+0 abc
+b
+1 a  c
+1  b
+1  a a
+1   c d
+b
+1     c
+1   b
+1   c a
+1da
+b
+1d
+1da
+1c d
+1a b
+b
+1  a
+1 e
+1a  c
+1  b c
+b
+
+b
+1  b
+1  b c
+1  a a
+1   c d
+b
+1     c
+1   b
+#2   c a
+x  a
+x  b
+x  d
+b
+1 a a
+1 c c
+#2 c
+x a
+1 a a
+b
+1    e
+1  e
+#2 a  c
+x c
+x d
+xa
+b
+1c d
+1da
+#2da
+xc d
+1a b
+b
+1   e
+1 e
+1a  c
+1  b
+b
+1  a a
+1  b c
+#2  b c
+x  a a
+1   c d
+b
+
+b
+1     c
+1   b
+#2   c a
+x  a
+x  b
+x  d
+b
+#2 a
+x c
+x d
+xa
+1c d
+1da
+b
+#2da
+xc d
+1a b
+1  a
+1 e
+b
+0a  c
+0 abc
+b
+0 aaa
+1 a   d
+1 b  a
+b
+#2 b
+x a
+x  d
+x  b
+1  d
+1  a
+b
+0  bc
+0  aa
+b
+1  b c
+1  d d
+#2    d
+x    c
+x    a
+x     d
+b
+
+b
+1  b a
+1  a
+#2 ab  d
+x  d
+x a
+x c
+b
+#2 d
+xa
+xc
+xd
+1c da
+1d bc
+b
+#2d
+xc
+1a  cd
+1  a c
+1 e
+b
+Ya  c a
+b
+1
+1 ab  a
+1 b  a
+1 a   d
+b
+0 b  a
+Y ab  a
+b
+b
+
+e

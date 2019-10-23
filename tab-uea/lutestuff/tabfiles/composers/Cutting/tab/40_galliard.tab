@@ -1,0 +1,451 @@
+-C
+-t
+-f
+{Galliard 40/Galliard 40}
+b
+1abd a
+1f
+#2da c
+xc
+b
+1abd
+#2  b
+x  a
+#2da c
+x d
+b
+#2abd
+x a
+#2fc e
+x a
+#2 c
+x e
+b
+#2df   a
+xcd
+#2ab
+x df
+#2 bd a
+xa
+b
+
+b
+#2 a   d
+x  d  c
+#2ha g a
+x f
+#2   g a
+x  i
+b
+1ffg a
+#2dd  c
+xc
+1abb d
+b
+#2 dfa
+x bd
+#2 adc
+x   a
+#2 acc
+x     a
+b
+#2    a
+x cd
+#2   c
+x d
+1 cdca
+b
+b
+2abd a
+#3c
+xd
+2f
+#3d
+xf
+#2da c
+xc
+b
+
+b
+2abd
+#3  b
+x  d
+#2  b
+x  a
+#2da c
+x d
+b
+#2abd
+x a
+2fc e
+#3  d
+x a
+#3 c
+x a
+x c
+x e
+b
+#3df   a
+xf
+xc
+xd
+#3a
+xc
+x d
+xa
+#2 bd a
+xa
+b
+#2 a   d
+x  d  c
+#2h  g a
+x f
+#2   g a
+x  i
+b
+
+b
+#3f   a
+xi
+xh
+xf
+#3d   c
+xf
+xc
+xd
+#3a   d
+xd
+xc
+xa
+b
+#3 d a
+xa
+x b
+x d
+#3 a c
+x  d
+x  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+2  d a
+#3  a
+x  c
+#3  d
+x a
+#4 c
+x a
+x c
+x d
+1 cdca
+b
+b
+
+b
+1 acc
+#2a d d
+x   c
+#2 da c
+x  c
+b
+#2 bd a
+x    c
+#2  bcd
+x  d
+#2 aba d
+xd
+b
+#2ab  a
+xcd
+#2ea   a
+xfb
+#2  d
+xe f
+b
+#2ffg a
+xh
+#2i
+x     h
+#2dfg d
+xf
+b
+#2hd f d
+x  g
+#2 d
+xda  c
+#2fb  a
+x d
+b
+
+b
+1dff  a
+1cf  c
+#2 e
+x  d
+b
+2aac  a
+#3 d
+x b
+#3 a
+x  d
+x  c
+x  a
+#3   c
+x  a
+x  c
+x  d
+b
+#2     a
+xaac
+#2   c
+x  d
+1aac  a
+b
+b
+
+b
+2 acc
+#3 b
+x d
+#3a   d
+x  d
+x   c
+xa
+#3 d  c
+x  a
+x  c
+x d
+b
+#2 bd a
+x    c
+#3  b d
+x  a
+x  b
+x  d
+#3 aba d
+x  d
+x a
+x d
+b
+#3 b  a
+x d
+xa
+xc
+#3e    a
+x h
+xe
+xf
+#3h
+xf
+xh
+xe
+b
+
+b
+#3f    f
+x i
+xf
+xh
+#2i
+x     h
+#3d   d
+x h
+xd
+xf
+b
+#3h    d
+x  d
+x  f
+x  g
+#2 d
+xda  c
+#3fb  a
+x a
+x b
+x  d
+b
+#3d    a
+xc
+xd
+xa
+#3c   c
+x e
+x f c
+x c
+#3 e e
+x f
+x  d
+x e
+b
+
+b
+#3a    a
+xc
+xd
+xa
+#3b
+x d
+xa
+x b
+#3 d
+x a
+x b
+x  d
+b
+#2     a
+xaac
+#2   c
+x  d
+1aac  a
+b
+b
+#2  dca
+x a
+#2 b
+x    c
+#2f   d
+x   a
+b
+2.aabc
+3c
+#2da
+x   e
+#2 dff
+xa
+b
+#2bdda
+x   c
+#2 bdd
+x a
+#2 b
+x d
+b
+
+b
+1.aacc
+2 d
+#2fb  a
+x a
+b
+#2  da
+xc
+#2c
+x    d
+#2 d  c
+x    a
+b
+#2d    d
+x b
+#2 a
+xc d
+1a b d
+b
+1 ddd
+1aadc
+#2  c
+x d
+b
+#2    a
+x cd
+#2   c
+x d
+1 cd a
+b
+b
+
+b
+#3  dca
+x  b
+x  d
+x a
+#2 b
+x    c
+#2f   d
+x   a
+b
+#3a  c
+x d
+xa
+xc
+#2da
+x   e
+#2 dff
+xa
+b
+2b  a
+#3a  c
+x d
+#3 b d
+x a
+x  d
+x a
+#3 b
+x a
+x b
+x d
+b
+
+b
+#3a  c
+x d
+xa
+xb
+#2a
+x d
+#2fb  a
+x a
+b
+#3  da
+xd
+xc
+xa
+#2c
+x    d
+#2 db c
+x    a
+b
+#3d    d
+x b
+x a
+x  d
+#2 a
+xc d
+#3a   d
+xd
+xc
+xa
+b
+
+b
+#3 d d
+x b
+x a
+x  d
+#3a  c
+xc
+xd
+xc
+#3a    a
+x d
+x c
+x a
+b
+2 cd a
+#3  a
+x  c
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+1  d
+b
+b
+
+e

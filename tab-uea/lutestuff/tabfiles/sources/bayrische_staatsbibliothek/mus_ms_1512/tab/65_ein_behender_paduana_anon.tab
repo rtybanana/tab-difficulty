@@ -1,0 +1,357 @@
+-C
+-t
+-f
+{65. Ein behender Paduaner mit Straiffen/Anonymous}
+b
+#2  d
+x a
+#3 b
+x a
+x b
+x d
+b
+.
+#2 bbcd
+x a
+x b
+x d
+#2a
+x d
+x b
+x a
+b
+#2 bbcd
+x a
+x b
+x d
+#2a
+xc
+xd
+xa
+b
+#2 abacd
+x  a
+x  b
+x  d
+#2 a
+x  d
+x  b
+x  a
+b
+
+b
+#2  bacd
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+x a
+b
+#2 bdca
+x a
+x b
+x d
+#2a
+x d
+x b
+x a
+b
+#2 bdca
+x d
+x b
+x a
+#2 a
+x  d
+x  b
+x  a
+b
+#2  bcca
+x  a
+x  b
+x  d
+b
+#2 a
+x  d
+x  b
+x  a
+b
+#2  bcca
+x  a
+x  b
+x  d
+#2 a
+x b
+x d
+x a
+b
+
+b
+#2 bbcd
+x a
+x b
+x d
+#2a
+x d
+x b
+x a
+b
+#2 bbcd
+x a
+x b
+x d
+#2a
+xc
+xd
+xa
+b
+#2  bacd
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+x a
+b
+#2  bacd
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+xa
+b
+#2 bdca
+x a
+x b
+x d
+#2a
+x d
+x b
+x a
+b
+
+b
+1 bdca
+1  daab
+#3     a
+x  d
+x  c
+x  a
+#2  d
+x  c
+b
+0  dca
+1  d
+1  dca
+b
+A1
+0  dca
+#2  d
+x a
+#3 b
+x a
+x b
+x d
+.
+b
+b
+A2
+w  dca
+.
+b
+b
+
+{65. Ein behender Paduaner mit Straiffen/Anonymous}
+b
+#3  d
+x a
+x b
+x d
+b
+#3 bbcd
+x a
+x b
+x d
+#3a
+x d
+x b
+x a
+#3  d
+x a
+x b
+x d
+b
+#3 bbcd
+x a
+x b
+x d
+#3a
+xc
+xd
+xa
+#3c
+xa
+x d
+x b
+b
+#3 dbacd
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+#3 d
+x b
+x a
+x  d
+b
+
+b
+#3  bacd
+x  a
+x  b
+x  d
+#3 a
+x b
+x d
+x b
+#3 d
+x b
+x d
+x a
+b
+#3 bdca
+x a
+x b
+x d
+#3a
+x d
+x b
+x a
+#3  d
+x a
+x b
+x d
+b
+#3 bdca
+x d
+x b
+x a
+#3 a
+x  d
+x  b
+x  a
+#3   c
+x  a
+x  b
+x  d
+b
+#3  bacd
+x  a
+x  b
+x  d
+#3 a
+x b
+x d
+xa
+#3 d
+x b
+x a
+x  d
+b
+
+b
+#3  bacd
+x  a
+x  b
+x  d
+#3 a
+x b
+x d
+x b
+#3 d
+x b
+x d
+x a
+b
+#3 bbcd
+x a
+x b
+x d
+#3a
+x d
+x b
+x a
+#3  d
+x a
+x b
+x d
+b
+#3 bbcd
+x a
+x b
+x d
+#3a
+xc
+xd
+xa
+#3c
+xa
+x d
+x b
+b
+#3  bacd
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+#3 d
+x b
+x a
+x  d
+b
+
+b
+#3  bacd
+x  a
+x  b
+x  d
+#3 a
+x b
+x d
+x b
+#3 d
+x b
+x a
+x  d
+b
+1. bdca
+2 a
+1  d
+b
+1  daab
+#3     a
+x  d
+x  c
+x  a
+#2  d
+x  c
+b
+1  dca
+1  d
+1  dca
+b
+0.  dca
+b
+b
+P
+e

@@ -1,0 +1,678 @@
+-C
+-t
+-f
+{8. Pavane La Romanesque/8. Pavane La Romanesque}
+b
+c
+0dabacd
+1dabacd
+1     c
+b
+1dabacd
+1    a
+1da  c
+1    e
+b
+0cdda
+1cdd
+1   a
+b
+1cdda
+1cdd
+1ddda
+1cdd
+b
+1aabc
+1     a
+1aabc
+1 ea c
+b
+1aabcca
+1d
+1cab  a
+1a
+b
+1 ea c
+#2 aa c
+x c
+#2 ea c
+xa
+xca  c
+xa
+b
+
+b
+1 ea c
+1 a
+1 aa c
+1    c
+b
+0dabacd
+1dabacd
+1     c
+b
+1dabacd
+1    a
+1da  c
+1    e
+b
+#2cdda
+x c
+x d
+xa
+#2c
+xd
+xf
+xd
+b
+#2c  a
+xa
+x d
+x c
+#2 a a
+x  d
+x  b
+x  a
+b
+1 abcca
+1d
+#2     a
+xd
+xc
+xa
+b
+1 efec
+1 f   d
+1    a
+1 efec
+b
+
+b
+1aa   a
+#2 d
+x c
+#2 a
+x  d
+x  b
+x  a
+b
+1     a
+1aab
+1   c
+1     a
+b
+b
+1da a d
+#2a
+xc
+#2d  a
+xc
+xd
+xf
+b
+#2ha a d
+x  a
+x  b
+x  d
+#2 aba d
+x c
+x d
+xa
+b
+#2c  a
+xd
+xf
+xd
+#2c  a
+xa
+x d
+x c
+b
+
+b
+#2 dda
+xa
+xc
+xa
+#2 d a
+x c
+x a
+x  d
+b
+#2 abc a
+x  a
+x   c
+x   b
+#2   c
+x  a
+x  b
+x  d
+b
+#2 ab  a
+x c
+x d
+x a
+#2 c c
+x e
+1aabc
+b
+#2    c
+xaaa
+x e
+x c
+#2 e
+xa
+xc
+xa
+b
+#2    c
+xa
+x d
+x c
+#2 a
+x  d
+x  b
+x  a
+b
+
+b
+#2     d
+x d
+xa
+xc
+#2d  a
+xc
+xd
+xf
+b
+#2h    d
+x  a
+x  b
+x  d
+#2 aba d
+x c
+x d
+xa
+b
+#2c  a
+xd
+x  a
+x  b
+#2  d
+xd
+xc
+x  b
+b
+#2  a
+xa
+x d a
+x c
+#2 a
+x  d
+x  b
+x  a
+b
+#2     a
+xda c
+xc
+x     c
+#2     d
+xa  c
+x    a
+x   c
+b
+
+b
+#2    c
+x efe
+1     d
+1    a
+1 efec
+b
+1aabc a
+#2 d
+x c
+#2 a
+x  d
+x  b
+x  a
+b
+1aabc a
+#2   a
+x    d
+#2    c
+x    a
+x     d
+x     c
+b
+b
+1     a
+1h
+#2   c
+xf
+xd
+xc
+b
+#2a   a
+x d
+x c
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+1   a
+1f d
+#2  aa
+xd
+xc
+xa
+b
+
+b
+#2 d aac
+x c
+x a
+x  d
+#2  b
+x  a
+x   c
+x   b
+b
+1  bcca
+1d
+#2   c
+xc
+xa
+x d
+b
+#2 c c a
+x a
+x c
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+1  abc
+1c
+#2 a
+xa
+x d
+x c
+b
+#2 aabc
+x c
+x d
+x c
+#2 a
+x  d
+x  b
+x  a
+b
+1a  fha
+1h
+#2   c
+xf
+xd
+xc
+b
+
+b
+#2a    a
+x d
+x c
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+1   a
+1f d
+#2   aac
+xd
+xc
+xa
+b
+#2 d aac
+x c
+x a
+x  d
+#2  b
+x  a
+x   c
+x   b
+b
+1 abcca
+1d
+#2 bdca
+xc
+1a    a
+b
+1 efec
+1 f   d
+1    a
+1 efec
+b
+1aa   a
+#2   c
+x   b
+#2   c
+x  a
+x  b
+x  d
+b
+
+b
+1aa   a
+#2 f
+x e
+#2 f
+xc
+xd
+xf
+b
+1h    a
+#2    h
+x    g
+#2    h
+x   e
+x   f
+x   h
+b
+1h f  a
+#2 a
+x  d
+#2 a
+x c
+x d
+xa
+b
+1cd a
+#2 d
+x c
+#2 d
+xa
+xc
+xd
+b
+1f  a
+#2  d
+x a
+#2 c
+x d
+xa
+xc
+b
+
+b
+1da   a
+#2   c
+x   b
+#2   c
+x  a
+x  b
+x  d
+b
+1da   a
+#2  f
+x  e
+#2  f
+x c
+x d
+xa
+b
+1ca  c
+#2 a
+x c
+#2 d
+xa
+xc
+xd
+b
+#2ca ac
+xa
+x d
+x c
+#2 a
+x  d
+x  b
+x  a
+b
+1h  f a
+#2    h
+x    g
+#2    h
+x   e
+x   f
+x   h
+b
+
+b
+1h f  a
+#2 a
+x c
+#2 d
+xa
+xc
+xd
+b
+1f  a
+#2 d
+x c
+#2 d
+xa
+xc
+xd
+b
+#2f  a
+xd
+xc
+xa
+#2 d
+x c
+x a
+x  d
+b
+1  bcca
+#2i
+xh
+#2f   a
+xd
+xc
+xa
+b
+#2c   c
+xa
+x d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+
+b
+1aac  a
+#2   c
+x  a
+#2  c
+x  d
+x  f
+x  d
+b
+1 abc a
+#2a
+xc
+#2d
+xc
+#3d
+xc
+xa
+xc
+b
+b
+1d    d
+#2 a
+x c
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+1 d   d
+#2c
+xd
+#2f
+xd
+#3f
+xd
+xc
+xd
+b
+
+b
+1f  a
+#2 d
+x f
+#2 h
+x f
+#3 h
+x f
+x d
+x f
+b
+1 h a
+#2a
+xc
+#2d
+xc
+#3d
+xc
+xa
+xc
+b
+1d    d
+#2 c
+x e
+#2 f
+x e
+#3 f
+x e
+x c
+x e
+b
+1 f   a
+#2d
+xf
+#2h
+xf
+#3h
+xf
+xd
+xf
+b
+
+b
+1ha   a
+#2h
+xk
+#2l
+xk
+#3l
+xk
+xh
+xk
+b
+1laa  h
+#2 a
+x c
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+1 d   d
+#2  b
+x  d
+#2  f
+x  d
+#3  f
+x  d
+x  b
+x  d
+b
+1 af  d
+#2c
+xd
+#2f
+xd
+#3f
+xd
+xc
+xd
+b
+
+b
+1f  a
+#2 d
+x f
+#2 h
+x f
+#3 h
+x f
+x d
+x f
+b
+1 h a
+#2a
+xc
+#2d
+xc
+#3d
+xc
+xa
+xc
+b
+#2da   a
+xda
+xf
+xd
+#2c  a
+xa
+x e  a
+x c
+b
+#2 ea c
+xa
+xc
+xa
+#2 e
+x c
+x a
+x  d
+b
+1aac  a
+#2   c
+x  a
+#2  c
+x  d
+x  f
+x  d
+b
+
+b
+0aac  a
+1aac
+1   c
+b
+b
+
+e

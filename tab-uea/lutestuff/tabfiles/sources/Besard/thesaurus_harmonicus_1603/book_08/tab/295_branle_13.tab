@@ -1,0 +1,266 @@
+-C
+-t
+-f
+{295. Branle 13/295. Branle 13}
+b
+#2 d    a
+xa   a
+xc  a
+#2d     a
+x    a
+xc  a
+b
+2a     a
+#3 d  a
+xa
+xc  a
+xd
+2f     a
+#3d   a
+xc
+xa  a
+xc
+b
+#2 d    a
+x    a
+xd  a
+2c     a
+#3d   a
+xc
+xa  a
+xc
+b
+
+b
+#2 d    a
+x    a
+x   a
+2f     a
+#3    a
+xd
+2c  a
+b
+#2d     a
+x    a
+xc  a
+#3a     a
+x d
+xa   a
+xc
+xd  a
+xa
+b
+#3c     a
+x d
+xa   a
+xc
+xd  a
+xc
+#3a     a
+x d
+x c  a
+x d
+xa  a
+x c
+b
+#2 dd   a
+x    a
+x   a
+b
+b
+
+b
+#2  d   a
+x a  a
+x c a
+b
+2 d    a
+#3    a
+xa
+2c  a
+#2a     a
+x d  a
+xa  a
+b
+#2  d   a
+x    a
+x d a
+#3a     a
+x d
+xa   a
+xc
+xd  a
+xa
+b
+
+b
+#3d     a
+xc
+xa   a
+xc
+2 d a
+2  d   a
+#3 a  a
+x c
+x d a
+x c
+b
+2 d    a
+#3    a
+xa
+2c  a
+#2a     a
+x d  a
+xa  a
+b
+#2  d   a
+x    a
+x d a
+#3a     a
+x d
+x c  a
+x d
+xa  a
+x c
+b
+#3 daa  a
+x c
+x d  a
+xa
+2 d a
+b
+b
+
+b
+#2 d    a
+x    a
+x c a
+#2 a    a
+x    a
+x  da
+b
+#2 d    a
+x    a
+xa  a
+2c     a
+#3c   a
+xd
+2f  a
+b
+#2d     a
+xc   a
+xd  a
+2a     a
+#3 d  a
+x c
+x a a
+x c
+b
+#2  d   a
+x    a
+x   a
+#3 d    a
+xa
+xc   a
+xa
+x d a
+x c
+b
+
+b
+#2 a    a
+x    a
+x  da
+#3 d    a
+x a
+x c  a
+x d
+2a  a
+b
+#3c     a
+x d
+xa   a
+xc
+xd  a
+xc
+#3a     a
+x d
+x c  a
+x d
+xa  a
+x c
+b
+#3 d    a
+x c
+x d  a
+xa
+2 d a
+b
+b
+#2f     a
+x    a
+xd  a
+#3c     a
+xa
+xc   a
+xd
+2f  a
+b
+
+b
+#2d     a
+xc   a
+xd  a
+2a     a
+#3 d  a
+x c
+x a a
+x c
+b
+#2  d   a
+x    a
+x   a
+#3  d   a
+x a
+x c  a
+x a
+x c a
+x d
+b
+#3a     a
+x d
+xa   a
+xc
+xd  a
+xc
+#3a     a
+x d
+xa   a
+xc
+xd  a
+xa
+b
+
+b
+#3f     a
+xd
+xa   a
+xc
+xd  a
+xc
+#3a     a
+x d
+x c  a
+x d
+xa  a
+x c
+b
+#3 d    a
+x c
+x d  a
+xa
+Y d a
+b
+b
+
+e

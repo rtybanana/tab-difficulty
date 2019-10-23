@@ -1,0 +1,590 @@
+-C
+-t
+-f
+{28. Padoana alla francese 2/28. Padoana alla francese 2}
+b
+c
+0cda c
+b
+0acd a
+0acd
+b
+1 da c
+1 c
+1 dc
+1 a
+b
+0 cee
+0     c
+b
+0 cee
+0cd a
+b
+0acd a
+0acd
+b
+1 da c
+1 c
+1 dc
+1 a
+b
+0 cee
+0     c
+b
+1 cee
+1 a
+#2 c
+x a
+x c
+x d
+b
+0acd a
+1acd a
+1acd a
+b
+0acd a
+0aacc
+b
+
+b
+0acd a
+1c
+1a
+b
+1 da c
+1 c
+1 a
+1  d
+b
+1  cc a
+1  d
+1 a   e
+1   c
+b
+1     c
+1  ee
+1 a
+1  e
+b
+0 a  c
+0  a
+b
+1 a  c
+1 c
+1 d
+1a
+b
+0cda c
+0f de
+b
+1ea   a
+1c
+1a
+1 d
+b
+0ac  a
+0  d
+b
+0ac  a
+1c
+1a
+b
+0 da c
+0 cd  c
+b
+
+b
+0 da c
+1 c
+1 a
+b
+0 cee
+0     c
+b
+0 cee
+0f de
+b
+0ea   a
+0ac  a
+b
+0 da c
+0 ac  a
+b
+0 cee
+0     c
+b
+0 cee
+1c
+1a
+b
+0 da c
+0 ac  a
+b
+1  ee c
+1 a
+#2 c
+x a
+x c
+x  e
+b
+0 a  c
+0  a
+b
+1 a  c
+#2 c
+x d
+#2a
+xc
+xd
+xf
+b
+
+b
+0ha   h
+1f
+1d
+b
+1ca
+1a
+1 d
+1 c
+b
+0 a  c
+0  a
+b
+1    c
+1f
+1e
+1c
+b
+0ac  a
+0  d
+b
+1 da c
+1 c
+1 dc
+1 a
+b
+0 cee
+0     c
+b
+1 cee
+#2  d
+x a
+#2 c
+x d
+xa
+xc
+b
+0ac  a
+1  d
+1 a
+b
+1ac  a
+1 d
+1a
+1c
+b
+
+b
+1    a
+1ac
+1  d
+1 a
+b
+1ac  a
+1 d
+1a
+1 c
+b
+1    c
+1 da
+1 c
+1 a
+b
+1 cee
+1  c
+0 cee
+b
+0 a  c
+0  a
+b
+1    c
+1  d
+1 a
+1 c
+b
+1 d  c
+1    a
+1    c
+1    e
+b
+1 a a
+1 c
+1 d
+1a
+b
+1c d
+1    e
+1   a
+1   c
+b
+1 d e
+1a
+1c
+1d
+b
+
+b
+1    a
+1fc
+1da   a
+1c
+b
+0ac  a
+1ad  a
+1 c
+b
+0 d a
+0  d
+b
+w d a
+b
+1 d a
+#2 c
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+#2   a
+x   c
+x  a
+x  b
+#2  d
+x a
+x c
+x d
+b
+0ac  a
+1  d
+1 a
+b
+1ac  a
+1 d
+1a
+1 c
+b
+0 d  c
+0 a   e
+b
+1 c  b
+1     e
+0 c  b
+b
+
+b
+0 a  c
+0  a
+b
+w a  c
+b
+0  def
+0  de
+b
+1  def
+1   c
+1  de
+1  df
+b
+0  def
+0  de
+b
+1   a
+1   c
+1  de
+1  df
+b
+0  def
+1 d   d
+1    c
+b
+0 d ca
+1 d ca
+1 c
+b
+0 dda
+0 d
+b
+w dda
+b
+1 d a
+1 c
+1 d
+1a
+b
+1cd a
+1df
+0fh
+b
+
+b
+1  d a
+1  c
+1  d
+1 a
+b
+1 cd a
+1 df
+0ac
+b
+1   a
+1cd
+1ac
+1 df
+b
+1 cee
+1   c
+0 cee
+b
+0 a  c
+0  a
+b
+1    c
+1  d
+1 a
+1 c
+b
+1 d  c
+1    a
+1    c
+1    e
+b
+1   a
+1   c
+1   e
+1  c
+b
+1a   a
+1    c
+1    e
+1   a
+b
+1   c
+1  a
+1  c
+1  d
+b
+
+b
+1 d  c
+1    e
+1   a
+1   c
+b
+1   e
+1  c
+1  d
+1 a
+b
+0cce  c
+0cdf c
+b
+wcce  c
+b
+A1
+1fc e
+#2e
+xc
+#2a
+x d
+x c
+x a
+b
+A1
+A2
+#2  d
+x a
+x c
+x d
+#2 a
+x c
+x d
+xa
+b
+A1
+A2
+1cd a
+#2a
+x d
+#2 c
+x a
+x  d
+x  c
+b
+
+b
+A1
+A2
+#2  a
+x  c
+x  d
+x a
+#2  d
+x a
+x c
+x e
+b
+A1
+A2
+1a   e
+1 e
+1 c
+1 a
+b
+A1
+A2
+1 cee
+1   c
+#2   e
+x   c
+x   a
+x    e
+b
+A1
+A2
+0 a  c
+0  a
+b
+A1
+A2
+w a  c
+.
+b
+b
+A2
+0fd e
+1e
+1c
+b
+A1
+A2
+1a c
+1 d
+1 c
+1 a
+b
+A1
+A2
+0 cd a
+1c
+1a
+b
+A1
+A2
+1 da c
+1 c
+1 a
+1  d
+b
+A1
+A2
+0  cc a
+0 a   e
+b
+
+b
+A1
+A2
+1  ee c
+1 a
+#2 c
+x a
+x c
+x  e
+b
+A1
+A2
+0 a  c
+0  a
+b
+A1
+A2
+w a  c
+b
+b
+1 da c
+1 c
+1 d
+1a
+b
+1    c
+1cda
+1a
+1 d
+b
+0ac  a
+1  d
+1 a
+b
+1acd a
+1 d
+1a
+1 c
+b
+1 da c
+1a   e
+1c  a
+1 d  c
+b
+1a   e
+1 d  c
+1 c  a
+1 a   e
+b
+0cce  c
+0   e
+b
+wcce  c
+b
+
+b
+1 da c
+1 c
+1 d
+1a
+b
+1    c
+1cda
+1a
+1 d
+b
+1acd a
+1cd
+1ac
+1 df
+b
+1 cd a
+1 ac
+1  de
+1  cc
+b
+0  aac
+0 acc a
+b
+1  e ec
+1 a
+#2 c
+x a
+x c
+x  e
+b
+0 a  c
+0  a
+b
+Y a  c
+b
+b
+
+e

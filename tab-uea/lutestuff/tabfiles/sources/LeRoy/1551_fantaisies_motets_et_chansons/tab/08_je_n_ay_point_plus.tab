@@ -1,0 +1,496 @@
+-C
+-t
+-f
+{8. Je n'ay point plus d'affection/8. Je n'ay point plus d'affection}
+b
+c
+1.aabc
+2  d
+1 a
+1 c
+b
+0cdda
+0cdf c
+b
+#2abb d
+x a
+x b
+x d
+#2a
+xc
+xd
+xf
+b
+1     d&{
+1hd
+1   f  }
+1hd   d
+b
+1fda
+1   a
+1   c
+1dab
+b
+1cdda
+#2 a
+x c
+#2 d
+xa
+xc
+xd
+b
+wffh a
+b
+0ffh a
+1ffh
+1    a
+b
+
+b
+1da c
+1c d
+1a b
+1 ea
+b
+1aabc
+1 c
+1cdda
+1d
+b
+1ca c
+1a b
+1a a d
+1   ca
+b
+1 efec
+1 f  a
+1 ffec
+1 e
+b
+1     a
+1aab
+1   c
+1     a
+b
+0aabc a
+0     a
+b
+#2aabc
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+xa
+b
+1cdda
+#2  a
+x  b
+#2  d
+x a
+x b
+x d
+b
+
+b
+1abb d
+#2 b
+x d
+#2a
+xc
+xd
+xf
+b
+1     d&{
+1hd
+1   f  }
+1hd   d
+b
+1   a
+1fda
+1dabc
+1 c
+b
+1cdda
+#2 a
+x c
+#2 d
+xa
+xc
+xd
+b
+1    a
+1ff  {
+1  g  }
+1   h
+b
+#2ffg a
+xh
+1i
+1h
+1ffg a
+b
+1da a
+1c d
+1a b
+1 ea
+b
+1aabc
+1 c
+1cdda
+1da
+b
+
+b
+1cdda
+1aabc
+1aaa d
+1   c
+b
+1aaa c
+1     d
+1 ea a
+1    c
+b
+1     a
+1aab
+1   c
+1     a
+b
+waab  a
+b
+#2aabc
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+xa
+b
+#2da c
+x   b
+x   c
+x  a
+#2  b
+x  d
+xda
+x c
+b
+#2cdda
+xd
+xf
+xd
+#2c
+xa
+x d
+x c
+b
+
+b
+#2 dda
+x a
+x c
+x d
+1acd
+1    a
+b
+1 da c
+1   c
+1  a
+1 dc c
+b
+1 cd  c
+1   e {
+1  c   }
+1  de c
+b
+1 aba d
+1     c
+1     a
+1     c
+b
+1     d
+1     c
+1 aba d
+1    a
+b
+1 aaac
+1    a
+1    c
+1    e
+b
+1 aaa
+1    e
+1   a
+1 cdca
+b
+1 daa
+1 c c
+1 da
+1a b
+b
+
+b
+#2cdda
+x  a
+x  b
+x  d
+#2ddf  d
+x  d  {
+x  f
+x  g   }
+b
+1ddf  d
+1c d
+1c ba
+1  a
+b
+1cabc
+#2a
+x e
+1cabc
+1a
+b
+#2caa c
+x  d {
+x a
+x c
+#2 d
+xa
+xc
+xd    }
+b
+#2caa c
+xa   {
+x d
+x c
+#2 a
+x  d
+x  b
+x  a  }
+b
+#2aabc
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+xa
+b
+
+b
+#2cdda
+x   c
+x  a
+x  b
+#2  d
+x a
+x b
+x d
+b
+#2abb d
+x a
+x b
+x d
+#2a
+xc
+xd
+xf
+b
+1     d&{
+1hd
+1   f  }
+1hd   d
+b
+#2f aa
+xh
+xi
+xh
+#2f
+xd
+xc
+xa
+b
+1cdda
+#2 a
+x c
+#2 d
+xa
+xc
+xd
+b
+#2ffg a
+x i
+xf
+xh
+#2i
+xh
+xf
+x i
+b
+
+b
+#2ff  a
+x i
+xf
+xh
+#2f
+x h
+x i
+xf
+b
+1da c
+1c d
+1a b
+1 ea
+b
+#2aabc
+x  a
+x  b
+x  d
+#2 a a
+x c
+x d
+xa
+b
+#2c bc
+xd
+xf
+xd
+#2c a d&{
+xa
+x e
+x c   }
+b
+#2 ea c
+x a
+x c  a
+x e
+#2 ffec
+x e
+#3 f
+x e
+x c
+x e
+b
+1 f
+1     a
+1aab
+1   c
+b
+
+b
+1aab  a
+#2   c
+x   b
+#2   c
+x  a
+x  b
+x  d
+b
+#2aabc
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+xa
+b
+1cdd
+1   a
+1    c&{
+1cdf  }
+b
+#2abb d
+x a
+x b
+x d
+#2a
+xc
+xd
+xf
+b
+1     d
+1hd
+1   f
+1hd   d
+b
+1   a
+1fda
+#2da c
+x  d
+x a
+x c
+b
+
+b
+1cdda
+#2 d
+x c
+#2 d
+xa
+xc
+xd
+b
+1ffg a
+#2   h
+x   g
+#2   h
+x  f
+x  h
+x  i
+b
+1ffg a
+#2   h
+x  f
+#2  h
+x  i
+x f
+x h
+b
+1da c
+1c d
+1a b
+1 ea
+b
+#2aabc
+x  a
+x  b
+x  d
+#2 a a
+x c
+x d
+xa
+b
+1cdd
+1aabc
+1aaa
+1   c
+b
+
+b
+1 efec
+1 f  a
+#3  fec
+x e  {
+x f
+x e
+#3 f
+x e
+x c
+x e   }
+b
+1 f
+1     a
+1aab
+1   c
+b
+Yaabcca
+b
+b
+
+e

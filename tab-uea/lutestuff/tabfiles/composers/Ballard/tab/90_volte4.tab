@@ -1,0 +1,244 @@
+-C
+-t
+-f
+{Volte 4/Volte 4}
+b
+W   a  a
+W    e /a
+W    a ///a
+b
+b
+S3
+#2  d   ///a
+x a
+1 c
+1 c c
+b
+1  d a
+1      ///a
+1  dc
+b
+#2 c  a
+x d
+1a
+1aac  a
+b
+1 cdca
+1      ///a
+1 cdc
+b
+#2 c  a
+x d
+1a
+1c  a
+b
+1a d e
+#2    a
+x d
+#2 c c
+x a
+b
+1 cd
+1 a
+2.     a
+3 a
+b
+
+b
+1  d a
+1      ///a
+1  dc
+b
+#2  d   ///a
+x a
+#2 c
+x  d
+#2 c c
+x a
+b
+#2  d a
+x   c
+#2  a
+x  c
+#2  d
+x a
+b
+#2 c  a
+x d
+#2a
+xc
+#2a    a
+x d
+b
+#2 c  a
+xa
+#2c
+xe
+1f
+b
+#2 cd
+x d
+#2a
+x  c
+#2  a
+xc
+b
+
+b
+#2    e
+xa
+#2    a
+x d
+#2 c c
+x a
+b
+#2 cd
+x a
+1.     a
+2 c
+b
+1  d a
+1      ///a
+1  dc
+b
+1a
+0ffhh
+b
+1.hf g
+2f
+1e  c
+b
+1.fc e
+2e
+1c   c
+b
+1ea
+1   c
+1  c
+b
+1c aa
+1a c e
+1  d
+b
+1c  a
+#2  a
+xa
+1 d  c
+b
+1a   e
+#2    a
+x d
+1 c c
+b
+
+b
+1 da
+1    c
+1    a
+b
+1 a   e
+1   c
+#2  d
+x a
+b
+1 cdca
+#2      ///a
+x a
+#2  d   /a
+x  c
+b
+1  d
+1. ac  a
+#3  d
+x a
+b
+1  d a
+1      ///a
+1  dc
+b
+1     e
+#2     c
+x  d
+#2  c
+x  d
+b
+#2     e
+x a
+#2  d
+x a
+#2     a
+x  c
+b
+#2     c
+x  d
+#2  c
+x  d
+#2    c
+x  a
+b
+
+b
+#2     a
+x  c
+#2   c
+x   e
+#2   c
+x   a
+b
+#2    e
+xa
+#2  d
+x  c
+#2   c
+x  d
+b
+#2   a
+xc
+#2  a
+xa
+#2    c
+x d
+b
+#2    e
+xa
+#2    a
+x d
+#2 c c
+xa
+b
+#2    c
+x  a
+#2 d
+x    e
+#2    c
+x    a
+b
+#2     e
+x a
+#2   c
+x c
+#2 d
+x a
+b
+
+b
+#2 c  a
+x d
+#2a
+x  d
+#2c     a
+xe
+b
+#2f
+x c
+1.ea   a
+#3c
+xe
+b
+1f   a
+1      ///a
+Yffh
+b
+b
+
+e

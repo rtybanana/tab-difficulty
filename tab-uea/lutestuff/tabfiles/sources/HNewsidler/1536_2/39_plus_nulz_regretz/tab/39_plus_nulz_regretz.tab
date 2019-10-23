@@ -1,0 +1,680 @@
+-C
+-t
+-f
+{39. Plus nulz regrets/39. Plus nulz regrets}
+b
+c
+0   c
+0   c
+b
+1  bc
+#2  da
+x    d
+1 a a
+1   c
+b
+#3 bd a
+x a
+x b
+x d
+#2 b
+x d
+#2 bd a
+x a
+#3 b
+x a
+x  d
+x  b
+b
+1 bd
+#2 db
+x  a
+1a b
+1  d
+b
+
+b
+2.b da
+3a
+#3 d
+x b
+#4 a
+x b
+x d
+xa
+#2b da
+xa
+#3b
+xa
+x d
+x b
+b
+#2 daa
+x b
+x a a
+x d
+#3    d
+x a
+x  d
+x  b
+#3 a
+x  d
+x  b
+x  d
+b
+0 db c
+1 db c
+1 db
+b
+1 ab
+1a
+#2a a c
+x e
+#3a
+x e
+x c
+x e
+b
+0a  cd
+1  d d
+1a  c
+b
+0 db c
+1 dde
+1 a  c
+b
+
+b
+2.a  cd
+3 d
+#3 b
+x a
+#4  d
+x a
+x b
+x d
+1a  cd
+1 db c
+b
+1 bd a
+1 a   d
+1  d  c
+#3 a
+x  d
+x  b
+x  d
+b
+#3 ab  a
+x  a
+x  b
+x  d
+#2  b
+x  d
+1 ab  a
+#3 b
+x  d
+x a
+x b
+b
+1  def
+#2 a
+x  d
+1 dde
+1 bbc
+b
+#2 aaa
+x  d
+#3 a  d
+x  d
+x  b
+x  d
+#3    c
+x  d
+x  c
+x  a
+#3  d
+x  c
+x  a
+x  c
+b
+
+b
+1  dca
+#2  d
+x a
+#3 bd a
+x a
+x b
+x d
+#3a
+x d
+xa
+xb
+b
+#2a  cd
+xb
+1d
+2d  cd
+#3b
+xa
+#3b
+xa
+#4b
+xa
+x d
+x b
+b
+0 db c
+1 da
+1    c
+b
+1  da
+1  a
+1a d a
+1    d
+b
+#2db  d
+x   a
+1   c
+#3d bc
+x   a
+x   c
+x  a
+#3  b
+x  d
+#4 a
+x b
+x d
+xa
+b
+1ca  c
+1 a
+1 d  c
+#2c d
+x  b
+b
+
+b
+1f de
+1f  a
+0ab  a
+b
+1da c
+#2 a c
+x  b
+1da c
+#2c
+xa
+b
+1ca
+#3 b
+x a
+#4 b
+x a
+x  d
+x  b
+1c da
+#3   c
+x   a
+x    d
+x    c
+b
+1 bd a
+#2  b
+x  a
+1a  ca
+1  d
+b
+1da c
+#2da c
+xa b
+1da c
+1c   c
+b
+#2c da
+x d
+1c de
+1a d d
+1d bc
+b
+
+b
+1 ab c
+#2c
+xa
+#3  a c
+xa
+x e
+x c
+#3 e
+xa
+x c
+x e
+b
+1a  cd
+1    a
+1a   d
+1a    a
+b
+1 d  cd
+1 a a
+1 d a c
+1 b  a
+b
+#2 a cd
+x  d
+#3 a
+x  d
+x  c
+x  d
+#3    ca
+x  d
+x  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+0  d a
+0   cd
+b
+1  b c
+#3  d
+x  b
+x  a
+x  b
+0  dea
+b
+
+b
+2.ab c
+3 d
+#3 b
+x a
+#4 b
+x d
+xa
+xc
+#2da c
+xc
+xa
+xd
+b
+1c d
+1    a
+1a d d
+#2  bcd
+x  a
+b
+1  bcd
+1  b
+#2  b c
+x  a
+x   c
+x  b
+b
+1  a a
+1  d
+1 b ca
+1ab  d
+b
+#2db  d
+x   a
+xd  c
+x  a
+1dab
+#3  d
+x  b
+#4  d
+x  b
+x  a
+x   c
+b
+1c de
+1   a
+#2a d a
+x    c
+#3    d
+x    c
+x    d
+x   a
+b
+
+b
+#2    d
+x   c
+#3   a
+x    d
+x    c
+x    a
+1  b c
+#3  d
+x  b
+x  a
+x  b
+b
+0  dea
+2.ab  a
+3 d
+#3 b
+x a
+#4 b
+x d
+xa
+xc
+b
+#2da c
+xc
+xa
+xd
+1c d
+#3d
+xc
+xa
+xc
+b
+#2a d
+x  b
+x  d
+x a
+1ab
+1 b
+b
+1 b c
+1d
+1da c
+#2da c
+x  b
+b
+1ca a
+1  d
+#2a d d
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+
+b
+#3 da c
+x c
+x d
+xa
+#2 d
+xa
+1ca  c
+1da   d
+b
+#2c d a
+xa
+xa d
+x  b
+#3  a c
+xa
+x e
+x c
+#2a
+x e
+b
+1a  c a
+#2  b
+x  d
+1 a c a
+1 ab
+b
+1 bd a
+#2    a
+x    c
+#3 b  d
+x    c
+x    d
+x   a
+#3 b ca
+x   a
+x   c
+x  a
+b
+1 ab  d
+1   a
+#2  da c
+x    d
+1    a
+b
+
+b
+#3  bc a
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a
+x b
+1 a c a
+1 b cd
+b
+#2 aaa
+x  d
+#3  da
+x    d
+x    c
+x    a
+2  d ca
+#3  c
+x  a
+2  c ca
+#4  d
+x  c
+x  a
+x  c
+b
+1  d a
+1a
+#3  d a
+x  b
+x  d
+x a
+#3 d
+x b
+#4 d
+x b
+x a
+x b
+b
+1 db c
+1  a
+#2a  cd
+x  a
+x  b
+x   c
+b
+1  da
+1f
+1   a
+1cd
+b
+
+b
+1db c
+1 a
+1f de
+#2  a
+x  b
+b
+1 db
+#3d  c
+x   a
+x   c
+x  a
+#3  b
+x  a
+x  b
+x  d
+1ca a
+b
+#2aa  d
+x  d
+#3 a
+x  d
+x  b
+x  d
+2 dd c
+#3  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+1 bd a
+#3  d
+x  b
+x  d
+x a
+#3 b  a
+x a
+x b
+x d
+1a b
+b
+
+b
+#2a a
+x d
+#3a
+x d
+x c
+x d
+#3   ca
+x d
+x c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+0 d ac
+1  a c
+1 d a
+b
+0 ab  a
+1 a c a
+1  b
+b
+1 bd a
+#2  d
+x  b
+1  d a
+1 b c
+b
+1 d ac
+#2   a
+x    d
+#2 d ac
+x   c
+1 ba a
+b
+#2 aa  d
+x   c
+1   c a
+1  d  c
+1   b
+b
+1  bc a
+#2  bc
+x  a
+#2  bc a
+x  d
+1 aaa
+b
+
+b
+#2    d
+x    c
+x  d a
+x    d
+#3    c
+x  d
+x  c
+x  a
+#3  d
+x  c
+x  a
+x  c
+b
+0  dca
+1 b ca
+#3   d
+x   c
+x   a
+x   c
+b
+1 daa
+#2   ac
+x    d
+#2 d ac
+x   c
+1 ba a
+b
+#2 aa  d
+x   c
+1  bc a
+#2  d  c
+x   b
+#3   c
+x   b
+x   a
+x   c
+b
+1  bc a
+#2  bc
+x  a
+#2  bc a
+x  d
+1 a a
+b
+
+b
+#2 a  d
+x  d
+#3 a  a
+x  d
+x  c
+x  d
+#3    ca
+x  d
+x  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+Y bdca
+b
+#3  d
+x  c
+x  d
+x a
+#3 b
+x a
+#4  d
+x a
+x b
+x d
+Y bdca
+b
+b
+
+e

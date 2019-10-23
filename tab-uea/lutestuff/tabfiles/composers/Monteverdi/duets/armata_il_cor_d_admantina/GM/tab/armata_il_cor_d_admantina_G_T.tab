@@ -1,0 +1,327 @@
+-C
+-t
+-f
+{Armato il cor/Armato il cor}
+b
+0 acc a
+0     a
+0     a
+b
+0 acc a
+w
+b
+0aac  a
+0     a
+0     a
+b
+0aac  a
+w
+b
+0eff  a
+0     a
+0     a
+b
+1eff  a
+1     a
+1     a
+1     a
+1eff  a
+1fc  a
+b
+C
+0ea c
+1ea c
+1ac  a
+b
+1aac  a
+1     a
+1     a
+1     a
+b
+1aac  a
+1     a
+1     a
+1     a
+b
+0aac  a
+0aac  a
+b
+
+b
+0 acc a
+1.     e
+2    a
+b
+0 aabc
+0    c
+0    c
+b
+0 acc a
+w
+b
+0aac  a
+0     a
+0     a
+b
+0aac  a
+w
+b
+0eff  a
+0     a
+0     a
+b
+1eff  a
+1     a
+1     a
+1     a
+1eff  a
+1fc  a
+b
+C
+0ea c
+1ea c
+1fef a
+b
+0eff  a
+1     a
+1     a
+b
+1aac  a
+1     a
+1     a
+1     a
+b
+waac  a
+b
+w acc a
+b
+
+b
+0.aa   e
+1acd a
+b
+wcaa c
+b
+waac  a
+b
+0ac  a
+1    a
+#2cc
+x     c
+b
+1 ea c
+#2eef
+x     e
+1ec ce
+1fc  a
+b
+0ea c
+2.fc  a
+3     e
+1c d  c
+b
+2. ea c
+3    a
+1a    e
+2.a c e
+3    c
+1ac  a
+b
+1c da
+1    c
+1ccc e
+1b
+b
+1ccde
+#2cdd
+x   a
+1ddff
+#2 f
+x   c
+b
+
+b
+0fcd
+1fdaa
+#2hda
+x   a
+b
+1ea c
+#2acc
+x    e
+0ccee
+b
+1 ea c
+#2 ac
+x     e
+1a c e
+#2 cd
+x    a
+b
+1cdda
+#2 a
+x    c
+1ef c
+1 d
+b
+0ccee
+2. ea c
+3    a
+1 a c e
+b
+2.    e
+3    c
+1 cd a
+2.cd a
+3    e
+1 da c
+b
+1ea c
+1ea c
+#2acc
+x    e
+1ccee
+b
+1ce  c
+1 ea c
+#2  c
+x     e
+1a c e
+b
+
+b
+#2
+x    a
+1cdda
+#2 a
+x    c
+#2ea c
+x   c
+b
+1ea c
+1fc  a
+2.    a
+3     e
+#2fc e c
+xc
+b
+2.ce  c
+3    a
+1 a   e
+2.a c e
+3    c
+1ac  a
+b
+2.cdda
+3    e
+1cdf c
+0ea c
+b
+1cef c
+1ea   a
+0
+b
+wacd a
+b
+wacd a
+b
+wacd a
+b
+0.acd a
+1a c  e
+b
+0.ccd  c
+1     a
+b
+wcdd   a
+b
+wfcd a
+b
+wfcd a
+b
+
+b
+wcdd   a
+b
+wcdf c
+b
+0ccf  c
+0  e
+b
+1 ea c
+1    a
+1aa   e
+1c    c
+b
+0ea   a
+0ce  c
+b
+1aacc
+1   a
+1    e
+1    c
+b
+1acd a
+1     e
+0c a  c
+b
+0ec  e
+1ccde
+1   c
+b
+1ccda
+1    e
+1cdf c
+1    a
+b
+1cdf  e
+1     c
+1ea c
+1   a
+b
+1ec ce
+1    c
+0fc  a
+b
+
+b
+0acd  a
+0aa   a
+b
+wacd a
+b
+wb c e
+b
+w ccde
+b
+w ccde
+b
+wb c e
+b
+wcce  c
+b
+wcef c
+b
+wea   a
+b
+1 ea c
+1a c
+1c d
+1a c
+b
+1 ea c
+1 c c
+1 a b
+#2a d
+x  c
+b
+1 ea c
+1a c
+1  a
+1 e
+b
+waac  a
+b
+b
+
+e

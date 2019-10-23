@@ -1,0 +1,140 @@
+-C
+-t
+-f
+{23. Nun gruss dich Got/23. Nun gruss dich Got}
+b
+c
+0 d a
+1 d a
+1 d a
+b
+1 ab  d"+
+#2 a
+x b
+1 db c
+1a b  a
+b
+1 ea c
+1a  cd
+1  a c"+
+1 e
+b
+0a  c a
+1
+1a  c a
+b
+1d   d"+
+#2d
+xc
+1a  cd
+#2 d  c
+x b  a
+b
+1 ab  d
+1 daa
+1   c"+a
+1 c
+b
+0 d a
+1   a
+1  d
+b
+1 a
+1 b  a
+1 d  c
+1 b  a
+b
+
+b
+1 a a d
+#2 a   d
+x b  a
+x d  c
+x a
+1 b c"+a
+b
+#2 d
+x b
+x a
+x  d
+1  d c"+
+1  c
+b
+1  d a
+1a  c
+1a   a
+1a   d
+b
+1c  a
+1d  c
+#2a  ca
+x d
+x b c
+x a
+b
+1  def
+#2  a
+x  b
+1 bd a
+1 abc
+b
+#2  d
+x  b
+xa a
+x   c
+1  a c
+1 e
+b
+0a  c a
+1
+1a b d
+b
+1a b d
+1a b d
+1 db  d
+1a   d
+b
+
+b
+1d  c
+1a   d
+1c da
+1a   a
+b
+#2a aa
+x d
+1 db  d
+1   c"+a
+1 c
+b
+0 d a
+1 d
+1  d
+b
+1 a
+1c  a
+0d bc
+b
+1a   d
+1f d a
+1da c
+1a b d
+b
+1c da
+#2a   a
+xc
+#2a
+x d
+x b  d
+x a
+b
+1  def
+1 db  d
+1   c"+a
+1 c
+b
+w dda
+b
+b
+
+e

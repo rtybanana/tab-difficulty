@@ -1,0 +1,332 @@
+-C
+-f
+{5. Ricercar 5/5. Ricercar 5}
+b
+0h
+1c
+1f
+b
+1a
+1d
+0ca
+b
+1  a
+1  d
+#2a
+x   c
+1  b
+b
+1  a c
+1   a
+#2  d
+x    a
+1    d
+b
+1a  c
+1  b
+#3 d  c
+x    a
+x    c
+x    d
+1   a
+b
+#3 b ca
+x a
+x  d
+x  b
+1  d
+1d b  a
+1   c
+b
+1c aa
+1  d
+#2a
+x   c
+1  b
+b
+
+b
+1 ea
+1 a  c
+#2    e
+x a
+1  db
+b
+1   fh
+1h
+1cd
+1f
+b
+#2 f
+xa
+1d
+1ca
+1  a
+b
+1  d
+#2a
+x   c
+#2  b
+x a
+1 d
+b
+1 cde
+#2f
+x  a
+#2   c
+xa
+1d
+b
+1c   c
+1 a
+#2c
+x  a
+1  d
+b
+#2a
+x   c
+1  a
+#2 ea c
+xa
+1c  a
+b
+
+b
+#2f
+x    a
+1ab  d
+#2d  c
+x a
+#2  b
+xc
+b
+#2a
+x  d
+1 ef
+#2   f
+x a
+1 f
+b
+1  de
+1 e
+#3a bc
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+2c  a
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+#2d bc
+xa
+#2c
+xd
+b
+#2  a
+xc
+#2a d
+x d
+#2 c
+x   c
+1 fff
+b
+
+b
+1 cfe
+1  e
+1 a fh
+1h
+b
+1ca  c
+1f d  c
+#2  b  a
+xa
+1d  c
+b
+#2c   c
+x   a
+1  a
+1a bc
+1 a  c
+b
+#2   e
+x  a
+1  d
+1  b  a
+#2   c
+x  a
+b
+#2  b
+x  d
+1 a b
+1   c
+1  d  c
+b
+#2     a
+x   c
+1  b
+1 a  c
+#2   a
+x   c
+b
+#2  a
+x  b
+1  de
+#2     a
+x   c
+#2 ab
+x c
+b
+
+b
+#2 ea
+xa
+1c  b
+#2   c
+xa
+#2a b
+x  d
+b
+#2 a
+x c
+1 df
+#2    a
+x  d
+#2ab
+xc
+b
+#2d
+xf
+#2h
+x   f
+1ca  c
+#2   a
+x   c
+b
+#2  aa
+x  c
+#2  d
+x    a
+#2   cd
+x   a
+#2   c
+x  a
+b
+#2  b c
+x  d
+1 a   d
+#2     a
+x   c
+#2 ab
+x c
+b
+#2 ea
+x f
+1 h  g
+#2    h
+x f
+1 fgh
+b
+
+b
+1c   c
+1fe
+#2 f
+xa
+1d
+b
+1ca  c
+1   a
+#2  d
+x    a
+1    d
+b
+1h   h
+1   f
+#2c   c
+x   a
+1f a
+b
+#2   c
+xa
+1da
+#2c
+x  d
+1 a  c
+b
+1  aa
+#2  d
+x    a
+#2    d
+x   a
+1a bc
+b
+#2  a c
+x e
+#3a
+x e
+x c
+x e
+1aa  h
+1hf
+b
+1c   c
+1fe
+#2 f
+xa
+1d
+b
+
+b
+1ca  c
+1   a
+#2  d
+x    a
+1    d
+b
+1h   h
+1   f
+#2c   c
+x   a
+1f a
+b
+#2   c
+xa
+1da
+#2c
+x  d
+1 a  c
+b
+1  aa
+#2  d
+x    a
+#2    d
+x   c
+1a bc
+b
+#2 ea c
+x c
+#2a
+x e
+0a bcd
+b
+1a bcd
+1    c
+#2    a
+x bdc
+#2 a
+x  d
+b
+waac  a
+b
+b
+
+e

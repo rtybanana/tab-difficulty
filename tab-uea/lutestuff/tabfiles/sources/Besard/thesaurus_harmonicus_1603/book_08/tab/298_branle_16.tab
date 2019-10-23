@@ -1,0 +1,152 @@
+-C
+-t
+-f
+{298. Branle 16/298. Branle 16}
+b
+#2 dd   a
+x d
+1 def d
+b
+.
+2. cdca
+3     d
+#2 d   b
+x     a
+1 dda  a
+b
+2 cdca
+#3 a
+x c
+2  d
+2. dba d
+3a
+2b  a
+b
+1ac  a
+#2 d  b
+x b   b
+1  ea d
+b
+1  da  a
+#2 d  b
+x    a
+1 dba d
+b
+2. cdca
+3d
+#2b  a
+xa d e
+1 dda  a
+b
+2. cdca
+#4 a
+x c
+#2  d
+xf   a
+#2d
+xb  a
+b
+
+b
+1acd a
+#2 d   b
+x     d
+1 cdca
+b
+2 dda  a
+#3 a
+x c
+2 d
+#3d  a
+xb
+xa
+xb
+x d
+xa
+b
+2 c  a
+#3 a
+x c
+#2 d   b
+x     a
+1 dda  a
+b
+#3a   a
+x d
+x c
+x a
+#3  d
+x a
+x b
+x d
+#3a
+xb
+xd
+xb
+b
+2.a   d
+3b
+#2 d  b
+x bdd b
+1  ea d
+b
+
+b
+2  da  a
+#3f
+xd
+#3b
+xa
+xb
+x d
+#3a
+x c
+x d
+x a
+b
+#3 c  a
+x a
+x  d
+x  b
+#3   d
+x   c
+x   a
+x    e
+#3   a
+x   c
+x   d
+x  b
+b
+#3  d a
+x   c
+x   d
+x  b
+#3  d
+x a
+x b
+x d
+#3a
+xb
+xd
+xa
+b
+2.f  d
+3d
+#2b  a
+xdab  d
+1acd a
+b
+A1
+1 dda
+#2 dd   a
+x d
+1 def d
+.
+b
+b
+A2
+Y. dda  a
+b
+b
+
+e

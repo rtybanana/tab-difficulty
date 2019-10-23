@@ -1,0 +1,261 @@
+-C
+-t
+-f
+{/}
+b
+c
+1
+b
+0
+#1
+xcdd   a
+b
+1da a d
+#2     d
+x    a
+#1    c
+x   a
+b
+#1 db c"#
+x     d
+#2
+x   a
+x   c
+x  a
+b
+1ddb
+#2  a"#
+x   c
+#2   a
+x   c
+x   a
+x    d
+b
+0dd  c
+1
+#2    c
+x    d
+b
+
+b
+#2 daa
+x    d
+x   a
+x   c
+#2cd a
+x   c
+x  a
+x   a
+b
+1ddb
+#2  a
+x  b
+#2da c
+x  a
+x  b
+x   c
+b
+1acd
+#2   f
+x  d
+#2fd e
+x   f
+x  d
+x  a
+b
+#1cdf
+x  d
+xca
+x  b
+b
+1acd
+#2    e
+x   a
+#1   c
+x   c
+b
+1a d  d
+#2   c
+x   a
+#2a d e
+x    c
+x    a
+x     d
+b
+
+b
+#1 d   c
+x  a
+x  b
+x abc
+b
+#1 \2c\1b\4e
+x \3daa
+x aa\1c
+xa \2d\4f\3e
+b
+#1 \4d&{aa
+x  da c
+xad   d
+x a   a
+b
+#1 cd a
+x daa
+x cdca
+x      ///a
+b
+0. da a a
+.
+b
+b
+.
+1cdda
+b
+0 dded
+#1
+x    d
+b
+#1dd  c
+x     d
+x  dfd
+x    a
+b
+#1 \1d\4g\2e
+x \1d\4f\3f
+x \3f\4g
+x\3f g\2e
+b
+0ddff
+0
+b
+
+b
+#1dd dc
+x
+x
+x
+b
+#1db  d
+x   c
+x dgd
+x   a
+b
+#1ddff
+xdb cd
+#1dbb
+xba a d
+b
+0.abb d
+1ffg
+b
+#1  \4i
+x\3h\2g\1f
+xdd\4g
+xabd
+b
+#1bbf
+xadc
+xabd
+xa d d
+b
+#1 ada
+x    c
+xaacc
+xabd a
+b
+#1aa\3c  a
+x   \2cU
+xabdcX
+xaaca
+b
+
+b
+#1a d d
+x   a
+xaacc
+x     a
+b
+0ab  a
+#1
+xabd
+b
+#1 \1d\4g\2e
+x \1d\4f\3f
+xda \2c&{
+x dge
+b
+#1 ddf
+x db c
+xa dfd
+x    a
+b
+#2 dda
+x    d
+x    c
+x    a
+0 aba d
+b
+1cd    a
+#2  a
+x  b
+#1  d
+x  d
+b
+1a d d
+#2  d
+x  b
+#2  a
+x   c
+xc  a
+x    d
+b
+
+b
+#1dd  c
+x     d
+xa dfd
+xf   a
+b
+#1cdda
+xda a d
+x\4d\3d\3da
+xcbd   a
+b
+#1da a d
+x
+0
+b
+#1 dbdc
+x
+0
+b
+#1 bbcd
+x
+0
+b
+#1afdfe
+x
+0
+b
+#2 daa
+x    e
+x   a
+x   c
+#2  a
+x   a
+x   c
+x  a
+b
+#1ddb
+xa dfd
+x\4d\3d\3d&{a
+x\2c\1bd&}   a
+b
+
+b
+0.da a d
+.
+b
+b
+
+e

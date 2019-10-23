@@ -1,0 +1,402 @@
+-C
+-t
+-f
+{/}
+b
+0
+1
+0
+1
+b
+0
+1
+0
+1
+b
+0
+1
+0
+1
+b
+0
+1
+0
+#2
+x
+b
+0 ea c
+1aca
+0ce  c
+1
+b
+0cef
+1ea
+0cce
+1aac
+b
+0 eee
+1 cac
+0 aab
+1 cece
+b
+0 ea c
+1 ce  c
+0 ea c
+1ea
+b
+
+b
+0cce
+1aac
+0 eee
+1 cac
+b
+0 aab
+1 ceee
+0 efec
+1 ce  c
+b
+0. efec
+0.
+b
+0
+1ea
+0cce
+1bac
+b
+0ceee
+1aac
+0ca b
+1ea c
+b
+0ccee
+1aac
+0 ef  c
+1a \3e
+b
+w. \4ea   //a
+b
+0 c\3e  c
+1 \3e\4f&{
+0 ce&}  c
+1   \3e
+b
+0 aabc
+1 ac  e
+0. ccde
+b
+0bcc   /a
+1ce
+0bcc   /a
+1 e
+b
+
+b
+0 ccde
+1 ee  c
+0 ac  b
+1 ce   /a
+b
+0 aa   b
+1      //a
+0 ccd  /a
+1  a
+b
+0 c\3e  c
+1 \4e&{a
+0 c&}a\3c \2c
+1 aa\1b
+b
+0 \2c\4e  \1c
+1\2ee\3f&{
+0\1cce&}
+1bac
+b
+0ccee
+1eac
+0c eb
+1aacc
+b
+0 eee
+1aac
+0 ef  c
+1 cec
+b
+0. aabc
+0. aab  //a
+b
+0.cef c
+0aacc
+1 c ce
+b
+0ccee
+1 efg
+0 ce
+1c ee
+b
+0. ea c
+0    c
+1aac
+b
+
+b
+0 ea   //a
+1a c
+0. ea   //a
+b
+0cee
+1aac
+0 aab
+1 ea c
+b
+0 cee
+1ce
+0.ccee
+b
+0ca b
+1 ea c
+0aacc
+1 f ge
+b
+0 \4h&{e"=e
+1 h\2f&( \3g
+0 h&}f ge
+1 g \3g
+b
+0.cce  c
+0ca b
+1    c
+b
+0\3e\1c\4f&{c
+1    \2e
+0acf\3e
+1  e&}  \1c
+b
+0. \3ef\2e  //a
+0. efe\1c
+b
+0 \1c\3e\2e&{
+1 \3e\4f
+0. \1c\3ee&}
+b
+0 aab
+1 acc
+0. efec
+b
+
+b
+0 c\3ee
+1 \3e\4f
+0 c\3e\2e
+1c\3e\4f
+b
+0\2ca \1b
+1 \4ea \1c&{
+0 \2ca b&}
+1a\2ca  \1c
+b
+0 \3e&{a \1c
+1 e&}\4f  \2e
+0 \1cc\2d\3e
+1\1ba  \4e
+b
+0.cc\3e&{  c
+0. ce&}\2e  5
+b
+b
+0.
+0
+1\1c\4e&{\3e\2e
+b
+0eg  e
+1\3ca \1b
+0c\2c  \1b
+1\1b \2c \4e
+b
+0\1cc\3e&{\2e
+1 \4e
+0 ce&}e
+1 \3e\4f
+b
+0 \1c\3ee
+#2 \4e\1c
+xa
+0\2ca \1b
+1c \4e  \1c
+b
+0. ea   //a
+0cef   //a
+1a c
+b
+0 ea c
+1aacc
+0\3ca \1b\2c&{
+1a \3e e&}
+b
+
+b
+0 \3e&{\4f  \2e
+1
+1 c&}\2c \1b
+1  a
+1a
+b
+1\4cc \1b&{\2c
+1 a }
+1\3ca b
+1ca\2cc
+1a\3c
+1aa  \3e
+b
+0ac\4e&{e
+1 ce&}
+0 \3ef
+1  \2ee
+b
+0c\3ec
+1 e&{cc
+0 e&}\4f\2e
+1 c\3e  c
+b
+0. \4ea c
+0. aab  //a
+b
+b
+1
+1
+1
+0
+1
+b
+w.
+b
+w.
+b
+w.
+b
+w.
+b
+w.
+b
+0.
+0
+1ea c
+b
+b
+
+b
+1ea c
+1ca b
+1a e e
+0. ea c
+b
+1 ea c
+1 ca b
+1 a d e
+0.  eeec
+b
+1gca
+1ecec
+1ca b
+0.a c e
+b
+1a c e
+1 ec c
+1 ca b
+0 e\2f  e
+1  \3gg
+b
+1 egg
+1  h
+1 ege
+0 \1ccc
+1\3e   \2e
+b
+1e\4fee
+1c\1b&{\2c
+1ac&}\3e
+0ac\1c
+#2 \4h\3g  \1e
+xa
+b
+0.a\1cc e
+0. ccc  /a
+b
+1
+1
+1
+0
+1
+b
+w.
+b
+w.
+b
+
+b
+w.
+b
+0.
+0
+1
+b
+0.
+0
+1ea c
+b
+1ea c
+1ca b
+1a e e
+0. ea c
+b
+1cef
+1cce
+1bac
+0ccee
+1ccee
+b
+1ccee
+1ecec
+1ca b
+0a c e
+1a c e
+b
+1ec ce
+1ee  c
+1dc  b
+0.ea   e
+b
+0ea d
+1b c e
+0ccee
+1cc b
+b
+1\2c\4ec\1c
+1a\1c&{\4e\3e&(
+1 e\2fg&)
+0ac&}\4fe
+1\2c e  \1c
+b
+
+b
+0. efe  //a
+0
+1 efec
+b
+0ca b
+1accc
+0 cee
+1cc b
+b
+1\2c\4ec\1c
+1a\1c&{\4e\3e&(
+1 e\2fg&)
+0ac&}\4fe
+1\2c e  \1c
+b
+0. \3ef\2e  //a
+0. aabc
+b
+b
+
+e

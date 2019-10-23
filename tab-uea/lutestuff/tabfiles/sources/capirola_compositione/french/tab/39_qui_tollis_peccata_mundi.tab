@@ -1,0 +1,508 @@
+-C
+-t
+-f
+{Qui tollis peccata mundi/Qui tollis peccata mundi}
+b
+c
+we
+b
+0e
+0e
+b
+0f
+1c
+1e
+b
+1f
+1c
+1e
+1f
+b
+0.ec
+1c
+b
+0ec
+0ec
+b
+1cd
+1a
+#2c
+xa
+xc
+xe
+b
+0fd
+0h
+b
+0  he
+1g
+1e
+b
+1h he
+1g
+#2h
+xg
+xe
+xg
+b
+
+b
+1h ff
+1   h
+1  f
+1  h
+b
+0  i
+0 f
+b
+0  a c
+1 e  a
+1 c
+b
+0  a c
+0 e
+b
+1a  ce
+1   a
+1   c
+1  a
+b
+0a c e
+0  d
+b
+0    c
+1  c
+1  a
+b
+1  d c
+1  c
+#2  d
+x  c
+x  a
+x  c
+b
+1  d a
+1     e
+1    a
+1    c
+b
+0  d e
+0   a
+b
+0  d
+1    e
+1    c
+b
+
+b
+1a   e
+1    c
+1    a
+1     e
+b
+Yf    c
+b
+Yfcde
+b
+0fcde
+0fcde
+b
+1eacc
+#2 a
+x  d
+#2  c
+x  d
+x a
+x c
+b
+0cdda
+0cdda
+b
+1cdf c
+1     e
+1    a
+1    c
+b
+0acc e
+0  d
+b
+1    e
+1  d
+1  ca
+1  a
+b
+waacc
+b
+0.aacc
+2  a
+#3  c
+x  d
+b
+0 acc
+0     a
+b
+
+b
+w acc
+b
+1    a
+1     e
+1    a
+1    c
+b
+0   ca
+0   ca
+b
+1  a a
+1  c
+1  d
+1  a
+b
+1    c
+1  a
+1   c
+1   a
+b
+0.   ce
+1  aa
+b
+1  cc
+1  d
+1 a a
+1 c c
+b
+1 a a
+1  d
+0  d e
+b
+1    c
+1  c
+#2  d
+x  c
+x  a
+x  c
+b
+
+b
+1  d a
+#2  a
+x  c
+#2  d
+x a
+x c
+x d
+b
+1a   a
+#2  d
+x a
+#2 c
+x e
+xa
+xc
+b
+1e    a
+#2 a
+x c
+#2 e
+xa
+xc
+xe
+b
+wffd a
+b
+0ffd a
+0ffd a
+b
+0ffd a
+1e
+1c
+b
+weffc
+b
+0effc
+0effc
+b
+0effc
+0effc
+b
+0effc
+0effc
+b
+0.cdf c
+1a   e
+b
+
+b
+1c  a
+1   e
+1e  c
+1f  e
+b
+0 cd
+0cdf c
+b
+0 cc e
+0b
+b
+0.c de c
+2   d
+#3   e
+x  c
+b
+0c de c
+0f  e
+b
+0c de c
+0f  e
+b
+1     c
+1f
+1e
+1c
+b
+0a d
+1c c
+1  a
+b
+0e  c
+0 c e
+b
+0a c
+1    e
+1c
+b
+1e  c
+1f  e
+1e c
+1  d
+b
+1ea
+1c
+0fc
+b
+
+b
+1hd
+1fc
+1ea
+1c d
+b
+0a c e
+0   c
+b
+1    e
+1   a
+1   c
+1   e
+b
+1   c
+1    e
+1   c
+1 c
+b
+0   a
+0 a
+b
+0 c  e
+0 c c
+b
+0a   e
+1 c c
+1 e
+b
+0a
+1    e
+1 c
+b
+0 d
+0  f
+b
+0 c
+0ac
+b
+0c d
+0ea
+b
+0.fc
+1ea
+b
+0c d
+0b c
+b
+
+b
+0c a
+0  de
+b
+0 a a
+0 c c
+b
+0. d e
+1 c c
+b
+0 a a
+0 ce e
+b
+0. df c
+1 c
+b
+0 a
+0c da
+b
+0.e cc
+1c  a
+b
+0a   e
+0 d  c
+b
+0 c  a
+1a
+1    c
+b
+0 cc e
+0a c
+b
+0c de c
+0c de c
+b
+0f  e
+0  d
+b
+0eacc
+0     a
+b
+0cdf
+0    c
+b
+
+b
+0a c e
+1    a
+1c
+b
+1ea c a
+1f
+1h
+1e
+b
+0f hh
+0a   a
+b
+0cd a
+1e
+1   c
+b
+0fcde
+0cdf c
+b
+0 cc e
+0b
+b
+wc de c
+b
+0c de c
+0 c e
+b
+1c    c
+1e
+1c
+1 f
+b
+0 d
+0 ce
+b
+1 af
+1 c
+1 a
+1  d
+b
+0  c
+0  a c
+b
+
+b
+1   c
+1   e
+1   c
+1   a
+b
+0    e
+0 a  c
+b
+1 c  a
+1 d
+1 c
+1 a
+b
+0  d
+0a c e
+b
+0c aa
+0e   c
+b
+0f  e
+0  d
+b
+0eacc
+0ac
+b
+0cdda
+0   ac
+b
+0acc e
+0 cd
+b
+0. dfec
+1    a
+b
+0 cde c
+0   e
+b
+0  cc
+0a   e
+b
+0c aa
+0e   c
+b
+0f  e
+0  d
+b
+
+b
+0eacc
+0ac
+b
+0cdda
+0   ac
+b
+0a c e
+0 cd
+b
+w dfec
+b
+0 cde c
+0   e
+b
+w cde c
+b
+w ccde
+b
+1 ccde
+1 a
+1  d
+1  c
+b
+1  d
+1  a
+1  c
+1  d
+b
+0  cde
+1  d
+1  a
+b
+Y ccde
+b
+b
+
+e

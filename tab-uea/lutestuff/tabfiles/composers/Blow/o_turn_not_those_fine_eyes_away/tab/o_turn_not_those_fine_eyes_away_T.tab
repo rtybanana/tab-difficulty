@@ -1,0 +1,511 @@
+-C
+-t
+-f
+{/John Blow}
+b
+0. cde c
+b
+1 cde
+2. aca
+3  a
+1 ccde
+b
+2 aaa
+#3  d e
+x  c c
+#2  dee
+x    c
+#2  cde
+x      /a
+b
+1  de c
+#2  de
+x    e
+#2    c
+x  dea
+b
+2  cec
+#3    e
+x   a
+#2  cee
+x    c
+#2    e
+x   d  /a
+b
+0.  d ec
+b
+1 cde
+2. aca
+3  a
+1 ccde
+b
+
+b
+2 aaa
+#3  d e
+x  c c
+#2  dee
+x    c
+#2  cde
+x      /a
+b
+0.  d ec
+b
+#2  de c
+x a   e
+#2 c  a
+x     c
+1  cde
+b
+1 cdef
+0 ac
+b
+1 ccde
+#2acc
+x   c
+#2   b
+xac  e
+b
+2. ec d
+3a   e
+#2 c   a
+x     c
+#2   gge
+x  g   4
+b
+1 ccc  /a
+1a c e
+1a c e
+b
+1 ec d
+1 ec c
+1 ec c
+b
+#2 cc b
+x  a
+1  a a
+#2 c
+x a   e
+b
+
+b
+#2  d  c
+x  c  a
+1  a   a
+1 aa   b
+b
+1. acc a
+2 acc  a
+2.  dc  /a
+3 a    //a
+b
+1. cdc  ///a
+2 cdca
+#2 aaa
+x d  c
+b
+1 acc
+1a d e
+1 c  a
+b
+0  def
+1  de  a
+b
+#2  cc a
+x  d  c
+1. adc a
+2  c
+b
+0  dce ///a
+1 cacb
+b
+1 acac
+1  cde
+1 aaa
+b
+0 ccde
+1 cd  c
+b
+1 cdee
+1  cd
+#2  a b
+x c
+b
+1 acac
+1  cde
+1 aaa
+b
+
+b
+1. ccde
+2 ca a
+#2 dcec
+x ccde
+b
+#2 cde c
+x a   e
+1 c  a
+1  acb
+b
+1 acac
+1  cde
+1 aaa
+b
+1. ccde
+2 cdea
+#2 dcec
+x ccde
+b
+1  de c
+#2fc
+x    e
+#2    c
+xfc  a
+b
+2ed  c
+#3    e
+x   a
+#2ccd e
+x    c
+#2b c e
+x      /a
+b
+0.ccd  c
+b
+1 cde
+2. aca
+3  a
+1 ccde
+b
+
+b
+2 aaa
+#3  d e
+x  c c
+#2  dee
+x    c
+#2  cde
+x      /a
+b
+1  de c
+#2  de
+x    e
+#2    c
+x  dea
+b
+2  cec
+#3    e
+x   a
+#2  cee
+x    c
+#2  cde
+x      /a
+b
+0.  d ec
+b
+1 cde
+2. aca
+3  a
+1 ccde
+b
+2 aaa
+#3  d e
+x  c c
+#2  dee
+x    c
+#2  cde
+x      /a
+b
+0.  d ec
+b
+#2  d  c
+x a   e
+#2 c  a
+x  d  c
+1  cde
+b
+1 cdef
+0 ac
+b
+
+b
+1 ccde
+#2a c
+x c c
+#2cb b
+xac  e
+b
+2. ec d
+3a   e
+#2 c   a
+x  d  c
+#2   gge
+x  g   4
+b
+1 ccc  /a
+1a c e
+1a c e
+b
+1 ec d
+1 ec c
+1 ec c
+b
+1 cc b
+#2  a a
+x c
+#2 a
+x   d e
+b
+#2  de c
+x  a
+1 ccc
+1 bab
+b
+1 ccce
+#2a c e
+x e  d
+#2 c  b
+x b   e
+b
+2 ccce
+#3     a
+x     c
+#2     e
+x     c
+#2  ggge
+x      4
+b
+
+b
+0 ccc  /a
+1 aa   a
+b
+1 ac  a
+1  dc  /a
+1 c    ///a
+b
+0. da a a
+b
+#2 ac  a
+x  d  c
+1. adc a
+2  c
+b
+0 cdca
+1 cacb
+b
+1 acac
+1  cde
+1 aaa
+b
+2. ccde
+3    c
+#2  a a
+x a   c
+#2 dcec
+x ccde
+b
+#2  de c
+x a   e
+1 c  a
+1  acb
+b
+1 aaac
+1  cde
+1 aaa
+b
+2. ccde
+3    c
+#2  a a
+x  d  c
+#2 dcec
+x ccde
+b
+
+b
+1  de c
+#2fc
+x    e
+#2    c
+xfc  a
+b
+2ed  c
+#3 c  e
+x a a
+#2ccd e
+x    c
+#2b c e
+x      /a
+b
+0.ccd  c
+b
+1 cde
+2 a a
+#3  c
+x  a
+1 ccde
+b
+2 aaa
+#3 c  e
+x d  c
+#2 cdee
+x    c
+#2 ccde
+x      /a
+b
+1  de c
+2 ca
+#3    e
+x  d
+2  c c
+#3 c  a
+x  a
+b
+2 ac c
+#3    e
+x   a
+#2  cee
+x    c
+2  cde
+2      /a
+b
+0.  d ec
+b
+
+b
+#2  de
+x c
+#2 aca
+x  a
+#2  cde
+x c
+b
+2 aaa
+#3 c  e
+x d  c
+#2 cdee
+x    c
+#2 ccde
+x      /a
+b
+2.  de c
+3 a
+0 cde
+b
+#2 cde c
+x     e
+#2    a
+x     c
+1 ccde
+b
+1 cdef
+0 ac
+b
+#3   de
+x  c
+x c
+x e
+2a c
+#3e  c
+x c
+#3c  b
+x b
+xa   e
+x c
+b
+2. ec d
+3a   e
+#2 c   a
+x     c
+#2  ggge
+x      4
+b
+
+b
+1 ccc  /a
+1a c e
+1a c e
+b
+1 ec d
+1 ec c
+1 ec c
+b
+1 cc b
+1. ca a
+2 a d e
+b
+#2  de c
+x cc  a
+1 dde  a
+1 ade  b
+b
+0 acc a
+1 cdc  /a
+b
+0acd   ///a
+#2c d   a
+x df   //a
+b
+1 ac  a
+1a dc  /a
+1 c    ///a
+b
+0. dde  a
+b
+#2 ac  a
+x  d  c
+1. adc a
+2  c
+b
+0 cdca
+1 cacb
+b
+1 aaac
+1  cde
+1 aaa
+b
+
+b
+2. ccde
+3    c
+#2   ea
+x  d  c
+#2 dcec
+x ccde
+b
+2  de c
+#3     e
+x a
+1 c  a
+1 cacb
+b
+1 aaac
+1  cde
+1 aaa
+b
+2. ccde
+3    c
+#2   ea
+x  d  c
+#2 dcec
+x ccde
+b
+1  de c
+#2fca
+xf   e
+#2    c
+xfca a
+b
+2ed  c
+#3 c  e
+x a a
+#2ecd e
+x    c
+#2b c e
+x      /a
+b
+0.ccd  c
+b
+b
+
+e

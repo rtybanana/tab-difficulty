@@ -1,0 +1,216 @@
+-C
+-t
+-f
+{1. Ricercar 1/1. Ricercar 1}
+b
+c
+0  d
+#1a
+x  b
+b
+#1  d
+x df
+1ab
+#2ca
+x  d
+b
+#2d bc
+x  a
+x  b
+x  d
+#2d bc
+x c
+1cd a
+b
+#2   c
+xa b
+x da
+x b
+1 dff
+#2  de
+x  bc
+b
+2c da
+#3a
+xc
+#1d bc
+x    d
+#2c d
+xa
+b
+1da  c
+#2c
+xa
+#1da  c
+xc d
+b
+
+b
+#2    c
+xa b
+x  a
+x   c
+#1 da c
+x  c
+b
+#1 bd a
+x ab c
+x    d
+x   c
+b
+#1  de
+x   c
+x    c
+x a a
+b
+#1   ca
+x     d
+x  d  c
+x  db
+b
+#1 ab  a
+x   c
+x  a
+x a b
+b
+1   c
+#2 a a
+x    d
+#2  d c
+x    a
+1a c c
+b
+1.a d a
+2c
+#1da   a
+x   c
+b
+#1c
+x a b
+#2   c
+xa b
+x da
+x   c
+b
+
+b
+#2 d a
+x    d
+x  b c
+xa
+#1c a a
+xd  c d
+b
+#1     f
+xc  bc
+2a  cd
+#3c
+xa
+#3c
+xa
+x d
+x b
+b
+#2 abc
+x  d
+1 b
+#2  aa
+x a
+1 a  c
+b
+1  bcd
+#2  d
+x   e
+#1 ab c
+x bd a
+b
+1 d  c
+#2  b
+xa
+#1c a a
+xd  c d
+b
+#1f    c
+x h  g
+x if  a
+x    h
+b
+#1 h
+x   h
+x fg
+xd f
+b
+
+b
+#1c d
+xa b
+#2 d  c
+x  a
+1  b
+b
+#1   ea
+x    c
+x   c d
+x    a
+b
+#1     c
+xc  b
+xda c a
+xca ac
+b
+#1a bcd
+x  d a
+x daac
+#2aab  d
+x d
+b
+#2    a
+x bdc
+x a a
+x  d
+#1 ab  a
+x   c
+b
+#1   e
+x  f f
+x  d d
+x  b c
+b
+#1  a a
+x   c d
+x     c
+xc  b
+b
+#1da c a
+xca ac
+xa bcd
+x  d a
+b
+
+b
+1 daac
+#2aab  d
+x d
+#2    a
+x bdc
+x a a
+x  d
+b
+1 ab  a
+#2 d  c
+x  a
+#1 bbcd
+x aba d
+b
+#2     c
+x  d
+x  d c
+x    a
+#1  dcca
+x  c
+b
+Y  dca
+b
+b
+
+e

@@ -1,0 +1,402 @@
+-C
+-t
+-f
+{243. In nomine/Robert Parsons}
+b
+c
+0  a
+1  a
+1 c
+b
+1 cd
+1 c
+1 cd
+1  a bc
+b
+1 ca bc
+1    bc
+1  a bc
+1   ac
+b
+1  a bc
+1 c
+1 ca
+1 c  bc
+b
+1 ca bc
+1  a bc
+1 ca bc
+1 da c
+b
+1 ccde
+#2  de c
+x a
+#2 ccde
+x   e
+x ccee
+x   d
+b
+1  deec
+1c
+1c d  c
+1c  e
+b
+1caa c
+1 aabc
+1caabc
+1   bc
+b
+
+b
+1 aabc
+1  cc a
+#2    ec
+x  d
+1  a a
+b
+1 bcb e
+1ec ce
+#2e  b e
+x c
+1ebc  e
+b
+1ecc e
+1 cc
+1ecc
+1   de
+b
+1 ccde
+1 ccde
+1acc e
+1fd e c
+b
+#2ec de
+xc
+xc d ec
+x  f
+2 h ge
+#3 g
+x e
+#2 ghge
+x  f
+b
+1 cee c
+1f
+1fc e c
+1f d
+b
+1ffd
+1acdca
+#2fcdca
+x d
+x c  a
+x a
+b
+
+b
+1 cdca
+1fc e c
+1fcdca
+1fcd
+b
+2acd a
+#3c
+xe
+#2fcd a
+x a
+#2 c  a
+xe
+xc d a
+xa
+b
+1aaccca
+#2caabc
+x    a
+#2ea   e
+x  c
+1 a d e
+b
+1  deec
+1c
+1c d  c
+1c  e
+b
+1cca
+1 aabc
+1ca bc
+1   bc
+b
+#2 aabc
+x  a
+x  cc a
+x  d
+1 aa gh
+1h
+b
+1fc
+1ec de
+#2ea c a
+xf
+1c de c
+b
+
+b
+1b c e
+#2c a a
+x    c
+2  hge
+#3 g
+x e
+#2 ghge
+x  f
+b
+1cce  c
+1c
+1fc
+1 cdca
+b
+1 cdca
+1a
+1fcd
+#2 cdca
+xd
+b
+1cdda
+#2 d
+xa
+#2c da
+xe
+xf  a
+xc
+b
+2.ea c a
+3f
+#2e
+xc d
+#2a c  a
+x da
+x cd
+x ac
+b
+1 cdca
+1a
+1fc
+1  de c
+b
+1 daac
+1ca  c
+1ha a h
+#2   a h
+xh
+b
+
+b
+1fc e c
+1eac  b
+#2 cde c
+xf
+1ccdeec
+b
+1 ghge
+#2    e
+x ghg
+1ccde
+1ec de
+b
+1 ghge
+#2    e
+x ccd
+1 cde c
+1  c  b
+b
+1 ccde
+1b c e
+1ca b
+#2   c
+xe
+b
+1b c e
+#2    e
+x ccd
+1 cde c
+#2  cde
+xb
+b
+1ca a
+#2b c e
+x   d
+1ca bc
+#2aac  a
+x d
+b
+1 cdca
+#2    e
+xa
+#2f de
+x   c
+xacd
+x   ca
+b
+
+b
+#2  def
+xc
+xf d a
+x   ce
+#2 a ac
+xc
+xe  c a
+x a c
+b
+#2acd
+x    a
+x  dce
+xac  a
+#2fc  a
+x   c
+xa   e
+x c  a
+b
+#2  da c
+xf aa
+xc da
+x d
+#2  def
+xc  a
+xa  ce
+x cd a
+b
+#2 a c e
+xh  g a
+xea c
+xa cc
+#2 a b
+xc  bc
+x ea
+x acc a
+b
+#2 cdce
+xa   a
+x c c
+x  d a
+#2 ca  c
+xfc ca
+xecc e
+xfc  a
+b
+
+b
+#2ea c a
+xca bc
+#3   c e
+xe
+2a cc a
+#2ca bc
+xa    e
+1 ea c
+b
+#2  de c
+xf
+xf
+xf def
+#2cdda
+xfdaa
+x cd a
+xf aa
+b
+#2f d
+xf aa
+xcdda
+xf aa
+#2 cdca
+x dda
+xcd a
+x daa
+b
+#2  da c
+x daa
+xcd a
+x daa
+#2  da c
+x daa
+xcd a
+xfdaa
+b
+#2  d e
+xa   e
+xcd a
+xf d e
+#2  de
+x  d f
+x c  e
+xaf  a
+b
+
+b
+#2ea c
+xh  g a
+x a   e
+xc   c
+#2 ea
+x a  c
+x a c e
+xa c  a
+b
+#2 cd
+x  de c
+x  aa c
+xfdaa
+#2c da
+x daa
+xa  ce
+x cd a
+b
+#2  cce
+xe
+xa   e
+x e b e
+#2  c  b
+xe  de
+xb   e
+x c  e
+b
+#2  a bc
+x ca bc
+x  e ec
+x  a bc
+#2  abc
+xca bc
+x ea
+x aa c
+b
+#2   c e
+xha g a
+xea c
+xacd a
+#2 a c e
+xha g a
+xea c
+xa cc a
+b
+
+b
+#2  ab
+xca bc
+xgc e c
+xcc e c
+#2  ee
+xcc e c
+xgc e
+xcce  c
+b
+#2ca bc
+xgc e c
+#3ca bc
+x   c
+x  a b
+x  c ce
+Ycceeec
+b
+b
+
+e

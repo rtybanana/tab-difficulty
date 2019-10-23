@@ -1,0 +1,209 @@
+-C
+-t
+-f
+{25.  Ich klag den tag/Thomas Stoltzer}
+b
+x   a a
+b
+b
+c
+1 d a a
+#2 d a
+x     a
+#3 d a
+x c
+x d
+xa
+#3c
+xa
+xc
+x d
+b
+1ac  a
+#2ac
+x    a
+#3ac  a
+x a
+x c
+x d
+#3a
+xc
+xd
+xa
+b
+#2cd a
+xd
+#3f
+xd
+xc
+xa
+1cd a
+1ac  a
+b
+
+b
+0 df c
+2 df  f
+#3d
+xc
+#3a
+x d
+x c
+x a
+b
+w cdca
+b
+0
+2 cd a
+#3 a
+x c
+#3 d
+x c
+x a
+x  d
+b
+#2 ab  c
+x  a
+x   c
+x  a
+2 a f f
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+w  defa
+b
+0
+1 daa
+#3a
+x d
+x c
+x a
+b
+#2 c ca
+x    c
+x    e
+x   a
+1   ce
+1  def
+b
+
+b
+1 ab c
+1 cd a
+#2 d  c
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+w cdca
+b
+0
+#2 da c
+x c
+x a
+x d
+b
+#2 cd a
+x a
+x  d
+x c
+2 ab  c
+#3  a
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+w  de e
+b
+0
+0 cd  e
+b
+.
+#2 cd  e
+x a
+#3  d
+x a
+x c
+x d
+1 cd  e
+1 cd  e
+b
+
+b
+#2 df c
+x c
+x d
+xa
+#2cd  c
+xa
+xc
+xd
+b
+1fc  a
+#2 c
+x a
+#2c d  a
+x  b  c
+x  a  e
+#3a    f
+x d
+b
+1 ca a
+#2 d cc
+x   a
+#3   ca
+x d
+x c
+x a
+#2 d
+x c
+b
+A1
+0 daa a
+0 cd  e
+.
+b
+b
+A2
+w daa a
+b
+
+b
+#3   a
+x   c
+x  a
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+#3 c
+x a
+x  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+w daa a
+b
+b
+
+e

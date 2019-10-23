@@ -1,0 +1,609 @@
+-C
+-t
+-f
+{21. Corrente 1/Giovanni G. Kapsberger}
+b
+1f
+b
+1b  a
+1 d
+1b
+b
+1a  d
+1 d
+#2d
+xb
+b
+1ab d
+1 d
+1f
+b
+1b  a
+1a  d
+1 d
+b
+1. b  a
+2  d
+#2 a
+x b
+b
+1a
+1b
+1d
+b
+1.f  a
+2   c
+1   d
+b
+1 d f
+1a
+1b
+b
+1d  c
+1 c
+1b  a
+b
+
+b
+1a  d
+1 d
+1 c c
+b
+1. d da
+2    c
+1    d
+b
+1  da
+1 a
+1 b  d
+b
+1 d  c
+1  c
+1 b  a
+b
+1. a a
+2  d
+1  cc
+b
+1 bdd
+1 d
+1a   d
+b
+1b  a  a
+1     a
+1     b
+b
+1 ab  d
+1 b
+1 d
+b
+1a b  a
+1     b
+1     d
+b
+1ab  a
+1b
+1d
+b
+1f   a
+1    c
+1a d e
+b
+
+b
+1.b  a
+2   c
+1   d
+b
+1 d f
+1a
+1b
+b
+1.d  c
+2f
+1b  a
+b
+1.ab  a
+2b
+1 d  b
+b
+1.  ea d
+2 b
+1 d
+b
+1b  a
+1.a   a
+2c
+b
+1. daa  a
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+2.   a
+3  d
+#3 a
+x c
+2 d
+1f
+b
+b
+
+b
+#3b  a
+xa
+xb
+xd
+#3b
+xa
+2 d
+2b
+#3   a
+x   c
+b
+1   d
+#3 b
+x d
+xa
+xb
+#2d
+xb
+b
+#2a  d
+x d
+#3  d
+x a
+x b
+x d
+#3a
+xc
+xd
+xf
+b
+2.b  a
+3a
+#3b
+xd
+2b
+#2a  d
+x d
+b
+2. b  a
+3  d
+#3 a
+x b
+x d
+xa
+#2 b
+x  d
+b
+2.a   a
+3b
+#2a
+xb
+1d
+b
+
+b
+2.f  a
+3   c
+#2   a
+x   c
+1   d
+b
+2. d f
+3a
+#2 d
+xa
+1b
+b
+#2   c
+xd
+#2 a
+x c
+#2   a
+xb
+b
+#2   d
+xa
+#2 d
+x   c
+#2 d
+x c
+b
+2. d da
+3    c
+#2    a
+x    c
+1    d
+b
+2.  da
+3 a
+#2  d
+x a
+1 b
+b
+#2    c
+x d
+#2  a
+x  c
+#2    a
+x b
+b
+
+b
+#2   a
+x a
+#2  d
+x a c
+#2  d
+x  cc
+b
+2. bdd
+3 d
+#2 b
+x d
+1a
+b
+2.   a  a
+3     a
+#2      a
+x     a
+1     b
+b
+2. ab  d
+3 b
+#2 a
+x b
+1 d
+b
+2.ab   a
+3     b
+#2     a
+x     b
+1     d
+b
+2.ab  a
+3b
+#2a
+xb
+1d
+b
+2.f   a
+3    c
+#2    a
+x    c
+1    e
+b
+2.bd a
+3   c
+#2   a
+x   c
+1   d
+b
+
+b
+2. d f
+3a
+#2 d
+xa
+1b
+b
+#2d  c
+x c
+#2f
+xb  a
+#2 d
+xd
+b
+2 b  a
+#3  d
+x a
+#3 b
+x d
+xa
+xb
+#2 d  b
+xd
+b
+1. def d
+2  g
+#2 d
+x f
+b
+2. g
+3d
+1.a   a
+2c
+b
+A2
+1 d a  a
+#3 b
+x a
+x  d
+x  b
+#3  a
+x   c
+2   a
+b
+b
+1  d
+1 d a
+1a   e
+b
+
+b
+1.b  a
+2d
+1b
+b
+1.a   d
+2b   b
+1d
+b
+1.f   a
+#3  d
+x a
+#2 b
+x d
+b
+1  ea d
+1  g
+1  d
+b
+1.  bcd
+#3   d
+x  b
+#2  d
+x  b
+b
+#2   da
+x    c
+1  bdd
+1   c
+b
+1.bbdd b
+#3  d
+x a
+#2 b
+x a
+b
+1.  d
+#3   a
+x   c
+2  cd
+#3  bc
+x  d
+b
+1  ea
+1   c
+1  dd
+b
+
+b
+1  bcd
+1  d
+1  bab
+b
+1.  d a
+2 a
+1 b  a
+b
+1 d  c
+1a   d
+1c  a
+b
+1.d  c
+2b
+1a   d
+b
+1b  a
+1    c
+1d
+b
+1.a   d
+2c
+1d
+b
+1a
+1f
+1d
+b
+1.b  a
+#3a
+xb
+1d
+b
+1b
+1.a   a
+2c
+b
+1 daa  a
+#3 c
+x a
+x  d
+x  b
+#3  a
+x   c
+2   a
+b
+b
+
+b
+#2  d
+x   a
+#2 d
+x    a
+#2a
+x    e
+b
+2b  a
+#3 d
+xa
+#3b
+xd
+2f
+#3  d
+x a
+x b
+x d
+b
+#2a
+x    d
+#2b
+x    b
+#2 d
+xd
+b
+2.f   a
+3h
+2i
+#3  d
+x a
+#2 b
+x d
+b
+#2  e  d
+x   f
+#2  g
+x  d
+#2   d
+x  e
+b
+
+b
+#3    d
+x   a
+x   c
+x   d
+2  b
+#3   d
+x  b
+#2  d
+x  b
+b
+#3  e a
+x  d
+x  b
+x   d
+#2 b
+x    c
+#2  bdd
+x   c
+b
+1bbd  b
+#3  d
+x a
+x b
+x d
+#2 b
+x a
+b
+1  d
+#3   a
+x   c
+x   d
+x  b
+2   d
+#3  bc
+x  d
+b
+#2  ea
+x   c
+#2   d
+x  b
+#2  dd
+x  e
+b
+
+b
+2  bcd
+#3    a
+x    c
+#3    d
+x   a
+x   c
+x   d
+2.  bab
+3 b
+b
+2.  d a
+3  c
+#3  d
+x a
+2 b  a
+#3 d
+x b
+x a
+x  d
+b
+#2 d
+x    c
+#2    d
+xa
+#2b
+x   a
+b
+2.d  c
+3f
+#2d
+xb
+#3a
+x b
+x d
+xa
+b
+2.b  a
+3d
+#2b
+x    c
+#2d
+xb
+b
+
+b
+2.a   d
+3  b
+#3  d
+x a
+x b
+x d
+#3a
+xb
+2d
+b
+#2a
+x  d
+#2f
+x d
+#2d
+x c
+b
+2.b  a
+3a
+#3b
+xd
+2b
+#2a
+x d
+b
+1.ac  a
+2b
+2.a   a
+3c
+b
+2 daa  a
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+1   a
+b
+b
+
+e

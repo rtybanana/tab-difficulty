@@ -1,0 +1,666 @@
+-C
+-t
+-f
+{Carman's Whistle/John Johnson}
+b
+0fcd a
+1fcd a
+b
+0ea c
+1aa c
+b
+0ccde
+1cef c
+b
+0.aac  a
+b
+1fcd a
+#2  d
+x a
+#2fc
+x e
+b
+1ef c
+#2  f
+x  d
+1aac
+b
+1ccd
+#2   e
+x f
+#2cef c
+x  d
+b
+#1aac  a
+x   c
+x     a
+b
+#1 dda
+xc
+x   a
+b
+#1 cd a
+xa
+x c
+b
+
+b
+#1 aa c
+x d
+x  c
+b
+1. cd a
+2    c
+1  dce
+b
+1 ddef
+#2c
+x   c
+#2   e
+x  c
+b
+1 cd
+#2a
+x    a
+#2    c
+x    e
+b
+1 dda
+#2    c
+x c
+1 acc
+b
+0  dca
+1   c
+b
+#1 dda
+xc
+#2 c
+x a
+b
+#1 cd a
+xa
+#2 a
+x  d
+b
+#1 ac c
+x d
+#2   c
+x   a
+b
+
+b
+#1 cd a
+x   c
+#2  da
+x    e
+b
+#2 da c
+xa
+xc  a
+x   c
+#2   e
+x  c
+b
+#2 cd a
+x d
+xa
+x    a
+#2    c
+x    e
+x dda
+x   c
+#2   e
+x c
+1 ac
+b
+2  dca
+#3  a
+x  c
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+1  d
+b
+b
+#1ffhh
+x f
+xfh
+b
+b
+#1ef c
+x   e
+xaac
+b
+
+b
+#1c de
+x c
+xcef c
+b
+#1aac
+x   c
+x   a
+b
+#1f d e
+x d  c
+xfc  a
+b
+#1e fc
+x  d
+xaac
+b
+#1ccde
+x   c
+xca b
+b
+1aacc
+#2     a
+x  d
+#2 a
+x c
+b
+1 da c
+1c
+#2     c
+x     e
+b
+1 cd a
+1a
+#2     e
+x    a
+b
+1 aa c
+1 d
+#2  a
+x  c
+b
+
+b
+1 cd  f
+1    e
+#2  da
+x   c
+b
+1 ddef
+1c
+#2   c
+x   a
+b
+1 cd a
+1a
+#2    f
+x    e
+b
+1 da c
+#2   a
+x c
+1 acc
+b
+#1  dca
+x   c
+x    a
+b
+#1 daa
+xc
+x ac
+b
+#1 cd
+xa
+x  dce
+b
+#1 aaac
+x d
+x  cc
+b
+#1 cde c
+x     e
+x  dcef
+b
+1 daac
+#2c
+x    e
+#2   a
+x  c
+b
+
+b
+1 cd e
+#2a
+x   a
+#2 a c
+x c
+b
+1 df c
+#2    e
+x c
+#2 a a
+x   c
+b
+1  dca
+0   c
+b
+b
+1.f d
+2 a
+#2 c
+x e
+b
+#1ef
+x a
+xaac
+b
+1ccd
+#2   e
+xa
+1cef
+b
+#1aac
+x   c
+xa
+b
+#2f
+x  d
+#2 c
+x d
+#2fc
+x  d
+b
+#2ea
+x   c
+#2  c
+x  d
+#2aac
+x   c
+b
+
+b
+#2c d
+x  c
+#2  a
+x   c
+1ca b
+b
+#2aa c
+x  d
+#2  c
+x  a
+1   c
+b
+#2 df
+xa
+1c
+#2  a
+x  c
+b
+#2 cd
+x d
+1a
+#2    e
+x   a
+b
+#2 acc
+x c
+1 d
+#2     c
+x     e
+b
+#2 cd a
+x    c
+1    e
+#2  da
+x  c
+b
+#2 dfec
+xa
+#2c
+x   c
+#2  a
+x  c
+b
+
+b
+#2 cd
+x d
+#2a
+x    e
+#2   a
+x   c
+b
+#2 da
+x  c
+#2  d
+x c
+1 acc
+b
+#2  dca
+x a
+#2 c
+x  b
+#2  a
+x   c
+b
+2.cdda
+3a
+#2c
+x    f
+#2    e
+x    c
+b
+2. cd a
+3 d
+#2a
+x   c
+#2   a
+x    e
+b
+2. aa c
+3 c
+#2 d
+x    c
+#2    b
+x     e
+b
+1. cee c
+2   c
+#2  def
+x    e
+b
+
+b
+#2 da c
+xa
+#2c
+x c
+#2 da
+x  c
+b
+#2 cd
+x d
+#2a
+x    a
+#2    c
+x    e
+b
+1. ddef
+2 c
+1 acc
+b
+1.  dca
+2   c
+1  dce
+b
+b
+1.fhia
+2   c
+1fd e
+b
+1.ef c
+2   e
+1aac
+b
+1.cef c
+2    e
+1ca b
+b
+1.aacc
+2  de
+1aac
+b
+1fcd a
+#2f
+x    c
+#2f   e
+x   b
+b
+
+b
+#2ef c
+x   e
+#2  c
+x  d
+#2aac
+x cd
+b
+#2cef c
+x    e
+#2   b
+x   c
+#2ccde
+x  ab
+b
+#2aac
+x   c
+#2     a
+x  d
+1  c
+b
+1 da c
+#2c
+x   c
+1   e
+b
+1 cdca
+#2a
+x   a
+1   c
+b
+1 aa c
+#2 d
+x  a
+1  c
+b
+1 cd a
+#2  d
+x    c
+1  dce
+b
+#2 d a
+x  a
+#2c
+x  d
+#2  a
+x   a
+b
+
+b
+#2 cd
+x   c
+#2a   e
+x    a
+#2 c
+x  d
+b
+#2 da
+x   a
+#2   e
+x c
+#2 ac
+x   c
+b
+#2  dca
+x     a
+#2    ac
+x    ce
+1  d e
+b
+#2 da c
+xa
+#2c a
+x  cc
+#2  de
+x ac
+b
+#2 cd a
+x d
+#2a  c
+x  de
+#2 ac
+x cd
+b
+#2 aa c
+x c
+#2 d
+x   ce
+#2  aa
+x  cc
+b
+#2 cd a
+x    e
+#2   a
+x   c
+#2  de
+x   c
+b
+
+b
+#2 d a
+x    e
+#2cd  c
+x    e
+#2 a a
+x  c c
+b
+#2 cd
+x    a
+#2a   e
+x   a
+#2 c c
+x  d e
+b
+#2 dfa
+x    e
+#2    c
+x cd
+#2 acc
+x   a
+b
+#2  dce
+x   a
+#2   c
+x    e
+1  dca
+b
+b
+1.fcd a
+2    c
+#2fc  e
+x   a
+b
+1.ea c
+2   e
+1aac
+b
+1.ccde
+2   c
+#2ca b
+x    c
+b
+1.aacc
+2   a
+#2a d e
+x    c
+b
+
+b
+1.fcd a
+2     e
+1fc e c
+b
+1.ea c a
+2     c
+1aa c e
+b
+1.ccd  c
+2 f
+1cef c
+b
+#1aac
+x   c
+x     a
+b
+2. da c
+3a
+1c
+1   a
+b
+2. cd a
+3 d
+1a
+1    e
+b
+2. aa c
+3 c
+1 d
+1  cc
+b
+2. cee
+3   c
+1  def
+1    e
+b
+#2 da c
+xa
+1c
+#2  a
+x  c
+b
+
+b
+2. cd a
+3 d
+1a
+#2    c
+x    e
+b
+1. ddef
+2 c
+1 acc
+b
+0  dca
+1   c
+b
+1 dda
+1c
+#2    e
+x    c
+b
+1 cdca
+1a
+#2   a
+x    e
+b
+1 aa c
+1 d
+#2    b
+x     e
+b
+0 cee c
+1  def
+b
+1 daac
+#2c
+x   c
+#2   e
+x  c
+b
+1 cdca
+#2a
+xc
+#2e
+xf
+b
+#1h ia
+xf h
+xeffc
+b
+
+b
+Y.ffh a
+b
+b
+
+e

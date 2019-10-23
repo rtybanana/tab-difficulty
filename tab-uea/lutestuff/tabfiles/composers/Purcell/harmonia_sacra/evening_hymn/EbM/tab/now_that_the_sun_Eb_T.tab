@@ -1,0 +1,494 @@
+-C
+-t
+-f
+{Now that the sun/Now that the sun}
+b
+w    d /a
+b
+b
+1    d
+1    c
+1    a
+b
+1    c
+1    a
+1     d
+b
+1    a
+1     d
+1     b
+b
+1     d
+1     b
+1     a
+b
+1     b
+0     d
+b
+1 b cd
+1a   c
+1 b  a
+b
+1 d  c
+1    a
+1 a   d
+b
+1 b  a
+1     d
+1  d  b
+b
+1 a   d
+1     b
+1 b   a
+b
+1  dd b
+0 df  d
+b
+
+b
+1abb d
+1    c
+1 b ca
+b
+1 db c
+1    a
+1 df  d
+b
+1 b ca
+1     d
+1  da b
+b
+1 aba d
+1     b
+1 bb  a
+b
+1 dd db
+1 dg  d
+1  f
+b
+1 bbc  /a
+1    c
+1 b  a
+b
+1 db c
+1    a
+1 a   d
+b
+1 b  a
+1     d
+1  d  b
+b
+1 a   d
+1     b
+1 bb  a
+b
+1 ddd b
+1 dg  d
+1  f
+b
+1 b cd
+1    c
+1ab  a
+b
+
+b
+1 db c
+1    a
+1     d
+b
+1a d a
+1     d
+1 dd  b
+b
+1 de  d
+1     b
+1 bb  a
+b
+1 dd  b
+0 df  d
+b
+1abb d
+1    c
+1ab  a
+b
+1 db c
+1    a
+1 df  d
+b
+1 b  a
+1     d
+1  d  b
+b
+1 aba d
+1     b
+1 bb  a
+b
+1 dd  b
+1 dd  d
+1 a
+b
+1abb d
+1    c
+1 baca
+b
+1 abc
+1   a
+#2 b cd
+x d
+b
+
+b
+1aaca
+1    d
+1 dc c
+b
+1abd d
+1    c
+1aba a
+b
+1 ea c
+1    a
+1aa   d
+b
+1aba a
+1aaa c
+1 e    //a
+b
+1abb   /a
+1    c
+1 ba a
+b
+1 df  d
+1     c
+1 ab  a
+b
+1 b a c
+1     a
+1 aa   a
+b
+1 ab  a
+1      a
+#2 b c  /a
+x a
+b
+1  de  a
+1      /a
+1 db   //a
+b
+1a df  /a
+1 ddf  a
+1   e
+b
+1 aba d
+1     c
+1a b  a
+b
+
+b
+1  da c
+1     a
+1c d   a
+b
+1da   a
+1c d   a
+1a     /a
+b
+1c d   a
+1      /a
+1dd    //a
+b
+1a df  /a
+1 ddf  a
+1   e
+b
+1 df  d
+1     c
+1aab  a
+b
+1  da c
+1     a
+1 dde  a
+b
+1 ab  a
+1      a
+1 b c  /a
+b
+1 df   a
+1      /a
+1 db   //a
+b
+1a df  /a
+1 ddf  a
+1   e
+b
+1 df  d
+1    a
+1 db c
+b
+1db cd
+1dd  c
+1cb  a
+b
+
+b
+1dd  c
+1cb  a
+1da   d
+b
+1ab  a
+1aa   d
+1 dd  b
+b
+1 df  d
+1      d
+1 bb  a
+b
+1 dd db
+1 dg  d
+1  f
+b
+1 bbc  /a
+1    c
+1ab  a
+b
+1dd  c
+1cb  a
+1da   d
+b
+1ab  a
+1aa   d
+1 dd  b
+b
+1 df  d
+1      d
+1 bb  a
+b
+1 dd db
+1 dg  d
+1  f
+b
+1 bbc  /a
+1    c
+2. b  a
+3a
+b
+1 d  c
+1    a
+2. a   d
+3 d
+b
+
+b
+1 b ca
+1     d
+2. dd  b
+3 b
+b
+1 aba d
+1     b
+1db   a
+b
+#2b d  b
+xa
+1 dg  d
+x gf
+b
+1abb d
+1    c
+1ab  a
+b
+1dd  c
+1    a
+1da   d
+b
+1ab  a
+1aa   d
+1 dd  b
+b
+1 df  d
+1      d
+1db   a
+b
+1b d  b
+1 df  d
+#2 b c
+x a
+b
+1  dcd
+1 da c
+1 b  a
+b
+1 db c
+1 b  a
+1 a   d
+b
+1 b ca
+1     d
+1 dd  b
+b
+
+b
+1 aba d
+1     b
+1 bb  a
+b
+1 bd  b
+1 b a d
+1 a
+b
+1 bbc  /a
+1    c
+1ab  a
+b
+1dd  c
+1    a
+1da   d
+b
+1ab  a
+1 a   d
+1  dd b
+b
+1 aba d
+1     b
+1 bb  a
+b
+1b d  b
+1 df  d
+#2 b c
+x a
+b
+1  dcd
+1 da c
+1 b  a
+b
+1 db c
+1 b  a
+1 a   d
+b
+1 b ca
+1     d
+1 dd  b
+b
+1 aba d
+1     b
+1 bb  a
+b
+
+b
+1 bd  b
+1 b a d
+1 a
+b
+1 bbc  /a
+1    c
+2. b  a
+3a
+b
+1 db c
+1    a
+2.da   d
+3 d
+b
+1ab  a
+1     d
+2.b d  b
+3 b
+b
+1 de  d
+1     b
+2.a b  a
+3 a
+b
+1 bd  b
+1 dg  d
+1  f
+b
+1 bbc  /a
+1    c
+1ab  a
+b
+1 db c
+1    a
+1 df  d
+b
+1 ba a
+1 df  d
+1      d
+b
+1 b a d
+1     b
+1 bb  a
+b
+
+b
+1 bd  b
+1 dg  d
+1  f
+b
+1 b c  /a
+1    c
+1 c ca
+b
+1 aaac
+1    a
+1 a c d
+b
+1 b da
+1     d
+1 dd  b
+b
+1 aba d
+1     b
+1 bb  a
+b
+1 dd db
+1 dg  d
+1  f
+b
+1 bbc  /a
+1    c
+1 b da
+b
+1 db c
+1 b da
+1 a c d
+b
+1  dca
+1 a c d
+1  da b
+b
+1 df  d
+1      d
+1 bb  a
+b
+1bbd  b
+1 dg  d
+1  f
+b
+
+b
+1 b c d
+1    c
+1bb  a
+b
+1dd  c
+1    a
+1da   d
+b
+1ab  a
+1aa   d
+1 dd  b
+b
+1 df  d
+1      d
+1 bb  a
+b
+1 dd db
+1 dg  d
+1  f
+b
+0. bbc  /a
+b
+b
+
+e

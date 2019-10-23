@@ -1,0 +1,204 @@
+-C
+-t
+-f
+{Madonna mia pietà/Madonna mia pietà}
+b
+c
+0  da  a
+1  da  a
+1  da  a
+b
+1 bdca
+1 bdca
+1 acc a
+1   c
+b
+1 ac
+1 acc a
+1 dda  a
+1 dba d
+b
+1 bdca
+1 bdca
+0 acc a
+b
+0aab  a
+1 bdd b
+1 dda  a
+b
+0 acc a
+0 cdca
+b
+0
+0  da  a
+b
+1  da  a
+1  da  a
+1 bdca
+1 bdca
+b
+1 acc a
+1   c
+1 ac
+1 acc a
+b
+
+b
+1 dda  a
+1 dba d
+1 bdca
+1 bdca
+b
+0 acc a
+0aab  a
+b
+1 bdd b
+1 dda  a
+1 acc
+1     a
+b
+0acd a
+0  d
+b
+1   a
+1  d
+1 aba d
+1 a
+b
+1 bb d
+1 bb d
+1 ab  d
+1   a
+b
+1     d
+1 a
+1  da  a
+1  bc a
+b
+#2  a c
+x   c
+1 a bc
+0   c a
+b
+0 acc a
+0 bd a
+b
+#2 bd a
+x    c
+x    d
+x   a
+1 acc a
+1   c
+b
+
+b
+1 ac
+1 acc a
+1abb d
+1   c
+b
+1abb
+1 dba d
+1 bdca
+1  d  b
+b
+1 acc a
+1   c
+1  d a
+1 abc a
+b
+1abb d
+1   c
+1abb
+1 dba d
+b
+1 bd a
+1  d  b
+1 acc a
+1   c
+b
+1  d a
+1    a
+1     d
+1     a
+b
+1    c
+1abb d
+1aaa c
+1 e
+b
+1aac  a
+1aa c
+1 a c
+1   b
+b
+1 a c
+1    c
+1   a
+1  d
+b
+
+b
+0 bdca
+1 acc a
+1 a
+b
+1 bd a
+1  da c
+1 aba d
+1  bcca
+b
+0 dda  a
+1 bdca
+1  d a
+b
+1  da  a
+1  dd b
+1 acc a
+1   c
+b
+1  d a
+1    a
+1     d
+1     a
+b
+1    c
+1abb d
+1aaa c
+1 e
+b
+1aac  a
+1a  c
+1 a c
+1   b
+b
+1 a c
+1    c
+1   a
+1  d
+b
+0 bdca
+1 acc a
+1 a
+b
+
+b
+1 bd a
+1  da c
+1 ab  d
+1  b  a
+b
+0 dda  a
+1 bdca
+1  d a
+b
+1  da  a
+1  dd b
+1 acc a
+1   c
+b
+wacd a
+b
+b
+
+e

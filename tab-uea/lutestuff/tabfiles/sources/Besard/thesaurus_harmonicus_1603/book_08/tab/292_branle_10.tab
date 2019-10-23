@@ -1,0 +1,165 @@
+-t
+-f
+{292. Branle 10/292. Branle 10}
+b
+#3  ba  a
+x  a
+x  b
+x  d
+2  b
+b
+#2   ca
+x  d
+x    a
+2  aaa a
+#3  b
+x  a
+x   c
+x  a
+b
+#3   a  a
+x    e
+x   a
+x   c
+2   a
+2  baa a
+#3  d
+x  b
+x  a
+x  b
+b
+
+b
+2   ca
+#3  a
+x  b
+x  d
+x  b
+2  aaa a
+#3  b
+x  a
+x   c
+x  a
+b
+1   a  a
+2    a
+#3d  a
+xc
+xd
+xf
+2d
+b
+#2a   a
+xf
+x    a
+2cdd   a
+#3d
+xc
+xa
+xc
+b
+#3 dda  a
+x c
+x d
+xa
+2 d
+2d  a
+#3f
+xd
+xc
+xd
+b
+
+b
+2acd a
+#3c
+xd
+2f
+2cdd   a
+#3d
+xc
+xa
+xc
+b
+1 dda
+2   a  a
+1   ca
+2  a   a
+b
+1   ca
+2   a  a
+#3   ca
+x   a
+x   c
+x  a
+x  b
+x  a
+b
+1   ca
+2  d
+2  b   a
+#3  d
+x  b
+x  a
+x   c
+b
+
+b
+2   a  a
+#3  b
+x  a
+x   c
+x   a
+2   ca
+#3   e
+x   c
+x   a
+x    e
+b
+1   a  a
+2 d a
+1acd a
+2cdda
+b
+1acd a
+2 dda
+#3acd a
+x d
+xa
+xc
+xd
+xc
+b
+1acd a
+2f     a
+2d    a
+#3a
+xc
+xd
+xa
+b
+
+b
+2c    c
+#3 d
+xa
+xc
+x d
+2a    d
+#3 c  a
+x d
+xa
+x c
+b
+2 dda  a
+#3 b
+x a
+x  d
+x  b
+2  a   a
+Y   a
+.
+b
+b
+
+e

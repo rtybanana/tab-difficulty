@@ -1,0 +1,169 @@
+-C
+-t
+-f
+{The sharp pavane/The sharp pavane}
+b
+c
+0.aacc
+1  d
+b
+0aacc
+0 aab
+b
+#1 acc
+x  d
+#1 a
+x  c
+b
+#1 cc e
+x a
+#1  cce
+x  e
+b
+#1 aa c
+x c
+#1 da
+x ac
+b
+#1 ca a
+x   c
+0 a c e
+b
+#1     c
+x  d
+#1   b
+x  a
+b
+0 acc a
+0 aab
+b
+#1 acc
+x  a
+#1  c  a
+x  d
+b
+#1 aa c
+x    a
+#1 aa c
+x  d
+b
+
+b
+#1     a
+x ac
+#2   c
+x  d
+x  c
+x  a
+b
+0 acc a
+0 acc
+.
+b
+b
+.
+0.  dca
+1 ac
+b
+#1 ca a
+x   c
+0 a c e
+b
+0  dc c
+#1   b
+x  d
+b
+0. acc a
+1 acc a
+b
+0 cdca
+#1aac c
+x  a
+b
+#1  cce
+x  a
+#1  c e
+x  e
+b
+#1 aa c
+x    e
+#1  ab
+x  cc
+b
+#1 cee
+x     c
+0ca b
+b
+#1a  c
+x e
+#1acc
+x a
+b
+0cc e
+#1  ee c
+x f
+b
+
+b
+#1    c
+x ef
+#1   e
+x    c
+b
+0 efec
+0 efe
+.
+b
+b
+.
+w cde c
+b
+0 cde c
+#1 cde
+x     e
+b
+0. cdca
+1 cde c
+b
+0. ccde
+1 ccde
+b
+#1 cd  c
+x  f
+#1 cc e
+x  f
+b
+0 cee c
+0 cde c
+b
+0 a c e
+#1 cd a
+x  c
+b
+0 ea c
+0 a c e
+b
+0 cdca
+0 acc a
+b
+#1 aa c
+x    a
+#1 aa c
+x  d
+b
+
+b
+#1     a
+x ac
+#2   c
+x  d
+x  c
+x  a
+b
+0 acc a
+0 acc
+.
+b
+b
+
+e

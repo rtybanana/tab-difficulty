@@ -1,0 +1,107 @@
+-C
+-t
+-f
+{6. Deceitful fancy/6. Deceitful fancy}
+b
+c
+0 abc a
+0 abc a
+b
+0 abc a
+0 aabc
+b
+0 aabc
+1. abc a
+2     c
+b
+1  ff d
+1 ddef
+0 abc
+b
+0 aabc
+1. aabc
+2    a
+b
+1   acd
+#2   c
+x  d  c
+0 abc a
+b
+0 aabc
+0 dff d
+b
+1. bbcd
+2 a
+1  def
+#2 ab  d
+x    a
+b
+1 aabc
+1 acc a
+2.  dca
+3  b
+#2  a
+x   c
+b
+0 aabc
+0 dff d
+b
+
+b
+1 bbcd
+1abd a
+1. ddef
+2  bac
+b
+#2  bcd
+x  ff d
+x  dff
+x   e
+0  ff d
+b
+.
+1. ab  d
+2   c
+#2     c
+x   c
+1 aabc
+b
+1. abc a
+2     c
+1 ab  d
+#2  def
+x a
+b
+1 cdca
+1  f c
+1 cf  c
+1  e
+b
+0 aabc
+1 aabc
+#2 ab  a
+x     c
+b
+#2 ab  d
+x    a
+x ab c
+x    e
+1  def
+1 abc a
+b
+
+b
+#2 aabc
+x    a
+2 ab  d
+#3     c
+x     a
+1 aacc
+1   b
+b
+Y acc a
+.
+b
+b
+
+e

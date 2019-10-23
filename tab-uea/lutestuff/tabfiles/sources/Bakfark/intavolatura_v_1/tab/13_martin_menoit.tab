@@ -1,0 +1,590 @@
+-C
+-t
+-f
+{Martin menoit/Martin menoit}
+b
+c
+0a
+1c
+1d
+b
+0f d
+1da
+1 c
+b
+0cdf
+1h   c
+1 f
+b
+1hh a
+1    h
+1 hhe
+1g
+b
+0hdff
+0dffc
+b
+1cff
+#2 e
+x c
+#2 f
+x e
+#3 f
+x e
+x c
+x e
+b
+1df c
+1f a
+1h  f
+1 a
+b
+1fca
+1 d
+1df f
+1  d
+b
+
+b
+0cdf c
+1 cd e
+1  aa
+b
+1aabc
+1c d
+1da c
+1acb
+b
+1cdda
+1 c
+1aabc
+1  d
+b
+1 aa c
+#2 e
+x c
+#2 f
+x e
+#3 f
+x e
+x c
+x e
+b
+0aa c a
+0hi
+b
+0hi
+0 d   d
+b
+0fhia
+0   a
+b
+#2dabc
+x  a
+x  b
+x  d
+1a b
+1   a
+b
+1da c
+1  a
+1   f
+1f
+b
+
+b
+0hd
+1     d
+1 f
+b
+1fhia
+1a
+0fhia
+b
+1dffc
+1   a
+1h   h
+1  de
+b
+1 dff
+1f
+0ddff
+b
+1 dda
+#2c
+xa
+#2d
+xc
+#3d
+xc
+xa
+xc
+b
+1dab  d
+1  a
+1  b
+1 cd
+b
+1cef
+1a
+1c f
+1 e
+b
+1dffc
+1c
+1d
+1f a
+b
+1hf f
+1   h
+0cdf c
+b
+
+b
+1dffc
+1c
+1d
+1f a
+b
+0h ff
+1 d f
+1h
+b
+1fb  d
+1 a
+1dbdc
+1  b
+b
+1.ddda
+2c
+#2d
+xc
+#3d
+xc
+xa
+xc
+b
+1dab  d
+1c d
+1da
+1fcd
+b
+1hd f
+1 f
+1fhaa
+1 h
+b
+1df c
+1f de
+1hdff
+1 f
+b
+1fha
+1 h a
+1df c
+1fcde
+b
+
+b
+1hdff
+1 f
+1fhia
+1fhia
+b
+0fhia
+1  i
+1f
+b
+0fhia
+0fhia
+b
+1.dffc
+#3c
+xd
+1c
+1a
+b
+1c f c
+#2 d
+x c
+0 d
+b
+1  ff
+1 d
+1 d
+1  ff
+b
+1  ff
+1 d
+1 d
+1  ff
+b
+1a
+1   c
+1 da
+1  b
+b
+1acd
+1 d
+1df c
+1 f
+b
+
+b
+1 f
+1d
+1d
+1 f
+b
+1 f
+1d
+1d
+1ac
+b
+1cd
+1df
+1fh
+1  i
+b
+0df
+0f hh
+b
+0f hh
+0 h
+b
+0f
+0ffhh
+b
+0fhia
+0dffc
+b
+1ccde
+1  b
+1 da
+1  b
+b
+0acd
+0l ik
+b
+1kf h
+1  i
+1hfhf
+1  f
+b
+
+b
+1.hhhe
+2g
+#2h
+xg
+#3h
+xg
+xe
+xg
+b
+1h ik h
+1  h
+0  i
+b
+0d  c
+0 a
+b
+0dffc
+0dffc
+b
+1cdf c
+1  d
+1dabc
+1 cd
+b
+1 dff
+1cc
+1dd
+1f
+b
+1h  f
+1 f
+0fha
+b
+1 dff
+1d
+1dfg d
+1  f
+b
+1.ddda
+2c
+#2d
+xc
+#3d
+xc
+xa
+xc
+b
+0dab  d
+0  b
+b
+
+b
+1 db
+1  b
+1  a
+1 d
+b
+1. c c
+#3 a
+x c
+1da
+1  a
+b
+1dab
+1  de
+1dab
+1 cd
+b
+1cef
+1 a
+0df c
+b
+1 a
+1df
+1cd
+1 a
+b
+1ac
+1cd
+1df
+1c
+b
+1da
+1f
+0h  f
+b
+1 d
+1   f
+1  a
+1 d
+b
+1. c c
+#3 a
+x c
+1da
+1  a
+b
+
+b
+1dab
+1  de
+1dab
+1 cd
+b
+1cef
+1 a
+0df c
+b
+1 a
+1df
+1cd
+1 a
+b
+1ac
+1cd
+1df c
+1c
+b
+1da
+1f a
+1hd f
+1   f
+b
+1acd
+1  d
+1aa c
+1 c
+b
+0fhia
+1  d
+1 d
+b
+0fhia
+0fhia
+b
+1dffc
+1c
+1d
+#2f  a
+x    e
+b
+0haa  h
+0   f
+b
+
+b
+0la   "x
+0  i
+b
+0hd f
+1ha
+1  a
+b
+1 if h
+1h
+1h  f
+1h f
+b
+1 if h
+1aa
+1   f
+1h   h
+b
+1haa  h
+1h  a
+1 if h
+1 ff
+b
+1   f
+1h   h
+1haa  h
+1h  a
+b
+1 if h
+1 ff
+1hff h
+1   f
+b
+1.ffg a
+2h
+1f
+1ddf  h
+b
+1cdda
+1 c
+1aabc
+1  d
+b
+
+b
+1  fec
+#2 e
+x c
+#2 f
+x e
+#3 f
+x e
+x c
+x e
+b
+1aabc a
+#2 d
+x b
+#2 a
+x  d
+x  b
+x  a
+b
+#2   c
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+xa
+b
+1.fhia
+2 i
+1 h
+1 f
+b
+1fhia
+1 f
+1fhia
+1  h
+b
+1dffc
+1c
+1d
+#2f  a
+x    e
+b
+0haa  h
+0   f
+b
+0la   "x
+0  i
+b
+
+b
+0hd f
+1ha
+1  a
+b
+1 if h
+1h
+1h  f
+1h f
+b
+1 if h
+1 ff
+1   f
+1h   h
+b
+1haa  h
+1h  a
+1 if h
+1 ff
+b
+1   f
+1h   h
+1haa  h
+1h  a
+b
+1 if h
+1 ff
+1hff h
+1   f
+b
+1.ffg a
+2h
+1f
+1ddf  h
+b
+1cdda
+1 c
+1aabc
+1  d
+b
+1aaa c
+#2 d
+x c
+1 d
+#2a
+xc
+b
+
+b
+1da   d
+1  d
+1  bcd
+1c
+b
+1ab
+1    c
+1    a
+1    c
+b
+1a b d
+1 b
+1 dff d
+1  f
+b
+1.abdca
+#3 a
+x b
+1 a
+1  d
+b
+Yaacc a
+b
+b
+
+e

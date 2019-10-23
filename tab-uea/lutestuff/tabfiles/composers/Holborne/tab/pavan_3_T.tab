@@ -1,0 +1,276 @@
+-C
+-t
+-f
+{Pavan III/Pavan III}
+b
+c
+0 bbcd
+0   c
+b
+0   dab
+0  b  a
+b
+#2  d  b
+x a
+1 b
+1     d
+1 a
+b
+0 bbc  /b
+1 b  d
+1 d
+b
+0.abb d
+1d
+b
+0d     /b
+1      /a
+1d
+b
+#2      a
+xd
+xb
+xa
+0b     a
+b
+#2     d
+xb
+1a
+1 d
+1     d
+b
+1 b  a
+#2 d
+xa
+1b
+1    c
+b
+
+b
+1.a   d
+2b
+#2d   d
+x   a
+x   c
+xf  d
+b
+0h  f
+1   a
+1f
+b
+1da c
+1     a
+1    c
+1b
+b
+#2    d
+xb
+xa
+x d
+1a   d
+#2c   c
+x    a
+b
+#2da   d
+xb
+x   a
+xa
+#2 d   d
+x b
+1 d
+b
+0a b   /b
+0b
+b
+wdbbc  /b
+.
+b
+b
+.
+1     d
+#2 a
+x b
+1 d   b
+#2  d
+x a
+b
+0 bbc a
+1 a
+1     d
+b
+1  dd  a
+1     b
+1  b   /b
+#2  d d
+x   a
+b
+
+b
+1  bc
+#2 d  c
+xa   d
+0b  a
+b
+#2a   a
+x b
+xb
+x    a
+#2    c
+x     d
+1a   d
+b
+#2    d
+x    a
+1c da
+1da   d
+#2 d
+xa
+b
+#2b     a
+xd
+xf
+x     a
+1     b
+#2  d
+x a
+b
+#2 bbc  /b
+x      a
+x  b  a
+x  d  b
+#2 a   d
+x b
+x d
+x    a
+b
+#2    c
+xa   d
+1b  a
+#2abd a
+x d
+x b
+x a
+b
+#2  d  b
+x     a
+x     b
+x a
+0 bbc a
+b
+
+b
+1 a
+0     d
+1  da
+b
+1   d
+0f
+1d   d
+b
+1   c
+0d
+1 d  c
+b
+0a   d
+1    d
+#2c   c
+x    a
+b
+1d    d
+1f
+1h
+1i
+b
+whd f d
+.
+b
+b
+.
+1  bacd
+0 a
+1  d  b
+b
+1
+0  b  a
+1 a   d
+b
+1  d  b
+1      a
+1     b
+1b
+b
+1a     /b
+1 b
+1      a
+1 a
+b
+1     a
+1  d
+1f
+1e  c
+b
+
+b
+1f   a
+1f
+1d   c
+1b
+b
+0a   d
+1 b
+#2     b
+x a
+b
+#2  d
+x     a
+1      a
+1   a
+#2 d
+x b
+b
+1. a   d
+2  d  b
+#2  b  a
+x      a
+xd     /b
+xb
+b
+1.a   d
+2 d  c
+#2 b  a
+x a
+x b
+x d
+b
+1a    d
+#2   c
+x  a
+#2  b
+x  d
+x a   b
+x b   a
+b
+1 d    a
+1 b   a
+1     b
+#2 a
+x  d
+b
+1  b  d
+0b
+1a
+b
+
+b
+1 d   d
+1     b
+0 d   d
+b
+wa b   /b
+b
+wabbcd
+.
+b
+b
+P
+e

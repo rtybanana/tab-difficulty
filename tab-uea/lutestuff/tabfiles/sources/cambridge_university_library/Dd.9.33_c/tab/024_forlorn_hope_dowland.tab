@@ -1,0 +1,525 @@
+-C
+-t
+-f
+{24. Forlorn hope fantasy/John Dowland}
+b
+c
+0   c
+1   b
+1   a
+b
+1    e
+1    d
+#2 a  c
+x    e
+x   a
+x    c
+b
+#2  e e
+x   e
+#3  d
+x   c
+x    e
+x   b
+#2  cc
+x     a
+#3  b
+x     c
+x     d
+x    a
+b
+#3  a c
+x    a
+x    c
+x    e
+#3 a a
+x    e
+x   a
+x    c
+#2a   e
+x    c
+x   cd
+x  de
+b
+
+b
+2 effc
+#3   ee
+x   c
+#3 d a
+x  f
+x  ec
+x  c
+#2 cde
+x  c
+x bd
+x    a
+b
+2 adc
+#3  c
+x  a
+#2  b
+x   c
+2 aa c
+#3  f
+x c
+2 d
+#3 ad
+x  b
+b
+#2 da b
+x c
+1 ca a
+#3h    e
+x   e
+x   d
+x   b
+1   c d
+b
+2gc e c
+#3   c e
+x   a
+#2f   ef
+x   bc
+#2ef ce
+x  ab
+#3d bc
+x  d
+x a   a
+x c
+b
+
+b
+#2ce  c
+x  f
+#3 d
+x    a
+2  e  c
+#3 c
+x     d
+2  d a
+#3 b
+x     d
+2  c  a
+b
+#3 a
+x     c
+#2  b  d
+x  da
+#3     c
+x b
+#3 a   d
+x  b
+#2  b c
+x  baa d
+#3  a
+x    d
+b
+2  b ca
+#3   c
+x     c
+2    cd
+#3     f
+x    e
+#2  abc
+x  b
+2    c
+#3  d
+x   e
+b
+#3 abec
+x   c
+#2  bc
+x  a c
+2   b
+1   c a
+1  b
+b
+#2    c e
+x  a
+1 aa c d
+#2      c
+x  e
+1a dc  b
+b
+
+b
+#2  fe  a
+x e
+1hda
+2 c e c
+#3g
+x     d
+#2f g hf
+x   e
+b
+#3eac  a
+x  a
+x  c
+x  d
+#3da
+x  d
+x a
+x c
+#3cdfec
+x    a
+x    c
+x    e
+#3  aa
+x   ce
+xa aa
+x dcc
+b
+#3 cee c
+x a
+xccd
+x d
+#3acff
+x a
+2 a
+2ccfe
+#3  e
+x  c
+#2  e  c
+xa
+b
+1 efec
+1  f
+1c e
+1  d
+b
+1b c
+1aab
+1c ee
+#2 cd
+x a
+b
+
+b
+#2  cd
+x c
+1 ccc
+1ccab
+#2 b
+x  c
+b
+1bcd e
+1a e
+1 efec
+1 dde c
+b
+1 cdeec
+#2  c  b
+x a
+#2  deec
+x   e
+1   e
+b
+2  cee c
+#3   d
+x   b
+1 c c
+1 cde c
+1 b b e
+b
+#2 ccd  c
+x    e
+xe
+x    c
+#2ec  b
+x     e
+x c  b
+xd
+b
+1eeh  e
+#2  g
+x h
+1bce b
+1cce  c
+b
+
+b
+2 h ge
+#3 g
+x e
+#2 gh
+x    c
+1cca b
+#2  e  c
+xa
+b
+#2 efec
+x c
+x e
+x    a
+#2aa c d
+x     c
+xda c a
+x  b
+b
+#3cffec
+x f
+x e
+x c
+#2 e  c
+xc
+#3a  c
+x   b
+x   c
+x  a
+#3 ab
+x   c
+x  b
+x cd
+b
+
+b
+#3 df
+x   e
+#4  f
+x  d
+x  b
+x  a
+#3a b
+x   c
+#4  d
+x  b
+x  a
+x   c
+#3ca b
+x    c
+#4 d
+x b
+x a
+x  d
+#3d b
+x   c
+#4  b
+x  a
+x   c
+x   a
+b
+#3f   d
+x    a
+#4    f
+x    d
+x    c
+x    a
+#3h    d
+x   f
+x   a
+x   c
+#4    c
+x    a
+x    c
+x    e
+#4   a
+x    e
+x   a
+x   c
+3g  e
+#4   c
+x   a
+#4f   e
+x    c
+x    e
+x   b
+b
+
+b
+3e  c
+#4   a
+x    e
+#4d   c
+x    a
+x    c
+x    e
+#4c  a
+x    e
+x   a
+x   c
+#4f  e
+x   c
+x   e
+x   a
+#4d  c
+x   b
+x   c
+x  a
+#4a b
+x  a
+x  b
+x  d
+3 ef
+#4  d
+x  b
+#4 da
+x   c
+x  a
+x  c
+b
+3 cd
+#4  b
+x  a
+#4 b c
+x   a
+x   c
+x  a
+3 ab
+#4  a
+x   c
+#4   a
+x    e
+x   a
+x   c
+#4  de
+x   c
+x   e
+x   f
+#4  be
+x   c
+3   c
+#4  a
+x   c
+x   b
+x    e
+#3   b
+xc
+b
+
+b
+#4a  c
+x  b
+x  a
+x  d
+#4  b
+x a
+x  d
+x b
+#4ca b
+x  a
+x  b
+x  d
+#4ca a
+x c
+x d
+x a
+#4ac  e
+x a
+x c
+x e
+#4a   d
+x   c
+x  b
+x  d
+#4 ea c
+x c
+x a
+x  e
+#4 a
+x c
+x e
+xa
+b
+#4c   b
+x c
+x d
+xa
+#4c   a
+xe
+xf
+xc
+#4e    e
+x h
+xe
+xg
+#4h    d
+x a
+x d
+xa
+#4g    c
+xc
+xc
+x c
+#4 e  c
+x f
+xc
+xf
+#4d  c a
+x  a
+x  b
+x  d
+#4 a
+x  b
+x   c
+x f
+b
+
+b
+#4c   c
+x d
+x  f
+xc
+#4f   a
+xa
+x b
+xa
+#4d    a
+x a
+x    c
+x d
+#4c   c
+x d
+x a a
+xc
+#4a  cd
+x   b
+x   c
+x  a
+#4  b
+x   c
+x  bc
+x  d
+#4 ab c
+x c
+x e
+xa
+#4c a
+x a
+x cd
+x e
+b
+#4a  c
+x  a
+x  cc
+x  de
+#4 ac
+x  cc
+x  de
+x ac
+#4 bd
+x ac
+x bd
+x ac
+#4 bd
+x ac
+x bd
+x ac
+#4 bd
+x ac
+x bd
+x ac
+#4 bd
+x    a
+x    d
+x   a
+#3     a
+xaadc
+x  c
+x  a
+b
+Yaaccca
+b
+b
+
+e

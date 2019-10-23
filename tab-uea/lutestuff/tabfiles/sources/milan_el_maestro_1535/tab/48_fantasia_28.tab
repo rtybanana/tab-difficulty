@@ -1,0 +1,959 @@
+-C
+-t
+-f
+{48. Fantasia 28/48. Fantasia 28}
+b
+c
+w d
+b
+0f
+0  g
+b
+0 d
+0de
+b
+0fd
+0g
+b
+1f
+1 f
+1 g
+1 d
+b
+1de
+1f
+0gd
+b
+1  g
+#2f
+xg
+#2i
+xg
+xf
+xd
+b
+wcd a
+b
+0  d
+0    d
+b
+0   a
+0  bb
+b
+0  da
+0  e
+b
+
+b
+1  d
+1   c
+1   d
+1   a
+b
+1  bb
+1  d
+0  ea
+b
+1    d
+#2  d
+x  e
+#2  g
+x  e
+x  d
+x  b
+b
+0.fdaa
+#2d
+xf
+b
+#2g
+xd
+xf
+xg
+0f
+b
+1de
+1f
+0gd
+b
+0  g
+1f
+1d
+b
+0.cdda
+#2  b
+x  d
+b
+#2  e
+x  b
+x  d
+x  e
+0  d
+b
+
+b
+1  bb
+1  d
+0  ea
+b
+0    d
+1  d
+1  b
+b
+1 d df
+1 f
+1 g
+1 d
+b
+1 eb d
+1  d
+0 de b
+b
+1   d
+1a
+1b
+1 d
+b
+1 eb
+1  d
+0 dea
+b
+0 b b
+0  dd
+b
+0  ef
+1 d
+1   d
+b
+0 ee g
+0b ea
+b
+1d  b
+#2   d
+x   b
+#2   d
+x   b
+x   a
+x    d
+b
+
+b
+1bd  b
+1    d
+1   a
+1   b
+b
+1bb d
+1  b
+1  d
+1  e
+b
+1 bbb
+1 d
+1 e  d
+1b
+b
+1d
+1f
+0g ef
+b
+0fb d
+0 d
+b
+1d eb
+#2   d
+x   b
+#2   d
+x   b
+x   a
+x    d
+b
+1bd  b
+1    d
+1   a
+1   b
+b
+1bb d
+1  b
+1  d
+1  e
+b
+1 bbb
+1 d
+1 e  d
+1b
+b
+
+b
+1d
+1f
+0g ef
+b
+0fb d
+0d bb
+b
+1 dda
+1d
+1c
+#2a
+xc
+b
+0d
+0 def
+b
+0 ddd
+0   a
+b
+0 bbb
+0  d
+b
+0 dea
+0g  f
+b
+0fb d
+0bde
+b
+0d eb
+0fb d
+b
+0g ef
+1fb d
+1d
+b
+0bde
+0d eb
+b
+1b  a
+1a
+0 de b
+b
+0 eb d
+1 d
+1 b
+b
+
+b
+0  ef d
+1 bd a
+1  b
+b
+0 d db
+0 db  d
+b
+1   db
+1   b
+0   a
+b
+0 eb d
+1 d  b
+1 b
+b
+1  ef d
+1 b
+1 d
+1 e
+b
+1bb d
+1  e
+0bb d
+b
+wbde b
+b
+0g ef
+1fb d
+1d
+b
+0bde
+0d eb
+b
+1b  a
+1a
+0 de b
+b
+0 eb d
+1 d
+1 b
+b
+0  ef d
+1 bd a
+1  b
+b
+
+b
+0 d db
+0 db
+b
+1 d db
+1   b
+0   a
+b
+0  bbd
+0 b
+b
+1 dba d
+1  d
+1  e
+1 b
+b
+1 d  b
+1a
+1b  a
+1d
+b
+1a b d
+1b
+1d bb
+1b
+b
+1f aa
+1d
+0gd f
+b
+0     d
+1f
+1d
+b
+wcdda
+b
+w
+b
+0. dda
+#2  b
+x  d
+b
+0.  e
+#2    d
+x   a
+b
+
+b
+0   b
+0  b
+b
+0  b
+0    d
+b
+0.    d
+#2  d
+x  e
+b
+0. b
+#2   a
+x   c
+b
+0   d
+0  d
+b
+0  d
+0   a
+b
+w   a
+b
+0.fd
+2d
+2f
+b
+0.g
+2  g
+2 d
+b
+0 e
+0d
+b
+0d
+0  g
+b
+0.  g
+2f
+2g
+b
+0.i
+2  i
+2 f
+b
+
+b
+0 g
+0f
+b
+0f
+0 d
+b
+0.bdda
+2  b
+2  d
+b
+0  e
+0  bb
+b
+0  d d
+0  ea
+b
+0 b b
+0   d
+b
+1 d  b
+1    d
+1   a
+1   b
+b
+1   d
+1   a
+0  b
+b
+1 d
+#2  d
+x  b
+#2  d
+x  b
+x   d
+x   b
+b
+0fd a
+1d
+1f
+b
+0g
+0de
+b
+
+b
+0f g
+0gd
+b
+0ie
+0 g
+b
+1bd  b
+1    d
+1   a
+1   b
+b
+0fb d
+0g ef
+b
+1fb d
+1  b
+1  d
+1  e
+b
+0deg
+0fb d
+b
+1de b
+1   d
+1  b
+1  d
+b
+0bde
+0d eb
+b
+1bde b
+1    d
+1   a
+1   b
+b
+0bbdd
+0bdea
+b
+0d eb
+0bbdd
+b
+0 bb d
+0a
+b
+
+b
+wbbd  b
+b
+0. dedb
+1 b
+b
+1 d
+1a
+0b ea
+b
+0d eb
+0fb d
+b
+0gd d g
+1   a
+1   b
+b
+1   d
+1  b
+1  d
+1  e
+b
+0  d d
+0  ea
+b
+0 b b
+0   d
+b
+1 d  b
+1    d
+1   a
+1   b
+b
+1   d
+1  b
+1  d
+1  e
+b
+0 bd
+0  ef
+b
+0  d
+0   e
+b
+
+b
+1 d f
+1  d
+1  e
+1  g
+b
+1gd
+1 f
+1 g
+1 i
+b
+0fh
+0 i
+b
+1f
+1 i
+1 h
+#2 f
+x h
+b
+0 i
+0ddef
+b
+0fddd
+0gd f
+b
+0fddd
+0ddef
+b
+0cdda
+0ddef
+b
+0fddd
+0gd f
+b
+0fddd
+0ddef
+b
+1cdda
+1a
+1c
+1d
+b
+1f
+1c
+0gd f
+b
+
+b
+0fddd
+0ddef
+b
+0 dda
+0c
+b
+wddb  d
+w  e
+w bd
+b
+w  ea
+w    b
+w  d d
+b
+w dedb
+w   f
+w bd
+b
+wbde
+wd b
+wfb d
+b
+0g ef
+0  g
+0 d
+0 f
+wfg d
+b
+wde f
+w  d
+wbde
+b
+w    b
+w eb d
+w  d
+b
+0 de b
+0    d
+0   a
+0   c
+w bdd
+b
+
+b
+w de b
+w eb d
+w   b
+b
+w d df
+w  bb
+w b
+b
+c
+0 dda
+0f
+b
+1   d
+1d
+1b
+1a
+b
+0 db
+0  e
+b
+1b
+1  d
+1  b
+1   d
+b
+1d  b
+1   d
+1  b
+1  d
+b
+1  e
+1 b
+1 d
+1 e
+b
+0bd
+0  e
+b
+0 eg
+0   h
+b
+0 de
+0   f
+b
+0 bd
+0  ea
+b
+
+b
+0 b b
+0   d
+b
+0  ea
+0   b
+b
+1 b
+1   d
+1   b
+1   a
+b
+1    d
+1   a
+1   b
+1   d
+b
+0  ef
+0    g
+b
+0  dd
+0    f
+b
+0  bc
+0   d
+b
+1  b
+1   d
+1   c
+1   a
+b
+w   d
+b
+wbde b
+b
+wdeeb
+b
+wbbdd
+b
+0 dedb
+0b
+b
+0d
+0f g
+b
+
+b
+1g e
+1  g
+1 d
+1 f
+b
+1fg
+1 f
+1 g
+1 d
+b
+1de
+1 d
+1 e
+1  g
+b
+0bd
+0  e
+b
+1d
+1  d
+1  b
+1   d
+b
+1d  b
+1   d
+1  b
+1  d
+b
+1  e
+1 b
+1 d
+1 e
+b
+1bd
+1 b
+1 d
+1  e
+b
+1 eg
+1  e
+1  g
+1  d
+b
+
+b
+1 de
+1  d
+1  e
+1  b
+b
+0 bd
+0  ea
+b
+0 b b
+0   d
+b
+0  ea
+0   b
+b
+1 b
+1   d
+1   b
+1   a
+b
+1    d
+1   a
+1   b
+1   d
+b
+1  ef
+1   d
+1   f
+1   c
+b
+1  dd
+1   c
+1   d
+1   a
+b
+0  bc
+0   d
+b
+1  b
+1   d
+1   c
+1   a
+b
+w   d
+b
+wbde b
+b
+
+b
+wdeeb
+b
+wbbdd
+b
+0 dedb
+0 ebbd
+b
+1  ddf
+1 d
+0 d
+b
+0d bb
+0 b
+b
+wcdda
+b
+Y
+b
+wddb  d
+w  e
+w bd
+b
+w  ea
+w    b
+w  d d
+b
+w dedb
+w   f
+w bd
+b
+wbde
+wd b
+wfb d
+b
+0g ef
+0  g
+0 d
+0 e
+wfg d
+b
+wde f
+w  d
+wbde
+b
+
+b
+w    b
+w eb d
+w  d
+b
+0 de b
+0    d
+0   a
+0   b
+w bdd
+b
+w de b
+w eb d
+w   b
+b
+w d df
+w  bb
+w b
+b
+w dda
+0  b
+0  d
+w  e
+b
+w dda
+w  b b
+w e  d
+b
+wfd df
+0d
+0f
+wg
+b
+wfd a
+wb d
+wd e
+b
+wfb d
+0 d
+0 f
+w g
+b
+wdeg d
+0f
+0h
+wi
+b
+
+b
+wbde b
+0d
+0f
+wg
+b
+wfb da
+0  b
+0  d
+wdde  d
+b
+wdeg d
+w dda
+wc
+b
+wddb
+0 b
+0 d
+w e
+b
+w db  d
+0  d
+0  f
+w  g
+b
+w df  d
+0    a
+0    b
+w eb d
+b
+wbde b
+0d
+0f
+wg
+b
+wfb da
+0  b
+0  d
+wdde  d
+b
+wdeg d
+w dda
+wc
+b
+
+b
+wd bb
+0  d
+0  e
+0  d
+0 b
+b
+wbdda
+w ebbd
+w  d
+b
+w dedb
+w  bbd
+w b
+b
+w dba d
+w eb d
+w   b
+b
+w dddf
+wd bb
+w b
+b
+w.cdda
+b
+Y.
+b
+b
+P
+e

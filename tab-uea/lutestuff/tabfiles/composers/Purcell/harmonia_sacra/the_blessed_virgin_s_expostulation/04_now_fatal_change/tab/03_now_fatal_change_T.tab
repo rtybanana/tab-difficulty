@@ -1,0 +1,206 @@
+-C
+-t
+-f
+{4. Now (fatal change)/Henry Purcell}
+b
+C
+wbddaa a
+b
+0  dda 7
+0 ded  a
+b
+0 dcc a
+#1 dd  b
+x   a
+b
+#1  d
+x d
+#1 dcc a
+xa
+b
+0abd   ///a
+#1aa \1c  4
+xa\2c\3d
+b
+#1a \3d\2d  5
+x \4e
+#1a \3d \1c 6
+x  \2c
+b
+b
+1    a
+1
+1     a
+1
+b
+.
+#2   cd
+xa
+x d  c
+x b  a
+2. a c e
+3  d
+1  c  a
+b
+
+b
+2.abd a
+3    c
+2.    d
+3   a
+#1aacc
+x     a
+b
+0abd a
+1 bdd
+2. bbc
+3 a a
+b
+2. bb d
+3   a
+2.    d
+3   a
+#1a cc
+x     a
+b
+1abd a
+#2 a
+x b
+1 dc  a
+#2 b
+x a
+b
+1a d d
+#2    c
+x    a
+1.aa   e
+2     e
+b
+2.acd a
+3    c
+2.    a
+3     d
+#1 dd  c
+x      a
+b
+
+b
+1 df  d
+2.dab
+3   d
+2.db c
+3   d
+2.  b
+3   c
+b
+2.bb d
+3  b
+2.   d
+3   c
+#1ba a
+x  d c
+b
+A1
+2.aacc
+3   d
+2.   c
+3   a
+2.  d d
+3   a
+2.    d
+3 dc c
+b
+A1
+A2
+1 b  a
+#2 a
+x  d
+#1  c  a
+x   c
+.
+b
+b
+A2
+1 acc
+#2 b
+x d
+0a d e
+b
+b
+.
+1cdda
+#2a
+xc
+1dd  c
+#2    d
+x   a
+b
+
+b
+1da a d
+#2    a
+x    c
+1a b d
+#2   a
+x   c
+b
+#1a\2b&{  a
+x\4db   a
+1 b&}\4d  b
+#2\2b
+xa
+b
+#1 dd  c
+x   a
+#1da a d
+xda   a
+b
+#1abd a
+xa dd b
+#1ab   d
+x dbd
+b
+0 bbcd
+#1 bdd
+xb  a
+b
+1aacc
+#2 a
+x   a
+#1a d e
+x cb a
+b
+#1 da a a
+x  dbc //a
+#1 acc a
+xa d   /a
+b
+#1b d  b
+xcdd   a
+1ddf  d
+#2eff  a
+x d
+b
+
+b
+#1ffg a
+xb da
+1aacc
+#2     a
+x d
+b
+A1
+1abd a
+#2    a
+x    c
+0a d e
+.
+b
+b
+A2
+C
+w bdca
+b
+b
+P
+e

@@ -1,0 +1,126 @@
+-C
+-t
+-f
+{Entrée 3/Entrée 3}
+b
+W   a  a
+W    e /a
+W    c //a
+W    a ///a
+b
+b
+c
+1 cdca
+1      ///a
+1 cdc
+1    c
+b
+0a d e
+0 daa
+b
+0 dcc
+0 cd
+b
+0 cdc a
+1 acc
+1      a
+b
+
+b
+0  dc  /a
+1 aa   //a
+1  c
+b
+1 cdca ///a
+1 d
+1acd
+1     e
+b
+0a d  c
+1 e
+1 a
+b
+1ac   a
+1 a
+1  cc
+1  d
+b
+1 a
+1    c
+1   a
+1  a
+b
+
+b
+#2  d
+x    e
+x a  c
+x  c
+1 cdca
+1 a   e
+b
+1    ea
+1  d
+1    ca
+1a c
+b
+1    a
+#2acd
+x     e
+1ccd  c
+1 e
+b
+1eff  a
+1      /a
+1a
+1f
+b
+
+b
+1  aa
+1h
+#2    h
+x   h
+1   g
+b
+1k  ha
+1      ///a
+1      /a
+#2h     a
+xf
+b
+1eff  a
+1ff    /a
+1cdd   a
+#2aac  a
+x d
+b
+0 cdca
+1a
+1     e
+b
+0ccd  c
+0a dc  /a
+b
+
+b
+1      a
+#2 da
+x  c
+#2  d
+x  a
+1  f
+b
+0 dcc a
+0 cdc
+b
+0aadcca
+1  c
+1 d
+b
+0 cdca
+0      ///a
+b
+b
+
+e

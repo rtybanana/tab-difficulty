@@ -1,0 +1,174 @@
+-C
+-t
+-f
+{29. Branle de Bourgogne - 8/29. Branle de Bourgogne - 8}
+b
+c
+#2 ab  d
+x  a  {
+x  b
+x  d   }
+b
+.
+1 ab  d&{
+1 ab   }
+1 b cd
+1  da
+b
+1 ab  d&{
+1   a  }
+#2 ab  d
+x  a
+x  b
+x  d
+b
+1 ab  d
+1abb d
+#2 dda
+x b
+x a
+x  d
+b
+1 ab  d&{
+1   a  }
+#2 ab  d
+x  a
+x  b
+x  d
+b
+#2 a a d
+x  b  {
+x  d
+x a    }
+#2 b ca
+x  d
+x a
+x b
+b
+
+b
+#2 aba d
+x  a  {
+x  b
+x  d
+#2 a
+x b
+x d
+xa
+b
+#2 daa
+xa
+xb
+xa
+#2 d
+x b
+x a
+x  d
+b
+1 ab  d&{
+1   a  }
+1  dca
+1ab
+b
+1  dca
+1abb d
+1abd a
+1 ea c
+b
+1aab  a&{
+1   c  }
+1 db c
+1 bd a
+b
+1 ab  d
+1  da c
+1  bc a
+1  abc
+b
+1   c a
+#2  a
+x  b
+1  da c
+#2  b  {
+x  a   }
+b
+
+b
+1   c a
+#2  a
+x  b
+1  da c
+#2  b
+x  a
+b
+#2   c a
+x   a
+x   c
+x  a
+#2 ab  d
+x  a  {
+x  b
+x  d   }
+b
+1 ab  d
+1abb d
+1abd a
+1 ea c
+b
+1aab  a
+1   c
+1 db c
+1 bd a
+b
+1 ab  d
+1  da c
+1aad  a
+1aac
+b
+1 cd a{
+1   c  }
+#2 ab  d
+x  a
+x  b
+x  d
+b
+1 ab  d
+1abb d
+1abd a
+1 ea c
+b
+
+b
+1aab  a
+1aab
+#2 daa
+xa
+xb
+xa
+b
+#2 d
+x b
+x a
+x  d
+#2aac  a
+x  a
+x  d
+x  c
+b
+A1
+1 cd a
+1   c
+#2 ab  d
+x  a
+x  b
+x  d
+.
+b
+b
+A2
+1 cd a
+Y.   c
+b
+b
+
+e

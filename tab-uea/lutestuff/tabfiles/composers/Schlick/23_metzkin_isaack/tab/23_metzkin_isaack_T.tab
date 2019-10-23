@@ -1,0 +1,236 @@
+-C
+-t
+-f
+{23. Metzkin Isaack/23. Metzkin Isaack}
+b
+c
+0     a
+1     a
+1     c
+b
+1   c d
+1.    a
+2     d
+#2    a
+x     d
+b
+1.   ca
+2    c
+1    a
+#2     d
+x     c
+b
+1.   c a
+2   a
+#2   c
+x   a
+x   c
+x  a
+b
+#2  b
+x  d
+x a
+x  b
+#2  d
+x  b
+x  a
+x   c
+b
+1   ac
+#2    a
+x    c
+#2    d
+x    c
+x    a
+x     d
+b
+
+b
+0  a  c
+1   a
+1  b
+b
+1  d
+1   a
+1   c
+1  b
+b
+0  a c
+1    a
+1    c
+b
+1   cd
+#2  b
+x  a
+#2   c
+x   a
+x    d
+x    c
+b
+2.   ca
+3    c
+#2    d
+x    c
+#2    a
+x     d
+x    a
+#3     d
+x     c
+b
+0     a
+0   c
+b
+0  b
+0  da
+b
+0 a  c
+0 d
+b
+1 ca
+1 a
+0 c
+b
+
+b
+1. ab
+2  d
+#2  b
+x  d
+x  b
+x  a
+b
+0 a c
+0   a
+b
+0   c
+1 a
+#2   a
+x    d
+b
+0 a  c
+0  da
+b
+1  bc
+1    d
+1  d
+1   a
+b
+#2  a
+x    d
+x    c
+x    a
+0    c
+b
+1   c d
+1.    a
+2    c
+1    d
+b
+1   c
+#2    c
+x    a
+0     d
+b
+0    a
+0   ca
+b
+1.  b  d
+2    a
+1  b c
+1    d
+b
+
+b
+1  d
+1    a
+1  d
+1   a
+b
+1 a  c
+1   c
+#2 a
+x    c
+1  da
+b
+1  bc
+1    d
+0  bc
+b
+0  a c
+0   a
+b
+0   a
+0  a
+b
+0  da
+1    e
+1   a
+b
+#2  d
+x   c
+1.   e
+2   c
+1   a
+b
+1  d
+#2    e
+x    c
+1    e
+1   e
+b
+w ab
+b
+w ab
+b
+0  b
+1. ab
+#3  a
+x   c
+b
+
+b
+0. d a
+1 b
+b
+0 a c
+0  b
+b
+w  da
+b
+0  b  d
+1     d
+#2    a
+x    c
+b
+1  b d
+#2    c
+x    a
+#2    c
+x    a
+x     d
+x     c
+b
+0     a
+0   ac
+b
+0  b d
+0  b d
+b
+0  aa
+0   c
+b
+1 a  c
+1.   c
+2    c
+1  da
+b
+0  bc
+0  d a
+b
+w  a c
+b
+w   c a
+b
+b
+
+e

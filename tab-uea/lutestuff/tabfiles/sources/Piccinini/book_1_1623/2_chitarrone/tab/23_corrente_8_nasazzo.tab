@@ -1,0 +1,228 @@
+-C
+-t
+-f
+{23. Corrente 8 - Nasazzo/23. Corrente 8 - Nasazzo}
+b
+1 d
+b
+.
+0 dda
+1a   e
+b
+0cdda
+1 dc c
+b
+0acd a
+1   c
+b
+0acd
+1cdd   a
+b
+0 aba d
+1  d  c
+b
+0  f  d
+1cdd   a
+b
+0aab  a
+1 da  c
+b
+1.a    d
+2 d
+1 c  a
+b
+0 daa  a
+1    a
+b
+A1
+0   a
+1 d
+.
+b
+b
+A2
+1   a
+1f
+1d
+b
+.
+1.cdda
+2a   e
+1c  a
+b
+
+b
+1.aacc
+2  a
+1  c  a
+b
+0acd a
+1   c
+b
+1.acd
+2     d
+1 d   c
+b
+1. aba d
+2     c
+1a    a
+b
+1. aa c
+2   c
+1   b
+b
+1.aab  a
+2c
+1d
+b
+1   c
+1a   e
+1  d
+b
+1.  aa
+2  b
+1  d
+b
+1 d  c
+1 a   d
+1a
+b
+0 cdca
+1 d  c
+b
+1.acd a
+2 a
+1 c
+b
+0 dda  a
+1    a
+b
+
+b
+A1
+1   a
+1f
+1d
+.
+b
+b
+A2
+1   a
+1  a
+1  b
+b
+.
+0  da
+1  d e
+b
+0  da
+1  c c
+b
+1  d a
+1 c
+1 d  c
+b
+1.a   e
+2d
+1c  a
+b
+0 aba d
+1  d  c
+b
+1. df  d
+2a
+1c d   a
+b
+1.aab  a
+2 c
+1 d   c
+b
+1.a    d
+2 d
+1 c
+b
+0 d a  a
+1    a
+b
+A1
+1   a
+1  a
+1  b
+.
+b
+b
+
+b
+A2
+1   a
+1  d
+1  b
+b
+.
+1.  a   a
+2  f
+1  d
+b
+1  c  a
+1  h
+1  f
+b
+1.f   a
+2d
+1c
+b
+1a
+1     d
+1     c
+b
+1     a
+1      a
+1      /a
+b
+1.      //a
+2   c
+1   b
+b
+1.   c a
+2  a
+1  b
+b
+1      a
+1  d   /a
+1  b
+b
+1.  a   a
+2  b  a
+1  d  c
+b
+1.  f   4
+2  h   ///a
+1  i   //a
+b
+
+b
+0  h   ///a
+1  d   5
+b
+#2  b   4
+x  a
+x   c
+x   a
+1   c  ///a
+b
+0  aa  a
+1    a
+b
+A1
+1   a
+1  d
+1  b
+.
+b
+b
+A2
+0.   a
+b
+b
+
+e

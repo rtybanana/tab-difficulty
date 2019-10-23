@@ -1,0 +1,266 @@
+-C
+-t
+-f
+{58. The Shoemaker's Wife/58. The Shoemaker's Wife}
+b
+#2fh
+x   a
+xhi
+2fh
+#3   a
+xdf
+2cd
+b
+#2acd
+x    a
+x d  c
+2.acd
+3     d
+2c    c
+b
+#2da c
+x     a
+xc    c
+2a    d
+#3     a
+x d
+2 cd a
+b
+#2 dd   a
+x   a
+x ab  d
+2 dd   a
+1   a
+b
+2fh
+#3   a
+xf
+2hi
+2fh
+#3   a
+xdf
+2cd
+b
+
+b
+#3a   a
+xc
+xd
+xc
+#3a   c
+x d
+x cd a
+x d
+#3a
+x     d
+x     c
+xc
+b
+#3d    a
+xc
+xd
+xf
+#3d    c
+xc
+xa    d
+x d
+#3 c   a
+x d
+x    a
+x c
+b
+3 dda  a
+#4 a
+x c
+#4 d
+x c
+x d
+x c
+#4 d
+x c
+x a
+x c
+2 dd   a
+1   a
+b
+b
+2.acd
+3  b
+2cda
+#2da
+x   c
+xcd a
+b
+2aab
+#3 bd
+xc
+2 ef
+#2aac
+x   c
+x efec
+b
+
+b
+#2aa c d
+xd    a
+xc  bc
+2aa c a
+#3     d
+xh
+2f    c
+b
+#2da c a
+xc   c
+x e
+2aac  a
+1   c
+b
+#3 cd
+x d
+xa
+x  b
+#3c a
+xf
+x a
+xd
+#3   c
+xc
+x  a
+xa
+b
+#3 ab
+xd
+xc d
+xa
+#3  f
+x e
+#2aac
+x   c
+x efec
+b
+#3aa   d
+xc
+xd    a
+xf
+#3ca  c
+xd
+2aa c a
+#3     d
+xh
+xf    c
+xh
+b
+
+b
+#3da   a
+xf
+xca  c
+xa
+2c
+2aac  a
+1   c
+b
+b
+3.acd a
+4 d
+#3 c
+x a
+2  d
+#3f    c
+xd
+#3c
+xa
+2 d  c
+b
+#3da   a
+xc
+xa
+x d
+#3 c
+x a
+x cd
+x    a
+#3   c
+x d
+2 c
+b
+#3f    c
+xd
+xc
+x f
+2 d  c
+#3d    a
+xc
+#3a
+x d
+2 c  a
+b
+
+b
+#3     c
+xc
+xa    d
+x d
+#3    a
+xa
+2 dd   a
+1   a
+b
+3a   a
+#4 c
+x d
+#3 f
+x c
+#3 c
+x  d
+xf    c
+#4c
+xd
+#3f
+xc
+xc   c
+x d
+b
+3d    a
+#4a
+xc
+#3d
+xc
+#3a
+x d
+x    a
+x cd
+#3   c
+x d
+2 c
+b
+
+b
+3f    c
+#4c
+xd
+#3f
+xc
+#3c   c
+x d
+3da   a
+#4a
+xc
+#4d
+xc
+xa
+x d
+2 c  a
+b
+#txd
+xc
+#txc
+x d
+#tx d
+xa
+2 dda  a
+1   a
+b
+b
+
+e

@@ -1,0 +1,659 @@
+-C
+-t
+-f
+{Tocha tocha la canella/Tocha tocha la canella}
+b
+S3
+1da   d
+1da   d
+b
+0da   d
+1da   d
+b
+0da   d
+1da   d
+b
+0cd a
+1 dda
+b
+1
+1f aa
+1c  a
+b
+1da c
+1     a
+1cd a
+b
+1aa c
+1ac  a
+1 ea c
+b
+0aa   a
+1     a
+b
+1
+1da   d
+1da   d
+b
+1da   d
+#2a
+xc
+#2d
+xf
+b
+
+b
+1ha f
+#2f
+xd
+#2c
+xa
+b
+0cd a
+1 d a
+b
+1
+1f aa
+1c  a
+b
+1da c
+#2     a
+xc
+1aa c
+b
+1    a
+1aa  c
+1 ea c
+b
+0aa   a
+1da   d
+b
+1     d
+1cd a
+1   a
+b
+1da c
+#2     a
+xc
+1aa c
+b
+1    a
+1aa  c
+1 ea c
+b
+0aa   a
+1da   d
+b
+1     d
+#2cd a
+x d
+#2a
+xc
+b
+
+b
+1da c
+#2     a
+xc
+1aa c
+b
+1    a
+1aa  c
+1 ea c
+b
+0aa   a
+1     a
+b
+b
+1
+1da   d
+1da   d
+b
+#2 a   d
+xc
+#2a
+xc
+#2d
+xf
+b
+1ha f
+#2f
+xd
+#2c
+xa
+b
+#2cd a
+xa
+#2 d
+xa
+#2c
+xd
+b
+1f aa
+#2d
+xc
+#2a
+x d
+b
+
+b
+#2aa c
+xc
+#2d
+xa
+#2c
+xd
+b
+#2ca  c
+xa
+#2 e
+xa
+#2 c
+x e
+b
+0aa   a
+1     a
+b
+1
+1da   d
+1da   d
+b
+1da   d
+#2   a
+xc
+#2a
+xc
+b
+#2da   d
+xc
+#2a
+xd
+#2c
+xa
+b
+0cd a
+1 d a
+b
+1
+1f aa
+1c  a
+b
+1da c
+#2a
+xc
+#2d
+xa
+b
+
+b
+#2ca  c
+xa
+#2 e
+xa
+#2 c
+x e
+b
+0aa   a
+1da   d
+b
+#2c
+xa
+#2cd a
+xd
+#2f
+xc
+b
+1da c
+1     a
+1cd a
+b
+1aa c
+1aa  c
+1 ea c
+b
+1aa   a
+1     a
+1da   d
+b
+#2c
+xa
+#2cd a
+xd
+#2f
+xc
+b
+1da c
+#2c
+xa
+#2 e
+x c
+b
+#2    c
+x c
+#2 e
+xa
+#2 c
+x e
+b
+
+b
+0aa   a
+1     a
+b
+b
+1
+1ha f d
+1ha f d
+b
+1ha f d
+#2d
+xf
+1h
+b
+1f  a
+#2cd a
+xf  a
+1c  a
+b
+1da c
+#2a
+xc
+#2d
+xf
+b
+#2ca  c
+xa
+#2 e
+xa
+#2 c
+x e
+b
+0aa   a
+1     a
+b
+1
+1ha f d
+1ha f d
+b
+1ha   d
+#2   f
+xf
+#2d
+xf
+b
+
+b
+1ha   d
+#2f
+xd
+#2c
+xa
+b
+#2f  a
+xh
+#2f
+xd
+#2c
+xa
+b
+#2f  a
+xd
+#2c
+xd
+#2f
+xh
+b
+#2da   a
+xc
+#2d
+xf
+#2h
+xf
+b
+#2ca  c
+xa
+#2 e
+xa
+#2 c
+x e
+b
+0aa   a
+1ha   d
+b
+1     d
+1f aa
+1   a
+b
+1ha   d
+#2f
+xd
+#2c
+xa
+b
+
+b
+#2ca  c
+xa
+#2 e
+xa
+#2 c
+x e
+b
+1aa   a
+1     a
+1ha   d
+b
+#2f
+xd
+#2f  a
+xc
+#2d
+xf
+b
+#2ha f
+xf
+#2d
+xa
+#2c
+xd
+b
+#2ca  c
+xa
+#2 e
+xa
+#2 c
+x e
+b
+0aa   a
+1     a
+b
+b
+1
+1 aba d
+1 aba d
+b
+#2 aba d
+x  a
+#2  b
+x  d
+#2 a
+x c
+b
+
+b
+#2 db  d
+x c
+#2 a
+x d
+#2 c
+x a
+b
+#2  da
+x  b
+#2  a
+x   c
+#2   a
+x   c
+b
+#2  a
+x  b
+#2  d
+x a
+#2  b
+x  d
+b
+1 ab  d
+#2  d
+x  b
+#2  a
+x   c
+b
+#2  a c
+x   c
+#2  a
+x  d
+#2  c
+x  a
+b
+0  c  a
+1     a
+b
+1
+1 aba d
+1 aba d
+b
+#2 aba d
+x c
+#2 d
+x c
+#2 a
+x  d
+b
+
+b
+#2 aba d
+x d
+#2a
+x d
+#2 c
+x a
+b
+#2  da
+x a
+#2  d
+x  b
+#2  a
+x   c
+b
+#2   a
+x c
+#2 d
+x c
+#2 a
+x  d
+b
+#2     a
+x  a
+#2  b
+x  d
+#2 a
+x c
+b
+#2 a  c
+x c
+#2 a
+x  d
+#2  c
+x  a
+b
+1  c  a
+1   c
+1 aba d
+b
+1     d
+1  d  c
+1   a
+b
+1 abc a
+#2  d
+x  b
+#2  a
+x   c
+b
+
+b
+#2  a c
+x   c
+#2  a
+x  d
+#2  c
+x  a
+b
+#2  c  a
+x  a
+#2  c
+x  d
+#2 a
+x  c
+b
+#2  d
+x a
+#2  d  c
+x a
+#2 c
+x d
+b
+#2 abc a
+x   b
+#2   c
+x  a
+#2  c
+x  d
+b
+1  a c
+#2 a
+x  d
+#2  c
+x  a
+b
+0  c  a
+1     a
+b
+b
+1
+1da   d
+1da   d
+b
+#2da   d
+xc
+#2a
+x d
+#2a
+xc
+b
+
+b
+#2dab  d
+x  a
+#2  b
+x  d
+#2 a
+x c
+b
+#2cd a
+x c
+#2 d
+xa
+#2c
+xd
+b
+#2f   a
+x a
+#2 c
+x e
+#2a
+xc
+b
+#2da   a
+x  a
+#2  b
+x  d
+#2 a
+x c
+b
+#2ca  c
+xa
+#2 e
+xa
+#2 c
+x e
+b
+0aa   a
+1     a
+b
+1
+1da   d
+1da   d
+b
+1da   d
+#2 b
+x d
+#2a
+xc
+b
+
+b
+1da   d
+#2 b
+x d
+#2a
+xc
+b
+1c  a
+#2 d
+xa
+#2c
+xd
+b
+1f  a
+#2a
+xc
+#2d
+xf
+b
+1ha   a
+#2a
+xc
+#2d
+xa
+b
+#2ca  c
+xa
+#2 e
+xa
+#2 c
+x e
+b
+1aa   a
+1     a
+1dab  d
+b
+1     d
+1cdda
+1f aa
+b
+1dabc
+1     a
+1cdda
+b
+1aabc
+1acd a
+1 ea c
+b
+
+b
+1aa   a
+1     a
+1dab  d
+b
+#2c
+xa
+#2cdda
+xd
+#2f
+xc
+b
+1dabc
+#2     a
+xc
+1a
+b
+1acd a
+1aa  c
+1 ea c
+b
+Yaa   a
+b
+b
+
+e

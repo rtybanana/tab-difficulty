@@ -1,0 +1,342 @@
+-C
+-t
+-f
+{52. Jig/Alfonso Ferrabosco}
+b
+2 d
+b
+1c
+2ac
+1cd
+2ea
+b
+1f d
+2cd
+2.df
+3f
+2d
+b
+2.cd
+3a
+2 d
+2.a d
+3 d
+2 c
+b
+1 daa
+2    f
+1   e
+2   ce
+b
+1  aa
+2  c c
+1  d a
+2  aa
+b
+#3  bc
+x  a
+x  b
+x  d
+2  b
+2.  aa
+3   c
+2   a
+b
+
+b
+2.   ce
+3   a
+2   ce
+1   af
+2cd
+b
+#2ac
+xa
+xda
+#2c d
+x  a
+x  b
+b
+#2c a
+x  d
+x  b
+#2c d
+x   a
+x   ce
+b
+#2  aa
+x d
+x cd a
+#2 da c
+x  aa
+x cdca
+b
+#2 ab  d
+x c ca
+x da c
+#2 cd a
+xc aa
+xa d e
+b
+#2 df c
+xda c
+xcd a
+#2a   e
+x  d
+x dc c
+b
+#2 cd a
+xa
+x     d
+#2 d a c
+x   a
+x     c
+b
+
+b
+#2 d c d
+x     a
+x cd a
+1 ddef
+2  d
+b
+#2 a
+x c
+x d a
+#2 c c
+x   e
+x aff
+b
+#2  de
+x  a
+x  bc
+#2   ef
+x   a
+x   ce
+b
+1  def
+2f
+2.h
+3k
+2l i
+b
+2.k l
+3 h
+2hi
+#2fh
+x  i
+xdf
+b
+#2cd
+x d
+xac
+1cd
+2fca
+b
+2.ddf
+3  h
+2fhi
+#2ffh
+x   h
+xedf
+b
+
+b
+1fcd
+2cd a
+2.ac c
+3   e
+2 dff
+b
+#2 dde
+x    f
+x c c
+1 dda
+2 cd a
+b
+#2 ab c
+x    e
+x  def
+#2  dce
+x    a
+x  cac
+b
+1  dca
+2 daa  a
+#2 c c a
+x     c
+x a a d
+b
+#2  da c
+x   a
+x  bc a
+#2  aac
+x  bc a
+x  da c
+b
+#2 ab  d
+x c ca
+x da c
+#2 cd a
+xc da
+xa d e
+b
+#2 df c
+xda c
+xcd a
+#2a   e
+x  d
+x dc c
+b
+
+b
+#2 cd a
+xf
+xd
+#2c da
+xac  e
+x da c
+b
+#2 cd a
+x a a d
+x  de c
+#2a b  a
+x d
+x c ca
+b
+#2 a a d
+x  d ec
+x  b ca
+#2  aac
+x  bc a
+x  da c
+b
+#2 a c d
+x cd a
+x db c
+#2 d ca
+x     d
+x cdca
+b
+1 ddef
+2  d
+1 d a
+2 c
+b
+1 a f
+2  de
+1  bc
+2  aa
+b
+2.    e
+3  aa
+2  bc
+2.  aa
+3   c
+2   a
+b
+
+b
+2.   ce
+3   a
+2   ce
+1  def
+2f
+b
+1l i
+2k
+1hi
+2fh
+b
+1df
+2cd
+1ac
+2cd
+b
+2.df
+3f
+2d
+2.cd
+3a
+2 d
+b
+2.a d
+3 d
+2 c
+1 daa
+2acd
+b
+1fhi
+2 fh
+1ddf
+2ccd
+b
+1aab
+2cda
+2.da c
+3 c
+2cd a
+b
+1add
+2 c  a
+1 a af
+2  d e
+b
+
+b
+1 d ac
+2 c ca
+1 ab  d
+2  da c
+b
+1a b  a
+2 d
+1 c ca
+2 d a
+b
+1f d e
+2   f
+1f de
+2da c
+b
+1c da
+2ab  d
+#2 db c
+xa d a
+x baa
+b
+#2 ab  d
+x b
+x ddef
+#2 a   d
+x  b
+x     c
+b
+#2 ab  a
+x   c
+x a
+#2    a
+x cd
+x   c d
+b
+2.  da c
+3  a
+2 d
+#2     d
+x a
+x daa
+b
+
+b
+2. c ca
+3 d
+2a
+#2 d a d
+x d ca
+x c
+b
+Y. ddef
+b
+b
+
+e

@@ -1,0 +1,233 @@
+-C
+-t
+-f
+{Ballo detto il Conte Orlando/Ballo detto il Conte Orlando}
+b
+C
+1   a
+#2   a
+x   c
+1  a
+1  b
+b
+1  a   a
+#2  a   a
+x  b  a
+1  d  c
+1 ab  d
+b
+1   ca
+1   ac
+0   ca
+b
+0  aa  a
+0
+b
+1   a
+#2   a
+x   c
+1  a
+1  b
+b
+#2   a  a
+x   c
+x  a   a
+x  b  a
+1  d  c
+#2 ab  d
+x  a
+b
+
+b
+1   ca
+#2   ac
+x   c
+1   ea
+1   c a
+b
+#2  aa  a
+x  b
+x  a
+x   c
+#2   a
+x    e
+x    c
+x    a
+b
+1.  ba d
+2     c
+1  bc a
+1  aa  a
+b
+1     d
+#2  b
+x  a
+1   c
+#2 a  c
+x  d
+b
+0  b d
+#2  da
+x  b
+1  d   a
+b
+#2  b  d
+x   a
+x   c
+x  a
+#2  b
+x     d
+x     d
+x    a
+b
+
+b
+#2    c
+x   a
+x   a
+x   c
+1  a c
+#2    c
+x  a e
+b
+#2  a   a
+x  b
+x  d   a
+x     a
+#2  d  c
+x a
+x c   c
+x     d
+b
+#2 c  a
+x d
+xa    a
+x c
+#2 e  c
+xa
+x      /a
+x e
+b
+2a    a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+0  c
+b
+1   c
+1 a
+#2a  c
+xc
+xd  c
+xa
+b
+
+b
+1c  a
+1  d
+#2 d a
+xa
+xc  a
+x d
+b
+1a   d
+1   c
+1  b d
+1  da
+b
+0 a  c
+1  a c
+1  c c
+b
+1  d a
+1   c
+#2  a a
+x  b
+x  d a
+x  b
+b
+#2  a c
+x a
+x     c
+x  d
+#2  b  d
+x  a
+x   cc
+x   a
+b
+1   ca
+1  aa
+0  dca
+b
+#2   a  a
+x    a
+x    c
+x    e
+1   a
+1  a
+b
+
+b
+.
+1 a c
+#2  b
+x  d
+1 a
+1  bc
+b
+1  da
+#2  a
+x  b
+1  d
+1  aa
+b
+1  b d
+#2   c
+x  a
+1  b
+1   cd
+b
+1  a c
+#2   a
+x   c
+1  a
+1   ac
+b
+1   ca
+1   e
+1   ca
+#2    a
+x  b
+b
+#2  a c
+x  b
+x  a  c
+x   c
+1   a d
+1   ac
+b
+1   ca
+1  aa
+0   ca
+b
+
+b
+A1
+#2   a  a
+x    a
+x    c
+x    e
+1   a
+1  a
+.
+b
+b
+A2
+0 daa  a
+b
+b
+
+e

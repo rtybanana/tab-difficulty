@@ -1,0 +1,119 @@
+-C
+-t
+-f
+{151. Si je puis une fois/151. Si je puis une fois}
+b
+c
+1. dff
+2   e
+1   f
+1 bbcd
+b
+0abd a
+0cdd   a
+b
+0
+1. aba d
+2    d
+b
+1 d  c
+0 bdca
+1 aba d
+b
+1cdd   a
+1 b
+0 aba d
+b
+1. dff
+2   e
+1   f
+1 bbcd
+b
+0abd a
+0cdd   a
+b
+0
+1. aba d
+2    d
+b
+1 d  c
+0 bdca
+1 aba d
+b
+1cdd   a
+1 b
+0 aba d
+b
+b
+
+b
+1.ddff
+2   e
+1   c
+b
+1cdda
+1    d
+1 d  c
+b
+0 cdca
+1 aaac
+1 dda c
+1     d
+1 cdca
+b
+w dda  a
+b
+1 dda
+0 dff
+1 aba d
+0 bbc
+b
+1aabc
+#2cdda
+x    d
+#2    c
+x    a
+b
+1 aba d
+1 dda  a
+1 b
+b
+w aba d
+b
+b
+1.ddff
+2   e
+1   c
+b
+1cdda
+1    d
+1 d  c
+b
+0 cdca
+1 aaac
+b
+
+b
+1 dda c
+1     d
+1 cdca
+b
+w dda  a
+b
+1 dda
+0 dff
+1 aba d
+b
+1abbcd
+1   a
+1 abc
+0 dda
+1 aba d
+1cdda  a
+1 b
+b
+w aba d
+b
+b
+
+e

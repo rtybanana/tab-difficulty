@@ -1,0 +1,293 @@
+-C
+-t
+-f
+{In nomine 1/In nomine 1}
+b
+c
+1 a
+b
+0 a
+0 d
+b
+0 d
+0 a
+b
+0 a
+0 a  c
+b
+1 a a
+1   a
+0 a c
+b
+0 ab
+0  de c
+b
+1  d a
+1   ca
+1 d ac
+1 d
+b
+#2   a
+x c
+1 a
+1a d e
+1  c
+b
+0a  ce
+1    c
+1  a
+b
+1 dfa
+1  f
+0ac  e
+b
+0af  e
+0cd   c
+b
+
+b
+1cc   c
+1   e
+1c  a
+1  a c
+b
+1.c de
+2  d
+1c f
+1 d   c
+b
+1c   a
+#2 c
+x    a
+1ca  c
+1  aa
+b
+#2c
+x   ce
+1   ac
+1f  ca
+1    e
+b
+1f  e c
+1   ca
+1c  a
+1  a
+b
+1.c d
+2  d
+1ca
+1 d   c
+b
+1.cc  a
+2    a
+1cd  c
+1 a a
+b
+1ac  e
+1  d
+1 d  c
+#2  c
+x  a
+b
+
+b
+1 dc c
+1  a
+1.a d a
+2  d
+b
+1 a   d
+1 d   c
+1ad   a
+#2 c
+x a
+b
+0ac  a
+0cd
+b
+0cd
+1c
+1  a
+b
+1.c d
+2  d
+1cd
+1     c
+b
+1.cc  a
+2    a
+1 a a
+#2  d
+x  b
+b
+1f aa
+1   ce
+1h   fh
+1    ef
+b
+0h   fd
+1f   ec
+1  d
+b
+1f
+#2 a
+x c  a
+1cd  c
+#2    e
+x c
+b
+
+b
+1ca a
+#2  d
+x    e
+1d b c
+#2    a
+x  a
+b
+#2d  c d
+x   a
+x    ea
+x    c
+0c  a
+b
+1c
+1  d
+1ca
+1 c  a
+b
+1cd  c
+#2 c  e
+x a
+1c da
+1  a
+b
+1c d a
+1 a a
+1ac  e
+1 c
+b
+1ca  c
+1  da
+1ac  a
+1 d  c
+b
+1af  e
+1 c
+1cd  c
+#2 c
+x a
+b
+1c da
+#2  c
+x  a
+1a d a
+1  bc
+b
+
+b
+0a  ce
+1 d  c
+1 d
+b
+1 c
+1 a a
+1a d e
+1 a  c
+b
+1a d a
+1  c e
+1c  e c
+1  de
+b
+1ca a
+1 d  c
+0cc e
+b
+1 df c
+1 d
+1ac
+1 a c
+b
+#2   a
+x c
+2a e e
+#3  c
+x  e
+1 a  c
+1f de
+b
+1dc c
+1c aa
+1a d e
+1  c
+b
+1a  ce
+1    e
+1 d ec
+1  f
+b
+
+b
+#2 d
+x  d
+1  b c
+#2 da
+x    a
+1  b  d
+b
+1 dd  c
+1  f  d
+1 dde
+1   ef
+b
+1 df c
+1     d
+1 dda
+1 d
+b
+1 dda
+1  fa
+1ac  a
+1 a  c
+b
+1aa  e
+1  e
+0 df c
+b
+0 daa
+1 cd a
+1 da c
+b
+#2 c e c
+x   c
+1   e
+1 a a d
+1  b
+b
+1 a a
+1   c d
+1  de
+#2     a
+x   c
+b
+#2  da c
+x   c
+1    e
+1 a bc
+1   c a
+b
+
+b
+1 aa c
+1  bc
+1 a ac
+1   c d
+b
+1 aa c
+1  b  a
+Y aa c
+b
+b
+
+e

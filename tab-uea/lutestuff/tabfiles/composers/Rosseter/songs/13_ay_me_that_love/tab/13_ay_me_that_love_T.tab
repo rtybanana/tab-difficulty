@@ -1,0 +1,92 @@
+-C
+-t
+-f
+{/Philip Rosseter}
+b
+0 abc
+0 bbcd
+0 bdca
+b
+0. aa c
+1    a
+0 ab  d
+b
+0. cd  c
+1 e
+0aab  a
+b
+1
+1  d
+0aaa c
+1 e
+1  d
+b
+waaccca
+0
+b
+0 efec
+0 ef
+0aa c
+b
+0.cdda
+1c
+1aa c
+1c
+b
+1dd  c
+1    d
+1.cd a
+2 b
+1aa c
+1     a
+b
+
+b
+w efec
+0
+b
+0ddf  d
+0d
+1cb  a
+1a
+b
+0. df c
+1h
+1ff  d
+1   a
+b
+1da c
+1 b
+1 dda
+1d
+1c
+1 b
+b
+wda a d
+0
+b
+.
+0caa c
+waabc
+b
+0abd a
+wcdda
+b
+0dd   d
+wabbcd
+b
+1cbd a
+1a
+0aaa c
+1 e
+1  d
+b
+
+b
+waaccca
+0
+.
+b
+b
+
+e

@@ -1,0 +1,293 @@
+-C
+-t
+-f
+{Ung doulx regard/Ung doulx regard}
+b
+c
+0.a\2c\3d
+1aa \1c
+b
+0 \2c\3d\4e
+1 \4d\3da
+1 dd   a
+b
+#2a\2c  a
+x    c
+x    e
+x   a
+1 a c
+1ac  a
+b
+1\1c \2d   a
+#2 \3d
+x     a
+#2     \1c
+x     \4e
+xa\1c  a
+x \2d\4f
+b
+#2 cd a
+x d
+1aa   e
+1 c   c
+1 ed
+b
+1aa c a
+#2 c
+x   c
+1 cde
+1aac
+b
+
+b
+1 cd
+#2 \2d\4f\3e
+x  \1d
+1aa c
+#2 c  a
+x c
+b
+1 df c
+1ac  e
+1  def
+1 dc c
+b
+1 \2c\3d a
+1\2c aa
+1a \2c\1c
+1 \2c\3d\4e
+b
+1   \1c
+1 ac
+1c de
+1aac
+b
+1ccd
+1 dde
+1aa c
+1     a
+b
+0 cd a
+1a
+0 cd
+1aa c
+b
+0 cde
+1 dda
+1 dd   a
+b
+#2ac  a
+x    c
+x    e
+x   a
+1 a c
+1ac  a
+b
+
+b
+1c da
+#2 d
+x   c
+#2  a
+x  c
+xa\1c\2d
+x \2d\4f
+b
+#2 cd
+x d
+1aac
+1 c e
+1 ed
+b
+1aa c
+#2 c
+x   c
+1 dde
+1aac
+b
+1 c\2d
+#2 \2d\4f\3e
+x  \1d
+1aa \1c
+#2 \2c  a
+x c&{
+b
+1 df c
+1 c ce
+1  \2d\3e\4f
+1 dc c
+b
+1 cd a
+1c aa
+1a \2c\1c
+1 \2c\3d\4e
+b
+1   \1c
+1 ac
+1c de
+1aac
+b
+
+b
+1ccd
+1 dde
+1aa c
+1     a
+b
+1  d a
+1c  a
+1c  a
+1a d e
+b
+1c da
+1 c ca
+1ac c
+1 a
+b
+1ac  a
+#2  d
+x d
+1a d
+1a c
+b
+1a d
+1 dde
+1a dc
+1 ac  a
+b
+#2 cd a
+x d
+xa  c
+x c
+1 df
+#2 a c
+x  d
+b
+#2 ccc
+x  a
+1 dda
+1 acc
+1 cd a
+b
+
+b
+#2 d a
+x c
+x acc
+x  d
+1 aa c
+1  da
+b
+1 cc e
+1  d a
+2 adc
+#3  c
+x  a
+1  c  a
+1 \1c  a
+1 \1c\2d
+b
+1a\1c  a
+1a   a
+1   \1c
+1a \2d \3e
+b
+1 \4d a
+1  c c
+1 c&{\2d a
+#2 d&} a
+x  \3f
+b
+1ac  e
+1cd  c
+1   a
+1ac  a
+b
+#2 df c
+x    e
+x   a
+x   c
+0 cde c
+b
+1
+0acd a
+1aa c
+b
+
+b
+.
+0 cde
+1 dda
+1 dd   a
+b
+#2ac  a
+x    c
+x    e
+x   a
+1 a c
+1ac  a
+b
+1c da
+#2 d
+x   c
+#2  a
+x  c
+xacd
+x d
+b
+#2 cd
+x d
+1aac
+1 c e
+1 ed
+b
+1aa c
+#2 c
+x   c
+1 dde
+1aac
+b
+1 cd
+#2 d\3f\4g
+x  \1d\2e
+1aa \1c
+#2 \2c&{  a
+x c&}
+b
+
+b
+1 d\4f \1c
+1 \1c \1ce
+1  \2d\3e\4f
+#2 d\1c \3e
+x    c
+b
+1 cd a
+1c aa
+1a cc
+1 \2c\3d\4e
+b
+1a  c
+1 ac
+1c de
+1aac
+b
+1ccd
+1 dde
+1aa c
+1     a
+b
+A1
+0 cd a
+1
+0acd
+1aa c
+.
+b
+b
+A2
+w cdca
+b
+b
+
+e

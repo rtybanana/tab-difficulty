@@ -1,0 +1,895 @@
+-C
+-t
+-f
+{Passacaglia/Passacaglia}
+b
+C
+2. abc
+3 bd
+2.  de
+3 ab
+2. bd d
+3 bd
+2. ab
+3 bd
+b
+2.  def
+3 d e
+2. b c
+3 da
+2. a\1b&{  \2d
+3 ab&}
+2.  \3d\4e
+3 a\1b
+b
+2.  bcd
+3  bc
+2.  ab
+3  bc
+2.  dea
+3  de
+2.  bc
+3  de
+b
+2.  abc
+3 a b
+2.  d e /a
+3 a b
+2.  bc a
+3  a
+1   c
+b
+b
+
+b
+#2 abc
+x   a
+x    d
+x ab c
+#2 bd a
+x    c
+x    d
+x a\1b a
+b
+#2  \2d&{\3e\4f
+x    \1d&(
+x    c&)
+x  d&}ea
+#2 a\1b  \3d
+x    a
+x    \2c
+x  \3d\4e \2d
+b
+#2  \1b&{\3c\4d
+x    \2c
+x    a
+x  b&}c \4d
+#2  \2de \1c&{
+x     d&}
+x    a
+x  \1bc \2c
+b
+#2  abc
+x    a
+x a   d
+x     c
+2  \1b\3c&{ a
+#3    \2c&(
+x  a
+#2   c&} \4d
+x    c&)
+b
+b
+#2  b  a
+x a
+xa    d
+x d
+#2 b  a
+x a
+x  \3d   /b|
+x  b
+b
+
+b
+#2  a   a|
+x  \3d
+x \4d   \2c
+x \1b
+#2 a   d
+x  d
+x  b   /a
+x  a
+b
+#2   \2c  /b
+x  b
+x b   a
+x a
+#2  \4d  \2c
+x  \1b
+x  a a
+x   \3c
+b
+#2   \2b  /a|
+x  a
+x a    b|
+x  \4d
+#2  \1b  a
+x  a
+1   \2c
+b
+b
+#2a    d
+x    \1c
+x\3d  c
+x   a
+#2\4f   \2d
+x    \1c
+x \1b  a
+x     \3d
+b
+#2 \4d   \2c
+x    a
+x\2c  a
+x    \3d
+#2\4d   \1c
+x    a
+x a   \2d
+x     \1c
+b
+
+b
+#2 \1b   a
+x     \3d
+xa   \3d
+x    c
+#2\2c   a
+x     \3d
+x  \4d  \1c
+x     a
+b
+#2 a    b
+x     \2c
+x \4e  \1c
+x    a
+#2a    \2d
+x     \1c
+1   \2c&{ a
+b
+b
+#2  \1b} a
+x a c
+xa a
+x \4d\1b
+#2 \1b\4d&{
+x a  a
+x  d&} \2c
+x  \1b \3d
+b
+#2  a   a
+x  \3da
+x \4d \2c
+x \1ba
+#2 a\1b
+x  \4d  \3d
+x  \1b a
+x  a \2c
+b
+#2   \2c  /b
+x  b \3d
+x \1b a
+x a \2c
+#2  \3d\4e
+x  \1b  \2c
+x  a  \3d
+x   \2ca
+b
+
+b
+#2   \1b&{  /a
+x    \2c
+x a  \4e
+x   b&}
+2  \1b\2c&{
+#3     \3d
+x  a
+#2   c&}a
+x    \1c
+b
+b
+#2     a
+x a
+x  d
+#2  bU
+x  dX
+x a
+#2 bU a
+x dX
+xa
+#2  d
+x a
+x b
+b
+#2  a   a
+x  bU
+x  dX
+#2   a
+x dU
+x bX
+#2 a   d
+x bU
+x dX
+#2  bU
+x  dX
+x a
+b
+#2   \2cU /b
+x   \4eX
+x  b
+#2    \3d
+x   aU
+x   \2cX
+#2  \4d  \2c
+x aU
+x \1bX
+#2  aU
+x  \1bX
+x  \4d
+b
+
+b
+#2   \1bU /a
+x   \3cX
+x  a
+#2    \2c
+x a
+x  \4d
+#2  \1bU a
+x  \4dX
+x a
+#2   \2c \3d
+x    a
+x    \1c
+b
+b
+#2 ab  d
+x    \2cU
+x    aX
+#2     d
+x    aU
+x    \2c&{
+#2a \3d&( d&}
+x   aU
+x   \1cX
+#2    aU
+x    \1cX
+x    \2d
+b
+#2  da \1cU
+x     \2dX
+x    a
+#2      a
+x   a
+x    \3d
+#2 a\1ba\2cU
+x    \3dX
+x   a
+#2     \3d
+x    aU
+x    \2cX
+b
+#2a\1b  \3d
+x   a
+x   \2c
+#2\4f   aU
+x    \1cX
+x    \2d
+#2f\3ea   /a
+x      /c
+x      /e
+#2da   aU
+x     cX
+x     d
+b
+
+b
+#2\3c\1b \2ca
+x     \4d
+x     \1c
+#2 \4ea \1cU
+x    aX
+x    \1c
+#2aa\1b  \3d
+x    aU
+x    \2cX
+#2     aU
+x     \2cX
+x     \3d
+b
+b
+C
+2.a    a
+3 \4d
+2. b
+3 a
+2.  \4d \3d
+3  b
+2.  a
+3   c
+b
+2. \4d    a
+3 b
+2. a
+3  d
+2.  b c
+3  a
+2.   c
+3   a
+b
+2. b    /b
+3  \4f
+2.  \2d
+3  b
+2.  a a
+3   c
+2.   b
+3   c
+b
+2.   bc
+3  a
+2. a    /a
+3  \4d
+2.  b  a
+3  a
+2.   c
+3 a
+b
+b
+
+b
+#3aab  a
+x \4d
+x \1b
+x a
+#3  \3d
+x  \1b
+x  a
+x   \1c
+#3a \3d \2d
+x \4d
+x \1b
+x a
+#3  \3d
+x  \1b
+x  a
+x   \1c
+b
+#3 \4da   a
+x \1b
+x a
+x  \3d
+#3  \1b
+x  a
+x   \2c
+x   a
+#3 \4d\1b \2c
+x b
+x a
+x  d
+#3  b
+x  a
+x   c
+x   a
+b
+#3 b cd
+x a
+x  d
+x  b
+#3  a
+x   c
+x   a
+x    d
+#3 ba a
+x a
+x  d
+x  b
+#3  a
+x   c
+x   b
+x   c
+b
+
+b
+#3 a bc
+x  d
+x  b
+x  a
+#3   c
+x   b
+x    e
+x    c
+#3 abc a
+x  d
+x  b
+x  a
+#3   c
+x   b
+x    e
+x    c
+b
+b
+#3 ab  a
+x     c
+x     d
+x    a
+#3    c
+x    e
+x   b
+x   c
+#3 \1b\4d a
+x    \2c
+x    \3d
+x   a
+#3   \2c
+x  a
+x  \1b
+x  \3d&{
+b
+#3  d\4e  a
+x     a
+x     c
+x     d
+#3    a
+x    c
+x    d
+x   a
+#3 ab  d
+x    a
+x    c
+x    d
+#3   a
+x   c
+x  a
+x  b
+b
+
+b
+#3aba a
+x    c
+x    d
+x   a
+#3   c
+x  a
+x  b
+x  d
+#2\2ca    /a
+x   \1b
+x\4da \2c
+x     d
+b
+#2\3c\1b  a
+x     \2c
+x ea c
+x      /a
+#2aab  a
+x     d
+x    a
+x    c
+b
+b
+#3 ab  a
+x\4d
+x\2c
+x\4d
+#3 \4f
+x\2d
+x \1d
+xd
+#3 \1b \2ca
+x\4d
+x a
+xd
+#3  \3d
+xd
+x  \1b
+xd
+b
+
+b
+#3  \3da
+x\2c
+xa
+x\2c
+#3 \4d
+x\2c
+x \1b
+x\2c
+#3 a a \3d
+x\2c
+x  \4d
+x\2c
+#3  \1b
+x\2c
+x  a
+x\2c
+b
+#3   \2c\3d
+xa
+x \4d
+xa
+#3 \1b
+xa
+x a
+xa
+#3  \4d  \2c
+xa
+x  \1b
+xa
+#3  a
+xa
+x   \1c
+xa
+b
+#3  a   /a
+xa
+x e
+x c
+#3 e  c
+xa
+x c
+x e
+#3a    a
+x a
+x  d
+x a
+#3  bc
+x  d
+x  a
+x  b
+b
+b
+
+b
+#3 f   a
+x\3h
+x \4i
+xh
+#3 f
+xh
+x \4i
+xh
+#3 \3f&{  \2e&(
+x\4g
+x\1d
+xg
+#3 f
+xg
+xd
+xg
+b
+#3 e  d
+x\4f
+x\1c
+xf
+#3 e
+xf
+xc
+xf   )
+#3 d  c
+x\4e
+x\1b
+xe
+#3 d
+xe}
+xb
+xe
+b
+#3 \2c  \1b
+x\4d
+xa
+xd
+#3 c
+xd
+xa
+xd
+#3 \1b  a
+x\2c
+x \4e
+xc
+#3  \3f&{  d
+xd
+x \4f&(
+xd
+b
+
+b
+#3  g a
+x h
+xa)
+x h}
+#3 a  \1c
+x\2c
+x \4e
+xc
+#3\3da   a
+x   \1c
+x   a
+x    \2d
+#3    \1c
+x    a
+x     \2d
+x     \1c
+b
+b
+#3  \3f  a
+x\1d
+x \4f
+xd
+#3  f
+xd
+x f
+xd
+#3  \3e&{ \2e&(
+x\1d
+x \4f
+xd
+#3  e
+xd
+x f
+xd
+b
+#3  d d
+xc
+x e
+xc
+#3  d
+xc
+x e
+xc   )
+#3  c c
+xb
+x d
+xb }
+#3  c
+xb
+x d
+xb
+b
+
+b
+#3  \2b \1b
+xa
+x \3c
+xa
+#3  b
+xa
+x c
+xa
+#3   \2e&{a
+x \3e
+x  \4f
+x e
+#3   c&} \3d
+xa
+x a
+xa
+b
+#3  a a
+xa
+x \1b
+xa
+#3   \3ec
+x \4e
+x  \2d
+x e
+#3a b  a
+x a
+x  d
+x a
+#3  b
+x  d
+x  a
+x  b
+b
+b
+#3 a\1b  aU
+x     \4dX
+x    \2c
+x   \3c
+#3     aU
+x     dX
+x    c
+x   c
+#3 \1b\4d&{ aU
+x    \3dX
+x   \2c&(
+x  d&}
+#3    aU
+x    dX
+x   c&)
+x  \3d&{
+b
+
+b
+#3  d\4e  a
+x     c
+x    a
+x   a
+#3      a
+x     c
+x    a
+x   a
+#3 ab  d
+x    c
+x   a
+x  b
+#3     d
+x    c
+x   a
+x  b
+b
+#3  \3d&{\4eaU
+x    \2dX
+x   \1c
+x  d
+#3    aU
+x    dX
+x   \1c
+x  d&}
+#2  d\4e  /a
+x   \1b
+x  \1b\2c
+x     \3d
+b
+#2  aca
+x     c
+x   \1bc
+x      /a
+#3  b \2c&{a
+x   \3c
+x   b
+x   \3c&(
+#3    c
+x   c&)
+x     \4d
+x    c&}
+b
+b
+
+b
+#3     a
+x   c
+x  b
+x a
+#3    c
+x   c
+x  b
+x a
+#3    a
+x   c
+x  b
+x b
+#3    d
+x   c
+x  b
+x b
+b
+#3      a
+x   e
+x  d
+x b
+#3   aU
+x   eX
+x  d
+x b
+#3     d
+x   a
+x  b
+x a
+#3    c
+x   a
+x  b
+x a
+b
+#3     a
+x  \1b
+x b
+xa
+#3   \2c
+x  b
+x b
+xa
+#3    a
+x  \3d&{
+x \1b&(
+xa
+#3   \4e
+x  d&}
+x b&)
+xa
+b
+
+b
+#3    \1c
+x   \3e
+x  \2d
+x \4e
+#3      /a
+x   e
+x  d
+x e
+#3     a
+x  b
+x a
+xa
+#3   c
+x  b
+x a
+xa
+b
+b
+#3 a\1b  a
+x    \2c
+x   \3c
+x  b
+#3    c
+x   c
+x  b
+x a
+#3 \1b&{\4d aU
+x    \3d&(
+x   \2c
+x  d
+#3    d&)
+x   c
+x  d
+x b
+b
+#3 bda \2c
+x    a
+x   a
+x  a
+#3    a
+x   a
+x }a
+x b
+#3 aba d
+x    c
+x   a
+x  b
+#3    c
+x   a
+x  b
+x a
+b
+
+b
+#3 \1bb \3d
+x   \2c&{
+x  b
+x b
+#3   c&}
+x  b
+x b
+xa
+#3 \1ba aU
+x    \3dX
+x   \2c
+x  \4d
+#3    \2d&{
+x   \4e
+x  \3d
+xa
+b
+#3    c
+x  \1b
+x a
+xa
+#3      /a
+x   \3e
+x  \2d
+x \4e
+0aabcca
+b
+b
+
+e

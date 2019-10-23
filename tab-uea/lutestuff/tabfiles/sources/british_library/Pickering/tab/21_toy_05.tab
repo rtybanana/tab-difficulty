@@ -1,0 +1,160 @@
+-C
+-t
+-f
+{Toy - 5/Toy - 5}
+b
+c
+0fcd a
+#1    a
+xfcd
+b
+0ea c a
+#1     a
+xea c
+b
+#1c   a
+xa
+#1 c
+xa
+b
+0d   c
+0c  a
+b
+1f   a
+#2  d
+x a
+#2 c
+x d
+xa
+xc
+b
+1e    a
+#2 a
+x c
+#2 d
+xa
+xc
+xe
+b
+
+b
+1c   a
+#2a
+x d
+#2 c
+x d
+xa
+xc
+b
+0d   c
+0c  a
+b
+#1c   a
+xa
+#1 c
+x  d
+b
+#1  c  a
+x  d
+#1 a
+x d
+b
+1. c  a
+2 d
+#1a
+xd
+b
+1.c  a
+2e
+#1f
+xd
+b
+#1c   a
+xa
+#1 c
+x  d
+b
+1.  c  a
+2  d
+#1 a
+x d
+b
+
+b
+1 c  a
+#2 a
+x c
+#1 d
+x a   a
+b
+0 c  a
+0  d
+b
+#2c   a
+xa
+x d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+#2  c  a
+x  a
+x  c
+x  d
+#2 a
+x c
+x d
+x a
+b
+#2 c  a
+x a
+x c
+x d
+#2a
+x c
+x d
+xa
+b
+
+b
+#2c  a
+xa
+xc
+xd
+#1f
+xe
+b
+#2c   a
+xa
+x d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+#2  c  a
+x  a
+x  c
+x  d
+#2 a
+x c
+x d
+x a
+b
+#2 c  a
+x d
+xa
+x c
+#1 d
+x a   a
+b
+#1 c  a
+x  d
+Y    a
+b
+b
+
+e

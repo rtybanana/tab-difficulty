@@ -1,0 +1,231 @@
+-C
+-t
+-f
+{Allegez moy/Allegez moy}
+b
+c
+0  d
+#1 b
+x a
+b
+1.  d
+2  b
+0   c
+b
+#1
+x    a
+x    a
+x   c
+b
+#1  d a
+x  d
+x bd
+x ac
+b
+1  d
+#2    a
+x  b
+#1   ca
+x   c
+b
+#1    a
+x  d
+x  d
+x  c
+b
+
+b
+#1a d
+x    a
+xab  a
+xaa c
+b
+1.a d a
+2  b
+#1   c
+x   c
+b
+#1    a
+x   a
+x    d
+x    a
+b
+1    d
+#2a  c
+x   a
+#1a bc
+xa b
+b
+#1 bd
+x  d
+0ab
+b
+0
+0aa
+b
+#1
+x  d a
+1.  da
+2  da
+b
+
+b
+#1  d d
+x  d a
+0  c c
+b
+#1  d a
+xa
+1.b
+2b
+b
+#1a
+xa
+0 d
+b
+#1a
+x bd a
+1. dda
+2 dda
+b
+#1a d d
+x bd a
+0 dc c
+b
+0 bd a
+#1
+xa   a
+b
+1.d  c
+2c  a
+0a   d
+b
+
+b
+0 d  c
+#1
+x    a
+b
+1. a c
+2   a
+#1 b  d
+x b
+b
+#1 d  c
+x db
+x da
+x b c
+b
+#2
+x a a
+#1 a  c
+x    d
+x  d
+b
+#1 a  c
+xc
+xc
+xd
+b
+#2
+xc
+1 d
+0a
+b
+
+b
+#1 d
+x db
+x da
+x b c
+b
+#2
+x a a
+#1 a  c
+x    d
+x  d
+b
+0 a  c
+0a  c
+b
+#1    a
+xa d
+xa
+x  c
+b
+0a d
+#1
+x   c
+b
+#1 b  a
+x  d
+#2 a
+x  c
+x ac
+x  a
+b
+
+b
+1.a d
+2  b
+#1   c
+xa  c
+b
+#1a   a
+x  d
+#2a
+x  c
+x  c
+x  a
+b
+#1 bd
+xa
+xaa
+xaa c
+b
+1 bd a
+#2  da
+x  b
+#1a  cd
+x    a
+b
+1    d
+#2   c
+x   a
+#1a bc
+x  b
+b
+#1  d
+x  d
+0 b
+b
+
+b
+0
+0 a
+b
+#1
+x bd a
+1. dda
+2 dda
+b
+#1a d d
+x bd a
+0 dc c
+b
+#1 bd a
+xa   a
+xb  a
+xa   a
+b
+#1b  a
+xa   d
+0b  a
+b
+wa   a
+b
+wa  ca
+b
+b
+
+e

@@ -1,0 +1,147 @@
+-C
+-t
+-f
+{The King's march/The King's march}
+b
+c
+#2   a
+x   \1c
+b
+1  aa  a
+1  aa
+1  aa
+#2   \1c&,
+x   a
+b
+1   \1ca ///a
+#2   c
+x   e
+1   a&#  a
+#2   a
+x   \1c
+b
+1  aa  a
+1  aa&U
+1  dX
+#2  \1b",
+x  a
+b
+2.   \1ca ///a
+#4   a
+x    \3e
+1   a
+1      a
+#2a
+x\1c
+b
+b
+1\3eaaa
+1ea
+1ea
+#2\1c",
+xa
+b
+
+b
+1\1ca  a
+#2c
+x\3e
+1aa a
+#2a
+x\1c
+b
+1\3eaa   a
+1ea
+1ea
+#2\1c",
+xa
+b
+2.ca  a
+#4a
+x e
+1a
+0   a
+b
+b
+1 aaa  a
+1 aaa
+1. a "#
+2  \1b
+b
+0  a"#a  a
+#2  \1b   4
+x aU
+1 \2cX
+b
+1. a&#    ///a
+2  \1b
+0  aa  a
+b
+1.  a"#a  a
+2   \1c
+1   a  a
+1   a
+b
+1    a a
+1    a
+1   "#a  a
+1   a
+b
+1  a"#   a
+1  a
+1  d&,
+#2  \1b
+x  a
+b
+
+b
+1.   \1c&#a ///a
+#3   a
+x    \2e
+1   a
+1      a
+b
+b
+1\4haa   a
+1haa
+1.ha
+2\2f
+b
+0\1e&#aaa
+#2\2f     4
+x\3h
+1\4k
+b
+1.\3h&#     ///a
+2\2f
+0\1e&#aa   a
+b
+1.e&#aa   a
+2\1c&,
+1a "#a
+1a
+b
+1 "#aa   a
+1 a
+1a"#  a
+1a
+b
+1\1e&#a    a
+1e
+1\4h
+#2\2f
+x\1e
+b
+1.\1c&#a  a
+#3a
+x e
+#2a
+x      a
+x    a
+x   a
+b
+w aaa
+b
+b
+
+e

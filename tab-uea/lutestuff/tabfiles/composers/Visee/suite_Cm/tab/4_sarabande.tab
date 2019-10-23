@@ -1,0 +1,136 @@
+-t
+-f
+{/}
+b
+#2 bdc  ///a
+x ac
+#2 bd
+x df
+#2a g a
+x     \3d
+b
+1  \4d\2c \1b
+#2   a&'
+x a
+1  c&'  a
+b
+1.  cdc a
+2  c
+#2  d   /a
+x      a
+b
+1  d&'  a
+#2      6
+x  c
+1  dcd ///a
+b
+
+b
+#2acd a
+xbd
+#2df
+xac
+1bdd   a
+b
+1 d&'f  d
+#2   d
+x d
+1aa    /a
+b
+#2 dca b
+x     a
+#2 daa  a
+x      /a
+#2  ca  //a
+xa
+b
+1. b&' c  ///a
+2 a
+1 acc  6
+.
+b
+b
+
+b
+.
+#2 ab  a
+x b
+#2 a
+x  d
+#2  d   7
+x a
+b
+#2  d  a
+x  c
+#2  c
+x    c
+#2   c
+x      a
+b
+#2      /a
+x  d
+#2 aca  //a
+x bd
+#2 df
+x ac
+b
+1 bdc  ///a
+#2 a
+x  d
+2.     d
+3    a
+b
+
+b
+2.\4f    \1b
+3\4g
+1.\1d&'    a
+2\4d
+b
+1dcd a
+2.b&'cd
+3a
+1bdd   a
+b
+#2abb  a
+x a
+1a d  b
+#2bd
+xa
+b
+1. d&'f  d
+2 b
+#2 bbc  /a
+x      //a
+b
+
+b
+#2 bdc  ///a
+x a
+#2  \3d \4e
+x  b
+#2  a&'a  a
+x      /a
+b
+#2 aab  //a
+x  d
+#2  b&' c
+x  a
+1  b&_  a
+b
+2.a
+3  cc  a
+#2  dc  /a
+x      //a
+#2      ///a
+x a
+b
+1 a&'c  a
+#2      6
+x  d
+1  dcd ///a
+.
+b
+b
+
+e

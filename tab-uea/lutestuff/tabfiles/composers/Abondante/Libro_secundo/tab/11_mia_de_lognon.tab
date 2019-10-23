@@ -1,0 +1,408 @@
+-C
+-t
+-f
+{11. Mia de lognon/11. Mia de lognon}
+b
+S6-8
+0aabc
+b
+0.aabc
+1ddda
+0cdf c
+b
+0.ffh a
+1ddf c
+0cdda
+b
+0.cdda
+1a d e
+0 df c
+b
+0. cdca
+1 cdca
+0 aaac
+b
+0. aba d
+1 cdca
+0 efec
+b
+c
+1a bc a
+1.a bc
+2  d
+1 a c
+b
+1acd a
+1  d a
+1  da
+1  da
+b
+1 a a
+1  aa
+1  bc
+#2   c
+x  d
+b
+
+b
+1 a  c
+#2 a
+x    c
+1  d e
+#2  ba
+x  a
+b
+1a bc
+1a bc
+1f dff
+1f d
+b
+1fdaa
+1fd
+1hd
+1cd
+b
+1.df c
+2f  e
+1ha f
+#2h  f
+x a
+b
+1fca
+#2dd
+xc
+1df c
+1df c
+b
+1.cdf
+2  d
+1  bc
+#2  a
+x   a
+b
+1  b d
+#2    c
+x  a
+1   cd
+#2   a
+x    c
+b
+1   ca
+1  b  d
+1  a a
+1   ac
+b
+
+b
+1   cd
+1  b c
+1  a c
+1    a
+b
+1h    h
+#2     d
+xf
+1d    d
+1c
+b
+1.df c a
+2cd
+1ac
+1 df
+b
+1. cbc
+2 aaa
+1  dcd
+1  bac
+b
+1a  cd
+#2d
+x    c
+1c   a
+1da   d
+b
+1ac
+1da  c
+1c  a
+1  d
+b
+1 a  c
+1 ab  a
+b
+S6-8
+2. ab  d
+3 c  a
+2 ea c
+b
+2.a bc a
+3  d
+2 a
+b
+1   c
+2aabc
+b
+
+b
+2.aabc
+3cdda
+2edf c
+b
+2.ffh a
+3ddf c
+2cdda
+b
+2.cdda
+3a d e
+2 df c
+b
+1 cdca
+2 aaac
+b
+2. aba d
+3 cdca
+2 ea c
+b
+c
+0a bc a
+b
+1 a c a
+1 a
+1a  c a
+1a  c
+b
+1a d a
+1a d a
+1c da
+1c da
+b
+1 a a d
+1 a a d
+1   c d
+1   c d
+b
+#2a   a
+x   a
+x    e
+x    c
+#2f d a
+x     d
+x     c
+x     a
+b
+
+b
+#2fdaa
+x   c
+x   a
+x    e
+1h    h
+1c d
+b
+1da
+#2 a
+xf
+1h   h
+1h   h
+b
+#2f d a
+xd
+#3f d a
+xd
+xc
+xa
+1cdda
+1  da
+b
+1 a a
+1  aa
+1 abc
+#2a  c
+x cd
+b
+1cdf c
+#2d
+x    e
+1   a
+1cdd
+b
+1 cbc
+1aa
+0caa c
+b
+1. df
+2 cd
+1 ab
+1  de
+b
+1. bbc
+2 aaa
+1  dcd
+1  cbc
+b
+
+b
+1.a dcd
+2 d  c
+1 ca a
+1 db  d
+b
+1ab cd
+1 a
+1 ddef
+#2  bcd
+x   a
+b
+1  dca
+2 c
+#3 a
+x  d
+1 abc
+#2   a
+x    e
+b
+1  def
+#2 c c
+x    a
+1 ab c
+1  aa
+b
+1 a c
+1    c
+b
+S6-8
+2.    cd
+3    ef
+2   bc
+b
+2. abc a
+3 cd
+2 ef
+b
+1a  c
+2aa c
+b
+2.aabc
+3cdda
+2edf c
+b
+2.ffh a
+3ddf c
+2cdda
+b
+
+b
+2.cdda
+3a   e
+2 db c
+b
+1 cdca
+2 aaac
+b
+2. aba d
+3 cdca
+2 efec
+b
+c
+0a bc a
+b
+1a
+1a
+1f d
+1f d
+b
+1fd
+1fd
+1hd
+1cd
+b
+1.df
+2f
+1h   h
+1h   h
+b
+1f d a
+1f d a
+1c da
+1  da
+b
+1 a a
+1  aa
+1 abc
+#2a  c
+x cd
+b
+1cdf c
+1d    d
+1     d
+1ddf  d
+b
+
+b
+1cdda
+1aabc
+0caa c
+b
+S6-8
+1h i  h
+2f he
+b
+1dab
+2c da
+b
+1ddf  d
+2cdda
+b
+1aabc
+2 ea c
+b
+1aabc
+2d bc
+b
+1cdda
+2db  d
+b
+2aabc
+1d bc
+b
+1cdda
+2c de
+b
+2. dff
+3 cd
+2 dff
+b
+1.aa c
+b
+2.    cd
+3    ef
+2   b c
+b
+1   c a
+2   c a
+b
+2.aabc
+3cdda
+2ddf c
+b
+
+b
+2.ffh a
+3ddf c
+2cdda
+b
+2.cdda
+3a   e
+2 db c
+b
+1 cdca
+2 aaac
+b
+2. aba d
+3 cdca
+2 efec
+b
+Yaacc a
+b
+b
+
+e

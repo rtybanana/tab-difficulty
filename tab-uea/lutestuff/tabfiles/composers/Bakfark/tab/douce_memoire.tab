@@ -1,0 +1,730 @@
+-C
+-t
+-f
+{Douce Memoire/Douce Memoire}
+b
+c
+wdffc
+0dffc
+0dffc
+b
+0ddff
+0cdda
+1aab  a
+#2i
+xh
+#2i
+xh
+#3i
+xh
+xf
+x i
+b
+#1 h
+x f
+0 efec
+#1aab
+x d
+xa  c
+xc
+b
+#1dffc
+xc
+xd
+xf a
+#1h  f
+x f
+xffd
+xd
+b
+
+b
+1cdf
+#2 c
+x d
+#1hfhf
+x  f
+1 hhe
+#2g
+xe
+#2h
+xg
+#3h
+xg
+xe
+xg
+b
+1hea  h
+#2f
+xd
+#2c
+xa
+1ca bc
+#2da c a
+xc
+xd
+xc
+#2d
+xc
+#3d
+xc
+xa
+xc
+b
+#1dffc
+xa
+xca c
+xd
+#1ffhh
+x  ff
+xccde
+x  bc
+b
+1cdda
+#2a
+xc
+#1a d
+x d
+1.d bc
+#3 c
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+
+b
+1cdda
+#2 c
+x a
+#2  d
+x  b
+x  a
+x   c
+1cdda
+#2a
+x d
+#2 c
+x a
+x c
+x d
+b
+#2cdda
+xa
+x d
+x c
+#2 d
+x c
+#3 d
+x c
+x a
+x  d
+1hiif
+3
+3f
+3h
+3i
+1h
+1f
+b
+#1hiif
+x h
+0hiif
+#1hil h
+x  a
+#2   f
+x  a
+x   f
+x   h
+b
+0hhik
+0gca
+0hhfa
+0laa  h
+b
+0kh hk
+0hhik
+#1 hhe
+xg
+#2h
+xg
+xe
+xg
+b
+
+b
+1hea  h
+#2f
+xd
+#2c
+xa
+#3 d
+x c
+x a
+x c
+b
+#2 d
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+#3 d
+x c
+x a
+x  d
+b
+c
+1dffc
+#3
+xc
+xd
+xf
+1d
+#1c
+xdffc
+x   a
+x   c
+1   e
+b
+#1ddff
+xf
+0cdda
+1aabc
+#2 c
+x a
+#2a
+x c
+x e
+xa
+b
+
+b
+1  fec
+#2 e
+x c
+#2 f
+x e
+#3 f
+x e
+x c
+x e
+1aab
+#3
+x d
+xa
+xc
+1a  c
+1c
+b
+1dffc
+#3
+xc
+xd
+xf
+1d
+#1f a
+xh ff
+#3i
+xh
+xf
+xh
+#1ffd
+xd
+b
+1cdf
+#2 c
+x d
+#1hfhf
+x  ff
+#1ghhe
+xh
+x hh
+xg
+b
+#1hea  h
+x f
+xh
+x e
+#2da c a
+xc
+xa
+x d
+#2aa c
+x d
+xa
+xc
+b
+
+b
+#1dffc
+xa
+xca
+xd  c
+#1ffhh
+x  ff
+xccde
+x  bc
+b
+#2cdda
+xa
+x d
+x c
+#3 a
+x  d
+x a
+x c
+#3 d
+x a
+x c
+x d
+1 abc
+#2 c
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+#2cdda
+xa
+x d
+x c
+#3 a
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xd
+b
+
+b
+#2c  a
+xd
+xf
+xd
+#3c
+xa
+x d
+x b
+#3 a
+x  d
+x   f
+x  a
+b
+1hiif
+#3
+xf
+xh
+xi
+#1h
+xf
+#1hiif
+x h
+0hiif
+b
+#1hil h
+x  a
+xh  f
+x   h
+0hhik
+0gca
+b
+#1hhfa
+xk
+xlaa  h
+xh
+#1khhhk
+xh
+0hhik
+b
+
+b
+1.hhhe
+2g
+#2h
+xg
+#3h
+xg
+xe
+xg
+1hea  h
+#2f
+xd
+#2c
+xa
+x d
+x c
+#2 a
+x c
+x d
+xa
+#2c
+xa
+x d
+x c
+b
+1.dffc
+2a
+#1ca  c
+xd
+1.ffg a
+2h
+#1ffg
+x    a
+b
+#1dff  a
+x d
+x f
+#2 d
+x b
+1dabc
+#2  d
+x a
+0dcbc
+b
+1c da
+#2a
+xc
+#1aa  c
+x d
+1.aa ce
+2  e
+#2 a
+x  e
+x  c
+x  e
+b
+
+b
+#2 aa c
+x  d
+x a
+x c
+#2 d
+xa
+xc
+xd
+#1cef c
+x    a
+x    c
+x a  e
+b
+1.cdda
+2a
+#2 d
+x c
+#3 d
+xa
+xc
+xd
+1cdda
+#2a
+xc
+0dffc
+b
+0fcde
+#1c
+xe
+#1ffhh
+xh
+0khhh
+b
+#1 iif
+xh
+0hil h
+#1 hhe
+xg
+#2h
+xg
+xe
+xg
+b
+1hhk  h
+#3
+x  h
+x  k
+x  l
+#1  k
+x  l
+0hhk  h
+0hil h
+b
+
+b
+0hhkk
+0hil h
+1.hhlk
+2  k
+#2  l
+x  k
+x  h
+x  k
+b
+0hil h
+#1hiif
+x h
+0ffhh
+0cdda
+b
+1d bc
+#2 c
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+#2cdda
+xa
+x d
+x c
+#2 d
+xa
+xc
+xd
+b
+#2cdda
+xa
+xc
+xd
+#2f
+xc
+xd
+xf
+#1ddff
+xf
+xh
+xk
+b
+
+b
+#1l   l
+xh
+xn a
+x    h
+1. nnk
+2m
+#2n
+xm
+#3n
+xm
+xk
+xm
+b
+1nil  a
+#2l
+xi
+#2h
+xf
+xd
+xc
+#2aab  a
+x d
+xa
+xc
+#2d  c
+xa
+xc
+xd
+b
+#1fhia
+x i
+x h a
+x i
+#1fhia
+xd
+xcd a
+x c
+b
+#1dffc
+xf
+xh   h
+x d
+1. hhe
+2g
+#2h
+xg
+xe
+xg
+b
+
+b
+#1hhi  h
+xk
+xl
+x  h
+#1  ik
+xk  h
+xh ff d
+xfca
+b
+#1dab  d
+xc d
+xaab  d
+x da
+#1 cdca
+x a
+0abd a
+b
+1.aaa c
+2 e
+#2a
+x e
+x c
+x e
+#2aa c a
+x   a
+x   c
+x  a
+#2  b
+x  a
+x  b
+x  d
+b
+#1 df
+xa
+xc
+x df
+#1ddff
+xf
+xh
+xk
+b
+
+b
+#1l   l
+x n
+xn a
+x    h
+1. nnk
+2m
+#2n
+xm
+#3n
+xm
+xk
+xm
+b
+1nil  a
+#2l
+xi
+#2h
+xf
+xd
+xc
+#2aabc
+x d
+xa
+xc
+#2da c
+xa
+xc
+xd
+b
+#1fhia
+x i
+x h a
+x i
+#1fhia
+x i
+xcdda
+x c
+b
+#1dffc
+xf
+xh   h
+x  i
+1. hhe
+2g
+#2h
+xg
+xe
+xg
+b
+
+b
+#1hhi  h
+xk
+xl
+x  h
+#1  ik
+xk  h
+xh  f d
+xfca
+b
+#1dab  d
+xc d
+xa b  d
+x da
+#1 cdca
+x a
+xabd a
+x  b
+b
+1.aaa c
+2 e
+#2 f
+x e
+#3 f
+x e
+x c
+x e
+1.aacc a
+2  a
+#2  c
+x  d
+x  c
+x  a
+b
+#2aac  a
+x  a
+x  c
+x  d
+#2 a c
+x  d
+x  c
+x  a
+#2aac  a
+x  a
+x  c
+x  d
+#2 a c
+x  c
+x  d
+x a
+b
+
+b
+#1a d a
+x a
+0abd a
+1aadc
+#2  c
+x  a
+0aacc
+b
+#1abd a
+x  c
+x  d
+x a
+#1    a
+xabd
+x ac
+x  de
+b
+Yaacc a
+b
+b
+
+e

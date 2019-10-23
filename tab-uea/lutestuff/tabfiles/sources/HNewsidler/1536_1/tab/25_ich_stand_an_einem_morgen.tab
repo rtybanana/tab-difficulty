@@ -1,0 +1,427 @@
+-C
+-t
+-f
+{25. Ich stand an einem Morgen/25. Ich stand an einem Morgen}
+b
+c
+0 b  d
+1 b  a
+#2    a
+x    c
+b
+1  d d
+1   a
+1 a
+1   c
+b
+1 b  a
+1  d
+0 db
+b
+0a   d
+1a
+1    d
+b
+1 d a
+#2 d
+x b
+1 d a
+1 a c
+b
+1    d
+1  d
+0 a  c
+b
+1 b
+1    a
+1  d a
+1    a
+b
+1  bc
+#2   c
+x   d
+0  b
+b
+
+b
+1  b
+1 bd
+1   d
+1 d
+b
+1a  c
+1 a
+1   c
+1a
+b
+#2a
+x d
+x b  a
+x a
+1 b  a
+1 a  c
+b
+1     d
+1  d a
+1   c
+1  c
+b
+1  d
+1    a
+1   ca
+1    a
+b
+0   c
+1    a
+1a   d
+b
+1 b  a
+1 d  c
+1a   d
+1 b
+b
+1    d
+#2 a a
+x  d
+1  bc
+#2 b c
+x   d
+b
+1 ab
+1 bd
+0  dd
+b
+
+b
+0 a c
+0 b  d
+b
+0  dd
+0  bc
+b
+0    d
+0 b
+b
+1  d d
+1 a
+1 b  a
+#2 b  a
+x d  c
+b
+1a   d
+#2    d
+x   a
+1a  c
+#2 d
+x b
+b
+1 a
+1  b
+1 bd
+1 d a
+b
+0 a c
+1  dd
+1 b  d
+b
+1   a
+1 a
+0 b  d
+b
+0 b
+0  dd
+b
+0   d
+0   a
+b
+0   c
+0   d
+b
+
+b
+0  b
+0 bd
+b
+0 bd
+0  d
+b
+1 ab
+#2  b
+x   d
+1 b c
+1   d
+b
+0 d a
+0a   d
+b
+1a
+1    d
+0a   a
+b
+1 d  c
+#2 a  c
+x    a
+1     d
+1 b  d
+b
+1  d
+1   a
+1  bc
+1    d
+b
+1    c
+1  b
+1 b  a
+#2 b
+x d
+b
+1a
+0 d   d
+1 b  d
+b
+1 a a
+1   c
+0  dd
+b
+
+b
+1 b c
+1   d
+0 ab
+b
+1  d
+1  b d
+1  d a
+1   d
+b
+1   cd
+#2    c
+x    a
+1     d
+1   c
+b
+1   c
+1    d
+1   ca
+#2  d a
+x    c
+b
+#2  d d
+x  b
+x  d d
+x   a
+0  bc
+b
+#2  b
+x   d
+x   c
+x   a
+#2    d
+x    c
+x    d
+x   a
+b
+0   c
+1 b d
+1   c
+b
+1  dd
+1 a
+1 b d
+1 d
+b
+
+b
+1a
+1   c
+1a   d
+#2 d a
+x b
+b
+1 a c
+#2   a
+x    d
+0 d  c
+b
+1 b  d
+1  da
+1    c
+1  b
+b
+1  d a
+1  b d
+0   df
+b
+0   cd
+1
+1a   d
+b
+1a   a
+1a
+#2 d  c
+x b
+x a
+x  d
+b
+1  b d
+1 b
+0  da
+b
+0  bc
+1  bc
+1  d
+b
+1 a c
+1 b
+0 a c
+b
+1  d
+1 b
+1   d
+1  d
+b
+
+b
+1   a
+1 a
+#2 a c
+x  b
+1 b
+b
+1   d
+1 d
+1  b
+1a
+b
+#2a d
+x d
+x b
+x a
+0 bd
+b
+1  d
+1  d
+1 ab
+#2 a c
+x  d
+b
+1  b
+1  dd
+1   a
+1 a
+b
+0 b  d
+1
+1  b d
+b
+1  dd
+#2  dd
+x ab
+#2 bd
+x d
+1a b
+b
+#2a
+x d
+1 d d
+1   c
+1 c
+b
+
+b
+0 d a
+1   d
+1  d
+b
+1   c
+1  b
+1  da
+#2  d d
+x  b
+b
+1   df
+1   ab
+0   ca
+b
+1   a
+1   ca
+1   da
+1   c
+b
+1   da
+1    f
+1   d
+1    f
+b
+1   cd
+1   d
+0  b d
+b
+0   d b
+1
+1b
+b
+1 d d
+#2 d
+xa
+1b  a
+1a  c
+b
+1 d d
+1  b
+1 bd
+1  d
+b
+
+b
+1 bd
+#2 db
+x   d
+1a  c
+#2a
+x d
+b
+1 ab
+#2 a
+x b
+1 d d
+1  da
+b
+1 a
+1 b  d
+1  da
+1    d
+b
+1    b
+1  b
+1  d a
+1  dd
+b
+1   c
+1  b
+1  d
+1a b
+b
+1   d
+1 d
+1a  c
+#2a
+x d
+b
+1 b c
+#2 a
+x  d
+1  bc
+1  d
+b
+1 a c
+1 b
+1 a c
+1  d
+b
+0 a c
+Y  d a
+b
+b
+
+e

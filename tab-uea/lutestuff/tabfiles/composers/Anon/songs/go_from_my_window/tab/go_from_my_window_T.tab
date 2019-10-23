@@ -1,0 +1,65 @@
+-C
+-t
+-f
+{Go from my Window/Go from my Window}
+b
+C
+0 dda
+1 d
+1a
+b
+0c  a
+0acd a
+b
+0 d a
+0  d
+b
+w      a
+b
+0aab  a
+1   c
+1c
+b
+0da c
+0caa c
+b
+0aac  a
+0   c
+b
+w     a
+b
+0aab  a
+1   c
+1c
+b
+0da c
+1c
+1a
+b
+1 d a
+1a
+1c
+1 d
+b
+1a   a
+1 c
+0  d
+b
+
+b
+0 d a
+1 d
+1a
+b
+1c  a
+1d
+0acd a
+b
+0 d a
+0  d
+b
+w      a
+b
+b
+
+e

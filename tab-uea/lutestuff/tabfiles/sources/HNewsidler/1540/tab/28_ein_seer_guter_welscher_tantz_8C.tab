@@ -1,0 +1,559 @@
+-C
+-t
+-f
+{27. Ein Welscher Tantz/27. Ein Welscher Tantz}
+b
+c
+1
+#2  a
+x  b
+1  da
+1      a
+b
+1  da
+1      a
+#2 b
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+1  aa
+1      a
+1  aa
+#3  b
+x  a
+x  b
+x  d
+b
+1 a   d
+#2  d  c
+x a
+#2  b  a
+x  a
+x   c
+x   a
+b
+1 c ca
+1  d
+1 c ca
+#2  a
+x  b
+b
+
+b
+1  da
+#2      a
+x a
+#2  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+1  aa
+#2 a
+x  d
+#3  b
+x  a
+x  b
+x  d
+#2  bc
+x  aa
+b
+#2 c ca
+x  d
+x d ac
+x  c
+#3   ca
+x d
+x c
+x a
+#2 d
+x c
+b
+1 daa
+1      a
+1 daa
+#3c
+xa
+xc
+xe
+b
+1f aa
+1      a
+#2f aa
+xd
+#3f
+xd
+xc
+xa
+b
+
+b
+1c da
+1      a
+1c da
+#2d
+xf
+b
+1da f
+1f aa
+#2da c
+xc
+#3a
+x d
+x c
+x a
+b
+1ac  a
+1  d
+1ac  a
+#2c
+xe
+b
+1f aa
+1      a
+#2f aa
+xd
+xc  a
+xa   e
+b
+#2c da
+xa
+xc
+xf
+#2d  ac
+xc
+#3a
+x d
+x c
+x a
+b
+
+b
+#2 c ca
+x  d
+x d ac
+xc
+#3   ca
+x d
+x c
+x a
+#2 d
+x c
+b
+1 daa
+1      a
+1 daa
+#3  a
+x   c
+x  a
+x  b
+b
+#2  d
+x  b
+x  d
+x a
+#2  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+1  aa
+1      a
+#2  aa
+x  b
+x  d
+x a
+b
+1c da
+1d bc
+#2d  ac
+xc
+xa
+x d
+b
+1ac  a
+1  d
+1ac  a
+#3  a
+x  b
+x  d
+x a
+b
+
+b
+#2  da
+x  b
+#3  d
+x  b
+x  d
+x a
+2  da
+#3 b
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+1  aa
+#2 ab
+x  de
+#2  bc
+x  aa
+x   ce
+x   ac
+b
+#2 c ca
+x  d
+x d  c
+x  b
+#3   ca
+x d
+x c
+x a
+#2 d
+x c
+b
+1 daa
+1      a
+1 daa
+#2f
+xd
+b
+#2c  a
+xd
+#3c
+xa
+x d
+x c
+1 daa
+#2f
+xd
+b
+
+b
+#2c  a  a
+xa
+x d
+x c
+1 daa
+#2d
+xf
+b
+1ha f
+1f a   a
+#2da c
+xc
+#3a
+x d
+x c
+x a
+b
+1ac  a
+1  d
+1ac  a
+#2f
+xd
+b
+#2c     a
+xa
+#3c
+xa
+xc
+xd
+#2c  a
+x d  c
+xa   e
+xc  a
+b
+#2da c
+xa
+xd  c
+xc  a
+#2a   e
+x d  c
+x c  a
+x a
+b
+
+b
+#2 c ca
+x  d
+x d  c
+x  b
+#3   ca
+x d
+x c
+x a
+#2 d
+x c
+b
+1 daa
+1      a
+1 daa
+1      a
+b
+#2c     a
+xa
+#3 d
+xa
+xc
+xd
+#2c  a
+x d  c
+xa   e
+xc  a
+b
+#2d  c
+xa
+xd  c
+xc  a
+#2a   e
+x d  c
+x c  a
+x a
+b
+#2 c ca
+x  d
+x d ac
+xc
+#3   ca
+x d
+x c
+x a
+#3 d
+x c
+x a
+x c
+b
+
+b
+1 daa
+1      a
+1 daa
+1      a
+b
+b
+
+{27. Ein Welscher Tantz/27. Ein Welscher Tantz}
+b
+#2  a
+x  b
+b
+1  da
+#2      a
+x  b
+#3  d
+x  b
+x  a
+x  b
+b
+1  da
+1      a
+#2  b
+x  a
+b
+1  bc
+#2    d
+x  a
+x  b
+x  d
+b
+1  bc
+1    d
+#2  a
+x  b
+b
+
+b
+1  da
+1      a
+1  d
+b
+1  bc
+#2    c
+x  a
+x   c
+x   a
+b
+1 c ca
+#2  d
+x a
+#3 c
+x a
+x c
+x d
+b
+1 c ca
+1  d
+#2  a
+x  b
+b
+1  da
+#2  da
+x      a
+#3  d
+x  b
+x  a
+x  b
+b
+
+b
+1  da
+#2      a
+x  d
+x  b
+x  a
+b
+1  bc
+#2    d
+x  a
+x  b
+x  d
+b
+1  bc
+1    d
+1  b
+b
+1  aa
+#2   c
+x  a
+x  b
+x  a
+b
+#2   c
+x   a
+#2    a
+x   c
+x d
+x c
+b
+
+b
+1 dda
+#2      a
+x c
+#3 d
+x c
+x a
+x c
+b
+1 daa
+1      a
+#2c
+xe
+b
+1f aa
+#2      a
+xd
+#3f
+xe
+xc
+xe
+b
+1f a
+1      a
+#2d
+xc
+b
+1d  c
+#2    d
+x   a
+x   c
+x    d
+b
+
+b
+1d  c
+1    d
+#2c
+xe
+b
+1f aa
+1      a
+1f aa
+b
+1d  c
+#2   a
+xc
+xa
+x d
+b
+1ac  a
+#2  d
+x a
+#3 c
+x a
+x c
+x d
+b
+1ac  a
+1  d
+#2c
+xe
+b
+
+b
+1f aa
+#2      a
+xe
+#3f
+xe
+xc
+xe
+b
+1f aa
+#2      a
+xf
+xd
+xc
+b
+1d  c
+#2    d
+x   a
+x   c
+x    d
+b
+1d  c
+1    d
+#2f
+xd
+b
+#2c  a
+xa
+#2d
+xc
+xa
+x d
+b
+
+b
+#2 c
+x a
+#2    a
+x   c
+x d
+x c
+b
+1 dda
+#2      a
+x c
+#3 d
+x c
+x a
+x c
+b
+1 daa
+1      a
+1 daa
+b
+b
+
+e

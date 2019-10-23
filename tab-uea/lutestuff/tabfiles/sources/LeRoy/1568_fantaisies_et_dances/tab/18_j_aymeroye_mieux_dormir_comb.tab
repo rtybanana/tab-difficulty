@@ -1,0 +1,201 @@
+-C
+-t
+-f
+{18. Galliard/18. Galliard}
+b
+1aac  a
+1aac
+1aac  a
+b
+1aac  a
+#2   c {
+x  d   }
+1aac  a
+b
+#2 bd a
+x a  {
+#2 b
+x  d  }
+#2 a  a
+x b
+b
+1. db  d&{
+2 db
+1   a  }
+b
+1abb d
+1abb
+1abb d
+b
+1 db  d&{
+#2   a
+xa     }
+1 dba d
+b
+1 dba d
+1 bd a
+#2 a a
+x  d
+b
+1.aac  a
+2aac
+1   c
+b
+b
+
+b
+#2aac  a
+x  a
+#2  c
+x  d
+#2 a
+x  d
+b
+#2aac  a
+x  a
+#2  c
+x  d
+#2 a   a
+x  c
+b
+#2  d a
+x  c
+#2  d
+x a
+#2 b  a
+x  d
+b
+#2 ab  d
+x  a  {
+#2  b
+x  d   }
+#2 a   d
+x  b
+b
+#2abb d
+x a  {
+#2 b
+x d   }
+#2a   d
+x b
+b
+#2 ab  d
+x  a  {
+#2  b
+x  d   }
+#2 a   d
+x  b
+b
+#2  d a
+x b
+#2 a
+x  d
+#2  c a
+x  a
+b
+
+b
+#2     a
+xaac  {
+#2   c
+x  d   }
+1aac  a
+b
+b
+1 acc a
+1 bd a
+1 dba d
+b
+1abb d
+1abb
+1 db c
+b
+1 dba d
+1 bdca
+#2 a
+x  d
+b
+1.aac  a
+2aac
+1   c
+b
+b
+#2     a
+x ab
+#2 bd
+x    a
+#2    c
+x db
+b
+#2    d&{
+xab
+#2  b  }
+x    d
+#2     d&{
+x d
+b
+#2  b
+x     d
+#2  d a
+x b
+#2 a
+x  d
+b
+
+b
+#2     a
+xaac  {
+#2   c
+x  d   }
+1aac  a
+b
+b
+1 acc a
+1 bdca
+1 db c
+b
+1abb d
+1abb
+1 dba d
+b
+1 bdca
+1 adc a
+1aac  a
+b
+1.acd a
+2acd
+1   c
+b
+b
+#2     a
+x acc
+#2 bd
+x    a
+#2    c
+x db
+b
+#2    d
+xab
+#2  b
+x   c
+#2     d
+x db
+b
+#2 bd
+x    a
+#2aac  a
+x  d
+#2     a
+x  c
+b
+
+b
+#2    a
+x cd
+#2   c
+x d
+1 cd a
+b
+b
+
+e

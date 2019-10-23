@@ -1,0 +1,302 @@
+-C
+-t
+-f
+{Ricercar 4/Ricercar 4}
+b
+c
+#2  d a
+x a
+#3 b
+x a
+x b
+x d
+#2ab  a
+xc
+xd
+xf
+b
+#2h    a
+xf
+#3h
+xf
+xe
+xc
+#2 a c
+xe
+#3f
+xe
+xc
+xe
+b
+#2f   a
+x a
+xf
+xh
+#2i  h
+x   g
+x   h
+x  f
+b
+#2i g
+x  f
+x  g
+x  i
+#2if
+x d
+x f
+x h
+b
+
+b
+#2ii
+x h
+#3 i
+x h
+x f
+x h
+#2hi
+x h
+x i
+x h
+b
+#2hf
+x  i
+x f
+x h
+1hi
+1 f
+b
+#2h
+x h
+1 i
+#2hi
+x h
+x i
+x h
+b
+#2hf
+x d
+x f
+x h
+1hi
+#2 h
+x f
+b
+#2fg
+x f
+x d
+x f
+#2fd
+x b
+x d
+x f
+b
+1fg
+1 i
+#2f
+x  g
+x  i
+x f
+b
+
+b
+1fg
+#2 f
+x d
+#2f g
+x  i
+x f
+x g
+b
+#2df
+x d
+x f
+x d
+#2db
+x a
+x b
+x d
+b
+1df
+1  g
+#2 d
+x  f
+x  g
+x d
+b
+#2df
+x d
+x f
+x h
+#2bd
+x b
+x d
+x b
+b
+#2b e
+x  d
+x  e
+x b
+1bd
+1  e
+b
+#2b
+x  d
+x  e
+x b
+1bd
+#2a
+x d
+b
+
+b
+#2ab
+x a
+x b
+x  d
+#2aa
+x b
+x d
+x a
+b
+#2ad
+x b
+x a
+x  d
+#2aa
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+#2abdca
+xc
+xd
+xa
+#2d
+xb
+#3d
+xb
+xa
+x d
+b
+#2 b  a
+x d
+xa
+x b
+#2b
+xa
+x d
+x b
+b
+
+b
+#2 d  a
+x b
+#3 d
+x b
+x a
+x  d
+#3  b  a
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xd
+b
+#3f
+xh
+xi
+xh
+#3f
+xd
+xc
+xa
+#3 d
+x c
+x a
+x  d
+1 a
+b
+#3n
+xl
+xk
+xh
+#3f
+x i
+x h
+xa
+#3 d
+x b
+x a
+x  d
+#3  b
+x   d
+x   c
+x   a
+b
+
+b
+#3    d
+x    c
+x    a
+x     d
+#3    a
+x     d
+x     c
+x     d
+#3     c
+x     d
+x    a
+x    c
+#3    d
+x    c
+x    d
+x    c
+b
+#3a   a
+x     d
+x    a
+x     d
+#3    a
+x     d
+x     c
+x     a
+#2     c
+x   b
+#3   c
+x   b
+x    e
+x   b
+b
+#3   c a
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+x b
+#3 d
+x b
+x d
+x b
+#3 a
+x  d
+x a
+x  d
+b
+#2fa   a
+xe
+#3f
+xe
+xc
+xe
+Yf d a
+b
+b
+
+e

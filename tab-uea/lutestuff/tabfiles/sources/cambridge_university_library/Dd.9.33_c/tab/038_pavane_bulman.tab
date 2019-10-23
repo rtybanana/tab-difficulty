@@ -1,0 +1,481 @@
+-C
+-t
+-f
+{38. Pavane/Baruch Bulman}
+b
+c
+2. dda
+3 c
+#2 d
+xa
+1.bdda
+2a   d
+b
+#2 d  b
+x   a
+x   d
+x  b
+#2 cd a
+xa
+xbd
+xdf
+b
+#2fc  a
+x d
+x c
+xd
+2bd a
+#3db c
+x a
+#2f dd
+xh if
+b
+1.if h f
+2h    h
+#2ff  d
+xd
+2bdda
+#3a
+x d
+b
+#2acdca
+xf
+xbdd
+x   a
+1acd a
+2bdda
+#3ab c
+x a
+b
+
+b
+#2  dd
+x a
+x b
+x   c
+#2 dda
+xa
+xb d
+x a
+b
+2.ab  d
+3b
+#3a
+x d
+x b
+x a
+#3 b  d
+x  b
+x  d
+x a
+#4 b
+x a
+x b
+x d
+#4a
+x b
+x d
+xa
+b
+#4b  a
+xa
+xb
+xd
+#3b
+xa
+#3 d  b
+xa
+xb
+xd
+2.fc  a
+#4d
+xb
+#4a
+xb
+xd
+xb
+#4a
+x d
+x c
+x a
+b
+
+b
+2.acdca
+#4   f
+x   d
+#4   c
+x   d
+x   f
+x   d
+#4   c
+x   a
+x    e
+x    c
+2    a
+1i
+2h
+b
+#2f
+x  g
+xd e
+xb d
+2     d
+1gd f
+2f    f
+b
+#2dd  b
+xb
+1bbd  b
+#3    d
+x g
+x f
+x d
+#3 f
+x g
+x de
+x f
+b
+1.bbdddb
+#3a    d
+x d
+#2 c  a
+xa
+xf
+xa
+b
+#2b
+x  d
+xa
+x   c
+#2 d d
+x   a
+xdd c
+x c
+b
+
+b
+1.bdda
+2    a
+#2    d
+xa
+xd
+x     d
+b
+#2    b
+x d
+xb
+x     b
+#2a    d
+x    a
+x d  b
+x     d
+b
+#3    a
+x d
+x c
+x a
+#3 c
+x d
+x ab
+x c
+0 ddef
+b
+b
+2 g  f
+#3  i
+x f
+#3 g
+x i
+xf
+xh
+#2if   f
+x g
+xgd f d
+xdf  d
+b
+#2f  d
+x  g
+x de
+x f
+#2bbd  b
+x   d
+x d  b
+xa   d
+b
+
+b
+1.bbdddb
+2i
+1.gd f d
+2f    f
+b
+#2dd  b
+xb
+xb da
+x  e
+2 g fd
+#3 f
+x d
+3 f
+2 g
+3 f
+b
+#2bbd  b
+x   d
+xf
+xd  c
+3 g  f
+#4  i
+x f
+#4 g
+x f
+x g
+x i
+#4f
+x i
+x g
+x f
+#4 g
+x i
+xf
+xh
+b
+
+b
+3i    f
+#4h
+xf
+#4 i
+x g
+x f
+x  i
+#4  g
+x  i
+x f
+x g
+#4 i
+xf
+xh
+xi
+#2gd f d
+xf
+1df  d
+b
+b
+#3f  d
+x  g
+x d
+x f
+#3 g  f
+xd
+xf
+x g
+3gd f d
+#4 d
+x f
+#4 g
+xd
+xf
+xg
+#2f g
+x     f
+b
+#2dd  b
+xb
+xb da
+x  e
+#3    d
+x g
+x f
+x d
+#4 g
+x f
+x g
+x f
+#4 g
+x f
+x d
+x f
+b
+
+b
+#2bbdddb
+x   d
+2     b
+#3b
+xd
+#2f
+x   a
+x    e
+xa
+b
+#2bdd
+x   a
+2acdca
+#3   d
+x  b
+#2  d
+x   a
+#2    e
+x   c
+b
+#2   d
+x    f
+#2  dca
+xa
+xbdd
+x   a
+#2acd a
+x   c
+b
+#2   df
+x   a
+#2 cd a
+xf
+xbdd
+x   a
+#2a   e
+x  d
+b
+#2   df
+x   a
+2 cdca
+#3f
+xh
+2i  h
+#3 i
+xf
+2g  f
+#3 g
+xd
+b
+
+b
+#2f  d
+x d
+#2dd c
+x c
+2bdda
+#3    a
+x    c
+#3a   d
+xb
+xd    d
+x    a
+b
+#3 d  b
+xa
+xb
+x     b
+#3a    d
+x    a
+x d  b{
+x  b   }
+3fd  a
+#4 c
+x d
+#3 c
+xd
+#3c  a
+x  d
+x a
+x c
+b
+#3 d
+xa
+#4b
+xa
+xb
+xd
+#2f
+x   a
+x    e
+xa
+3b  a
+#4d
+xb
+#3a
+x d
+b
+
+b
+2acdca
+#3   d
+x  b
+#2  d
+x   a
+#2    e
+x   c
+3   df
+#4   f
+x   d
+#3   c
+x   a
+b
+#2  dca
+xa
+xbdd
+x   a
+#2acd a
+x   c
+x   df
+x   a
+b
+#2 cd a
+xf
+xbdd
+x   a
+#2a   e
+x  d
+x   df
+x   a
+b
+2 cdca
+#3f
+xh
+#3i
+x   h
+x i
+xf
+#3g
+x   f
+x g
+xd
+#3f
+x   d
+x d
+xf
+b
+
+b
+#3d
+x   c
+x c
+xd
+2bdda
+#3    a
+x    c
+#3a   d
+xb
+xd    d
+x    a
+#3 d  b
+xa
+xb
+x     b
+b
+#3a    d
+x    a
+x d  b
+x  b
+3fd  a
+#4 c
+x d
+#3 c
+xd
+Ycdda
+b
+b
+
+e

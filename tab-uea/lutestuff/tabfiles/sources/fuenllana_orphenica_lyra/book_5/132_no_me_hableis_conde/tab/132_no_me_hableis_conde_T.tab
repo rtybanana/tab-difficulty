@@ -1,0 +1,459 @@
+-C
+-t
+-f
+{132. No me habléis, Conde/Miguel de Fuenllana}
+b
+c
+0  b
+0  b
+b
+0  d
+0  d
+b
+0 db
+0 db
+b
+0a b
+1a d
+1  d
+b
+0 df
+0 d
+b
+0acd
+1aab
+1 a
+b
+0 df
+0  ee
+b
+0aab
+1acd
+1a
+b
+0cd a
+0 d
+b
+0add
+0 c
+b
+0 d
+0  f
+b
+0 df
+1c
+1  d
+b
+
+b
+0cd
+1c
+1ac
+b
+0cdf
+1ccd
+1 ab
+b
+1ccd
+1 d
+1ac
+1 d
+b
+1a b
+1 df
+1 cf
+1 a
+b
+1 c e
+1  f
+0  ee
+b
+0  ff
+0  f
+b
+0 c
+0  e
+b
+0 df
+0 d
+b
+0a b
+0ccd
+b
+1 df
+1a
+0 d
+b
+0acd
+0 a c
+b
+0 c e
+0  ee
+b
+
+b
+1 ab
+1  d
+0  f
+b
+0 c
+0  e
+b
+0 df
+0 d
+b
+0a b
+0ccd
+b
+1 df
+1a
+0 d
+b
+0acd
+0 a c
+b
+1 c e
+1  f
+0  e
+b
+w a  c
+b
+0  d
+0  d
+b
+0 df
+0 df
+b
+0a d
+0a d
+b
+0 df
+1 df
+1 d
+b
+0add
+1acd
+1  d
+b
+0 df
+0 df
+b
+
+b
+0a d
+1ac
+1a
+b
+0cd a
+0 d
+b
+0add
+0 c
+b
+0 d
+0ca
+b
+0ca
+0cd
+b
+0cd
+0cdf
+b
+0cda
+1acd
+1 df
+b
+1ac c
+1 df
+1 cff
+1 a
+b
+1 c e
+1  f
+0  e
+b
+0  f
+0 df
+b
+0a d
+0ccd
+b
+1 df
+1a
+0 d
+b
+0ac c
+0 a
+b
+
+b
+0 c e
+0  e
+b
+0 af
+0 df
+b
+0a d
+0ccd
+b
+1 df
+1a
+0 d
+b
+0ac c
+0 a
+b
+1 c e
+1  f
+0  e
+b
+0 a
+0   c
+b
+0  b
+1 a
+1  d
+b
+1 df
+1 c
+0 d
+b
+0a
+0acd
+b
+0cdf
+1 d
+1 d
+b
+0add
+0ac
+b
+0 dde
+1 dff
+1 d
+b
+
+b
+0cd a
+1acd
+1 df
+b
+1ac
+1 df
+1 cf
+1 a
+b
+1 c e
+1  f
+0  e
+b
+0 af
+0   c
+b
+0  b
+1 a
+1  d
+b
+1 df
+1 c
+0 d
+b
+0a
+0acd
+b
+0cdf
+1 d
+1 d
+b
+0add
+0ac
+b
+0 dde
+1 dff
+1 d
+b
+0cd a
+1acd
+1 df
+b
+
+b
+1ac
+1 df
+1 cf
+1 a
+b
+1 c e
+1  f
+0  e
+b
+0 af
+0  f
+b
+0 d
+1  f
+1 c
+b
+1 df
+1  d
+0 d
+b
+0a
+0acd
+b
+0cdf
+1 d
+1 d
+b
+0add
+0ac
+b
+0 dde
+1 dff
+1 d
+b
+0a
+0acd
+b
+0cd a
+0 d
+b
+0a d
+0 c
+b
+0 d
+0c f
+b
+
+b
+0c f
+0cd
+b
+0cd
+0cdf
+b
+0cda
+1acd
+1 df
+b
+1ac c
+1 df
+1 cff
+1 a
+b
+1 c e
+1  f
+0  e
+b
+0 af
+0 df
+b
+0acd
+0c d
+b
+1 df
+1a
+0 d
+b
+0ac c
+0 a
+b
+0 c e
+0  e
+b
+w a  c
+b
+0  f
+0 df
+b
+0add
+0 cd
+b
+
+b
+0 df
+0 dde
+b
+0aab
+1acd
+1acd
+b
+0cd a
+0 d
+b
+0a d
+0 c
+b
+0 df
+0  f
+b
+0 df
+1c
+1  d
+b
+0cd
+1c
+1ac
+b
+0cdf
+1ccd
+1 ab
+b
+1ccd
+1 d
+1ac
+1 d
+b
+1a b
+1 df
+1 cf
+1 a
+b
+0 c e
+0  e
+b
+0 af
+0 df
+b
+
+b
+0a d
+0ccd
+b
+1 df
+1a
+0 d
+b
+0ac c
+0 a
+b
+1 c e
+1  f
+0  e
+b
+0 af
+0 df
+b
+0a d
+0ccd
+b
+1 df
+1a
+0 d
+b
+0ac c
+0 a
+b
+1 c e
+#2  e
+x  c
+1  f
+1  e
+b
+w a  c
+b
+Y
+b
+b
+
+e

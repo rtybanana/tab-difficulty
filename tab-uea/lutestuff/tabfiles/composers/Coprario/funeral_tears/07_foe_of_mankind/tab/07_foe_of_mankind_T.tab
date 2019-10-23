@@ -1,0 +1,223 @@
+-C
+-t
+-f
+{7. Foe of mankind/7. Foe of mankind}
+b
+c
+1.aabc
+2c
+1.da c
+2c
+b
+1.aabc
+#3 e
+x c
+0cef
+b
+0ddff
+1.cdda
+2d
+b
+1cdda
+1aabc
+0cef c
+b
+1.  bacd
+2
+1   acd
+#2   aac
+x  d
+b
+1  cc a
+#2  dca
+x  b
+0  abc
+b
+1.cef
+2  d
+#2aab
+x  a
+1aabc
+b
+1ca b
+2.da c
+3  d
+0ca
+b
+
+b
+1.  aac
+2    a
+#2 a   d
+x     c
+x a c d
+x c
+b
+1 da  c
+1 ca
+0 aa c
+b
+0aabc
+1cdda
+1 dff
+b
+1.ab
+2 a
+1abd
+#2aac
+x d
+b
+1.abd
+2c
+1cef
+1a  c
+b
+2cff
+#3 e
+x c
+1cef
+1.   acd
+2   c
+b
+#2     c
+x   b
+x   c a
+x  a
+#2  b
+x  d  c
+x a   d
+x cd a
+b
+1 da c
+1 ab  d
+1  bcd
+#2  dca
+x  b
+b
+
+b
+1  aac
+1   f d
+1  dff
+1   e
+b
+0  ff d
+0ddff
+b
+1cdda
+1aabc
+1caabc
+#2 ef
+x  d
+b
+#2aab
+x  a
+1a  c
+#2c
+x   b
+1a  c
+b
+#2 df
+xa
+xcda
+x  b
+1acd
+1 d
+b
+1add a
+1 c
+0cdda
+b
+0  bacd
+1  aa
+1   c a
+b
+0  abc
+0  bacd
+b
+1  bcd
+1 dff d
+#2 daa
+x b
+x aab
+x  d
+b
+
+b
+1  bc
+1 abc a
+#2 aabc
+x   c
+1 aabc
+b
+1 acc a
+#2   c
+x  a
+b
+.
+1 acc
+1abd a
+#2aa c
+x  c
+1abd a
+b
+#2aa c
+x  c
+1abd a
+#2aa c
+x  c
+x dde
+xcd a
+b
+#2a   a
+xa d
+x dde
+x dff
+2. dda
+3 b
+1 abc
+b
+#2 aabc
+x abc
+0 aabc
+1 dff d
+b
+#2 bbcd
+x dff d
+x bdca
+xaacc a
+2abd a
+#3aacc
+x   a
+2  bcd
+#3  d
+x d  c
+b
+
+b
+#2 bd a
+xaa c e
+0 bdca
+1 bd a
+b
+A1
+#2 aabc
+x abc
+x aacc
+x   b
+1 acc a
+#2   c a
+x  a
+.
+b
+b
+A2
+#2 aabc
+x abc
+x aacc
+x   b
+Y acc a
+b
+b
+
+e

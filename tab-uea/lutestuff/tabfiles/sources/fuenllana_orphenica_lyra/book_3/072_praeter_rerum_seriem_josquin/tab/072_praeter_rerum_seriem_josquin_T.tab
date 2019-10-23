@@ -1,0 +1,612 @@
+-C
+-t
+-f
+{72. Praeter rerum seriem/Miguel de Fuenllana}
+b
+c
+w  a  c
+b
+0  a  c
+0     e
+b
+w  a a
+b
+w  a c
+b
+w  a a
+b
+w  a  c
+b
+w  a ac
+b
+0  a ac
+0    ce
+b
+w  a ef
+b
+0  aac
+0  a ef
+b
+w   eec
+b
+w  a ac
+b
+0  a ac
+0    ce
+b
+0  a ef
+0     c
+b
+w  aa
+b
+0  cce
+1  a
+1  cc
+b
+
+b
+1
+0    e
+1  a
+b
+1  cc
+1   b
+0   ce
+b
+1   ca
+1   b
+1   c
+1    c
+b
+1   cef
+1   bc
+1   ce
+1   b
+b
+1   c
+1  ab
+1  c e
+1    c
+b
+1    e
+1  a
+0  a a
+b
+1     e
+1  a
+0   d
+b
+wc de c
+b
+0c de
+0 ac
+b
+wccde
+b
+wcdf c
+b
+0ccde
+0  de
+b
+wccde
+b
+
+b
+0c de c
+0 a
+b
+0ccde c
+0  c
+b
+wccde
+b
+wcdf c
+b
+wccde
+b
+wc de
+b
+0c de c
+0 a
+b
+0ccde c
+0 ac
+b
+0ccde
+0  de
+b
+wcdfec
+b
+0eccce
+0 f
+b
+0eccce
+0 f
+b
+1ac ce
+1 e
+0ac
+b
+0a cce
+1 ef
+1  d
+b
+0acc e
+1 a c
+1  d
+b
+
+b
+1accce
+1  a
+0  c e
+b
+0ac  e
+0   ca
+b
+1ac  e
+1   ac
+0  c e
+b
+0  d ec
+0    a
+b
+1 cd  c
+1    c
+0    e
+b
+0 cd  c
+0  de
+b
+1  d  c
+1 a c
+0 c  e
+b
+0  def
+1   e
+1    e
+b
+1 cd a
+1   c
+0    e
+b
+0  def
+1   e
+1    e
+b
+1 cd a
+1   c
+0    e
+b
+0  def
+1   e
+1    e
+b
+
+b
+1 cd a
+1   c
+0    e
+b
+0  def
+1   e
+1    e
+b
+0 cd a
+1   ce
+1 e
+b
+1a c
+1    e
+0 e  g
+b
+0 acc e
+1    c
+1 c
+b
+1 da
+1    c
+0 c  ef
+b
+0  defc
+0 c  ef
+b
+0   c
+0 a ac
+b
+0   cee
+1  d
+1  c
+b
+wfcdeec
+b
+0fcdeec
+0 cd
+b
+1fc e c
+1 a
+0 cd
+b
+
+b
+1f de c
+1 a
+0 c
+b
+0f de c
+0c  e
+b
+1f    c
+1a c
+0 cde
+b
+0fdda
+1c a
+1   c
+b
+1fcde
+1a c
+0 cd
+b
+0fdda
+1c a
+1 c c
+b
+1f de
+1a c
+0 cd
+b
+0fdda
+1c a
+1 c c
+b
+1fcde
+1  c
+1  d
+1  a
+b
+1ecc e
+1 e
+1 f c
+1  f
+b
+1e cc
+1 ea
+1 ac
+1   c
+b
+
+b
+1caa c
+1 c
+1 d  c
+1  d
+b
+1c aa
+1    e
+1  da
+1  c c
+b
+0accce
+0   c
+b
+1acc e
+1  a
+1  c
+1   c
+b
+0ccde c
+1  de
+1  c
+b
+1ccde c
+1 ac
+1 ca
+1   c
+b
+1c  e c
+1 a
+0 a c
+b
+1c  eec
+1 a
+0  e
+b
+w dfec
+b
+0 dfec
+0   e
+b
+0acd e
+0 c
+b
+0acc e
+0 c
+b
+
+b
+0c aa
+1 a
+1  d
+b
+1caaac
+1 c
+1  a
+1 a
+b
+0eccce
+0 c
+b
+0eccce
+0 c
+b
+0c aac
+1 a
+1  d
+b
+1caaac
+1 c
+1  a
+1 a
+b
+0 ccce
+0 c
+b
+0acc e
+0 c
+b
+0c aa
+1 a
+1  d
+b
+0caaac
+0 a
+b
+0eccce
+0 c
+b
+0eccce
+0 c
+b
+
+b
+0caaa
+1c
+1  c
+b
+1c da
+1 a
+0  d
+b
+0 c  e
+1a c
+1 ea
+b
+0ecc e
+0 f
+b
+0fhah
+0   g
+b
+0fha
+1ef
+1ce
+b
+0fca
+0ef  e
+b
+0he  g
+1  h h
+1f
+b
+1ea c
+1c
+0c de
+b
+1  c e
+1c
+0b
+b
+0.c de c
+1 a
+b
+0ccde c
+0 d  c
+b
+0 ca
+0    b
+b
+
+b
+0  a c
+0   a
+b
+0   eec
+0   e
+b
+1   e c
+1   c
+1   bc
+1    e
+b
+0  abc
+0    ef
+b
+0  abc
+0  aa
+b
+0  cce
+0   ce
+b
+1   c
+1   b
+0   ce
+b
+0   c
+1   bc
+1    ef
+b
+1    ce
+1     c
+0     e
+b
+0.c de
+1 a
+b
+0cc e
+0 df
+b
+0cc
+0  e
+b
+0ca
+0 d
+b
+
+b
+0cca
+0c
+b
+1c a
+1 f
+1 df
+1 c
+b
+0cd
+0  e
+b
+0cdf
+0cd
+b
+0efh
+0 fh
+b
+1 f
+1 e
+0ac
+b
+0a
+1 ef
+1 cd
+b
+1 ac
+1  a
+0  c
+b
+w  de c
+b
+w  de c
+b
+w  de c
+b
+w  dce
+b
+0  d
+1   bc
+1    ef
+b
+0  def
+0   ce
+b
+
+b
+0  c
+0   bc
+b
+1  a
+1    ef
+0    ec
+b
+1   d e
+1    e
+0    d
+b
+w   eec
+b
+0f  e c
+0 h
+b
+0fha
+0 h
+b
+wfha
+b
+wffh
+b
+0f
+1 ef
+1 cd
+b
+0fhi
+0 fh
+b
+0e
+0 ef
+b
+1c
+1 cd
+0 ca
+b
+1b c e
+1 a
+0  c
+b
+wc deec
+b
+wcaaac
+b
+
+b
+0caaac
+0    a
+b
+0ea cce
+0ha
+b
+0 a cce
+1f
+1e
+b
+0fcdeec
+0cc
+b
+0fcde c
+0 c
+b
+0eccce
+1 c
+1 e
+b
+1accce
+1c
+0e
+b
+1 cc e
+1c
+0c
+b
+1 ccce
+1c
+0b
+b
+wcc eec
+b
+0ccdeec
+0 c
+b
+0ccdeec
+1  c
+1  a
+b
+0.ccdeec
+1 a
+b
+
+b
+wccde c
+b
+Y
+b
+b
+
+e

@@ -1,0 +1,192 @@
+-C
+-t
+-f
+{Stella splendens/Stella splendens}
+b
+c
+0f  a
+#1f
+xd
+b
+0f  a
+0b  d
+b
+0 dd
+0b  a
+b
+wd   d
+b
+#1g  d
+xf
+#1b
+xd
+b
+0a b
+0 dd
+b
+0b  a
+0d   d
+b
+#1d b
+xb
+0 dd
+b
+Y b
+b
+
+b
+0f  a
+#1f
+xd
+b
+0f  a
+0b  d
+b
+0 dd
+0b  a
+b
+wd   d
+b
+#1g  d
+xf
+#1b
+xd
+b
+0a b
+0 dd
+b
+0b  a
+0d   d
+b
+#1d b
+xb
+1 dd
+#2a
+x b
+b
+w dd
+b
+0
+0 dd
+b
+
+b
+0 d
+0f  a
+b
+0h
+0l  a
+b
+0h  f
+#1i  d
+xf
+b
+0d  c
+0h
+b
+0i   d
+0f  a
+b
+#1d  c
+xb
+#1b  d
+xa
+b
+0 dd
+0
+b
+0
+0 dd
+b
+0 d
+0f  a
+b
+0h
+0l  a
+b
+
+b
+0h b
+#1i  d
+xf
+b
+0d  c
+0h
+b
+0i   d
+0f  a
+b
+#1d  c
+xb
+#1b  d
+xa
+b
+Y dd
+b
+0f  a
+#1f
+xd
+b
+0f  a
+0b  d
+b
+0 dd
+0b  a
+b
+wd   d
+b
+#1g  d
+xf
+#1b
+xd
+b
+
+b
+0a b
+0 dd
+b
+0b  a
+0d   d
+b
+#1d b
+xb
+0 dd
+b
+Y b
+b
+0f  a
+#1f
+xd
+b
+0f  a
+0b  d
+b
+0 dd
+0b  a
+b
+wd   d
+b
+#1g  d
+xf
+#1b
+xd
+b
+0a b
+0 dd
+b
+
+b
+0b  a
+0d   d
+b
+#1d b
+xb
+1 dd
+#2a
+x b
+b
+w dd
+b
+b
+
+e

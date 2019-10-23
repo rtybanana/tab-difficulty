@@ -1,0 +1,338 @@
+-C
+-t
+-f
+{Merry Melancholy/Merry Melancholy}
+b
+c
+0  b
+b
+.
+0 d
+#1   a
+x d
+b
+0 b
+0  d
+b
+0 ab
+0  bc
+b
+0 daa
+0 dff
+b
+0da c
+0acd
+b
+#1f
+x   f
+x  a
+xd  c
+b
+0cdda
+0acd a
+b
+0   a
+0 d
+b
+0  d
+0 aff
+b
+0  da
+0da c
+b
+0 daa
+#1a b d
+x  d
+b
+
+b
+0 df  d
+0 bd a
+b
+#1 a
+x     d
+x  d
+x  b
+b
+#1  aa
+x  b
+x  d   d
+x  a
+b
+#1     d
+x ab
+x   a
+x  d
+b
+0 ab  d
+#2  b
+x  d
+x a
+x b
+.
+b
+b
+.
+0 d
+#2   a
+x   c
+x  a
+x  b
+b
+0 bd
+0  d
+b
+0 ab
+#2   c
+x  d
+x a
+x b
+b
+
+b
+1 d a
+#2   c
+x  a
+1 dff
+#2a
+xc
+b
+1da c
+#2  a
+x  b
+1a d
+#2c
+xd
+b
+#1f
+x   f
+x   e
+xda c
+b
+#1c  a
+x d
+xadd a
+x c
+b
+0   a
+0 d
+b
+0  d
+0 a f
+b
+0  da
+#1da c
+x c
+b
+#1 d a
+x  a
+xa b d
+x  d
+b
+0 df  d
+#1 b ca
+x  a
+b
+
+b
+#1 ab
+x     d
+x  d
+x  b
+b
+#1  aa
+x  b
+x  d   d
+x  a
+b
+#1     d
+x ab
+x   a
+x  d
+b
+0 aba d
+0 a
+.
+b
+b
+.
+0  d
+#1   a
+x a
+b
+0 bd a
+#1 b
+x    c
+b
+#1    d
+x  a
+xa b
+x  d
+b
+#1 a   d
+x b
+x d
+x    c
+b
+#1ab  a
+xc
+xda
+x     d
+b
+0cd a
+0acd a
+b
+
+b
+#1 dda
+x    a
+x    c
+x    a
+b
+#1     c
+x  d
+x a
+x  d
+b
+#1  aa
+x  b
+x  d
+x a
+b
+#1 b  a
+x d
+xa   d
+xc
+b
+#1dd   d
+xf
+xh
+xd
+b
+#1f  a
+xc
+x d
+#2a
+xc
+b
+#1d ff d
+x d
+xa b d
+x daa
+b
+0 a f
+0  def
+b
+#1     d
+x ab
+x   a
+x  d
+b
+
+b
+0  ba d
+0 a
+.
+b
+b
+.
+#1  d
+x  b
+x  da
+x a
+b
+0. bd a
+#2 a  c
+x  d
+b
+#1  b d
+x  a
+xa b
+x  d
+b
+#2 a   d
+x  d
+x a
+x b
+#1 d
+x    c
+b
+#2a   a
+x d
+xa
+xc
+#1da
+x     d
+b
+1cdda
+#2a
+x d
+#2 c  a
+x d
+xa
+x c
+b
+
+b
+#1 dda
+x    a
+x    c
+#2    a
+x     d
+b
+#1     c
+x  d
+x a   d
+#2  d a
+x  b
+b
+#1  aa  d
+x  b
+x  d
+x a
+b
+#2 b  a
+x a
+x b
+x d
+#2a   d
+x d
+xa
+xc
+b
+#1dd   d
+xf
+xh
+xd
+b
+#2f  a
+xd
+xc
+xa
+1 d
+#2a
+xc
+b
+#1d ff d
+x d
+xa b d
+x daa
+b
+
+b
+#1 a
+x   f
+x  de
+x    f
+b
+#1  b c
+x     d
+x   a
+x  d
+b
+w aba d
+.
+b
+b
+
+e

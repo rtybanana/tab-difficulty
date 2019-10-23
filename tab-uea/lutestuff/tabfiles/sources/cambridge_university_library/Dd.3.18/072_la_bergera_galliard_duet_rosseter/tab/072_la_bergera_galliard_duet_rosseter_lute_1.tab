@@ -1,0 +1,382 @@
+-C
+-t
+-f
+{72. La bergera galliard/Philip Rosseter}
+b
+1 aa c
+1 aa c
+1 aa c
+b
+#2 da c
+x a
+#2 d
+xa
+#2c   c
+x a
+b
+#2ha   h
+xh
+#2f  e
+xc
+#2da c
+x c
+b
+#2cdf
+x  f
+#2ccd
+x  a
+1aab
+b
+1cca
+#2   a
+xcd
+1acd a
+b
+1 dda
+#2    c
+x c
+1 cdce
+b
+1 aaa
+#2  cc
+x c
+1  ee
+b
+
+b
+#2    c
+x a
+#2  a
+x    c
+1 aa c
+b
+b
+1 aa c
+1 a
+#3 a
+x  e
+x a
+x c
+b
+#3 d
+x c
+x a
+x c
+#3 d
+x c
+x d
+xa
+#2c
+x a
+b
+#3d
+xf
+2h
+#2f
+xc
+2d
+#3f
+xd
+b
+#3c
+xa
+xc
+xd
+#3f
+xc
+xd
+xf
+#2d
+xa
+b
+
+b
+#3c
+xd
+2f
+#3 d
+xa
+2c
+#3 c
+x d
+2a
+b
+2  d
+#3 a
+x c
+#3 d
+x a
+x c
+x d
+#3 c
+x  d
+x a
+x c
+b
+#3 a
+x c
+x d
+x a
+#3 c
+x a
+x  e
+x  c
+#3  e
+x a
+x c
+x  e
+b
+0 aa c
+1 a
+b
+b
+1  da c
+1 da c
+1aa   d
+b
+1.cce  c
+2a
+1 df  d
+b
+
+b
+#2cd a
+xd
+#2f  e
+x d
+#2da c
+x c
+b
+1.cdda
+2c
+1aab  a
+b
+1 da  c
+1 d c d
+1 cdca
+b
+2 ddef
+#3 a
+x c
+#3 d
+x c
+x a
+x c
+1 d
+b
+b
+2c d  c
+#3 a
+x c
+#3 d
+x a
+x c
+x d
+#3a
+xc
+xd
+xa
+b
+2c
+#3f
+xd
+#3f
+xd
+xc
+xa
+#3 d
+x c
+x d
+xa
+b
+
+b
+#3c
+xa
+xc
+xd
+#3f
+xc
+xd
+xf
+#3d
+xa
+xc
+xd
+b
+#2c
+xf
+#2d
+xc
+#3a
+xc
+2d
+b
+2c
+#3a
+x d
+#3a
+x d
+x c
+x a
+#3 c
+x d
+x f
+x c
+b
+0 dda
+1 d
+b
+b
+1c
+1f
+1cdda
+b
+1cdda
+1c
+#2acd
+xa
+b
+#2 df
+x d
+#2 cee
+x c
+#2cdda
+xc
+b
+
+b
+#2acd
+xa
+#2 df
+x d
+#2 cee
+x c
+b
+1cdda
+1acd a
+1 dfec
+b
+1. cee c
+2 d
+#2 cb  a
+x a
+b
+1 a c d
+2  f  c
+#3  e
+x  c
+#3  e
+x  f
+x   e
+x  e
+b
+1 aabc
+0 aa
+b
+b
+1c
+1f
+1cdda
+b
+1.cdda
+2c
+#2acd a
+xa
+b
+#2 df c
+x d
+#2 ca  c
+x c
+#2cdda
+xc
+b
+
+b
+#2acd a
+xa
+#2 da c
+x d
+2 ca  c
+#3 d
+xa
+b
+#3c
+x d
+xa
+xc
+#3a
+x c
+x d
+xa
+#3 d
+x a
+x c
+x d
+b
+2 ca  c
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+#3d
+xc
+xa
+x d
+b
+#3a
+x d
+x c
+x a
+#3 c
+x a
+x  e
+x  c
+#3  e
+x a
+x c
+x  e
+b
+0 aa c
+1 a
+b
+b
+
+b
+1 aabc
+#2 a c d
+x     a
+#2 aabc
+x    c
+b
+#2 a c d
+x     a
+#2 aabc
+x    c
+#2 aab
+x   c
+b
+#2 aab
+x    c
+#2 ab
+x   c
+#2 aab
+x    c
+b
+#2 aba d
+x     c
+#2 a   d
+x    a
+1 aabc
+b
+1 abc
+1 aab
+1 abc
+b
+0. aabc
+b
+b
+
+e

@@ -1,0 +1,189 @@
+-t
+-f
+{Die Erst Regel /Hans Newsidler}
+b
+#2     d
+x     c
+#2     d
+x    a
+#2    c
+x    a
+#2    c
+x     d
+b
+#2    a
+x     d
+x    a
+x    c
+#2    d
+x    c
+x    d
+x    a
+b
+#2    c
+x    a
+x    c
+x    d
+#2   a
+x    d
+x   a
+x    c
+b
+
+b
+#2    d
+x    c
+x    d
+x   a
+#2   c
+x   a
+x   c
+x    d
+b
+#2   a
+x    d
+x   a
+x   c
+#2   d
+x   c
+x   d
+x   a
+b
+#2   c
+x   a
+x   c
+x  a
+#2  b
+x  a
+x  b
+x   c
+b
+#2  a
+x   c
+x  a
+x  b
+#2  d
+x  b
+x  d
+x  a
+b
+
+b
+#2  b
+x  a
+x  b
+x  d
+#2 a
+x  d
+x a
+x  b
+b
+#2  d
+x  b
+x  d
+x a
+#2 b
+x a
+x b
+x  d
+b
+#2 a
+x  d
+x a
+x b
+#2 d
+x b
+x d
+x a
+b
+#2 b
+x a
+x b
+x d
+#2a
+x d
+xa
+x b
+b
+
+b
+#2 d
+x b
+x d
+xa
+#2b
+xa
+xb
+x d
+b
+#2a
+x d
+xa
+xb
+#2d
+xb
+xd
+xa
+b
+#2b
+xa
+xb
+xd
+#2f
+xd
+xb
+xa
+b
+#2b
+xa
+x d
+x b
+#2 d
+x b
+x a
+x  d
+b
+
+b
+#2  b
+x  d
+x a
+x b
+#2 d
+x b
+x a
+x  d
+b
+#2 a
+x b
+x  d
+x a
+#2 b
+x a
+x  d
+x  b
+b
+#2  d
+x  b
+x  a
+x   c
+#2   a
+x   c
+x  a
+x  b
+b
+#2  d
+x  b
+x  a
+x   c
+#2  a
+x  b
+x   c
+x  a
+b
+Y  b  d
+b
+b
+Q
+
+e

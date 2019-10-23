@@ -1,0 +1,717 @@
+-C
+-t
+-f
+{149. Conde Claro/Guillaume Marlaye}
+b
+2   a a
+b
+b
+1. dda
+2 d
+1  d
+b
+1   a
+1 da
+1   a
+b
+1 db
+#2   a
+x  d
+#2  b
+x  a
+b
+1 cdc
+1    a
+1 cdc
+b
+1. dda
+2 c
+1 a a
+b
+1  d
+1  ba
+1  a
+b
+1 db
+#2   a
+x  d
+#2  b
+x  a
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+
+b
+2. dda
+3 c
+#2 d
+xa
+#2c
+xa
+b
+1da
+#2   a
+xda
+1c d
+b
+1a b
+#2   a
+xa b
+1 da
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+1 dda
+#2     a
+x c
+#2 a a
+x   c
+b
+1  de
+#2     a
+x  aa
+#2  bc
+x  de
+b
+1  ff
+#2     a
+x  de
+#2  bc
+x  aa
+b
+1 cdc
+1    a
+1 cdc
+b
+1c d
+#2   a
+xd
+1f a
+b
+
+b
+1 df
+#2     a
+xa
+1c d
+b
+1 ab
+#2   a
+x c
+1 d a
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+2. dda
+3 c
+#2 a
+x d
+#2 c
+x a
+b
+2.  da
+3  b
+#2  a
+x  d
+#2  b
+x  a
+b
+1 db
+#2   a
+x  d
+#2  b
+x  a
+b
+1 cdc
+1    a
+1 cdc
+b
+1cd
+#2   a
+xac
+#2cd
+xdf
+b
+
+b
+1fh
+#2     a
+xcd
+#2df
+xfh
+b
+1hi
+#2     a
+xfh
+#2df
+xcd
+b
+1acd
+1    a
+1acd
+b
+b
+1 dda
+#2 c
+x a
+#2  d
+x  b
+b
+1  aa
+#2     a
+x  bc
+1  de
+b
+1 dff
+#2     f
+x  ff
+1 dde
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+2f aa
+#3c
+xd
+#3f
+xd
+xc
+xa
+#3 d
+x c
+x d
+xa
+b
+
+b
+2cdda
+#3 d
+xa
+#3c
+xa
+x d
+x c
+#3 a
+x  d
+x a
+x c
+b
+2 daa
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+#3  a
+x  b
+x  d
+x a
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+2. dda
+3 c
+#3 a
+x c
+2 d
+#3 c
+x d
+2 a
+b
+2.  da
+3  b
+#3  a
+x  b
+2  d
+#3  b
+x  d
+2  a
+b
+1 db
+2   a
+#3  a
+x  b
+2  a
+#3   c
+x   a
+b
+
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+2 dda
+#3 c
+x d
+#3 f
+x d
+#4 f
+x d
+x c
+x d
+#2 c
+x a
+b
+2c da
+#3a
+xc
+#3d
+xc
+#4d
+xc
+xa
+xc
+#2a
+x d
+b
+1da
+#2   a
+xc d
+#2a b
+x da
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+1 dda
+#2     a
+x c
+#2 a
+x  d
+b
+
+b
+1 a a
+#2     a
+x  d
+#2  b
+x  a
+b
+1 db
+#2     a
+x  a
+#2   c
+x   a
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+#2   a
+x d
+#3 c
+x d
+2 a
+#3  d
+x a
+2  b
+b
+#2  aa
+xc
+#3a
+xc
+2 d
+#3 c
+x d
+2 a
+b
+#2  da
+xf
+#3d
+xf
+2c
+#3a
+xc
+2 d
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+
+b
+1 dda
+#2 c
+x a
+#2  d
+x  b
+b
+1  aa
+#2  d
+x    e
+#2  b c
+x  a a
+b
+1 a f f
+2. d  c
+3  a
+#2   c
+x   a
+b
+2. cd a
+3 cd
+#2   c
+x    a
+1 cd
+b
+b
+#2   a
+x d
+#3a
+x d
+x b
+x a
+#3 b
+x a
+x  d
+x  b
+b
+#2  aa
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+b
+
+b
+#2  da
+xf
+#3h
+xf
+x i
+x h
+#3 i
+x h
+x f
+x  i
+b
+1acd
+1    a
+1acd
+b
+b
+1.cdda
+2cd
+1  d
+b
+1   a
+1cdd
+1     a
+b
+1ddf
+#2   a
+xf
+1cdd
+b
+1acd
+1    a
+1acd
+b
+b
+2   a
+#3c
+xd
+2f
+#3d
+xc
+#3a
+x d
+x c
+x a
+b
+
+b
+2  da
+#3 d
+xa
+2c
+#3a
+x d
+#3 c
+x a
+x  d
+x  b
+b
+2  aa
+#3  b
+x  d
+#3 a
+x  d
+x  b
+x  a
+#3  b
+x  a
+x   c
+x   a
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+2   a
+#3 a
+x c
+2 d
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+2   a
+#3 d
+xa
+2c
+#3a
+x d
+#3 c
+x a
+x  d
+x  b
+b
+
+b
+2  aa
+#3c
+xd
+2f
+#3d
+xc
+#3a
+x d
+x c
+x a
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+2   a
+#3 a
+x c
+#3 d
+x c
+x a
+x  d
+#3 b
+x a
+x  d
+x  b
+b
+2  aa
+#3 d
+xa
+#3c
+xa
+x d
+x c
+#3a
+x d
+x c
+x a
+b
+2  da
+#3c
+xd
+#3f
+xd
+xc
+xa
+#3d
+xc
+xa
+x d
+b
+
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+#2     a
+xc
+#3a
+xc
+2 d
+#3 c
+x d
+2 a
+b
+#2  da
+x d
+#3 c
+x d
+2 a
+#3  d
+x a
+2  b
+b
+#2  aa
+x  d
+#3  b
+x  d
+2  a
+#3   c
+x  a
+2   a
+b
+1 cdc
+1    a
+1 cdc
+b
+
+b
+#3     a
+x   c
+x  a
+x  b
+#3  d
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a
+x c
+b
+#3   a
+x c
+x a
+x  d
+#3 a
+x  d
+x  b
+x  a
+#3  b
+x  d
+x a
+x c
+b
+#3   a
+x c
+x a
+x c
+#3 d
+x c
+x d
+xa
+#3c
+xa
+xc
+xd
+b
+1ffh
+1    a
+1ffh
+b
+b
+2.fh a
+3d
+#3c
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+b
+
+b
+#3   a
+x c
+x d
+xa
+#3c
+xa
+x d
+x c
+#3 a
+x  d
+x a
+x c
+b
+#3   a
+x c
+x a
+x  d
+#3 a
+x  d
+x  b
+x  a
+#3  b
+x  a
+x   c
+x   a
+b
+1 cdc
+1    a
+1 cdc
+b
+b
+#3c da
+xa
+xc
+xd
+#2c
+xa
+#2 d
+x c
+b
+#3fh a
+x i
+xf
+xh
+#2f
+x i
+#2 h
+x f
+b
+
+b
+#3h i  f
+xf
+xh
+xi
+#2h
+xf
+#2 i
+x h
+b
+1acd
+1    a
+1acd
+b
+b
+
+e

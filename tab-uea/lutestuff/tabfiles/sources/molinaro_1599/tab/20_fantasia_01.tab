@@ -1,0 +1,384 @@
+-C
+-t
+-f
+{20. Fantasy 1/Simone Molinaro}
+b
+c
+0f
+#1f
+xf
+b
+#1cd
+xd
+#1fd
+xcd
+b
+#1da
+x c
+#1cd
+x a
+b
+#1ac
+xc d
+#1da
+xcd
+b
+
+b
+1a d
+#2 c
+x a
+#1 cd
+x  d
+b
+#1 da
+x  b
+#1 cd
+x da
+b
+#1 ab
+x cd
+#1 df
+xac
+b
+1cd a
+#2 c
+x a
+#1  da
+x   a
+b
+#1  b c
+x    e
+#1  aa
+x    c
+b
+
+b
+#1   ce
+x  a a
+#2  b c
+x    a
+x  a c
+x   ce
+b
+#1  aa
+x  bc
+#2  de
+x   c
+x da
+x  b
+b
+1  d a
+#2 cb
+x aa
+#1 c ca
+x    a
+b
+#1 da  c
+x     d
+#1 c ca
+x  da c
+b
+#1 a   d
+x cd a
+#1 db c
+xa   e
+b
+
+b
+1c aa
+#2 d
+x   c
+#1 d e
+x db
+b
+#1 cd
+x da
+#1 ab
+x cd
+b
+#1 df
+xac
+1cd
+#2   a
+xdf
+b
+#1fh a
+x   a
+#1dd  c
+x f  e
+b
+#1c da
+x df c
+1a  ce
+#2  d
+x    c
+b
+
+b
+1  d e
+#2 dda
+x c
+#1 acc
+xa d e
+b
+#1 daa
+x acc
+#1 cd a
+xa
+b
+#1a
+xa d
+#2 cd
+x d
+xa d
+x c
+b
+#2 da
+x  b
+x cd
+x  a
+#2 ab
+x c
+x da
+xa b
+b
+
+b
+#2c d
+xda
+xac
+xcd
+#2da
+x c
+xcd
+x a
+b
+#2ac
+x  d
+x da
+x  b
+#2 cd
+x    a
+x d  c
+xa   e
+b
+#2c  a
+x      a
+xa    a
+x     c
+#2 d   d
+x a
+x d   c
+xa    a
+b
+
+b
+#2c     a
+xa
+xc  a
+xd
+#2f  a
+xd
+xc  a
+xf
+b
+#2d   c
+x    e
+xc  a
+x    c
+#2a   e
+x    a
+x d  c
+x   a
+b
+#2 c c
+x  a
+x ab
+x   c
+#2  de
+x   a
+x  bc
+x    e
+b
+
+b
+2.  aa
+3  c
+#2  d
+x    e
+#2    c
+x    a
+1  c c
+b
+#1  d a
+x   c
+#1   c
+x   c
+b
+1  d
+#2    a
+x a
+#2 c  a
+x d
+xa   a
+x c
+b
+#2 d a
+xa
+xc
+x   c
+#2  a
+xa b
+x  d
+x da
+b
+
+b
+#2  b
+x cd
+x df
+xac
+1cd
+#2      a
+xac
+b
+#2cd    a
+xdf
+1fh    a
+1df   d
+#2 d
+x c  a
+b
+#2 d  c
+xa   e
+xc  a
+x d  c
+1a   e
+#2  d
+x    c
+b
+#1  d e
+x  da
+#2 d
+x    e
+x    c
+xa   e
+b
+
+b
+#2c  a
+xd
+xf  e
+xc
+#2d  c
+x a
+x     a
+x  d
+b
+#2  c  a
+x  d
+x     a
+x  c
+1  d a
+#2   c
+x    c
+b
+#2    e
+x  aa
+x  bc
+x  d e
+1  aa
+#2 d
+x  bc
+b
+#1 dde
+x dff
+1f aa
+#2  d
+xd
+b
+
+b
+#2c
+xa b
+x da
+x ab
+#2 cd
+x d
+xa   a
+xc
+b
+#2a   a
+x d
+x c ca
+x a
+1  def
+#2 d
+x   ce
+b
+#2  a c
+x c  a
+x ab  d
+x     a
+#2  de c
+x      a
+x da  c
+x     d
+b
+#1 c ca
+x d ac
+#1   ca
+xfc
+b
+
+b
+1fda   a
+#2f  a
+x  b
+1c da
+#2  da
+xa
+b
+1 df c
+#2  a
+x c  a
+#1 ab  d
+x  d  c
+b
+#2 a   d
+x  b
+x  b
+x    c
+#2    a
+x     d
+x     c
+x     a
+b
+#2  aa  a
+xf
+xc
+x d
+#2  d
+x a
+x  d
+x  b
+b
+
+b
+#2  aa  a
+x d
+x d
+xa
+#3c
+xa
+xc
+xd
+#2f
+xh
+b
+Yfdaa  a
+b
+b
+
+e

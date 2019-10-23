@@ -1,0 +1,150 @@
+-C
+-t
+-f
+{5. My joy is dead/5. My joy is dead}
+b
+c
+0 abc a
+1. aabc
+2 abc
+b
+0 aabc
+1. aabc
+2    a
+b
+#2 ab  d
+x   c
+x  d  c
+x   b
+1 abc a
+1 bd a
+b
+0 aabc
+1. aabc
+2    a
+b
+#2 a   d
+x   c
+x  d  c
+x   b
+0 abc a
+b
+1. cdca
+2     d
+#2  d  c
+x d
+x     a
+x c
+b
+#2 dda
+x a
+x  bcd
+x  d
+0 aabc
+b
+
+b
+1 aaac
+1  b
+#2    a
+x  a
+1 ab  d
+b
+0  def
+1. ddef
+2    d
+b
+#2    c
+x  b
+x b  a
+x  a
+1.  ff d
+#3     c
+x     a
+b
+1 aabc
+1 abc
+0 aabc
+b
+1. aabc
+2    a
+#2 ab  d
+x     c
+1 acc a
+b
+1 cdca
+1 cee c
+1. aabc
+2    a
+b
+#2 ab  d
+x     c
+x abc a
+x    a
+1 aacc
+1   b
+b
+0 acc a
+b
+.
+1 bbcd
+#2 ab  d
+x  d a
+1 acc a
+1  d
+b
+
+b
+2 a   a
+#3  c
+x  a
+#2 abc
+x   a
+1  bcd
+1  d
+b
+0  abc
+0 dff d
+b
+1  dcd
+#2 d  c
+x  b
+#2 b  a
+x  a
+1 dff d
+b
+1. ddef
+#3    e
+x    c
+1 cdca
+2. dd  c
+3     d
+b
+1 ddca
+1 c
+0 dda
+b
+1.cdda
+2    d
+#2    c
+x  b
+x b  a
+x  a
+b
+0  ff d
+1  bcd
+#2  d
+x a  c
+b
+0 bdca
+1 aabc
+1 abc
+b
+1 aacc
+1   b
+Y acc a
+.
+b
+b
+
+e

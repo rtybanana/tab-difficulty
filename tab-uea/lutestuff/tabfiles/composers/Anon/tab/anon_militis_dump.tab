@@ -1,0 +1,436 @@
+-C
+-t
+-f
+{Militis Dump/Militis Dump}
+b
+c
+#2 a
+x b
+b
+1 db  d
+#2   a
+x b
+1 ab  d
+#2 b
+x d
+b
+1ab  d
+#2a
+x d
+1 bb d
+1 a
+b
+1  da
+2  b c
+#3  a
+x  b
+#2  a a
+x  b
+x  da
+x  a
+b
+
+b
+#2     d
+x ab
+x   a
+x     d
+1 aba d
+#2 a
+x b
+b
+b
+1 db  d
+#2   a
+x b
+#2 db  d
+xa
+xb  a
+xd
+b
+#2ab  d
+xb
+xa
+x d a
+#2 b c
+x a
+x  d d
+x  b
+b
+2  aa
+#3   c
+x  a
+2  b c
+#3  a
+x  b
+#3  d a
+x  b
+x  a
+x   c
+#3  aa
+x  b
+x  d
+x  a
+b
+
+b
+2 ab  d
+#3   c
+x  a
+#3  b
+x  a
+#4  b
+x  a
+x  b
+x  d
+#2 ab  d
+x d
+xa
+xc
+b
+b
+2d    d
+#3c
+xd
+#2c   a
+xa
+2 d  c
+#3a
+xc
+1da   d
+b
+#2    d
+xb
+xa   a
+x d
+#2 b c
+x a
+#3  d d
+x  b
+x  a
+x   c
+b
+
+b
+#3  aa
+x  b
+x  d
+x a
+#3 b  c
+x a
+x  d
+x  b
+#3  d d
+x  b
+#4  d
+x  b
+x  a
+x   c
+#3  aa
+x  b
+x  d
+x  a
+b
+2  ba d
+#3   c
+x  a
+#3  b
+x  d
+x a
+x b
+#3 dba d
+x b
+x a
+x b
+#2 d a
+x a
+b
+b
+2     d
+#3 d
+x b
+#2 a
+x  d
+2  b  d
+#3d
+xb
+#2a
+x d
+b
+
+b
+2    d
+#3a
+x d
+#2 b
+x a
+#2  dc
+x  b
+x  a
+x   c
+b
+2   a
+#3 b
+x a
+#2  d d
+x  b c
+2  a a
+#3 d
+x b
+#2 a a
+x  d
+b
+2 ab  d
+#3   c
+x  a
+#3  b
+x  a
+x  b
+x  d
+#2 ab
+x   a
+1     d
+b
+b
+
+b
+2 ab  d
+#3   c
+x  a
+#3  b
+x  d
+x a
+x b
+#3 d   d
+x b
+x a
+x b
+#3 d a
+x a
+x b
+x d
+b
+#3a   d
+x d
+x b
+x a
+#3  dc
+x  b
+x  d
+x a
+#3 b  a
+x a
+x  d
+x  b
+#3  d d
+x  b
+x  a
+x   c
+b
+
+b
+#3  aa
+x  b
+x  d
+x a
+#3 b  c
+x a
+x  d
+x  b
+#3  d d
+x  b
+x  a
+x   c
+#3  aa
+x  b
+x  d
+x  a
+b
+2 aba d
+#3   c
+x  a
+#3  b
+x  a
+#4  b
+x  a
+x  b
+x  d
+#2 ab
+x   a
+1     d
+b
+b
+2  ba d
+#3     a
+x     c
+#3     d
+x    a
+x    c
+x    d
+#3  b c
+x    a
+x    c
+x    d
+#3   a
+x    d
+x   a
+x    c
+b
+
+b
+#3   cd
+x    c
+x    a
+x    c
+#3    d
+x   a
+x   c
+x   a
+#3  dd
+x   c
+x   a
+x    d
+#3   a
+x    d
+x    c
+x    a
+b
+#3  b  d
+x     c
+x     a
+x     c
+#3     d
+x    a
+x    c
+x    d
+#3  aa
+x   c
+x   a
+x   c
+#3  a
+x  b
+x  d
+x  a
+b
+#2     d
+x ab
+x   a
+x     d
+1 aba d
+#2 ab
+x bd
+b
+b
+1 df  d
+#2 df
+x bd
+1 ab  d
+#2 bd
+x df
+b
+
+b
+1ab  d
+#2ab
+x df
+#2 bd
+x    a
+x d  c
+xa   d
+b
+2.c da
+3a
+#2 d  c
+xd bc
+2d da
+#3c
+xa
+#3d
+xc
+#4d
+xc
+xa
+xc
+b
+#2     d
+xddf
+x   f
+x     d
+1ddff d
+#2d
+xf
+b
+2.hd f d
+3f
+#2d
+x g
+2.a b  d
+3 d
+#2 b
+x a
+b
+
+b
+2.abb d
+3 d
+#2 b
+x a a
+#2  dc
+x  b
+x  a
+x   c
+b
+2.if  a
+3h i
+#2f g
+xd f
+#2c da
+xa b
+xda
+xc d
+b
+#2     d
+xddf
+x   f
+x     d
+1ddff d
+#2 a
+x b
+b
+1 db  d
+#2   a
+x b
+#2 a   d
+x  d
+x  ba
+x  a
+b
+
+b
+#2   cd
+xa
+x    a
+x d
+#2 b c
+x a
+x  d d
+x  b
+b
+#2   ef
+xf g
+x    a
+xda
+#2c da
+xa b
+x da
+x b
+b
+#2     d
+x ab
+x   a
+x     d
+Y aba d
+b
+b
+
+e

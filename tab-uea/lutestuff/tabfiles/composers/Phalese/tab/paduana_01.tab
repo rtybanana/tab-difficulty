@@ -1,0 +1,182 @@
+-C
+-t
+-f
+{Paduana/Paduana}
+b
+c
+#2ab  a
+x a
+x b
+x d
+#2a
+x d
+x b
+x a
+b
+1ab  a
+1  d
+1ab  a
+#2 d
+x b
+b
+1 ab  d
+1 b  a
+1 ab  d
+1  d  b
+b
+
+b
+1 ac  a
+1   c
+1     a
+1 a
+b
+#2ab  a
+x a
+x b
+x d
+#2a
+x d
+x b
+x a
+b
+#2     d
+x  a
+x  b
+x  d
+#2 a
+x b
+x d
+x a
+b
+
+b
+#2    a
+x b
+x a
+x  d
+#2 ac  a
+x  a
+x  d
+x  c
+b
+1  d a
+1   c
+0  d a
+.
+b
+b
+.
+1     a
+1da c
+1c  a
+1a b d
+b
+1 da c
+1 b ca
+1 ab  d
+1   a
+b
+1 ab  d
+1 da c
+1 b  a
+1 ab  d
+b
+
+b
+#2    a
+x  d
+x  c
+x  a
+1 ac  a
+1   c
+b
+1     a
+1da c
+1c  a
+1a b d
+b
+1 d  c
+1 b ca
+#2 a   d
+x b
+x d
+x a
+b
+1 b  a
+#2 a
+x  d
+#2 ac  a
+x  a
+x  d
+x  c
+b
+1  d a
+1   c
+0  d a
+.
+b
+b
+
+b
+.
+1.ab  a
+2 a
+1ab  a
+1 a   d
+b
+1.ab  a
+2 a
+1ab  a
+#2 a
+x     d
+b
+1ab  a
+1 a   d
+#2    a
+x  d
+x  c
+x  a
+b
+1 ac  a
+1   c
+1     a
+1 a
+b
+
+b
+#2ab  a
+x a
+x b
+x d
+#2a
+x d
+x b
+x a
+b
+#2     d
+x  a
+x  b
+x  d
+#2 a
+x b
+x d
+x a
+b
+#2    a
+x b
+x a
+x  d
+#2 ac  a
+x  a
+x  d
+x  c
+b
+1  d a
+1   c
+Y  d a
+.
+b
+b
+
+e

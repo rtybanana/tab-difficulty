@@ -1,0 +1,627 @@
+-C
+-t
+-f
+{/}
+b
+2k
+#2  h
+xi
+b
+#2  i   ///a
+xk
+#2 h
+xk
+#2  h  a
+xi
+b
+#2  i   ///a
+xk
+#2 h
+xk
+#2  h  a
+xi
+b
+#2  i   ///a
+xk
+#2 a
+xh
+#2  f   a
+xg
+b
+#2  h   4
+xh
+#2 f
+xh
+#2  f   a
+xg
+b
+#2  h   4
+xh
+#2 f
+xh
+#2  f   a
+xg
+b
+
+b
+#2  h   4
+xh
+#2   h
+xf
+#2  d   /a
+xe
+b
+#2  f   5
+xf
+#2 d
+xf
+#2  d   /a
+xe
+b
+#2  f   5
+xf
+#2 d
+xf
+#2  d   /a
+xe
+b
+#2  f   5
+xf
+#2   f
+xe
+#2  c   //a
+xd
+b
+#2  d  a
+xe
+#2 c
+xe
+#2  c   //a
+xd
+b
+#2  d  a
+xe
+#2 c
+xe
+#2  c   //a
+xd
+b
+#2  d  a
+xe
+#2 c
+xe
+#2  a
+xc
+b
+
+b
+#2  a   ///a
+xa
+#2 a
+xa
+#2  d
+xa
+b
+#2  c   a
+xc
+#2 a
+xc
+#2   c
+xa
+b
+#2   c  4
+x c
+#2  d
+x c
+#2  c
+x c
+b
+#2  a   /a
+xa
+#2  d
+xa
+#2   a
+x c
+b
+#2     c
+x a
+#2  c
+x a
+#2  a
+x a
+b
+#2   d  //a
+x c
+#2  c
+x c
+#2    c
+x a
+b
+#2     a
+x  d
+#2     c
+x a
+#2     d
+x c
+b
+
+b
+#2    a
+x c
+#2a
+x a&'
+#2 c
+xa
+b
+#2      ///a
+x  d
+#2 a
+x  c&'
+#2  d
+x a
+b
+#2      //a
+x    e
+#2   d
+x  a
+#2  c
+x  d
+b
+#2      //a
+x   d
+#2  a
+x  c
+#2  d
+x a
+b
+#2      //a
+x   e
+#2  c
+x  d
+#2 a
+x c
+b
+#2      ///a
+x  d
+#2 a
+x c
+#2a
+x a
+b
+#2      //a
+xe
+#2d
+x e
+#2 cU
+x aX
+b
+
+b
+#2  d
+xe
+#2      //a
+x  c
+#2e
+xd
+b
+#2  d  a
+xe
+#2 c
+xe
+#2  c   //a
+xd
+b
+#2  d  a
+xe
+#2 c
+xe
+#2  c   //a
+xd
+b
+1e"_    a
+2  a
+.
+b
+b
+.
+2e
+#2 c
+xc
+b
+#2 e    ///a
+xe
+#2 a
+xe
+#2 c
+xe
+b
+#2 e    ///a
+xe
+#2 a
+xe
+#2  d
+xe
+b
+1  b&'   a
+#2   c
+xc
+#2 a
+xa
+b
+
+b
+#2 c    4
+xc
+#2  d
+xc
+#2 a
+xc
+b
+#2 c    4
+xc
+#2  d
+xc
+#2  b
+xc
+b
+1  a&'   /a
+#2   a
+xa
+#2 c
+xa
+b
+#2 a    d
+xa
+#2  b
+xa
+#2  d  a
+xa
+b
+#2 a    d
+xa
+#2  b
+xa
+#2  d  a
+xa
+b
+#2  b   a
+xa
+#2cU
+xaX
+#2 c
+x  b
+b
+#2  a   /a
+x c
+#2 dU
+x cX
+#2 a
+x  a
+b
+
+b
+#2   c  //a
+x a
+#2 cU
+x aX
+#2  d
+x   c
+b
+#2   a  ///a
+x  d
+#2  fU
+x  dX
+#2   f
+x  a
+b
+#2   c  5
+x  a
+#2  bU
+x  aX
+#2   cU
+x   aX
+b
+#2    c 4
+x  d
+#2     d
+x  d
+#2    a
+x  d
+b
+#2    c 4
+x  d
+#2     d
+x  d
+#2    c
+x  b
+b
+#2  a   /a
+xa
+#2   a
+xa
+#2   c
+xa
+b
+#2  a   /a
+xa
+#2   a
+xa
+#2  a
+x b
+b
+
+b
+#2 a    d
+x  d
+#2 a
+x c
+#2a
+x a
+b
+#2  c   a
+xc
+#2   c
+xc
+#2  a
+xc
+b
+#2  c   a
+xc
+#2   c
+xc
+#2  c
+xa
+b
+#2 c    4
+x a
+#2 c
+xa
+#2c
+x c
+b
+#2  e  a
+xe
+#2  a
+xe
+#2  c
+xe
+b
+#2  e  a
+xe
+#2  a
+xe
+#2  e
+xc
+b
+1a&'     ///a
+#2 a
+xk
+#2  h
+xi
+b
+
+b
+#2  i   ///a
+xk
+#2 h
+xk
+#2  h  a
+xi
+b
+#2  i   ///a
+xk
+#2 a
+xh
+#2  f   a
+xg
+b
+#2  h   4
+xh
+#2 f
+xh
+#2  f   a
+xg
+b
+#2  h   4
+xh
+#2   h
+xf
+#2  d   /a
+xe
+b
+#2  f   5
+xf
+#2 d
+xf
+#2  d   /a
+xe
+b
+#2  f   5
+xf
+#2   f
+xe
+#2  c   //a
+xd
+b
+#2  d  a
+xe
+#2 c
+xe
+#2  c   //a
+xd
+b
+
+b
+#2  d  a
+xe
+#2  a
+xc
+#2  a   ///a
+xb
+b
+#2  b   a
+xc
+#2 a
+xc
+#2  a   ///a
+xb
+b
+#2  b   a
+xc
+#2 a
+xc
+#2  b
+xa
+b
+#2  b   4
+x c
+#2  d
+x c
+#2  b
+x c
+b
+#2  a   /a
+x c
+#2  a
+x d
+#2  a
+x c
+b
+#2  a   d
+x a
+#2  b
+x a
+#2  a
+x a
+b
+#2   c  //a
+x a
+#2   c
+x c
+#2   c
+x a
+b
+
+b
+#2     a
+x  e
+#2   c
+x  a
+#2    d
+x a
+b
+#2     e
+x c
+#2  a
+xc
+#2    a
+x d
+b
+#2     a
+x  e
+#2   c
+x  a
+#2    d
+x a
+b
+#2     e
+x c
+#2  a
+xc
+#2    a
+x d
+b
+#2      a
+x c
+#2   f
+x  e
+#2      /a
+x a
+b
+#2      //a
+xc
+#2  e
+x c
+#2      ///a
+xa
+b
+#2      a
+x c
+#2   f
+x  e
+#2      /a
+x a
+b
+
+b
+#2      //a
+xc
+#2  e
+x c
+#2      ///a
+xa
+b
+#2      b
+x  c
+#2 a
+xa
+#2 cU
+x aX
+b
+#2     a
+x a
+#2  eU
+x  cX
+#2   eU
+x   cX
+b
+#2  a   /a
+x a
+#2   a  ///a
+x a
+#2   c  //a
+x a
+b
+#2  a   /a
+x a
+#2   a  ///a
+x a
+#2    c 4
+x a
+b
+#2    a 5
+x  a
+#2 a
+x  a
+#2   c
+x c
+b
+#2     a
+x  e
+#2   c
+x  a
+#2    d
+x a
+b
+
+b
+2    dU
+#3    c
+x    aX
+#2     a
+x    c
+#2 a
+x  e
+b
+1 af"_ a
+#2    a
+x a
+#2      /a
+x a
+b
+1. aaaa ///a
+.
+b
+b
+
+e

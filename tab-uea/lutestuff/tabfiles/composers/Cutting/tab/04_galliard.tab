@@ -1,0 +1,393 @@
+-C
+-t
+-f
+{Galliard 4/Galliard 4}
+b
+1.ha   h
+2f
+1eff  a
+b
+1.ca  c
+2  d
+1a c e
+b
+1 aab
+1 ccc
+1 cee
+b
+1 ea c
+#2 a
+xc  a
+#2a   e
+xfc  a
+b
+1ea c
+#2     a
+x c  a
+#2 a   e
+xa    a
+b
+
+b
+1 ea c
+#2 a
+xc
+#2fc  a
+xce
+b
+#2eff  a
+xac
+#2ce  c
+x f c
+#2  d
+x e e
+b
+#2     a
+xaac
+#2   c
+x  d
+1aac  a
+b
+b
+2.ha   h
+3f
+#2e
+x h
+1ea   a
+b
+2.ca  c
+3 c
+#2 a
+x  d
+1a c e
+b
+
+b
+2. aab
+3  d
+#2  cc
+x c
+#3   e
+x a
+2  e
+b
+2 a  c
+#3 a
+x c
+#3 d
+xa
+2c  a
+#2a   e
+xfc  a
+b
+2ea c
+#3  a
+x  c
+#3  d  a
+x a
+2 c  a
+#2 a   e
+xa    a
+b
+
+b
+2 ea c
+#3 a
+x c
+#3 e
+xa
+xc
+xe
+#3f   a
+xc
+xe
+xf
+b
+#3e    a
+xa
+xc
+xe
+#3c   c
+xa
+x e
+x c
+#3 e
+x a
+x c
+x e
+b
+#3a    a
+x a
+x d
+x c
+#3 a
+x  c
+x  d
+x  a
+1aaccca
+b
+b
+
+b
+1 aab
+1 ccc
+1 cee
+b
+2. efec
+3 f
+#2 e
+x c  a
+1 a c e
+b
+#2acd a
+x     e
+1ccd  c
+1cef c
+b
+2.ea   a
+3f
+#2e
+xcd
+1acd a
+b
+1fc e c
+1e c e
+#2c e
+x f
+b
+
+b
+2. ef c
+3 c
+#2  f
+x  d
+#2aacc
+x  d
+b
+1hha g
+1h h h
+#2g  e
+x f
+b
+#2he e h
+x f
+#2 e
+x  h
+1hea  h
+b
+b
+2. aab
+3  d
+#3  cc
+x  d
+x a
+x c
+#3 e e
+xa
+xc
+xa
+b
+
+b
+#3 e  c
+x c
+x e
+xa
+#2 e
+x c  a
+1aa c e
+b
+2.acd a
+3     e
+#3c    c
+xe
+xf
+xe
+#3c   c
+xf
+xe
+xc
+b
+#3e    a
+xc
+xe
+xf
+#2e
+xcd
+1acd a
+b
+1fc e c
+2ecc e
+#3f
+xe
+#2c e
+x f
+b
+
+b
+#3 e  c
+x c
+x e
+x f
+#2 e
+x cd
+#2aacc
+x  d
+b
+2.ha  g
+3f
+#3e    a
+xf
+xh
+xe
+#3g a
+xh
+xk
+xg
+b
+2.hea  h
+3 f
+#3 h
+x f
+x e
+x  h
+1hea  h
+b
+b
+2.cdda
+3e
+#2f
+xcd
+#2ec c
+x a
+b
+
+b
+2.c ee
+3 a
+#2 c
+x   c
+#2ca b
+x  d
+b
+2.aacc
+3  d
+#2 a
+x  ab
+#2a c e
+x  e
+b
+2. ea c
+3a
+#2c
+x    a
+#2ea   e
+x   d
+b
+2.fcd  c
+3  f
+#2 c
+xef   a
+#2c   c
+x e
+b
+
+b
+2.eff  a
+3 c
+#2ce  c
+xaa   e
+#2f d  c
+xea
+b
+2ca b
+#3    c
+x  c
+#2  d
+xa cc
+#2  a c
+x e
+b
+#2     a
+xaac
+#2   c
+x  d
+1aac  a
+b
+b
+#3c  a
+xa
+xc
+xe
+#2f
+xcd
+#2ec c
+x a
+b
+
+b
+2c ee
+#3  a
+x  c
+#3  e
+x a
+2 c c
+#2ca b
+x  d
+b
+2aacc
+#3     a
+x  a
+#3  c
+x  d
+2 aab
+#2a c e
+x  e
+b
+2 ea c
+#3 a
+x c
+#3 e
+xa
+2c   a
+#2ea   e
+x   d
+b
+
+b
+2fc   c
+#3  d
+x  f
+#3 c
+x e
+2 f   a
+#2c   c
+x e
+b
+2.eff  a
+3 c
+#2ce  c
+xaa   e
+#2f d  c
+xea   a
+b
+2c ab
+#3    c
+x  c
+#2  d
+xaacc
+#2  a c
+x e
+b
+2aac  a
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+Yeff  a
+b
+b
+
+e

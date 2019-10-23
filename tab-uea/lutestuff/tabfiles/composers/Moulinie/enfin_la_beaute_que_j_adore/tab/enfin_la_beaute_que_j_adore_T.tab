@@ -1,0 +1,196 @@
+-C
+-t
+-f
+{Enfin la beauté que j'adore/Enfin la beauté que j'adore}
+b
+0     d&x
+b
+0 aba
+1   a
+1 a
+1.  d  c&x
+2 a
+b
+1     a
+1   c
+1  b
+1aa
+1.   a
+2   c
+b
+1    e&x
+1  d
+1.a
+2  b
+1   a
+1 da
+b
+1    a
+1   \1c
+1. \2c\4d&{
+2     \3d
+1.     \1c&x
+2  d&}
+b
+
+b
+1     d&x
+1   a
+1. ab
+2     c
+0     a
+b
+0 dda  a
+1      //a
+1   a
+1   c  /a
+#2  a
+x  b
+b
+1  b a a
+1  a
+0 aba d
+b
+b
+.
+0   f&x
+b
+w df
+0  de
+b
+0 abcU
+1   aX
+1    d
+0 db c
+b
+0a b d
+0. daa
+1  b
+b
+1 bdca&{
+1  a  }
+0 db cU
+0a b dX
+b
+
+b
+0 dba  a
+0  a
+b
+A1
+w aba d
+.
+b
+b
+A2
+0 aba d&{
+1   a
+1 a    }
+1.  d  c&{
+2 a
+b
+1     a
+1   c
+1  b
+1aa
+1.   a
+2   c
+b
+1    e&x
+1  d
+1.a
+2  b
+1   a
+1 da
+b
+0 ddca
+0 c
+b
+0 daa  a
+1   a  {
+1    d
+0 db c
+b
+
+b
+w bbcd
+0 bdca
+b
+0 aaac&x
+0  bc
+0 ba a
+b
+0 aba d&x
+0   c  U
+0  a  cX
+b
+0 abc a&{
+0 abc  }
+0 c
+b
+w dda
+0 cdca
+b
+w dda  a
+b
+.
+0   a
+b
+w\2c\4d\3d
+1.a \1b\2cU
+2   eX
+b
+w \1d\4f\3f
+1. \4d&{aa U
+2    \3dX
+b
+
+b
+0 d\1b \2c
+0 bbcd
+0 \1b\4d&{\2ca
+b
+0 adc U
+1  \3c&{
+1   a X
+b
+0a } \4e
+0  d
+0  \1b
+b
+1 \4daaU
+1  \1b
+0  \3d&{ X
+0 \2cd\1ca
+b
+0 \4daa\2c&x
+0  \1b\3c
+0 \1ba a
+b
+0 a\1ba d&x
+0   cU
+b
+0  aa
+0 ab
+b
+0 dba  a
+1  a
+1 b
+b
+A1
+w. aba d
+b
+
+b
+A1
+A2
+w dda  a
+.
+b
+b
+A2
+Y. aba d
+b
+b
+
+e

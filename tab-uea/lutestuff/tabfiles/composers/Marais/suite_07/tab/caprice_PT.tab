@@ -1,0 +1,309 @@
+-C
+-t
+-f
+{Suite 7/Suite 7}
+b
+0.
+b
+0.
+b
+#3
+x   c
+x   b
+x    e
+#2    c
+x    e
+x     e
+x    c
+b
+2     a
+#3   c
+x  a
+#2  c
+x   c
+x  c
+x   c
+b
+2
+#3    c
+x    e
+#2   b
+x    e
+x   b
+x    c
+b
+
+b
+#3ccd  c
+x  f
+x  d
+x  c
+#2 cde
+x     c
+x   e
+x     c
+b
+2      /a
+#3    \4e
+x   \1b&{
+#2   c&}
+x  \2c
+x   c
+x  c
+b
+2a \2c \4e
+#3    e
+x    c
+#2    e
+x   b
+x   c
+x    e
+b
+1  a
+1     c
+1  a
+b
+1   c
+1     a
+1   c
+b
+1   b
+1      b
+1   b
+b
+1ecfc
+1ccfe
+1  e  c
+b
+
+b
+2 aab  //a
+#3    c
+x    e
+#2 aab
+x   c
+x   b
+x    e
+b
+1 aab  //a
+1    c
+1      //a
+b
+#3
+x a
+x  d
+x  c
+#2  a
+x  c
+x   b
+x  a
+b
+1ce  c
+1ef    //a
+#3
+x a
+x  d
+x  c
+b
+1ecd   ///a
+1ccd
+#3
+x  d
+x  c
+x  a
+b
+
+b
+2cac   4
+#3  d
+x a
+#2bc    /a
+x a
+x c
+x    e
+b
+1cce  c
+0      5
+b
+#3
+x  a
+x   \2c
+x   \1b
+#2    \4e
+x   b
+x    b
+x    e
+b
+0cce  c
+1     a
+b
+0 aa   b
+1  ecea
+b
+1 aab  //a
+0
+b
+0.
+b
+#3
+x a
+x  \4d
+x  c
+#2  a
+x  c
+x   b
+x  a
+b
+
+b
+#3 aabc
+x    c
+x    a
+x     e
+#2     c
+x     e
+x      b
+x     c
+b
+1 aab  //a
+#tx    e
+x    c
+#tx    c
+x    a
+b
+1aa c e
+#tx  d
+x  c
+#tx  c
+x  a
+b
+#tx   b
+x   c
+#tx   c
+x  a
+1  c
+b
+#3 \4e  \2d
+x  \1c
+x  a
+x   \1c
+#2 b\3db
+x   \4e
+x    \2d
+x   b
+b
+
+b
+#3 \3c\2c  a
+x   \2c
+x   \1b
+x    \4e
+#2 \4ea \2d
+x   \1b
+x    d
+x     \3e
+b
+#3ec ce
+x  c
+x  a
+x   \1c&{
+#2cbcb&}
+x   c
+x  a
+x   b
+b
+#2 ccc
+x   e
+1 ehg
+1  g  e
+b
+0.efh   /a
+b
+2  cc  /a
+2  e
+0a
+b
+2 ed   //a
+2  c
+0
+b
+1ecd   ///a
+0ced
+b
+1      4
+0 aab  //a
+b
+
+b
+#3
+x   c
+x   b
+x    e
+#2    c
+x    e
+x     e
+x    c
+b
+2
+#3   c
+x   b
+#2aa c
+x  a
+x  c
+x   c
+b
+#3acd a
+x   a
+x    e
+x    c
+#2    a
+x    e
+x    a
+x    e
+b
+2
+#3   e
+x   c
+#2   e
+x  c
+xccd
+x   e
+b
+#3
+x  f
+x  d
+x  c
+#2   e
+x    c
+xaa c
+x  c
+b
+
+b
+2aa c e
+#3  c
+x  d
+#2  c
+x  a
+x   c
+x   b
+b
+#2a c e
+xcf  a
+1cf  c
+1 e    //a
+b
+#3aac  a
+x   c
+x   b
+x    e
+#2    c
+x    e
+x     e
+x    c
+b
+0.aaccca6
+b
+b
+
+e

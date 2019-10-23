@@ -1,0 +1,390 @@
+-C
+-t
+-f
+{La Comète/La Comète}
+b
+W   a  a
+W    e /a
+W    c //a
+W    a ///a
+b
+b
+1aa  e
+#2  d
+xa
+1aad e
+b
+1 dd c
+#2  c
+x d
+1 dc c
+b
+2 a  e
+#3  d
+x a
+#2 c
+x cd
+1 cda
+b
+1 adc
+#2     a
+x  c
+1  d   ///a
+b
+
+b
+1  dce ///a
+1  ca  //a
+1  dc  /a
+b
+1  aa  a
+#2  aa
+x a
+1  ca a
+b
+1a d e
+1 dd c
+#2  c
+x a
+b
+1 cdca
+1      ///a
+1    a
+b
+1aa  e
+#2  d
+xa
+1aad d
+b
+1 ed c
+#2      //a
+x  f
+2  d
+#3   f
+x  d
+b
+
+b
+#2   f
+xa
+1c  c c
+#2   b
+x a
+b
+1da   a
+1   c
+1   a
+b
+1 cdca
+#2 cd
+x c
+1 cd  d
+b
+1 dd  c
+#2 d
+x d
+1ac   a
+b
+1cc    a
+#2 a
+xf
+#2e
+xc
+b
+1a     /a
+#2   c
+x  d
+#2 a
+x c
+b
+
+b
+1 da   //a
+#2    c
+x  c
+#2a
+x d
+b
+1 cdc  /a
+#2 cd
+x c
+1 cd e
+b
+1 caa  a
+#2 a
+x  d
+1  ccca
+b
+1  dce ///a
+0    a
+b
+#2  d a
+x a
+#2 c
+x d
+#2a
+x    c-
+b
+1a   e
+#2 d a-
+x c
+#2 a c-
+x   a-
+b
+
+b
+1  d e
+1  c c
+1  a a
+b
+1 a   e
+#2   c
+x  d
+#2     c
+x   b
+b
+1.  cc a
+2  d
+#2 a
+x   a
+b
+#2    e
+x  d
+#2 c
+x d
+1a d   /a
+b
+1cc    a
+#2 a
+xe
+1fc   a
+b
+1fc c
+#2 a
+xe
+1f     ///a
+b
+
+b
+1a d e
+1 a c e
+1 d
+b
+1 cdca
+#2 cdc
+x c
+1 dc c
+b
+1a d e
+1 daa
+#2 d
+x c
+b
+1 acc
+1     a
+1   a
+b
+1  dce
+1  bc  /a
+#2    a
+x  b
+b
+1  aa  a
+#2  aa
+x  a
+#2 a
+x  d
+b
+
+b
+#2  c  a
+x   a
+#2    e
+x  d
+#2    c
+x  c
+b
+1  dca
+0      ///a
+b
+#2     f
+x    c
+#2    e
+x   a
+#2   c
+x     e
+b
+#2  a  c
+x  c
+#2  d
+x   c-
+#2   b-
+x a
+b
+1  ccca
+#2  cc
+x  c
+1  cca
+b
+1  acc
+#2      //a
+x   b
+1   cca
+b
+
+b
+1 acc-
+1. a a-
+2 c  e
+b
+1 da c
+#2 d
+x d
+1a d e
+b
+#2 daa-
+x c
+#2 a
+x  d
+#2  cc-
+x   a
+b
+1  dce
+0      ///a
+b
+1ffh-
+#2ff
+xf
+1ea
+b
+1ecd-
+1c
+1aac-
+b
+
+b
+1ce e-
+1.c f-
+2e
+b
+1ea   a
+1.   c-
+2   b-
+b
+#2    e-
+xc
+#2a
+x e
+#2a
+x c
+b
+1 e  d-
+#2 b
+x  c
+1a c c-
+b
+1 cc a-
+#2  a-
+x e
+1 bc  c
+b
+1 c    d
+#2  c
+x    e
+#2  c
+x a
+b
+
+b
+1  d  c
+2   c
+#3   b-
+x   c
+#2   b-
+x a
+b
+#2  c  a
+x  d
+#2 a
+x   c
+2   a
+#3    e
+x   a
+b
+1  d e-
+1  d ea
+#2    c-
+x  c
+b
+1  d a-
+0      ///a
+b
+1  d a-
+1.  cac-
+2  a
+b
+1   c  /a
+#2    a-
+x   c
+#2  a
+x    e-
+b
+
+b
+#2   a  //a
+x    a
+#2     e
+x    c
+#2   c
+x   a
+b
+1    ef
+#2      ///a
+x    c
+#2    e
+x   a
+b
+1   ca
+1   c e
+1  db c
+b
+1  c  a
+#2   c-
+xa
+#2 d
+x c
+b
+1 a c-
+1. a a-
+2 c  e-
+b
+1 da c-
+#2 d
+x  c
+1 cd e-
+b
+
+b
+1 caa-
+1 a
+#2    c-
+x  d
+b
+1  cc-
+#2     a
+x  d
+#2 a
+x   a-
+b
+1  d e-
+1.  c ca
+#3  a
+x  c
+b
+1  d
+0      ///a
+.
+b
+b
+
+e

@@ -1,0 +1,461 @@
+-C
+-t
+-f
+{Galliard/Anonymous}
+b
+2.fd d  a
+3d
+2.b"#  a
+3d
+1ac"#d a
+b
+1. d"xda  a
+2d
+#2c"#  a
+xa
+b
+2. da c{
+3c     }
+2.a"#   d{
+3d     }
+2.c"#  a
+3f
+b
+1da a d&{
+#2  b"#
+x  d
+#2 a    }
+x c"#  a
+b
+#2 d  c
+xa   e
+#2c"#  a
+x   c
+2   e
+#3a b{
+x d  }
+b
+#2 c"#d
+x    a
+#2     d
+x  da c
+#2 abc{a
+x c   }
+b
+
+b
+#2 d"xa   a
+x  b
+2   c&{a
+#3 c
+x a
+2 c"#
+#3 a
+x c  }
+b
+2 d"xda  a
+#3  a
+x  b
+#3  d
+x  b
+x  a
+x   c
+1   a"#
+b
+b
+2.f"#d d  a
+3d
+#3b  a
+x d
+xd
+xb
+#3a",   a
+x d
+xa
+x c
+b
+2. d"xa   a
+3  d
+#3 a
+x c
+x d
+xa
+#3c  a
+xd
+xc"#
+xa
+b
+
+b
+#3    c{
+x d
+xa
+xc
+#3    d{
+xa
+xc
+xd
+#3   a
+xc
+xd
+xf
+b
+1da a d
+#3   c
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a  a
+x c
+b
+#2 d  c
+xa   e
+#2c"#  a
+x   c
+2   e
+#3a b{
+x d  }
+b
+#2 c"#d
+x    a
+2     d
+#3     c{
+x  d
+#3  b  a
+x  d
+x a
+x c
+b
+#3 d
+x   a
+x  a
+x  b
+#3  d
+x    a
+x   c
+x  a
+#3  b
+x   c
+x  a
+x  b
+b
+
+b
+#3  a
+x      a
+x   c
+x  a
+#3  b
+x  d
+x a
+x c
+#2 d"x
+x   a
+b
+b
+2.a d"xca
+3 d
+#2 b"#d
+x ab
+#2  dd
+x  bc
+b
+1.   d"#f
+2   cd
+#2   ab
+x    a
+b
+#2 {e"xa d(
+x   c
+#2  dd b{
+x  e
+#2 {b d(
+x   c
+b
+1.  dd b
+#3 a
+x b
+#2 d",
+x   a
+b
+2 ab{
+#3 b
+x d
+#2a"#   }
+x d d
+#3   c{
+x d   }
+2 cb
+b
+1. d"xda
+2    d
+#2 d  b{
+xa
+b
+
+b
+1bbd  b
+1 g"x fd{
+1 f"#    }
+b
+2 g"xdd  d
+#3 f
+x d
+#3  g
+x  e
+x  d
+x   f
+1   d"#
+b
+b
+#3a   a
+x d
+x b
+x a
+#3 b
+x  d
+x a
+x  b
+#3  d
+x   d
+2  b"#c
+b
+2.   d"xf{
+3   f
+#2   d"x  }
+x   cd
+#2   ab
+x    a
+b
+#2  e"xa d{
+x   c
+2.  dd b{
+#4  b
+x  d
+#2  b d{
+x   c  }
+b
+
+b
+1  dd b
+2. b"#
+#4 a
+x b
+#3 d&{
+x   a
+x   c
+x   d
+b
+#3  b{
+x a
+x b
+x d  }
+#3a
+x  b
+x d
+x   d
+#3   c{
+x d
+2 c"#b  }
+b
+#3 d a
+x   c
+x   d
+x   c
+#3   a
+x    d
+x    b
+x    a
+#3    b{
+x b
+x d
+xa
+b
+#3b    b{
+xd
+2f
+#3d   d{
+x g
+x f d
+x d
+#3 f f
+x g
+x  e
+x f    }
+b
+
+b
+2 gdd  d
+#3 f    {
+x d
+#4  g
+x  e
+x  g
+x  e
+#4  g
+x  e
+x  d
+x   f
+1   d"#
+b
+b
+1fdd f
+1gd f d
+1   d
+b
+1.fcdca
+#3d   c{
+xb     }
+#2a   e{
+xd
+b
+#2b"#  a
+xa  c
+#2 d d
+x     b
+#2aa   d{
+x d
+b
+1. c"#dca
+2 bdca
+#2  bcd{
+x  d   }
+b
+2.  e"xa d
+3 b
+#2 d
+x    a
+2    b
+#3a   a
+x     d
+b
+2.bbd  b{
+3d
+2b"#
+#3a    d{
+x d
+#2 c"#dca
+x d d
+b
+
+b
+2a b{
+#3 d  }
+x   d
+#2 d&{ ca
+x   a
+#2 c c{ //a
+x  b  }
+b
+1 d"xa   a
+#2   a
+x      a
+1   a"#
+b
+b
+2.f"#dd f{
+#4d
+xf     }
+#3d    d
+xf    {
+xg
+xf
+#3d
+x g
+x f
+x d
+b
+#3fcd
+x a
+x c
+x d
+#3a
+xb
+xd   c{
+xb     }
+#2a   e
+xd
+b
+#3b  a
+xd
+xb  c{
+xa    }
+2 d d
+#3     b{
+xb
+#3a    d{
+xb
+xa
+x d
+b
+
+b
+2. c"#dca
+3  d
+#3  e
+x  d
+x  b
+x   d
+#3   c
+x   d
+x  b
+x  d
+b
+#3  ea d{
+x  d
+x  e
+x b
+#3 d
+x e
+x d
+x    a
+#3    b{
+x d    }
+xa   a
+x     d
+b
+2.b"#bd  b&{
+3d
+2b"#     }
+#3a    d&{
+x d    }
+#3 c  a
+x d
+xa
+xb
+b
+#3a
+x  b
+x d
+x   d
+#3   ca
+x d
+x c
+x a
+#4 d
+x c
+x d
+x c
+#4 d
+x c
+x a
+x c
+b
+
+b
+#3   a
+x d
+x c
+x a
+#3  d
+x  b
+x  a
+x   c
+#2   a"#
+x      a
+b
+b
+
+e

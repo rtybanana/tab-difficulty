@@ -1,0 +1,430 @@
+-C
+-t
+-f
+{95. Fantasia 10/95. Fantasia 10}
+b
+c
+w  d
+b
+wa
+b
+0 d a
+0c
+b
+0a d
+0 c
+b
+1 ab
+1 c
+1 df
+1a
+b
+1c d
+1e
+0f a
+b
+1d  c
+1  a
+1  b
+1c d
+b
+1 df
+1 c
+0cd
+b
+1a   a
+1 c
+1 c
+#2 a
+x  d
+b
+0da c
+0ac
+b
+0cd a  a
+1  a
+#2a
+x d
+b
+
+b
+1 c ca
+1   a
+1   c
+1  a
+b
+0 ab  d
+0 d ac
+b
+0 c ca
+1  a  c
+1 e
+b
+1a b  a
+1     c
+1     d
+1 c  a
+b
+1 da c
+1    e
+0  da
+b
+0a  c
+0    e
+b
+0c  a
+0 d
+b
+1.acd
+2 a
+#2 c
+x d
+xa
+xc
+b
+1ddf
+1f
+0ha f
+b
+0fda
+1d b
+1c
+b
+
+b
+1.acd a
+2 d
+1 c
+#2 a
+x  d
+b
+1aacc
+1  d
+1 a
+1 c
+b
+0 d e  a
+0    f
+b
+1 c ca
+1 a
+#2 c
+x a
+x  d
+x  b
+b
+1.  aac
+2   c
+#2  a
+x  c
+x  d
+x a
+b
+1 c ca
+1 d
+1a
+1c
+b
+1  da c
+1a
+1 d
+1 c
+b
+1 ab  d
+1 c
+1 daac
+1  c
+b
+1 ddca
+1   a
+0 c c
+b
+
+b
+0 dda  a
+0f
+b
+0c
+0fd
+b
+0 df
+0cd
+b
+0d b
+0ca
+b
+0ab
+1d
+1 a
+b
+0c d
+1a
+1  b
+b
+1  a
+1 d
+0 db
+b
+1   c
+1 a
+0 c
+b
+0 d a
+0  d
+b
+0  a
+0  da
+b
+0   ac
+0  aa
+b
+0  b  d
+0  a c
+b
+0   cd
+1  b
+1    c
+b
+
+b
+0  a a
+1   c
+1     d
+b
+1     c
+1   a
+0   a d
+b
+1a    a
+1    c
+0    e
+b
+0c  a  a
+0f
+b
+1  a
+1d
+1c
+1a
+b
+0 db
+0  f
+b
+1 a
+1  d
+1  b
+1  a
+b
+0 c c
+1a
+1  a
+b
+1  b
+1 dd
+1 af
+1 c
+b
+0 d
+0 cd
+b
+0 a c
+0  c
+b
+0  de
+0  d
+b
+
+b
+1 c  a
+1  b
+1  a
+1   c
+b
+0 d ac
+0c  a
+b
+1  a
+1a   e
+1 d  c
+1 c  a
+b
+0 a f d
+0  f
+b
+1 d  c
+1  d
+1  b
+1  a
+b
+0a  c a
+0d
+b
+1   c
+1c
+1a
+1 d
+b
+0 c e
+0  d  c
+b
+0 a a d
+0 d  c
+b
+1c  a
+1 c  a
+1 a   d
+1  d  c
+b
+0da c a
+0h  f
+b
+
+b
+1 a
+1f a
+1d  c
+1c  a
+b
+0acd
+0 dde
+b
+0 dff
+0 cbc
+b
+0cdda
+0f
+b
+1 fd e
+#2d
+xc
+1acd a
+1c
+b
+0dabc
+0     a
+b
+0c d  c
+1a b  d
+1 da
+b
+1 c ca
+1 d
+1a
+1c
+b
+1  d  c
+1a
+1 daac
+1  c
+b
+1  dca
+#2 c
+x a
+1 d
+1 c
+b
+0 daac
+0  b
+b
+
+b
+1 b  a
+1   c
+0  de
+b
+0  ff d
+1 d
+1  de
+b
+1aa c
+1 c
+0cd a
+b
+0d  c
+0ac
+b
+0cd a
+1f
+1 c
+b
+0da c
+0c dea
+b
+0 db c
+1ac  e
+1 a
+b
+0c def
+0 d
+b
+0a b
+0 cd
+b
+1 df
+1 c
+0 d
+b
+0acd
+0c de
+b
+1.da c
+2  d
+#2 a
+x c
+x d
+x c
+b
+
+b
+1.cd a
+2a
+#2c a   a
+xa
+x d
+x c
+b
+0 ab  a
+0c d  c
+b
+1  f  d
+1 d
+0a
+b
+0cc   c
+0  d a
+b
+0da   a
+0 c c
+b
+0cda   a
+1ac
+1 df
+b
+0acd a
+0cd a
+b
+1  a
+1a
+0 dff d
+b
+1 ddca
+1   a
+0 c c
+b
+0 dda  a
+0 ddef
+b
+0 dff d
+0 ddef
+b
+0 aff d
+1  de
+1  bc
+b
+Y dde  a
+b
+b
+x
+b
+
+e

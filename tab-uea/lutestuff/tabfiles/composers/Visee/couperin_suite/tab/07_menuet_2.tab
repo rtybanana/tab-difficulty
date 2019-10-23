@@ -1,0 +1,313 @@
+-C
+-t
+-f
+{/}
+b
+1  dc  ///a
+1    a
+1  c&' c
+b
+0  d&_ d
+1a   c
+b
+0  d&@ a
+1  c&'  a
+b
+1  d&_ a
+1      ///a
+#2a   a
+x     d
+b
+1  d  c
+1  b&'   ///a
+1  abc
+b
+1  bc a
+1  d  c
+1  f  d
+b
+1  a&' a
+2.     c
+3a
+1 e&'    //a
+b
+A1
+1aeU   6
+#2 fX  a
+x      a
+#2      /a
+x      //a
+.
+b
+b
+A2
+1aeU   6
+1 fX  a
+1      a
+b
+
+b
+0ab    /a
+1   a d
+b
+.
+1ab  d
+1      /a
+#2    ab
+x     a
+b
+1 d    a
+1 b&'   a
+1 a    6
+b
+1 b&_    ///a
+1    a
+1    ad
+b
+1 d   b
+1 b&'   a
+1 a    a
+b
+1    a /a
+1     e&'//a
+1    a /a
+b
+1 a   e
+1 b&_U a
+2.      ///a
+3 dX
+b
+1 a&'    6
+1     a
+1      a
+b
+0   c&@  /a
+1   a&'  4
+b
+1   c  /a
+1    d
+#2    ab
+x     a
+b
+
+b
+1 d    a
+1 b&'   a
+1 a    6
+b
+1 b&_    ///a
+1    a
+1    ad
+b
+1 d   b
+1 b&'   a
+1 a    a
+b
+1    a /a
+1     e&'//a
+1    a /a
+b
+2.      a
+3 a
+1 a&'   a
+2.      6
+3    a
+b
+A1
+#2    a ///a
+x     a
+#2     c
+x     e
+#2    a
+x    c
+b
+A1
+A2
+0ab  d
+1   c d
+.
+b
+b
+A2
+0    ae///a
+1     f
+b
+.
+1   \4h\3h ///a
+#2  \1f a
+x   h
+#2 a g
+x  f
+b
+
+b
+1.  d&_ d
+2   c
+#2  a c
+x  c
+b
+#2  d a
+x  f
+#2  g
+x  f
+#2  d  a
+x  c
+b
+1  d&_ a
+1      ///a
+#2   ca
+x     e
+b
+#2  d  c
+x  g
+#2  f c
+x  d
+#2d  b  //a
+xc
+b
+#2d    a
+x  f
+#2  de
+x  g
+#2  f  d
+x a
+b
+#2a   a
+xc
+#2d    c
+xc
+#2a     //a
+x   b
+b
+A1
+1aa   e6
+#2     a
+x      a
+#2      /a
+x      //a
+.
+b
+b
+
+b
+A2
+1aa   e6
+1     a
+1      a
+b
+1ab    /a
+#2b
+xa
+#2   a d
+x   d
+b
+.
+1   cd
+#2      /a
+x    a
+#2    cb
+x    da
+b
+#2   a  a
+xb
+#2a    a
+x d
+#2 b    6
+x a
+b
+1 b&'    ///a
+#2 a  a
+x b
+1    ad
+b
+1 d   b
+1 b&'   a
+1 a    a
+b
+#2    a /a
+x a
+#2     e//a
+x a
+#2    a /a
+x b
+b
+
+b
+2. a   e
+3 b
+1 b&'  a
+#2      ///a
+x a
+b
+1 a&'    6
+1     a
+1      a
+b
+1   c&_  /a
+#2   d
+xa
+#2   a d
+xb
+b
+1a   d
+#2      /a
+x    a
+#2    cb
+x    da
+b
+#2   a  a
+xb
+#2a    a
+x d
+#2 b    6
+x a
+b
+1 b&_    ///a
+2    a
+#3 aU
+x bX
+1    ad
+b
+1 d&_   b
+1 b   a
+1 a    a
+b
+#2    a /a
+x a
+#2     e//a
+x a
+#2    a /a
+x b
+b
+
+b
+2. a    a
+3 d
+1 b&'   a
+2.    c 6
+3    a
+b
+A1
+#2    a ///a
+x     a
+#2     c
+x     e
+#2    a
+x    c
+b
+A1
+A2
+1a   d
+#2b
+xa
+#2   a d
+x   d
+.
+b
+b
+A2
+0.    a&_ ///a
+b
+b
+
+e

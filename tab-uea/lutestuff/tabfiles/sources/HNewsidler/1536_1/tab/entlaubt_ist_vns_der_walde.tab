@@ -1,0 +1,105 @@
+-t
+-f
+{Entlaubt ist vns der Walde/Hans Newsidler}
+b
+0 b  d
+1 b"+ d
+#2   d
+x   c
+b
+1 a a
+1 b"+  d
+1   d
+1 d a
+b
+1 ab"+
+#2 a
+x  d
+1  b"+ d"+
+1   c
+b
+
+b
+1   a
+1 d
+0a   d
+b
+1 d
+1 b  d"+
+#2 d
+x b
+x a
+x  d
+b
+1 a c
+1 b  d
+0  da
+b
+0  b  d
+1  b
+1d  c
+b
+
+b
+1b  a
+1a   d
+0 db
+b
+1 bd"+
+1b
+#2d
+xb
+xa
+x d
+b
+0a d
+1 d"+
+1   a
+b
+1d"+  c
+1    d
+1b  a
+1a  c
+b
+
+b
+1   d
+1 d"+
+1   c"+
+1 c
+b
+0 d a
+1
+1 db
+b
+1 bd
+1 df
+1ab
+1b d
+b
+0d b
+0 db
+b
+0b  d
+0ab
+b
+
+b
+1 df
+1d"+ b
+1 b
+#2b
+xa
+b
+#2b  d"+
+xa
+x d
+x b
+0 db
+b
+w b  d
+b
+b
+Q
+
+e

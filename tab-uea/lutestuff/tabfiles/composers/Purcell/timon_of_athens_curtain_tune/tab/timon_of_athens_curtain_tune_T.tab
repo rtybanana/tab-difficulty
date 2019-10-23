@@ -1,0 +1,568 @@
+-C
+-t
+-f
+{Curtain Tune on a Ground/Curtain Tune on a Ground}
+b
+1aab  a
+#2aab
+x   c
+#2    c
+x   c
+b
+#2a d d
+x    a
+#2cb
+x  a
+#2    e
+x  a
+b
+#2ca a
+x    c
+#2aabc
+x a
+#2  a
+x a
+b
+#2aab
+x   c
+#2 ea
+x    a
+#2    c
+x      //a
+b
+1aab  a
+#2aab
+x   c
+#2    c
+x   c
+b
+#2a d d
+x    a
+#2cb
+x  a
+#2    e
+x  a
+b
+
+b
+#2ca a
+x    c
+#2aabc
+x a
+#2  a
+x a
+b
+#2aab
+x   c
+#2 ea
+x    a
+#2    c
+x      //a
+b
+1.aab  a
+2da c
+#2    c
+x   c
+b
+#2a d d
+x    a
+#2a\1c
+x\1c \2d\4e&{
+#2    \3e
+x   e&}
+b
+2ca a
+1    c
+2cef
+#2   e
+x  f
+b
+#2aa\1b
+x   \3c
+#2    \2c
+x    a
+#2\2d\4f  \1c
+x\1c\3e    //a
+b
+1\2da   a
+#2aa\1b
+x   \3c
+#2    \2c
+x   c
+b
+
+b
+#2a \2d&{ \1d
+x    a
+#2a\1cd&}
+x   \4e&{
+#2    \3e
+x   e&}
+b
+2ca a
+1    c
+2cef
+#2   e
+x  f
+b
+#2aa\1b
+x   \3c
+#2    \2c
+x    a
+#2\2d\4f  \1c
+x\1c\3e    //a
+b
+1\2da   a
+#2aa\1b
+x   \3c
+#2    \2c
+x   c
+b
+#2a d d
+x    a
+#2ab
+x  a
+#2    e
+x  a
+b
+#2ca a
+x    c
+#2ce
+x a
+#2  a
+x ef
+b
+#2aab
+x   \1c
+2 ea c
+#3acd a
+x  b
+#2  a c
+x e    //a
+b
+
+b
+1aab  a
+#2aab
+x   c
+#2    c
+x   c
+b
+#2a d d
+x    a
+#2ab
+x  a
+#2    e
+x  a
+b
+#2ca a
+x    c
+#2ce
+x a
+#2  a
+x ef
+b
+#2aab
+x   \1c
+2 ea c
+#3acd a
+x  b
+#2  a c
+x e    //a
+b
+1aab  a
+#2aab
+x   c
+#2    c
+x   c
+b
+#2a d d
+x    a
+#2abd
+x  a
+#2a d e
+xcca
+b
+#2ca a
+x    c
+#2ce
+x a
+#2  a
+xcef
+b
+
+b
+#2aab
+x   c
+#2 ea c
+xac  a
+#2aaa c
+x e    //a
+b
+1aab  a
+#2aab
+x   c
+#2    c
+x   c
+b
+#2a d d
+x    a
+#2abd
+x  a
+#2a d e
+xcca
+b
+#2ca a
+x    c
+#2ce
+x a
+#2  a
+xcef
+b
+#2aab
+x   c
+#2a b c
+x    a
+#2aaa c
+x e    //a
+b
+1aab  a
+#2aab
+x   c
+#2    c
+x   c
+b
+#2a d d
+x    a
+#2abd
+x  a
+#2a d e
+x   e
+b
+
+b
+#2ca a
+x    c
+#2de
+xca
+#2  a
+xcef
+b
+#2aab
+x   c
+#2 ef
+x    a
+#2 ed c
+x      //a
+b
+1aab  a
+#2aab
+x   c
+#2    c
+x   c
+b
+#2a d d
+x    a
+#2abd
+x  a
+#2a d e
+x  a
+b
+#2ca a
+x    c
+#2de
+xca
+#2  a
+xcef
+b
+#2aab
+x   c
+#2 ef
+x    a
+#2 ed c
+x      //a
+b
+1aab  a
+#2aab
+x   c
+#2    c
+x   c
+b
+
+b
+#2a d d
+x    a
+#2acd
+xe a
+#2ff  e
+x  a
+b
+#2ca a
+x    c
+#2ce
+x a
+#2  a
+xcef
+b
+#2aab
+x   c
+#2da
+xc   a
+#2aaa c
+x e    //a
+b
+1aab  a
+#2aab
+x   c
+#2    c
+x   c
+b
+#2a \2d&{ \1d
+x    a
+#2a\1cd&}
+x   \4e&{
+#2    \3e
+x   e&}
+b
+#2ca a
+x ea c
+#2ce
+x a
+#2  a
+xcef
+b
+#2aab
+x   c
+#2da
+xc   a
+#2aaa c
+x e    //a
+b
+
+b
+1aab  a
+#2aab
+x   c
+#2    c
+x   c
+b
+#2a d d
+x    a
+#2db
+xcbd
+#2a d e
+x   e
+b
+#2ca a
+x ea c
+#2da
+xcef
+#2  a
+xaa
+b
+#2aab
+x   c
+#2cad c
+xa b a
+#2aaa c
+x e    //a
+b
+1aab  a
+#2 bd
+x abc
+#2    c
+x   c
+b
+#2a d d
+xc   a
+#2dbd
+xf ge
+#2ff  e
+x  a
+b
+#2ca a
+x ea c
+#2da
+xcef
+#2  a
+x a
+b
+
+b
+#2aab
+x   c
+#2 ed c
+xaab a
+#2ce  c
+x      //a
+b
+1aab  a
+#2 ab
+x   c
+#2    c
+xaa c
+b
+2a \2d&{ \1d
+1    a
+2ccd&}\4e
+#2    \3e
+x   e
+b
+#2ca a
+x    c
+#2d
+x a
+#2  a
+xcef
+b
+#2aab
+x   c
+#2da  c
+x    a
+#2cf  c
+x e    //a
+b
+1aab  a
+#2 ab
+x   c
+#2    c
+x a c
+b
+#2  dcd
+x    a
+#2 b
+x  a
+#2  d e
+x   e
+b
+
+b
+#2 aaa
+x    c
+#2c
+x a
+#2  a
+xcef
+b
+#2dab
+x   c
+#2aab c
+x    a
+#2    c
+x e    //a
+b
+1aab  a
+#2aac
+x cec
+#2 da c
+xaacc
+b
+2a d d
+1ac  a
+2 da
+#2a e e
+x   e
+b
+2ca a
+1 ea c
+2da
+#2fea
+xcef
+b
+#2aab
+x   c
+#2da
+x    a
+#2cf  c
+x e    //a
+b
+1aac  a
+#2 ac
+x bdc
+#2 da c
+x acc
+b
+
+b
+#2 bdcd
+x c  a
+#2a
+x da
+#2a   e
+x cee
+b
+#2ca a
+x e  c
+#2c
+xda
+#2faa
+xcef
+b
+#2aab
+x   c
+#2da
+x    a
+#2cf  c
+x e    //a
+b
+1aab  a
+#2aab
+xda c
+#2cd  c
+xaabc
+b
+#2a dfd
+x bd a
+#2c d
+x da
+#2c d e
+x  a
+b
+#2cada
+x    c
+#2cab
+xa b c
+#2cf ec
+x ef
+b
+#2aab
+x   c
+#2aab c
+x    a
+#2aaa c
+x e    //a
+b
+
+b
+1aab  a
+#2da
+x bbc
+#2 db c
+xaabc
+b
+#2a dfd
+x    a
+#2cfd
+x  a
+#2c d e
+x   e
+b
+#2cada
+x    c
+#2cab
+xa b c
+#2cf ec
+x ef
+b
+#2aab
+x   c
+#2aab c
+x    a
+#2aaa c
+x e    //a
+b
+0.aab  a
+b
+b
+
+e

@@ -1,0 +1,453 @@
+-C
+-t
+-f
+{2. Ricercar 2/2. Ricercar 2}
+b
+c
+0a
+1a d
+1 d
+b
+0 bd
+#2 da
+x a
+x b
+x d
+b
+0a b
+1 bd
+1 da
+b
+1a b
+1  d
+#2 b
+x  b
+x  a
+x   c
+b
+1 d a
+1  b
+1 a
+1 b c
+b
+1 da
+1a b
+1  d
+1c
+b
+1 df
+1a b
+1c d
+1  f
+b
+
+b
+#2d
+x  d
+x  b
+x  a
+#2d  c
+x  a
+x  b
+x  d
+b
+#2ca
+x c
+1 d
+1a
+#2 c
+xc
+b
+1da
+1f d
+1 b c
+1da
+b
+1c  a
+1a d d
+1 d  c
+1  c
+b
+#2 bd a
+x a
+x b
+x d
+#2a d
+x    c
+x    d
+x   a
+b
+#2   c
+xa
+x da
+x b
+1 ab
+#2   c
+x c
+b
+1 da
+1 ab
+1 bd
+1 da
+b
+
+b
+1a b
+1  d
+1c
+#2  b
+x  a
+b
+1d  c
+1 a
+1c
+#2  d
+x  b
+b
+1 da
+1  b
+1a
+#2  a
+x   c
+b
+1c  a
+1 a
+1d
+#2  d
+x  b
+b
+#2c d
+x  b
+xa a
+x   c
+1  b c
+1 da
+b
+1 b  a
+1 a c d
+1  d  c
+1  ab
+b
+1 ab  a
+1   c
+1  de
+1  bc
+b
+1  a
+1 a b
+1   c
+1  b
+b
+
+b
+1  d d
+1 a a
+1   c
+1 b
+b
+1 da
+1a b
+1  d
+1c
+b
+1da
+1 b
+1a
+1c d
+b
+1da
+1 b c
+1c
+1 a a
+b
+1    d
+#2a d
+xc
+#2da  c
+xa
+xc
+xd
+b
+1f a
+#2  d
+xd
+#2c
+x  b
+xa a
+x   c
+b
+1  a
+1 ef
+1ab
+1c d
+b
+
+b
+1da
+#2   c
+xc
+#2a
+x  a
+x  b
+x  d
+b
+1 df
+1 bd
+1 a
+1a b
+b
+1   ca
+1  de
+1 a   d
+1 b c a
+b
+1     c
+#2 a b
+x  d
+1 b c a
+1 a
+b
+1 d  c
+#2   a
+x b
+#2 a
+x    d
+x  d c
+x    a
+b
+1    c
+1  cc
+1  d
+1 a b
+b
+#2   c
+x  d
+x  b
+x  aa
+#2   cd
+x    c
+1a   a
+b
+1  d
+1c
+1 d f
+1d b
+b
+
+b
+#2 b
+xc
+xa
+x df
+#2  d
+x b
+x ab
+x  a
+b
+#2   c
+x  a
+xa b
+x  d
+1  a c
+1 ef
+b
+1a   d
+1  d
+#2 da c
+x c
+x d
+xa
+b
+#2cd  c
+x b
+x a
+x  d
+#2da   d
+x  d
+1ab  d
+b
+1c da
+1da  c
+1     d
+#2c d a
+xa
+b
+1 da c
+#2  b
+x b
+#2 a   d
+x  a
+x  dca
+x  b
+b
+1  a c
+1c  b
+1da   a
+#2   c
+xc
+b
+
+b
+1ab
+#2 d
+x  f
+1 bd
+1 ab c
+b
+1   cd
+1  def
+1 a   d
+1  bc a
+b
+1  d  c
+1 a b
+1 b c
+1    a
+b
+1 da c
+1  b
+1a   d
+#2  a
+x   c
+b
+1c   c
+1   a
+1   c
+#2a
+xc
+b
+1d
+#2   c
+xc
+1a b
+#2 d
+x  a
+b
+1d  c
+#2c  a
+xa
+1 db
+#2  a
+x   c
+b
+1c  a
+1da   a
+#2  d  c
+xc
+1a b  d
+b
+
+b
+1  a a
+1 e  c
+1aa   a
+#2   c
+x  a
+b
+#2  b
+x  d
+1 aaa
+1 b cd
+#2  a c
+x    a
+b
+1  b  d
+1 b ca
+1 d  c
+1   a
+b
+1a    f
+1    e
+1c  a
+1 d
+b
+1da
+#2 b
+xc
+1a
+#2 df
+x  d
+b
+1d b
+#2c d
+xa
+1. df
+2 b
+b
+#2 a
+x  d
+1 b c
+1  b
+1 aaa
+b
+
+b
+#2    d
+x  bc
+x  d c
+x   a
+#2 ab  d
+x  a
+x b ca
+x   a
+b
+1    d
+1 a a d
+#2     c
+x    d
+x  d c
+x    a
+b
+1   cca
+1  c
+1  d a
+1a
+b
+1d
+#2   c
+xc
+1a b
+#2 d
+x  a
+b
+#2   c
+xd
+xc  a
+xa
+#2 df
+x f
+x d
+x bd
+b
+#2 ab
+x  a
+x   c
+x   a
+1 bbc
+1 aaa
+b
+
+b
+#2    d
+x  bc
+x  d c
+x   a
+#2 ab  d
+x  a
+x b ca
+x   a
+b
+1    d
+1 a a d
+#2     c
+x    d
+x  d c
+x    a
+b
+1  dcca
+1  c
+0  dca
+b
+b
+
+e

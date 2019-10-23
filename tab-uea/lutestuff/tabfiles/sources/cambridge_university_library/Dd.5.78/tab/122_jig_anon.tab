@@ -1,0 +1,69 @@
+-C
+-t
+-f
+{122. Jig/Anonymous}
+b
+1. dda
+2. dda
+3a
+2 dda
+b
+1. ab  d
+1   a
+3 c
+3 d
+b
+1 cd a
+2 dd c
+1 db  d
+2 cd a
+b
+0. ddef
+.
+b
+b
+.
+1.cdda
+2. dda
+3a
+2c
+b
+1.dab  d
+2.dab c
+3c
+2d
+b
+1f   a
+2  d  c
+1 ab  d
+2 cd a
+b
+0. ddef
+.
+b
+b
+.
+1cdda
+2d
+2.f  a
+3d
+2f
+b
+
+b
+1hd f d
+2h
+1hd f d
+2f   a
+b
+1db  d
+2cdda
+1f   a
+2ac
+b
+0. ddef
+.
+b
+b
+
+e

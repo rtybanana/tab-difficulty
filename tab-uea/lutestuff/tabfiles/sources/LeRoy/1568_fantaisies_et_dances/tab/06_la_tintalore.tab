@@ -1,0 +1,85 @@
+-C
+-t
+-f
+{6. La tintalore/6. La tintalore}
+b
+0 bd a
+1 dba d
+b
+0abb d
+1abb d
+b
+0bbdd
+1bbdd
+b
+0.abb d
+b
+0 db c
+1 dba d
+b
+1. bd a{
+2 a
+1  dc  }
+b
+
+b
+1.    a
+2 a
+1 b  a
+b
+0 acc a
+1  d
+b
+1   c
+1a
+1 d c
+b
+1. bd a
+2 a
+1  dc
+b
+1.aac  a
+2  d
+1aac  a
+b
+0 cd a
+1   c
+b
+
+b
+1. db c&{
+2a    }
+1 d  c
+b
+1. bd a
+2 a
+1  dc
+b
+1.    a
+2 a
+1 b c
+b
+0 ac  a
+1  d
+b
+1   c
+1a
+1 d c
+b
+1. bd a
+2 a
+1  d a
+b
+
+b
+1.aac  a
+2  d
+1aac  a
+b
+0 cd a
+1   c
+.
+b
+b
+
+e

@@ -1,0 +1,498 @@
+-C
+-t
+-f
+{Padoana Prima/Padoana Prima}
+b
+c
+1acd a
+1 c
+1  d
+1acd a
+b
+#2acd a
+x a
+x c
+x d
+#2a
+xc
+xd
+xa
+b
+1cdda
+1c
+1 d
+1cdda
+b
+#2cdda
+xa
+xd
+xc
+#2a
+x d
+x c
+x a
+b
+1acd a
+1 c
+1  d
+1acd a
+b
+
+b
+#2acd a
+x a
+x d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+1aac  a
+1 a
+1  c
+1aac  a
+b
+#2aac  a
+x  a
+x  c
+x  d
+#2 a
+x c
+x d
+x a
+b
+1acd a
+1 c
+1  d
+1acd a
+b
+#2acd a
+x a
+x c
+x d
+#2a
+xc
+xd
+xa
+b
+1cdda
+1c
+1 d
+1cdda
+b
+
+b
+#2cdda
+xa
+xd
+xc
+#2a
+x d
+x c
+x a
+b
+#2acd a
+x a
+x d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+1aac  a
+1  d a
+#2aac  a
+x  a
+x  d
+x  c
+b
+1acd a
+1 c
+1  d
+1acd a
+b
+0acd a
+0acd a
+b
+b
+1acd a
+#2  d
+x a
+#2 c
+x d
+xa
+x d
+b
+
+b
+#2acd a
+x a
+x c
+x d
+#2a
+xc
+xd
+xa
+b
+1cdda
+#2 d
+xa
+#2c
+xd
+xf
+xd
+b
+#2cdda
+xa
+xd
+xc
+#2a
+x d
+x c
+x a
+b
+1acd a
+#2  d
+x a
+#2 c
+x d
+xa
+x d
+b
+#2acd a
+x a
+x d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+
+b
+1aac  a
+#2   c
+x  a
+#2  c
+x  d
+x a
+x  d
+b
+#2aac  a
+x  a
+x  c
+x  d
+#2 a
+x c
+x d
+x a
+b
+1acd a
+#2  d
+x a
+#2 c
+x d
+xa
+x d
+b
+#2acd a
+x a
+x c
+x d
+#2a
+xc
+xd
+xa
+b
+1cdda
+#2 d
+xa
+#2c
+xd
+xf
+xd
+b
+
+b
+#2cdda
+xa
+xd
+xc
+#2a
+x d
+x c
+x a
+b
+#2acd a
+x a
+x d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+1aac  a
+1  d a
+#2aac  a
+x  a
+x  d
+x  c
+b
+1acd a
+#2  d
+x a
+#2 c
+x d
+xa
+x d
+b
+1acd a
+1  d
+0acd a
+b
+b
+
+b
+1acd a
+#2  d
+x a
+#3 c
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+b
+2acd a
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+#3d
+xc
+xa
+xc
+#3d
+xa
+xc
+xd
+b
+1cdda
+#2 d
+xa
+#3c
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+b
+
+b
+#2cdda
+xf
+xd
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+b
+1acd a
+#2  d
+x a
+#3 c
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+b
+#3 c
+x a
+x c
+x d
+#3a
+x c
+x d
+xa
+#3c
+xa
+x d
+x c
+#3 a
+x  d
+x  c
+x  a
+b
+
+b
+1.aac  a
+#3 d
+x c
+#3 d
+x c
+x a
+x  d
+#3 a
+x  d
+x  c
+x  a
+b
+#3  c
+x  a
+x  c
+x  d
+#3 a
+x  d
+x a
+x c
+#3 d
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+b
+2acd a
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+b
+
+b
+#3 c
+x a
+x c
+x d
+#3a
+x d
+xa
+xc
+#3d
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+b
+#2cdda
+xa
+x d
+x c
+#2 d
+xa
+xc
+xd
+b
+2cdda
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+b
+
+b
+#3 c
+x a
+x c
+x d
+#3a
+x c
+x d
+xa
+#3c
+xa
+xc
+xe
+#3f
+xc
+xe
+xf
+b
+#3e
+xc
+xa
+x d
+#3 c
+x d
+xa
+xc
+#3e
+xa
+xc
+xe
+#3f
+xe
+#4f
+xe
+xc
+xe
+b
+1.fcd a
+#3e
+xc
+#3e
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+b
+
+b
+#3  d
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+Yacd a
+b
+b
+
+e

@@ -1,0 +1,124 @@
+-C
+-t
+-f
+{Suite 7/Suite 7}
+b
+S3
+0.aa&Uccca
+b
+1aaccca
+1aa \2c \4e
+1     e
+b
+1aa c e
+1    c
+1     e
+b
+0.aac  a
+b
+0.aac  a
+b
+1     a
+1aa c e
+1     e
+b
+
+b
+1aac  a
+1    c
+1     e
+b
+0.aac  a
+.
+b
+b
+.
+0aac  a
+1     a
+b
+0aac  a
+#2   c
+x  a
+b
+#2aac
+x  a
+#2aac
+x  d
+#2  c
+x  a
+b
+0.aa&Ucc
+b
+
+b
+1aacc
+1    c
+1     e
+b
+1aac  a
+1    c
+1     e
+b
+1aac  a
+1    c
+1     e
+b
+1 aa\2b  b
+1     \3c
+1      b
+b
+1 aa\2b  //a
+1     \3c
+1      b
+b
+1 aab  //a
+1      b
+1     c
+b
+
+b
+1 aa   b
+1     c
+1      b
+b
+1 aab  //a
+1      b
+1      //a
+b
+0.a c ca
+b
+1aa c e
+1     a
+#2     e
+x     c
+b
+1aac  a
+1 aacc
+1   b  //a
+b
+0.aac  a
+b
+
+b
+0aacc
+#2    c
+x    a
+b
+#2aa   e
+x     c
+1     a
+#2  c
+x  d
+b
+#2aac
+x  a
+1   c
+#2     e
+x     c
+b
+0.aacc a
+.
+b
+b
+
+e

@@ -1,0 +1,388 @@
+-C
+-t
+-f
+{13. Fantasia 13/13. Fantasia 13}
+b
+c
+#2  d a
+x    c
+x    d
+x   a
+#2   c
+x   a
+x   d
+x   c
+b
+#2   a
+x    d
+x    c
+x    a
+#2     d
+x    a
+x    c
+x    a
+b
+#2    d
+x    c
+x    a
+x     d
+#2     c
+x     a
+1     c
+b
+waa   a
+b
+#2aa   a
+x    c
+x    e
+x   a
+#2   c
+x  a
+1  c
+b
+
+b
+#2aa   a
+x    c
+x    e
+x   a
+#2   c
+x  a
+x  c
+x  d
+b
+#2 a
+x  c
+1  d
+#1aa   a
+x  c
+b
+wabd a
+b
+1abd a
+#2   c
+x   a
+#2   c
+x   a
+x    d
+x    c
+b
+#2    a
+x    c
+x    d
+x   a
+#2   c
+x   e
+1   f
+b
+0ab  a
+0  a
+b
+w dff d
+b
+1 dff d
+#2   d
+x   c
+#2   a
+x    d
+x    c
+x    a
+b
+
+b
+#2     d
+x    c
+x    d
+x   a
+#2   c
+x   d
+1   f
+b
+0 dd f
+0   e
+b
+wabb d
+b
+#2a b d
+x    c
+x    d
+x   a
+#2   c
+x  a
+x  b
+x   d
+b
+#2   c
+x   a
+x    d
+x   c
+#2   a
+x    d
+x    c
+x    a
+b
+#2     d
+x    a
+x    c
+x    d
+#2   a
+x    c
+1    d
+b
+#1a b
+x    c
+#1    a
+x db c
+b
+w bd a
+b
+
+b
+1abd a
+#2   c
+x   a
+#2   c
+x   a
+x    d
+x    c
+b
+#2    a
+x    c
+x    d
+x   a
+#2   c
+x   e
+1   f
+b
+0ab  a
+0  a
+b
+0 dff d
+0 bdca
+b
+0aa   a
+0  c
+b
+w  dca
+b
+Y
+b
+#2  d a
+x    c
+x    d
+x   a
+#2   c
+x  a
+1  b
+b
+#2    d
+x   c
+x  a
+x  b
+#2  d
+x a
+1 b
+b
+
+b
+#2   d
+x  d
+x a
+x b
+#2 d
+x b
+x a
+x  d
+b
+waa c
+b
+#2     a
+x    c
+x    e
+x   a
+#2   c
+x  a
+x  b
+x  d
+b
+#2 a
+x  d
+x  c
+x  a
+#2   c
+x  a
+x  c
+x  d
+b
+#2 a
+x  c
+1  d
+#1aa c
+x  c
+b
+w  dca
+b
+1a d
+#2  b
+x  a
+#2   c
+x  a
+x  b
+x  a
+b
+
+b
+#2  b
+x   d
+x   c
+x   a
+#2    d
+x   a
+x   c
+x   a
+b
+#2    d
+x    c
+x    a
+x     d
+0    a
+b
+0 aba d
+0   c
+b
+#2     a
+x   a
+x   c
+x  a
+#2  b
+x   d
+x   c
+x   a
+b
+#2    d
+x   a
+x   c
+x   a
+#2    d
+x    c
+x    a
+x     d
+b
+#2     c
+x a
+x b
+x a
+#2 d
+x b
+x a
+x  d
+b
+0aa   a
+0  c
+b
+0   c
+0    c
+b
+
+b
+w   cdf
+b
+w   cca
+b
+Y
+b
+#2     a
+x    c
+x    d
+x   a
+#2   c
+x   e
+1   f
+b
+1  da
+#2    d
+x    c
+#2    a
+x     d
+1    a
+b
+1 ab  d
+#2   d
+x   c
+#2   a
+x    d
+x    c
+x    a
+b
+#2     d
+x    c
+x    d
+x   a
+#2   c
+x   e
+1   f
+b
+0 dd f
+0   e
+b
+0abb d
+0 dbac
+b
+
+b
+0 b ca
+0  a
+b
+w aba d
+b
+1 aba d
+#2   d
+x   c
+#2   a
+x    d
+x    c
+x    a
+b
+#2     d
+x    c
+x    d
+x   a
+#2   c
+x   e
+1   f
+b
+#2     d
+x   d
+1   c
+1     c
+1   b
+b
+0 a c a
+0  b
+b
+0 bdca
+0 dff d
+b
+0 fgfd
+0d
+b
+0bdda
+0aabc
+b
+#1 ddd
+x b
+#1 a
+x  d
+b
+
+b
+0aa c
+0  c
+b
+w  d a
+b
+Y
+b
+b
+P
+e

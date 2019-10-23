@@ -1,0 +1,592 @@
+-C
+-t
+-f
+{82. Porter's pavane/Walter Porter?}
+b
+c
+1. dda
+2a
+1cdda
+#2aa c
+x   a
+b
+#2acd e
+x    a
+xac  e
+x   a
+#2da c
+x     a
+1cdd  c
+b
+#3aa c d
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+#3  d a
+xf
+xd
+xc
+#3a
+x d
+xa
+xd
+b
+1.cdda
+2c da
+1acd a
+#2
+xl
+b
+
+b
+#2k
+xf
+x
+xcd  c
+2.a d e
+3   a
+2aadc
+#3  c
+x d
+b
+1.acdca
+2ccd  c
+#2aa c d
+x    a
+x f ec
+x e
+b
+3a    a
+#4 a
+x c
+#4 d
+xa
+xc
+xd
+#4f
+x c
+x  d
+x a
+#4 c
+x d
+xa
+xc
+#4d
+x a
+x  b
+x  d
+#4 a
+x c
+x d
+xa
+#4c
+x d
+xf
+x  d
+#4 d
+xa
+xc
+xd
+b
+
+b
+#4a   a
+x d
+x c
+x a
+#4  d
+xf
+xc
+xh
+3f
+#4d
+xc
+#4a
+xc
+xd
+xa
+#4c
+x d
+x   a
+x  d
+#4 d
+xa
+xc
+xd
+#4f
+xd
+xf
+xc
+#4d
+xc
+xd
+xa
+b
+2.c  a
+#4 a
+x c
+#4 d
+x c
+x d
+x c
+#4 d
+x c
+x a
+x c
+0 d
+b
+b
+1. dda
+2a
+1cdda
+2.aa c
+3   a
+b
+#2ac  e
+x    a
+xa   e
+x   a
+#2da c
+x     a
+1cdd  c
+b
+1aa c d
+1acd a
+1.cdda
+2c da
+b
+
+b
+1acd a
+2
+#4l
+xh
+xk
+xl
+3k
+#4h
+xk
+2f
+#2
+xcd  c
+b
+2.a d e
+3   a
+2aadc
+#3  c
+x d
+1.acdca
+2ccd  c
+b
+2.aa c e
+3    a
+#2 f ec
+x e
+1aac  a
+1fc e c
+b
+1dab  d
+#2cdda
+xd
+1add a
+1 c
+b
+0cdda
+1cdda
+1cdda
+b
+b
+1.acd a
+2acd a
+#3 dda
+xa
+xc
+xd
+#2f
+x    a
+b
+2.da  c
+3    e
+#4c  a
+xd
+3f
+#3d
+xc
+1.acd a
+2cdd  c
+b
+
+b
+#2aa c d
+xacd a
+2.cdda
+3c
+#3d
+xf
+xh
+xk
+#2l
+x
+b
+1
+#2
+xf
+2h
+#3f
+xd
+#2c
+x da c
+b
+3a   e
+#4  d
+x a
+#4 c
+x a
+x c
+x d
+#3 c
+x  d
+xa
+x   a
+#4 a c
+xa
+x c
+x d
+#4a
+xc
+xe
+xf
+#4e    a
+xf
+xh
+xf
+#4e
+xa
+xc
+xe
+b
+
+b
+3f   a
+#4e
+xc
+#4a
+x d
+xa
+xc
+#4a
+xc
+xd
+xc
+#4a
+x d
+x c
+x a
+#2ac  a
+x  d
+1 c
+b
+b
+1.acd a
+2acd a
+#2cdda
+xd
+xf
+x    a
+b
+2.da  c
+3    e
+1cdda
+1.acd a
+2fd   c
+b
+#2da   d
+xac  a
+2.cdda
+3c
+#4d
+xc
+xd
+xf
+#4h
+xf
+xh
+xk
+#2l
+x
+b
+1
+#2
+xf
+3h
+#4f
+xh
+#3f
+xd
+#2c
+x d  c
+b
+
+b
+1.a d e
+2   a
+2aadc
+#3  c
+x  a
+3  c
+2  d
+3  c
+b
+3  d a
+#4  a
+x  c
+#4  d
+x a
+x c
+x d
+#4a
+xc
+xd
+xc
+#4a
+x d
+x c
+x a
+1acd a
+1acd a
+b
+b
+2. dda
+3a
+2c  a
+3 dda
+#4a
+xc
+1.ddb  d
+2cdda
+b
+#2aa c a
+x da  c
+xad c d
+xacd a
+0cdda
+b
+
+b
+1ddf  d
+2.cdda
+3f
+3h
+#4f
+xh
+#3f
+x i
+#3l
+xf
+xc
+x d
+b
+1aa c
+2. ea c
+3c
+3d
+#4c
+xd
+#3c
+xa
+#3h
+xc
+x e
+x a
+b
+3.dab  d
+4c
+#4a
+x d
+xa
+xc
+#4d
+xc
+xd
+xf
+3h
+#4f
+xd
+#4c
+xa
+xc
+xd
+#4f
+xd
+xc
+xa
+#4c
+xa
+x e
+x c
+#4 e
+xa
+xc
+x e
+b
+
+b
+1aa c a
+#2aa
+xda c
+2cd e
+#3   c
+x   a
+#2acd
+x    a
+b
+2 da c
+#3    a
+x     d
+#2  def
+xcdda
+#4d
+xc
+xa
+xc
+#4d
+xh
+xf
+xd
+#4c
+xa
+x d
+xa
+#4c
+xf
+xd
+xc
+b
+
+b
+#4a
+xc
+xd
+xf
+3h
+#4f
+xd
+3f
+#4d
+xc
+#4a
+xc
+xd
+xa
+3c  a
+#4 a
+x c
+#4 d
+xa
+xc
+xd
+#4f
+xc
+xd
+xf
+#4h
+xf
+xh
+xk
+b
+3l
+#4f
+xd
+#4f
+xd
+xc
+xa
+1 d
+2. dda
+3a
+#2cdda
+x dda
+b
+b
+1.dab  d
+2cdda
+#2aa c a
+x da  c
+xad c a
+x cdca
+b
+0cdda
+1ddf  d
+2.cdda
+3f
+b
+3h
+#4f
+xh
+#4d
+xf
+xh
+xk
+3l
+#4f
+xd
+#4c
+xa
+3 d
+1aa c a
+2. ea c
+3c
+b
+
+b
+3d
+#4c
+xd
+#4a
+xc
+xd
+xf
+3h
+#4c
+xa
+#4 e
+x c
+3 a
+1.ddb  d
+2    a
+b
+2cf ec
+#3 e
+x c
+3 e
+2 f
+3 e
+1aa c a
+#2aa
+xda c
+b
+2cd e
+#3   c
+x   a
+2 da c
+#3    a
+x     d
+1  def
+1cdda
+b
+1da c a
+1cdd  c
+1ad c d
+1acdca
+b
+0cdda
+1cdda
+1cdd
+b
+b
+
+e

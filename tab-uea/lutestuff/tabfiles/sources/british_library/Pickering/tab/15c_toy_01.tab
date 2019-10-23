@@ -1,0 +1,238 @@
+-C
+-t
+-f
+{Toy - 1/Toy - 1}
+b
+2. d
+3a
+#1c
+xc   a
+b
+2.a   a
+3 d
+2. c
+3 a
+1  d
+b
+2. d a
+3a
+#1c
+x d
+b
+1 d a
+0  d
+b
+2. d a
+3a
+2.c
+3a
+#2c
+x d
+b
+2.a   a
+3 d
+2. c
+3 a
+#2 c
+x  d
+b
+
+b
+2. d
+3a
+#2c
+x d
+#2a   a
+x c
+b
+#1 d a
+x  d
+x   a
+b
+2.  aa
+3  b
+#1  d
+x  d  c
+b
+2. a   a
+3  d
+2.  b
+3  a
+1   c
+b
+2.  aa
+3  b
+#1  d
+x  d
+b
+1  def
+0   a
+b
+2.  aa
+3  b
+#2  d
+x  b
+#2     c
+x  d
+b
+
+b
+2. a   a
+3  d
+#2  b
+x  a
+#2   c
+x  b
+b
+2.  aa
+3  b
+#2  d
+x  a
+#2  b
+x  d
+b
+1  def
+0   a
+b
+2 d a
+#3 a
+x c
+#3 d
+xa
+xc
+xd
+#2c
+x d
+b
+2a   a
+#3 c
+x d
+#3a
+x d
+x c
+x a
+#2 c
+x  d
+b
+
+b
+2 d a
+#3a
+xc
+#2d
+xc
+#3a
+x d
+2a
+b
+1 d a
+0  d
+b
+#2 d a
+xf
+#3f
+xd
+xc
+xa
+#2c
+x d
+b
+2a   a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#2 c
+x  d
+b
+#3 d a
+x c
+x d
+xa
+#3c
+xd
+2c
+#3a
+x d
+2a
+b
+
+b
+1 d a
+0  d
+b
+2.  aa
+3  b
+#2  d
+x a
+#3     c
+x  b
+2  d
+b
+2. a   a
+3  d
+#2  b
+x  a
+#3   c
+x  a
+2  b
+b
+2.  aa
+3  b
+#2  d
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+1  def
+0   a
+b
+
+b
+#3  aa
+x   c
+x  a
+x  b
+#3  d
+x  b
+x  d
+x a
+#3     c
+x  b
+2  d
+b
+#3 a   a
+x  d
+x  b
+x  a
+#3   c
+x   b
+x   c
+x  a
+#3  b
+x  d
+x a
+x c
+b
+2  aa
+#3   c
+x  a
+#3  b
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a
+x c
+b
+1 ddef
+Y   a
+b
+b
+
+e

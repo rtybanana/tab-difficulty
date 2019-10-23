@@ -1,0 +1,817 @@
+-C
+-t
+-f
+{4. Praeter rerum seriem - Part 2/4. Praeter rerum seriem - Part 2}
+b
+c
+0.d b
+1  d
+b
+1 ab
+1  d
+0 a c
+b
+1d bc
+1  a
+1  b
+1  d
+b
+1 ab
+1 b
+0 a c
+b
+1dabc
+#2 c
+x e
+0 f c
+b
+1ff e
+1 e {
+#2 f
+x e
+x c
+x e  }
+b
+0df c
+1   c
+1  a
+b
+1d bc
+1  d
+1ca a
+1ca  e
+b
+
+b
+1cd  c
+1  d
+0  a
+b
+1 dfec
+1 c  {
+1 a
+1 c   }
+b
+1 da c
+1a
+0c   c
+b
+1 d ac
+1a   e
+1c  a
+1d  c
+b
+0fd e
+0h  f
+b
+0hf
+1f  e
+1d  c
+b
+0hd f
+0f  e
+b
+1cd
+1   a
+0h ff
+b
+0fc e
+0d  c
+b
+1  b
+1da
+1c d
+1a
+b
+0. dff d
+1    a
+b
+
+b
+1 ab c
+1    d
+0    ca
+b
+1 ab  d
+1     c
+1     d
+1    a
+b
+1 ab c
+1    d
+0    ca
+b
+1 ab  a
+1  a
+0 a c a
+b
+0  dc c
+0   b
+b
+0  bc a
+1   c
+1     a
+b
+1  bc a
+#2   a
+x   c
+#2 a e
+x   c
+x   a
+x    e
+b
+1   ac
+1  d
+0  aa
+b
+1  bc a
+1    c
+0  bc
+b
+0c aa
+0 a  c
+b
+
+b
+1ca ac
+1  d e
+0c aa
+b
+0aabc
+1 a   a
+1 c
+b
+1cda c
+1 a
+0 d ac
+b
+1cda c
+1 c  {
+#2 d
+x c
+x a
+x  d  }
+b
+1dabc
+1  d
+1 a   a
+1 c
+b
+1dda c
+1a
+1 d
+1  a
+b
+1cda c
+1 c  a
+1 a   d
+1  d  c
+b
+1aabcca
+1     c
+1     d
+1    a
+b
+1 da c
+1    e
+0  aac
+b
+
+b
+1 d
+1 c  a
+0 daac
+b
+1 abc
+1  d
+1 a   a
+1 c
+b
+1 daac
+1 a
+0 d  c
+b
+1cda c
+1 c  a
+1 a acd
+1  d  c
+b
+1d bc a
+#2   c
+x  a
+#2aab
+x  d
+x a
+x c
+b
+0cdaac
+0    c
+b
+1ac  e
+1    c
+1    e
+1   b
+b
+1aabc
+1  d
+0 abc
+b
+1 daac
+1 c
+1ca b
+1  d
+b
+
+b
+1dabc
+1  a
+0aabc a
+b
+0cdaac
+0    c
+b
+0 daac
+1 c c
+1 a
+b
+1 da
+1    e
+1a b c
+1 d
+b
+1 cdcef
+#2c
+xa
+#2 d
+x c
+x a
+x  d
+b
+0 afffd
+1h
+1     c
+b
+1  ffha
+1f
+1da
+1   c
+b
+1    c
+1dab {
+1c d
+1a    }
+b
+1 efec
+1a d
+1c a
+1 e
+b
+
+b
+0a bc a
+0h  fh
+b
+0d bc a
+1h  f
+1   h
+b
+1 abc
+1f a
+0da c
+b
+0d bc
+1ca a
+1a   e
+b
+1 df cd
+1  d
+1a b
+#2  a e
+x   c
+b
+0 abc d
+1  a  d
+1   c
+b
+0   acd
+0   c
+b
+1    a
+#2   b
+x   a
+0  a a
+b
+1     d
+1   c
+0   c a
+b
+
+b
+#2    ac
+x   b
+x   c
+x   b
+#2   c
+x   b
+x    e
+x   b
+b
+0   cca
+0h  f
+b
+0d  c a
+0h  f
+b
+1  bc a
+1f a
+0d  c
+b
+0d bc a
+1c ba
+1a   e
+b
+0 db c
+0a   e
+b
+1  d
+1 c  a
+1c  a
+1d
+b
+1c dc
+1a
+0a  ce
+b
+0a a c
+0 e
+b
+0a  c
+0 ab
+b
+0a bc a
+0 a b
+b
+0aabc a
+1  de
+1  bc
+b
+
+b
+0. daac
+1 a
+b
+0 daac
+0 c ce
+b
+0  def
+0 a
+b
+1 abc
+#2  d
+x a
+0 c
+b
+1  a c
+1 a
+1 c a
+1  a
+b
+1  e e
+1  c
+1 a c
+1  e
+b
+0cdfac
+1   a
+1 c
+b
+0cd  c
+1ac  e
+1 a
+b
+0c da
+0 a
+b
+0da c
+0 c
+b
+
+b
+1c   c
+1 a
+1 c a
+1 a
+b
+1a e e
+1  c {
+1 a
+1  e  }
+b
+0 dfe
+0    c
+b
+1 dfec
+1 c  {
+1  f
+1  d  }
+b
+1  bc a
+1  a
+1 ab
+1   c
+b
+1     a
+1 abc
+1 c a
+1    e
+b
+1 da c
+1 a  {
+1 d
+1  a  }
+b
+1cdaac
+1 c  a
+1 a   d
+1  d  c
+b
+0d bc a
+0 abc
+b
+
+b
+1aabc
+1  d
+1 abc
+1 c
+b
+1cdcec
+1 f
+1 d a
+1  a
+b
+1cdaac
+1 c  a
+1 a   d
+1  d  c
+b
+1dabc a
+#2   c
+x   b
+#2   c
+x  a
+x  b
+x  d
+b
+1aab  a
+#2   c
+x  a
+#2  b
+x  d
+x a
+x c
+b
+1cdfec
+#2 a  {
+x c
+#2 d
+xa
+xc
+xd    }
+b
+
+b
+#2caaac
+xa   {
+x d
+x c
+#2 a
+x  d
+x  b
+x  a  }
+b
+0h  fha
+0 f
+0da c
+b
+0ccd
+0 da
+0ha f
+b
+1fca
+1 a
+1 c
+1 a
+0df c
+b
+0caf
+0d  c
+1  b  a
+1a
+b
+0a d ef
+0c  a c
+0 df cd
+b
+1f d ec
+1    c
+1    e
+1   b
+0  bc a
+b
+0caa c
+0 a
+0 d  c
+b
+0a bc
+0  d e
+0c aa
+b
+
+b
+1a b d
+1  a {
+1  b
+1  d  }
+0 df c
+b
+0fcde c
+1   c
+1    e
+0f aba
+b
+0d bc a
+1   c
+1a
+0cada
+b
+0aabc
+1  d a
+1 c
+0 ea c
+b
+0aabcca
+1   c
+1 d
+0 cdca
+b
+0 daac
+0 aba d
+0a dcd
+b
+0 efec
+0a bcd
+0 cdca
+b
+0caaac
+1    c
+1    a
+0 aba d
+b
+
+b
+0 cdca
+#2  d ac
+x e
+x f
+x e
+#2 f
+x e
+x c
+x e
+b
+0aabcca
+0 cdeef
+0  deef
+b
+0caaac
+1    c
+1    a
+0 aba d
+b
+0 cdca
+1 ed  c
+0a
+1 e
+b
+0aabc a
+0 cd ef
+1     f
+1     d
+b
+0h  fha
+0 f
+0d ac
+b
+0fcd
+0 da
+0ha f
+b
+1fca
+1 a
+1 c
+1 e
+0df c
+b
+0caf
+0d  c
+1  b  a
+1a
+b
+
+b
+0a d ef
+0c  a c
+0 df cd
+b
+1f d ec
+1    c
+1    e
+1   b
+0  bc a
+b
+0c a c
+0 a
+0 d  c
+b
+0a bc
+0  d e
+0c aa
+b
+1a b d
+1  a {
+1  b
+1  d  }
+0 df c
+b
+0fcde c
+1   c
+1    e
+0f aba
+b
+0db c a
+1   c
+1a
+0c da
+b
+0a bc
+1  d a
+1 c
+0 ea c
+b
+
+b
+0a bc a
+1     a
+1 d
+0 cdca
+b
+0 daac
+0 ab  d
+0a dcd
+b
+0 dfec
+0a dcd
+0 cdca
+b
+c
+wcaaac
+b
+whaaa h
+b
+0haaa
+0     h
+b
+0haaa h
+0     f
+b
+0h    d
+0     c
+b
+whd f d
+b
+wfddef
+b
+0fdde
+0    f
+b
+w ddef
+b
+0fddef
+0   f
+b
+wfddef
+b
+0    a
+0ffd
+b
+
+b
+0   c
+0a
+b
+1acdca
+#2 a
+x c
+#2 d
+xa
+xc
+xe
+b
+#2f
+xe
+xc
+xe
+#2f
+xc
+xe
+xf
+b
+0hf
+0     a
+b
+0hff
+0   gh
+b
+0hffgha
+0e
+b
+0eaccca
+0a
+b
+Yaaccca
+b
+b
+
+{4. Praeter rerum seriem - Part 2/4. Praeter rerum seriem - Part 2}
+b
+c
+wcaaac
+b
+whaaa h
+b
+0haaa
+0     h
+b
+0hdf fh
+0     f
+b
+0h    d
+0     c
+b
+wbdfacd
+b
+wfddef
+b
+0fdde
+0    f
+b
+w ddef
+b
+0fddef
+0   f
+b
+wfddef
+b
+0    a
+0ffd
+b
+0   c
+0a
+b
+1acdca
+#2 a
+x c
+#2 d
+xa
+xc
+xe
+b
+
+b
+#2f
+xe
+xc
+xe
+#2f
+xc
+xe
+xf
+b
+0hf
+0     a
+b
+0hff
+0   eh
+b
+0hffeha
+0e
+b
+0eaccca
+0a
+b
+Yaaccca
+b
+b
+
+e

@@ -1,0 +1,230 @@
+-C
+-t
+-f
+{22. Corrente 2/Giovanni G. Kapsberger}
+b
+#2  d
+x a
+#2 c
+x d
+b
+.
+1.acd
+2c
+1a
+b
+1c
+1   a
+1e   c
+b
+1.f   a
+#3e
+xc
+1a
+b
+1  d
+#2    a
+x    c
+#2    e
+x   a
+b
+1.   c
+2   e
+1   c
+b
+1 c
+1. a a
+#3  d
+x a
+b
+1 c
+1    e
+#2 e
+xa
+b
+1c
+1 d  c
+1  c
+b
+
+b
+1   e
+#2  d
+x a
+#2 c
+x e
+b
+1.a
+#3c
+xe
+1f   a
+b
+1.e    a
+2f
+1e
+b
+1c    c
+1  d e
+1 daa
+b
+1. cd a
+2 d
+1a
+b
+1 d  c
+1  c
+1 cd a
+b
+1 acc
+1a
+1c
+b
+1  c
+1 a
+1 c  a
+b
+1 a   a
+#2   c
+x  a
+#2  c
+x  d
+b
+1 a
+1   a
+1    e
+b
+
+b
+1  d
+#2   a
+x   c
+#2  a
+x  c
+b
+2.  d
+3 c
+1. a   a
+#3  d
+x  c
+b
+A1
+1  d a
+#2  d
+x a
+#2 c
+x d
+.
+b
+b
+A2
+1  d
+1    a
+1      ///a
+b
+.
+1  d
+1  d a
+1   c
+b
+1  d
+1.  d a
+#3 a
+x c
+b
+1 d  c
+1  c
+1 c  a
+b
+1   c
+1  c
+1a
+b
+1   e
+1  d
+1 e
+b
+1   c
+1  c
+1a
+b
+
+b
+1   a
+1    e
+1  d
+b
+1   a
+1  c
+1  d
+b
+1 a
+1   c
+1  c
+b
+1   e
+1  d
+1 d
+b
+1   c
+1 c
+1 a
+b
+1   a
+1    e
+1  d
+b
+1    c
+1 d
+1  c
+b
+1    a
+1 c
+1     d
+b
+1     c
+1  d
+1   b
+b
+1     a
+1  c
+1a
+b
+1  a
+1 d
+1  c
+b
+
+b
+1  d
+1 c
+1  c
+b
+1  a
+1 a
+1  d
+b
+1   c
+1  c
+1 a
+b
+1   a
+1    e
+1  d
+b
+1   a
+1  c
+1  d
+b
+1 c
+1. a   a
+#3  d
+x  c
+b
+1  d
+1    a
+1      ///a
+.
+b
+b
+
+e

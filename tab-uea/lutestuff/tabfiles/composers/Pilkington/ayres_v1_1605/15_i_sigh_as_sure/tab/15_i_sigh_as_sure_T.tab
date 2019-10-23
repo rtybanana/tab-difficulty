@@ -1,0 +1,199 @@
+-C
+-t
+-f
+{15. I sigh as sure/15. I sigh as sure}
+b
+c
+0 cc e
+1b
+1 a
+b
+1c d e
+1  a
+1  c
+1b
+b
+1 ca e
+1  cd
+1 caa
+1 a
+b
+1    e
+1 cc
+1 cc
+1    c
+b
+1    b
+1 ca
+1 d  c
+1  f
+b
+0 cc e
+1 cc e
+1 cde c
+b
+1 cc e
+1   d
+1  def
+1 a
+b
+#2 cc e
+x  d
+x  c
+x  a
+1 cc
+1    e
+b
+
+b
+0c aa
+1 d
+1c   c
+b
+0bc  e
+1cc   c
+1  f
+b
+0c de
+1  a
+1 e  c
+b
+0aacc
+1aa
+1 cd a
+b
+1 ea c
+1a c  e
+1a d  c
+1 ea
+b
+0aacc
+0     a
+b
+0.acd a
+1 cc e
+b
+1 cd  c
+1 c
+1  hg e
+#2  g
+x   e
+b
+0 ccde
+0  c
+b
+0. c de
+1  c
+b
+.
+1 a
+1     e
+1    c
+1 da
+b
+
+b
+1 cd  c
+1    e
+0 cde
+b
+1 cc
+1    e
+0 ccd
+b
+#2   e
+x  d
+x d
+x c
+#2  aa
+x c
+x  d
+x a
+b
+0 cc e
+0 cc
+b
+0
+1.ccd  c
+2  f
+b
+0bc  e
+1  c
+1  d  c
+b
+0 cc e
+1  def
+1 a
+b
+#2    e
+x c
+x a
+x  d
+#2 cc e
+x  a
+x  c
+x a
+b
+0 cee
+0  ee c
+b
+
+b
+0
+1  cde
+1  cde
+b
+0 ccd
+0 ccde
+b
+0
+1 ccd
+1 ccd
+b
+1.fc e
+2 e
+0egh e
+b
+0
+1ac  e
+1ac
+b
+1acd a
+1acd
+1ccd  c
+1   e
+b
+1    e
+1 ghg
+#2 cc e
+x a
+x  d
+x  c
+b
+0. cd  c
+1 cc  b
+b
+1 c e c
+1  c
+1 cd
+1   e
+b
+A1
+0 ccde
+0  c
+b
+A1
+A2
+0. c de
+1  c
+.
+b
+b
+
+b
+A2
+Y ccde
+b
+b
+
+e

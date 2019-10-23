@@ -1,0 +1,575 @@
+-C
+-t
+-f
+{70. Robin/70. Robin}
+b
+1. da c
+2a
+1 da c
+b
+1. cee
+2   c
+1 aaa
+b
+1f   e
+1c  a
+1haa  h
+b
+1ccee
+0     c
+b
+b
+2. da c
+3 c
+#2 a
+xc
+#2 da c
+x a
+b
+2 cee
+#3 d
+xa
+#2c
+x   c
+2  aa
+#3c
+xe
+b
+#2f
+x    e
+2c  a
+#3e
+xf
+#2h
+x     h
+b
+1ccee
+0     c
+b
+b
+
+b
+#2cef c
+x    a
+#2h    e
+x f
+#2f    c
+x e
+b
+1eff  a
+#2    e
+xa
+#2cdda
+xe
+b
+1f   e
+#2    a
+xe
+#2caa c
+x    b
+b
+1. da c
+2 c
+1 ab
+b
+2.f a
+3   c
+#2   a
+xe
+#2c
+x    e
+b
+#2 da c
+x   a
+#2  d
+xa   e
+#2c  a
+x d
+b
+#2aab
+x   c
+#2 cee
+x df
+#2 c
+x  e
+b
+
+b
+#2    c
+x aa
+#2   b
+x    c
+1 aa
+b
+b
+#2cef c
+x    a
+#3e    e
+xf
+xh
+x f
+#3c    c
+xe
+xf
+x e
+b
+2.eff  a
+3f
+2e
+#3c   e
+xa
+#3c  a
+xa
+xc
+xe
+b
+#3fc  a
+x a
+x c
+x d
+#2 c
+xe
+2caa c
+#3    b
+xa
+b
+#3 d  c
+x c
+x d
+xa
+#2 da
+x c
+#3 ab
+x c
+x d
+xa
+b
+
+b
+#3c  e
+xe
+xf
+x   c
+#2   a
+xe
+#2c
+x    e
+b
+#2 da c
+x   a
+2  d
+#3a   e
+xd
+#3c  a
+xa
+xc
+x d
+b
+#3a b
+xc
+xd  c
+xc
+#3a b
+x d
+x c
+x a
+#3 cee
+x a
+2 c
+b
+#2    c
+x aa
+#2   b
+x    c
+1 aa c
+b
+b
+2. da c
+3    a
+#2    c
+xa   e
+#2 d a
+x   c
+b
+
+b
+#2 c e
+x  c
+#2  e
+x   c
+2 aaa
+#3    e
+x    c
+b
+#2f   e
+x   a
+#2c
+x    c
+#2h
+x     h
+b
+1cca b
+0     c
+b
+#2 da c
+xc
+#3    b
+x c
+2a
+#3    c
+xc
+2 d
+b
+#3 cee
+x  c
+x  e
+x  f
+#2  e
+x   c
+#2 aaa
+xc
+b
+#2a   e
+xf
+#3   a
+xe
+xc
+x    e
+#3    c
+xa
+2 d
+b
+1ccee
+0     c
+b
+b
+
+b
+#2cefec
+x    a
+#2h    e
+x     a
+#2f   a
+x     c
+b
+#2ec  e
+x   a
+#2   c
+x    e
+#2cd a
+x    c
+b
+2.fc e
+3   c
+#2   a
+xe
+#2c
+xa   e
+b
+#2 d  c
+x    a
+#2     d
+x c
+#2 a
+x  e
+b
+2.fc e
+3   c
+#2   a
+xe
+#2c
+xa   e
+b
+2. da c
+3    e
+#2   a
+xa
+#2c
+x    c
+b
+
+b
+2a   e
+#3   a
+x   c
+#2 c e
+x    e
+#3   c
+x  c
+2  ee
+b
+#2 a b
+x    c
+#2  bc
+x  ab
+1   bc
+b
+b
+#2caaa
+x    c
+#2h
+x   e
+#2f
+x    e
+b
+2ea c
+#3   a
+x    e
+#2    c
+x    e
+2c  a
+#3    e
+x    c
+b
+2.fc  a
+3    c
+#2    e
+x     c
+#2caa c
+x c  b
+b
+#2 da c
+x  f
+#2 c e
+x  e
+#2 af
+x    c
+b
+
+b
+#2f   a
+x   ef
+#2   c
+x    e
+#2cd a
+x    c
+b
+2. df
+3  d
+2  b
+#3a a
+x   c
+2c  a
+#3 d
+x c
+b
+2aab
+#3 c c
+x a
+#2 cee
+x df
+#2 cfe
+x  e
+b
+#2    c
+x aa
+#2   b
+x    c
+1 aa
+b
+b
+#2 da
+x    c
+#2   a
+xa   e
+#2 da c
+x a
+b
+2 ca b
+#3 d
+xa
+#2c
+x c
+#2 da c
+x a
+b
+
+b
+2f   e
+#3   a
+x   c
+#2   e
+x    e
+#2haaa
+x    c
+b
+1ccee
+0     c
+b
+b
+#2 aa  h
+xh
+#3f
+xd
+xc
+xa
+#3 d  c
+x c
+2 a
+b
+2 cd a
+#3f
+xd
+#3c
+xa
+x d
+x c
+#2 a   d
+x  f
+b
+2f
+#3  d
+x  b
+#3  a
+x   c
+x   a
+x    e
+#2     h
+xh
+b
+1gc e c
+0     c
+b
+b
+
+b
+#2cdf c
+x    e
+#2haaa
+x  c c
+#2f d e
+x  aa
+b
+#2e cc
+x  d
+#2 a
+x  c
+#2c da
+x a
+b
+#2fc  e
+x d
+#2 f  a
+x c
+#2cd  c
+x c  b
+b
+#2 da c
+x  f
+#2 c c
+x  ee
+#2 aaa
+x    c
+b
+#2fc e
+x   c
+#2   a
+x    e
+#2ca a
+x    c
+b
+2 df
+#3  d
+x  b
+#3  a
+x   c
+xa  a
+x    e
+2c   c
+#3    e
+x   a
+b
+
+b
+#3a  c
+x d
+x cb
+x a
+2f a
+#3d
+xc
+#3a
+x d
+x c
+xa
+b
+2 ef c
+#3  c
+x  e
+#3  f
+x  e
+#4  f
+x  e
+x  c
+x  e
+1  f
+b
+b
+2cdf
+#3    c
+x    a
+#2hf   e
+x     a
+2f    c
+#3ee
+xc
+b
+2e    a
+#3 a
+x  d
+#2  c
+x   c
+#2cdf
+x    c
+b
+2fc
+#3   e
+x   c
+#2   a
+x    e
+#2c  a
+x    c
+b
+
+b
+2 da
+#3   a
+x    e
+#2    c
+x c  b
+#2 a  c
+x   a
+b
+2f
+#3    e
+x    c
+#2    a
+x     e
+#2c   a
+x     c
+b
+#2 da
+x    c
+2c  a
+#3a   e
+x    c
+#2c   b
+x     c
+b
+#2aa   e
+x     a
+#2 ce  c
+x df
+#3 c   c
+x  f
+2  e
+b
+#2    c
+x aa
+#2   b
+x    c
+1 aa
+b
+b
+
+e

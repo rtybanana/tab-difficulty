@@ -1,0 +1,118 @@
+-C
+-t
+-f
+{Ricercar 14/Ricercar 14}
+b
+c
+1 d a
+#3a
+x d
+x c
+x a
+#2  da
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+#2  aa
+x  b
+x  d
+x a
+#2 b a
+x a
+x  d
+x  b
+b
+
+b
+#2  da
+x  b
+#3  d
+x  b
+x  a
+x   c
+#2   ac
+x    a
+x    c
+x    a
+b
+#2  b  d
+x     c
+x     d
+x    a
+#2  b c
+x    a
+x    c
+x    d
+b
+1  aa
+#3   c
+x   a
+x    d
+x    c
+#2  a a
+x    c
+x    d
+x   a
+b
+
+b
+#2  ac
+x   a
+#3   c
+x   a
+x    d
+x    c
+#2  a a
+x    c
+x    d
+x   a
+b
+#2  b  d
+x  a
+x  b
+x  d
+#2 ab  d
+x  d
+x a
+x c
+b
+#2 ab
+x c
+x d
+xa
+#2cdda
+xa
+xc
+xd
+b
+
+b
+#2f  a
+xc
+#3d
+xc
+xa
+xc
+2d b  d
+#3c
+xa
+#3c
+xa
+x d
+x b
+b
+2 abacd
+#3    a
+x    c
+#3    d
+x   a
+x   c
+x  a
+Y db  d
+b
+b
+
+e

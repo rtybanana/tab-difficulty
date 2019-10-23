@@ -1,0 +1,515 @@
+-C
+-t
+-f
+{L'amante segreto/L'amante segreto}
+b
+w.ac  a
+w.aa   e
+b
+wa d  c
+0 e
+w.aac  a
+b
+w.ac  a
+w.aa   e
+b
+wa d  c
+0 e
+w.aac  a
+b
+w.ac  a
+w.aa   e
+b
+w. cd  c
+w.aac  a
+b
+w.ac  a
+w.aa   e
+b
+w cd  c
+0c
+w.aac  a
+b
+w.acd a
+w.aa   e
+b
+w. cd  c
+w. aaa  a
+b
+0 cd  a
+waac
+b
+w.ac  a
+w.aa   e
+b
+
+b
+wa d  c
+0 e
+w.aac  a
+b
+w. cdca
+w. a c e
+b
+w cd  c
+0 e
+w.aac  a
+b
+w. cdca
+w. a c e
+b
+w cd  c
+0 e
+w.aac  a
+b
+w.acd a
+w.aa   e
+b
+w. dd  c
+w.aac  a
+b
+w.acd a
+w.aa   e
+b
+w.ccd  c
+w.ea   a
+b
+w. cdca
+w. a c e
+b
+w cd  c
+0 e
+w.aac  a
+b
+w.acd a
+w.aa   e
+b
+w.ccd  c
+w.ea   a
+b
+w.fcd a
+w.hf   e
+b
+
+b
+w.fc   c
+wfa   a
+0e
+b
+w.fcd a
+b
+b
+C
+wec d  /a
+b
+0ec d  /a|
+0caa   a
+b
+w
+b
+wbcc   /a
+b
+b
+w.acd a
+w.aa   e
+b
+w.ccd  c
+w.ea   a
+b
+w.fcd a
+waa   e
+0 ef
+b
+w cd  c
+0 e
+w.aac  a
+b
+w.acd a
+w.aa   e
+b
+w.ccd  c
+wfc   a
+0ea
+b
+wfc  a
+0  d
+w.aa   e
+b
+w.ccd  c
+w.ea   a
+b
+w.fc  a
+w.aa   e
+b
+
+b
+wa d  c
+0 e
+w.aac  a
+b
+w.acd a
+w.aa   e
+b
+wa d  c
+0 e
+w.aac  a
+b
+w. cdca
+b
+b
+C
+wccd  c
+b
+0ccd  c
+0acc   /a
+b
+1 da   //a
+1  c
+0acd   ///a
+b
+0acd   ///a
+#2 cdc
+x    a
+#2     e
+x ed  c
+b
+0aac  a
+0acd   ///a
+b
+0 efe  //a
+1aab
+1 ea
+b
+waac   6
+b
+0 ac  a
+0 da c
+b
+w dfe  //a
+b
+wcdf   //a
+b
+
+b
+0ccd  c
+0
+b
+1ccde
+1b c e
+1ca a
+1cc  b
+b
+1aa  c
+0cd
+1f  de
+b
+#2f aa
+xe
+1cc  b
+1cd  c
+1ccd  c
+b
+0ecc   /a
+1.ccd  c
+2     e
+b
+b
+w.acd a
+w.aa   e
+b
+w.ccd  c
+w.ea   a
+b
+w. cdca
+w. a c e
+b
+w cd  c
+0 e
+w.aac  a
+b
+w. cdca
+w a c e
+0a
+b
+w.ccd  c
+w.caa   a
+b
+
+b
+0acd  a
+w ac
+w. cdca
+b
+w.aa c e
+wa d  c
+0 e
+b
+w.aac  a
+w.acd a
+b
+w.aa   e
+wa d  c
+0 e
+b
+w.aac  a
+w. cdc  ///a
+b
+b
+C
+waac   6
+b
+1aac  a
+1 efe
+0aac
+b
+wacc   /a
+b
+0 aab  //a
+0 ea c
+b
+1
+1a e e
+1ca bc
+1    a
+b
+1aa c e
+1 ed  c
+1aac  a
+1   a  a
+b
+1acd   /a
+1adc   //a
+0acd   ///a
+b
+
+b
+1aac   4
+1ccd   5
+1ea c  6
+1cef   //a
+b
+0 efe  //a
+#2
+x e  c
+#2a   e
+xc  b
+b
+0ea c
+0fcd a
+b
+1cef c
+1a    e
+1aca a
+1 ea c
+b
+waac  a
+b
+b
+w.acd a
+w.aa   e
+b
+wa d  c
+0 e
+w.aac  a
+b
+w.acd a
+w.aa   e
+b
+wa d  c
+0 e
+w.aac  a
+b
+w.acd a
+w.aa   e
+b
+w.ccd  c
+w.ea   a
+b
+w.fcd a
+wea c e
+0a
+b
+
+b
+wa d  c
+0 e
+w.aac  a
+b
+w.acd a
+w.aa c e
+b
+w.ccd  c
+w.cad   a
+b
+wacd  a
+0 ac
+w. cdca
+b
+w. a c e
+w.c d  c
+b
+w.ea   a
+w. cdca
+b
+w. a c e
+w cd  c
+0 e
+b
+w.aac  a
+w.acd a
+b
+w.aa   e
+w.ccd  c
+b
+w.cdd   a
+w.aa   a
+b
+w.acd a
+w.aa   e
+b
+wa d  c
+0 e
+w.aac  a
+b
+w.acd a
+w.aa   e
+b
+
+b
+wa d  c
+0 e
+w.aac  a
+b
+w. cdc  ///a
+b
+b
+C
+wccd   5
+b
+0ccd  c
+0      5
+b
+0ccd  c
+0      5
+b
+0b c   /a
+0    e
+b
+0b c   /a
+0    e
+b
+0b c   /a
+0    e
+b
+0b c   /a
+0    e
+b
+0 ccd  /a
+0    e
+b
+w ca b
+b
+0 ca b
+0 dcec
+b
+0cdc   //a
+0ecc   /a
+b
+wfca   5
+b
+wccd   5
+w cd  c
+waac  a
+b
+
+b
+wacd   ///a
+0a d   /a
+wcdd   a
+0cdda
+b
+wacdc
+0 ac
+w cdca
+0aa   e
+b
+0a d  c
+w e
+waac  a
+0 ea   //a
+b
+w. ccc  /a
+w. cdc c
+b
+w fh  e
+0 eg
+wacc   /a
+0      b
+b
+w.ec   b
+w.cc   c
+b
+w.cdc c
+wc d e
+0b c
+b
+wccd  c
+0cc   a
+w.cdd   a
+b
+0 cdca
+0    c
+0    e
+0 cdca
+0    c
+0    e
+b
+
+b
+0cdda
+0   c
+0  a
+0a d e
+0ba a
+0 bd   a
+b
+b
+wabd  a
+0 ac
+b
+C
+1acd a
+1aa   e
+0ccd  c
+b
+1ea   a
+1ff  e
+#2fdaa
+x    e
+#2 daa
+x    c
+b
+#2 cdce
+x    c
+#2    e
+x    a
+#2 aaac
+x    a
+#2    c
+x     e
+b
+#2 cdca
+x    c
+#2    e
+x   a
+1abdc
+1     a
+b
+0abd   6
+0 ac
+b
+Y cdc  ///a
+b
+b
+
+e

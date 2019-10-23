@@ -1,0 +1,351 @@
+-C
+-t
+-f
+{Courante 5/Courante 5}
+b
+W   a  a
+W    d /a
+W    c //a
+W    a ///a
+b
+b
+S3
+1      ///a
+b
+0 bdc
+1      a
+b
+1. ddd
+2 b
+#2 a
+x  d
+b
+1  c
+1     a
+1   c
+b
+0  cc
+1d
+b
+1dfg d
+1      /a
+1dfg
+b
+
+b
+#2f   a
+xd
+1c
+1 ea c
+b
+1a
+1     a
+1    c
+b
+1.aacc
+2d
+#2b
+xd
+b
+1a
+#2   cd
+x  a
+1  b
+b
+#2b d  b
+xa
+1 d
+1  f  d
+b
+1a g
+#2      /a
+x d
+#2 b
+x a
+b
+
+b
+1  d  b
+1      a
+#2 a a
+x  d
+b
+1  c  a
+1      /a
+#2a d
+x a
+b
+1 b    a
+1. ac  a
+#3  d
+x a
+b
+1  d a
+1      ///a
+1    a
+b
+0  dc
+#2  d
+x a
+b
+#2 b
+x    a
+#2  d
+x  b
+#2   d
+x   c
+b
+
+b
+#2 d d  a
+x b c
+#2 a a
+x b c
+#2  d d
+x a a
+b
+#2  c  a
+x a
+#2 b
+x a
+#2  c
+x  d
+b
+#2 a
+x     a
+2   c
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+b
+#2d
+x    d
+#2c
+xd
+#2a
+x  d
+b
+
+b
+#2    a
+x  b
+#2  a c
+x   c
+2  a
+#3   c
+x  a
+b
+#2   c
+x     a
+#2   c
+x  a
+#2  c
+x  d
+b
+#2 a
+x     a
+#2   c
+xd
+#2   a
+xb
+b
+#2a
+x    d
+#2  b
+x  a
+#2  b
+x   c
+b
+
+b
+#2b    b
+xa
+#2 d
+x     d
+#2 bb
+x d
+b
+#2a
+x      /a
+#2   c
+x d
+#2 b
+x a
+b
+#2  d
+x     b
+#2      a
+x b
+#2 a a
+x  d
+b
+#2  c  a
+x  d
+#2 a
+x  c   a
+#2  d   /a
+x a    //a
+b
+
+b
+#2 bdc  ///a
+x  a
+#2 ac  a
+x  d d
+2.  c ca
+#4  a
+x  c
+b
+1  d a
+1      ///a
+1    a
+b
+0  dc
+1a
+b
+0.acdca
+b
+1cdd   a
+#2   a
+xd
+#2c
+xa
+b
+1     d
+1 dff
+1  d  c
+b
+1da   a
+1  b
+#2b d   a
+x a
+b
+
+b
+1abb   /a
+#2     a
+x d
+#2 bd  b
+x a
+b
+#2 bdca
+x  a
+#2  ba d
+x b
+#2 a
+x  d
+b
+1 bbcd
+1      /a
+1 a
+b
+1  dd b
+1      a
+#2 a a
+x  d
+b
+1  ccca
+1      /a
+1a d
+b
+1 b    a
+1. ac  a
+#3  d
+x a
+b
+
+b
+1  d a
+1      ///a
+1    a
+b
+0  dc
+1a
+b
+#2    a
+xa  c
+#2 c
+x  a
+#2  b
+x  d
+b
+#2      a
+xc
+#2  da
+xd
+#2c
+xa
+b
+#2     d
+x d
+#2 ab
+x    a
+#2     d
+x     c
+b
+
+b
+#2     a
+xd
+#2 a c
+x b
+#2b     a
+x a
+b
+#2a     /a
+xb
+#2d
+x  bc
+#2  dd
+x a c
+b
+#2 b a
+x    d
+#2     d
+x b c
+2. a a
+#4  d
+x a
+b
+#2 b
+x      /a
+#2    d
+x d
+#2 b c
+x a
+b
+
+b
+#2  d
+x     b
+#2      a
+x b
+#2 a a
+x  d
+b
+#2  c  a
+x a
+#2a
+x      a
+#2      /a
+x  d
+b
+#2bd    a
+x b
+#2aa   a
+x  d d
+#2  c c
+x d
+b
+1 cdca
+1      ///a
+1    a
+b
+0 cdc
+b
+b
+
+e

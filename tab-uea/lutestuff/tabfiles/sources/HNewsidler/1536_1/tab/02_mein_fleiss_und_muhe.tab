@@ -1,0 +1,113 @@
+-C
+-t
+-f
+{2. Mein fleiss und muhe/2. Mein fleiss und muhe}
+b
+0a \3d
+0a \3d
+b
+0\1b  a
+0\1b  a
+b
+0a  \2c
+0a  c
+b
+0 \1b\3d
+0 \1b\3d
+b
+0 \4d\1b
+0 \4d\1b
+b
+0   \2c
+0a  c
+b
+1\1b  a
+#2\1b
+xa
+1 \4d
+1 \1b \3d
+b
+1a  \2c
+1\1b  a
+0 \4d\1b
+b
+1 \1b"+\3d
+#2  \3d
+x  \1b
+1   \3d
+1 \1b \2c
+b
+1 a\1b
+1a \3d
+1   \3d"+
+1 \4d
+b
+
+b
+0a   \3d
+1    \3d"+
+1a
+b
+0\4d
+1\1b"+
+1   a
+b
+1a \3d
+1  \3d
+1a  \2c
+1  \1b
+b
+#2  \1b
+x   \3d
+1   a
+1a \3d
+1  \3d
+b
+0\4d \1b
+1\1b"+
+1   a
+b
+1a \3d
+1  \3d
+1   \2c
+1 \4d\1b
+b
+1\1b"+  \3d
+#2   \3d
+x   \2c
+#2a   \3d
+x   a
+#2   \2c
+x   \3d
+b
+1 \4d"+\1b
+#2  \1b
+x   \3d
+#2   a
+x   \2c
+#2 \4d \3d
+x  \1b
+b
+
+b
+1 \1b"+\3d
+1  \3d
+1 \4d"+ a
+1   \3d
+b
+1a  \2c
+#2   \2c
+x   \3d
+#2a \1b
+x   \2c
+1 \1b\3d
+b
+1 \4d\1b
+1  \4d\3d
+0 a \2c
+b
+w  \4d a
+b
+b
+
+e

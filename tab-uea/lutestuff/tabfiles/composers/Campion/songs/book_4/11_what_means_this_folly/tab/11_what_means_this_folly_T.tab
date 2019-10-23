@@ -1,0 +1,69 @@
+-C
+-t
+-f
+{/Thomax Campion}
+b
+c
+1 abc
+b
+1a
+1ca b
+0 abc
+b
+1 abc
+1a   d
+1 db c
+1 ddef
+b
+0. dff d
+1ddff d
+b
+0cdda
+1 ea c
+#2a b d
+x  d
+b
+0.caabc
+1 dff
+b
+.
+0ddff d
+b
+0cdda
+1aabc
+b
+1. ea c
+2    a
+1aa   d
+b
+1 cf  c
+1  e
+b
+
+b
+0 aabc
+2.  def
+3    d
+#2 d  c
+x b  a
+1 a   d
+#2 c   c
+x     a
+b
+1 aab
+1 abc a
+1 aacc
+1   b
+b
+A1
+0. acc a
+1 dff
+.
+b
+b
+A2
+w acc a
+b
+b
+
+e

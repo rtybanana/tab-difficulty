@@ -1,0 +1,100 @@
+-C
+-t
+-f
+{Courante/Courante}
+b
+1a
+b
+.
+1.ab"#d a
+2 d
+1 b"#
+b
+#2 d    a
+x b
+1. a"#   a
+#3  d
+x a
+b
+1  d
+1    a
+1      ///a
+b
+#2  d{
+x a
+#2 b
+x d
+#2a
+xc   }
+b
+1.d"#a c{
+2b     }
+1a   d
+b
+#2b  a
+xa
+1. db  d&{
+#3 b
+x d
+b
+1 b"+
+1    d
+1      /a
+b
+A1
+0 b"#bc
+1a
+.
+b
+b
+
+b
+A2
+0 b"#bc
+1i
+b
+.
+1h  f{
+#2f
+xh
+#2i
+xh     }
+b
+1f"#  d{
+1 d
+1f    }
+b
+1d  c{
+#2a
+xb
+#2d
+xa     }
+b
+1b"#  a
+1  d
+1 a
+b
+0 f    /a
+1 d    a
+b
+1 b"#
+1. a"#   a
+#3  d
+x a
+b
+1  d"x
+1    a
+1      ///a
+b
+A1
+0  dc
+1i
+.
+b
+b
+A2
+Y.  dc
+b
+b
+
+e

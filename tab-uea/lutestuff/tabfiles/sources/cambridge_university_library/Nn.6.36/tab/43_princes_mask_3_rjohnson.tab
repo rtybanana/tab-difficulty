@@ -1,0 +1,126 @@
+-C
+-t
+-f
+{43. Prince's mask 3/Robert Johnson}
+b
+c
+1  da  a
+#2 a
+x c
+1 d
+1  d
+b
+1 d a
+1ac  a
+1c  a
+#2a
+x d
+b
+#2aa   d
+xc
+xd
+xc
+1acd a
+#2 d a
+x c
+b
+#2 a c
+x  d
+1 ac  a
+1  dca
+1a
+b
+1a   a
+#2c    d
+xd
+1f    c
+1 d
+b
+#2aa   a
+xc
+xdc
+xf
+1.c     a
+2  d  a
+b
+
+b
+2. a   d
+3 c
+2. d
+3a
+2. c  a
+3  d
+2. d   c
+3a
+b
+2.c    d
+3d
+1a   a
+1 dda  a
+1   a
+.
+b
+b
+.
+1 db  d
+#2 a
+x c
+#2 d   d
+xa
+x c  a
+x d
+b
+#2 a c
+x  d
+1 ac  a
+1.  dca
+2 a
+b
+#2 c  a
+x d
+xa
+xc
+1aa   e
+#2 d  a
+x c
+b
+#2 a c
+x  d
+1 ac  a
+1.  dca
+2 a
+b
+1 c  a
+#2 a
+x  d
+1 dd  c
+#2      a
+xc
+b
+
+b
+1a d e
+#2    a
+xd
+1c  a
+#2      a
+xf
+b
+2.ddf  d
+3f
+1h
+1fc  a
+#2d
+xc
+b
+#2a
+x d
+1acd a
+1 dda
+Y      a
+.
+b
+b
+
+e

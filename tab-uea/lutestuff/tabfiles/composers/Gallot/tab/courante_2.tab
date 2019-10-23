@@ -1,0 +1,203 @@
+-C
+-t
+-f
+{Courante 2/Courante 2}
+b
+W   a  a
+W    e /a
+W    c //a
+W    a ///a
+b
+b
+2a
+#2 c
+x  c
+b
+#2  d
+x c
+2    a
+#3 d
+x c
+#2 d
+x    c
+b
+#2    e
+x  d
+1a
+2. d a
+3 c
+b
+
+b
+1 a c
+#2     a
+x a
+#2 c
+x  c
+b
+1  d  c
+1     a
+#2      a
+x ac
+b
+1      /a
+#2   c
+x  d
+#2      //a
+x  c
+b
+1  d
+#2      ///a
+x  d
+#2     e
+x a
+b
+#2      ///a
+x c
+#2   c
+x c
+#2      //a
+x d
+b
+
+b
+#2      /a
+xa
+1  d
+1  b
+b
+1      a
+#2   a
+x  a
+#2     a
+x  c
+b
+#2     c
+x  c
+#2  d
+x     c
+#2     e
+x a
+b
+#2    a
+x   c
+#2 c
+x      ///a
+#2      //a
+x d
+b
+#2      /a
+xa
+#2 d
+x  c
+#2  d
+x c
+b
+
+b
+1 a
+1     a
+1   c
+b
+0 acc
+.
+b
+b
+.
+1 a
+b
+1 acc
+#2     a
+x a
+#2 c
+x  d
+b
+#2  c
+x a
+1a
+2 d
+#3 c
+x d
+b
+1 c
+#2      ///a
+x c
+1c
+b
+1a
+1 e    //a
+1  a
+b
+
+b
+#2  c
+xa
+#2  de
+xc
+1e  c
+b
+#2   b
+xf
+#2e
+xc
+#2    e
+xa
+b
+#2  e
+x c
+#2c
+xa
+#2 e  c
+x    a
+b
+1     e
+#2 a
+xa
+#2a
+x d
+b
+1 c c  ///a
+1. a b  //a
+2 a
+b
+1 a c  /a
+1. a
+2  a   a
+b
+
+b
+1  c  a
+1  d  c
+#2     e
+x a c
+b
+1 c ca
+#2    c
+x df
+#2    e
+xa
+b
+#2   a
+x  d
+#2c
+xa
+#2 d
+x c
+b
+#2 a  c
+x    a
+#2     a
+x    c
+#2  d
+x  c
+b
+1  d
+1      ///a
+1    a
+b
+0  dc
+.
+b
+b
+
+e

@@ -1,0 +1,67 @@
+-C
+-t
+-f
+{Toy - 16/Toy - 16}
+b
+2 c
+b
+2.a   a
+3 d
+2 c
+2. d a
+3a
+2c
+b
+#2a
+x   c
+x     a
+1  dca
+2 c
+b
+#3a   a
+x d
+x c
+x a
+2 c
+#3 d a
+x c
+#3 d
+xa
+2c
+b
+#2a
+x   c
+x     a
+1  dca
+2 c
+b
+
+b
+1 ac  a
+2 cd a
+2. ac  a
+3 c
+2 d
+b
+#2a
+x   c
+x     a
+1  dca
+2 c
+b
+#2 a   a
+x a
+x c  a
+#2 a   a
+x a
+#3 c
+x d
+b
+#2a
+x   c
+x     a
+Y.  dca
+b
+b
+
+e

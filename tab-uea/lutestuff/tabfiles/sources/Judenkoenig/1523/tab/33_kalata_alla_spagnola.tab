@@ -1,0 +1,383 @@
+-C
+-t
+-f
+{33. Kalata ala Spagnola/33. Kalata ala Spagnola}
+b
+#2    a
+x  d
+#2   c
+x    a
+#2a
+x d
+b
+#2 b  a
+x a
+#2  d
+x a   a
+#2  d
+x  c
+b
+#2    a
+x  d
+#2   c
+x    a
+#2a
+x d
+b
+#2 b  a
+x a
+#2  d
+x a   a
+#3  d
+x  c
+x  a
+x  c
+b
+#2    a
+x  d
+#2   c
+x    a
+#2f
+xd
+b
+
+b
+#2f   a
+xd
+#2c
+xa   a
+#2 d
+x b
+b
+#2 a   d
+x  b
+#2   a
+x a   d
+#2d
+xc
+b
+#2a   a
+x d
+#2 b
+x a a
+#2     d
+x  d  c
+b
+#2 ac  a
+x ac
+#2   c
+x     a
+#2 ac
+x     a
+b
+#2 ab  d
+x ab
+2   a
+#3     d&+
+xa
+#3 d
+x b
+x a
+x  d
+b
+#2 ab  d
+x ab
+#2   a
+x ab  d
+#2a
+x d
+b
+
+b
+#2 b  a
+x a
+#2  d
+x a   a
+#3  d
+x  c
+x  a
+x  c
+b
+#2    a
+x  d
+#2   c
+x    a
+#2a
+x   a
+b
+#2 ab  d
+x ab
+#2   a
+x ab  d
+#2 db
+x   a
+b
+#2 ab  d
+x ab
+#2   a
+x ab  d
+#2d
+xc  a
+b
+#2a   a
+x d
+#2 b
+x a a
+#2     d
+x  d  c
+b
+#2 ac  a
+x ac
+#2   c
+x     a
+#2 ac
+x     a
+b
+#2 a a d
+x c
+#2 d
+x ab  d
+#2 d
+x c
+b
+
+b
+#2 db  d
+x c
+#2 d
+x a   d
+#2a
+x d
+b
+#2 b  a
+x a
+#2  d
+x ac  a
+#2  d
+x  c
+b
+#2    a
+x  d
+#2   c
+x  d&+ a
+#2    c
+x    d
+b
+#2  d&+a
+x    d
+#2  da
+x ac  a
+#2  d
+x  c
+b
+#2    a
+x  d&+
+#2   c
+x  d&+ a
+#2    c
+x    d
+b
+#2  d&+a
+x    d
+#2  da
+x ac  a
+#2  d
+x  c
+b
+#2    a
+x  d
+#2   c
+x    a
+#2a
+x   a
+b
+
+b
+#2 ab  d
+x ab
+#2   a
+xa b d
+#2 d  c
+x b  a
+b
+#2 ab  d
+x ab
+#2   a
+x ab  d
+#2d  c
+xc  a
+b
+#3    a
+xa
+x d
+x b
+#3 a
+x  d
+2 a a
+#2     d
+x  da c
+b
+#2 ac  a
+x ac
+#2   c
+x     a
+#2 ac
+x   c
+b
+#2 ab  d
+x ab
+#2   a
+xa b d
+#2 d  c
+x b  a
+b
+#2 ab  d
+x ab
+#2   a
+x ab  d
+#3 a
+x b
+x d
+xa
+b
+
+b
+#2 b  a
+x a
+#2  d
+x a   a
+#3  d
+x  c
+x  a
+x  c
+b
+#2  d&+ a
+x  d
+#2   c
+x    a
+#2  d
+x   c
+b
+#2c  a
+xa   d
+#2 d  c
+xa   d
+#2 d  c
+x b  a
+b
+#2 ab  d
+x ab
+#2   a
+x ab  d
+#2d  c
+xc  a
+b
+#2a   a
+x d  c
+#2 b  a
+x a a
+#2     d
+x  d  c
+b
+#2 ac  a
+x ac
+#2   c
+x     a
+#2 ac
+x     a
+b
+#2 ab  d
+x    a
+#2 d  c
+xa b d
+#2 d  c
+x b  a
+b
+
+b
+#2 ab  d
+x ab
+#2   a
+x ab  d
+#2a b d
+x d  c
+b
+#2 b  a
+x a   d
+#2  d  c
+x a   a
+#3  d
+x  c
+x  a
+x  c
+b
+#2    a
+x  d
+#2   c
+x b  a
+#2 a   d
+x  d  c
+b
+#2 ab  d
+xd
+#2c  a
+xa    d
+#2 d
+x b  a
+b
+#2 ab  d
+x b
+#2 d
+x ab  d
+#2d
+xc  a
+b
+#2a b d
+x d  c
+#2 b  a
+x a   d
+#2  d
+x     c
+b
+
+b
+#2 ac  a
+x b
+#2  d
+x ac  a
+#2  a
+x ac  a
+b
+#2 ab  d
+x b
+#2 d
+x ab  d
+#2 d
+x b
+b
+#2 ab  d
+x ab
+#2   a
+x ab  d
+#3 a
+x b
+x d
+xa
+b
+#2 b  a
+x a
+#2  d
+x a   a
+#3  d
+x  c
+x  a
+x  c
+b
+#2    a
+x  d
+2   c
+1.  dca
+b
+b
+
+e

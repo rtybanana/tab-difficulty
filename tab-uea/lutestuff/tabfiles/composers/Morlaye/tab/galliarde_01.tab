@@ -1,0 +1,203 @@
+-C
+-t
+-f
+{Gaillarde 1/Gaillarde 1}
+b
+#2 a
+x c
+1 da c
+1a d e
+b
+#2cdda
+xa
+#2c
+xd
+1cd ac
+b
+2cdda
+#3a
+xc
+#3d
+xc
+xa
+x d
+1acd a
+b
+1. ddef
+2 dd
+1   e
+b
+1 da-c
+1a d e
+1cdda
+b
+#2da c&{
+xa
+#2c
+xd }
+1cd a
+b
+
+b
+1cdda
+#2add a
+x c
+#3 d
+x c
+x a
+x c
+b
+1. ddef
+2 dd
+1   e
+b
+b
+#2 aa c
+x  e
+#2 a
+x c
+#2 da c
+xa
+b
+#2cd ac
+x    a
+#2    c
+x    e
+1cdda
+b
+#2ac  a
+x d
+1add a
+1acd a
+b
+#2 da c
+x    a
+#2     d
+x     c
+#2 abc a
+x c
+b
+
+b
+#2 da c
+xa
+1 db  d
+#2 ca  c
+x a
+b
+#2  e  c
+x a
+#2 c
+x d
+#2 caa c
+x a
+b
+1 aaac
+1 abc a
+1  ee c
+b
+#2    c
+x aa
+#2   b
+x   c
+#2 aab
+x    c
+b
+1 abc a
+1  da c
+1 aba d
+b
+#2 cdca
+x a
+#2 c
+x d
+#2 ca--c
+x a
+b
+1  def
+1 aba d
+1 cdca
+b
+
+b
+#2 dda
+x  b
+#2  a
+x   c
+1 dda
+b
+1 db c
+1 d
+1acd a
+b
+2cdda
+#3a
+xc
+#3d
+xc
+xa
+x d
+#2acd a
+x d
+b
+#2 dbac
+x     d
+#2 ddca
+x c
+#3 d
+x c
+x a
+x c
+b
+1. ddef
+2 dd
+1   e
+b
+1  da c
+1  da c
+1  da c
+b
+
+b
+#2 cdca
+x a
+#3 c
+x a
+x c
+x d
+1 cdca
+b
+1  def
+1 aba d
+1 cdca
+b
+1. ddef
+2   f
+1 ddef
+b
+1 cdca
+1 aba d
+1  da c
+b
+#2  cc a
+x  a
+#2   c
+x  a
+#2  c
+x  e
+b
+#2 a   d
+x     a
+#2 aa ec
+x   c
+1  ee c
+b
+#2    c
+x aa
+#2   b
+x   c
+1 aabc
+b
+b
+
+e

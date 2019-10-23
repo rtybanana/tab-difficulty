@@ -1,0 +1,601 @@
+-C
+-t
+-f
+{101. Dump duet/Anonymous}
+b
+c
+2.f
+3d
+#2c
+xa
+#2 d
+x c
+1 a
+b
+2.  d
+3  b
+#2  a
+x   c
+2   a
+#3    e
+x    c
+1    a
+b
+2.   a
+3   c
+#2  a
+x  b
+#2  d
+x  a
+1 a
+b
+2 d
+1f
+2d
+#2c
+x d
+1a
+b
+1 d
+#2c
+xd
+#2f
+xc
+1d
+b
+1c
+#2 d
+xf
+#3d
+xc
+xa
+x d
+1a
+b
+
+b
+1c
+#2c
+xd
+#2f
+xc
+xd
+xf
+b
+2.c
+3a
+#3c
+xd
+2f
+#3d
+xc
+xa
+x d
+1a
+b
+b
+#2 d
+xf
+2h
+#3f
+xd
+#3c
+xa
+x d
+x c
+#3 a
+x c
+x d
+xa
+b
+#3c
+xd
+#2f
+x d
+#3l
+xi
+#3h
+x l
+x i
+x h
+#3a
+x d
+2a
+b
+b
+
+b
+#2 d
+x  d
+2 a
+#3  d
+x  b
+#3  a
+x   c
+x   a
+x    d
+#3    c
+x    a
+2     d
+b
+#3   a
+x   c
+x  a
+x  b
+2  d
+#3 d
+x c
+#3 a
+x  d
+x  b
+x  a
+#3   c
+x   a
+2   c
+b
+b
+2 d
+#3 a
+x c
+#3 d
+xa
+xc
+xd
+#3c
+x d
+xa
+xc
+#3d
+xc
+xd
+xa
+b
+#2c
+xh
+xf
+xd
+2c
+#3a
+x d
+1a
+b
+1c
+#2 d
+xa
+1c
+#2 d
+xa
+b
+
+b
+2c
+#3 d
+xa
+#3c
+xd
+2f
+#3d
+xc
+xa
+x d
+1a  "#
+b
+b
+2f
+#3f
+xd
+#3c
+xa
+2 d
+2 d
+#3 d
+x b
+#3 a
+x  d
+2  b
+b
+2c
+#3c
+xa
+#3 d
+x c
+2 a
+2d
+#3d
+xc
+#3a
+x d
+2 c
+b
+#2 d
+x  a
+x  d
+x   a
+#2  a
+x   a
+x a
+x  b
+b
+#2 d
+x  a
+x  d
+x   a
+#2c
+x d
+1f
+b
+b
+
+b
+#3   a
+x   c
+x  a
+x  b
+#3  d
+x  b
+x  a
+x   c
+#3   a
+x    d
+x    c
+x    a
+#3     d
+x    a
+x    c
+x    e
+b
+#3   a
+x   c
+x  a
+x  b
+#3  d
+x  b
+x  a
+x   c
+2   a
+#3    e
+x    c
+#3    a
+x     e
+2    a
+b
+b
+2 d
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+#3   a
+x   c
+x  a
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+#3   a
+x   c
+x  a
+x  b
+#3  d
+x a
+x c
+x d
+#3a
+x d
+xa
+xc
+#3d
+xc
+xd
+xa
+b
+
+b
+#3c
+xd
+xf
+xd
+#3c
+xd
+xf
+xd
+#3c
+xa
+x d
+x c
+#3 a
+x c
+x d
+xa
+b
+#3c
+xd
+xf
+xd
+#3c
+xd
+xf
+xd
+#3c
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+b
+b
+#2c
+xf
+xf
+xf
+#2l
+x d
+x d
+x d
+b
+#2f
+x   a
+x   a
+x   a
+#2  d
+x    a
+x    a
+x    a
+b
+b
+2.f
+3e
+#2f
+xl
+2. d
+3 c
+#2 d
+xf
+b
+
+b
+2.   a
+3    e
+#2   a
+x  d
+2.    a
+3     e
+1    a
+b
+b
+#2   a
+x  d
+#3  a
+x  b
+2  d
+#3 a
+x c
+2 d
+#3a
+xc
+2d
+b
+#3c
+xa
+x d
+x c
+#3 a
+x  d
+2  b
+#3 f
+x d
+x c
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+2   a
+#3  d
+x  b
+2  a
+#3  d
+x  b
+2  a
+#3 d
+x b
+2 a
+#3  d
+x  b
+b
+
+b
+2  a
+#3  d
+x  b
+2  a
+#3  d
+x  b
+2  a
+#3   c
+x   a
+1   c
+b
+b
+2c
+#3f
+xd
+2c
+#3f
+xd
+2c
+#3l
+xi
+2h
+#3f
+xd
+b
+2c
+#3f
+xd
+2c
+#3f
+xd
+2c
+#3a
+x d
+1a
+b
+b
+#3 d
+xa
+2c
+#3c
+xd
+2f
+#3  a
+x  b
+2  d
+#3 a
+x c
+2 d
+b
+
+b
+#3c
+xa
+x d
+x b
+#3 a
+x  d
+x  b
+x  a
+#3   c
+x   a
+x    d
+x    c
+#3    a
+x     d
+x     c
+x     a
+b
+b
+2   a
+#3   c
+x  a
+2  b
+#3  a
+x  b
+2  d
+#3  b
+x  d
+#3 a
+x c
+2 d
+b
+2 d
+#3 d
+xa
+2c
+#3a
+xc
+2d
+#3c
+xd
+#3f
+xd
+xc
+xa
+b
+#2c
+xf
+#3 d
+xa
+xc
+xd
+#2f
+x d
+#3   a
+x   c
+x  a
+x  b
+b
+
+b
+#2  d
+xf
+#3 d
+xa
+xc
+xd
+2f
+#3d
+xc
+#3a
+x d
+2a
+b
+b
+#3c
+xa
+x d
+xa
+#3c
+xd
+2f
+#2c
+x d
+xh
+xf
+b
+#3c
+xa
+x d
+xa
+#3c
+xd
+2f
+#2c
+x d
+xa
+x c
+b
+#3 d
+x b
+2 a
+#3 a
+x  d
+2  b
+#3f
+xd
+2c
+#3c
+xa
+2 d
+b
+
+b
+#3i
+xh
+xf
+x i
+#3 h
+x f
+x h
+x i
+#3d
+xc
+xa
+x d
+#3 c
+x a
+x d
+x c
+b
+Y ddef
+b
+b
+
+e

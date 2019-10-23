@@ -1,0 +1,218 @@
+-C
+-t
+-f
+{/}
+b
+0   c
+b
+w   b
+0   a
+b
+w    e
+0    d
+b
+w    c
+0     d
+b
+0    a
+0    c
+0      //a
+b
+waab  a
+0aabc
+b
+wcadb
+0caca
+b
+0aa  e
+0  d
+0a d d
+b
+w edec
+0aa   d
+b
+0aba a
+0aaa c
+0 e    //a
+b
+waab  a
+0aabc
+b
+0c db
+0 a
+0caaa
+b
+
+b
+0aa \4f\3e
+0 \2e\1d
+0a \2d&{ \1d&(
+b
+w edec
+0aa   \2d
+b
+0aba a
+0 efec
+0      //a
+b
+0aab  a
+0  de
+0  bc
+b
+wcadb
+0caca
+b
+0aa  e
+0  d
+0a d d
+b
+w edec
+0aa   d
+b
+0aba a
+0aaa c
+0 e    //a
+b
+waab  a
+0abbc
+b
+0cbdb
+0 a
+0caaa
+b
+0aa fe
+0 ed
+0a d d
+b
+w edec
+0aa   d
+b
+
+b
+0aba a
+0 efec
+0      //a
+b
+waab  a
+0aabc
+b
+0\4da\3d\1b
+0c\2b
+0\1caaa
+b
+waa \4f\3e
+0a \3d&{ \2d
+b
+0 \4ed \2c
+0  \1b
+0aa   \3d
+b
+0cbd a
+0daa c
+0 ede  //a
+b
+0aa\1b  a
+0 \2b&{\4d\1b
+0ab&}d\3c
+b
+wcaab
+0caaa
+b
+0aa \4f\3e
+0  \1d
+0a \3d&{ \2d&(
+b
+0 \4ed c
+0  \1b
+0aa   \3d
+b
+0aba a
+0aab c
+0 ede  //a
+b
+waab  a
+0aabc
+b
+
+b
+0\4da\3d\1b
+0\2c
+0caaa
+b
+0ca  \4e
+1a\2c\3d
+1 \4e\1b
+1a \3d\4e\2d
+1   \1c
+b
+0 \4e\3d \2c
+0  \1b
+0aa   \3d
+b
+0aba a
+0aab c
+0 e    //a
+b
+0aab  a
+0\2cb\3db
+0   \1c&{
+b
+wca b
+0ca a
+b
+0aa \4f\3e
+0  \1d
+0a \3d&{ \2d
+b
+0\2c\4dd \1c
+0 a\1b
+0aa   \3d
+b
+0aba a
+0aab c
+0 ede  //a
+b
+waa\1b  a
+0\4da \2c
+b
+b
+0da \1b
+0\2c
+0ca a
+b
+
+b
+0ca  \4e
+0a \3d
+0    \2d
+b
+0 \4e\2d c
+0  c
+0aa   \2d
+b
+0aab a
+0 edec
+0 \2d\4f&{\3e  //a
+b
+0 df\3f a
+0 c}
+0 bdc
+b
+w aab
+0 aaa
+b
+0aa \3f\1e&{
+0  \2e&(
+0a d&) d&}
+b
+0 edec
+0  c
+0aab  d
+b
+0aba a
+0 ea c
+0      //a
+b
+b
+
+e

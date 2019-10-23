@@ -1,0 +1,468 @@
+-t
+-f
+{Grizzly/George Botsford (1910)}
+b
+c
+#2f d
+xe
+2f
+1a e{
+2 e
+1a }c
+b
+#2c  b
+xb
+2c
+1 a\2d
+2 \1c
+#2 \3d
+x \4e
+b
+#2a c{
+x e
+2a
+1 c}c
+2 b
+1 c c
+b
+1  dca
+1     a
+1     c
+1     e
+b
+b
+
+b
+.
+#2 b  a
+x c
+xc d
+x b
+#2 c   a
+xc
+x bd
+x c
+b
+#2 d  c
+xc
+x  c
+xc
+#2     a
+x d
+x cc
+x a
+b
+#2 d  c
+xc
+x  c
+xc
+#2     a
+x d
+x cc
+x a
+b
+#2 c  a
+xc
+x  d
+xc
+1     a
+1 cd
+b
+
+b
+#2 b  a
+x c
+xc d
+x b
+#2 c   a
+xc
+x cd
+x b
+b
+#2 a   a
+xe
+x  c
+xe
+#2    c
+xa
+x e
+x c
+b
+1c   e
+2b
+1c d
+2 a
+1e
+b
+#2ad   a
+x     c
+x     e
+x     a
+#2     c
+x     e
+x     c
+x     a
+b
+
+b
+#2 b  a
+x c
+xc d
+x b
+#2 c   a
+xc
+x bd
+x c
+b
+#2 d  c
+xc
+x  c
+xc
+#2     a
+x d
+x cc
+x a
+b
+#2 d  c
+xc
+x  c
+xc
+#2     a
+x d
+x cc
+x a
+b
+#2 c  a
+xc
+x  d
+xc
+1     a
+1 cd
+b
+
+b
+#2f d
+xe
+2f
+1a e{
+2 e
+1a }c
+b
+#2c  b
+xb
+2c
+1 a\2d
+2 \1c
+#2 \3d
+x \4e
+b
+#2a c{
+x e
+2a
+1 c}c
+2 b
+1 c   a
+b
+A1
+1  dca
+1     a
+1     c
+1     e
+.
+b
+A2
+1  dca
+#2  d
+x a
+#2 c
+x d
+xa
+xb
+b
+b
+
+b
+.
+1c d
+#2b c
+xc d&{
+#2    a
+xb c&}
+1c d
+b
+1\1d\2e\3f
+#2  f
+x e
+#2\1c
+x  \2d
+x \4e
+x\1c
+b
+#2 acc
+x c
+x d
+x a
+#2 c
+x d
+x c
+x a
+b
+#2a\3d\2c  a
+x\1c
+x\4e
+xa
+#2\1c
+x\4e
+x\1c
+x\1b
+b
+
+b
+1a   a
+#2 e e
+x f&{ f&(
+#2     a
+x e&} e&)
+1 f f
+b
+1cc  a
+#2  d
+x c
+#2a    a
+x d
+x cd
+x a
+b
+#2  d   a
+x a
+x d
+x  d
+#2 a
+x d
+x a
+x  d
+b
+#2 dda
+xa
+xc
+x d
+#2a
+xc
+xa
+x d
+b
+
+b
+1c d
+#2b c
+xc d&{
+#2    a
+xb c&}
+1c d
+b
+1\1d\2e\3f
+#2  f
+x e
+#2\1c
+x  \2d
+x \4e
+x\1c
+b
+#2d    a
+x e
+1ab
+#2   c
+x e
+1 ab
+b
+1\4h  \1f
+1 a
+1\4g  \3g
+1 \1d
+b
+#2f  a
+xc
+xd
+xe
+#2f
+x d
+xa
+xb
+b
+
+b
+#2c
+x d
+x a
+x d
+#2  d&{
+x d
+x c
+x a}
+b
+#2c   a
+xb
+xc
+xf
+#2    a
+xc
+1acd
+b
+A1
+1 dda
+#2  d
+x a
+#2 c
+x d
+xa
+xb
+.
+b
+A2
+1 dda
+#2  a
+x  b
+#2  c
+x  d
+x  e
+x a
+b
+
+b
+#2 b  a
+x c
+xc d
+x b
+#2 c   a
+xc
+x bd
+x c
+b
+#2 d  c
+xc
+x  c
+xc
+#2     a
+x d
+x cc
+x a
+b
+#2 d  c
+xc
+x  c
+xc
+#2     a
+x d
+x cc
+x a
+b
+#2 c  a
+xc
+x  d
+xc
+1     a
+1 cd
+b
+
+b
+#2 b  a
+x c
+xc d
+x b
+#2 c   a
+xc
+x cd
+x b
+b
+#2 a   a
+xe
+x  c
+xe
+#2    c
+xa
+x e
+x c
+b
+1c   e
+2b
+1c d
+2 a
+1e
+b
+#2ad   a
+x     c
+x     e
+x     a
+#2     c
+x     e
+x     c
+x     a
+b
+
+b
+#2 b  a
+x c
+xc d
+x b
+#2 c   a
+xc
+x bd
+x c
+b
+#2 d  c
+xc
+x  c
+xc
+#2     a
+x d
+x cc
+x a
+b
+#2 d  c
+xc
+x  c
+xc
+#2     a
+x d
+x cc
+x a
+b
+#2 c  a
+xc
+x  d
+xc
+1     a
+1 cd
+b
+
+b
+#2f d
+xe
+2f
+1a e{
+2 e
+1a }c
+b
+#2c  b
+xb
+2c
+1 a\2d
+2 \1c
+#2 \3d
+x \4e
+b
+#2a c{
+x e
+2a
+1 c}c
+2 b
+1 c   a
+b
+1  dca
+1adc  a
+0fcd a
+b
+b
+Q
+
+e

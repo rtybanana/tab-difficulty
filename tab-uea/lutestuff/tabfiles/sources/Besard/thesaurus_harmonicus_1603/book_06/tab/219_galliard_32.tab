@@ -1,0 +1,194 @@
+-C
+-t
+-f
+{219. Galliard 32/219. Galliard 32}
+b
+#3 acc e
+x  e
+2 a
+#3 cdca
+x e
+2a
+#3 efec
+x f
+2c
+b
+2aac  a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+1   c
+b
+#3acd e
+x e
+2a
+#3cdda
+xe
+2f
+#3e    a
+xf
+2h
+b
+2fcd a
+#3e
+xc
+#3a
+x d
+x c
+x a
+1  d
+b
+
+b
+#3ffhh
+x k
+xf
+xh
+#3k
+xf
+xh
+xk
+#2h  g
+xffhh
+b
+3ea c
+#4a
+xc
+#4e
+xa
+xc
+xe
+#2f
+xea c a
+#2c    c
+xa  c e
+#3    a
+x  c
+x  a
+x   c
+#3    c
+x f
+x e
+x c
+#2cefec
+x  d
+b
+2aac  a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+1   c
+.
+b
+b
+.
+#2fcd  c
+xe
+1ccd  c
+1ecc e
+b
+
+b
+1fc e c
+1ecc e
+2cdda
+#3a
+xc
+#3a
+x d
+x c
+x a
+#2 cdca
+x a  c
+x cf  c
+x  e
+b
+#2    c
+x ef
+#2   e
+x f
+1 efec
+.
+b
+b
+.
+#3    a
+x  c
+x  d
+x a
+#2 c
+x    c
+#2    e
+x   a
+b
+#2aac  a
+x c
+#3 d
+x c
+x d
+xa
+#2ccd  c
+xe
+2fc e
+#3e
+xc
+#3    e
+x h
+x g
+x e
+#2 ghge
+x  f
+b
+#2     c
+xcce
+#2   e
+x  f
+1cce  c
+b
+
+b
+#3c
+xa
+xc
+xe
+#2f
+x  d
+2   c
+#3e
+xc
+b
+#2e
+x  a
+x    e
+xa
+#2   a
+x c
+#3 a
+x   e
+x   c
+x   a
+2 adc
+#3  c
+x  a
+#2  c
+x d
+b
+2 cdca
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+Y cdca
+.
+b
+b
+
+e

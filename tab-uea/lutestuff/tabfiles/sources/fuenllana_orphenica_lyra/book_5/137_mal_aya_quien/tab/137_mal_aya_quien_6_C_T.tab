@@ -1,0 +1,580 @@
+-C
+-t
+-f
+{137. Mal haya quien/Miguel de Fuenllana}
+b
+c
+x  a  a
+b
+b
+0.f
+1f
+b
+0cd
+1c
+1fd
+b
+0da
+1c
+1 d
+b
+0ac
+1 df
+1a
+b
+1c d
+1c
+1a d
+1c d
+b
+1da
+1  d
+1 a
+1 c
+b
+0cd
+0  d
+b
+0.fh
+1fh
+b
+0df
+1cd
+1d
+b
+
+b
+1c d
+#2a
+x d
+1a
+1 cd
+b
+0 daa
+1  a
+1  da
+b
+0  b c
+1  a
+1   a
+b
+0   ce
+1   ac
+1   c
+b
+1  a a
+1  a
+1   ca
+1  a a
+b
+1  b c
+1    a
+1    c
+1    e
+b
+0  aa
+0    a
+b
+0.  de
+1  de
+b
+0  bc
+1  aa
+1  b
+b
+1f aa
+#2   c
+x   a
+1   c
+1f   e
+b
+0cd a
+1c
+1fd
+b
+
+b
+0da
+1c
+1 d
+b
+0acd
+1f
+1   f
+b
+1 dde
+1c
+1f a
+1 cd
+b
+0hdff
+1  h
+1 d
+b
+1ffh h
+#2  f
+x   h
+0effc
+b
+0fcd a
+1acd a
+1acd a
+b
+1cdda
+1acd a
+1cdda
+1f de
+b
+1da c
+1  d
+1da
+1 c
+b
+0cdda
+0  d
+b
+0.fhia
+1fhia
+b
+0dffc
+1cdf c
+1    c
+b
+
+b
+1cdda
+1 d
+1a d a
+1 c
+b
+0 dda
+1cdda
+1caaa
+b
+0abb d
+1 ddef
+1 ddef
+b
+0 dff f
+0 cdca
+b
+w dda a
+b
+w   a a
+b
+0.fd
+1fc
+b
+0da
+0c d
+b
+0ca
+0a b
+b
+0c a
+0c
+b
+0.fd
+1fc
+b
+0da
+0c d
+b
+0ca
+0a b
+b
+0c aa
+1  d
+1    e
+b
+
+b
+0  b c
+0  a a
+b
+0  a c
+0   c f
+b
+0  a  e
+0     e
+b
+0.  da
+1  d e
+b
+0  b c
+0  a a
+b
+0  a c
+0   c f
+b
+0   e e
+1  d  e
+1  d
+b
+1  f c
+1 c
+1 d
+1  f
+b
+0acd a
+1 cd
+1a
+b
+0cdda
+1f  e
+1  d
+b
+1dabc
+1  d
+1 a c
+1 c
+b
+0cd a
+0  d
+b
+
+b
+0cdda
+1cdda
+1cdda
+b
+0aabc
+1 dfec
+1 dfec
+b
+1
+1 ddef
+0 cdca
+b
+0 dda a
+1   a
+1   a
+b
+1   c
+1   a
+1   ca
+1  a a
+b
+1  b c
+1    a
+1    c
+1    e
+b
+0  aa
+0    a
+b
+0.cdda
+1cdda
+b
+0aabc
+1 dfec
+1 d  c
+b
+0 ddef
+0 cdca
+b
+0 dda a
+1  def
+1  def
+b
+
+b
+0  ff f
+1  def
+1  def
+b
+1  ff f
+1 d
+1fd ca
+1fc
+b
+0cd a a
+1c
+1fd
+b
+0da
+1c
+1 d
+b
+0acd
+1f
+1   f
+b
+1 dde
+1c
+1f a
+1 cd
+b
+0hdff
+1  h
+1 d
+b
+1ffh h
+1   h
+0effc
+b
+0fcd a
+1acd a
+1acd a
+b
+1cdda
+1acd a
+1cdda
+1f de
+b
+
+b
+1da c
+1  d
+1da
+1 c
+b
+0cdda
+0  d
+b
+0.fhia
+1fhia
+b
+0dffc
+1cdf c
+1a   c
+b
+1cdda
+1 d
+1a d a
+1 c
+b
+0 dda
+1cdda
+1caaa
+b
+0abb d
+1 ddef
+1 ddef
+b
+0 dff f
+0 cdca
+b
+w dda a
+b
+w   a a
+b
+0.fd
+1fc
+b
+0da
+0c d
+b
+0ca
+0a b
+b
+
+b
+0c aa
+1  d
+1    e
+b
+0  b c
+0  a a
+b
+0  a c
+0   c f
+b
+0f a  e
+1 d   e
+1fc
+b
+0da
+0c d
+b
+0ca
+0a b
+b
+0c aa
+1  d
+1    e
+b
+0  b c
+0  a a
+b
+0  a c
+0   c f
+b
+0f a  e
+1f    e
+1f
+b
+0cd
+1c
+1fd
+b
+0da
+1c
+1 d
+b
+0acd
+1  d
+1a d
+b
+
+b
+0cdaa
+1  aa
+1  da
+b
+0 db c
+1  a
+1   a
+b
+1a dce
+#2  a
+x  c
+0acd a
+b
+1aacc
+1  d
+1aa c
+1  c
+b
+0acd a
+0 cd
+b
+0.cdda
+1cdda
+b
+0aabc
+1 dfec
+1 dfec
+b
+1
+1 ddef
+0 cdca
+b
+0 dda a
+1   a
+1   a
+b
+1   c
+1   a
+1   ca
+1  a a
+b
+1  b c
+1    a
+1    c
+1    e
+b
+
+b
+0  aa
+0    a
+b
+0f a
+1  d
+1f
+b
+0da
+1cd
+1a
+b
+0cdd  e
+1add a
+1 c
+b
+0 db c
+1  aa
+1   a
+b
+0f aa
+1   c
+1f   e
+b
+0cd a
+1c
+1fd
+b
+0da
+1c
+1 d
+b
+0acd
+1f
+1   f
+b
+1 dde
+1c
+1f a
+1 cd
+b
+0hdff
+1  h
+1 d
+b
+
+b
+1ffh h
+1   h
+0effc
+b
+0fcd a
+1acd a
+1acd a
+b
+1cdda
+1acd a
+1cdda
+1f de
+b
+1dabc
+1  d
+1 a
+1 c
+b
+0cdda
+0  d
+b
+0.fhia
+1fhia
+b
+0dffc
+1cdf c
+1a   c
+b
+1cdda
+1 d
+1a d a
+1 c
+b
+0 dda
+1cdda
+1caaa
+b
+0abb d
+1 ddef
+1 ddef
+b
+0 dff f
+0 cdca
+b
+
+b
+0 dda a
+0cdda
+0caaa
+b
+wabb d
+1 ddef
+1 ddef
+b
+0 dff f
+1 ddca
+1   a
+0 cdca
+b
+w. dda a
+b
+Y.
+b
+b
+
+e

@@ -1,0 +1,87 @@
+-C
+-t
+-f
+{13. Climb, o heart/13. Climb, o heart}
+b
+c
+1.   c a
+2  a
+1  b
+#2 a c a
+x  d
+b
+0 aabc
+0      /a
+b
+0
+1 abc
+1     a
+b
+0 abc
+1a a d
+1   c
+b
+0 efec
+0      /a
+b
+0
+1.da   d
+2da
+b
+0.a d a
+1 ea c
+b
+1a   d
+1   c
+#2  b
+x  d
+x abc
+x c
+b
+0 dda
+1  da  a
+1 b
+b
+1 ab  d
+1   a
+0 aba d
+b
+
+b
+.
+1
+0ddf  d
+1cd  c
+b
+0.cdaa
+1cd  c
+b
+1aa c
+1     a
+1 a
+1ab ca
+b
+0 efec
+0      /a
+b
+1     d
+1 ab
+1   a
+1  dcd
+b
+0 aa c
+1  a
+1 ab  a
+b
+1 aa   /a
+1   c
+1 aabc
+1  d
+b
+0 accca
+Y acc
+.
+b
+b
+
+e

@@ -1,0 +1,328 @@
+-C
+-t
+-f
+{Armato il cor d'admantina/Armato il cor d'admantina}
+b
+0    d /a
+0     d4
+b
+b
+w.  def 7
+b
+0  def a
+w
+b
+w. da a 7
+b
+0 da a a
+w
+b
+w.cdd   7
+b
+wcdd   a
+0da   d
+b
+C
+0cdda
+1cdda
+1da a d
+b
+1 da a a
+1      a
+1      a
+1      a
+b
+1 da a a
+1      a
+1      a
+1      a
+b
+0 da a 7
+0 da a 7
+b
+0 da a 7
+1.      5
+2      4
+b
+w.acd   ///a
+b
+
+b
+0 da a a
+w
+b
+w. da a 7
+b
+0 da a a
+w
+b
+w.cdd   7
+b
+wcdd   a
+0da a d
+b
+C
+0cdda
+1cdda
+1da a d
+b
+0cdd   7
+1      7
+1      7
+b
+1 da a a
+1      a
+1      a
+1      a
+b
+1 da a 7
+1      7
+1 da a 7
+1      7
+b
+1  def a
+1      a
+1  def a
+1      a
+b
+0. dd  c
+1 df  d
+b
+0a dca
+0      ///a
+b
+w da a a
+b
+
+b
+0 df  d
+1     d
+#2aa
+x     a
+b
+1 cdca
+#2ccd
+x     c
+1ca ac
+1da   d
+b
+0cdda
+2.da a d
+3     c
+1a bc a
+b
+2. cdca
+3     d
+1 dd  c
+2. da c
+3    a
+1 df  d
+b
+1a b d
+1    a
+1aaa c
+1 e    //a
+b
+1aab  a
+#2a b
+x      /a
+1bbd  b
+#2 d
+x      a
+b
+0da   d
+1db c  /a
+#2ab c
+x      /a
+b
+1cdd   a
+#2 dfe
+x      //a
+0aac  a
+b
+
+b
+1 cdca
+#2  de
+x     c
+1 da c
+#2 aba
+x     d
+b
+1a b d
+#2 bd
+x    a
+0cdda
+b
+0aacc
+2. cdca
+3     d
+1 dda c
+b
+2. db c
+3    a
+1 db  d
+2.a b d
+3    c
+1 bdca
+b
+1cdda
+1cdd   a
+#2 dfe
+x      //a
+1aac  a
+b
+1acd   ///a
+1 cdca
+#2  de
+x     c
+1 da c
+b
+#2 ab
+x     d
+1a b d
+#2 bd
+x    a
+#2cdda
+x      a
+b
+
+b
+1cdd   a
+1da a d
+2.da a d
+3     c
+#2da c a
+xa
+b
+2.acd a
+3     d
+1 dd  c
+2. da c
+3    a
+1 df  d
+b
+2.a b d
+3    c
+1ab  a
+0cdda
+b
+1acd a
+1cdd   a
+0
+b
+0 dff d
+0      4
+b
+0 dff d
+0      4
+b
+0 dff d
+0      4
+b
+0. df  d
+1 dd  c
+b
+0.aab  a
+1   a
+b
+0a b d
+0c
+b
+0da a d
+0      4
+b
+wda a d
+b
+wa b d
+b
+
+b
+wabd a
+b
+0aad  a
+0  c
+b
+1 cdca
+1     d
+1 dd  c
+1acb  a
+b
+0cdd   a
+0acd a
+b
+1 daa
+1    d
+1 da c
+1    a
+b
+1 db cd
+1     c
+0aab  a
+b
+0ca  c
+1aabc
+1   a
+b
+1a b d
+1    c
+1abd a
+1     d
+b
+1 dd  c
+1     a
+1cdd   a
+1      /a
+b
+1ca a  //a
+1      ///a
+0da a  4
+b
+0 db a a
+0 da a 7
+b
+
+b
+w dff  4
+b
+w efe  //a
+b
+0 aabc
+0      //a
+b
+0 aabc
+0      //a
+b
+0 efec
+0      //a
+b
+0aac  a
+0      6
+b
+0acd a
+0      ///a
+b
+0cdda
+0      a
+b
+1 cdca
+1 da
+1a b
+1 da
+b
+1 cdc  ///a
+1 a a
+1  d e
+#2 db
+x  a
+b
+1 cdca
+1 da
+1   c  ///a
+1 c
+b
+w da a a
+b
+b
+
+e

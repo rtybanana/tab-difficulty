@@ -1,0 +1,547 @@
+-C
+-t
+-f
+{6. Gigue/6. Gigue}
+b
+W   a  a
+W    d /a
+W    c //a
+W    a ///a
+b
+b
+#3
+x   c
+x   a
+x    d
+x    c
+x    a
+#2     d
+x   c
+x  a  c
+b
+#3  b  a
+x a
+x  b  c
+x   c
+xa    d
+x a
+#3 b  a
+x a
+x  d c
+x  b
+x  a d
+x   c
+b
+
+b
+#3   bc
+xc
+x e ce
+x a
+xh a g
+x h
+#3d  c
+xc
+xa  e
+x d
+x bb
+x a
+b
+#3 bd
+x df
+x bd
+x ab
+x  de
+x  bc
+#3  de
+x ab
+x bd
+x ab
+x  de
+x  bc
+b
+#3  ab
+x    d
+x    c
+x    a
+x  ab d
+x     c
+#3  bc a
+x    c
+x     d
+x     a
+x  cc
+x    c
+b
+
+b
+#3  d d
+x   c
+x    d
+x    a
+x  ee
+x    e
+#3 a  c
+x b
+x a  e
+x  d
+x  bb
+x  a
+b
+#3  bc
+x  d
+xa b
+x  a
+xc  c
+x   b
+#3d  c
+xf
+xd a
+xc
+xa b
+x d
+b
+#3 cd
+x  f
+x dd
+x   f
+xa a
+x   c
+#3c  a
+xd
+xc  c
+xa
+x da
+x b
+b
+
+b
+#3  ff
+x d
+x  f
+x   f
+xd f
+x d
+#3ab
+x     d
+x     a
+x      /a
+x    d
+x     d
+b
+#3    a
+xa
+x c
+x  d
+xf   e
+x f
+#3cd a
+x    a
+x     c
+x      a
+x   a
+x    a
+b
+#3    c
+x d
+x a  a
+x  b
+xd   c
+x d
+#3a   d
+x d
+x b a
+x a
+x  dc
+x  b
+b
+
+b
+#3  aa
+x   c
+x  ba
+x    d
+x  d c
+x    a
+#3 a   d
+x    a
+x b   d
+x     c
+x d   a
+x      a
+b
+#3a     /a
+xd
+xi     a
+xh
+xf    a
+xd
+#3c     a
+xd
+xc    a
+xa
+x d   c
+x b
+b
+#3 a   d
+x    c
+x     d
+x     a
+x abc
+x    c
+#3  d d
+x   c
+x    d
+x    a
+x  def
+x      a
+b
+
+b
+#3  b  d
+x a
+x  d
+x  b
+x  a   4
+x   c
+#3 b    ///a
+x a
+x  d   //a
+x  b
+x  a   /a
+x   c
+b
+#3   b  //a
+xc
+xa  ce
+x e
+x cab
+x a
+#3d  c
+xc
+xa a
+x d
+x cb
+x a
+b
+#3  ee
+x c
+x  e
+x   e
+xc e
+x c
+#3 df
+x  a
+x   a
+x    c
+x ef
+x   e
+b
+#3aab
+x ea
+xaab
+x ea
+xaab
+xc a
+#2da c
+x ca
+#3     c
+x a
+b
+
+b
+#3 a    //a
+x  a
+x   b  //a
+x  a
+x a    //a
+x  a
+#3  b   //a
+x   c
+x  b   //a
+x a
+xa     //a
+x  e
+b
+#3 a    //a
+xa b
+xc d
+xa b
+x ea
+x c c
+1. efe  //a
+.
+b
+b
+.
+#3
+x    c
+x    e
+x   b
+x   c
+x  a
+#3  b
+x     a
+x     c
+x     d
+x  a aU
+x    cX
+b
+#3   cd
+xa
+xc
+xd
+xf     //a
+xh
+#3if    ///a
+x  a
+xh  f
+x   h
+xda
+x b
+b
+
+b
+#3fd
+xd
+xc
+xa
+x d
+x  g
+#3  f
+x d
+xa
+xc
+xd d
+xf
+b
+#3h  f
+x a
+x b
+x d
+xa a
+xc
+#3d  c
+x  b
+x a
+xa
+xd d
+x b
+b
+#3c  a
+x  a
+x  d
+x d
+xc b
+x a
+#3a   d
+x   c
+x  b
+x b
+xa  e
+x  d
+b
+
+b
+#3 e  c
+x   b
+x  a
+x  f
+x d c
+x  c
+#3 c  a
+x    e
+x   c
+x  d
+x b a
+x  a
+b
+#3 a   d
+x  b
+x  d
+x a   d
+x b  a
+x d  c
+#3a   d
+x d  c
+xa   d
+xc  a
+xd  c
+xf  e
+b
+#3h  f
+x  de
+x ab
+x bd
+x df
+x     d
+#3a b   /a
+x     a
+x     d
+x    d
+x  a   a
+x  ba
+b
+
+b
+#3  b   4
+x a
+x d
+xd
+x  b c
+xc
+#3ab  d
+x   c
+x  b
+x b
+x    d
+x  b
+b
+#3  d e
+x c
+xa
+xf
+x  d e
+xd
+#3c  a
+x  a
+x  d
+x d
+x   a
+x  d
+b
+#3  f g
+x e
+x h
+xh
+x a
+xf
+#3 i  h
+x   f
+x  g
+xif
+x h a
+xh i
+b
+
+b
+#3a   d
+x   c
+x  d
+xfb
+x d  c
+xd
+#3 b  a
+x    d
+x   d
+xb d
+x a   d
+xa
+b
+#3 ede
+xi
+xf
+x h
+xh a g
+x h
+#3 if h
+xh
+x i
+xa
+xf  ce
+x f
+b
+#3c  a
+xf a
+xc d
+x da
+xda
+x d  c
+#3a   d
+xd  c
+xa b
+x b c
+xb d
+xf   a
+b
+
+b
+#3 e  c
+xc  b
+x ea
+x a b
+xa b
+xd     4
+#3  g   ///a
+xi
+xf
+x g
+xi  h
+xa
+b
+#3 ef
+x    c
+x    e
+x   b
+x   c
+x  a
+#3  b
+x a
+x c
+x e
+xa    c
+xc
+b
+#3d    a
+x  b
+x  d
+x a
+x b    a
+x d
+#3a     /a
+x   c
+x  a
+x  b
+x  d   //a
+x a
+b
+
+b
+#3 b    ///a
+x d
+xa   d
+x d
+x b c  4
+x a
+#3  dc  ///a
+x  b
+x  a   //a
+x   c
+x  a c
+x   b
+b
+#3   c  c
+x    c
+x     dc
+x    c
+x   c  c
+x    c
+#3    da
+x    a
+x    da
+x   c
+x  d  a
+x   b
+b
+#3   c a
+x  d d
+x  c c
+x  a a
+x   c e
+x   b c
+1.   c ec
+.
+b
+b
+
+e

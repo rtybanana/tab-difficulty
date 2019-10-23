@@ -1,0 +1,268 @@
+-t
+-f
+{Hark! The Ecch'ing Air/Hark! The Ecch'ing Air}
+b
+C
+0a\2c\3d   ///a
+0acd a
+b
+#2ac
+x  d
+#2aad
+x  \1c
+#2\1c \2d\3e
+x   a
+#2a \2d \3e
+x    a
+b
+#2\2ca\3da
+x    \1c
+#2aadc
+x  c  a
+#3acd a
+x    c
+x    a
+x    c
+#3    e
+x   a
+x    e
+x   a
+b
+#3   \1c
+x  a
+x   c
+x  a
+#3aa\2c
+x  a
+x  c
+x   \1c
+#2a\2c\3d
+x  d
+#2aad
+x  \1c
+b
+
+b
+#2\1c \2d\3e
+x   a
+#2a \2d \3e
+x    a
+#2\2ca\3da
+x    \1c
+#2aadc
+x  c  a
+b
+#2 cdca
+x da a a
+#2 adc a
+x  c
+0 \2c&{\3d\1ca
+b
+1acd a
+0      ///a
+1ac  a
+b
+1acd a
+0      ///a
+1ac  a
+b
+0.acd   ///a
+1acd a
+b
+1a \3d \4e
+#2 \4d  \1c
+x  \2c
+1fc  a
+#2ea c e
+xaU
+b
+#2a d  c
+x e
+1aac  a
+1aac c
+#2aaa   //a
+x e
+b
+#2aa\2c  a
+x   \1c
+#2   c
+x   a
+#2a \2d \3e
+x    c
+#2    a
+x  d
+b
+
+b
+#2aac
+x cd
+#2 ac
+x ede
+1a cc
+1ea   a
+b
+1fc  a
+1      ///a
+1aac   //a
+#2aaa c
+x \3e
+b
+A1
+1.aac  a
+2   c
+#2a d e
+x    a
+#2aadc
+x  c  a
+.
+b
+b
+A2
+1.aac  a
+2    c
+#2aa c
+x  a
+#2   c
+x   a
+b
+A1
+A2
+#2a \3d \4e
+x   a
+#2    e
+x    c
+1.a\2c\3d a
+2    a
+b
+.
+2.\2c\4d\3da
+3   c
+#2   a
+xa \3d \4e
+1.cda c
+2    c
+b
+
+b
+2.aacc
+3   a
+#2a \2d \3e
+x \4d\2c&{ \1c
+#2 \1cd&} a
+x a \1c \3e
+#2 \4d\3d  \1c
+x \2c\1c&U  a
+b
+1 ca   a
+1 a
+1 ccd  /a
+1a \2d \3e
+b
+#2cdda
+x  a
+#2ed  c
+xc
+#2 \3g\2f  \1e
+x    e
+#2\3c\2c  a
+x     \1c
+b
+#2c\2dc c
+x    a
+#2 \4g\2f&{  \1e
+xc d  c
+#2\1b c   /a
+x\3c\4dc&}   //a
+#2\1ccd   /a
+x\1b c&{
+b
+#2ccd  c
+x  c
+#2   \3e
+x   c
+1\3caa\1b&{
+#2
+x    \2c
+b
+2.aa\2c&{c
+3   \4e
+#2   c
+x aca
+1a d&} e
+#2
+x \2d&{\4f\1c
+b
+
+b
+#2ac\3d
+x a\1c
+#2  \2d\3e
+x\4e\2c \1c
+#2\1ca a
+xa \2d \3e
+#2 \4d\2c \1c
+x \2c\3d a
+b
+#2\4da   \2d
+x \4d\3d  \1c
+#2a \1b  a
+x   \2c
+#2 c\4e\3e
+x   c
+#2\2ca a
+x    \1c
+b
+#2dc\4f&{c
+x    \3e
+#2cce\3e
+x     c
+#2c\2df&} c
+x   \3e
+1\2ca \1b
+b
+#2aa\2c&{  a
+x   \1c
+1a d \3e
+#2\4f\1c  a
+x  d&}
+#2\1cca
+x a a
+b
+#2\4ea \1c
+x   a
+#2f\3f  \1e
+xe\2d  c
+#2f\3f  a
+xh    \1e&{
+#2f\2d&(   c&}
+xec&)   a
+b
+
+b
+#2\2ca    a
+x    \1c
+#2aacc
+x   a
+#2ff  e
+x    a
+#2fc   a
+xea c
+b
+A1
+#2fcd a
+x a
+#2  d
+xaa\1c
+1\2cca
+#2
+xa\2c  a
+.
+b
+b
+A2
+0fcd a
+0      ///a
+b
+b
+
+e

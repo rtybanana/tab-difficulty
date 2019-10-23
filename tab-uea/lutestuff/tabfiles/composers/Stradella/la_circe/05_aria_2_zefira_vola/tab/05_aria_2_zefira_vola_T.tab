@@ -1,0 +1,333 @@
+-C
+-t
+-f
+{/}
+b
+C
+#2 daa
+x      a
+x     c
+x    a
+#2 da   a
+x ab  d
+x    c
+x   a
+b
+#2 ab  d
+x   a
+xadd a
+x cd
+#2cdda
+x   a
+x  a
+x  d
+b
+2.\2c \3da
+3   c
+#2  a
+x   c
+#2 daa
+x      a
+x      /a
+x      //a
+b
+#2 cdc  ///a
+x    a
+x \4d\3d  \1c&{
+x      a
+#2 db  d&}
+x    a
+x    c
+x daa
+b
+
+b
+#2 dd  c
+x     d
+xac  a
+x      ///a
+#2cdd   a
+x   a
+x  a
+x  d
+b
+#2 daa
+x ab  d
+xadd a
+x c    ///a
+#2 da   a
+x   a
+x    e
+x   a
+b
+#2 db c
+x     d
+x    a
+x    c
+#2ab  d
+x    d
+x db c
+xcb  a
+b
+#2da   d
+x  b
+x  a
+x   c
+#2fda
+x   a
+x   c
+x  a
+b
+#2dab
+x     d
+x     c
+x     a
+#2cdd   a
+x   a
+xdd  c
+x     d
+b
+
+b
+#2a \4d \3d
+x   a
+x   c
+x db c
+#2aab d
+x    a
+xddda
+xc     a
+b
+#2da a d
+x     d
+x    c
+x   a
+#2da a d
+xab  d
+x daa
+x      a
+b
+#2 aba d
+x    a
+x     d
+x     c
+#2 ac  a
+x     c
+xaa   e
+x     a
+b
+#2a\2c\4d a
+x    \1c
+x    a
+x     \3d
+#2 dd  c
+x      a
+x     a
+x     c
+b
+#2 aba d
+x    a
+x    c
+x     d
+#2 adca
+x    c
+xa d d
+x a   d
+b
+
+b
+#2 bbca
+x     a
+xaaa c
+x e    //a
+#2aab  a
+x     c
+xaa c d
+x     a
+b
+#2a dca
+x    c
+xa d d
+xaa   d
+#2aab c
+x     a
+xaaa c
+x e
+b
+#2aabc
+x  a
+x   c
+x   a
+#2a d e
+x   a
+x    e
+x dc c
+b
+#2 cdca
+x    c
+xa d e
+x  b a
+#2 daa
+x   c
+x dde
+x    f
+b
+#2 dff
+x   e
+x cbc
+xaab
+#2 cee
+x     c
+x     a
+x      a
+b
+
+b
+#2 \3c\1b  a
+x     \2c&{
+x a \1c d&}
+x     a
+#2 cfe c
+x     a
+x ce  c
+x   e
+b
+#2 aaac
+x    e
+xca a
+x    c
+#2cabc
+x  a
+xaab
+x \4d\2b\1c
+b
+#2 \2d\4f\3e
+x   c
+x cee
+x     c
+#2 aaac
+x    a
+x     e
+x     c
+b
+#2aacc
+x  a
+x   c
+x   a
+#2a d e
+x    c
+x    e
+x  c a
+b
+#2 daa
+x   c
+x dde
+xaac
+#2acd
+x    a
+xa d e
+x    a
+b
+
+b
+#2 daa
+x      a
+x      /a
+x dc   //a
+#2 cdc  ///a
+x    a
+xa d e
+x    c
+b
+#2acd a
+x     e
+x     c
+x dd c
+#2aacc
+x   e
+x   c
+x   a
+b
+#2a d e
+x    a
+x daa
+x cdca
+#2 cdc
+x   a
+xaacc
+x     a
+b
+#2acd
+x a
+x  d
+xaac
+#2 dfe
+x   c
+x aaa
+x    e
+b
+#2 aaa
+x    c
+xa d e
+x    a
+#2 caa
+x    a
+x adc
+x  c  a
+b
+
+b
+#2 cdca
+x daa  a
+x     c
+x    a
+#2 da   a
+x ab  d
+x    c
+x   a
+b
+#2 db cd
+x      a
+xadd a
+x c    ///a
+#2 da   a
+x   a
+x  a
+x  d
+b
+#2cdda
+x   c
+x dde
+x   a
+#2acd
+x    a
+x cdca
+x      ///a
+b
+#2 c ca
+x  d
+x dde
+x   a
+#2 ab
+x     d
+x    c
+x   a
+b
+#2 dd  c
+x     d
+xadd a
+x c    ///a
+#2 da   a
+x   a
+x  a
+x  d
+b
+#2 daa
+x df  d
+x dd a
+x c    ///a
+0 da a a
+b
+b
+
+e

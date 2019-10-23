@@ -1,0 +1,124 @@
+-C
+-t
+-f
+{Gray's Inn maske/Anonymous}
+b
+c
+1. b"#dc  ///a
+2 d
+1 b"x  a
+#2 a"# a
+x  d
+b
+0.  c"#c a
+#2  cc
+x   a",
+b
+1  d d
+1 ac c
+1 b"xdca
+#2 d   d
+x     b
+b
+0.aac"#  a
+1 a
+b
+1 b"#  a
+1  d
+1 dd  b
+#2      a
+x b
+b
+2. a"#   a
+3  d
+#2  c"#
+x  a
+#2   c{
+x a   }
+x b"#  a
+x d  c
+b
+
+b
+#2a   d{
+x   c
+x (d   }
+x   a
+#2aadc
+x     a
+x  c"#{
+x d  }
+b
+0 c"#dca
+0      ///a
+.
+b
+b
+.
+1 aba d{
+1 a
+1 aba d
+#2 b   b{
+x d
+b
+1a"#    a
+#2 a
+x  d
+1  c"#  a
+#2   c
+x   a",
+b
+1.  dcd{
+2  d   }
+#2 aa c{
+x c
+x d
+x  c   }
+b
+1 b"#dca
+0      ///a
+1 b
+b
+#2 a   d&{
+x   d
+1 b c  }
+1 b a d
+1 a",
+b
+1 b"#bcd
+0      /a
+#2a
+xb
+b
+
+b
+#2d   d{
+x b
+1a"#     }
+1 db  d&{
+#2 b
+x d    }
+b
+#2a"#   a
+x  d
+1 b"#
+1 a"#   a
+#2   c{
+x  a  }
+b
+#2  c"#  a
+x   c
+x b    /a
+x      a
+1. a"#   a
+#3  d
+x a
+b
+1  d
+1    a
+Y      ///a
+.
+b
+b
+
+e

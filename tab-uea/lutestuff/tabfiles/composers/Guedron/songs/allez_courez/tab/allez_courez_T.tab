@@ -1,0 +1,115 @@
+-C
+-t
+-f
+{Allez courez/Allez courez}
+b
+0.
+b
+0
+1cdda
+b
+0cdda
+1aa  c
+b
+0 da c
+1acd a
+b
+1 \4d   c
+1  \3d
+1 db  \2d
+b
+0 da c
+1cdda
+b
+
+b
+0.acdca
+b
+b
+1aabc
+1 c c
+b
+#2 aa c
+x c
+1 d
+b
+1 daa
+1 aba d
+b
+0 daa
+b
+1 cdca
+1 daa  a
+b
+1. cd  c
+2 d
+b
+
+b
+#2 acc a
+x c
+x a   a
+x  d
+b
+0  dca
+b
+#2 dda
+xa
+1c  a
+b
+0 da c
+b
+#2 cd  c
+x d
+x a   d
+x  d
+b
+0aab  a
+b
+1 da c
+1    a
+b
+
+b
+1. aba d
+2   c
+b
+1 dda c
+#2 aba d
+x c
+b
+0 daaa a
+b
+.
+#2 aa c
+x c
+x d  c
+xa
+b
+1. cde
+2   c
+b
+1 dda
+1a d e
+b
+
+b
+1.c da
+2 a
+b
+1acd a
+1 da  c
+b
+1 a a d
+#2  d
+x  b
+b
+1 daa
+1 cdca
+b
+0 dde  a
+.
+b
+b
+
+e

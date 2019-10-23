@@ -1,0 +1,202 @@
+-C
+-t
+-f
+{33b. Tant que vivray/33b. Tant que vivray}
+b
+c
+0 d a
+1 daa
+1 abc
+b
+0 dda
+1 dda
+1 dfa
+b
+1 c  a
+1 dd
+#2aa c
+x   a
+1aa c
+b
+#2 cd a
+x  c
+x  d
+x a
+#2 cd a
+x  b
+x  a
+x   c
+b
+#2 dda
+x    e
+x   a
+x   c
+1 dda
+1 abc
+b
+#2 aa c
+x    a
+x    c
+x    e
+1 aa c
+1 aa c
+b
+1. df  d
+2 cd
+1 ab  d
+1  a
+b
+
+b
+0  dca
+1  dc
+1    a
+b
+0  def
+1 aa c
+1 cbc
+b
+#2 dda
+x  b
+x  a
+x   c
+1  def
+1 ab  d
+b
+1 aa c
+1  bac
+1  dca
+1  dca
+b
+Y  def
+b
+b
+0 d a
+1 daa
+1 abc
+b
+0 dda
+1 dda
+1 dfa
+b
+1 c  a
+1 dd
+#2aa c
+x   a
+1aa c
+b
+#2 cd a
+x  c
+x  d
+x a
+#2 cd a
+x  b
+x  a
+x   c
+b
+
+b
+#2 dda
+x    e
+x   a
+x   c
+1 dda
+1 abc
+b
+#2 aa c
+x    a
+x    c
+x    e
+1 aa c
+1 aa c
+b
+1. df  d
+2 cd
+1 ab  d
+1  a
+b
+0  dca
+1  dc
+1    a
+b
+0  def
+1 aa c
+1 cbc
+b
+#2 dda
+x  b
+x  a
+x   c
+1  def
+1 ab  d
+b
+1 aa c
+1  bac
+1  dca
+1  dca
+b
+Y  def
+b
+b
+.
+1 ab
+#2 ab
+x ab
+1 cd
+1 d a
+b
+
+b
+1 ab
+#2 ab
+x ab
+1 cd
+1 dda
+b
+#2   a
+x a
+x c  a
+x   c
+0  da
+b
+#2   a
+x a
+x c  a
+x    a
+0  da
+b
+1 ab
+#2 ab
+x ab
+1 cd
+1 d a
+b
+1 ab
+#2 ab
+x ab
+1 cd
+1 d a
+b
+.
+1 daa
+#2 daa
+x abc
+0 dda
+b
+1 daa
+#2 daa
+x abc
+1 dda
+1 cd a
+b
+1 aa c
+1  ba
+1  dca
+1  dca
+b
+Y  def
+.
+b
+b
+
+e

@@ -1,0 +1,80 @@
+-C
+-t
+-f
+{Toy - 7/Toy - 7}
+b
+1  dca
+2 a
+2. c  a
+3 a
+2 c
+1 a   a
+2  c
+b
+1  dca
+2 a
+2. c  a
+3 a
+2 c
+1 d a
+2a
+b
+2.c  a
+3a
+2c
+2.a   a
+3 d
+2 c
+1 a   a
+2  c
+b
+1  dca
+2 a
+1 c  a
+2 ac  a
+1.  dca
+b
+b
+
+b
+#2    a
+x  d
+x a
+#2 c  a
+x  d
+x c
+2. a   a
+3  d
+2  c
+b
+#2    a
+x  d
+x a
+#2 c  a
+x  d
+x c
+#2 da
+x   a
+xa
+b
+#2c
+xd
+xc
+2.a   a
+3 d
+2 c
+#2 a
+x   c
+x  c
+b
+#2    a
+x  d
+x a
+#2 c  a
+x  d
+x ac  a
+Y.  dca
+b
+b
+
+e

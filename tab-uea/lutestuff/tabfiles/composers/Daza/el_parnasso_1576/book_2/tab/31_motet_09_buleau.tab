@@ -1,0 +1,563 @@
+-C
+-t
+-f
+{Motet 9/Motet 9}
+b
+c
+w a
+b
+w a
+b
+w c
+b
+w e
+b
+0.a  c
+#2 d
+x c
+b
+0 a c
+0 c
+b
+0 ca
+0 d
+b
+0 db
+1 c
+1 a
+b
+0.acd
+1 ab
+b
+1acd
+1 e
+0 fg
+b
+0c f c
+1 e
+1 c
+b
+weef c
+b
+0ff ce
+1   c
+1d
+b
+0c da
+0  d
+b
+
+b
+0aabc
+0d
+b
+0da c
+0c  a
+b
+wac ce
+b
+0 ea c
+0    c
+b
+0a bc
+0 a
+b
+1  dc
+1 c
+0 d a
+b
+0acbc
+1 a
+1  aa
+b
+0a ece
+0   c
+b
+0c   c
+0 a
+b
+0e  c
+0 c
+b
+0f  e
+0 d
+b
+0d  f
+1 f
+1c
+b
+1a d
+1 d
+1cc
+1 a
+b
+
+b
+0ccd
+0aab
+b
+0aaa c
+1 e
+1 c
+b
+1 efec
+1 c
+1a
+1 e
+b
+0a  ce
+0   c
+b
+0.c da
+1 a
+b
+1ac c
+1 a
+1hil
+1   a
+b
+1hi  h
+1  i
+0hfff
+b
+0hhhe
+0f
+b
+0ca  c
+0ef c
+b
+1ff  a
+1d
+1df  d
+#2c
+xa
+b
+0cd  c
+0c f
+b
+0ddf
+0aa c
+b
+
+b
+0aabc
+0d bc
+b
+0dabc
+0d b
+b
+0c da
+0cd
+b
+0aabc
+0da
+b
+0cdfa
+0c   c
+b
+0fcde
+0 d
+b
+1f  a
+1 c
+1da c
+1  d
+b
+1dab
+1   a
+0cd  c
+b
+0abb d
+0  dc
+b
+1 dff d
+1    a
+1 d  c
+1    e
+b
+1 daa
+1   c
+0 cde
+b
+1 cb
+1   c
+0 a c
+b
+
+b
+0fca
+0 d a
+b
+1da c
+1  a
+1aab
+1  d
+b
+1dffc
+1d
+1h  f
+1d
+b
+0fd e
+1h h
+1  f
+b
+0  he
+0g
+b
+0haa  h
+0 d
+b
+0 ca b
+0 d  c
+b
+1 d
+1    e
+1 dfa
+1   c
+b
+0 dde
+0ha f
+b
+0l  kl
+0 h h l
+b
+0hi fh
+0 f
+b
+0   ec
+0ce  c
+b
+
+b
+0df c
+0  f
+b
+0cd  c
+0ha
+b
+1  f h
+1f
+1 i
+1 h
+b
+0dabc
+0da c
+b
+0cdda
+0  da
+b
+0dabc
+1h
+1   h
+b
+0h ffh
+0ffg a
+b
+1a  c
+1 a
+0dabc
+b
+0 dda
+0c d
+b
+0ddf  d
+1h  f
+1  h
+b
+0hd f
+0hf fh
+b
+0f de
+0 e
+b
+0dffc
+0  f
+b
+
+b
+0da c
+0 a
+b
+1h
+1 c
+1 d f
+1 a
+b
+0fcd
+1 f
+1d
+b
+1c f
+1 e
+#2 f a
+x e
+x c
+x e
+b
+0df c
+1da c
+1 c
+b
+1cdda
+1 f
+1fh
+#2   f
+x   e
+b
+1a bc
+1  d
+0dff
+b
+0cc e
+1  e
+1a
+b
+0 df c
+0a bc
+b
+1 a
+1  de
+0 dff
+b
+
+b
+0 dde
+0a bc
+b
+0c a c
+0 d
+b
+0 df
+0aa c
+b
+1c
+1 c
+0 d a
+b
+1 abc
+1  d
+1da
+1 c
+b
+1 d f
+1f
+1h
+1 f
+b
+0.fh h
+1df
+b
+0c f
+1 ef
+#2 c
+x e
+b
+0dffc
+0 a c
+b
+1aa
+1 d e
+1dd f
+#2 c
+x a
+b
+0fcde
+1 d
+1   c
+b
+
+b
+0h   f
+1  hfh
+1  f
+b
+1acd e
+1 e
+1 f
+1c
+b
+0d f c
+0cd
+b
+0db c
+0da c
+b
+1 a
+1f  e
+1h  f
+1  h
+b
+0fd e
+0df c
+b
+0c f
+0 e
+b
+0aa c
+0da
+b
+0da c
+0dc c
+b
+wcd  c
+b
+0cdf
+0    c
+b
+0 a a
+0 a c
+b
+0  de
+0hdff
+b
+
+b
+1hd
+1  de
+0hf fh
+b
+0fha
+1da b
+1c
+b
+0da c
+0hi  h
+b
+0hi f
+1fh h
+1 f
+b
+0ddf
+0 f
+b
+0c f
+0 e
+b
+0aa c
+0df
+b
+0df c
+0dffc
+b
+1cdf c
+1a   e
+1ca a
+1e  c
+b
+0fcde
+0c
+b
+0ca a
+0da c
+b
+1   c
+1 c
+0cdfa
+b
+0effc
+0ffg a
+b
+
+b
+0cdf c
+1d
+1 cd
+b
+1 ab
+1c
+0abd
+b
+0  de
+0 ed
+b
+0a bcd
+0 b c
+b
+0 b cd
+0db cd
+b
+1da a d
+1    a
+1d   c
+1    e
+b
+0c da
+0f aa
+b
+0 aaa
+1d bc
+1 c
+b
+0 dda
+0cd
+b
+wddf  d
+b
+wda   d
+b
+w dff
+b
+0 dff
+0  de
+b
+wdffc
+b
+
+b
+0dffc
+1  d
+1  b
+b
+0fhia
+0  i
+b
+0hd a
+0 d
+b
+0hd f d
+0 d
+b
+0  ff d
+0 d
+b
+0abb d
+0  b
+b
+wabd a
+b
+0.aabc
+1c
+b
+0.dabc
+1  d
+b
+1dabc
+1 b
+0 a
+b
+0da c
+0c aa
+b
+0abb d
+0d  c
+b
+0cbd a
+1a
+1  b
+b
+0  fec
+1 e
+1 c
+b
+
+b
+1 efec
+0a
+1 e
+b
+Yaa c a
+b
+b
+
+e

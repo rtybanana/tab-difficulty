@@ -1,0 +1,36 @@
+-C
+-t
+-f
+{/}
+b
+c
+w ddd  7
+b
+w ddd  a
+b
+0 \1d\3e\2e  7
+0 dde  a
+b
+0 \1d\3e\2e  7
+0 \1b\3da  a
+b
+w a\1ba \3d
+b
+w \4f\2e&{\3f  4
+b
+0 ded\3fd
+0   \4f
+b
+w cdca
+b
+w cdc  ///a
+b
+0acdc a
+0adc   6
+b
+b
+w cdc  ///a
+b
+b
+
+e

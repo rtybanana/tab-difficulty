@@ -1,0 +1,628 @@
+-C
+-t
+-f
+{Io mi son giovinetta/Io mi son giovinetta}
+b
+c
+#2 f
+xc
+1df
+1df
+1df
+b
+1df
+#2df
+xa
+#2cd
+xda
+xab
+xc d
+b
+#2 d
+xa
+x c
+x d
+#2 a
+x c
+x da
+xa  c
+b
+1c  a
+1d   c
+#2c  a
+xa
+x d
+xa
+b
+1c
+1cd
+1da
+1f d
+b
+
+b
+#2h  f
+xf
+xd
+x h
+1d
+#2c d
+xa
+b
+1 e
+1a
+1 e
+1  f
+b
+#2aa
+x  d
+x  b
+x  a
+#2d  c
+x  a
+x  b
+x  d
+b
+#2da
+x  d
+x a
+x c
+1dd
+1 d
+b
+1c  a
+1   a
+#2c  a
+x   c
+x  a
+x  b
+b
+1acd
+#2  b
+xc a
+1a
+1a
+b
+
+b
+#2a  c
+x  a
+x  b
+x  a
+1a  c
+#2   a
+x    e
+b
+1ca  c
+1    b
+0 a  c
+b
+1 a   a
+1. a
+2 a
+1aa c
+b
+1a bc
+1.a bc
+2a bc
+1a bc
+b
+1a bc
+1d  c
+1a  c
+1f  a
+b
+#2h  a
+xf
+xd
+xf
+#2h
+xf
+xd
+xc
+b
+0d  a
+1d
+1d  c
+b
+1d  c
+1.d  c
+2d  c
+1d  c
+b
+
+b
+1d  c
+1d  c
+1d  c
+1f  a
+b
+#2h  f
+xf
+x i
+xf
+#2h
+xf
+x i
+xa
+b
+#2ddb
+xc
+xa
+xc
+#2d
+xc
+xa
+x d
+b
+#2ab  d
+xc
+xd
+xc
+1a   d
+#2  d
+xa
+b
+1c  a
+1d b
+1  d
+1c
+b
+1dd   d
+1d
+#2d
+x h
+x f
+x h
+b
+
+b
+1d
+1hd f
+#2hd f
+xf
+xd
+xf
+b
+1hd f
+1h
+#2 f
+xh
+1gh
+b
+0hhi
+#2 h
+xa
+x d
+xa
+b
+#2cc
+xd
+1f
+#2a
+x d
+x c
+x d
+b
+#2a b
+xc
+xd
+xf
+#2h  f
+xf
+xh
+x i
+b
+1g a
+1h
+1g
+1  a
+b
+0hea   /a
+1  bc
+#2 a
+x  bc
+b
+
+b
+1 a
+1  bc
+1 a
+#2  b
+x   c
+b
+#2  aa
+x  b c
+x   cd
+x  a a
+#2   ac
+x   c d
+x    df
+x   a c
+b
+#2    cd
+x    e
+x   a c
+x   c a
+1  a   a
+1   c a
+b
+#2   b
+x    e
+x    c
+x    e
+1   b
+1   c
+b
+1  aa
+1  b  d
+1  aa
+1   c
+b
+1  aa
+1  aa
+#2  b
+x  b
+1 ab
+b
+1  d d
+1  b d
+0  aa
+b
+
+b
+1.  b  d
+2  aa
+#2  aa
+x  aa
+1  aa
+b
+1
+1   c
+#2   a
+x   c
+x  a
+x   c
+b
+1   a
+1   c
+#2  aa
+x    e
+x   a
+x   c
+b
+#2  a
+x  b
+2  d
+#3  b
+x  a
+#2   c
+x   a
+x   c
+x  a
+b
+#2  b
+x  d
+2 a
+#3  d
+x  b
+1  a
+1   c
+b
+0   e
+0    c
+b
+1 a  c
+1ca
+0df
+b
+
+b
+0df
+2hd
+#3f
+xd
+#2cd
+xd
+b
+2f g
+#3 i
+x h
+#2a
+xc
+2da
+#3c
+xa
+#2 d
+xa
+b
+1c d
+#2d d
+xf
+1h  f
+1d
+b
+1c  a
+1c
+#2   a
+xc
+1d  c
+b
+0c  a
+0d
+b
+#2d
+xa
+xc
+x d
+#2a
+x b
+x d
+x a
+b
+
+b
+#2 cd
+x a
+2 c
+#3 db
+x  a
+1a  c
+#2a  c
+xa a
+b
+1a b
+1a d
+1 ef
+1 e
+b
+#2af
+xc
+1df
+1df
+1a
+b
+1.cd
+2a
+#2 d
+xa
+xc
+x d
+b
+1.a
+2 d
+#2 b
+x d
+xa
+x b
+b
+1. d
+2 b
+#2 a
+x b
+x d
+x a
+b
+0 bd
+#2  d
+x a
+x b
+x d
+b
+
+b
+1a b
+0d
+#2c d
+xa
+b
+1 ef
+1a
+1 ef
+1    c
+b
+1aa c
+1     a
+1 a
+1   c
+b
+1  b
+1a  c
+1d  \2f
+1\3f
+b
+2\4h
+#3f
+xd
+#2 h
+xd
+2f
+#3d
+x h
+#2a
+xc
+b
+2da c
+#3   a
+x    e
+#2d   c
+x    e
+2  da
+#3    d
+x    c
+#2  d a
+x    c
+b
+
+b
+2  b d
+#3    c
+x    a
+#2     d
+x    a
+2d   c
+#3c
+xa
+#2 d  c
+xa
+b
+2c
+#3a
+x d
+#2 c
+x d
+2ab
+#3 a
+x  d
+#2a b
+x  d
+b
+2 a a
+#3  d
+x  b
+#2  a
+x  b
+2  d d
+#3  b
+x  a
+#2   c
+x  a
+b
+2  b c
+#3  a
+x   c
+#2   a
+x   c
+1  a a
+#2  b a
+x  d
+b
+1 a   d
+1  b
+1  aa
+1  a
+b
+
+b
+#2   a
+x  a
+1  bc
+0  aa
+b
+0   f d
+#2\4l
+x\1h
+x\2i
+x \3h
+b
+#2\3h
+x \4i\1f
+xf
+x\2c \3d
+#2\4d
+xa \1b
+xc
+x \4da
+b
+#2a \3d a
+x \4d
+2a
+#3\4c   \2c\3d
+x    a\1c
+1\4da   a
+#2da   a
+xd    c
+b
+1aa   d
+1a   a
+1 e  c
+1 e  c
+b
+#2a bc
+xc bc
+1d bc
+1d  c
+1a  c
+b
+
+b
+1.c da
+2a
+#2 d
+xa
+xc
+x d
+b
+#2ab  d
+x d
+1a
+1a
+1 b
+b
+1. d  c
+2 b
+#2 a
+x b
+x d
+x a
+b
+#2\1f \2g a
+x\3h
+1\4i
+1i
+1f
+b
+1.ha   d
+2f
+#2 i
+xf
+xh
+x i
+b
+1.\4f \2da
+2\3d
+#2\1c
+x\3d
+x\4f
+xc
+b
+1.db  d
+2c
+#2a b
+xc
+xd
+xa
+b
+
+b
+1ca  c
+1 d
+#2  f
+x c
+x d
+xa
+b
+#2cc  a
+xd
+1f
+#2  d
+x a
+x b
+x d
+b
+1a  c d
+1d
+1     a
+#2c
+xa
+b
+1 e  c
+1a
+1      /a
+1 e
+b
+waaccca
+b
+b
+
+e

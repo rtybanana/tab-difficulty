@@ -1,0 +1,703 @@
+-C
+-t
+-f
+{40. The King of Denmarks Galliard/40. The King of Denmarks Galliard}
+b
+1\2caa   /a
+1caa \1c
+1c
+b
+1caa   /a
+#2a
+x \4e
+#2 \2c
+xa
+b
+1 \4ea   /a
+#2 \2c
+x a
+1 ca  \1c
+b
+1 aa c
+0      /a
+b
+1\1caa   /a
+1\4h
+1\1c
+b
+1\2caa   /a
+#2a
+x \4e
+#2 \2c
+xa
+b
+2. \4ea   /a
+#4 \2c
+x \4e
+#2 c
+x a
+1 ca  \1c
+b
+1 aa c
+0      /a
+b
+1\4f\1daa
+1l
+1 \3l
+b
+
+b
+1.f\1daa
+2\2d
+#2\1c
+xa
+b
+#2 d
+xc
+2.addca
+3 d
+#2 c
+xa
+b
+1 daa
+0      a
+b
+#2\4l aa
+x \3l
+1 l
+1 l
+b
+1.\4f\1daa
+2\2d
+2\1c
+#3a
+xc
+b
+#3d
+xf
+xd
+xc
+#3a   a
+x d
+x c
+x a
+#3 c
+x d
+x a
+x c
+b
+#2 \3d\2d
+x   a
+0      a
+b
+
+b
+2.\1c aa
+3\2f
+2.\1ea   a
+3\2h
+2.\1g a
+3\4k
+b
+1.\2haa   /a
+2c
+#2 \3d
+xc
+b
+#2a    a
+x \3d
+#2 \2ca  \1c
+x a
+1 c
+b
+1 aa c
+0      /a
+b
+2.\1c aa
+3\2f
+2.\1e    a
+3\2h
+2.\1g a
+3\4k
+b
+1\2haa   /a
+1\4l
+1 a
+b
+2. \3da \1c
+3a
+#2\2c
+x a
+1 \2ca  \1c
+b
+1 aa c
+0      /a
+b
+1\4maa   /a
+1\1h
+1c
+b
+1 \3ea   /a
+1\1c
+1\4h
+b
+
+b
+2.\1caa   /a
+3a
+#2 \4e
+xa
+1 \2ca  \1c
+b
+1 aa c
+0      /a
+b
+#2maa   /a
+xh
+#2h
+xc
+#2c
+xh
+b
+#2haa   /a
+xc
+#2c
+x e
+#2 e
+xc
+b
+2.caa   /a
+3a
+#2 e
+xa
+1 ca  c
+b
+#2 a
+x    c
+0      /a
+b
+#2\4l aa
+xf
+1f
+1f
+b
+
+b
+2f\2daa
+#3\1c
+xd
+#3f
+xd
+xc
+xa
+2c
+#3a
+xc
+b
+#2d
+xc
+#3a   a
+x d
+x c
+x a
+#3 c
+x d
+x a
+x c
+b
+2. \3d\2da
+#4 a
+x \1c
+#4 \3d
+x c
+x d
+x c
+#4 d
+x c
+x a
+x c
+1 d
+b
+2  aa
+#3\4f
+x\2d
+2\1c
+#3f
+xd
+#2c
+x\4h
+b
+
+b
+2f\2daa
+#3c
+xd
+#3f
+xd
+xc
+xa
+2c
+#3a
+xc
+b
+#3d
+xc
+xa
+x d
+#3 c  a
+x d
+xa
+xc
+#3a
+x d
+x c
+xa
+b
+1 dda
+0      a
+b
+2.c aa
+3f
+2.e    a
+3h
+2.g a
+3k
+b
+1.haa   /a
+2c
+#2 d
+xc
+b
+#2a    a
+x d
+2. c   c
+3 a
+#2 d
+x c
+b
+1 aa c
+0      /a
+b
+
+b
+#3\1c  a
+x\3e
+x\4f
+xc
+#3\1e    a
+x\2f
+x\4h
+xe
+#3\1g a
+x\2h
+x\4k
+xg
+b
+#3 aa   /a
+x\2h
+xh
+x\1g
+#3\2h
+xc
+xc
+xa
+#3cU
+x \3d
+x d
+x \1c
+b
+#3 \3d&X
+x a
+x \2c
+x \3d
+#3 c   a
+x d
+xa
+x d
+#3 c   c
+x a
+2 c
+b
+1 aa c
+0      /a
+b
+1\1haa   /a
+1\4m
+1\2k
+b
+1\4haa   /a
+1\3g
+1\1e
+b
+1\1caa   /a
+#2a
+x \4e
+#2 \2c
+xa
+b
+
+b
+1 \4ea   /a
+1 a
+1    \1c
+b
+1 \4ea \1c&{
+1\3c
+1 \2c  b
+b
+1\4ea  c
+1\2c
+1    b&}
+b
+#2 ea c
+xc
+#2     c
+xa
+#2 c
+xa
+b
+1 ea c
+1 a
+1      /a
+b
+1\1f aa
+1\4h
+1 \3h
+b
+1\4f\1daa
+#2 d
+xf
+#2  \1d \2e
+xa
+b
+#2\1c\2d a
+x\4f
+#2    a
+xa
+#2\2f\1c
+xd
+b
+1\1c  a
+1 \2d
+1      a
+b
+
+b
+#2  aa
+x\2f
+#2f
+xf
+#2f   a
+xf
+b
+#2f a
+x   a
+#2\4h
+x\2f
+#2    a
+xd
+b
+2\1c  a
+#3a
+xc
+#3\2d
+xc
+xa
+x \2d
+#3 \1c  a
+x \2d
+xa
+x c
+b
+#2 \2d
+x   a
+0      a
+b
+2.c aa
+3f
+2.e    a
+3h
+2.g a
+3k
+b
+1.haa   /a
+2c
+#2 da c
+xc
+b
+#2a    a
+x d
+2. c   c
+3 a
+#2 d
+x c
+b
+
+b
+1 aa c
+1      /a
+1 aa
+b
+#3\1c
+x   a
+x \2d
+xc
+#3\3e
+x   c
+x c
+xe
+#3g
+x   e
+x  \4h
+xg {
+b
+#3h     /a
+x  i
+x a
+x \1c
+#3 \2d
+x\1c
+x d
+xa
+#3c
+x  \3e
+x a
+x \2c
+b
+#3 \3da c
+xa
+xc
+x a
+#3h
+x h
+x  i
+x a
+#3 c   c
+x  f
+x  e
+x c
+b
+
+b
+1 aa c
+1      /a
+1 aa
+b
+1\2caa   /a
+#2a
+x \4e
+#2 \2c
+xa
+b
+1 \4ea   /a
+#2 c
+x a
+#2 c
+xa
+b
+2. \4ea   /a
+#4 \2c
+x \4e
+#2 \2c
+x a
+1 \2ca  \1c
+b
+1 aa c
+#2      /a
+x\3e
+#2\1c
+xa
+b
+#2 \3ea   /a
+x\4e
+#2\1c
+xa
+#2 \3e
+x \1c
+b
+#2 ea   /a
+xe
+#2c
+xa
+#2 e
+xa
+b
+
+b
+2.\2caa   /a
+3a
+#2 \4e
+xa
+1 \2ca  \1c
+b
+1 aa c
+0      /a
+b
+2\1c aa
+#3\4f
+x\2d
+2c
+#3f
+xd
+2c
+#3f
+xd
+b
+2c  a
+#3a
+xc
+2 d
+#3f
+xd
+2c
+#3a
+xc
+b
+#3 d
+xa
+xc
+x d
+#3f   a
+x d
+x c
+x a
+#3 c
+xd
+xc
+xa
+b
+1cdda
+0      a
+b
+
+b
+#2  aa
+x\4f
+#2f
+xf
+#2f
+xf
+b
+#2   \1ca
+xf
+#2f
+xf
+#2f \2d
+xf
+b
+#2  aa
+xf
+2f
+#3d
+xc
+#3a   a
+xc
+xd
+xa
+b
+#2 d
+x   a
+0      a
+b
+#3\1c  a
+x  \2d
+2 a
+#3\3e  c
+x  \4f
+2 c{
+#3g  e
+x  h&}
+2 \2f
+b
+2\4haa   /a
+#3\1c
+xc
+2 \2d
+#3c
+xc
+#3 a\4fU
+x \1c
+x \2d
+x a X
+b
+
+b
+#3\3d  \1c
+x\2c
+xa
+x \3d
+#3 ca
+x d
+xa  c
+x d
+#3 ca
+x a
+2 c
+b
+#3 a
+x      /a
+x    \2cU
+x  \4d
+#3  \1b
+x  a
+x   \1b
+x   \3c X
+#3  a
+x  \3d
+x a
+x \1cU
+b
+#3\2cU a
+x \3d
+x \1c
+x a&X
+#3\1e    a
+x\4h
+x\3g
+x\1e
+#3\3g  e
+x \4h
+x \2f
+x  \4h
+b
+#3\1h     /a
+x   \3k
+x h
+x   k
+#3h
+x h
+x  \2i
+x   k
+#3h
+x \4k
+x \2i
+x \1h
+b
+
+b
+#3\2d    a
+x\4f
+xd    \1c
+xc
+#3a    \2d
+x \3d
+x \1c
+x a
+#3 c   c
+x  \4f
+x  \3e
+xa
+b
+#3 \1e\2f&U   /a
+xh
+xe
+xg
+#3h X
+x h
+x e
+x f
+1 h
+b
+b
+
+e

@@ -1,0 +1,144 @@
+-C
+-t
+-f
+{2. Ich klag den Tag/Thomas Stoltzer}
+b
+c
+0d b
+1d
+1  b
+b
+#2c  a
+xa
+xc
+xd
+1c  a
+1c  a
+b
+#2d b
+xc
+xa
+xc
+1d b
+1c  a
+b
+0a  c
+2a   d
+#3 d
+xa
+#3c
+xa
+x d
+x c
+b
+w daa
+b
+0
+#2 d a
+x b
+x d
+x a
+b
+
+b
+#2 b  a
+x a
+x b
+x d
+1 b  d
+#3 d
+x b
+x a
+x  d
+b
+w ab  d
+b
+0
+0 ab
+b
+#2  da
+x    d
+x   a
+x   c
+1  de
+1 ab
+b
+1 b c
+1 d a
+#3   c
+x d
+x c
+x a
+#2 d
+x c
+b
+w daa
+b
+0
+#2 a c
+x  d
+x a
+x c
+b
+1 d a
+1 d a
+2 b  a
+#3 a
+x b
+#3 d
+x b
+x a
+x  d
+b
+A1
+w aaac
+.
+b
+b
+
+b
+A2
+0 aaac
+0 d  c
+b
+.
+0 d  c
+1 d  c
+1 d  c
+b
+#2a  c
+x d
+xa
+xc
+#2d  c
+xc
+xd
+xa
+b
+#2c  a
+xd
+xc
+xa
+#2 d   d
+x b  a
+x a  c
+x    d
+b
+1 a a
+#2  dc
+x  b
+1  da
+1  da
+b
+A1
+0 ab  d
+0 d  c
+.
+b
+b
+A2
+w ab  d
+b
+b
+
+e

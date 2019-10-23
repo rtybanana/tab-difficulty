@@ -1,0 +1,74 @@
+-C
+-t
+-f
+{9. Il Cesarino/9. Il Cesarino}
+b
+#2 a
+x c
+b
+.
+1. da c
+2 c
+1 d
+b
+1.a   e
+2 d
+1a
+b
+1cd a
+1      a
+#2f
+xe
+b
+1.c  a
+2d
+1c
+b
+1.a   e
+2c
+1a
+b
+0 ea c
+#2 a
+x c
+.
+b
+b
+.
+1. da c
+2 c
+1 d
+b
+1.a   e
+2 d
+1a
+b
+1cd a
+1   a
+#2a
+xc
+b
+
+b
+1.d  c
+2c
+1a
+b
+1. ea c
+2a
+1c
+b
+A1
+0aacc a
+#2 a
+x c
+.
+b
+b
+A2
+0aacc a
+1   c
+b
+b
+
+e

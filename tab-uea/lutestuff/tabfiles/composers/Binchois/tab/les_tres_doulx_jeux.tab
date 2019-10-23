@@ -1,0 +1,177 @@
+-t
+-f
+{Les tres doulx jeux/Les tres doulx jeux}
+b
+1 aa c
+#2 c
+x d
+2 a
+#3  d
+x  c
+b
+1  aa
+#2c
+xa   e
+1 d  c
+b
+#2 cd
+x d
+#2 abc
+xa
+#2  a c
+x e
+b
+1.aa c
+2  b
+#2  b
+x  b
+b
+#2c a
+xc  a
+#2a   e
+x df c
+#2  f
+xc f
+b
+
+b
+#2da c
+xc
+#2  bc
+xa
+#2  a c
+x e
+b
+#2aa c
+x   c
+#2 ca
+x ab
+1a  c
+b
+#2 db c
+x c
+#2  aa
+x a
+#2   ce
+x  e
+b
+2 aa c
+1  b
+2  a
+#2  b
+x   c
+b
+#2 a a
+x d
+2a   e
+b
+#2c f
+x  f
+2 df
+1 ca
+2 ca
+b
+
+b
+#2 df
+xd
+#2  f
+xc d
+#2  bc
+xa
+b
+1c a c
+2a
+1 df
+2ac
+b
+#2 af
+xd
+#2c
+xa a
+1 df
+b
+2 de
+1 c
+1   e
+2   e
+b
+#2 da
+x c
+#2   c
+x aaa
+1  dcd
+b
+1 aa c
+#2  f
+x  f
+1 e
+b
+#2a c e
+x    e
+2a   e
+1c  a
+2c  a
+b
+
+b
+1 abc
+#2 c
+x d  c
+#2a
+xc
+b
+#2d d
+xc
+#2  b
+xa
+#2  a
+x e
+b
+1.aa c
+1.
+b
+1 db
+#2  d
+xa
+#2  b
+xa
+b
+1.c a
+2  f
+1 d
+b
+#2 cd
+xa
+#2  b
+x da
+2. c c
+3 a
+b
+1 dda
+#2 a
+x  de
+2 c
+#3 d
+xa
+b
+
+b
+1ca  c
+#2a
+x d  a
+#2 c
+x  a
+b
+#2 a c
+x  b
+#2  aa
+x a
+#2   ce
+x  e
+b
+Y. aa c
+b
+b
+
+e

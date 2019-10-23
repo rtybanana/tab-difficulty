@@ -1,0 +1,130 @@
+-C
+-t
+-f
+{22. Christ ist erstanden/22. Christ ist erstanden}
+b
+c
+0  d a
+0a   d
+b
+0 ab
+0 db
+b
+0 bd
+0 a c
+b
+w  d a
+b
+0a d
+0c  a
+b
+0d b
+0cd
+b
+0ab
+0ca
+b
+0a  c
+1
+1a  c
+b
+0f d
+0cd
+b
+0d b
+0ab
+b
+0 db
+0 bd
+b
+w a c
+b
+0  d a
+0a   d
+b
+0 ab
+0 db
+b
+
+b
+0 bd
+0 a c
+b
+w  d a
+b
+0  bc
+0  dd
+b
+w a c
+b
+0 b  a
+0a   d
+b
+1 db
+1 bd
+0 a c
+b
+w  d a
+b
+b
+
+{22. Christ ist erstanden/22. Christ ist erstanden}
+b
+S3
+1 d
+b
+0d b
+1d b
+b
+0c  a
+1cd
+b
+1d b
+0a d
+b
+0 df
+1 df
+b
+0ab
+1df
+b
+0cd
+1ab
+b
+1 db
+0 bd
+b
+0 a c
+.
+b
+b
+1 a c
+b
+1 a c
+x  b
+xa   d
+b
+1 db
+x   a
+x bd
+b
+1 ab
+0  da
+b
+0  bc
+1 b d
+b
+
+b
+1 ab
+x   c
+x b  d
+b
+1 ab
+0  da
+b
+0.  b  d
+b
+b
+
+e

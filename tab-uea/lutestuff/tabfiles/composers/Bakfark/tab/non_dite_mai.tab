@@ -1,0 +1,241 @@
+-C
+-t
+-f
+{Non dite mai/Non dite mai}
+b
+1bd a
+1bd
+1bd a
+b
+0bb d
+1f  d
+b
+0df  d
+1bd a
+b
+0acd
+1 dda
+b
+1fg a
+1fg
+1fg a
+b
+1.ff  a
+2i
+1h
+b
+1f g a
+1f g
+1ea   a
+b
+1fc  a
+1  d
+1fc  a
+.
+b
+b
+.
+1ab  d
+1ab
+1abb d
+b
+1.db  d
+2db
+1  b
+b
+
+b
+1dab  d
+#2 db  d
+x b
+#2 d
+xa
+b
+1.b da
+2bd
+1  d
+b
+#2a b d
+x a
+#2 b
+x d
+#2a
+xb
+b
+1db  d
+1   c
+1bb d
+b
+#2a
+x d
+1bb  d
+1ab  d
+b
+1bb   b
+1  d
+1bb   b
+.
+b
+b
+.
+1f  d
+1d  c
+1b  a
+b
+#2ab  d
+x a
+#2 b
+x d
+#2a   d
+xb
+b
+#2d   d
+xa
+#2d da
+xb
+#2a da
+x d
+b
+
+b
+#2ac  a
+x  c
+#2  d
+x a
+#2 b  a
+x d
+b
+#2ab  d
+x a
+#2 b
+x d
+#2a   d
+xb
+b
+#2da   d
+xb
+#2a
+x d
+#2a   b
+x d
+b
+#2 c
+x a
+#2 cd a
+x a
+#2 d
+x c
+b
+1. dda
+2 d
+1  d
+b
+2f  d
+#3d
+xf
+2d  c
+#3b
+xd
+2b  a
+#3a
+xb
+b
+
+b
+2.ab  d
+3 a
+#3 b
+x a
+x b
+x d
+#2ab  d
+xb
+b
+#2db  d
+xa
+#2d da
+xb
+#2a da
+x d
+b
+#2ac  a
+x  c
+#2  d a
+x a
+#2 b  a
+x d
+b
+#2ab  d
+x a
+#2 b  d
+x d
+#2a   d
+xb
+b
+#2da   d
+xb
+#2a   d
+x d
+#2a   b
+x d
+b
+#2 c  b
+x a
+#2 cdca
+x a
+#2 d  a
+x c
+b
+1. dda
+2 d
+1  d
+b
+
+b
+1f  d
+1d  c
+1b  a
+b
+#2ab  d
+x a
+#2 b
+x d
+#2a
+xb
+b
+1db  d
+1b da
+#2a
+x d
+b
+#2ac  a
+x  c
+#2  d
+x a
+#2 c
+x d
+b
+#2ab  d
+x a
+#2 b
+x d
+#2a
+xb
+b
+1.d    d
+2b d
+1a b
+b
+1 d d
+#2 c ca
+x a
+#2 d
+x c
+b
+1. dda
+2 d
+1  d
+b
+b
+
+e

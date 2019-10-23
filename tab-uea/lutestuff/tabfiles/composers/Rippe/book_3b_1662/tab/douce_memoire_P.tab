@@ -1,0 +1,548 @@
+-C
+-t
+-f
+{Doulce memoire/Doulce memoire}
+b
+c
+w dfecc/a
+b
+#1 dfec
+x    a
+x    c
+x    e
+b
+#1    f
+x dde
+x cdc
+x    a
+b
+1 aaac
+#2d
+xc
+#2a
+x d
+x c  c
+x a
+b
+#2c e  c
+x  f
+x  e
+x  c
+#2c f
+x  e
+#3  f
+x  e
+x  c
+x  e
+b
+
+b
+#1  f
+x    c
+x af
+x c
+b
+#1 df c
+x c
+x d  c
+xa   e
+b
+#1c da
+x    e
+x dda
+x   c
+b
+#1   e
+x cd
+xc ca
+x  a
+b
+1 hhge
+#2 g
+x e
+#2 h ge
+x g
+#3 h
+x g
+x e
+x g
+b
+#1     c
+xccd
+x   e
+x     c
+b
+
+b
+#1ccd  c
+x     c
+xccde
+xa
+b
+#1 df
+x   e
+x    c
+x c
+b
+#2 daac
+x c
+x a
+x c
+#2 d
+x a
+x c  c
+x d
+b
+#2a b  a
+xc
+xd
+xc
+#2a  c
+x d
+x c   a
+x a
+b
+#2 cd a
+x  c
+x  d
+x a
+#2 c
+x d
+xa   a
+x c
+b
+
+b
+#2 d  c
+x  d
+x  c
+x  a
+2 dc
+#3  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+#1  d
+x c  a
+x d
+x a a
+b
+#1 cdca
+x d a
+x    a
+x cd
+b
+0cddaa a
+#1 d
+x  d
+b
+0cdd   a
+0cdda
+b
+#1cdf c
+x    e
+x   a
+x   c
+b
+0\1c\1c\2d
+#1    \4e
+x\1b\2c\2c
+b
+#1cca a
+xe
+xf    c
+x  a
+b
+
+b
+#1ec ce
+xc
+0c de c
+b
+#1ccc \3e
+x   \4e
+x cce  /c
+x   \2d
+b
+#1   e
+xc    c
+xf  e
+xe
+b
+#1c de c
+xa
+x dde c
+x c
+b
+#2 da c
+x c
+x a
+x c
+#2 d
+x a
+x c  c
+x d
+b
+0aab  a
+0aab  a
+b
+
+b
+1 da c
+#2 c
+x a
+#2  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+#1  aa
+x    c
+x db
+x    c
+b
+#1    a
+x \2ca
+x \4da a\1c
+x \2c
+b
+#1 a a \3d
+x \4d
+x \2c \1c
+x a
+b
+1  eeec
+1  c
+#1  ee
+x a
+b
+0 cdca
+#1 cd
+x   c
+b
+#1    a
+x  c
+x  d
+x a
+b
+#1 cd
+x    a
+x ea
+x    c
+b
+
+b
+#1a   e
+x    c
+x    a
+xa   c
+b
+#1a   e
+xc  a
+xe  c
+x a
+b
+#1ea a
+xc
+xca  c
+x  a
+b
+#2  \4h\2ge
+x \3g
+x \4h
+x g
+#2 h
+x g
+x e
+x g
+b
+#1 h
+xcc e
+x     c
+xccde
+b
+#1 dfec
+x c
+x dfec
+xa
+b
+#1c  \2e c
+xe
+xf  e c
+xe
+b
+
+b
+#1c    c
+xa
+x da c
+x c
+b
+#1 d
+x  a c
+xcdda
+x c
+b
+#1aac
+x   c
+x ddca
+x c
+b
+1 ddac
+#2  c
+x  a
+#2 dd
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+#1  d
+x d ca
+x c
+x a a
+b
+
+b
+1 d ca
+#2 a
+x c
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+#1 d a
+xa
+xc
+xe
+b
+#1\2f  a
+x \4h
+x\4h   \1e
+x     \3h
+b
+1 hhe
+#2g
+xe
+#2h
+xg
+#3h
+xg
+xe
+xg
+b
+#1h
+x     h
+x aaac
+x  e
+b
+#1 aaac
+x c
+x daac
+x a
+b
+
+b
+1 c ca
+#2  d
+x  c
+#2  d
+x a
+x c
+x d
+b
+#2a   a
+x a
+x c
+x d
+#2a   a
+x c
+x e
+xa
+b
+#2 ea c
+x c
+x e
+xa
+#1caa
+x    c
+b
+#1    \2e
+xccc
+xccc \2e
+x \4g
+b
+#1ccde
+x     c
+xfc
+x  de
+b
+#1     c
+xea
+xc d
+xa c
+b
+
+b
+#1 daa
+x c c
+x a a
+x  d e
+b
+#1  c ca
+x  a a
+x  cc
+x    ca
+b
+#1  e ec
+x  f  a
+x  f ec
+x  e
+b
+#1 aaa
+x    c
+x aaa
+x c
+b
+#1 da c
+x c
+x da c
+xa   e
+b
+#1cdda
+xa
+#2c
+xa
+xc
+xe
+b
+#1\2f  a
+x \4h
+x\4h   \1e
+x     \2h
+b
+
+b
+1 hhe
+#2g
+xe
+#2h
+xg
+#3h
+xg
+xe
+xg
+b
+#1h
+x     h
+x aaac
+x  e
+b
+#1 aaac
+x c
+x daac
+x a
+b
+1 c ca
+#2  d
+x  c
+#2  d
+x a
+x c
+x d
+b
+#2a   a
+x a
+x c
+x d
+#2a   a
+x c
+x e
+xa
+b
+#2 ea c
+x c
+x e
+xa
+#1caa
+x    c
+b
+
+b
+#1    \2e
+xccc
+xccc \2e
+x \4g
+b
+#1ccde
+x     c
+xfc
+x  de
+b
+#1     c
+xea
+xc da
+xa c
+b
+#1 daa
+x c c
+x a a
+x  d e
+b
+#1  c ca
+x  a a
+x  fc
+x     a
+b
+#1  e ec
+x  f  a
+x  f ec
+x  e
+b
+#1 aab
+x    c
+x aab
+x   c
+b
+0 aabc
+0ca b  /a
+b
+
+b
+0aab  a
+0aab  a
+b
+#1 aa c
+x   c
+xca    /a
+x   b
+b
+#1da c
+x     a
+xda c
+xc
+b
+#1aa   a
+xd
+xca   a
+xa
+b
+#1ca b
+x    c
+xca b
+x   c
+b
+Yca bc /a
+b
+b
+
+e

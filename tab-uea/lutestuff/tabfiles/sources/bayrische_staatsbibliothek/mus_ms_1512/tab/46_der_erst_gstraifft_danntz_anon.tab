@@ -1,0 +1,343 @@
+-C
+-t
+-f
+{46. Der erst gstraifft Danntz/Anonymous}
+b
+#2  d
+x a
+#2 b
+x d
+b
+0abbcd
+1a
+b
+1abbcd
+#2    d{
+x a
+#2 b
+x d
+b
+0abbcd
+1abbcd
+b
+#2 d
+x b
+#2 a
+x  d
+#2 a
+x b
+b
+0 dbacd
+1 d
+b
+1 dbacd
+1 d
+1 c
+b
+0 dbacd
+1 dbacd
+b
+#2 a
+x c
+#2 d
+xa
+#2c
+xd
+b
+
+b
+0abbcd
+1a
+b
+1abbcd
+#2    d{
+x a
+#2 b
+x d
+b
+1abbcd
+1d
+1 d d
+b
+1 b c
+1   a
+1 a
+b
+0abbcd
+1a
+b
+1abbcd
+#2d
+xb
+#2a
+x d
+b
+1.abbcd
+2 d
+1 b
+b
+1 bbcd
+#2 d
+xa
+#2b
+xd
+b
+0aabc
+1a
+b
+1aabc
+#2 d
+x b
+#2 a
+x  d
+b
+
+b
+1  b
+1 b c
+1 a a
+b
+1  d d
+1    c
+1  c
+b
+0  dca
+1  d
+b
+1  dca
+#2  d
+x  c
+#2  d
+x a
+b
+0  dca
+1  dca
+b
+1
+#2 a
+x c
+#2 d
+xa
+b
+0 dda
+1 d
+b
+1 dda
+1 d
+1 c
+b
+1. dda
+2 c
+1 a
+b
+1  bacd
+1  d
+1 a
+b
+0  bacd
+1  b
+b
+
+b
+1  bacd
+#2 d
+x b
+#2 a
+x  d
+b
+1. abacd
+2  d
+1  b
+b
+1  bacd
+#2  d
+x a
+#2 b
+x d
+b
+1.abbcd
+2 d
+1 b
+b
+1 bbcd
+#2  d
+x a
+#2 b
+x d
+b
+1.abbcd
+2 d
+1 b
+b
+1 bbcd
+#2 d
+xa
+#2b
+xd
+b
+0aabc
+1a
+b
+1aabc
+#2 d
+x b
+#2 a
+x  d
+b
+
+b
+1  b
+1 b c
+1 a a
+b
+1  d d
+#3    c
+x  d
+x  c
+x  a
+#2  d
+x  c
+b
+0  dca
+1  d
+b
+1  dca
+#2  d
+x  c
+#2  d
+x a
+b
+0  dca
+1  dca
+b
+#2  a
+x  b
+#2  d
+x a
+#2 b
+x d
+b
+0aabc
+1a
+b
+1     a
+1aabc
+1     a
+b
+1aabc
+1     a
+1aabc
+b
+0.
+b
+b
+
+{46. Der erst gstraifft Danntz/Anonymous}
+b
+#3  d
+x a
+x b
+x d
+b
+1.abbcd
+2a
+1abbcd
+b
+1abbcd
+#2b
+xa
+#2 d
+x b
+b
+1 dbacd
+#2 d
+x b
+#2 a
+x  d
+b
+
+b
+#2  b
+x  a
+x   c
+x   a
+#2    d
+x    c
+b
+1 bdca
+#2  d
+x a
+#2 b
+x d
+b
+#2b   a
+xa
+x d
+x b
+#2 a
+x  d
+b
+1 accc
+#2     a
+x  a
+#2  b
+x  d
+b
+#2 a
+x  d
+x  b
+x  a
+#2   c
+x   a
+b
+
+b
+1 bbcd
+#2  d
+x a
+#2 b
+x d
+b
+#2b
+xa
+x d
+x b
+#2 a
+x  d
+b
+1 dbacd
+#2 d
+x b
+#2 a
+x  d
+b
+#2  b
+x  a
+x   c
+x   a
+#2    d
+x    c
+b
+1 bdca
+#2 d
+x b
+#2 a
+x  d
+b
+
+b
+#2 a
+x  d
+x  c
+x  a
+1 accca
+b
+1  dca
+1  d
+1  dca
+b
+0.  dca
+b
+b
+P
+e

@@ -1,0 +1,188 @@
+-C
+-t
+-f
+{10. Il suo saltarello /10. Il suo saltarello }
+b
+x   "+
+1abd a
+#2   c
+x d
+#2 b
+x a
+b
+1 b "+ca
+#2  d
+x a
+#2 b "+ a
+x  d
+b
+1 ab  d
+#2   a  "+
+x  a
+#2  b
+x  d
+b
+#2 a a d
+x  d   "+
+#2 a
+x c
+#2 d
+xa
+b
+1 bd a
+#2   c
+x a
+#3 b
+x a
+x b
+x d
+b
+1 bd a
+#2 a a d
+x     a
+#2   d b
+x      "+
+xa
+b
+
+b
+#2aac  "+a
+x   c
+#2aac
+x  d
+#2  c
+x  a
+b
+#2aac  a
+x   c
+#2aac
+x  d
+1aac  a
+b
+#3    d
+x a   "+
+x b
+x d
+#3a
+xc
+xd
+xc
+#3d
+xc
+xa
+x d
+b
+1abb d
+1 db c
+#2 b "+ a
+x  d
+b
+1 df "+ d
+#2   f
+x  g
+#2  f
+x  d
+b
+1 df "+ d
+#2   f
+x  g
+1 df  d
+b
+#2  d a
+x  c
+#2  d
+x a
+#2 b
+x  d
+b
+
+b
+#2  c
+x  a
+#2 acc
+x  d
+#2 a
+x  c
+b
+1  d a
+1   c
+1abb d
+b
+#3    d
+x a   "+
+x b
+x d
+#2a
+x b
+1 db c
+b
+#2abd a
+x d
+#2 b
+x a
+#2  d
+x  c
+b
+1  d  b
+2aad  a
+#3  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+1  d "+a
+#2   c
+x a  "+
+#2 b
+x d
+b
+1abb d
+#2abb
+x    d
+1 db c
+b
+
+b
+#3    a
+x a
+x b
+x d
+#3a
+xc
+xd
+xa
+#3c
+xa
+xc
+xd
+b
+#3c
+xa
+x d
+x b
+#3 a
+x  d
+x  c
+x  a
+#3  c
+x  d
+x a
+x  c
+b
+1a d a
+#2   c
+x d
+#2 c
+x a
+b
+1acd a
+1acd
+1acd a
+b
+b
+
+e

@@ -1,0 +1,715 @@
+-C
+-t
+-f
+{304. Walsingham variations/Edward Collard}
+b
+#2b
+xd
+1fg d
+1df  d
+b
+1bbdd
+1 de
+1 bd
+b
+#2 gdd
+xd e
+#2f g
+x  d
+#2   fd
+x f
+b
+1bbd  b
+#2   d
+x  e
+#2 b
+x d
+b
+#2ab  d
+xb
+1d
+#2fc  a
+xd
+b
+1bd a
+#2 dd
+x   c
+#2  dd
+x ab
+b
+#2acd
+xcd
+1df c
+#2ccd
+xa
+b
+
+b
+1cd a
+0 dda  a
+b
+b
+2. gdd
+3d
+#2f
+x g
+#2d   d
+x f
+b
+2.bbd  b
+3  b
+#2  d
+x   d
+#2 de
+x  b
+b
+2 gdd
+#3  e
+xd
+#2f g
+x gd
+#3  e
+xd
+2 fg
+b
+2.bbd  b
+3 d
+#2 b
+x  e
+1bbd  b
+b
+2.ab  d{
+3b
+#2d
+xa     }
+#2    a
+xf
+b
+
+b
+#2   a
+xb
+#2 d
+x   c
+#2  dd
+x aba
+b
+#2acd a
+xcd
+#2df
+xa
+#2 c  a
+xf
+b
+2cd a
+#3 a
+x c
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+1 d
+b
+b
+2.ab  d
+3b
+1d
+1if  a
+b
+2.fg a
+3f
+1 d
+#2   a
+x  d
+b
+#3    a
+x a
+x c
+x d
+#3a
+xc
+xd
+xa
+#3f   a
+xd
+xc
+xa
+b
+
+b
+2cd a
+#3a
+xc
+#2 d
+x  d
+1   a
+b
+#2b
+xd
+#2fg d
+x   f
+#2 cd
+xa
+b
+2.bd a
+3a
+2 d
+#3 b c
+x a
+#2  dd
+x b
+b
+#2b
+xdf  d
+#2fg d
+xgd f
+#2dfg
+x    d
+b
+#2bbdd
+x b
+#2 de
+xab
+1bbdd
+b
+2.ab  d{
+3b
+2d
+#3b
+xa
+#2f   a
+x  d
+b
+
+b
+2.bd a
+3   c
+2 d d
+#3   c
+x   a
+#2 cd a
+x    c
+b
+2a   d
+#3c   c
+x    a
+#2d  c
+x   a
+#2c
+xa   e
+b
+2 dda
+#3  a
+x  b
+#2  d
+x  a
+1   a
+b
+2.ab  d
+3b
+2d
+#3f
+xh
+#2if  a
+xh
+b
+2.fd a
+3   c
+2 d d
+#3   f
+x  d
+#2 de
+x  d
+b
+#2a b
+xb  d
+#2d  c
+xa d
+#3f
+x  b
+x  a
+x   c
+b
+
+b
+#3   a
+xd
+xc
+xa
+1cd
+1 dda
+b
+b
+2 g
+#3   d
+xd
+2f
+#3   f
+x  d
+#2d e
+x   f
+b
+#2bbd
+x   d
+#2 de
+x    b
+#2 bdd
+x     b
+b
+#2  da
+x g
+#3   d
+xd
+2fg
+#2d   d
+x f
+b
+2.bbd  b
+3     a
+#2     b
+x     d
+#2bbd a
+x    c
+b
+2ab  d
+#3b
+x   a
+#2d  c
+x   d
+#2a b
+x   c
+b
+
+b
+#2f  d
+x   a
+#2 de
+x   d
+2  d
+#3   c
+x   a
+b
+#2a d e
+xc  a
+#2da  c
+x d   d
+#2c   a
+xac
+b
+2.cd a
+3c
+#2 d
+x  d
+1cdda
+b
+b
+2.ab
+3b
+#2d
+x a
+#2i  h
+x   f
+b
+#2   d
+xh
+#2fg
+xdf
+#2bd d
+xab
+b
+2 dff
+#3a
+xc
+#2d  c
+xacd
+#3c
+xd
+2f
+b
+
+b
+#2c  a
+x d
+#3 a
+x c
+2 d
+#2  d
+x   a
+b
+#3   d
+x  g
+x d
+x f
+#3 g
+xd
+xf
+x g
+#3d   d
+x g
+x f
+xd
+b
+#3b    b
+x  d
+x  e
+x b
+#3 d
+x b
+x  e
+x d
+#3 b
+x  d
+x  e
+x b
+b
+#3  dd
+x g
+x d
+x f
+#3 g
+xd
+xf
+xg
+#3d   d
+x g
+x f
+x  e
+b
+
+b
+#3bbd
+x     b
+x    a
+x    b
+#3    a
+x     d
+x     b
+x     a
+#3bbd  b
+x     d
+x    a
+x     b
+b
+#3    d
+x a
+x b
+x d
+#3a
+x b
+xa
+xb
+#3d
+xa
+xf   a
+xd
+b
+#3b  a
+x  d
+x a
+x b
+#3 d
+x    d
+x   a
+x   c
+#3  dd
+x   c
+x   d
+x ab
+b
+#3 cd
+x a
+x c
+x d
+#3a  c
+x d
+xa
+xc
+#3d
+xa
+x  d
+xf
+b
+
+b
+#3c  a
+x d
+xa
+xc
+#3d
+xf
+xh
+xk
+1l  a
+b
+b
+#2ig  i
+x   f
+#2ig h
+x  g
+#2gd f
+x f
+b
+#2fgdd
+x  f
+2  g
+#3dd a
+xb
+#2a   a
+xfc
+b
+#2 d d
+xd ff
+#3 bd
+xb
+2bde
+#2  ef
+x f
+b
+2bbdd
+#3  b
+x  d
+#2 de
+xa b
+#2bbdd
+x d
+b
+#2df c
+x   d
+#2 dff
+x  g
+#2 d
+xdf c
+b
+
+b
+#2 fgh
+xi
+#3 g a
+xh
+2f
+#3    a
+xd
+xab
+xc
+b
+#2da c
+x  de
+#2 dff
+xdf c
+#2acd
+xf
+b
+#2 d a
+xda
+#2c d
+xa b
+1 dda
+b
+b
+#3    d
+xab
+x  da
+xb
+#3  bc
+xd
+x b  d
+xa
+#3  dd
+xf
+xda c
+x c
+b
+#3 d a
+xd
+xb
+x    d
+#3    b
+xa
+x d
+x    a
+#3     d
+x  g
+x  e
+x  d
+b
+
+b
+2.a b d
+3 d
+#3a
+xc
+2ddf  d
+#2cdd a
+xac
+b
+1cdda
+0 ddef
+b
+b
+2 g
+3   d
+#4 f
+x d
+3  g
+#4 d
+x f
+#4 g
+xd
+3f
+#3d   d
+x  g
+x d
+x f
+b
+3bbdd
+#4 a
+x b
+#4 d
+x b
+x a
+x b
+#3 d
+x  e
+x  d
+x  b
+#3 bd
+x   d
+x     b
+x  e
+b
+
+b
+#3   d
+x  f
+#4 d
+x f
+x g
+xd
+#4f
+xg
+#3i
+xf  d
+x g
+#3d   d
+xg
+xff
+xd
+b
+#3b    b
+x   d
+#4  b
+x  d
+x  e
+x b
+#4 d
+x e
+3b
+#3 b
+x d
+#3  dd
+xf
+xda c
+xb  a
+b
+#3a   d
+x  b
+#4  d
+x a
+x b
+x d
+#4a
+xb
+3d
+#3a
+x b
+#3i   a
+xg
+xf
+xd
+b
+
+b
+#3b  a
+x  d
+#4  e
+x b
+x d
+xa
+#3b
+x    a
+#4    b
+x    d
+x   a
+x   c
+#3   d
+xa
+2 db
+b
+3  d
+#4 c
+x a
+#4 c
+x d
+xa
+xb
+#3d
+x  b
+x a
+xb
+#3acd
+x d
+xa
+x c
+b
+#3cd a
+x  d
+#4 a
+x c
+x d
+xa
+#4c
+xd
+xf
+xd
+#4a
+xc
+xd
+xa
+1cdda
+b
+b
+
+b
+#3ab  d
+x d
+xa
+xb
+2db  d
+#3b
+xa
+2f
+#3    c
+x    a
+b
+#2  da
+xd
+#2b d
+xa   d
+#2 de b
+x    a
+b
+#2dde  d
+x g
+#2acd a
+xcd
+#2df
+xfc
+b
+1cdda
+Y dda
+b
+b
+
+e

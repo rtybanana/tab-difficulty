@@ -1,0 +1,50 @@
+-C
+-t
+-f
+{7. The boar's dance/Anonymous}
+b
+1.f  a  a
+1c  a
+2 d
+b
+1da   d
+2acd a
+1cdda
+2      a
+b
+1.f   "#  a
+1c "# a
+2 d
+b
+1da   d
+2acd a
+1. dda  a
+.
+b
+b
+.
+2.acd a
+3c
+2d
+1c "# a
+2 d
+b
+1da   d
+2acd a
+1cdda
+2 dd
+b
+2.a  "# a
+3c
+2d
+1c  "#a
+2 d
+b
+1da   d
+2acd a
+Y. dda  a
+.
+b
+b
+
+e

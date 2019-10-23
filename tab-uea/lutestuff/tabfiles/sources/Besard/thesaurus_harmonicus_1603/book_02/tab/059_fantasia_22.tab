@@ -1,0 +1,569 @@
+-C
+-t
+-f
+{59. Fantasy 22/59. Fantasy 22}
+b
+c
+0 a
+1 a
+1 c
+b
+0cd
+1cd
+#2ec
+x a
+b
+1.f d
+2  c
+1f a
+#2e c
+xc
+b
+1a d
+1c
+1ea
+#2 c
+xf
+b
+#2ea
+xc d
+xc c
+x  a
+1 ac
+1a
+b
+1 \3d\2d\4e
+1 \1c
+1   e
+1 ac
+b
+#2 cd
+x a
+x c
+x d
+1acd
+#2 ac
+x  de
+b
+
+b
+#2 acc
+x  a
+x  c
+x  de
+1 ac
+1acd
+b
+#2cd a
+x c
+x a
+x  d
+#2a cc
+x  d
+1 df
+b
+1 c e
+#2  e
+x  c
+1 cee
+#3 a
+x c
+x d
+xa
+b
+1.cd  c
+2ac
+1 df c
+#2 cd e
+x ac
+b
+1  def
+#2   ce
+x   ac
+1   cef
+1  a ec
+b
+1 a  ce
+1   d
+#2  de c
+x  c
+x  d
+x a
+b
+
+b
+1 cde c
+#2 acc e
+x  a
+1 cdca
+#2  d
+x d
+b
+1acd a
+#2 a   e
+x  d  c
+1aac  a
+#2   c
+x  d
+b
+1 acc a
+#2 c a
+x    e
+1 dfec
+#2 a
+x c
+b
+1 daac
+#2 c ce
+x a
+1c da
+1  a
+b
+1c da
+#2e  ce
+x    c
+1fc ca
+#2  d
+x    c
+b
+1f   e
+#2ed a
+xc
+1ea c
+1     e
+b
+1 cd  c
+1c
+1\1b c e
+1c a a
+b
+
+b
+1  c c
+1b   e
+1c aa
+1 a
+b
+1 a c
+1 c
+1cd  c
+1 a
+b
+1cd
+#2ec
+x a
+1f d
+#2c
+x a
+b
+1fc
+#2ed
+xc
+1ac
+#2  d
+xc
+b
+1ea
+#2 c
+xf
+#2  a
+x\3e
+1c \4d
+b
+1 a\2c
+1\1b
+1ccde
+#2     c
+x  c
+b
+1  a  c
+#2   c e
+x   a
+1    ef
+1  a  c
+b
+
+b
+1  a a
+1  c c
+1  d e
+1  aa
+b
+1  d
+#2    e
+x    c
+1    a
+#2  c c
+x  a
+b
+#2   ce
+x  a
+x  c
+x   c
+#2  aa
+x  c
+x  d
+x a
+b
+#2 cdca
+x d
+xa
+x c
+#2 daac
+xa
+xc
+xe
+b
+1fca
+#2     c
+xe
+1ccd  c
+1aac  e
+b
+#2 ea a
+x c
+xa   c
+x e
+1ac  e
+1 cdca
+b
+
+b
+1  def
+1 a
+1 ccee
+#2   d
+x    c
+b
+1 ca b
+1cd ac
+1c f ec
+#2  e
+xa
+b
+#2 dfec
+x c
+#3 a
+x  d
+x  c
+x  a
+#2aac  a
+x  a
+#3   c
+x   a
+x    e
+x    c
+b
+2ac  a
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+2ea   a
+#3   c
+x  a
+#3  c
+x  d
+x a
+x c
+b
+
+b
+2 da c
+#3 a
+x c
+#3 d
+xa
+xc
+x\3e
+#2\4fc e c
+x     \3e
+x    a
+x     c
+b
+#2ec ce
+x  a
+x  c
+x   c
+#2\2c aa
+x  \1c
+x  \3d
+x  a
+b
+#2a \2c \4e
+x   a
+x   \1c
+x    e
+#3  de c
+x  c
+x  a
+x  c
+#3  d
+x a
+x c
+x d
+b
+#3 c  a
+x a
+x  d
+x a
+#3 c
+x d
+xa
+xc
+2ea c a
+#3   c
+x  a
+#3  c
+x  d
+x a
+x c
+b
+
+b
+#3 d  c
+x c
+x a
+x c
+#3 d
+xa
+xc
+xe
+#2fca
+x  c
+x  d
+x a
+b
+#2e  c
+x a
+x  c
+x  d
+#2ca a
+x  d
+x  a
+x  c
+b
+#2a d e
+x  c
+x  a
+x   c
+#2 da c
+x   c
+x  a
+x  c
+b
+#2 cdca
+x   a
+x   c
+x  a
+#2 acc
+x  d
+x a
+x  c
+b
+
+b
+#3  de
+x  c
+x  a
+x  c
+#3  d
+x a
+x c
+x d
+#3 c  e
+x a
+x  d
+x a
+#3 c
+x a
+x  d
+x  c
+b
+#3  a f
+x   c
+x   a
+x   c
+#3  a
+x  c
+x  d
+x a
+#3 c  a
+x a
+x c
+x d
+#3a
+x c
+x d
+xa
+b
+#3 d  c
+x c
+x a
+x c
+#3 d
+x a
+x c
+x d
+#3 c   c
+x a
+x  d
+x  c
+#3  a
+x  c
+x  d
+x a
+b
+
+b
+#3 c  a
+x a
+x c
+x d
+#3a   a
+x c
+x d
+xa
+#3 d  c
+x c
+x a
+x c
+#3 d
+xa
+xc
+xd
+b
+#3c  a
+xa
+x d
+xa
+#3c  a
+xa
+x d
+x c
+#3 a c
+x  d
+x  c
+x  d
+#3 a
+x  c
+x  d
+x a
+b
+#3  d  c
+x  c
+x  a
+x  c
+#3  d
+x a
+x c
+x d
+#3 c  a
+x a
+x  d
+x a
+#3 c
+x a
+x  d
+x  c
+b
+
+b
+2  aa
+#3c
+xa
+#3 d
+x c
+x a
+x  d
+#3  cc
+x  a
+x  c
+x  d
+#3 a
+x  d
+x  c
+x  a
+b
+#2   ce
+x  d
+x  aac
+x  c
+#2   cef
+x a  c
+x  f ec
+x  e
+b
+#2 aa gh
+xh
+x  he
+xg
+#2haa g
+x    h
+x  a
+x    g
+b
+#2  cc
+xe
+x cde
+xf
+#2ec  e
+xa
+xaaa c
+x e
+b
+#2aa c a
+x  c
+x    ef
+x  a
+#2  c ce
+x   c
+x    ac
+x   b
+b
+
+b
+#2   cca
+xc
+x cc e
+xb
+#2c aa
+xf
+x a c
+xe
+b
+#2fc ca
+x f
+xc   c
+x e
+#2ef   a
+xa
+x aa c
+x e
+b
+#2a  ce
+x c
+x  aa
+x a
+#2 ccde
+x   e
+x  c
+x   d
+b
+#2 cee c
+x  f
+x c
+x  e
+#2 aabc
+x   c
+x  a
+x   b
+b
+0 abc
+Y aabc
+b
+b
+
+e

@@ -1,0 +1,446 @@
+-C
+-t
+-f
+{Courante 9/Courante 9}
+b
+W   a  a
+W    d /a
+W    a ///a
+b
+b
+1  d
+b
+1 b
+1    a
+1 acc a
+b
+1. bdca
+#3 a
+x b
+1 d  c
+b
+1a   d
+#2    a
+x d
+1 b
+b
+1 abc
+1   a
+1a   d
+b
+1 db
+1     d
+1 b a
+b
+
+b
+1 ab
+1     c
+#2d    a
+x c
+b
+1ce  c
+1 a
+1a    d
+b
+1c   a
+1a
+#2 ea c
+x    a
+b
+1a    e
+1   c
+1 d
+b
+1 bdca
+#2 d
+x b
+#2 a
+x  d
+b
+1  ccca
+1      /a
+#2  d
+x a
+b
+1 b    a
+1 a
+2.     a
+3 a
+b
+
+b
+1  d a
+1      ///a
+1    a
+b
+1  dc
+#2  a
+x  b
+#2  d
+x a
+b
+#2 b
+x    a
+#2 d
+x b
+#2 a
+x     e
+b
+#2    a
+x b
+#2 a
+x b
+#2    c
+x d
+b
+#2    d
+xa
+#2    a
+x d
+#2 b
+x  a
+b
+
+b
+#2  bc
+x  d
+#2 a
+x   a
+#2a   d
+x  d
+b
+#2     d
+x d
+#2  b
+x b
+#2 a
+x  d
+b
+#2 ab
+x b
+#2 d
+x     c
+#2d    a
+x c
+b
+#2    c
+xc
+#2 e
+x    a
+#2     d
+xa
+b
+#2 b  a
+xc
+#2    c
+xa
+#2 e
+x    a
+b
+
+b
+#2     e
+xa
+#2 a
+x   c
+#2  d
+x a
+b
+#2    a
+x b
+#2 d
+x b
+#2 a
+x  d
+b
+#2     a
+x  c
+#2   c
+x      a
+#2      /a
+x  d
+b
+#2      a
+x a
+1.  c  a
+#3  a
+x  c
+b
+1  d
+1      ///a
+1    a
+b
+0  dc
+1 f
+b
+1 fgfd
+1      /a
+1 g
+b
+
+b
+1d
+1    d
+#2f
+xh
+b
+1i
+1  b   /a
+1   d  a
+b
+1   c a
+1d
+#2bbd  b
+xa
+b
+1 d   d
+1   f
+1 b da
+b
+1   c
+1. bba d
+2 a
+b
+1 b  d
+1      /a
+1    d
+b
+1. bbc
+2 d
+1a   d
+b
+1 d  c
+1  b
+1a
+b
+
+b
+1 bdca
+1   c
+#2 da
+x b
+b
+1 ac
+1     a
+1    c
+b
+1 acc
+#2  d
+x a
+1 b  a
+b
+1 a   d
+1   c
+1 b
+b
+1  dc b
+#2   a
+x    d
+1   a
+b
+1.  bc a
+2  d
+#2 a
+x b
+b
+1 a
+#2     a
+x  d
+1  b
+b
+1  d db
+1     a
+1  bc
+b
+
+b
+1  dd  a
+1  f
+1   d
+b
+1 bbc  /a
+1    d
+1 bbc
+b
+1 d  c
+1.d
+2b
+b
+1a   d
+#2      /a
+x d
+#2 b    a
+x a
+b
+1 bd
+1. ac  a
+#3  d
+x a
+b
+1  d a
+1      ///a
+1    a
+b
+0  dc
+1a
+b
+1abb d
+#2      /a
+x  b
+#2   c
+x   d
+b
+
+b
+1  b
+1      /a
+#2  d
+x a
+b
+#2 b
+x      /a
+#2  b
+x  d
+#2   d
+x  b
+b
+1   c
+#2     a
+xd
+#2b
+xa
+b
+#2 d
+x     d
+#2  b
+x   d
+#2   c
+x b
+b
+#2   d
+x   c
+#2   a d
+x b
+1 a
+b
+1 bbcd
+1      /a
+1    d
+b
+
+b
+1. bbc
+2 d
+1a   d
+b
+#2    c
+x d
+#2  b
+xa
+#2 d
+xa
+b
+#2    a
+x b
+#2   c
+x   a
+#2   c
+x  a
+b
+#2     a
+x a
+#2  c
+x   c
+#2 bd
+x  a
+b
+#2     a
+x ac
+#2  d
+x a
+1 b  a
+b
+
+b
+1 a   d
+#2   c
+x b
+#2 a
+x b
+b
+#2  d
+x     b
+#2   a
+x    d
+#2   a
+x a
+b
+#2  b
+x     a
+#2   c
+x  a
+#2  b
+x  d
+b
+#2 a
+x     a
+#2   c
+x  d
+#2  b  a
+x  a
+b
+#2     b
+x  d
+#2    d
+x    a
+#2     a
+x  bc
+b
+
+b
+#2      a
+x  d
+#2   d
+x   a
+#2  f
+x   d
+b
+#2 b
+x      /a
+#2    d
+x   a
+#2   c
+x    d
+b
+#2    c
+x d
+#2  b
+xa
+#2b
+xd
+b
+#2a
+x      /a
+#2  b
+x   c
+#2  d
+xa
+b
+#2 d    a
+x b
+1. ac  a
+#3  d
+x a
+b
+1  d a
+1      ///a
+1    a
+b
+
+b
+0.  dc
+b
+b
+
+e

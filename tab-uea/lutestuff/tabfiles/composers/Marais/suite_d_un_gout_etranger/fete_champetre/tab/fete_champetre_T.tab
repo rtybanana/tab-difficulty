@@ -1,0 +1,577 @@
+-C
+-t
+-f
+{Fête Champêtre/Fête Champêtre}
+b
+c
+1a c e
+0.
+b
+1a c e
+1      /a
+0 ed  c
+b
+1  ge e
+#2  h
+x e
+0 fhg
+b
+0 eg  e
+1e
+1      e
+b
+2ecc  a
+0.
+2
+b
+1ecd  c
+1c
+1 f
+1 ed ec
+b
+0 eh  e
+0  g   4
+b
+w ccc  /a
+.
+b
+b
+0a c e
+#2 ec c
+x    a
+x     e
+x     c
+b
+0.a c  a
+#2   c
+x  a
+b
+
+b
+#2aac
+x  d
+x a
+x  d
+#2  c
+x  d
+x  c
+x  a
+b
+0aac  a
+0
+b
+1aacc
+1 ea c
+1aacc
+1cc  a
+b
+2ea   a
+1.
+2aca a
+1.
+b
+0aaa c
+0 e    //a
+b
+0aac  a
+1
+#2   c
+x   b
+b
+b
+1a c e
+0.
+b
+1a c e
+1      /a
+0 ed  c
+b
+1  ge e
+#2  h
+x e
+0 fhg
+b
+0 eg  e
+1e
+1      e
+b
+2ecc  a
+0.
+2
+b
+1ecd  c
+1c
+1 f
+1 ed ec
+b
+
+b
+0 eh  e
+0  g   4
+b
+w ccc  /a
+b
+b
+1a c e
+#2 ec
+x  a
+1accc
+1cb b
+b
+1ec ce
+1
+1bcc c
+1
+b
+1cca a
+1
+1eaa  e
+1   d
+b
+0.fc   c
+1ccde
+b
+1a c e
+1    e
+1 eced
+1    d
+b
+1a c e
+1    e
+1ee  c
+1    c
+b
+1ec  a
+1c   a
+1 ed  c
+1     c
+b
+1 eg  e
+#2   g
+x   h
+#2   g
+x   e
+x    h
+x    g
+b
+b
+1a c e
+0.
+b
+
+b
+1a c e
+1      /a
+0 ed  c
+b
+1  ge e
+#2  h
+x e
+0 fhg
+b
+0 eg  e
+1e
+1      e
+b
+2ecc  a
+0.
+2
+b
+1ecd  c
+1c
+1 f
+1 ed ec
+b
+0 eh  e
+0  g   4
+b
+w ccc  /a
+b
+b
+w
+b
+0efh
+0
+b
+w
+b
+0efh
+0
+b
+0
+0ffh
+b
+1fef
+1
+0eef
+b
+1ecd
+1
+0ccd
+b
+
+b
+1cac
+1
+0aac
+b
+1acde
+1
+0 ede
+b
+1 ecc
+1
+0 ccc
+b
+1cb b
+1
+1a c e
+1
+b
+0 eh  e
+1 egg
+1e    e
+b
+b
+1a c e
+0.
+b
+1a c e
+1      /a
+0 ed  c
+b
+1  ge e
+#2  h
+x e
+0 fhg
+b
+0 eg  e
+1e
+1      e
+b
+2ecc  a
+0.
+2
+b
+1ecd  c
+1c
+1 f
+1 ed ec
+b
+0 eh  e
+0  g   4
+b
+w ccc  /a
+b
+b
+
+b
+1 fhge
+1 egg
+1 ccc
+1    e
+b
+1 fhge
+1 egg
+1 ccc
+1    e
+b
+0 eg  e
+0 ed  c
+b
+0acc  a
+0ca    a
+b
+0a d   /a
+0 ec   //a
+b
+0cc    ///a
+0aa    4
+b
+0 ed   5
+0 cc  a
+b
+0 ba   a
+0 ccc  /a
+b
+1
+1a c e
+#2aa   e
+x     e
+x    a
+x    c
+b
+0aa  e
+#2acd  c
+x     c
+x     e
+x    a
+b
+0ced c
+#2ed   a
+x     a
+x     c
+x     e
+b
+0.ec  a
+1c   a
+b
+
+b
+0 efea
+1aa c e
+1
+b
+1ced  c
+1
+1ea   a
+1
+b
+0ce    //a
+0a c
+b
+1
+1 ed  c
+#2aa   e
+x    a
+x     e
+x    a
+b
+0cf  c
+0ce    //a
+b
+0.aac  a
+#2   c
+x   b
+b
+b
+1a c e
+0.
+b
+1a c e
+1      /a
+0 ed  c
+b
+1  ge e
+#2  h
+x e
+0 fhg
+b
+0 eg  e
+1e
+1      e
+b
+2ecc  a
+0.
+2
+b
+1ecd  c
+1c
+1 f
+1 ed ec
+b
+
+b
+0 eh  e
+0  g   4
+b
+w ccc  /a
+b
+b
+0bcc   /a
+0cb b
+b
+0bcc   /a
+0 ea
+b
+0bcc   /a
+0cce
+b
+0bcc   /a
+0 ea
+b
+0bcc   /a
+0cb b
+b
+0bcc   /a
+0 ea
+b
+0bcc   /a
+0cce
+b
+wbcc   /a
+b
+b
+wbcc   /a
+b
+0      /a
+0bcc
+b
+0      /a
+0cb b
+b
+0bcc   /a
+0 ea
+b
+wbcc   /a
+b
+0 ea   /a
+0bcc
+b
+0      /a
+0cb b
+b
+wbcc   /a
+b
+b
+
+b
+1acc   /a
+1
+0
+b
+1acc   /a
+1
+0
+b
+1acc   /a
+1
+0cec
+b
+1acc   /a
+1
+0 ege
+b
+1acc   /a
+1
+0
+b
+1acc   /a
+1
+0
+b
+1acc   /a
+1
+0 bab
+b
+1 ccc  /a
+1
+0
+b
+b
+1acc   /a
+1
+0
+b
+1acc   /a
+1
+0
+b
+1 ccc  /a
+1
+0 bab
+b
+1 ccc  /a
+1
+0
+b
+
+b
+1acc   /a
+1
+0
+b
+1acc   /a
+1
+0
+b
+1ccd   /a
+1
+0
+b
+1acc   /a
+1
+0
+b
+1acc   /a
+1
+0
+b
+1acc   /a
+1
+0
+b
+1acc   /a
+0.
+b
+Ya c e
+#2    c
+x    a
+#2     e
+x     c
+x     a
+x      b
+b
+b
+wacc   /a
+b
+1a c e
+1      /a
+0 ed  c
+b
+0 ege e
+0 f g
+b
+0. eg  e
+1e     e
+b
+2ec c a
+0.
+2
+b
+
+b
+1ecd  c
+0c
+1 ed ec
+b
+0 eh  e
+0  g   4
+b
+b
+Ya c e
+#2    c
+x    a
+#2     e
+x     c
+x     a
+x      b
+b
+wacc   /a
+b
+1acc e
+1      /a
+0 ed  c
+b
+0 ege e
+0 f g
+b
+0. eg  e
+1e     e
+b
+2ec c a
+0.
+2
+b
+1ecd  c
+0c
+1 ed ec
+b
+0 eh  e
+0  g   4
+b
+w ccc  /a
+b
+b
+
+e

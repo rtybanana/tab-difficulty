@@ -1,0 +1,565 @@
+-C
+-t
+-f
+{The Duke of Somerset's Reverie/Anonymous}
+b
+c
+#2  a
+x  b
+b
+1  da
+1      a
+1  da
+#2  d
+x  b
+b
+1  aa
+1      a
+1   a
+#2  b
+x  d
+b
+1. a   d
+2  d  c
+#2  b  a
+x  a
+x   c
+x   a
+b
+1 cdc
+#2    a
+x d
+1 cdc
+#2  a
+x  b
+b
+1  da
+1      a
+1  da
+#2  d
+x  b
+b
+1  da
+1  d   a
+1   a
+1 d a  a
+b
+
+b
+1 cd a
+1 d a  a
+#2 cd a
+x d
+x    a
+x c
+b
+1 dda
+1      a
+1 dda
+#2  a
+x  b
+b
+b
+1  da
+1      a
+1  da
+#2  d
+x  b
+b
+1  aa
+1      a
+#2  a
+x  b
+1  da
+b
+1  bc
+1  d a
+#2 db c
+x    e
+1  aa
+b
+1 cdca
+#2 cdc
+x d
+1 cdca
+#2  a
+x  b
+b
+1  da
+1      a
+1  da
+#2  d
+x  b
+b
+
+b
+1  aa
+1      a
+2  aa
+#3   c
+x  a
+#3  b
+x  a
+x   c
+x   a
+b
+1   ca
+1   ac
+2   ca
+#3 d
+x c
+#3 d
+x c
+x a
+x c
+b
+1 dda
+1      a
+1   a
+#2  a
+x  b
+b
+b
+1  da
+#2  d   a
+x a
+#2  d
+x  bc
+x  d
+x  b
+b
+1  aa
+1      a
+#2  aa
+x  bc
+x  da
+x  a
+b
+1 abc
+1 cdca
+1 daac
+1aabc
+b
+
+b
+2 cdca
+#3  d
+x  c
+#3  d
+x a
+x c
+x d
+1 cdca
+#2  a
+x  b
+b
+1  da
+#2      a
+x d
+#2 c a
+x a
+x  dc
+x  b
+b
+1  aa
+#2      a
+xc d
+#2a b
+x da
+x c c
+x a a
+b
+1 cdca
+1 d a  a
+#2 cd a
+x d
+x    a
+x c
+b
+1 dda
+1      a
+1 dda
+#2 da
+xa b
+b
+b
+1c da
+#2      a
+xf
+#2da
+xc
+xac
+xd
+b
+
+b
+2cdda
+#3 d
+x c
+#3 d
+xa
+xc
+xd
+1cdda
+1fb
+b
+#2da
+x      a
+xc d
+x      a
+#2a b
+x      a
+x da
+x      a
+b
+#3acd a
+x d
+xa
+xc
+#3a
+x d
+x c
+x a
+#2 cd a
+x   c
+x da
+xa b
+b
+1c da
+#2      a
+xf
+#2da
+xc
+xac
+xd
+b
+2cdda
+#3 d
+x c
+#3 d
+xa
+xc
+xd
+#2c da
+xa
+1cdda
+b
+
+b
+2ddff
+#3a
+xc
+#3d
+xa
+xc
+xd
+2cdda
+#3 d
+xa
+#3c
+xa
+xc
+x d
+b
+2acd a
+#3  d
+x a
+#3 c
+x d
+xa
+x c
+2 daac
+#3 a
+x c
+#3 d
+x a
+x c
+x d
+b
+#2 cdca
+x da
+xa b
+x da
+#2 c ca
+x d a
+x   ca
+x c
+b
+#2 d a  a
+x d
+x  d
+x   a
+0 dda  a
+b
+b
+#2 da   a
+xa b
+xc d
+xda
+#2c d   a
+xa b
+x da
+x c c
+b
+
+b
+#2 da   a
+xa b
+xc d
+xda
+#2c d
+xa b
+x da
+x c c
+b
+#2 da
+xa b
+xc d
+xda
+#2fb
+xda
+xc d
+xa b
+b
+#2 da
+xa b
+xc d
+xa b
+#2da
+xc d
+xa b
+x da
+b
+2 cdca
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+#3a
+x d
+x c
+x a
+#3 c
+x d
+xa
+x c
+b
+
+b
+2 dda  a
+#3f
+xd
+#3f
+xd
+xc
+xa
+2cdd   a
+#3  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+2  aa  a
+#3 d
+x c
+#3 d
+x c
+x a
+x  d
+#3 a    a
+x  d
+x a
+x c
+#3 d
+x a
+x c
+x d
+b
+#3    a
+x a
+x c
+x d
+#3a
+xc
+xd
+xc
+#3a   a
+x d
+x c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+
+b
+2 dda
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+#2 d a  a
+x d a  a
+x  a
+x  b
+b
+b
+1  da
+1      a
+2  da
+#3 a
+x  d
+2  bc
+#3  d
+x  b
+b
+1  aa
+1      a
+#2  a
+x  b
+x  da
+x  a
+b
+#2 a c
+x  b
+x  d a
+x  a
+#2 db c
+x    e
+x  aa
+x  b
+b
+#2  dca
+x  b
+x  de
+x ab
+#2    a
+x cd
+x da
+xa b
+b
+1c da
+#2      a
+xdd
+#2f   a
+x   c
+xd
+x c
+b
+
+b
+#2cdd   a
+xd
+xfd
+x   a
+#2da   d
+xc  a
+xa   e
+x d  c
+b
+#2 cdca
+x da
+xa b
+x da
+#2 c ca
+x d   c
+x d   d
+x c ca
+b
+1 dda  a
+#2 dda
+x      a
+1 dda
+#2 da
+xa b
+b
+b
+1c da
+#2      a
+xf
+#2da
+xc
+xac
+xd
+b
+2cdda
+#3 d
+x c
+#3 d
+xa
+xc
+xd
+1cdda
+1fb
+b
+
+b
+#2da
+x      a
+xc d
+x      a
+#2a b
+x      a
+x da
+x      a
+b
+#3acd a
+x d
+xa
+xc
+#3a
+x d
+x c
+x a
+#2 cd a
+x   c
+x da
+xa b
+b
+1c da
+#2      a
+xf
+#2da
+xc
+xac
+xd
+b
+2cdda
+#3 d
+x c
+#3 d
+xa
+xc
+xd
+#2c da
+xa
+1cdda
+b
+#2 cdca
+x da
+xa b
+x da
+#2 c ca
+x d   c
+x d   d
+x c ca
+b
+
+b
+1 dd   a
+#2 dda
+x      a
+Y dda
+b
+b
+
+e

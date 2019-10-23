@@ -1,0 +1,82 @@
+-C
+-t
+-f
+{6. Ich klag den Tag - 1/6. Ich klag den Tag - 1}
+b
+c
+0\4d \1b
+0\4d \1b
+b
+0\2c  a
+0\2c  a
+b
+0\4d \1b
+#1\4d \1b
+x\2c  a
+b
+0a  \2c
+0a   \3d
+b
+Y \4d a
+b
+0
+0 \4d a
+b
+0 \1b  a
+0 \1b  \3d
+b
+Y a   \3d
+b
+0
+0 a\1b
+b
+1  \4d"+a
+#2   a
+x   \2c
+#1  \2d\3e
+x a\1b
+b
+#1 \1c \2c"+
+x \4d a
+x   \2c
+x \1c
+b
+w d a
+b
+0
+0 a \2c
+b
+
+b
+0 \4d a
+0 \1b  a
+b
+Y a  \2c
+b
+0
+0 \4d  \2c
+b
+0 \4d  \2c
+0 \4d  \2c
+b
+0a  \2c
+0\4d  \2c
+b
+1\2c  a
+#2\2c
+xa
+#2 \4d  \2c
+x \1b
+x a  \2c
+x    \3d
+b
+1 a a
+#2  \4d\2c
+x  \1b
+0  \4da
+b
+Y  \1b  \3d
+b
+b
+
+e

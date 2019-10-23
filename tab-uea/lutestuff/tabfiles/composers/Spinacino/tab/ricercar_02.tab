@@ -1,0 +1,386 @@
+-t
+-f
+{Recercar 2/Francesco Spinacino}
+b
+c
+2    c
+#4    d
+x    c
+x    a
+x    c
+#3     d
+x    a
+x    c
+x     d
+b
+#3    d
+x    c
+x    a
+x     d
+#3     c
+x     a
+2     c
+b
+
+b
+#3 a   a
+x     c
+x     d
+x    a
+#2 a  c
+x  d e
+b
+3 a a
+#4     a
+x     c
+#4     d
+x    a
+x    c
+x    e
+3    f
+#4   e
+x   c
+#4   b
+x   c
+x   e
+x   b
+b
+#3 a c
+x  a
+x  b
+x  d
+#2 a a
+x cd e
+b
+
+b
+#2 df c
+xa b
+x  a
+x e  c
+b
+#3a  cd
+x  a
+x  b
+x  d
+#3   c
+x a
+x   a
+x    d
+b
+#2 da c
+xa   a
+x  a c
+x e
+b
+2a  c
+#3 d
+x c
+#3 a c
+x   a
+x    c
+x    e
+b
+
+b
+#2   a
+x  d
+x    e
+x   a
+b
+2  d
+#3    e
+x    c
+#3    a
+x    c
+x    e
+x    a
+b
+2. abc
+3    e
+#2 aaa
+x   c
+b
+2 ab
+#3   a
+x    e
+#3    c
+x    e
+x   a
+x   c
+b
+
+b
+2. c ca
+3     c
+#2 a c d
+x c  a
+b
+2   c
+#3 a   d
+x  d  c
+#2 a c a
+x c
+b
+2 da c
+2. a
+3  d
+2 db
+b
+#2  a c
+xa  c
+xc   c
+x   b
+b
+#2d  c
+x     a
+#3d  c a
+x     c
+x     d
+x    a
+b
+
+b
+2 d  c
+#3a   e
+xc  a
+#2d  c
+xc  a
+b
+#2  b
+xa
+x  a
+x e
+b
+#2a b
+x   c
+2a b
+#3  aa
+x    e
+b
+2   ac
+#3   ca
+x  a
+#2  b  d
+x  a a
+b
+#3    a
+x     d
+x   c c
+x     a
+#2     c
+x   b
+b
+
+b
+2.a  c a
+3  a
+#2a b  a
+x  d
+b
+2a b  a
+#3  b  a
+x  d  c
+#2aa   d
+x c  a
+b
+2.da   d
+3    a
+#2d   c
+xa   e
+b
+2d   c
+#3 d
+x c
+#3da c
+x  d
+x a
+x c
+b
+b
+
+b
+2c  a
+#3 c
+x a
+#3  d
+xd
+xc
+xa
+b
+2 d
+#3d d
+x  b
+#2  da
+xc
+b
+2.d b  d
+3    a
+#2 db c
+xa   d
+b
+2  b
+#3 d  c
+x b  a
+#3 ab  d
+x    a
+x    c
+x    d
+b
+2.  b c
+3  a
+#2  b c
+x   cd
+b
+
+b
+#2   ac
+x  b  d
+x    a
+x  a
+b
+2. ab  d
+3 c
+2 df  d
+#3a f
+x c
+b
+#2 db  d
+xa
+#3 df  d
+x c
+2 df
+b
+#3 ab  d
+x c
+x db
+x  d
+2. ab  d
+3  d
+b
+2. df  d
+3 c
+2. d   d
+3 c
+b
+
+b
+2. d  c
+3a
+#2cd  c
+xa   e
+b
+#2c  a
+x d
+xd  c
+x c
+b
+#2cd  c
+x a
+xa   d
+x  d
+b
+#2 df  d
+x  b
+x c  a
+x  a
+b
+#2 ab  a
+x   c
+x  d  c
+x   b
+b
+
+b
+#3  bc a
+x     c
+x     d
+x    a
+#2  bc a
+xa
+b
+2d  c
+#3 d
+x c
+#2da c
+x c
+b
+#2da c
+x  b
+#3d bc
+x  d
+x a
+x c
+b
+2cd a
+#3 c
+x a
+#2c da
+x a
+b
+
+b
+#2c da
+x  a
+#3c aa
+x  b
+x  d
+x a
+b
+2ab  d
+#3 a
+x  d
+#2a b d
+x  d
+b
+#2a b d
+x   c
+#3a  cd
+x  a
+x  b
+x  d
+b
+2 df c
+#3  d
+x  b
+#2 da c
+x  b
+b
+2 d  c
+#3  a
+x   c
+1 da c
+b
+
+b
+2.a  c a
+3     c
+2 a   d
+#3 d
+x c
+b
+2 df c
+#3 d  c
+xa   e
+2ca a
+#3da c
+xc
+b
+#3d
+xc
+xa
+x d
+#2 cd  c
+xaa   d
+b
+#2 c ca
+xa   d
+x  a c
+x e
+b
+0a  c a
+0a  c a
+b
+Q
+P
+e

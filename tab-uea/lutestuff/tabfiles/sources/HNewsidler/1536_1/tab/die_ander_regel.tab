@@ -1,0 +1,52 @@
+-t
+-f
+{Die Ander Regel /Hans Newsidler}
+b
+1  b"+  d
+#2     d
+x    a
+#2    c
+x    d
+b
+1  da
+#2  d
+x a
+#2 b
+x d
+b
+1a   d
+#2    d
+x   a
+#2   c
+x   d
+b
+1 d a
+#2 d
+x b
+#2 a
+x  d
+b
+
+b
+1 ab
+#2  b
+x  a
+#2   c
+x   a
+b
+1 b  d"+
+#2 b
+x a
+#2  d
+x  b
+b
+1  da
+1  bc
+1  da
+b
+Y.  b  d
+b
+b
+Q
+
+e

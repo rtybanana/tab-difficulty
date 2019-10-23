@@ -1,0 +1,136 @@
+-C
+-t
+-f
+{Prélude/Prélude}
+b
+C
+0 dfe  //a
+0    c
+b
+0 ca b
+1. da c
+2      //a
+b
+1.aab  a
+#3     a
+x     c
+0aa   d
+b
+0cce  c
+0cce  a
+b
+1.caa   a
+2aab  a
+1ccf  c
+1  e
+b
+
+b
+1.ca  c
+2   a
+1cc  b
+1     c
+b
+0ced a
+1aa   d
+1 cacb
+b
+1 caac
+1 a    //a
+1 cf  c
+#2ccd
+x     c
+b
+1 dd c
+1 ab  a
+1 cbca
+#2 da   a
+x b
+b
+#2  ba d
+x a
+0acb
+2. dde
+3 cbc
+b
+
+b
+#2c da
+x      a
+#2ac  a
+xaa   d
+1add a
+1 c    ///a
+b
+0 da a a
+0ace   /a
+b
+1.cdf   //a
+2 da c
+1. ede c
+2    c
+b
+0aab  a
+1adc  a
+1acd
+b
+0aad  a
+1 cdca
+1 b
+b
+
+b
+1 efec
+1 aa   b
+2 ab  a
+#3   c
+x  a
+#2aab
+x   c
+b
+1cdf
+2ccd
+#3  b
+x  a
+0cab
+b
+1ccee
+1cdf
+0 acd
+b
+1ccec
+1caaa
+0aa  e
+b
+0 adbc
+0 cbcb
+b
+1 aaac
+1
+1 ca b
+1
+b
+
+b
+1 aabc
+1      //a
+1 acc a
+1
+b
+1 cf   d
+1 acd  /a
+1 ce  c
+#2 dfe
+x cec a
+b
+1 aaa  a
+#2 cec  /a
+x aaa  //a
+1 dfe c
+1 cee  5
+b
+w dfec //a
+b
+b
+
+e

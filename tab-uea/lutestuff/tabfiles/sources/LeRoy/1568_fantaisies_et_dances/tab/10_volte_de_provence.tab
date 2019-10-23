@@ -1,0 +1,185 @@
+-C
+-t
+-f
+{10. La volte de Provence/10. La volte de Provence}
+b
+c
+#2  d a
+x a
+x c
+x d
+b
+.
+0acd a
+1c da
+1 d
+b
+1da c
+1c  a
+1acd a
+#2 d
+xa
+b
+1cdda
+#2a
+xc
+1da c
+1c  a
+b
+1acd a
+1   c
+1acd
+1    a
+b
+
+b
+#2   a
+x a
+x c
+x d
+1acd
+1   c
+b
+1acd a
+#2b
+xa
+#2 d
+x b
+x a
+x  d
+b
+1 ac  a
+1  d a
+0f de
+b
+1da c
+1c  a
+1acd a
+#2 d
+xa
+b
+1cdda
+#2a
+xc
+1da c
+1cd a
+b
+
+b
+1acd a
+#2 d
+xa
+1cdda
+#2a
+xc
+b
+1da c
+1cd a
+1.acd a
+2 d
+b
+1 cd a
+1 db c
+1 dba d
+1 cd a
+b
+0 dda
+1 dda
+#2a
+xc
+b
+1dabc
+1dcbc
+0cdda
+b
+1 da c
+#2a
+xc
+1da c
+1dc c
+b
+
+b
+1.cdda
+2a
+1 dda
+#2a
+xc
+b
+#2da c
+xa  {
+xc
+xd   }
+1cdda
+1cdda
+b
+1aab  d
+1 db c
+1 ddca
+1 cdca
+b
+0 dda
+1 dda
+#2a
+xc
+b
+1dabc
+1dcbc
+1.cdda
+2a
+b
+
+b
+1 da c
+#2a
+xc
+#2da c
+x  d{
+x a
+x c  }
+b
+1.cdda
+2a
+1 dda
+#2a
+xc
+b
+#2da c
+xa
+#3c
+xa
+xc
+xd
+1cdda{
+#2cdd  }
+x   a
+b
+#2     d
+xaab  {
+x db   }
+x    c
+2 cd a
+#3 d  {
+x c
+#3 d
+x c
+x a
+x c   }
+b
+
+b
+A1
+0 dda
+#2  d a
+x a
+x c
+x d
+.
+b
+b
+A2
+Y dda
+b
+b
+
+e

@@ -1,0 +1,213 @@
+-C
+-t
+-f
+{Entrée 9/Entrée 9}
+b
+W   a  a
+W    d /a
+W    a ///a
+b
+b
+c
+1  dca
+#2      ///a
+x a
+#2 b  a
+x  d
+1aa c e
+b
+0abdca
+1 db c
+2.d
+3b
+b
+#2abb d
+xb
+1d
+#2 bdda
+x   c
+1 aba d
+b
+1 bbcd
+#2a
+xb
+1db c
+#2fa d
+x  d
+b
+
+b
+#2da c
+x  b
+x b
+xb
+#2a b d
+x  d
+1 dff d
+b
+1 bbcd
+#2      /a
+x    d
+1 bbc
+1    c
+b
+1abd a
+#2      ///a
+x d
+#2 b  a
+x d
+1 a   e
+b
+2  dca
+#3      ///a
+x a
+#3 b
+x d
+2a
+#2    c
+x db
+2.d
+3b
+b
+
+b
+#2a   d
+x  b
+x   c
+x  b
+#2 bdda
+x   c
+2. bba d
+3 a
+b
+#2 b
+x      /a
+xa   d
+xb  a
+#2d  c
+x    d
+xf  d
+x   a
+b
+#2d  c
+x    d
+xb d
+xa b
+#2 d d d
+x b c
+2. bba d
+3 a
+b
+1 b  d
+#2      /a
+x    d
+#2 bbc
+x d
+xa
+xb
+b
+
+b
+#2dbb d
+x      /a
+xdbb
+x    c
+1if ha
+#2hf g a
+x  i
+b
+1ffghhf
+#2   h
+x  f
+#2 fg
+x   f
+1f dd
+b
+1da c
+#2  b
+x b
+1bd a
+1af  d
+b
+#2 dff d
+x   f
+x df
+x   d
+1d bc
+#2b da
+x a
+b
+#2abb d
+x      /a
+xabb
+x d
+1 bd   a
+2 ac  a
+#3  d
+x a
+b
+
+b
+#2  d a
+x      ///a
+x    a
+x   c
+1  dc
+1    c
+b
+#2   cd
+x  a
+x  b
+x    c
+#2 b  a
+x   c
+x a   e
+x   a
+b
+#2  d df
+x    f
+x    d
+x    c
+#2   ca
+x     d
+x  dc b
+x   a
+b
+#2     a
+x  b
+x    c
+x    d
+#2  dd  a
+x a
+x      /a
+x bbc
+b
+
+b
+#2     d
+x   a
+x ab
+x     b
+#2  b  a
+x b
+x ddd  a
+x  f
+b
+#2      /a
+x    d
+xafg
+x d
+2 bd   a
+#3 d
+x b
+#2 a
+x     a
+b
+1  dca
+#2      ///a
+x    a
+0  dc
+b
+b
+
+e

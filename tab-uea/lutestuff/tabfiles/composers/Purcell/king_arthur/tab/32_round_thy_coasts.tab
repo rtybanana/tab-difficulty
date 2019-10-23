@@ -1,0 +1,134 @@
+-C
+-t
+-f
+{/}
+b
+x    e /a
+b
+b
+c
+1.b c e
+2b c e
+1.ccde
+2ccde
+b
+1\4ea a
+#2\1b \3c \2c
+x\3c \4d
+#2\1b \2c \4e
+x   a
+x    e
+x    c
+b
+1.cc  a
+2cc  a
+1ea ac
+1fc   c
+b
+1ccd e
+1bcc   /a
+0ccd  c
+b
+b
+1.ccde
+2ccde
+1ec d
+1fca
+b
+1ff  e
+1eg    /a
+0ccd  c
+b
+1. dde
+2 ac
+#2 cd
+x  c
+x da
+x c c
+b
+
+b
+#2 aaa
+x    e
+x acac
+x  dee
+#2  c\2d\3e
+x    c
+x    a
+x     \3e
+b
+1 \2c\3d\1ca
+1 \3d&{aa
+1\2cd&}  \1c
+#2\4ea a \1c
+x\2cc\3d&{
+b
+1c d \4e
+1bcc   /a
+#2cc\2d  c
+x     \3e
+x    a
+x\4f\3e   \1c
+b
+#2f   \2e
+xe  \1b&{
+x\2c  c&}
+xa \3e&{ \2e
+1 eg&}  e
+#2\1e\2f\4h  a
+x\2c \3d&{
+b
+1a\2c&{d  \1c&(
+1 e&}\4g  e&)
+0 \1cc\2d  /a
+b
+b
+1.ccee
+2ccee
+1.cd  c
+2acd a
+b
+1 df  e
+#2aac a
+x cd
+#2aacc
+x   e
+x   c
+x   a
+b
+
+b
+1.a dce
+2c dce
+1cdda
+1fc  a
+b
+1fa c
+1ed   a
+0fcd a
+b
+1.b c e
+2b c e
+1.ccde
+2ccd\3e
+b
+1\4ea a
+#2\1b \3c \2c
+x\3c \4d
+#2\1b \2c \4e
+x   a
+x    e
+x    c
+b
+1.cc  a
+2cc  a
+1ea ac
+1fc   c
+b
+1ccd e
+1bcc   /a
+0ccd  c
+b
+b
+
+e

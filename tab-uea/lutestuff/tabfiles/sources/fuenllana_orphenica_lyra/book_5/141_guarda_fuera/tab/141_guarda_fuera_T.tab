@@ -1,0 +1,563 @@
+-C
+-t
+-f
+{141. Guarda fuera/Miguel de Fuenllana}
+b
+c
+0. d
+1 d
+b
+0fd
+1  d
+1f d
+b
+0fb
+1 df
+1 d
+b
+0b d
+0bd
+b
+1a
+#2 c
+x a
+1 d
+1 c
+b
+w d
+b
+0.  b
+1  b
+b
+0  d
+1   a
+1bdda
+b
+1
+1bdda
+0dabc
+b
+1abd a
+0ffgh
+1fgia
+b
+0effc
+0fcd a
+b
+
+b
+0a
+1  d
+1a
+b
+1a
+1b d
+1a d
+1 de
+b
+1a d
+1  b
+0acd
+b
+1  d a
+1ac
+1ac
+1b d
+b
+1acd
+1 de
+1acd
+1 ac
+b
+1 cd
+1  d
+1 dda
+1  d
+b
+1  d
+1 de
+1 bd
+1 ab
+b
+1ffgh
+1   h
+1  gh
+1ff
+b
+1ffg
+1giif
+1ffgh
+1dde
+b
+
+b
+1fggd
+#2 d
+x   f
+1ff h
+#2  h
+x  f
+b
+0ffh a
+1  d
+1a
+b
+1  d
+1ac
+1acd
+1b d
+b
+1acd
+1 de
+1acd
+1 ab
+b
+1 cd a
+1  d
+1   c
+1 c  a
+b
+1 dda
+1  d
+1b d
+1a ef d
+b
+1 cdca
+1 dbab
+1  dca
+1 c
+b
+w d ef
+b
+Y
+b
+b
+0fgia
+1f ia
+1 g
+b
+0fggd
+1 dd
+1   d
+b
+
+b
+1dde b
+1b
+1b
+1  d
+b
+1 bb d
+1b
+0a
+b
+0bb d b
+0  d
+b
+0 d a
+0 db
+b
+1dab  d
+1  b
+1df  d
+1d
+b
+1a d d
+1    d
+0fb  a
+b
+0 d df
+0 gd
+b
+1d b c
+1b
+1abb d
+1 d
+b
+1abb
+1 a
+0 dbac
+b
+1  dca
+1 d
+0 c
+b
+0 d df
+0  d
+b
+
+b
+1  d
+1  d
+1  d
+1  b
+b
+1 d
+1   d
+1 db
+1 d
+b
+1 d a
+1   d
+1 b
+1 ab
+b
+1. bd
+2  dd
+1 dff
+1dc c
+b
+1bd a
+1 d
+1bd
+1ac
+b
+1 d
+1   a d
+1 ab
+1 bdd b
+b
+1. dedb
+2 def d
+1 d ab
+1 cdca
+b
+0 dda
+1
+1 d
+b
+0fg
+1fg
+1fg
+b
+1bd
+1df  d
+0fg d
+b
+
+b
+0  dd
+1  d
+1  dd
+b
+1   df
+1  bc
+0f dd
+b
+1 d
+1bd
+0df
+b
+1a d
+0ffgh
+1fgia
+b
+0effc
+0fcd a
+b
+0a
+1  d
+1a
+b
+1a
+1b d
+1a d
+1 de
+b
+1a d
+1  b
+0abd
+b
+1  d a
+1ab
+1ab
+1b d
+b
+1abd
+1 de
+1acd
+1 ab
+b
+
+b
+1 cd
+1  d
+1 dda
+1  d
+b
+1  d
+1 de
+1 bd
+1 ab
+b
+1ffgh
+1   h
+1  gh
+1ff
+b
+1ffg
+1giif
+1ffgh
+1dde
+b
+1fggd
+#2 d
+x   f
+1ff h
+#2  h
+x  f
+b
+0ffh a
+1  d
+1a
+b
+1  d
+1ac
+1acd
+1b d
+b
+1acd
+1 de
+1acd
+1 ac
+b
+1 cd a
+1 cd
+1   c
+1 c  a
+b
+
+b
+0. dddf
+1a ef d
+b
+1 cdca
+1 dbab
+1  dca
+1 c
+b
+w d df
+b
+Y
+b
+b
+0fgia
+1f ia
+1 g
+b
+0fggd
+1 dd
+1   d
+b
+1dde b
+1b
+1b
+1  d
+b
+1 bb d
+1b
+0a
+b
+0bb d b
+0  d
+b
+0 d a
+0 db
+b
+1dab  d
+1  b  d
+1df  d
+1d
+b
+1a d d
+1    d
+0fb  a
+b
+
+b
+0 d df
+0 gd
+b
+1d b c
+1b
+1abb d
+1 d
+b
+1abb
+1 a
+0 dbac
+b
+1  dca
+1 d
+0 c
+b
+0 d df
+0  d
+b
+1  d
+1  d
+1  d
+1  b
+b
+1 d
+1   d
+1 db
+1 d
+b
+1 d a
+1   d
+1 b
+1 ab
+b
+1. bd
+2  dd
+1 dff
+1dc c
+b
+1bd a
+1 d
+1bd
+1ac
+b
+
+b
+1 d
+1   a d
+1 ab
+1 bdd b
+b
+1 dedb
+1. def d
+2 d ab
+1 cdca
+b
+w dda
+b
+0   a
+0  dd
+b
+1 b d
+1   c
+1 dgd
+1  ff
+b
+1bbd
+1 d
+1bd
+1ac
+b
+#2bd
+xd
+1f
+1 b
+1 a
+b
+1 b
+1f
+0e
+b
+1f d
+0f  d
+1a   d
+b
+1b  a
+1  d
+1 b  a
+1a  cd
+b
+
+b
+1  b
+#2 d df
+x   c
+1 d db
+1  b
+b
+1a d a
+#2 c
+x a
+1 c
+1a d
+b
+1a
+1b d
+1a d
+1 de
+b
+1a d
+1  b
+0acd
+b
+1  d a
+1ac
+1ac
+1b d
+b
+1acd
+1 de
+1acd
+1 ab
+b
+1 cd
+1  d
+1 dda
+1  d
+b
+1  d
+1 de
+1 bd
+1 ab
+b
+1ffgh
+1   h
+1  gh
+1ff
+b
+
+b
+1ffg
+1giif
+1ffhh
+1dde
+b
+1fggd
+#2 d
+x   f
+1ff h
+#2  h
+x  f
+b
+0ffh a
+1  d
+1a
+b
+1  d
+1ac
+1acd
+1b d
+b
+1acd
+1 de
+1acd
+1 ac
+b
+1 cd a
+1 cd
+1   c
+1 c  a
+b
+0. dddf
+1a ef d
+b
+1 cdca
+1 dbab
+1  dca
+1 c
+b
+w d ef
+b
+w
+b
+b
+
+e

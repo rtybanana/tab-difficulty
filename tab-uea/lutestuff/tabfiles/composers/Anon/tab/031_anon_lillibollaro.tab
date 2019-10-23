@@ -1,0 +1,198 @@
+-C
+-t
+-f
+{Lillybollaro and Joy to the Person/Lillybollaro and Joy to the Person}
+b
+1.   c
+2  a
+1   c
+b
+0  c   a
+1  c
+b
+1.  a&, a
+2  c
+1  a
+b
+0  d
+1     a
+b
+#1     c
+x a
+x   c
+b
+#1     d
+x  d
+x  c
+b
+1.  a&, a
+2   c
+1   b
+b
+
+b
+0   c
+1      a
+b
+b
+0ca    a
+1     a
+b
+0ca   c
+1 a
+b
+1. d
+2c
+1 d
+b
+0 c-- d
+1 a
+b
+#1 a   c
+x c
+xb    a
+b
+2cU    a
+1.aX
+2 a
+b
+2 cU  d
+1. aX
+1  c
+b
+
+b
+0  aba
+1      ///a
+b
+#1 cU  d
+x aX
+x  d
+b
+#1  cU  a
+x  dX
+x a
+b
+#1 cU  d
+x aX
+x  d a
+b
+#1  c c
+x  d
+x a
+b
+#1     c
+x a
+x   c
+b
+1.  d  d
+2 a
+1  c
+b
+
+b
+1.  a&, a
+2   c
+1   b
+b
+0.   c  a
+b
+b
+C
+#1 a  a
+x    c
+#1  a d
+x  b
+b
+0  d  a
+0   a
+b
+#1   c  a
+x  a
+#1  b
+x   c
+b
+0.  aad /a
+1  a
+b
+#1   c  a
+x   a
+#1    c
+x    a
+b
+0.    c&,a
+1    a
+b
+
+b
+0    a
+0      ///a
+b
+b
+#1    a ///a
+x    c
+#1   a  //a
+x   c
+b
+#1  aa  /a
+x      //a
+#1 a
+x c
+b
+#1 d    ///a
+x a
+#1 c   a
+x  d
+b
+#1 a  a
+x    c
+#1  a d
+x  b
+b
+0  da a
+#1   a
+x   c
+b
+
+b
+#1     b
+x  a
+1.   c&, d
+2   a
+b
+0   a
+0      /a
+b
+b
+#1  dcc
+x     d
+#1  aa
+x      /a
+b
+0.  dcc
+1  d
+b
+#1 a    ///a
+x    a
+#1   a
+x   c
+b
+0.  a&,a  /a
+1  a
+b
+#1   c  a
+x   a
+#1    c
+x    a
+b
+
+b
+0.    c&,a
+1    a
+b
+0.    a
+1      ///a
+b
+b
+
+e

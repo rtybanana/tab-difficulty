@@ -1,0 +1,41 @@
+-C
+-t
+-f
+{The leaves be green/The leaves be green}
+b
+1 abc
+b
+.
+1. abc
+2 a
+1 aabc
+b
+0 acc a
+1 abc
+b
+1. abc
+2 a
+1 aabc
+b
+0 acc a
+1 abc
+b
+1. abc
+2   e
+1 dff
+b
+1 dde
+1    f
+1 dff
+b
+1. dda
+2 d
+1 cd a
+b
+0 ddef
+1 dde
+.
+b
+b
+
+e

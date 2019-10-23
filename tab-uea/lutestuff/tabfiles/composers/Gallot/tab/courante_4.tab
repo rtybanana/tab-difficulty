@@ -1,0 +1,211 @@
+-C
+-t
+-f
+{Courante 4/Courante 4}
+b
+W   a  a
+W    e /a
+W    c //a
+W    a ///a
+b
+b
+1 d
+b
+1 ddd  a
+#2    f-
+x  dd-
+1  ef-
+b
+#2 bb  a
+x b
+1. b cd
+2  e
+b
+1.  d db
+2   a
+#2   c
+x   d
+b
+
+b
+1  bd a
+2   c
+#3   a
+x   c
+#2    e-
+x  d
+b
+#2   d  a
+x   c
+#2   a
+x  d
+#2  e
+x b
+b
+1  d d-
+1 dd b-
+1a b-
+b
+1. c c  ///a
+2 c
+#2 d
+xa
+b
+1b d   a
+1dd  b
+1b b-
+b
+1.a b d-
+2 d
+#2 b
+x  e
+b
+
+b
+1b d-
+1.b b d-
+2a
+b
+1a   e-
+#2      /a
+x   c
+#2  d
+x  d
+b
+#2 d d  a
+x b
+#2 a
+x  c
+#2  d
+x a
+b
+1  ccf-
+#2  cc
+x  c
+1  ccfa
+b
+#2  dcd-
+x  d
+1  d ca
+#2   a-
+x  c
+b
+1  d
+1      ///a
+1    a
+b
+
+b
+0  dc
+.
+b
+b
+.
+1a
+b
+1acd a
+#2      ///a
+xac
+1bd
+b
+1bb  a
+1.aa   e
+2 d
+b
+1. c c  ///a
+2  d
+2  b
+#3   d-
+x  b
+b
+#2   d-
+x d
+2 c c-
+#3 d
+x c
+#2 d
+x    c-
+b
+
+b
+1a   e-
+1 d a-
+#2 b c-
+x  e
+b
+#2  dd-
+x  d
+1.  bdd-
+2   c
+b
+1   df-
+#2      a
+x   d
+#2  b  a
+x   c
+b
+1  d  b
+#2   a-
+x a
+1 b d  a
+b
+1  cc a
+#2  cc
+x  c
+1  d  c
+b
+1 a   e
+1a  c-
+#2  f
+x d
+b
+
+b
+1 bdca
+1 ad  a
+#2  c
+x   a-
+b
+1  dce-
+0      ///a
+b
+1.fg
+2df
+1bd
+b
+1b d-
+#2a
+x  b-
+1bd d-
+b
+1.da c-
+2d
+1   a-
+b
+1d d e-
+1d     a
+1cdda-
+b
+
+b
+#2d    d
+x d
+#2  e
+xd
+1.bdd   a
+2a
+#2      ///a
+xb
+#2a
+x  d
+b
+1 d
+1      a
+1    f-
+b
+0 ddd
+.
+b
+b
+
+e

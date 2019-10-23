@@ -1,0 +1,167 @@
+-C
+-t
+-f
+{/Alfonso Ferrabosco}
+b
+c
+1. aabc
+2    a
+#2 a c d
+x  a  c
+1 abc a
+b
+1 aacc
+#2   b
+x  d
+1 abc a
+#2aabc
+xc
+b
+#2dabc
+xc a
+xaab
+x ea
+1.da c
+2c  a
+b
+1.a bcd
+2    c
+#2abd a
+x    c
+x bd d
+x    a
+b
+1 bdc
+1aabc
+1 aba
+1  def
+b
+1  ba
+1  dce
+1.  def
+2 a
+b
+
+b
+#2  def
+x  b
+x b ca
+x  a
+#2 a bc
+x   c
+x aa c
+x   b
+b
+1 a cd
+#2  dcd
+x   e
+1  bcc
+#2  abc
+x   c
+1 aa c
+1  a b
+b
+1 aa c
+1  c  e
+1 ca b
+1. ea c
+2    a
+#2aa   e
+x     c
+b
+#2aac  a
+x e
+1 ca  c
+#2 aa  e
+x   c
+1 a c e
+1 c ca
+1 a bc
+b
+1 a ce
+#2a e
+x   e
+1aab c
+1 da c
+b
+1dc c
+#2cca
+xa
+#2 dff
+x   e
+xaabc
+x   a
+b
+
+b
+#2a d d
+x a  c
+xabd a
+#3     d
+x     c
+1aa c a
+1 abc
+b
+1ca c
+#2   b
+x    e
+#2 aab
+x  bc
+x aac
+x   b
+b
+1aa c
+#2 a
+x   a
+1ab cd
+#2  a
+x db c
+b
+#2 dba
+x  a
+x  b
+xa dcd
+#2 daa
+x  b
+x dba
+x  a
+b
+1. aba d
+2     c
+1 abc a
+1  dcd
+b
+1 ab c
+#2  a
+x    a
+1 a c e
+1  dca
+b
+#2aa c
+x  a
+x db
+xa
+1ca b
+1aa c
+b
+
+b
+#2 aa c
+x    e
+x  da
+x     c
+2 ad  d
+#3  b
+x  a
+#2 ab  d
+x    a
+#2  fec
+x   c
+x  fec
+x  d
+b
+0 acc a
+b
+b
+
+e

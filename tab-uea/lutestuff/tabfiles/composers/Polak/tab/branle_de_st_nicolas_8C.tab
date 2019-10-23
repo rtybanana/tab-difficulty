@@ -1,0 +1,367 @@
+-C
+-t
+-f
+{Branle de St. Nicholas/Branle de St. Nicholas}
+b
+c
+w    d /a
+b
+b
+1 aba d
+1   a
+1  b  d
+1  d a
+b
+1 aba d
+1   a
+1 ab
+1    a
+b
+1 d  c
+1  b
+1 bbcd
+#2    c
+x    a
+b
+1 aba d
+1   a
+1 ab
+#2   c
+x   a
+b
+1  ba d
+#2  aa
+x    d
+1  b c
+1  d a
+b
+1 aba d
+#2  d
+x a
+1  b
+#2   a
+x    d
+b
+
+b
+#2 d  c
+x  b
+x b
+x d
+#2a   d
+x  b
+x d a
+x b
+b
+1 aba d
+#2  a
+x   c
+1   a
+#2  b
+x  d
+b
+1 aba d
+1 ab
+1  da  a
+#2 a
+x  d
+b
+1aab  a
+#2  a
+x   c
+1 aabc
+1    c
+b
+1aabc
+#2     a
+x  d
+1  bc
+1  aa
+b
+1abb d
+1      /a
+1  bc
+#2 a  c
+x  b
+b
+#2  d a
+x    c
+x    a
+x     d
+1  d  c
+1 a   d
+b
+
+b
+#2  da  a
+x   c
+x   a
+x    d
+#2    c
+x  b
+x d  a
+x b
+b
+#2 ab cd
+x    a
+x    c
+x    d
+#2  da
+x  b
+1  aa  a
+b
+1ddf  d
+1   f
+1ddf
+#2 i
+xf
+b
+#2h  f
+x   h
+x  f
+x  h
+1fhi
+1    f
+b
+#2da c
+x  a
+x  b
+x  d
+1cef
+1    c
+b
+1da c
+#2     a
+xf
+1da c
+1c  a
+b
+1abb d
+1      /a
+1abb
+#2ca
+xd
+b
+
+b
+#2f d
+x  f
+x  d
+x   f
+1fd e
+1h  f
+b
+1fd    a
+#2   a
+xd
+#2c
+x    d
+x d  c
+x  b
+b
+#2a   d
+xc
+xdb
+x a
+#2   a
+xd
+1c d
+b
+0.ddf  d
+#2   c
+x  a
+b
+#2  b
+x     d
+x    a
+x    c
+#2    d
+x  b
+2  da
+#3  b
+x  d
+b
+#2 a
+x     d
+x d
+x b
+#2 a
+x  b
+xd
+xc
+b
+
+b
+#2a   d
+x b
+xf
+xd
+#2c  a
+x d
+xa
+xc
+b
+0.ddf  d
+#2a
+xc
+b
+#2d
+x f
+xc
+x d
+#2a
+x b
+x d
+x    d
+b
+#2 d  c
+x  b
+x b  d
+x a
+#2  d
+x     b
+x     a
+x      a
+b
+#2      /a
+xa
+xc
+xd
+#2f     a
+x  b
+x da
+x b
+b
+0 aba d
+1   a
+#2 b
+x d
+b
+
+b
+#2a
+x   c
+xc
+xa
+#2 ea c
+x a
+x c
+x e
+b
+1aabc
+#2   a
+x    e
+1 ea c
+1    c
+b
+1aabc
+#2     a
+xc
+#2d
+x   c
+xc  a
+xd
+b
+1abb d
+1      /a
+1ab
+1 df
+b
+1 bd
+#2    a
+x d
+#2 bd
+x d
+x ab
+x b
+b
+1  def
+#2      a
+x a
+#2  d
+x    d
+x    c
+x    a
+b
+1 aba d
+#2     c
+x     a
+#2      a
+xd
+1cdda
+b
+
+b
+1dab  d
+1   a
+1dab
+#2 d
+x b
+b
+#2 a   d
+x  b
+x b
+x a
+#2  d   a
+x   a
+xh a
+xf
+b
+1da c
+#2  d a
+x  b
+#2  a c
+x   c
+x a b
+x  d
+b
+#2  bc a
+x  a
+x  bc
+x  d
+#2da
+x b
+x  da
+xc
+b
+1abb d
+#2      /a
+xb
+#2a
+x   a
+x    d
+x    c
+b
+#2    a
+x d
+x b
+x a   d
+#2  d  c
+x a
+1  b  a
+b
+
+b
+#2fd    a
+x   c
+x   a
+xa   d
+#2 d  c
+xa
+1 b  a
+b
+#2 a   d
+x  b
+x b
+x a
+#2  d   a
+x  b
+1cdda
+b
+1dd f d
+1   f
+Yddf
+b
+b
+
+e

@@ -1,0 +1,331 @@
+-C
+-t
+-f
+{64. Courante/Anonymous}
+b
+1a
+b
+1  d
+1ab
+1aab
+b
+#2   d
+xa
+x d
+x b
+1 d
+b
+1a
+1     a
+1    c
+b
+0 acc
+1a
+b
+1 bd
+#2 a
+x b
+1 d
+b
+1  b
+#2   d
+x   c
+x   a
+x    d
+b
+1    c
+1     a
+1   c
+b
+0 ac
+1a
+b
+1 b
+1    a
+1  d
+b
+
+b
+1 d  c
+1  b
+1 d
+b
+1a   d
+1 b
+1d
+b
+#2b     a
+xa
+x d
+x b
+x a
+x  d
+b
+1  c  a
+1      a
+1a     /a
+b
+#2 d    a
+x b
+1. a   a
+#3  d
+x a
+b
+1  d
+1    a
+1      //a
+b
+0  dc
+1a
+b
+b
+1  d
+1ab
+1aab
+b
+#2   d
+xa
+x d
+x b
+1 d
+b
+1a
+1     a
+1    c
+b
+
+b
+1. acc
+2b
+#2a
+x d
+b
+1 bd
+#2 a
+x b
+1 d
+b
+1  b
+#2   d
+x   c
+x   a
+x    d
+b
+1    c
+1     a
+1   c
+b
+1. ac
+2b
+#2a
+x d
+b
+1. b  a
+2d
+#2b
+xa
+b
+1. d  c
+2f
+#2d
+xb
+b
+1.a   d
+2d
+#2b
+xa
+b
+#2b  a
+xa
+x d
+x b
+x a
+x  d
+b
+
+b
+1  c  a
+1      a
+1a     /a
+b
+#2 d    a
+x b
+1. a   a
+#3  d
+x a
+b
+1  d
+1    a
+1      //a
+b
+0  dc
+1a
+b
+b
+1. b  a
+#3 a
+x b
+1  d
+b
+1. a   d
+#3  d
+x a
+1  b
+b
+1  d
+1     b
+1   c
+b
+1   a
+1    d
+1   a
+b
+1  bc a
+1 b
+1     a
+b
+1  d  b
+1 d
+1     d
+b
+
+b
+1 b    /a
+1    d
+1   c
+b
+1 bb
+#2a
+xb
+xd
+xa
+b
+1f
+1   d
+1d  c
+b
+1b  a
+1 d  c
+1d
+b
+1a
+1    d
+1 d  c
+b
+1 b  a
+1 a   d
+1  d  b
+b
+1  c  a
+#2  a
+x  c
+x  d   /a
+x a
+b
+#2 b    a
+x d
+1. a   a
+#3  d
+x a
+b
+1  d
+1    a
+1      //a
+b
+
+b
+1.  dc
+2b
+#2a
+x d
+b
+b
+#2 b  a
+x d
+x b
+x a
+1  d
+b
+#2 a   d
+x b
+x a
+x  d
+1  b
+b
+1  d
+1     b
+1   c
+b
+1   a
+1    d
+1   a
+b
+1  bc a
+#2 b
+x d
+x b
+x a
+b
+1  d  b
+#2 a   d
+x b
+x d
+xa
+b
+1 b
+1    d
+1      /a
+b
+1 bb
+#2a
+xb
+xd
+xa
+b
+
+b
+1f
+#2   d
+xf
+x   c
+xd
+b
+1b  a
+1 d  c
+#2d
+xb
+b
+1a
+#2    d
+xb
+x d  c
+xa
+b
+#2 b  a
+x d
+x a   d
+x b
+x  d  b
+x a
+b
+1  c  a
+#2  a
+x  c
+x  d   /a
+x a
+b
+#2 b    a
+x d
+1. a   a
+#3  d
+x a
+b
+1  d
+1    a
+1      //a
+b
+Y.  dc
+b
+b
+
+e

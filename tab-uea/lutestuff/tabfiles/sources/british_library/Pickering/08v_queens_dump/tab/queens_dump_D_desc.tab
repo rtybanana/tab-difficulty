@@ -1,0 +1,790 @@
+-C
+-t
+-f
+{The Queen's Dump/The Queen's Dump}
+b
+c
+1. d
+2 b
+#1 a
+x  d
+b
+#1  b
+x   d
+#1   c
+x   a
+b
+1.   c
+2   a
+#1    d
+x    c
+b
+#1    d
+x   a
+#2   c
+x  a
+1  b
+b
+1.  a
+2  b
+#1  a
+x   c
+b
+#1   a
+x    d
+#1    c
+x    a
+b
+1. a
+2 b
+#2 a
+x  d
+x  b
+x  a
+b
+#1  b
+x   a
+0     d
+b
+b
+
+b
+#2    c
+x    a
+x    c
+x    d
+#1   a
+x    d
+b
+1    c
+#2     d
+x    a
+#2    c
+x    d
+1   a
+b
+#2   c
+x   a
+x   c
+x   d
+#1  b
+x   d
+b
+1   c
+#2    d
+x   a
+#2   c
+x  a
+1  b
+b
+#2  a
+x   c
+x  a
+x  b
+#1  d
+x  b
+b
+1  a
+#2   a
+x   c
+#2  a
+x  b
+1  d
+b
+#2 a
+x  d
+x a
+x b
+#1 d
+x b
+b
+
+b
+1 a
+#2  b
+x  d
+#2 a
+x b
+1 d
+b
+b
+1 d
+#2 a
+x b
+#2 d
+x b
+x a
+x  d
+b
+1  b
+#2   c
+x   d
+#2  b
+x   d
+x   c
+x   a
+b
+1   c
+#2  b
+x   d
+#2   c
+x   a
+x    d
+x    c
+b
+1    d
+#2    c
+x    d
+#2   a
+x   c
+x  a
+x  b
+b
+1  a
+#2    c
+x    d
+#2   a
+x   c
+x  a
+x  b
+b
+1  d
+#2  a
+x  b
+#2  d
+x a
+x b
+x  d
+b
+
+b
+1 a
+#2 b
+x a
+#2  d
+x a
+x b
+x  d
+b
+1 a
+#2    c
+x    d
+#2   a
+x    d
+x    c
+x    a
+b
+b
+#2     d
+x    a
+x    c
+x    d
+#2   a
+x    d
+x   a
+x   c
+b
+#2   a
+x    d
+x    c
+x    a
+#2    c
+x    d
+x   a
+x    c
+b
+#2    d
+x    c
+x    d
+x   a
+#2   c
+x   a
+x   c
+x  a
+b
+#2  b
+x  a
+x   c
+x   a
+#2   c
+x  a
+x  b
+x   c
+b
+
+b
+#2  a
+x   c
+x   a
+x    e
+#2   a
+x   c
+x  a
+x  b
+b
+#2  d
+x  b
+x  d
+x a
+#2 b
+x a
+x b
+x  d
+b
+#2 a
+x  d
+x  b
+x  a
+#2  b
+x  d
+x a
+x b
+b
+#1 d
+x a
+0  b
+b
+b
+#2   a
+x    d
+x    c
+x    a
+#1     d
+x   a
+b
+#1    c
+x     d
+0     d
+b
+#2  b
+x   d
+x   c
+x   a
+#1    d
+x  b
+b
+#1   c
+x    d
+0    d
+b
+
+b
+#2  d
+x  b
+x   d
+x   c
+#1   a
+x  d
+b
+#1  a
+x   a
+0   a
+b
+#2 d
+x b
+x a
+x  d
+#1  b
+x d
+b
+#1 a
+x  b
+0  b
+b
+b
+#2 a
+x b
+1 d
+#1 a
+x  b
+b
+#2    c
+x    d
+1   a
+#1    c
+x     d
+b
+#2a
+xb
+1d
+#1a
+x b
+b
+#2   c
+x   d
+1  b
+#1   c
+x    d
+b
+#2  a
+x  b
+1  d
+#1  a
+x   a
+b
+
+b
+#2  d
+x a
+1 b
+#1  d
+x  a
+b
+#2  b
+x  d
+1 a
+#1  b
+x   a
+b
+#2 a
+x b
+1 d
+#1 a
+x  b
+b
+b
+1 a
+#2 d
+x b
+1 a
+#2 d
+x b
+b
+1 a
+#2 d
+x b
+1 a
+#2d
+xb
+b
+1a
+#2d
+xb
+1a
+#2d
+xb
+b
+1a
+#2d
+xb
+1a
+#2  d
+x  b
+b
+1  a
+#2  d
+x  b
+1  a
+#2  d
+x  b
+b
+
+b
+1  a
+#2  d
+x  b
+1  a
+#2 d
+x b
+b
+1 a
+#2 d
+x b
+1 a
+#2 d
+x b
+b
+1 a
+#2 d
+x b
+1 a
+#2   a
+x    d
+b
+b
+1    c
+#2   a
+x    d
+1    c
+#2   a
+x    d
+b
+1    c
+#2   a
+x    d
+1    c
+#2  b
+x   d
+b
+1   c
+#2  b
+x   d
+1   c
+#2  b
+x   d
+b
+1   c
+#2  b
+x   d
+1   c
+#2  d
+x  b
+b
+
+b
+1  a
+#2  d
+x  b
+1  a
+#2  d
+x  b
+b
+1  a
+#2  d
+x  b
+1  a
+#2 d
+x b
+b
+1 a
+#2 d
+x b
+1 a
+#2 d
+x b
+b
+1 a
+#2 d
+x b
+0 a
+b
+b
+1.  b
+2  d
+#1 a
+x b
+b
+#1 d
+x a
+0  b
+b
+1.   c
+2   d
+#1  b
+x  d
+b
+#1  b
+x   c
+0    d
+b
+1.  a
+2  b
+#1  d
+x a
+b
+#1  d
+x  a
+0   a
+b
+
+b
+1. a
+2 b
+#1 d
+xa
+b
+#1 d
+x a
+0  b
+b
+b
+#2  b
+x  d
+x a
+x b
+#1 d
+x d
+b
+#2  b
+x  d
+x a
+x b
+#1 d
+x d
+b
+#2 b
+x a
+x b
+x d
+#1a
+xa
+b
+#2 b
+x a
+x b
+x d
+#1a
+xa
+b
+#2  a
+x   c
+x  a
+x  b
+#1  d
+x  d
+b
+#2  a
+x   c
+x  a
+x  b
+#1  d
+x  d
+b
+
+b
+#2  b
+x  a
+x  b
+x  d
+#1 a
+x a
+b
+#2  b
+x  a
+x  b
+x  d
+#1 a
+x a
+b
+b
+#2    c
+x    a
+x    c
+x    d
+#1   a
+x   a
+b
+1   a
+#2   a
+x    d
+#2    c
+x    a
+1     d
+b
+#2   c
+x   a
+x   c
+x   d
+#1  b
+x  b
+b
+1  b
+#2  b
+x   d
+#2   c
+x   a
+1    d
+b
+#2  a
+x   c
+x  a
+x  b
+#1  d
+x  d
+b
+
+b
+1  d
+#2  d
+x  b
+#2  a
+x   c
+1   a
+b
+#2 a
+x  d
+x a
+x b
+#1 d
+x d
+b
+1 d
+#2 d
+x b
+#2 a
+x  d
+1  b
+b
+b
+#1d
+x d
+#1 d
+x d
+b
+#1 a
+x d
+#1 d
+x d
+b
+#1a
+x b
+#1 b
+x b
+b
+#1  d
+x b
+#1 b
+x b
+b
+#1  d
+x  a
+#1  a
+x  a
+b
+#1   a
+x d
+#1 d
+x d
+b
+
+b
+#1 a
+x  b
+#1  b
+x  b
+b
+#1   a
+x    c
+#1    c
+x     d
+b
+b
+#1     d
+x   a
+#2   a
+x    d
+x    c
+x    a
+b
+#1     d
+x  b
+#2  b
+x   d
+x   c
+x   a
+b
+#1    d
+x   c
+#2   c
+x   a
+x    d
+x    c
+b
+#1    d
+x b
+#2 b
+x a
+x  d
+x  b
+b
+#1  a
+x  d
+#2  d
+x  b
+x  a
+x   c
+b
+#1   a
+x d
+#2 d
+x b
+x a
+x  d
+b
+
+b
+#1  b
+xb
+#2b
+xa
+x d
+x b
+b
+1 a
+#2 d
+x b
+#2 a
+x  d
+x  b
+x  a
+b
+b
+#2  b
+x  a
+x  b
+x  d
+#2 a
+x  d
+x a
+x b
+b
+#2 d
+x b
+x a
+x  d
+#2 a
+x b
+x d
+x a
+b
+#2 b
+x a
+x b
+x d
+#2a
+x d
+xa
+xb
+b
+#2a
+x d
+x b
+x a
+#2 b
+x a
+x  d
+x  b
+b
+
+b
+#2  a
+x   c
+x  a
+x  b
+#2  d
+x  b
+x  a
+x   c
+b
+#2  a
+x   c
+x   a
+x    d
+#2   a
+x    d
+x    c
+x    a
+b
+1     d
+#2    a
+x    c
+#2    d
+x   a
+x   c
+x  a
+b
+w  ba d
+b
+b
+
+e

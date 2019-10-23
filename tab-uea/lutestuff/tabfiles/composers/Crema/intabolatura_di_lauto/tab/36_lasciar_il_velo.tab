@@ -1,0 +1,550 @@
+-C
+-t
+-f
+{36. Lasciar il velo/36. Lasciar il velo}
+b
+c
+0 aaac
+#2 aaac
+x  d
+x  b
+x  a
+b
+#2  bcd
+x  a
+x  bcd
+x  d
+1 aa c
+1   b
+b
+1 ab  a
+1   c
+1  bc
+1 aab
+b
+#2 abc
+x d
+x c
+x a
+#2 ca
+x a
+1 ce
+b
+1 dfec
+#2  f
+x c
+#2d f
+xa
+1c d
+b
+#2  b
+xc
+1a bc
+1c a c
+1 a b
+b
+
+b
+#2  bcd
+x  d
+xa b
+x  a
+1a bc
+1a dca
+b
+#2 d  c
+x  b
+1a b d
+#2 cd a
+xa
+x da
+x b
+b
+1 ab  d
+1dabc
+1dabc
+1dabc
+b
+1cdda
+1 dfec
+#2cdda
+x   c
+x   e
+x   a
+b
+#2acd a
+x a
+x c
+x d
+1aabc
+#2  dca
+x d
+b
+1 cdca
+1 aba d
+#2    d
+x   c
+x  de
+x   c
+b
+#2 aaac
+x  d
+x a
+x c
+1 d
+1 dff
+b
+
+b
+1 fff
+1 fff
+1ccd
+1f
+b
+1ddf
+#2     d
+xc
+1aab  d
+#2 db  d
+x  a
+b
+#2 cdca
+x a
+x cd
+x  b
+#2 daac
+x c
+x a
+x  de
+b
+#2 abc
+x  aa
+x   ce
+x   ac
+1  dce
+1  aa
+b
+1  aa
+1 a ac
+1  bcd
+#2d
+x  d
+b
+#2 a ac
+xa
+xc
+x  d
+1a b
+1 df
+b
+1a
+#2  de
+xc
+1d bc
+1c da
+b
+
+b
+#2  bc
+xa
+xa d d
+x   c
+#2 aa c
+x c
+1 ef
+b
+#2a bcd
+x    c
+x    d
+x   a
+1aabc
+1 daac
+b
+1abd a
+1 aba d
+#2    a
+xabd
+x a
+x  d
+b
+Yaac  a
+b
+1.aabc
+2 d
+b
+1acd a
+#2   c
+xd
+#2cdda
+xa
+x d
+x c
+b
+1 db  d
+#2 d
+x     c
+1aab  a
+1dabc
+b
+1dabc
+1acbc
+#2c da
+x a
+1dabc
+b
+
+b
+1    e
+#2  ee
+x   c
+1 dfec
+1 d
+b
+1 d
+1aab  d
+#2 db  d
+x a
+x c a
+x d
+b
+#2 cdca
+x a
+x d c
+x c
+#3 daac
+x    a
+x    c
+x    e
+#3   a
+x    e
+x    c
+x    a
+b
+#2  bac
+x  a
+x  bcd
+x  d
+#2 bbc
+x   a
+1  b c
+b
+#2 bd a
+x  b
+x ba
+x   c
+#2 aba d
+x  d
+x a
+x b
+b
+
+b
+#2 dba d
+x b
+1 dff
+1 fff
+1 fff
+b
+1ccd
+1ccd
+1 df
+1cdf
+b
+1da c
+#2  b
+xc
+#2a bc
+x d
+x cf
+x a
+b
+1 c e
+1  e
+1 a  c
+1dabc
+b
+1dabc
+1dabc
+1cdda
+1 dfec
+b
+2cdda
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+#2acd a
+x  c
+x  d
+x a
+b
+
+b
+2acd a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#2 cd
+x  b
+x dfec
+x   a
+b
+1a  ce
+1c e
+1 dfec
+1  ff
+b
+1 dff
+1 dde
+1 bbc
+#2 aa
+x   a
+b
+1  dce
+1 a ac
+1 c ca
+1a dcd
+b
+#2 aa c
+x c
+x ef
+x  d
+#2da c a
+x  a
+x  bc
+xc
+b
+#2a bc
+x d
+1 dde
+#2a bc
+x  a
+x ab
+x  aa
+b
+#2 c ce
+x  d
+1 dfec
+#2 cdca
+x a
+xa  cd
+#3c
+xa
+b
+
+b
+#2 ea c
+xa
+x c
+x e
+1a bc a
+1 a
+b
+1 ab
+1  de
+#2  bc
+x  d
+x a
+x c
+b
+1 dff
+1 dde
+#2aabc
+xc
+xda
+x  a
+b
+#2d b
+x c
+1cdda
+1aabc
+1 daac
+b
+1aabc
+#2  dca
+x d
+1 cde
+1 abac
+b
+#2    d
+x   c
+x  de
+x   c
+1 aaac
+#3 b
+x a
+x  d
+x  b
+b
+1  de
+1 abc
+1 aaa
+1  dcd
+b
+
+b
+1 aa c
+1c
+#2da c a
+xa
+xc
+xd
+b
+#2cd
+x c
+xcdf
+x  d
+1dabc
+#2     a
+x     c
+b
+#2     d
+x    a
+x    c
+x    d
+#2cdda
+x c
+x d
+xa
+b
+#2cdda
+x    d
+x    c
+x    a
+1dab  d
+1   a
+b
+1dab  d
+#2c
+x  d
+1a b
+1 df
+b
+1 c e
+1  e
+1 ab
+1   c
+b
+1 aa c
+1   a
+#2 b cd
+x    c
+x    d
+x   a
+b
+
+b
+#2   c
+x  a
+1 ab c
+1 bd a
+1  a
+b
+1 ab  d
+1   a
+1 abc
+1  de
+b
+#3   c
+x  a
+x  b
+x  d
+#2 a
+x   a
+#2 a  c
+x   ce
+1  def
+b
+1  dcd
+#2  ba
+x    c
+1 bb a
+1  a
+b
+1 ab  d
+#2 d
+x  a
+1 db
+#2 ab  d
+xa
+b
+#2 dff d
+x   e
+x   c
+x   a
+#2 cdca
+xa
+x d
+x c
+b
+
+b
+1 daac
+1 c
+#2 abc
+x  a
+x  b
+x  aa
+b
+1  dcd
+1  def
+1  a
+1 a ac
+b
+2  bcd
+#3a
+xc
+#2d
+x  d
+#2da ac
+xc
+#3d
+xc
+xa
+x d
+b
+1a b
+1 df
+1aab
+#2  de
+xc
+b
+1d bc
+1c da
+#2  bc
+xa
+1abd
+b
+1 ab c
+1 ea
+#2a bc
+x   a
+xa bcd
+x    c
+b
+
+b
+#2a dcd
+x  a
+x ab
+x    c
+1abd a
+1 ab  d
+b
+#2    a
+xabd
+x a a
+x  d
+1aac  a
+1   c
+b
+Yaac  a
+b
+b
+
+e

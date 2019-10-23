@@ -1,0 +1,480 @@
+-C
+-t
+-f
+{Venise/Venise}
+b
+x   a  a
+x    d /a
+x    c //a
+b
+b
+1 a
+b
+1.  b ca
+2  a
+#2  b
+x   c
+b
+1  d  c
+#2   b-
+x a
+1  d
+b
+1  bc a
+1.  a a
+2   c
+b
+1   bc
+1      //a
+1 a
+b
+
+b
+#2  b  a
+x  a
+#2  b
+x   c-
+#2  a-
+x  b
+b
+#2  d  c
+x   c-
+#2   b-
+x a
+1  d
+b
+1  bc a
+#2      //a
+x    c
+#2  ac-
+x   b
+b
+1   c
+0     a
+b
+1a  c-
+1. dde-
+2 d
+b
+1 dff d
+#2 df
+x d
+1 dd  c
+b
+
+b
+#2   e-
+x  d-
+#2 b
+x b
+#2      a
+x d
+b
+#2 a   d
+x a
+0 aba-
+b
+1. bbc-
+2 a
+1 b  a-
+b
+1. db c-
+2a
+1 b  d-
+b
+1 a a-
+#2 b
+x   c-
+1  dd-
+b
+1  cc-
+#2     a
+x  d
+#2 a
+x   a-
+b
+#2    e-
+x   c-
+#2  d
+x  b
+#2   d
+x   c
+b
+
+b
+1   d  a
+#2    f-
+x   f
+#2   e
+x    d-
+b
+1  bac
+1.   fdf
+2  a
+b
+1.  ba d
+2  d
+#2 a
+x b
+b
+#2 dff-
+x d
+1 dff d
+#2 df
+x d
+b
+1 ede c
+#2 ed
+x e
+#2 ed
+x ede
+b
+#2a b  a
+xa b
+1.a a   //a
+2 e
+b
+1aab  a
+0   c-
+b
+
+b
+1  bc-
+1  d
+#2 aab-
+x a
+b
+#2   c-
+x  a
+#2  b
+x   a-
+#2    e-
+x  d
+b
+1.  dcd-
+2  a
+1  bac-
+b
+1.  aa  //a
+2  a
+1  aac
+b
+#2  e  c
+x  e
+1  eee-
+#2  c
+x  e
+b
+1 aab  //a
+#2 aa
+x a
+#2    c-
+x  db-
+b
+
+b
+1  b  a
+1.  ac  //a
+2   b
+b
+1   c
+0     a
+b
+#2   c-
+x  a
+#2  b
+x   a-
+#2    d-
+x  d
+b
+#2    c-
+x  d
+#2 a
+x b
+#2 d
+x a
+b
+#2 b  a
+x  d
+2  b
+#3  a
+x  b
+#2  a
+x d
+b
+
+b
+1 a   d
+#2   a-
+x  b-
+#2 a
+x b
+b
+1  d   a
+#2   ef-
+x a
+#2   b-
+x  d
+b
+1  b  a
+#2   c-
+x  b
+#2   e-
+x  d
+b
+1 a    a
+1. a c  /a
+2  d
+b
+1 a    //a
+#2  a
+x  b
+#2   c-
+x  a
+b
+#2    c
+x   b
+#2      //a
+x   c
+#2  a
+x    a
+b
+
+b
+#2     e
+x  a
+#2   c
+x    e-
+#2   a
+x   c
+b
+#2    ef
+x   b
+#2   c
+x    a
+#2     e
+x   d
+b
+#2  a  c
+x  c
+#2  d
+x    e-
+#2  c
+x   d
+b
+1  a
+#2     c
+x  b
+#2  da-
+x a
+b
+#2  b  a
+x  a
+#2   c-
+x   a
+#2    e-
+x  d
+b
+
+b
+#2      a
+x   c
+#2  a
+x   a-
+#2    d-
+x  d
+b
+1  b c
+#2      a
+x  b c
+#2    a-
+x  a
+b
+#2  b  d
+x  d
+#2 a
+x   c-
+#2  a-
+x  b
+b
+#2  d  c
+x   c-
+#2   b-
+x a
+#2  d
+x a
+b
+#2  b  a
+x  a
+1.  a   //a
+#3   c
+x  a
+b
+1   c
+0     a
+b
+
+b
+1. ab  a
+2  b
+1  de-
+b
+1.  bc-
+2   c-
+1 a a-
+b
+1 a  d-
+1  d
+1 a  c-
+b
+1 b  a-
+1   c-
+1  a
+b
+1. cb  a
+2 d
+#2 c
+x a
+b
+1.  ee c
+2  f
+#2  e
+x   c-
+b
+1 a a-
+1.  e ec
+#3  c
+x  e
+b
+
+b
+1  f
+1      //a
+1    a
+b
+#2 d   e
+x d
+1 d c
+#2 b
+x a
+b
+1 b  a-
+1 a  c-
+1  d d-
+b
+1a b c-
+1.a a   //a
+2 e
+b
+1aab  a
+0   c-
+b
+1  b-
+1.  de-
+2 a
+b
+1. bbc-
+2 b
+1 d a-
+b
+
+b
+1.aa  d-
+#3  d-
+x  b
+#2  d-
+xa
+b
+1 e  c-
+0      //a
+b
+#2 e  c-
+x e
+1 efe-
+#2 ef
+x e
+b
+1a    a
+#2 a
+x  c
+#2a
+x d
+b
+1 cd-
+1. acc-
+2 c
+b
+1 d    a
+1  aa-
+1 d
+b
+#2 a   d
+x a
+1 aba-
+#2 ab
+x a
+b
+
+b
+1 b  a
+1 a   d
+1  d  c
+b
+#2  b  a
+x  a
+1.  a   //a
+#3   c
+x  a
+b
+1   c
+0     a
+b
+#2  b  a
+x  b
+1.  bcc-
+2  d
+b
+#2  a   a
+x  a
+1  a a-
+#2  b c-
+x   a
+b
+#2   c  /a
+x   c
+1   c d
+#2  a a
+x   c
+b
+#2   b  //a
+x   b
+0   bcf
+b
+
+b
+#2 a   e
+x a
+1 a c-
+#2  d
+x a
+b
+#2 b  a
+x  a
+#2 a   d
+x   c
+#2  d  c
+x   b
+b
+#2  b  a
+x  d
+1.  a   //a
+#3   c
+x  a
+b
+1   c
+0     a
+.
+b
+b
+
+e

@@ -1,0 +1,661 @@
+-t
+-f
+{Alexander Agricola  Part 2/Hans Newsidler}
+b
+0 d  c
+0a   d
+b
+0c  a
+0d    d
+b
+0a   a
+0 d  c
+b
+1d    d"+
+#2d
+xc
+1a   a
+1 d  c
+b
+1     d"+
+#2 b
+x a
+0  da
+b
+1   c
+1  a
+0   a
+b
+1d
+#2d   d"+
+xc
+1a
+1 d a
+b
+1     d"+
+#2 b
+x a
+1  d"+
+1   e
+b
+1  b
+0   c
+1  a
+b
+
+b
+0    c
+1    d
+1   a
+b
+1   a
+#2    d
+x    c
+0    a
+b
+1d    d"+
+#2d
+xc
+1a    d"+
+1 d
+b
+1 d   d"+
+#2 b
+x a
+0  d a
+b
+1  bc
+1  b
+1  d"+
+1   e
+b
+0 ab
+1  b"+ d
+1     d
+b
+0  da
+0 a   d
+b
+1 b"+
+1    a
+0  bc
+b
+1  d d
+1   a
+#2 a a
+x    c
+1   c
+b
+
+b
+#2 b"+ c
+x    d
+1   d
+#2 d"+ d
+x   a
+1  b
+b
+#2  b
+x  a
+x   c
+x   a
+0  d d
+b
+1 a  c"+
+1 a
+1 b"+d
+1  b
+b
+0 da
+0a  c
+b
+0 ab
+1  d
+1   a
+b
+1 a   d"+
+1  b
+#2 bb
+x   c
+1  a
+b
+1 d  c"+
+1 a
+#2aa
+x  b
+1  d
+b
+0c  a
+1d"+   d
+#2    d
+x    c
+b
+1    a
+1d    d
+1    a
+1c
+b
+
+b
+1d    d"+
+#2d
+xc
+1a
+1 d
+b
+0 a
+0 b
+b
+1 ab
+#2  b
+x  a
+1 b c
+1 d a
+b
+#2 d  c"+
+x b
+1 a
+1    d"+
+1  d
+b
+0 a  c"+
+1  d
+1  b
+b
+1 a
+#2 a
+x b
+1 d  c"+
+#2 d
+xa
+b
+1c   a
+1d"+    d
+1    c
+1f   d
+b
+0c  a
+1 d
+1a
+b
+1a
+#2 d
+x b
+0 ab
+b
+
+b
+1 a a
+1   c"+
+1 b
+#2   a
+x    d
+b
+0 d  c
+1a
+1c
+b
+#2c
+xa
+1 d
+#2 c
+x d
+x a
+x c
+b
+1 d  c
+#2 d
+x b
+1  d d
+1 a a
+b
+#2 a a
+x  d d
+1  b"+ c
+1    a
+1  a
+b
+0  b  d
+1  d
+1 a
+b
+#2 a
+x  d
+1  b
+0  a
+b
+1  b"+c"+
+1a
+1c d
+1da
+b
+
+b
+#2d
+xc
+xa d
+x  b
+1  a
+1 e
+b
+0a  c
+1a  c
+#2   a
+x    d
+b
+1    c
+#2    d
+x    c
+#2   a
+x    d
+x    c
+x    a
+b
+1     d"+
+0  b
+#2  a
+x   c
+b
+1   a
+0   c
+#2   a
+x    d
+b
+0c   c
+0c   c
+b
+0c
+0d
+b
+0a
+0c
+b
+0  f"+
+0 d
+b
+1 a
+1 d
+#2 d
+xa
+1c
+b
+
+b
+1d
+1c
+#2c
+xa
+x d
+x b
+b
+0 ab
+1   c
+0  b
+b
+1   c
+0  b
+b
+1   c
+0  b
+1   c
+b
+0 db
+1 b
+1 a
+b
+0 d
+1 b
+1 a
+b
+0 d
+1 b
+1 a
+b
+0 db
+1 b
+1 a
+b
+1 db"+
+#2 d
+xa
+1c d
+1d b
+b
+#2d  c
+xc
+1a
+1    c"+
+1 e
+b
+
+b
+1a
+1   c
+1 a a
+1   c
+b
+1a
+#2   a
+x    d
+1 a a
+1   c
+b
+1a
+1  a
+1 ab
+1   c
+b
+1 b"+
+1  a
+0 d  c
+b
+1 b
+1 ab
+#2 db
+x  a
+1   a
+b
+1  bc"+
+1  b
+#2d"+ b
+x  a
+1   c
+b
+1c  a
+1a d
+1d  c
+#2da
+xc
+b
+#2 df
+x  d
+1  b
+1 bd
+1 a c
+b
+
+b
+1 d a
+#2 da
+x b
+#2  de
+x   c
+x   a
+x    d
+b
+1 a  c
+1     d
+1  d a
+1  b  d
+b
+1    d
+1  aa
+0   ca
+b
+0   ac
+1  b c
+1    d
+b
+1  d"+
+1    d
+0 a  c
+b
+1 a  c
+1   c"+
+1 b
+1   c
+b
+1 d a
+1  b
+1a
+#2  a
+x   c
+b
+0c  a
+0d   d
+b
+1  b"+ c
+1    d
+0  da
+b
+1     d"+
+1 a
+0 b  a
+b
+
+b
+0 a  c
+1    d"+
+1a
+b
+1    c"+
+1 d
+1 b"+
+1   c
+b
+1 a
+1   a
+1    d"+
+1  d
+b
+0 d  c
+0 b  a
+b
+0 a a
+1    d"+
+1a
+b
+1    c"+
+1 d
+1a
+#2 d c
+x b
+b
+1 a
+1   a
+1   c
+#2   a
+x    d
+b
+1  a c"+
+#2  a
+x  b
+1  d a
+1 a   d
+b
+#2 a  c"+
+x  d
+1 a
+1 b  a
+1 d   d
+b
+
+b
+1    c
+1a   d
+1c   a
+1d    d"+
+b
+#2d
+xc
+1 d
+1a   a
+1 a   d
+b
+#2 a  c"+
+x  d
+1  b
+1  a a
+1  b  d"+
+b
+#2  b
+x  a
+1  bc
+1  da
+#2  d
+x  b
+b
+#2  d
+x a
+x  d
+x  b
+1  da
+1 d
+b
+1 d a
+#2 b
+x a
+#2 b a
+x a
+x  d
+x  b
+b
+0  da
+0 db
+b
+
+b
+1  b
+#2  a
+x   c
+1 d"+ a
+1    c
+b
+1    d
+1   a
+1 d   d
+1  b
+b
+1  b
+#2  a
+x   c
+1 da
+1  b
+b
+#2  b
+x   c
+1  a
+0 d  c
+b
+0a
+1 d  c
+1 a
+b
+0 b
+1 a  c"+
+1  b
+b
+#2  d
+x  b
+x  a
+x   c
+0   ac
+b
+0   cd
+1  a c
+1   cd
+b
+0  a c
+0   cd
+b
+1   ca
+1  a
+1    a
+1  a c
+b
+
+b
+1  b"+
+1    c
+1  b d"+
+1  d
+b
+1    d
+1  da
+1 a
+1   a
+b
+1 a c"+
+1 b
+1   c"+
+1 b
+b
+1 d"+
+1   d
+0  bc
+b
+1  bc
+1  da
+1    d"+
+1  d
+b
+1 a  c
+1     d
+1 ab
+1 ba
+b
+1   c"+
+1 b
+1 d a
+#2   a
+x   c
+b
+#2 da
+x  b
+1a  c
+1  d"+
+1c
+b
+1d b
+#2d  a
+xc
+1a  c
+1 d  c
+b
+
+b
+1 ba
+1 a   d
+1  d a
+1  bc
+b
+1   c
+#2   a
+x    d
+0  a c
+b
+1   cd
+1  a c
+1  bc
+1  da
+b
+1 ab
+1 ba
+1 d  c
+1a   a
+b
+1c  a
+1d    d
+#2f
+xd
+xc   a
+xa
+b
+1 d  c
+#2 b   d"+
+x a
+#2 b
+x a
+x  d a
+x  b
+b
+1  a c
+1   cd
+0  ac
+b
+Ya  c a
+b
+b
+Q
+
+e

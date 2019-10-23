@@ -1,0 +1,76 @@
+-C
+-t
+-f
+{250. Courante - La volta/Anonymous}
+b
+#2c
+xa
+x d
+1c aa
+2   a
+b
+#3d
+xc
+#2a
+x d
+1f aa
+2   a
+b
+#3d
+xc
+#2a
+x d
+2.f aa
+3d
+2c  a
+b
+#2d    d
+xadd a
+x c
+1 dda
+2   a
+.
+b
+b
+.
+#3 d
+x c
+x d
+xa
+xc
+xd
+2f aa
+#3d
+xf
+2h  f
+b
+
+b
+2d  c
+#3c
+xd
+2f   a
+#2c aa
+x d
+x  d
+b
+#3 d
+x c
+x d
+xa
+xc
+xd
+2.f aa
+3d
+2c  a
+b
+#2d    d
+xadd a
+x c
+1 dda
+Y d
+.
+b
+b
+
+e

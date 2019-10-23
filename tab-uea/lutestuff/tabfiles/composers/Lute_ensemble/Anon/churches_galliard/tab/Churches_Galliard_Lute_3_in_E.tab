@@ -1,0 +1,105 @@
+-C
+-t
+-f
+{Churches Galliard/Churches Galliard}
+b
+1 ab  d
+1 ab
+1 ab  d
+b
+1. ab  d
+2 b
+1 db  d
+b
+1 dd  c
+1  b  a
+1   c
+b
+0  de  a
+1 daa
+b
+
+b
+1 dba d
+1 db
+1 db  d
+b
+0 ddef
+1  dcd
+b
+1  bc
+1  dff
+1   e
+b
+0 ab  d
+1 ab
+.
+b
+b
+.
+0  def
+1  d ef
+b
+0  def
+1 daa
+b
+
+b
+1 ab  d
+1a   d
+1   c
+b
+0 ea c
+1 aa c
+b
+1 ab  d
+1  bcd
+1 daa
+b
+0 ab  d
+1  dca
+b
+1   cd
+1  acc
+1   b
+b
+0  cc a
+1  cc
+.
+b
+b
+
+b
+.
+0 ddef
+1 ab  d
+b
+0 ddef
+1 b ca
+b
+0 dff d
+1 ddef
+b
+0 dff d
+1 dff d
+b
+1 bb d
+1 db c
+1abb d
+b
+0 db  d
+1 bbcd
+b
+
+b
+1  bc
+1  dff
+1   e
+b
+0 ab  d
+1 ab
+.
+b
+b
+
+e

@@ -1,0 +1,370 @@
+-C
+-t
+-f
+{Galliard 39/Galliard 39}
+b
+2.f dca
+3 a
+2 b
+#3 d
+xa
+1bdda
+b
+2.abd a
+3    c
+2    d
+#3   a
+x   c
+1f dd
+b
+1.db c
+#3   d
+x  b
+1abd
+b
+2.aab
+3 d
+#2a
+xb  d
+#2da c
+xab
+b
+#2bd
+x   a
+#2ab c
+x   d
+#2 dff
+x   a
+b
+#2   d
+x  d
+#2 abc
+x b
+#2 dda
+x a
+b
+#2 bd
+x    a
+#2 ab c
+x    d
+#2  def
+x    a
+b
+
+b
+2.  bcd
+3  a
+#2  b
+x  d
+#2 ab
+x    c
+b
+#2 bd
+x    a
+2 adc
+#3  c
+x  a
+#2  cc a
+x d
+b
+#2    a
+x cd
+#2   c
+x d
+1 cdca
+b
+b
+2.  dca
+3 a
+2 b
+#3 d
+xa
+#3b  a
+x d
+xa
+xb
+b
+2.abd a
+3    c
+2    d
+#3b
+xd
+1f dd
+b
+1.db c
+#3   d
+x  b
+1abd
+b
+2.aab
+3 d
+#2a
+xb  d
+#2da c
+xab
+b
+
+b
+#2bd
+x   a
+#2ab c
+x   d
+#2 dff
+x   a
+b
+#2   d
+x  d
+#3 a c
+x  d
+x a
+x b
+#3 d a
+x b
+x d
+x a
+b
+#2 bd
+x    a
+#2 ab c
+x    d
+#2  def
+x    a
+b
+2  b d
+#3   c
+x  a
+#3  b
+x  a
+x  b
+x  d
+#3 a  c
+x  b
+x  d
+x a
+b
+#3 b  a
+x  d
+x a
+x b
+#3 a c
+x  d
+x  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+
+b
+#2  dca
+xa
+#3   c
+x d
+x c
+x a
+1 cd a
+b
+b
+#2    a
+x b
+#2  d
+x   d
+#2   a
+x d
+b
+#2  b
+x b
+#2 a
+x  d
+#2  bc
+x   a
+b
+#2    d
+xd
+#2a
+x    d
+#2abd a
+xf
+b
+#2   a
+xda
+#2c d
+xa   d
+#2 db c
+x    a
+b
+#2     d
+x d
+#2 ab
+x     d
+#2 abc a
+xa
+b
+#2    a
+x df
+#2 bd
+x    a
+1 ab  d
+b
+
+b
+#2 abc a
+xa
+#2 aa c
+x    a
+#2 ea c
+x  d
+b
+2aac  a
+#3   c
+x  a
+#3  c
+x  d
+x a
+x  d
+1aac  a
+b
+b
+2    a
+#3 b
+x a
+2  d
+#3   d
+x   c
+#2   a
+x d
+b
+#2  b
+x b
+#2 a
+x  d
+#2  bc
+x   a
+b
+2    d
+#3d
+xb
+2a
+#3    d
+x    c
+#2abd a
+xf
+b
+#2   a
+xda
+#2c d
+xa   d
+#2 db c
+x    a
+b
+
+b
+2     d
+#3 d
+x b
+2 a
+#3     d
+x     c
+#2 abc a
+xa
+b
+#2    a
+x df
+#2 bd
+x    a
+2 ab  d
+#3 b
+x d
+b
+#3a    a
+xc
+xd
+xa
+#3c   c
+x f
+x e
+x c
+#3 e
+x f
+xc
+x e
+b
+2aa   a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+1   c
+b
+b
+#2 bd a
+xa
+#2a b c
+x da
+#2a d d
+x bd a
+b
+#2 a
+x a c e
+#2  dca
+xf dd
+#2f  c
+xe
+b
+
+b
+#2f  a
+xbdda
+#2a
+xa d e
+#2bdda
+x db c
+b
+#2 dd a
+x c
+#2 db  d
+x ab  d
+#2  da
+x     c
+b
+#2 ab  d
+xda   a
+#2d da
+xc
+#2db  d
+xa
+b
+1. dff
+2 bd
+#2 dff
+xab
+b
+#2bd
+x   a
+2aadc
+#3  c
+x  a
+#3  c  a
+x  d
+x a
+x  c
+b
+2  dca
+#3  a
+x  c
+#3  d
+x a
+#4 c
+x a
+x c
+x d
+Y cdca
+b
+b
+
+e

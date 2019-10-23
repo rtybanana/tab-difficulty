@@ -1,0 +1,375 @@
+-C
+-t
+-f
+{Nightingale/Nightingale}
+b
+c
+1
+2.  a
+3  a
+1 aa\2dd\1b
+2. d
+3 d
+b
+1. \3dc\1c a
+2 \1b
+1 aa\3d  5
+#2 \1b&,
+x \4d
+b
+0\2c"#\1baa  //a
+1 \3da   ///a
+#2 \1b
+x a
+b
+1 \1ba
+1      //a
+1. aa"#   5
+2 \1b
+b
+1a
+1     a
+#2      a
+x \4d  a
+2. \2c  "#
+3  a
+b
+#2a
+x      /a
+x    \3d{
+x   \1c
+1 \4d\2c "#
+2. \4d    }
+3 d
+b
+
+b
+1. \4d\2c\1c\3d /a
+2 \1b&,
+1. a"#aa  a
+2      /a
+b
+1 \2baa\1b //a
+1    \1b
+1 baa
+#2 \1b
+x a
+b
+1  \2c
+1    \3d
+1      /a
+#2 a    //a
+x \1b
+b
+1 \4d{   ///a
+1    a
+1  a }
+1\2c
+b
+1 \1b    4
+1   \4d&,
+1   \2c
+1 \4d
+b
+1. a"#    5
+2  a
+1 \4d&,
+#2 \1b
+x a
+b
+1      /a
+1  \4e\3d
+1.  \1c&#\1c
+2 a  "#
+b
+#2  a
+x      5
+x     \1b
+x    \2d
+1 aad
+2.  a
+3  a
+b
+b
+
+b
+2 aaddb
+#3   \2c
+x   a
+2    \3d
+#3 a
+x \1b
+2a\4d\2c  a
+#3 \1b
+x a
+2 \1b
+#3 a
+x  \2c
+b
+2 a"#    5
+#3  \2c
+x a
+2  a
+#3 \1b
+x \4d
+0\2c\1ba   //a
+b
+2 \3da   ///a
+#3 \1b
+x a
+#2 \1ba
+x      //a
+2  a   5
+#3 a
+x \1b
+2a    a
+#3     b
+x     a
+b
+#2      a
+x \4d&, a
+2. \2c "#
+3  a
+#2a
+x      /a
+#2    \3d
+x   \1c
+b
+1ad\2c
+2.  \1c
+3  \1c
+2.  \1c "#  /a
+#4  a
+x  \1c
+2   \2c
+#3  a
+x  c
+b
+
+b
+2 a"#    a
+#3  \2c
+x a
+2  a
+#3  \2c
+x a
+2 \1b    //a
+#3    \1b
+x    \3d
+2   a
+#3   \1c
+x   \2d
+b
+2  \1c   /a
+#3   \1c
+x   a
+2.    \2d
+#4 a
+x \1b
+#2 d    ///a
+x    a
+x  a
+#3  \1c",
+x a
+b
+#2 b    4
+x  a
+x   \2c
+#3   \3d
+x  c
+b
+2 a    5
+#3    b
+x    d
+2   a  //a
+#3   c
+x   d
+2 \1b \2c  /a
+#3   \3d
+x a
+2  c   /a
+#3  a
+x   c
+b
+#2  a
+x      5
+x     b
+x    d
+1 aad
+#2a
+xa
+b
+b
+
+b
+2aaaddb
+#3\1c
+x\3e
+2\4f
+#3\3e
+x\1c
+2a"#    a
+#3  \2c
+x a
+2 \1b
+#3 \3d
+x \1b
+b
+2 a"#    5
+#3     \1b
+x     \3d
+2    a
+#3    \1b
+x    \3d
+2    \1b{//a
+#3   a
+x   \1c  }
+2   \3d  ///a
+#3   \2c
+x   \3d
+b
+2   a\1b //a
+#3    \3d
+x    \1b
+2    a\1b5
+#3    a
+x    \1b
+2    \4d\3dc
+#3      a
+x    \4d\1b
+2.    \2c
+3     a
+b
+#2    d
+x      /a
+x    \3d
+x   \1c
+1adcc
+2.    \3d
+3    d
+b
+
+b
+1    \3d /a
+2.     \2d
+3    a
+2    \1b
+#3    \3d
+x    \1b
+2    a"# a
+#3     \3d
+x    a
+b
+2     \1b
+#3   a
+x   a
+2   a  //a
+#3   \2c
+x   \3d
+2  \2ca\1b
+#3  a
+x  c
+b
+2   \1c
+#3  a
+x  \1c
+2  \3e
+#3  \1c
+x  \3e
+2  a"#   ///a
+#3  \1c
+x  a
+2    d
+#3    \1b
+x    a
+b
+2    \1b 4
+#3     \1b
+x     \3d
+2     a
+#3    \1b
+x    \3d
+2    a\1b5
+#3    \1b
+x    \3d
+2   a\1b //a
+#3   \1c
+x   \4d
+b
+
+b
+2 \1b \2c  /a
+#3   \3d
+x a
+2  \1c   /a
+#3  a
+x   \1c
+#2  a
+x      5
+x     \1b{
+x    d
+0 aad
+b
+b
+#3  a  b
+x     d
+x    a
+x    b
+#3    d
+x   a
+x   c
+x    d
+#3   d
+x   c
+x   d
+x   a
+#3   c
+x  a
+x  c
+x b
+b
+#3      5
+x b
+x a
+x  c
+#3  a
+x a
+x b
+x d
+#3      //a
+x  c
+x a
+x b
+#3 d    ///a
+x  a
+x  c
+x a
+b
+
+b
+#3      4
+x b
+x a
+x  c
+#3  a   5
+x  c
+x a
+x b
+#3a
+x     a
+x     b
+x     a
+#3      a
+x d a
+3. c
+4a
+b
+#2a
+x      /a
+x    d
+x   c
+0adcc
+b
+b
+
+e

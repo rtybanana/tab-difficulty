@@ -1,0 +1,334 @@
+-C
+-t
+-f
+{Corante/Corante}
+b
+1a"#
+b
+.
+1  d"x{
+1ab"x }
+1a b"#
+b
+#2   d{
+xa
+#2 d
+x b
+1 d"x
+b
+1a"#
+1     a
+1    c
+b
+0 acc
+1a
+b
+1. b"#d{
+#3 a
+x b
+1 d  }
+b
+1  b"#
+#2   d
+x   c
+#2   a
+x    d
+b
+1    c"x
+1     a
+1   c
+b
+0 ac"#
+1a
+b
+1 b"#
+1    a
+1  d
+b
+
+b
+1 d  c{
+1  b
+1 d    }
+b
+1a"#   d
+1 b  {
+1d    }
+b
+#2b"#     a
+xa
+#2 d
+x b
+#2 a"#
+x  d
+b
+1  c"#  a
+1      a
+1a"#     /a
+b
+#2 d    a
+x b
+1. a"#   a
+#3  d
+x a
+b
+1  d
+1    a
+1      ///a
+b
+0  d"xc
+1a"#
+b
+1  d"x{
+1ab"x  }
+1a b"#
+b
+#2   d{
+xa
+#2 d
+x b
+1 d"x   }
+b
+1a"#
+1     a
+1    c
+b
+
+b
+1. acc{
+2b
+#2a"#
+x d   }
+b
+1. b"#d{
+#3 a
+x b
+1 d }
+b
+1  b"#
+#2   d
+x   c
+#2   a
+x    d
+b
+1    c"x
+1     a
+1   c
+b
+1. ac"#
+2b
+#2a"#
+x d
+b
+1. b"#  a
+2d
+#2b"#
+xa
+b
+1. d  c{
+2f
+#2d"#
+xb
+b
+1.a"#   d{
+2d
+#2b
+xa
+b
+#2b"#     a
+xa
+#2 d
+x b
+#2 a"#
+x  d
+b
+
+b
+1  c"#  a
+1      a
+1a"#     /a
+b
+#2 d    a
+x b
+1. a"#   a
+#3  d
+x a
+b
+1  d
+1    a
+1      ///a
+b
+0  dc
+1a
+b
+1. b"#  a
+#3 a
+x b
+1  d
+b
+1. a"#   d&{
+#3  d
+x a
+1  b
+b
+1  d
+1     b&{
+1   c  }
+b
+1   a"#
+1    d
+1   a
+b
+1  bc a
+1 b"#
+1     a
+b
+1  d  b{
+1 d&(
+1     d
+b
+
+b
+1      /a
+1    d{
+1   c
+b
+1 b"#bc
+#2a
+xb
+#2d
+xa
+b
+1f"#
+1   d
+1d  c
+b
+1b"#  a
+1 d  c{
+1d
+b
+1a"#
+1    d
+1 d  c
+b
+1 b"#  a
+1 a   d
+1  d  b
+b
+1  c"#  a
+1   c
+1 b"#    ///a
+b
+1  d
+1. a"#   a
+#3  d
+x a
+b
+1  d
+1    a
+1      ///a
+b
+1.  d"xc
+2b
+#2a"#
+x d
+b
+
+b
+#2 b  a
+x d
+#2 b"#
+x a
+1  d
+b
+#2 a   d
+x b   {
+#2 a
+x  d
+1  b"#
+b
+1  d
+1     b&{
+1   c  }
+b
+1   a"#
+1    d
+1   a
+b
+1  bc a
+#2 b
+x d
+#2 b"#
+x a
+b
+1  d  b
+#2 a   d
+x b   {
+#2 d
+x a
+b
+1 b"#
+1    d
+1      /a
+b
+1 bbc
+#2a
+xb
+#2d
+xa
+b
+1f"#
+#2   d{
+xf    }
+#2   c{
+xd    }
+b
+
+b
+1b"#  a
+1 d  c{
+#2d
+xb     }
+b
+1a"#
+#2    d{
+xb     }
+#2 d  c{
+xa     }
+b
+#2 b"#  a
+x d
+#2 a   d&{
+x b    }
+#2  d  b&{
+x a
+b
+#2  c"#  a
+x   c
+#2  a
+x  c
+#2  d   ///a
+x a
+b
+#2 b
+x d
+1. a"#   a
+#3  d
+x a
+b
+1  d
+1    a
+1      ///a
+b
+A1
+0  dc
+1a"#
+.
+b
+b
+A2
+Y.  dc
+b
+b
+
+e

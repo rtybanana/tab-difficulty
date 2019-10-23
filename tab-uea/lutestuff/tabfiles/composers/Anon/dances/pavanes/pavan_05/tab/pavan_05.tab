@@ -1,0 +1,150 @@
+-C
+-t
+-f
+{Pavane 5/Pavane 5}
+b
+c
+#2 b
+x a
+x b
+x d
+b
+1.a   a
+2 d
+#1a
+x d
+b
+#1 b  a
+x a
+#1  d
+x  b
+b
+0  aa
+#1  a
+x   a
+b
+
+b
+0  aa
+#2  a
+x   c
+x  a
+x  b
+b
+1.  d a
+2  c
+#2  d
+x a
+1 b
+b
+1. a   a
+2  d
+#1 a
+x  d
+b
+0 ac  a
+#1 ac
+x     a
+b
+0 ac  a
+b
+
+b
+#2 b
+x a
+x b
+x d
+b
+1.a   a
+2 d
+#1a
+x d
+b
+#1 b  a
+x a
+#1  d
+x  b
+b
+0  aa
+#1  a
+x   a
+b
+0  aa
+#1   ca
+x   ac
+b
+
+b
+1   ca
+#2   a
+x   c
+#2  a
+x  b
+1  d
+b
+#1  c  a
+x  d
+#2  c
+x  d
+x  a
+x  c
+b
+0  d a
+#1  d
+x    a
+b
+0  d a
+.
+b
+b
+.
+#1  d
+x  c  a
+b
+
+b
+1.  d a
+2  c
+#2  d
+x a
+1 b
+b
+1. a  a
+2  d
+#1 a
+x  d
+b
+0 ab  a
+#1 ab
+x     a
+b
+0 ab  a
+#1  aa
+x   ac
+b
+1   ca
+#2   a
+x   c
+#2  a
+x  b
+1  d a
+b
+
+b
+#1  c  a
+x  d
+#2  c
+x  d
+x  a
+x  c
+b
+0  d a
+#1  d
+x    d
+b
+Y  d a
+.
+b
+b
+
+e

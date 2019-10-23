@@ -1,0 +1,537 @@
+-C
+-t
+-f
+{Et iterum/Et iterum}
+b
+c
+0
+0 a
+b
+1c
+1c
+1a
+1 c
+b
+1 d
+1a  c
+1ca
+1da
+b
+#2  d
+xc
+1c a
+1  b
+1a
+b
+1c d
+1da
+1  d
+1c
+b
+1d    a
+1  d
+1cd  c
+1 d  c
+b
+1 c  a
+1  d  c
+1 a   d
+1 c  a
+b
+
+b
+1 a  c
+#2  a
+x    a
+1 a   d
+1 a
+b
+0c d  c
+1a b
+1c d
+b
+1da
+1c
+#2     a
+xa
+1a
+b
+1c   c
+1  a c
+#2    a
+x   c
+x  da c
+x    e
+b
+1 a   d
+1  d a
+1  a c
+1  a
+b
+1  d  c
+1 cd
+1a  c
+1a d
+b
+1 a
+1a b
+1  a
+1 d
+b
+
+b
+1 c
+1 a
+1   c
+1  d
+b
+1 ab  d
+1  b
+1   a d
+#2     d
+x   c
+b
+#2  a   a
+x  b
+x  d
+x     a
+#2     c
+x  b  d
+1   ca
+b
+#2a
+x  a
+x  b  d
+x   c
+#2  a  c
+x  b
+x  d
+x  a
+b
+1  b  a
+1.     d
+#2     c
+x  a   a
+x     a
+b
+
+b
+#2  d  c
+x     d
+1  d a
+#2   c
+x     d
+x     c
+x     a
+b
+#2 d    a
+x c
+x a    a
+x  d
+1 aa c
+1 a
+b
+1    c
+1 a
+1  b
+1   c
+b
+1 a
+#2   c
+x  d
+1  b
+1   c
+b
+1    e
+1  d a
+#2     c
+x  b
+1  a   a
+b
+1.  d a
+2  c
+1  a a
+#2   c
+x   a
+b
+1  d e
+0   a
+1  d e
+b
+
+b
+1   a
+1    c
+0 a a
+b
+1c
+1c
+1d
+1 d
+b
+1c
+1 c
+1aa
+1d b
+b
+#2 a
+xc
+1a
+1  a
+1 e
+b
+1a  c
+1   c
+1 a
+1 a a
+b
+1 b  a
+1f
+1 a
+1d
+b
+1c d
+1f
+1da
+1c   c
+b
+
+b
+#2
+x d
+xa   a
+xc
+1d    d
+1     a
+b
+1     d
+1aa   d
+1c    c
+1  d
+b
+1 ab c
+1   c
+#2  a
+x   a
+x   a
+x  a
+b
+1   ce
+1.   ac
+2    a
+1 c  a
+b
+1. d  c
+2a
+1c
+1d
+b
+1
+1c
+1    c
+1a
+b
+1c a e
+1   a
+1   c
+1  a e
+b
+
+b
+1  aa
+1  b c
+1  d e
+#2c
+x   f
+b
+1c d
+1da
+1f g
+1da
+b
+#2    c
+xc d
+1c a
+1  b c
+1a   e
+b
+1 d a
+#2c
+x    e
+1   a
+1a  c
+b
+1caa c
+1c
+1da
+1fc
+b
+1dd  c
+#2c
+x c
+#2 a  c
+xa d
+1a b e
+b
+1. d a
+2    e
+1    c
+1  dca
+b
+
+b
+#2    e
+x  a
+x  b
+x  d
+0ca  c
+b
+1.f d  c
+2da
+#2ac
+xc
+1da
+b
+1
+0cd
+1ac
+b
+1c d
+1 a  c
+1 d
+1fc  a
+b
+#2     c
+x  d
+1da   d
+1ac  a
+#2 c
+x     d
+b
+1c d  c
+1da   a
+1 a
+1c   c
+b
+#2     d
+xa
+1a    a
+1    c
+1 e
+b
+b
+
+b
+0aa   a
+1 c
+0 d
+1a
+b
+#2a
+x d
+#2 c
+x a
+1c d
+1da c
+1 c
+#2f
+x  d
+b
+1da
+1ac
+#2c
+x d
+1.aa   a
+2 dd
+1 da
+b
+1a d a
+1c    c
+1 db  d
+#2 c ca
+x  a
+#2    c
+x   a
+1 a c d
+b
+
+b
+1c a  c
+1a
+1d  c
+1ca
+#2d    a
+x  d
+1a b
+b
+1c a c
+1 d
+1 c  a
+1 a  c
+#2    d
+x  d
+1  d
+b
+#2 a  c
+x  a
+1  bc
+1  aa
+1aa c
+#2   e
+x dd
+1 dd
+b
+1aa c
+1 cd
+1 df
+1ac c
+1 dde
+#2aa
+x c
+b
+
+b
+1 d
+1aab
+#2   c
+x d
+1 c  a
+#2 a  c
+xa
+#2    e
+x d  a
+b
+#2a   c
+x d
+#2 c  e
+x a
+1  dc
+#2  b
+x  d a
+1 a a
+1    c
+b
+0  bc
+1 a a
+1 a  c
+1 a a
+1  d e
+b
+1. a  c
+2    e
+1   a
+1  d c
+1  cca
+1 aaa
+b
+1 ddc
+#2 a a
+x   cc
+#2  aa
+x  d a
+1  bc
+0  a e
+b
+
+b
+1   a
+1    c
+1 a
+1   a
+#2 d
+x   c
+#2  de
+x a a
+b
+#2 c c
+x d
+#2a b
+x d
+#2 a
+x cd
+1 dfa
+1  a
+1   e
+b
+1.  bc
+2   a
+1   ce
+1    c
+1  b
+#2   a
+x   c
+b
+#2  a
+x  b
+1  e
+1   ce
+#2    c
+x  a
+#2 abc
+x  d
+1 ab
+b
+
+b
+1  aa
+1 cd e
+1   c
+1. ab c
+2  d
+1  a
+b
+0  bc
+1 a
+1 c
+0 d
+b
+1 cd
+1 db
+1 a
+1  de
+1 a
+1   a
+b
+1   c
+1  a
+1 a a
+1 c c
+1 daa
+1 a
+b
+1 c c
+1 db
+1 c c
+1 a a
+#2c
+x    e
+1da  c
+b
+
+b
+1f d e
+1da c
+1  b
+1c  a
+#2   c
+xa
+1a
+b
+1c   c
+1.  a
+2   c
+1  a
+1    e
+1 c
+b
+1. d a
+2 c
+1  de
+1 c  e
+0 a a
+b
+Y.  eeec
+b
+b
+
+e

@@ -1,0 +1,203 @@
+-C
+-t
+-f
+{13. Ground/Anthony Holborne}
+b
+c
+#2 dca
+x c
+x d
+xa
+1cdca
+#2dc c
+x a
+b
+1fd e
+#2dfa
+xcd
+1acc
+1fd e
+b
+1dfa
+1acc
+2 d a
+#3  c
+xa
+#3c
+x   c
+x d e
+x  a
+b
+2acc
+#3    a
+xc
+#3a
+x d
+x c
+x a
+#2acc
+x    a
+1  c
+b
+
+b
+#3 d a
+x c
+x d
+x  c
+#3 a
+x c
+x d
+xa
+#3c  a
+x d
+xa
+xc
+#3dc c
+x a
+x  c
+x  a
+b
+#3f
+x   e
+x d
+xf
+#3df
+x  a
+x d
+xc
+2acc
+#3c
+xd
+#3f
+x   e
+x d
+xf
+b
+2dfa
+#3 d
+xc
+#3a c
+x d
+2ac  a
+2 d a
+#3  c
+xa
+#3c
+x   c
+x d e
+x  a
+b
+
+b
+2acc
+#3    a
+xc
+#3a
+x d
+x c
+x a
+#2acc
+x    a
+1  c
+b
+b
+2. bc a
+3 a
+#2 b  a
+x d  c
+#2ab  d
+xd
+xddca
+xc
+b
+1daa  a
+#2  a
+xc
+#2a a  a
+x d e
+x d cc
+x   a
+b
+#2ac ca
+x  c
+2 d e
+#3a
+xc
+#3a a
+x d
+x c
+x a
+#2adc
+x c
+b
+
+b
+2.cdca
+3  c
+#3 d
+xd
+xc
+xa
+2cdca
+#3d
+xc
+#3a
+x d
+x b
+x a
+b
+#2 b ca
+x  c
+2 b
+#3 d
+x    c
+#2ab  d
+xda
+xddca
+xc
+b
+2daa  a
+#3  a
+x d
+#3d
+x b
+x a
+x  c
+2 aa  a
+#3d
+xc
+#3a
+x d
+x c
+x a
+b
+#3ac  a
+x  c
+x a
+x c
+#3 d e
+xa
+xc
+x d
+#3a a
+x d
+x c
+x a
+#2adc
+x c
+b
+
+b
+2.cdca
+3  c
+#3 d
+xd
+xc
+xa
+1cdca
+Y  c
+b
+b
+
+e

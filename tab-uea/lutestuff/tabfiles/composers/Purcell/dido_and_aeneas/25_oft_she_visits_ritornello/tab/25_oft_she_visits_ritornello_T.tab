@@ -1,0 +1,80 @@
+-C
+-t
+-f
+{/}
+b
+c
+0 da   //a
+0caa   a
+b
+0cac  a
+0ac c d
+b
+0ace  c
+0 da   //a
+b
+0 cff a
+0 cee c
+b
+0 \3da   //a
+0\2caa   a
+b
+0ca\1c  a
+0a\2c&{ \1c \3d
+b
+0ac\4e  \1c
+0 \3da   //a
+b
+0 cff a
+0 cee c
+b
+0 da   //a
+0caa   a
+b
+0ddb  a
+1a\1c\4e&{  \2d
+1 a
+b
+1a e  \1c
+1 \2c&{
+1 c&}aa\1c
+1 a
+b
+0 \2d\4f  \1d
+0 cdca
+b
+0 daa  a
+0 da   //a
+b
+
+b
+0aac  a
+0aa c d
+b
+1cde  c
+1 c
+1 caac
+1 a
+b
+0adb  a
+0 ce  c
+b
+0 da   //a
+0 aaa  a
+b
+0 ac  a
+0aa c d
+b
+1cde  c
+1 c
+1 caac
+1 a
+b
+0adb  a
+xcce  c
+b
+w aa c //a
+b
+b
+
+e

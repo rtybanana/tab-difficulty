@@ -1,0 +1,162 @@
+-C
+-t
+-f
+{47. Neapolitana 5/47. Neapolitana 5}
+b
+c
+1 dff d
+#2 dff d
+x dff d
+#2ab cd
+x ddef
+x ab  d
+xdab
+b
+#2cd a
+xcd a
+1acd
+#2 d a
+x dff d
+#3ab c
+x  a
+2 dfec
+b
+#2  da
+x  a
+1 dff d
+.
+b
+b
+2c
+#3c
+xc
+2cdf
+#3cdf
+x df
+#3ddf
+x c
+xddf
+xc
+#3dfg
+x d
+x fg
+x df
+b
+
+b
+2 fg
+#3d
+x df
+#2ccd
+xab
+2cef
+#3 c
+x e
+#2a  c
+x   c
+b
+#2  ff
+x df
+2db c
+#3a
+x   e
+#2 dff
+xd
+2abd
+#3  d
+xc
+b
+2dab
+#3dd
+x b
+2 df
+#3 db
+x b
+2. df
+3  g
+1 dff
+b
+2 dff
+#3 d
+x  g
+2 df
+#3 d f
+x  g
+2 dff
+#3 d
+x  g
+2 dff
+#3  b
+x b
+b
+
+b
+#2 d
+x db
+xa b d
+xdfg d
+2bdda
+#3b  a
+x b
+#2aacc
+x ddd
+b
+#2aa c
+x  c
+1acd a
+#2  ff
+x df
+2db c
+#3a
+x   e
+b
+#2 dff
+xd
+2abd
+#3  d
+xc
+2dab
+#3dd
+x b
+2 df
+#3 db
+x b
+b
+2. df
+3  g
+1 dff
+2 dff
+#3 d
+x  g
+2 df
+#3 d f
+x  g
+b
+2 dff
+#3 d
+x  g
+2 dff
+#3  b
+x b
+#2 d
+x db
+xa b d
+xdfg d
+b
+
+b
+2bdda
+#3b  a
+x b
+#2aacc
+x ddd
+#3aa c
+x  d
+2  c
+1acd a
+b
+Yacd a
+b
+b
+
+e

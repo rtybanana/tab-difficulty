@@ -1,0 +1,227 @@
+-C
+-t
+-f
+{Fortune hellas/Fortune hellas}
+b
+c
+w
+b
+1
+1a
+1  f
+1 d
+b
+1  d
+1. c
+2 a
+1 ab
+b
+1   e
+1  e
+1  ff a
+#2   f
+x  d
+b
+1 a    a
+1  de
+#2  d
+x  b
+x  a   /b
+x   c
+b
+0 aa   /a
+1   c
+1     a
+b
+#2 ab  a
+x     c
+x     d
+x    a
+#2 aa c
+x    a
+x    c
+x    e
+b
+
+b
+1  da
+1   ca
+1   ac
+1  bc
+b
+1  a
+1  ab
+1  bc
+1  b  a
+b
+#2  b ca
+x     c
+x  b cd
+x    ef
+#2  aac
+x   c
+x aa
+x  b
+b
+1 cd a
+1 df  d
+1      a
+1 dd
+0 ab  a
+b
+1 aa   /a
+1    c
+1  aa
+1      /a
+1  a   /a
+1  bc a
+b
+c
+1  aac
+1 d    /a
+1 a  c
+1 cbc
+b
+#2 dda
+x  b
+x  a
+x   ce
+1   ac
+#2 c ca
+x a   d
+b
+
+b
+1  d  c
+#2   b
+x a
+1 b c a
+1 a   a
+b
+1   ac
+1  d ec
+1 a  cd
+1  dca
+b
+1  bac
+#2   ced
+x    c
+0   eec
+b
+1   ac
+1      /a
+1  a   a
+1  b  a
+b
+1.  aa  a
+2   c  /c
+1  aa  /a
+1  bc a
+b
+1  aac
+#2  a   /a
+x   c
+1 aa   /a
+1  b  a
+b
+1      /a
+1  a   /a
+1      a
+1 a c a
+b
+1 da   a
+#2 d
+x  b  a
+1 cd  c
+1 a   d
+b
+1 ca  c
+1  ee
+1 df c
+1  a
+b
+
+b
+1 df
+1    c
+1   c
+1 ab
+b
+1a b
+1   a
+1  b d
+1 d  c
+1 bd a
+1 b  a
+b
+c
+1 aa c
+1   a
+0  bc
+b
+.
+1 a   d
+1  b
+1  a c
+1 a    /a
+b
+#2  de c
+x  b
+x  a
+x   c
+1  a   a
+1  da
+b
+#2  d d
+x  b
+1  b c
+1  d a
+1   e
+b
+1 ab  d
+1     d
+1    d
+1   c
+1  b
+1     d
+b
+
+b
+c
+#2 a   d
+x    a
+x  a c
+x    e
+1   ef
+1  d f
+b
+1  da
+1 daa
+1  d a
+1 b
+b
+1 b c
+1 ab
+1. bd a
+2  b
+b
+1 aa c
+1  dcd
+1 aa c
+1      /a
+b
+A1
+0  bc a
+1
+1   c
+0  bc
+.
+b
+b
+A2
+c
+w a c a
+b
+b
+
+e

@@ -1,0 +1,71 @@
+-C
+-t
+-f
+{Quel subit changement/Quel subit changement}
+b
+c
+1. dff
+2   e
+1   c
+#2aab
+x   a
+b
+1a b d
+1 d  c
+0 cdca
+b
+1 dda
+1 dda c
+1 aba d
+1 abcca
+b
+0 bdca
+0 abcca
+b
+
+b
+1    c
+1 daa
+1 daa
+1 bdca
+b
+1     a
+1 abcc
+1 aabc
+1      /a
+b
+1. abc a
+#3  d
+x  b
+1 daa  a
+1    d
+b
+1 db c
+#2 b  a
+x  a
+1. dba d
+#3 b
+x d
+b
+
+b
+0a b d
+1a b   /b
+#2    c
+x    a
+b
+1     d
+1 dba
+1   c
+b
+1 dde  a
+1 dff
+1 dba  a
+#2  a
+x b
+b
+w aba d
+b
+b
+
+e

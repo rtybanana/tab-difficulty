@@ -1,0 +1,126 @@
+-C
+-t
+-f
+{8. Le tirantine/8. Le tirantine}
+b
+.
+1.  d a
+2 a
+1 c  a
+b
+1. dda
+2a
+1c
+b
+1.cdda
+2a
+1 d
+b
+0.acd a
+b
+1.  d a
+2 a
+1 c  a
+b
+
+b
+1. dda
+2a
+1c
+b
+1.cdda
+2d
+1c  a
+b
+0.acd a
+.
+b
+b
+.
+1.cdda
+2a
+1c  a
+b
+1. da c
+2a
+1c   c
+b
+0da c
+1cdda
+b
+0acd a
+1   c
+b
+
+b
+1.cdda
+2a
+1c  a
+b
+1. da c
+2a
+1c   c
+b
+1.da c
+2 c
+1cdda
+b
+0.acd a
+b
+1.acd a
+2c
+1a   a
+b
+0. dda
+b
+1. dda
+2a
+1 d a
+b
+
+b
+0. cdca
+b
+1. cdca
+2 d
+1 c  a
+b
+0. acc a
+b
+1. acc a
+2 c
+1 a   a
+b
+0.  dca
+b
+0  d a
+1  aa
+b
+0  cc
+1  d e
+b
+0 a a
+1 cdca
+b
+
+b
+0  def
+1  de
+b
+0acd a
+1cdda
+b
+1.acd a
+2 d
+1 c  a
+b
+1 dda
+0aac  a
+b
+0 cd a
+1   c
+.
+b
+b
+
+e

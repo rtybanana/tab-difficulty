@@ -1,0 +1,411 @@
+-t
+-f
+{Fantasia 26/Fantasia 26}
+b
+C
+2.a  c
+3 d
+#2 c
+x a
+#2  de
+x  c
+1  a
+b
+2.  cc
+3   a
+#2    e
+x    c
+#2  d a
+x     e
+1  d  c
+b
+2  \2c  a
+#3   \1c
+x  a
+#3  \2c
+x  \3d
+x a
+x \2c
+#2 \4ea \1c
+xa
+x  a \1c
+x \4e
+b
+
+b
+#2a  ce
+x  d
+#3    a
+x a
+2 c
+#2 a c
+x  c
+#3   c
+x  d
+2 a
+b
+#2  de
+x  cc
+x  a
+x   b
+#2   c
+xa
+x   ce
+xa
+b
+2.fc  a
+3e
+2c d
+#3a
+x  c
+#2 ea c"x
+x a
+xc
+x a  c
+b
+#2a \1c \3e
+x  \2d&{ a
+xa c&} \4e
+x   c
+#2 ea c&@
+x a
+xc
+x a  c
+b
+
+b
+#2a c e
+x  d a
+#3    e"x
+x  c
+x  a
+x   c
+#2 ec c
+x  a
+xa   a
+x   c e
+b
+#2     c"x
+xc  b
+xe  c a
+xa
+#3    a
+x d
+x c
+x a
+#2 c  a
+x  d
+b
+2 a   a
+#3  c
+x  a
+#2 a\2c  a
+x    \1c
+#2  \3d&{ \4e
+x  c&}\2c
+x  a
+x a b
+b
+
+b
+#2  cc
+x c
+x a
+xa
+#2 e  c
+xc
+#3    c"x
+xa
+x e
+x c
+b
+#3 a   e"x
+x  d
+x  c
+x  a
+#2  c  a
+x a
+#2 \2c\3d a
+xa
+#3   c
+x d
+x c
+x a
+b
+#2  de
+x  cc a
+x  a c
+x   b
+#2   ce
+x    a
+2  d
+#3     e
+x     c
+b
+
+b
+#3  c  a
+x     c
+x     e
+x    a
+#3    c
+x    e
+x   a
+x   c
+#3   e
+x  c
+x  d
+x a
+#3 c  a
+x e
+xa
+xc
+b
+#3ea   a
+xf
+2h
+#2ac  a
+x\4f
+#3     a
+xe
+x\2c \3d
+xa
+#3 \4e  \1c
+x  \2c
+xa a
+x   c
+b
+#3  a c
+x d
+x c
+x a
+2 c c a
+#3 a
+x   a
+#3    e
+x    c
+2  d e
+2  c c
+#3  a
+x    a
+b
+
+b
+#2     e
+x   ca
+x  a  c
+x  d
+#2  c  a
+x  a c
+x    a
+xa  c e
+b
+#2c d  c
+xf  e
+xea   a
+xc   c
+#2  c e
+xa d
+x  a c
+x e
+b
+2a  c e
+#3     a
+x d
+#2 c  a
+x a c
+#2  d e
+xa   a
+2a    e
+#3     a
+x d
+b
+
+b
+#2 c  a
+x a c
+x  d e
+xa   a
+2a \2c  a
+#3   \1c
+x  a
+#3  c
+x  d
+x a a
+x c
+b
+2 \4d  \1c"x
+#3   a
+x   c
+#3  a
+x  c
+x  d e
+x a
+2 c  a
+#3    e
+x   a
+#3   c
+x  a
+x  c c
+x  d
+b
+
+b
+2 a   e
+#3    c
+x    e
+#3   a
+x   c
+x  a a
+x  c
+#3  d  c
+x a
+x c  a
+x e
+#3a
+xc
+2ea   e
+b
+#3     a
+xc
+xa
+x d
+#3 c
+x a
+xa d
+x  c
+2  a c
+#3 e
+x c
+#2 e
+x\4h   \2g\3h
+b
+#2\4e  \1c\3e
+xf a a
+x\3c  \1b&{\2c
+x\4e  c&} \3e
+#2f a  \1c
+xh  \2g a
+xf a a
+xe  \1c&{
+b
+
+b
+#2c  b&{c
+x a
+x  d e
+x  c
+#2  ab&}
+x a
+x  cc
+xa
+b
+#2 da
+x cd
+x a c
+xa
+#3 cd
+x e
+xa
+xc
+#3ea
+xf
+2h
+b
+#2  \3h
+xg
+xhe
+xef
+#2f
+xhe
+2ef
+2a
+b
+
+b
+#2c
+xea
+xac
+x f
+#2c
+x e  c
+xa   e
+x a c
+b
+#3 c
+x   a
+xa   e
+x    c
+#2    a
+x  a c
+#3  c
+x    a
+x a   e
+x     c
+#3     a
+x  d
+x  c
+x  a
+b
+#2   ca
+x  d
+#3     c&{
+x  c
+x  a
+x   c }
+2   bc
+#3   c
+x  a
+#2  c
+x  a a
+b
+
+b
+#2    c
+x   c e
+x    a
+xc  bc
+#2e  c a
+xh
+#3 a
+xf
+xe
+xc
+b
+#2ac  a
+xf
+#3  d
+xe
+xc
+xa
+2 ea c
+#3aa
+xc
+#2e
+xc d
+b
+
+b
+#2  c c
+xa
+#3 ea c&{
+x c
+xa
+x e
+#3a  ce&}
+x    a
+x    e
+x d  c
+3 \2c \1ca
+#4  a
+x  \1c
+#4  \3d
+x  a
+x  c
+x  d
+b
+Y a\1c  a
+b
+b
+
+e

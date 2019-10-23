@@ -1,0 +1,267 @@
+-C
+-t
+-f
+{24. Rondeau/24. Rondeau}
+b
+c
+0 dfec
+b
+1 dfec
+1    c
+1aca b
+1     c
+b
+1cd  c
+#2    c
+x    a
+1da a d
+#2     d
+x     c
+b
+0da c a
+0cd    //a
+b
+1.cce  c
+2     a
+#2      a
+x     a
+#2      a
+x      /a
+b
+1 dfe  //a
+1    c
+1aca b
+1     c
+b
+1.cd  c
+2    a
+#2da a d
+x     c
+1da   a
+b
+
+b
+1cce  c
+1 df
+1acb  a
+1 ce  c
+b
+0 aaa  //a
+.
+b
+b
+1cdf c
+1     c
+b
+0cad c
+0      //a
+b
+1.aab  a
+2     a
+#2     a
+x     c
+#2aa   d
+x     a
+b
+1 da c
+1 ca a
+1 aa  d
+1   c
+b
+0. ce  c
+1ccde
+b
+0ec d
+1 a
+1    e
+b
+0ccec
+#2   c
+x   c
+#2   a
+x    e
+b
+1\2caaa
+1dc\4fc
+1ccfe
+1  e  c
+b
+
+b
+0.cd  c
+1  f
+b
+0cdf
+0cce
+b
+0cdf
+1ccee
+1a
+b
+0 da c
+0      //a
+b
+1 ce  c
+#2   e
+x  c
+0cce
+b
+1cdf
+#2a
+x d
+0 ccc
+b
+1 cee
+1   c
+1 aaa
+1  ece
+b
+1 aaac
+1      //a
+0 cbc a
+b
+1 c\3e  c
+#2   \2e
+x  \1c
+1cce
+1   e
+b
+0cdf
+0accc
+b
+
+b
+#2ccee
+xa
+#2 d c
+x c
+1 aaa
+1  ece
+b
+1 aaa
+1    c
+1 cee c
+1      5
+b
+0. aaa  //a
+1 da c
+b
+0 ca a
+1 aa  d
+1   c
+b
+0  eeec
+0 da&U c
+b
+1 da c
+1 ab  d
+0aab  a
+b
+1 ce  c
+0 da   //a
+1    c
+b
+0 ca a
+1 aa  d
+1   c
+b
+0  eeec
+0 da&U c
+b
+1 da c
+1 ab  d
+0aab  a
+b
+1 ce  c
+1 \4da   //a
+0    \2c
+b
+
+b
+0  \4d \2c b
+0 aa
+b
+0. abc a
+#2     a
+x     c
+b
+0.aa c d
+1 d
+b
+0 ce  c
+0 aaac
+b
+0  d c b
+0 aa
+b
+0. abc a
+#2     a
+x     c
+b
+waa c d
+b
+#2cc\4e  c
+x     d
+#2     c
+x     a
+#2      a
+x      /a
+1      //a
+b
+0cdf
+0cce
+b
+0cdf
+0ccee
+b
+0 da c
+0      //a
+b
+
+b
+1  e ec
+#2   e
+x  c
+0cce
+b
+1cdf
+#2a
+x d
+1 ccc
+1     a
+b
+1  \3e\2e\2e\1c
+1     a
+1 aa   a
+1  \3ec  /a
+b
+1 aaa  //a
+1    c
+0 cbc a
+b
+1 c\3e{\2ec
+#2   \2e&}
+x  c
+1cce
+1   e
+b
+1cdf
+#2a
+x d
+0 ccc
+b
+1 cee
+1   c
+1 aaa
+1  ece
+b
+#2 aaa
+x c
+1 da c
+0 cee c
+b
+w aaa  //a
+b
+b
+
+e

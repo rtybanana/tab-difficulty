@@ -1,0 +1,223 @@
+-C
+-t
+-f
+{30. Mais qu'est ce/30. Mais qu'est ce}
+b
+c
+1    a
+#2    a
+x    a
+1   ac
+#2   a
+x   a
+b
+1   c
+1  b e
+1  dff
+#2  de
+x  d
+b
+1 dff d
+#2 d e
+x d
+#2a  c
+x d
+xfc
+xd
+b
+#2cdda
+xa
+xdd
+xc
+1dabc
+#2ccd a
+xa
+b
+1 da c
+1aab  d
+#2 a  c
+x da
+x d c
+x   a
+b
+
+b
+#2  dca
+x c
+#3 d
+x c
+x a
+x c
+#2 dda
+x a
+x c
+x d
+b
+#2a d
+xc
+xda
+x c
+2cd
+#3 c
+x a
+#2 cde
+x   a
+b
+#2a  c
+x c
+1 dff
+#2   e
+x dd
+xcc
+x  a
+b
+#2  b
+xaa
+xda c
+xa
+1ccde
+#2 df c
+xc
+b
+1dabc
+#2acd a
+xd
+1c aa
+1 dba d
+b
+1dabc
+2acd a
+#3c
+xa
+1c da
+1ddf  d
+b
+
+b
+#2 dda
+xc
+xc b
+x  a
+#3 abc
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+#2cdda
+x c
+x d
+xa
+1c da
+1da   d
+b
+1c da
+1a bc
+#2 da c
+x c
+1 dff
+b
+#2   f
+x dff
+xacbc
+xacbc
+#2cd a
+x  d
+1 dff
+b
+#2   f
+x dff
+xacbc
+xacbc
+#2cd a
+x  d
+xda   d
+xc d
+b
+#2aab c
+x da
+x dbc
+x   a
+#2  dca
+x c
+x d
+x c
+b
+
+b
+#2 d a
+x  a
+1 dff
+#2   f
+x dff
+xacbc
+xacbc
+b
+#2cd a
+x  d
+1 dff
+#2   f
+x dff
+xacbc
+xacbc
+b
+#2cd a
+x  d
+xda   d
+xc d
+#2aab c
+x da
+x dbc
+x   a
+b
+#2 cdca
+x a
+x d
+x c
+#2 daa
+xc aa
+x da c
+xa  ce
+b
+1c da
+1aab  d
+#2 a  c
+x da
+x dbc
+x  a
+b
+
+b
+#3 cdca
+x a
+x c
+x d
+#2 cdca
+x cdca
+#2 daa
+xc aa
+x da c
+xa  ce
+b
+1c da
+1aab  d
+#2 a  c
+x da
+x dbc
+x   a
+b
+2  dca
+#3 c
+x a
+#3 c
+x a
+x d
+x c
+0 dda
+b
+b
+
+e

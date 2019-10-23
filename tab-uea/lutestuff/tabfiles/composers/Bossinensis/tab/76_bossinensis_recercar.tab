@@ -1,0 +1,93 @@
+-C
+-t
+-f
+{Recercar #76/Recercar #76}
+b
+C
+#2 d a
+x c
+x d
+xa
+#2b  a
+xa
+xb
+xd
+b
+1f  d
+#2d
+xb
+#2d b
+xb
+xa
+x d
+b
+
+b
+#2ab  d
+x    c
+x    d
+x   a
+1    d
+1ab
+b
+#2b  a
+xa
+x d
+x b
+#2 d  c
+x b
+x a
+x  d
+b
+#2 b  a
+x a
+x b
+x d
+#2ab  a
+xd
+xb
+xa
+b
+
+b
+#2b  a
+xa
+xb
+xd
+#2a   d
+x    c
+x    a
+x     e
+b
+#2ab  a
+x    c
+x    d
+x   a
+1a bc
+1 b  a
+b
+#2f  a
+x   c
+x   d
+x   a
+#2ab  d
+x d
+x c
+x a
+b
+
+b
+#2    a
+x c
+#3 d
+x c
+x a
+x c
+1 d a
+1  d
+b
+Y dda
+b
+b
+
+e

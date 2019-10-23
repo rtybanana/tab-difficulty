@@ -1,0 +1,92 @@
+-C
+-t
+-f
+{134. The shepherd/Anonymous}
+b
+2   c
+b
+.
+#2 abc a
+x abc
+x abc
+2. ab  d
+3  d
+2 ab
+b
+1 bdca
+2 bdc
+1 bbcd
+2 d
+b
+1aab  a
+2 aba d
+2. bdca
+3 d
+2a    a
+b
+A1
+1 abc d
+2 bdca
+1 acc a
+2   c
+.
+b
+b
+A2
+1 aba d
+2 bdca
+1. acc a
+b
+.
+#2 dba d
+x dba d
+x dba d
+1 dba d
+2 aba
+b
+1 bdca
+2 dd
+1.aab  a
+b
+
+b
+#2 aba d
+x aba
+x aba
+1 aba d
+2  dc
+b
+2.  b  a
+3  a
+2   c
+1. daa  a
+b
+2. cdca
+3 a
+2  d
+#2  c  a
+x   c
+x   c
+b
+2.  aa  a
+3  b
+2  d
+#2  a   a
+x   a
+x      a
+b
+2.  bc a
+3  d
+2 a
+#2 a  c
+x  d
+x  a
+b
+1  c  a
+2   c
+1.   cca
+.
+b
+b
+
+e

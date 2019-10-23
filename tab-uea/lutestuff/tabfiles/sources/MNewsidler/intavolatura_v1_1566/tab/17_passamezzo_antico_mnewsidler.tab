@@ -1,0 +1,1312 @@
+-C
+-t
+-f
+{17. Passamezzo antico/Melchior Newsidler}
+b
+c
+1abd a
+#2   c
+xb
+1a d
+1 d
+b
+#2 b ca
+x a
+x  d
+xa
+#2 d c
+x b
+x a  a
+x  d
+b
+2 aba d
+#3  d
+x a
+#2  b
+xa
+#2 db
+x b
+x a a
+x  d
+b
+2 aba d
+#3  d
+x a
+#2  b
+x d
+#2  b
+x a
+x b   d
+x d
+b
+
+b
+#2abd a
+xd
+xc d
+xa b
+#2c d a
+xa b
+x ea
+x c c
+b
+#2 ea c
+xa c
+xc d
+xa c
+#2 ea
+x c c
+xaaa c
+x e
+b
+2aac  a
+#3  a
+x  c
+#2   c
+x b
+#2 a
+x  d
+x  c
+x  a
+b
+#2aac  a
+x   c
+x a
+x  d
+#2a c
+x  a
+xa  c
+x   a
+b
+#2abb d
+xd
+x   c
+xb d
+#2a b
+x d d
+xa b
+xb d
+b
+
+b
+#2abb d
+x d
+x b
+xa
+#2 db
+x b
+x a  a
+x  d
+b
+#2 a a d
+x  b
+x   a
+x d
+#2  b
+x b
+x a a
+x  d
+b
+#2 a a d
+x  b
+xd
+xc d
+#2a b
+x d d
+x b c d
+x a a
+b
+#2 bdca
+x     d
+x d d b
+x b c
+#2 a a
+x  d d
+x  c c
+x  a a
+b
+
+b
+2a c ca
+#3  a
+x  c
+2  d d
+#3    c
+x    a
+2  d ca
+#3  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+2acd a
+#3  d
+x a
+#3 c
+x a
+x c
+x d
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+2acd a
+#3 a
+x c
+#2  d
+x a
+#2 b
+x  d
+x b
+x d
+b
+b
+#2ffg  f
+xi
+x   h
+xh
+2ffg
+#3 i
+x h
+#3 f
+x  i
+x  g
+x  f
+b
+
+b
+2ffg  f
+#3   h
+x  f
+#3  g
+x  f
+x  g
+x  i
+#3 f
+x  i
+x f
+x h
+#3 f   f
+x h
+x i
+xf
+b
+2hd f d
+#3f
+xd
+#3 h
+xd
+xf
+xd
+#3 h
+x f
+x d
+x  g
+#3 d f
+x  g
+x  f
+x  d
+b
+#2ddf  d
+xh
+x   f
+xf
+#2d f
+x f
+x h   d
+xd
+b
+2cbd a
+#3a
+xc
+#2a
+xc
+#2a d
+x c
+x e  a
+xa
+b
+
+b
+2 efec
+#3 c
+x e
+#3 f
+x c
+x e
+x f
+#3c
+x f
+xc
+xe
+#3f   c
+xc
+xe
+xf
+b
+2eff  a
+#3c
+xe
+#3f
+xe
+x f
+xc
+#3e
+x f
+xc
+xe
+#3f
+xc
+xe
+xf
+b
+#2ha g a
+xa
+2   c
+#3 d
+x b
+#3 a
+x  d
+x  b
+x  a
+#3a  c
+x   a
+x    d
+x    c
+b
+#2a   d
+x  b
+x   c
+x  d
+#2  b
+x   d
+xd  c
+x   a
+b
+
+b
+#2    d
+xb d
+xa b
+x d d
+#2 b c
+x   a
+x b ca
+x   e
+b
+#3 a a d
+x  b
+x  d
+x a
+#3 b
+x  d
+x a
+x b
+#3 d
+x b
+x  d
+x a
+#3 b
+x d
+xa
+xc
+b
+#3aab  d
+xc
+xd
+xc
+#3a
+x d
+x a
+x b
+#3 d
+x b
+x a
+x  d
+#3 a   d
+x  b
+x  d
+x a
+b
+
+b
+#3 c  a
+x e
+xa
+x c
+#3 e
+xa
+xc
+xe
+#3f
+xc
+xe
+xf
+#3h   a
+xf
+xe
+xc
+b
+2eff  a
+#3c
+xe
+#3f
+xc
+xe
+xf
+#3e f
+x f
+xc
+xe
+#3f  c
+xe
+#4f
+xe
+xc
+xe
+b
+#2fc  a
+x  d
+x   c
+x d
+#2fcd
+x a
+xfcd a
+x d
+b
+#2fc  a
+x  d
+x   c
+x d
+1fcd
+1fcd a
+b
+b
+
+b
+#3abd a
+x d
+2a
+#3c
+xa
+2c
+#3dbd a
+xc
+2d
+#3c d
+xa
+2c
+b
+#3abd a
+x d
+2a
+#3  d
+x a
+2 b
+#3   c
+x d
+2a
+#3    a
+x d
+2 ba
+b
+#3 aba d
+x  d
+2 a
+#2  b
+x d
+2   a
+#3 a
+x b
+#3 d
+x b
+#4 d
+x b
+x a
+x  d
+b
+
+b
+2 aba d
+#3   c
+x  a
+#3  b
+x  d
+x a
+x b
+#3 a
+x  d
+x a
+x c
+#3 d   d
+x a
+x c
+x d
+b
+2 cdca
+#3  a
+x  c
+#3  d
+x a
+x c
+x e
+#3a
+x c
+x e
+xa
+#3c   a
+xa
+x e
+x c
+b
+#3 ea c
+x a
+x c
+x e
+#3a
+x c
+x e
+xa
+#3c
+xa
+x e
+x c
+#3 a  c
+x  d
+x  c
+x  a
+b
+
+b
+2aac  a
+#3   c
+x  a
+#3  c
+x  a
+x  c
+x  d
+#3 a
+x c
+x d
+x c
+#3 a c
+x  d
+x  c
+x  a
+b
+2aac  a
+#3   c
+x  d
+#3 a
+x c
+x d
+x c
+#3 a
+x  d
+x  c
+x  a
+#3   c
+x   a
+x    d
+x    c
+b
+#3abb d
+x a
+x  d
+x a
+#3 b
+x  d
+x a
+x b
+#3 d
+x b
+x  d
+x a
+#3 c
+x d
+xa
+xc
+b
+
+b
+#3dbb d
+xc
+xa
+x d
+#3 b
+x a
+x  d
+x  b
+#3  d
+xa
+x d
+x b
+#3 d  a
+x b
+x a
+x  d
+b
+#3 a a d
+x  b
+x  d
+x a
+#3 c
+x  d
+x a
+x c
+#3 d
+x a
+x c
+x d
+#3a
+x c
+x d
+xa
+b
+#3c  a d
+x d
+xa
+xc
+#3a
+xc
+xd
+xc
+#3a
+x d
+x a
+x c
+#3 d a d
+x a
+x c
+x d
+b
+
+b
+#3 c ca
+x  d
+x a
+x c
+#3 da c
+x a
+x c
+x d
+#3a   e
+x c
+x d
+xa
+#3c da
+x d
+xa
+xc
+b
+2aacc
+#3 e
+xa
+2 ede
+#3 c
+x e
+#3aa c
+x  d
+x  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+2acd a
+#3   c
+x d
+#3 c
+x d
+xa
+xc
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+
+b
+2acd a
+#3   c
+x d
+#3a
+x d
+#4a
+x d
+x c
+x a
+1acd
+1acd a
+b
+b
+
+{17. Passamezzo antico/Melchior Newsidler}
+b
+1abd a
+#2   c
+x d
+#2 b
+x a
+b
+#2  d
+xa
+#2 d c
+x b
+#2 a  a
+x  d
+b
+2 aba d
+#3  d
+x a
+#2  b
+x d
+#2   a
+x b
+b
+#2 a
+x  d
+#2 a a d
+x d
+#2 c
+x a
+b
+#2 cdca
+x e
+#2a
+x c
+#2c d
+xa
+b
+
+b
+#2 ea a
+x c c
+#2 ea c
+x c c
+#2a a
+x e
+b
+2aac  a
+#3   c
+x  d
+#3 a
+x c
+x d
+x c
+#3 a
+x  d
+x  c
+x  a
+b
+#2aac  a
+x   e
+#2   c
+x   a
+#2    d
+x    c
+b
+#2a b d
+xd
+#2   c
+xb
+#2a b
+x d
+b
+#2a bcd
+x   a
+#2   c
+x   e
+#2  bcd
+x  d
+b
+
+b
+#2 aba d
+x d
+#2   a
+x b
+#2 a
+x  d
+b
+#2da a d
+xc d
+#2a b
+x d d
+#2 b c d
+x a a
+b
+#2 bdca
+x     d
+#2 d d b
+x b c
+#2 a a
+x  d d
+b
+#2  c c
+x  a a
+#2a c ca
+x  a a
+#2a d c
+x  c
+b
+2acd a
+#3   c
+x d
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+
+b
+2acd a
+#3   c
+x d
+#3a
+x d
+x c
+x a
+1acd a
+b
+b
+#2ffg  f
+xi
+#2   h
+xh
+2f g
+#3 i
+x h
+b
+#3 f
+x  i
+x  g
+x  f
+2ffg  f
+#3   h
+x  f
+#3  g
+x  i
+x f
+x h
+b
+#2ddf  d
+xh
+2   f
+#3f
+xd
+#3 h
+x f
+x d
+x  g
+b
+
+b
+#3 d
+x  g
+x  f
+x  d
+#2ddf  d
+x f
+#2 h f
+xd
+b
+2cbd a
+#3a
+xc
+#2a
+xc
+#2a d
+x c
+b
+#2 e  a
+xa
+#3ce  c
+x f
+xc
+xe
+#3f
+xc
+xe
+xf
+b
+2e f  a
+#3 f
+xc
+#3e
+x f
+xc
+xe
+#3f
+xc
+xe
+xf
+b
+#2ha g a
+xf
+#2e  c
+xc
+#2aa c a
+x d
+b
+
+b
+#2a   d
+x  b
+#2   c
+x  d
+#2  b
+x   d
+b
+#2d  c
+x   a
+#2    d
+xb
+2a b
+#3 d
+x b
+b
+#2 a   d
+x  b
+#2   a
+xa
+#2 db
+x b
+b
+#2 a a
+x  d
+#2 aba d
+xd
+#2  b
+xc
+b
+#2abd a
+xf
+#2   c
+xd
+2c da
+#3 d
+xa
+b
+
+b
+#3c
+xe
+2f
+2e f  a
+#3 f
+xc
+#3e
+x f
+xc
+xe
+b
+2fc ca
+#3d
+xc
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+2acd a
+#3   c
+x d
+#3a
+x d
+x c
+x a
+1acd a
+b
+b
+#3abd a
+x a
+2 b
+#3  d
+x a
+2 b
+#3   c
+x d
+2a
+b
+
+b
+#3    a
+xc
+2d
+#3  d
+xc
+2a
+#3   c
+x d
+2 b  a
+b
+#3 a a d
+x  d
+2 a
+#3  b
+x  d
+2 a
+#3   a
+x b
+2 d
+b
+#3 a a d
+x  d
+2 a
+#2  b
+x d
+2   a
+#3 b
+x a
+b
+#3 b ca
+x d
+2a
+#3  d
+xc
+2d
+#3   c
+xc
+2a
+b
+
+b
+#3 ea c
+xa
+2c
+#3 a
+x c
+2 e
+#3  a
+xa
+2c
+b
+#2e f  a
+x f
+#3   c
+xc
+2e
+#3  f
+xf
+2h
+b
+#2ha g a
+xa
+#3   c
+xc
+xd
+xc
+#3a
+x d
+x b
+x a
+b
+#2ab  d
+x  b
+#2   c
+xd
+#2  b
+xb
+b
+
+b
+#3a   d
+x d
+x b
+x a
+#3  d
+xa
+x d
+x b
+#3 d  a
+x b
+x a
+x  d
+b
+#3 a a d
+x  b
+x  d
+x a
+#3 c
+x  d
+x a
+x c
+#3 d
+x a
+x c
+x d
+b
+#3a b  d
+x d
+xa
+xc
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+
+b
+#3 c ca
+x  d
+x a
+x c
+#3 da c
+x a
+x c
+x d
+#3a   e
+x c
+x d
+xa
+b
+#3c da
+x d
+xa
+xc
+#3a  c
+xc
+xd
+xc
+#3a    a
+x d
+x c
+x a
+b
+#2 c  a
+x  d
+#3   c
+x a
+2 c
+#3  d
+x e
+2a
+b
+#2c da
+x d
+#3  d
+xa
+2c
+#3 d
+xe
+2f
+b
+
+b
+#2e    a
+x f
+#3  f
+xc
+2e
+#3   c
+xf
+2h
+b
+#3     a
+xf
+2e
+#3   c
+xc
+2a
+#3  c
+x d
+2 a
+b
+#2 c  a
+x  d
+#3   c
+x a
+2 c
+#3  d
+x e
+2a
+b
+#2 e  c
+x  f
+#3   e
+x c
+2 e
+#3  f
+x f
+2c
+b
+#2a    a
+x a
+#3  c
+x  d
+2 a
+#2   c
+xh
+b
+
+b
+#3e    a
+xf
+2h
+#2a
+x a
+#3   c
+x c
+2 d
+b
+#2 c  a
+xf
+#3  d
+x a
+2 c
+#3    a
+x d
+2a
+b
+#2c    c
+x  d
+#3   e
+xe
+2f
+#3  d
+xe
+2c
+b
+#2e f  a
+x f
+#3   c
+xc
+2e
+#3a
+xc
+2a
+b
+#2 a   a
+xa
+2   c
+#3 d
+x c
+#3 a
+x d
+x c
+x a
+b
+
+b
+#2 c ca
+x  d
+#3   c
+x a
+x c
+x e
+#3a
+x c
+x e
+xa
+b
+#2c da
+x d
+#3  d
+xa
+xc
+xe
+#3f
+xc
+xe
+xf
+b
+#2e f  a
+x f
+2  f
+#3c
+xe
+#3f
+xc
+xe
+xf
+b
+#2ha g a
+xa
+#3   c
+xc
+xe
+xc
+#3a
+x d
+x c
+x a
+b
+
+b
+#2 cdca
+xf
+#3   c
+xe
+xc
+xa
+#3 d
+x c
+x a
+x  d
+b
+#3 a   c
+x c
+x d
+xa
+#3c
+xa
+x d
+x c
+#3 a
+x  d
+x  c
+x  a
+b
+2 acc a
+#3  d
+x a
+1 c
+#2     c
+x a
+b
+2  d a
+#3    c
+x    a
+#3    ca
+x  c
+x  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+Y.  dcef
+b
+b
+
+e

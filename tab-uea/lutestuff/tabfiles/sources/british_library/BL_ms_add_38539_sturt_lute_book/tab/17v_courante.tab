@@ -1,0 +1,189 @@
+-C
+-t
+-f
+{Courante/Courante}
+b
+1 c
+b
+.
+1. c"#dca
+2 d
+1 c"# c
+b
+1 acc a
+#2  d  c
+x     e
+#2    a
+x    c
+b
+1 c"#c e
+#2      /a
+x e{
+#2a
+xc }
+b
+1e
+1f"x  e
+1e"#   e
+b
+1.c"#dda
+2    e
+#2 d  c{
+xa     }
+b
+1 c"#d a
+#2 a    a
+x c
+#2 d
+x c
+b
+1 ac"#  a
+#2   c
+x  a
+#2  c
+x  d
+b
+
+b
+1 a"#
+#2a
+xc
+#2e
+xf
+b
+1h
+1     a
+1  d  c
+b
+1 a   e
+1   c
+1 c"#  a
+b
+1 da c&{
+#2 a
+x c
+#2 d
+xa    }
+b
+1c"#
+#2   e
+x   c
+#2   a
+x    e
+b
+1 da c
+#2a   {
+x d   }
+#2 c    /a
+x a
+b
+#2 c    a
+x d
+1. a"#   a
+#3  d
+x a
+b
+1  d a
+1   c
+1      ///a
+b
+0  d"xc
+1 c
+.
+b
+b
+
+b
+.
+1 c"#d a
+#2  d
+x a
+#2 c
+x d
+b
+1a   e
+1cd  c
+1e
+b
+1f"#fh a
+1      ///a
+1h
+b
+1k
+1    a
+1 d  c
+b
+1a   e
+#2   a
+xc
+1a  c
+b
+1.a"# de{
+#3 e
+x c
+1 e   }
+b
+1aac"#c
+1     a
+1c"#
+b
+1e"x
+1   c
+1  de
+b
+1 ac"#
+#2  d{
+x c  }
+1 d"xa
+b
+1 c c
+1. a"# a
+#3  d
+x a
+b
+
+b
+1 c"#c e
+1      /a
+1 e
+b
+1a"#
+1 d  c
+1 c"#  a
+b
+1 ac"#c
+1     a
+1      a
+b
+1      /a
+1a
+1 d  c
+b
+1 c"#  a
+#2 a
+x c
+#2 a a
+x c
+b
+#2 d
+x c
+1. a"#   a
+#3  d
+x a
+b
+1  d a
+1   c
+1      ///a
+b
+A1
+0  d"xc
+1 c
+.
+b
+b
+A2
+Y.  d"xc
+b
+b
+
+e

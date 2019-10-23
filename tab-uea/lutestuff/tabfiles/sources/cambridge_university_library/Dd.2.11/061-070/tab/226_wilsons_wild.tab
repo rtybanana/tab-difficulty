@@ -1,0 +1,115 @@
+-C
+-t
+-f
+{226. Wilson's wild/Anonymous}
+b
+2a
+b
+.
+1f   a
+2a
+#2 c  a
+x  d
+x d  c
+b
+2. c  a
+3 a
+2  da
+#2 ac  a
+x   c
+xa
+b
+1fc   c
+2a    e
+#2 c  a
+x  d
+x d a
+b
+2. a   a
+3  d
+2 acc
+1  dca
+2a
+.
+b
+b
+.
+2. cd a
+3 d
+2a
+2.acd a
+3c
+2a    e
+b
+2.cc   c
+3e
+2f
+1ea   a
+2a
+.
+b
+b
+
+b
+.
+#3 c  a
+x a
+x c
+x d
+2a
+#3a   a
+x d
+xa
+xc
+2a    e
+b
+#3c    c
+x f
+xc
+xe
+2f
+1ea   a
+2a
+.
+b
+b
+.
+#2 cd a
+xa
+x    e
+#2 da c
+xc
+x     c
+b
+#2 cd a
+xa
+x     a
+#2 ab  d
+x d
+x    c
+b
+#2 cd a
+xa
+x    e
+#2 d a
+xc
+x    c
+b
+A1
+2. c  a
+3 d
+2 ac  a
+1  d a
+2a
+.
+b
+b
+A2
+2. c  a
+3 d
+2 ac  a
+Y.  d a
+b
+b
+
+e

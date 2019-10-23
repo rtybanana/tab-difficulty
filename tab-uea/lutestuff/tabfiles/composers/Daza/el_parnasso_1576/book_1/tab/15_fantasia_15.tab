@@ -1,0 +1,378 @@
+-C
+-t
+-f
+{Fantasia 15/Fantasia 15}
+b
+c
+w   c
+b
+0 a c
+0   c
+b
+0 a a
+0 a  c
+b
+0  d e
+0  ab
+b
+0a bc
+1 a
+1   a
+b
+0a   e
+0a e
+b
+0 df c
+0 a
+b
+0 da c
+0   ac
+b
+0 cdca
+0   e c
+b
+0 aba d
+1aab
+1    a
+b
+1  fec
+#2 e
+x c
+#2 f
+x e
+x c
+x e
+b
+
+b
+0aa c a
+#2  bc
+x  a
+x  b
+x  d
+b
+1aabc
+#2   c
+x  a
+#2  bc
+x  d
+x a
+x c
+b
+0 daa
+0   ac
+b
+0   cd
+1a
+1    c
+b
+0a   a
+0aa   a
+b
+0 df c
+0 a   d
+b
+0 cd a
+0he e h
+b
+0hf f a
+0ha
+b
+0f g hf
+0ca bc
+b
+0da c a
+1  bc
+1  d
+b
+1 abc
+1 b
+1aa
+1   a
+b
+0a  cd
+0a d
+b
+
+b
+0 dfec
+0 ab  d
+b
+1. cdca
+2 d
+#2abd
+x a
+x  d
+x  b
+b
+1  fec
+#2 e
+x c
+#2 f
+x e
+x c
+x e
+b
+0a  c a
+1 a
+1   a
+b
+0 ce e
+0 ef c
+b
+0a   e
+0   c
+b
+0 da c
+0 ac
+b
+1 cd
+#2  d
+x a
+#2 c
+x e
+xa
+x c
+b
+
+b
+#2 e e
+x f
+x e
+x c
+#2 f  c
+x e
+x c
+x e
+b
+0a  ce
+#2 daa
+x c
+x a
+x  d
+b
+1 abc
+#2 c
+x d
+0aab  a
+b
+1 dd  c
+1 c
+#2 ab  d
+x c
+x d
+x a
+b
+0 cdca
+0  d
+b
+0   ca
+0aa   d
+b
+0c db c
+0ea c a
+b
+0f d  c
+1   b
+1 a
+b
+0db c a
+1 a
+1     c
+b
+1da a d
+1    a
+1c   c
+1    e
+b
+
+b
+1  da
+1a
+1 d
+1 c
+b
+0 abc
+0     a
+b
+1 ab
+1     c
+1     d
+1 c  a
+b
+1 efec
+1a
+1c
+1   c
+b
+0ca bc
+1d
+1   c
+b
+0caa c
+0a b
+b
+0ha
+1   e
+1f
+b
+0da  c
+1c
+1  d
+b
+0ha f h
+1   e
+1f
+b
+0da  c
+1c
+1  d
+b
+1 ab c
+1a
+1a a
+1   c
+b
+
+b
+0  fec
+0 e
+b
+1aa c a
+#2 d
+x c
+#2 a
+x  d
+x  b
+x  a
+b
+0a b  a
+0   c
+b
+0 a
+1    c
+1  d
+b
+0  bc
+1 a
+1   a
+b
+0  d e
+0  bc a
+b
+0  a c
+1   b
+1    a
+b
+0  bc d
+1  abc
+1   c
+b
+1  dea
+1   c
+1   c
+1  b
+b
+0  a c
+0 a b
+b
+
+b
+1a  c a
+1  d
+1  b
+1 d
+b
+0 cdca
+0aab  a
+b
+1  fec
+#2 f
+x e
+#2 c
+x  f
+x c
+x e
+b
+1aa c a
+#2 d
+x c
+#2 a
+x  d
+x  b
+x  a
+b
+0 ab  a
+0a
+b
+0ha f d
+1 d   d
+1f
+b
+0df cd
+0hd f d
+b
+1fd a
+#2  b
+x  a
+#2  b
+x  a
+x   c
+x  a
+b
+0hd f d
+0f g hf
+b
+
+b
+0da ac
+0c
+b
+1   cd
+1a
+0a
+b
+0   ec
+0 ef
+b
+0a    a
+1   c
+1 d
+b
+0 cd
+1a
+1 ab
+b
+0f de
+1 c
+1d
+b
+0cef
+0df f
+b
+0cfd
+0 ef c
+b
+0a  c
+1 a
+1   a
+b
+0a   e
+1   c
+1 d  c
+b
+1ccd a
+1a
+1a
+1  b
+b
+0  fec
+0 e
+b
+
+b
+Yaa c a
+b
+b
+
+e

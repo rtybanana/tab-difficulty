@@ -1,0 +1,136 @@
+-C
+-t
+-f
+{287. Countess of Ormond's Galliard/Anthony Holborne}
+b
+2.acd a
+3    c
+#2f   e
+x   a
+#2   c
+xea
+b
+#2fc  a
+x  d
+#2a
+x  c
+#2  d
+x c
+b
+#2 dda
+x   c
+#2  a
+x  c
+#2 cd
+x    a
+b
+
+b
+2 a   a
+2.  f
+3  d
+2  c
+#2 cde
+x   c
+b
+2. dda
+3    e
+#2    c
+xa   e
+#2c  a
+xe  c
+b
+#2f a
+x  c
+#2  d
+xa
+#2 c
+x    a
+b
+
+b
+2. dda
+3   c
+#3   e
+x c
+x a
+x  d
+#3  cc
+x  d
+x a
+x  c
+b
+#2    a
+x cd
+#2   c
+x    a
+1 cdca
+.
+b
+b
+.
+2. ddef
+3    e
+#2   a
+x   c
+#2   e{
+x ce  }
+b
+#2 aa c
+x  f
+#2  d
+x  b
+#2 cee
+x   c
+b
+
+b
+2. dfa
+3    e
+#2    c
+xaa c
+#2 cfe{
+x  e  }
+b
+#2 aa
+x    c
+#2     e
+x     a
+#2 cd
+x    a
+b
+2. dda
+3    c
+2   f
+#3a  e
+x   c
+#2c  a
+xe  c
+b
+#2f a
+x  d
+#2a
+x  c
+#2 cde
+x   c
+b
+
+b
+2. dda
+3   c
+#3  a
+x  c
+2 cd
+#2 adc{
+x  c  }
+b
+#2    a
+x cd
+#2   c
+x    a
+Y cdca
+.
+b
+b
+
+e

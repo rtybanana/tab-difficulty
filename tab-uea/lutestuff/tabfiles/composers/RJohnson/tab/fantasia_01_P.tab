@@ -1,0 +1,441 @@
+-C
+-t
+-f
+{Fantasia 1/Fantasia 1}
+b
+c
+1. a
+2 \1c
+#2 \2d
+x a
+1\1c
+b
+#2  a
+xc
+xa
+x \2d\1c
+#2 \1c\3e
+x  a
+1 \2d&{\4f
+b
+#2\1c}
+x df
+x c\2d
+x a\1b
+2 \3da
+#3 \1c
+x a
+1 \1c
+b
+1.\1ca\4f
+2\3e
+#2\1g a
+x \2h&{
+1\4l
+b
+#2 i  \1h
+x\4l
+xk
+x\2h
+#2g\3h&{a
+x\4hh&}  \1f&(
+xh\2f  e&)
+x\3g
+b
+
+b
+2hh\2i\4k&{\3kh
+1   k&}
+2    e
+#2 aaa
+x    \1c
+1 c\4e&{\3e
+b
+#2 \2d}
+x  ee
+x  cc
+x  aa
+#2 \4f&{c \2e
+x    c
+xc \3e \2e
+x f&}
+b
+1 \2d\4f \1c
+#2\2d
+x    a
+#2 a   \1d&{
+x     c&}
+xd\1c   a
+x a
+b
+1cc\3e  c
+#2\4f
+x     a
+#2 aa   /e
+xf
+1da \1c a
+b
+1\3ca a\2c
+#2h
+x   \2h
+#2h  \1f \2h
+x\4k
+xl a \2k
+x   \1g&{
+b
+#2\3k\4l h
+x    a
+x\4h\3h&{  \1f
+x    \2h
+#2\2gh&}a
+x      e
+x  a
+x     e
+b
+
+b
+#2  a \1b
+x     \2c
+1  aa\2c&{
+#2  \1b
+x    c&}
+x  a a
+x   \1c \2d&{
+b
+#2   \3c\1bc
+x   a\3c&{
+x  \4f&( e&}\1c
+x  e&)
+1. aa \1c&{
+2 \2c
+b
+#2 \3da c
+x a
+1\2c\3d&{
+#2   \4e
+xcd&}
+xa\1c
+x \2d\4f&{
+b
+#2 \1ce\3e
+x a
+1\4f\1c \2e
+1da a\1c
+#2\3c
+x  \4d
+b
+#2ca\1b&{ \2c
+xa
+1aab&}
+1 \4fa\3e\1c
+#2 \2d
+x     \1c
+b
+#2 \2d \3ea
+x c&{
+1 c \2c
+1 c&} a  /a
+#2 a a
+x     a
+b
+
+b
+#2  \4f&{ \3f&(c
+x    e
+x  e e&)
+x     a
+1 af&}   /e
+#2   \3e
+x  \1d&{
+b
+#2  b\4e a
+x   \2c&{
+1\4d bc&}
+1\1c\4f\3f&{   /a
+#2 \2d
+x c
+b
+#2 \1df
+x a
+1\4la
+#2   \2i&{  /h
+xl
+xk  k&}
+xh
+b
+#2\4kh \2i
+x h
+x hh \3k
+x    h
+#2 \3h  f
+x  f
+x if \2h
+x  h
+b
+#2\1c \4e&{\3e
+x \2d
+x \1d&(ff
+#3ac&)
+x a
+#2ccee
+x \2df&{
+x cf  c
+x  \3e
+b
+
+b
+1 aa \1c
+#2 \3d
+x  a
+#2 \2c&{\3d
+x    a
+#3  aa  a
+x c&}
+x a
+x   a
+b
+1  \4e \3ec
+#2c
+x c
+1 \2d \3e c
+#2 c
+x    \3e
+b
+#2    \4fc
+x a
+x a  \3e
+x    \2c
+#2  \4e \3ec
+x  a
+x  \2d&{ e
+x     a
+b
+1  d \4f&{ a
+#2  \1b e&}a
+x    \2c
+#2  a \1b\2c
+x    \3c
+x  a
+x    \1bc&{
+b
+#2   e\1cd
+x   c
+1   ccd
+#2   \3cac
+x   a
+1   aa
+b
+#2   \4f\1ca
+x   c
+x   \4h\1e
+x   \2f&{
+1   e&}\3f
+#2   \1ce
+x   \4e
+b
+
+b
+#2  \1b \2c
+x  a
+x  a \3e\4f
+x    \1c
+#2    \3e
+x   \4e
+1   \2d  /c
+b
+1   \4e\3e\1c
+#2 c
+x a
+#2  \4e\3e
+x  a
+x\1c
+xa
+b
+#2 \2d\4f
+x a
+xa\2c\3d
+x  \1b
+1\1cca
+#2\4f
+x\3e
+b
+#2\1c\3e\4f
+x a
+x\2d\4f \1c
+x \3d
+1cc\3e\2e
+#2\4g
+x   c
+b
+#2h a \1f
+x     \3h
+xk    \1g
+x      /h
+#2lh\2i  h
+x\3k
+xh
+x \4l
+b
+1e\3g\4h e
+#2e
+x  \2f
+#2e  \3h&{e
+x \4h&(
+x h&) h&}
+#3   \2g
+x   e
+b
+
+b
+#2\4h\3g \2ge
+x\2f\4h&{ e
+xeh&} \2ge
+x \3g&{
+1\1cd&}\2da
+#2cd    a
+x c
+b
+#2\3da \2c a
+x\1c  a
+xa   \3e\2d
+x    \1c
+#2c \4e&{\3e c
+x \2df c
+x cf&} \2e&(c
+x  \3e
+b
+2. aa c
+3  \4d
+2  \1b c
+#3  a
+x    a
+#3     \3d
+x   \4e
+x   \2c \1c
+x   a
+#3   \4e \2d
+x   \1c
+x    c
+x    \3e
+b
+2   a \1c
+#3    \3e
+x    c
+2c \4f \2ec
+#3  \3e
+xa
+2 \4da \1c
+#3 \2c
+x a
+#3 \2c  a
+x  a
+x \4d a \1c
+x \2c
+b
+
+b
+#3 a a \3d
+x  \4d
+x a
+x \2c
+#3 \4d&{\3d  \1c
+xa
+2\3cd a  a
+2ad&}d\1ca
+#3 \2c
+xa
+2\4f\1d \2e  a
+#3   a
+xd
+b
+2\2c\3d&{
+#3a
+x d&}
+2 \2c&{\3d
+#3a
+x  \1b
+#3 d&}a
+x   \1c
+x   a
+xa
+#3\4f
+x \1c
+x a \1c
+x\2d
+b
+2.cc\4e\3e
+3   c
+2 a a
+#3    \3e
+x    \2c
+2 \2c&{a \1b&(
+#3 d&}a c&)
+x    a
+#3 a   \2d
+x     \1c
+2aa   \2d
+b
+2cc\3e  c
+#3\4f
+x     \2e
+#3f   a
+x    \1c
+xf   \2e
+x   a
+#3d  \2c
+x  a
+xd \1b
+x  \3d
+2c\2d\4f
+#3fc \2e
+x   \3f
+b
+
+b
+#3  \2d&{
+x\3d
+#2\1c\3d&(
+xad&)d
+x \1c
+1\1c\3dda
+#2      a
+x  d
+b
+#2  \4f\3f&{
+x      a
+x  \2de&}
+x  \1b\2c
+1  aa  a
+#2  \3d&{
+x  d&}   /c
+b
+1  \1b \2c /a
+#2  a
+x      /c
+#2  a   a
+x    \1c
+x  \2c  a
+x    \3e
+b
+#2  \4e  \1c
+x   a
+x a  \3e\2d
+x    \1c
+1  \2d \3ec
+#2 c
+x   c
+b
+#2 \2d   c
+x   a
+xa   \3e
+x    \1c
+#2c \4f&{ \3ec
+x    c
+1c e \3ec
+b
+1 \3ef\2e\1c
+Y.      /a
+b
+b
+
+e

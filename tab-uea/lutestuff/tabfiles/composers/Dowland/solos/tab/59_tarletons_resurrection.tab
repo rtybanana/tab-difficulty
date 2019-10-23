@@ -1,0 +1,94 @@
+-C
+-t
+-f
+{59. Tarleton's Resurrection/59. Tarleton's Resurrection}
+b
+2. cd a
+3 d
+2ac  a
+2.cdda
+3d
+2f  a
+b
+2.ea   a
+3f
+2h    a
+1.fcd a
+b
+#2  dca
+x c
+x ed  c
+1aac  a
+2acd a
+b
+2.cdda
+3e
+2f  e
+1.eff  a
+b
+#2acd a
+xa
+xaa c e
+2.fc e c
+3 e
+2eff  a
+b
+2.caa c
+3a
+2c   c
+1.aac  a
+b
+#2acd a
+xh    e
+xf    c
+1eff  a
+2acd a
+b
+
+b
+#2cdda
+x cde
+x e
+2.aa c
+3 d
+2 cd a
+b
+2. dda
+3a
+2c
+2.aac  a
+3 d
+2 cd a
+b
+#2 dda
+x adc
+x  c
+1.  dca
+b
+#2fcd a
+xf
+xf
+1kf h f
+2hf g a
+b
+2.fc e c
+3e
+2ce  c
+1eff  a
+2acd a
+b
+2.cdda
+3e
+2f  a
+2.acd a
+3 d
+2 c  a
+b
+#2 dda
+x adc a
+x  c
+1.  dca
+b
+b
+
+e

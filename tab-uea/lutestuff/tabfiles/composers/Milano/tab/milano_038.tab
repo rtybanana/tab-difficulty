@@ -1,0 +1,386 @@
+-C
+-t
+-f
+{Fantasia 38/Fantasia 38}
+b
+c
+1.f
+2d
+#2c
+xa
+1 d
+b
+1d
+1c
+1a d
+#2f
+x  b
+b
+#2  a
+xd  c
+xc  a
+xa
+1 db
+1  a
+b
+1d  c
+1c d
+#2a
+x  b
+xf a
+x   c
+b
+#2   a
+xd
+xc
+xa   d
+#2 d  c
+x b  a
+xaa   d
+x  d
+b
+#2  b d
+x  a
+x d cc
+x   a
+1   ca
+1 cd
+b
+
+b
+#2 d a
+x  b
+xf a
+x   c
+#2   a
+xd
+xc d
+xa
+b
+#2 d
+x  b
+x  a f
+x   c
+#2   a
+x    d
+x d  c
+x    a
+b
+#2     d
+x b
+x a a
+x  d
+#2  bc
+x  a
+x   cf
+x   a
+b
+1   c
+1  d e
+1  aa
+1 a
+b
+#2  d
+x  b
+xf a
+x   c
+1c  a
+1h
+b
+#2f
+xd
+xc d
+xa
+1 da
+1  f
+b
+#2a d
+x  b
+xc a
+x   c
+1   a
+1d  c
+b
+
+b
+1  a
+1c  a
+1  b c
+1a  c
+b
+#2c da
+x    d
+x d  c
+x    a
+1 a   d
+1 f  a
+b
+#2 d  c
+x b
+xda
+x  d
+1a b d
+1fb  a
+b
+#2da c
+xc
+xa b
+x d
+1 bd
+1i   a
+b
+1f  a
+1h i
+1 if h
+1f g a
+b
+1c da
+#2da   d
+xc
+1a b d
+#2c d a
+xa
+b
+#2  a c
+x d
+xa b  d
+x d
+#2 c ca
+x a
+x d
+x c
+b
+
+b
+2 dda
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+#3   a
+x   c
+x  a
+x  b
+#2  d
+x a
+b
+2  aa
+#3f
+xd
+#3f
+xd
+xc
+xa
+#3 d
+xa
+xc
+xd
+#2f
+xh
+b
+2c  a
+#3  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+#3   a
+x   c
+x  a
+x  b
+#2  d
+x a
+b
+2 c  a
+#3   c
+x   a
+#3   c
+x   a
+x    e
+x    c
+#3    a
+x    c
+x    e
+x   a
+#2   c
+x  a
+b
+
+b
+2  b  a
+#3  f
+x  d
+#3  f
+x  d
+x  b
+x  a
+2   c
+#3h
+xf
+#3d
+xc
+2a
+b
+#3h
+xf
+xd
+xc
+#3a
+x d
+x c  a
+x a
+2 c
+#3 f
+x d
+#3 f
+x d
+x c
+x a
+b
+#3  d
+x a
+x c
+x a
+#3  d
+x  b
+x  a
+x   c
+2   a
+#3  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+#3   a
+x   c
+x   e
+x   c
+#3   a
+x    d
+x    c
+x    a
+#2     d
+x d
+x a
+xa
+b
+
+b
+#2 d  c
+x c
+x a
+x d
+#2 c  a
+xc
+xa
+xf
+b
+#2d  c
+xc
+xa
+xd
+#2c  a
+x a
+x  d
+x d
+b
+#2 c e
+x a
+x  d
+x c
+#2 ab
+xa
+x d
+xd
+b
+#2c f
+xa
+x d
+xc
+1ab
+#2d
+x a
+b
+1c d
+1a
+1  b d
+#2d
+x    c
+b
+1cbd a
+#2a
+x ab
+1  def
+1 dff d
+b
+
+b
+#2  dca
+x c
+#3 d
+x c
+x a
+x c
+1 ddef
+1  f
+b
+1  da
+1  bc
+1  da
+#2    e
+x  b
+b
+1f aa
+1h
+1fd
+1ef
+b
+1fd
+#2 c
+xd
+1cdda
+1d f  d
+b
+1cdda
+1acbc
+1cdda
+#2 c
+xaab
+b
+#2 ddef
+x  f
+1abb d
+1 aaa
+1 dbac
+b
+#3  dca
+x c
+x d
+x c
+#3 d
+x c
+x a
+x c
+1 ddef
+1  f
+b
+1  d
+1  b  d
+1 ddff
+1   e
+b
+
+b
+0 dff d
+0 ddef
+b
+Y ddef
+b
+b
+
+e

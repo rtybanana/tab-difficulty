@@ -1,0 +1,199 @@
+-C
+-t
+-f
+{38. Jetz scheiden/38. Jetz scheiden}
+b
+c
+0 db  d
+0 db  d
+b
+0 b ca
+1 b c"+a
+#3 d
+x b
+x a
+x b
+b
+1 d ac
+1 ab  d
+1  da
+1  a
+b
+Y db  d
+b
+0
+0d  a d
+b
+1   c"+d
+1d
+1c aa
+1a b  d"+
+b
+#2  d
+x  b
+x  a
+x   c
+1 a ac
+1 b ca
+b
+#2 b  a
+x a   a
+1 a a d
+#2 b  a
+x a
+x  b
+x  d
+b
+Y a  ca
+b
+
+b
+0
+0d  c a
+b
+0d  c a
+1c  ac"+
+#3d
+xc
+xa
+x d
+b
+1a  c a
+1d  c
+1c aa
+#2a b d"+
+x  d
+b
+#2  b
+x  a
+x d"+ cc
+x   a
+#2   c"+a
+x d
+x a
+x c
+b
+1 d ac
+1 a   d
+0  da
+b
+1  b  d
+1d   d
+#2d b d
+xc  a
+1a  c
+b
+#2  a c"+
+xa
+x c
+x e
+0a  cd
+b
+
+b
+1 df c"+
+#2 d
+xa
+1c da
+1da   d"+
+b
+#2d
+xc
+1c da
+#2c b"+c"+
+xa
+#3c
+xa
+x d
+xa
+b
+1c a c"+
+1   a
+#2c aa
+x    d
+1a   a
+b
+#2a   c"+
+x d
+1 d
+#2  d a
+x d
+x a
+x c
+b
+0 daa
+0   ac
+b
+1 ab  d
+#2 a   d
+x b  a
+1 da c
+1 ab  d
+b
+
+b
+#2a d d
+x  b
+#3  d
+x  b
+x  a
+x   c
+#2  a c"+
+xa
+x c
+x e
+b
+1a  c"+ d
+1    a
+#2   ca
+x     d
+1  d  c
+b
+1 a   a
+1 b  a
+1 d"+ a
+1     d
+b
+#2a b"+  a
+x     c
+x     d
+x    a
+1 da c
+1 b c a
+b
+#2   d
+x   c
+x a a
+x  d d
+1  b c"+d"+
+1 d
+b
+#2a  cd"+
+x b
+#3 d
+x b
+x a
+x b
+1 d a d"+
+1 a
+b
+
+b
+#2 b  a
+x a
+x  d
+x  b
+#3  d a
+x  b
+x  d
+x a
+#3 b
+x a
+x b
+x  d
+b
+Y ab  a
+b
+b
+
+e

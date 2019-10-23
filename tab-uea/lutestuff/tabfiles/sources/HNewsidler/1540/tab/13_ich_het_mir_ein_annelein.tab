@@ -1,0 +1,86 @@
+-C
+-t
+-f
+{13. Ich het mir ein Annelein/13. Ich het mir ein Annelein}
+b
+1a  c a
+b
+0 abc
+1 cd a
+b
+#2 daa
+xa
+x d
+x c
+1 abc
+b
+0 cd a
+1 ea c
+b
+0a  c a
+1a  c a
+b
+0 abc
+1 cd a
+b
+#2 daa
+xa
+x d
+x c
+1 abc
+b
+0 cd a
+1 ea c
+b
+0a  c a
+1a bc
+b
+0 da c
+1a bc
+b
+1c d"+a
+#2c
+xa
+1c aa
+b
+
+b
+1d bc
+1c aa
+1a bc
+b
+0c a c
+1a bc
+b
+0 da c
+1a bc
+b
+1c aa
+#2c
+xa
+1c aa
+b
+1d bc
+1c aa
+1a bc
+b
+0c a c
+1f aa
+b
+1d bc
+1c d"+a
+#2c
+xa
+b
+1a bc
+1  a c"+
+1 e
+b
+0a  c a
+1a  c
+b
+Y.a  c a
+b
+b
+
+e

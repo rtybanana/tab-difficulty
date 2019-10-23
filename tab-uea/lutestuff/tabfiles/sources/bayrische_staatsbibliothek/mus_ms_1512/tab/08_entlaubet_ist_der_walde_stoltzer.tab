@@ -1,0 +1,158 @@
+-C
+-t
+-f
+{8. Entlaubet ist der walde/Thomas Stoltzer}
+b
+c
+1 b  d
+#3 b
+x a
+x b
+x d
+#2 b d
+x  b
+x   d
+x   c
+b
+1 a a
+1 b  d
+1 b d
+1 d a
+b
+1 ab
+#3 d
+x b
+x a
+x  d
+1  b d
+1   c
+b
+1   a
+1 d
+1a   d
+#2 d
+x b
+b
+1 d
+1 b  d
+1   d
+#2 a
+x  dd
+b
+1 a c
+1 b  d
+1  da
+1  da
+b
+A1
+w ab  d
+.
+b
+b
+
+b
+A2
+1 ab  d
+#2  b
+x   d
+#2   c
+x   a
+1d  c
+b
+1b  a
+1a   d
+1 db
+#3a
+x d
+x b
+x a
+b
+1 bd
+#3b
+xa
+xb
+xd
+1b  d
+#2a  c
+x d
+b
+#3a d
+x d
+x c
+x a
+#2 d
+x c
+1 d
+1 d a
+b
+1d  c
+1    d
+1b  a
+1a  c
+b
+#2   d
+x d
+1 db
+#3a d
+x d
+x c
+x a
+#2 d
+x c
+b
+
+b
+0 db  d
+1
+1  b  d
+b
+1 bd
+1 df
+1ab
+1b d
+b
+1d b
+#3f
+xd
+xc
+xa
+#2 db
+x b
+x d
+xa
+b
+2b  a
+#3a
+xb
+#3d
+xb
+xa
+x d
+1ab
+#3 d
+x b
+x a
+x  d
+b
+1 df
+1d b
+1db
+#3b
+xa
+xb
+xd
+b
+
+b
+#2b  a
+xa
+x dd
+x b
+1 db
+1 db
+b
+wab  d
+b
+b
+
+e

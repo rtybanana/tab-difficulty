@@ -1,0 +1,238 @@
+-C
+-t
+-f
+{/}
+b
+C
+0.a
+1c
+b
+0d  c
+1f
+1  a
+b
+0h  f a
+1f
+1     c
+b
+0da  cd
+1     f
+1    e
+b
+0c  bc
+1aU cef
+1     d
+b
+1a ab c
+1  bc
+0 ede
+b
+1a b ca
+1a    a
+1 a   a
+#2c     a
+x      /c
+b
+0d  c  /a
+1\2f   \3g /a
+1    \1e
+b
+
+b
+1\4h a \3g
+#2  bc
+x  d
+1ca    /a
+1   b
+b
+0aa c
+0hf&U g a
+b
+1hf g a
+1hf g a
+0hf g a
+b
+0if ha
+1\4he f  /a
+1  a
+b
+0hf  d
+0f
+b
+0hhk   /a
+1ce&U  c
+1  f
+b
+1cef c
+1cef c
+0cef c
+b
+0da   a
+0cd    a
+b
+#2cde  c
+x c
+#2aa
+x d
+1 c e
+1  e
+b
+
+b
+0 aa c
+0hd&U f d
+b
+1hd f d
+1hd f d
+0hd f d
+b
+1la
+1    a
+1    c
+#2a d e
+x  bc
+b
+1c  a
+1   c
+#2l a   a
+x   a
+1h  f
+b
+1fd f
+1   e
+1da f
+1hd f d
+b
+1cdd   a
+#2dbb
+x a
+1  d
+1c
+b
+1ddf  d
+1.hd f
+2hd f
+1dfd
+b
+
+b
+0cef c
+1cef c
+1ce    /a
+b
+#2cef c
+xcef c
+1da c
+1ccfe
+#2  e
+x f
+b
+0 efec
+0      /a
+b
+1df
+1df
+1ce
+b
+#2a  c
+xc
+xd  c
+xf
+#2h   g
+xf
+b
+#2d  c
+x  a
+xd b
+x  d
+#2cdf
+x    c
+b
+#2cb c
+x a a
+1a d d
+#2  d
+xc
+b
+
+b
+1 ea c
+1  f
+1  d
+b
+1  bc
+#2   c
+x  b
+#2  a
+x   a
+b
+#2a  cd
+x  d
+xa
+x  d d
+1 dc c
+b
+1 bdca
+#2   c
+x b
+1 a a
+b
+1abd a
+#2a
+x  d d
+1 dc c
+b
+#2 bdca
+x  d a
+x b c
+x  d a
+1 acc
+b
+C
+0  dca
+0ff&Ud a
+b
+0ffd a
+0hf   e
+b
+
+b
+1ff  d
+#2d a
+xcd
+1abb
+1  d
+b
+1 ea c
+#2da c
+xda c
+#2c db
+xa
+1a bc
+b
+1a a c
+1 e
+1aa c
+#2aa c e
+xaa c e
+b
+1. b ca
+2 d  c
+1a   d
+#2ed  c
+xe
+b
+1\1f \2g a
+#2   \3h
+x a
+0\4i\1f \3h
+b
+0     a
+1\4h  \2g&{
+1f  e
+b
+Yh\1f g a
+b
+b
+P
+e

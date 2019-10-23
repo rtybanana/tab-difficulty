@@ -1,0 +1,132 @@
+-C
+-t
+-f
+{26. Nach Lust/26. Nach Lust}
+b
+c
+0  b
+0  b
+b
+0 a c
+0 b  d
+b
+0 db
+1a b
+1  d
+b
+1 df
+1d b
+1  d
+1c
+b
+wd b
+b
+0
+0 db
+b
+0a  c
+0c  a
+b
+1d b
+#2d
+xc
+1a   d
+1 db
+b
+#2a
+x d
+x b  d
+x a
+0  da
+b
+w  b  d
+.
+b
+b
+0
+0 ab
+b
+
+b
+1  de
+1 d a
+1  d
+1 c
+b
+0 d a
+0a d
+b
+1 df
+1db
+1  d
+1c
+b
+wd b
+b
+0
+0 db
+b
+0d b
+0a d
+b
+0c  a
+1d b
+1f  a
+b
+1  a
+#2d b
+xc
+0a d
+b
+w d a
+b
+0
+0 db
+b
+0 ab
+0 ab
+b
+0a d
+1 df
+1a d
+b
+
+b
+#2a
+x d
+x b c
+x a
+1 bd
+1 bd
+b
+w a c
+b
+0
+0 db
+b
+0d  c
+1d  c
+#2c
+xa
+b
+1c a
+1   a
+1a  c
+1 d  c
+b
+#2a
+x d
+x b  d
+x a
+1  da
+1  bc
+b
+1 a  c
+1 b  d
+0  da
+b
+w  b  d
+b
+b
+
+e

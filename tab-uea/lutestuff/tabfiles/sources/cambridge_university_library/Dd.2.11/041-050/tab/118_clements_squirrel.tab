@@ -1,0 +1,118 @@
+-C
+-t
+-f
+{118. Clement's squirrel/Anonymous}
+b
+2  d
+b
+.
+2. c  a
+3 d
+2a
+1c  a
+2a   e
+b
+2. d  c
+3 c
+2 ac  a
+1  d a
+2f  e
+b
+1ea c
+2a   e
+1c  a
+2 ea c
+b
+A1
+1aac  a
+2   c
+1     a
+2  d
+.
+b
+b
+A2
+1aac  a
+2   c
+1     a
+#3e
+xf
+b
+.
+#2h    a
+xe
+x f
+1a
+#3c
+xe
+b
+
+b
+#2f   a
+xa
+x c
+1  d
+#3 d
+xa
+b
+2.c   c
+3a
+2 d
+2. c   c
+3 a
+2 c
+b
+A1
+1 aa c
+2   b
+1    c
+#3e
+xf
+.
+b
+b
+A2
+1 aa c
+2   b
+1    c
+#3c
+xe
+b
+.
+#2f  e
+x d
+xe  c
+1c  a
+2a   e
+b
+#2 d  c
+x  c
+x c  a
+1 ac  a
+2a d e
+b
+1 d a
+2  de
+2. a   a
+3  d
+2  cc
+b
+
+b
+A1
+1  dca
+2   c
+1    a
+#3c
+xe
+.
+b
+b
+A2
+1  dca
+2   c
+Y.    a
+b
+b
+
+e

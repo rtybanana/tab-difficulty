@@ -1,0 +1,975 @@
+-C
+-t
+-f
+{Mounsiers almain treble/Mounsiers almain treble}
+b
+c
+#2aacc
+x     a
+2aa c
+#3 e
+x c
+b
+#2cef
+x    c
+2cef
+#3a
+x e
+b
+#3ea c
+xf
+2h
+#2f  e
+x e
+b
+#2ef c
+xa
+1af
+b
+#3e
+xf
+xh
+x a
+#3 c
+xf
+xe
+x f
+b
+#3 e
+xc
+xa
+x c
+#3 e
+x f
+x  c
+x a
+b
+
+b
+#3  d
+x c
+xa
+x c
+#3  f
+xa
+x e
+x  d
+b
+#2aac
+x   c
+1     a
+b
+b
+#4   c
+x   b
+x   c
+x  a
+#4  c
+x  a
+x  c
+x  d
+#4 a
+x  d
+x a
+x c
+#4 e
+x c
+x e
+xa
+b
+3c
+#4 a
+x c
+#4 e
+x c
+x e
+xa
+#4c
+xa
+xc
+xe
+#4f
+xc
+xe
+xf
+b
+
+b
+3h
+#4 a
+x c
+#4 e
+xa
+xc
+xe
+3f
+#4  a
+x  c
+#4  d
+x a
+x c
+x e
+b
+3a
+#4 e
+x c
+#4 a
+x  d
+x  c
+x  a
+3   c
+#4  a
+x  c
+#4  d
+x a
+x c
+x e
+b
+#4a
+xc
+xe
+xf
+#4h
+xa
+xc
+xe
+#4f
+xc
+xe
+xf
+#4e
+xa
+xc
+xe
+b
+
+b
+#4c
+xe
+xf
+xe
+#4c
+xe
+xa
+xc
+#4 e
+xa
+x c
+x e
+#4 a
+x c
+x e
+x a
+b
+#4 c
+x a
+x c
+x e
+#4 c
+x e
+xa
+x c
+#4 e
+x c
+x e
+xa
+#4 e
+xa
+xc
+x e
+b
+#4a
+xc
+xe
+xf
+#3h
+xe
+1af
+b
+b
+#2aacc
+x     a
+1caa c
+b
+2ea c
+#3a
+xc
+#3e
+xf
+2h
+b
+
+b
+2fc
+#3ea
+xc d
+#3b c
+xc a
+x  c
+xb
+b
+#2ccee
+x     c
+1ccee
+b
+#3f
+xe
+xh
+x e
+#3 c
+xf
+xe
+x f
+b
+#3 e
+xc
+xa
+x c
+#3 e
+x  f
+x  c
+x a
+b
+#3  d
+x c
+xa
+x c
+#3  f
+xa
+x e
+x  d
+b
+#2aacc
+x     a
+1   c
+b
+b
+
+b
+#4a
+x e
+xa
+xc
+#4a
+xc
+xe
+xa
+#4c
+xa
+xc
+xe
+#4c
+xe
+xf
+xc
+b
+#4e
+x h
+xe
+xf
+#4e
+xf
+xh
+xf
+#4e
+xf
+xe
+xc
+#4a
+xc
+xa
+x d
+b
+#4 c
+x a
+x  d
+x a
+#4 c
+x a
+x c
+x e
+#4b
+xc
+xe
+xc
+#4b
+xc
+xe
+xb
+b
+
+b
+3c
+#4a
+x e
+#4 c
+x a
+x  e
+x  c
+3  a
+#4  a
+x  c
+#4  d
+x a
+x c
+x d
+b
+#4a
+x e
+xa
+xc
+#4e
+xc
+xe
+xf
+#4h
+xa
+xc
+xe
+#4f
+xe
+xc
+xa
+b
+#4c
+xa
+xc
+xe
+#4c
+xa
+x e
+x c
+#4 a
+x  e
+x a
+x c
+#4 a
+x c
+x e
+x a
+b
+
+b
+#4 c
+x a
+x c
+x e
+#4a
+xc
+xe
+xa
+#4c
+xa
+x e
+xa
+#4c
+xe
+xc
+x e
+b
+#4a
+x e
+xa
+xc
+#4e
+xc
+xe
+xf
+#3h
+xe
+2af
+b
+b
+#4e
+xf
+3h
+#3e
+xa
+#4a
+xc
+3e
+#3a
+x c
+b
+#4 e
+xa
+3c
+#3 e
+x a
+#4c
+xe
+3f
+#3e
+xc
+b
+
+b
+#4e
+xf
+3h
+#3e
+x a
+#4  d
+x a
+3 c
+#3  d
+x  a
+b
+#4  c
+x  d
+3 a
+#3  c
+x   c
+1     a
+b
+#4h
+xf
+xe
+xf
+#3h
+xa
+#4 c
+x a
+x c
+x e
+#3a
+x c
+b
+#4c
+xa
+x e
+xa
+#3c
+x a
+#4 e
+x c
+x a
+x c
+#3 e
+x a
+b
+
+b
+#4 c
+x a
+x c
+x e
+#3a
+x c
+#4 e
+x c
+x e
+xa
+#3c
+x e
+b
+#4a
+x e
+xa
+xc
+#3e
+xa
+#4e
+xa
+xe
+xf
+#3h
+xa
+b
+b
+#tx e
+x c
+#tx c
+x e
+#txc
+xe
+#txe
+xa
+b
+#txa
+xc
+#txc
+xa
+#txa
+xc
+#tx e
+xa
+b
+
+b
+#txf
+xh
+#txc
+xe
+#txc
+xe
+#tx c
+x e
+b
+#tx  c
+x  a
+#txa
+xc
+#tx a
+x c
+#txe
+xc
+b
+#tx  c
+x  d
+#txc
+xe
+#tx c
+x e
+#txf
+xe
+b
+#tx e
+x c
+#txc
+xa
+#tx  f
+x  d
+#txa
+x d
+b
+
+b
+#tx  a
+x  c
+#txc
+xa
+#tx  d
+x  c
+#txh
+xf
+b
+#tx  c
+x  a
+#txe
+xc
+#tx   c
+x  a
+2aacc
+b
+b
+#4a
+xa
+xa
+xa
+#3e
+xa
+#4c
+xc
+xc
+xc
+#3f
+xc
+b
+#4a
+xa
+xa
+xa
+#3e
+xa
+#4e
+xe
+xe
+xe
+#3h
+xe
+b
+
+b
+#4c
+xc
+xc
+xc
+#3f
+xc
+#4e
+xe
+xe
+xe
+#3h
+xe
+b
+#4g
+xg
+xg
+xg
+#3k
+xg
+#4c
+xc
+xc
+xc
+#3g
+xc
+b
+#4e
+xc
+xa
+x e
+#4a
+xc
+xe
+xf
+#4h
+xa
+xc
+xe
+#4f
+xe
+xc
+xa
+b
+
+b
+3c
+#4f
+xe
+#4c
+xa
+x e
+x c
+3 a
+#4e
+xc
+#4a
+x d
+x c
+x a
+b
+3 c
+#4a
+x d
+#4 c
+x a
+x  d
+x  c
+3  a
+#4 d
+x c
+#4 a
+x  d
+x  c
+x  a
+b
+3   c
+#4   a
+x    e
+#4    c
+x    a
+x     e
+x     c
+1     a
+b
+b
+#3     a
+xa
+xh
+xa
+#3    c
+xc
+xf
+xc
+b
+
+b
+#3     a
+xe
+xh
+xe
+#3     a
+xa
+xe
+xa
+b
+#3     c
+xc
+xf
+xc
+#3    e
+xe
+xh
+xe
+b
+#3  a
+xg
+xk
+xg
+#3  a
+xc
+xf
+xc
+b
+#3     a
+xe
+xh
+xe
+#3   c
+xa
+xe
+xa
+b
+#3    c
+x e
+xc
+x e
+#3    c
+x a
+x e
+x a
+b
+
+b
+#3    a
+x c
+xa
+x c
+#3    c
+x e
+xc
+x e
+b
+#2aaccca
+x   c
+1aaccca
+b
+b
+#4   c
+x  a
+3  c
+#4  a
+x  c
+3  d
+#4  c
+x  d
+3 a
+#4 c
+x e
+3a
+b
+#4 e
+xa
+3c
+#4a
+xc
+3e
+#4c
+xa
+3 e
+#4 c
+x e
+3a
+b
+
+b
+#4e
+xf
+3h
+#4  c
+x  d
+3 a
+#4 c
+x e
+3a
+#4c
+xe
+3f
+b
+#4e
+xf
+#3h
+xe
+xa
+1af
+b
+#3e
+xf
+xh
+xe
+#3f
+xc
+xe
+xa
+b
+#3c
+x e
+xa
+x c
+#3 e
+x a
+xa
+x e
+b
+#3 c
+x  d
+xa
+x c
+#3 e
+x a
+xc
+x e
+b
+
+b
+#3e
+xa
+xh
+xe
+3a
+#4  a
+x  c
+#4  d
+x a
+x c
+x e
+b
+b
+#4a
+x f
+x f
+xa
+#4a
+x f
+x f
+xa
+#4c
+x a
+x a
+xc
+#4c
+x a
+x a
+xc
+b
+#4e
+x f
+x f
+xe
+#4h
+x f
+x f
+xh
+#4e
+x f
+x f
+xe
+#4a
+x f
+x f
+xa
+b
+
+b
+#4f
+x  a
+x  a
+xf
+#4c
+x  a
+x  a
+xc
+#4e
+x c
+x c
+x c
+#4e
+x c
+x c
+x c
+b
+#4c
+x  a
+x  a
+x  a
+#4 c
+x  a
+x  a
+x  a
+#4  e
+x   e
+x   e
+x  e
+#4  a
+x   e
+x   e
+x  a
+b
+#4e
+x f
+x f
+xe
+#4h
+x f
+x f
+xh
+#4e
+x f
+x f
+xe
+#4a
+x f
+x f
+xa
+b
+
+b
+#4c
+x a
+x a
+xc
+#4 e
+x  f
+x  f
+x e
+#4 a
+x  f
+x  f
+x a
+#4h
+x a
+x a
+xh
+b
+#4f
+x c
+x c
+xf
+#4e
+x f
+x f
+xe
+#4c
+x e
+x f
+x e
+#4 f
+x e
+x c
+x e
+b
+#4af
+x a
+x c
+x  c
+#4 a
+x   c
+x  c
+x    e
+#4   c
+x    c
+x    e
+x     e
+#4    c
+x     a
+x     e
+x      /c
+b
+waaccca
+b
+b
+
+e

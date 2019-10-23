@@ -1,0 +1,103 @@
+-C
+-t
+-f
+{Farewell, dear love/Farewell, dear love}
+b
+0 abc
+0aa   a
+b
+0 ef c
+1 ef c
+1dd  c
+b
+1cd a
+1cd  c
+1aa c
+1ac  a
+b
+0 ef c
+0  f
+b
+0 dda
+1 dda
+1aa   d
+b
+0c da
+1  a
+#2dd  c
+xc
+b
+1aa c
+1ac  a
+1 f  c
+#2 e
+x  d
+b
+waaccca
+b
+0 daa
+1cd a
+1a   e
+b
+
+b
+1cd  c
+1ca
+0cc  b
+b
+1 df c
+1cd  c
+1cca
+1ca a
+b
+1aa  e
+1c ee
+0 ef c
+b
+.
+#2da   d
+x    a
+x    c
+x    e
+1c da
+1 d
+b
+#2ac  a
+x    c
+x    e
+x   a
+0aa c
+b
+#2 df c
+xa   e
+xc  a
+xd  c
+1f de
+1cd a
+b
+1aa c
+1da   a
+1.ca  c
+2    e
+b
+
+b
+1 a a
+1dd   d
+#2cc  a
+xa
+x dd
+x c
+b
+1 a  c
+1a d d
+1   ec
+#2 e
+x  d
+b
+waaccca
+.
+b
+b
+
+e

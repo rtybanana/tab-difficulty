@@ -1,0 +1,105 @@
+-C
+-t
+-f
+{150. Plus tost que je la die/150. Plus tost que je la die}
+b
+c
+0ddff
+0cdda
+b
+1 db c
+0 bbcd
+1 aba d
+b
+1 dda  a
+1 b
+0 aba d
+b
+1 aba d
+1cdda
+1 db c
+1 bbcd
+b
+0abd a
+0 aabc
+b
+0aabc
+0 cdca
+b
+1 dda c
+0 aba d
+1 dda  a
+b
+1 cdca
+1  b
+0cdda  a
+b
+0aab  a
+0 dda c
+b
+0 aba d
+0 bbcd
+b
+
+b
+1
+1cdd   a
+0 aba d
+b
+1.ddff
+2   e
+1   f
+#2aabc
+x   a
+b
+#2    d
+x    c
+1.acd a
+2     d
+#2     c
+x     a
+b
+0cdd   a
+1 db c
+1 bbcd
+b
+1    c
+1 b  a
+0 aba d
+b
+1  da c
+#2 aba d
+x c
+0cdd   a
+b
+1.ddff
+2   e
+1   f
+#2aabc
+x   a
+b
+
+b
+#2    d
+x    c
+1.acd a
+2     d
+#2     c
+x     a
+b
+0cdd   a
+#2 aba d
+x    a
+1 db c
+b
+0abd a
+0aabc
+b
+0. bbcd
+1cdda
+b
+Y aba d
+b
+b
+
+e

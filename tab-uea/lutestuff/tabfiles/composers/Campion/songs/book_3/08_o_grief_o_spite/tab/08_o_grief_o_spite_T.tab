@@ -1,0 +1,108 @@
+-C
+-t
+-f
+{/Thomas Campion}
+b
+0 abc a
+1 bdca
+b
+1
+0 bdca
+b
+c
+1. acc
+2   a
+#2  bcd
+x    c
+1  dcd
+b
+0 aabc
+1 abc a
+#2 abc
+x     a
+b
+0 aabc
+1 ab  d
+b
+1
+1 bdca
+1 a c a
+b
+1  dca
+1.abd
+#3c b
+x  a
+b
+2d  c
+#3   a
+x    d
+#2 aabc
+x abc
+1 aabc
+b
+c
+0 acc a
+0 ab  d
+b
+
+b
+1 bb d
+1. dff
+2 dde
+#2aa c
+x   a
+b
+#2a   d
+xc
+1dd  c
+1db  a
+1cdda
+b
+0ddff d
+0cdda
+b
+0da c
+0ca b
+1 abc
+1 abc a
+b
+c
+1 aacc
+1   b
+0 acc a
+b
+0 bdca
+1 a c e
+1 cd a
+b
+1 dda
+0 db c
+1 bbcd
+b
+1
+1 bdca
+0 aa c
+b
+1.  aac
+2  c
+1  dca
+1  de c
+b
+1 ab  d
+#2  d  c
+x  b  a
+1 aabc
+#2  bcd
+x  d
+b
+
+b
+#2 aabc
+x   c
+x aa c
+x   b
+0 acc a
+b
+b
+
+e

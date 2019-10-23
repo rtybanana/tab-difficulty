@@ -1,0 +1,172 @@
+-C
+-t
+-f
+{2. My choice is made/2. My choice is made}
+b
+0 da c
+0 aa
+#1 cd
+x    a
+b
+0 dda
+#1      a
+x dd
+0 dda
+b
+#1 d ec
+x  f
+x c  a
+x  de
+#1 ab  d
+xa  c
+b
+#1 ce
+x   e
+x     c
+x  f
+0 cee
+b
+#1  de
+x c   c
+x daa
+x      a
+#2 da c
+x   c
+x  a
+x  c
+b
+0.acd a
+1 da c
+#1c de
+x dff
+b
+
+b
+#1dc c
+x a
+x  a
+xcd
+1ccee
+#2     c
+x f
+b
+0 efec
+0   e
+0      /a
+.
+b
+b
+.
+0 dda
+#1 daa
+x dd
+#1 ab
+x   c
+b
+0 cdca
+0 cd
+0    a
+b
+#1ccd
+x   e
+xaab
+x d
+#1a d
+x c  a
+b
+0 dda
+0 dd
+0      a
+b
+0cd
+#1cd
+xac
+#1 df
+x    c
+b
+0 cde
+#1 c
+x c c
+#1 dfa
+xac  e
+b
+
+b
+#1cd  c
+x  d  c
+x     d
+x df
+#1aab
+x     a
+b
+#1     c
+x ce
+x   e
+x  f
+0cceeec
+.
+b
+b
+.
+0 da c
+1. ca  c
+2 ca
+1 aa c
+1      /a
+b
+#1 ab
+x   c
+1. aa c
+2 aa
+1 abc
+1     a
+b
+0 abc
+#1  de
+xc
+#1 da c
+x a
+b
+0 ce  c
+0   e
+0     c
+b
+#2 aa c
+x   c
+x  a
+x  c
+#1 cd
+x    a
+#2 d   d
+x a
+x d
+xa
+b
+
+b
+#2     c
+xcc
+x f
+x d
+#1 cde
+x da c
+1 cbc a
+#2 ab
+x   c
+b
+1 a c d
+#2   c
+x  a
+#1 ab  a
+x   c
+#1  feec
+x  e
+b
+0 aabc
+0      /a
+0 aabcc/a
+.
+b
+b
+
+e

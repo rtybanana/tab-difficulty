@@ -1,0 +1,576 @@
+-C
+-t
+-f
+{118. Passando el mar/Miguel de Fuenllana}
+b
+c
+w dda
+b
+0. dda
+1a
+b
+1cdda
+1d
+0c
+b
+0dde  d
+0 d
+b
+0fdda
+0  d
+b
+0fd a
+0f
+b
+0gdef
+0 d
+b
+1gdef
+1  g
+1 d
+1 f
+b
+0.fggd
+1 f
+b
+0fggd
+0fgia
+b
+0fggd
+0gdef
+b
+1dbbb
+1 d
+0 bb
+b
+wcdda
+b
+
+b
+0cd a
+0  d
+b
+0cd a
+0 d
+b
+0 d f
+0 d
+b
+0 def
+0d b d
+b
+0 bb
+0d   d
+b
+0 bdd
+0 b d
+b
+0 gddf
+0   d
+b
+0.abb d
+1    b
+b
+1 def d
+1    a
+1    b
+1    d
+b
+0 gddf
+0  d
+b
+0bd a
+0 d
+b
+0add
+1 c
+1 a
+b
+1acd a
+1 d
+1a
+1 c  a
+b
+
+b
+0 d db
+0  b  d
+b
+1 dd f
+1   f
+0   e
+b
+0  ef d
+0  ef
+b
+1fcd
+1   f
+1   e
+1f
+b
+0gd f
+0dfg d
+b
+0fggd
+0  d
+b
+1dfg d
+1  e
+1bdda
+1  b
+b
+0  d
+1ab  a
+1 d
+b
+1a b d
+1  e
+0 dbab
+b
+1  dca
+#2 c
+x a
+1 d
+1 c
+b
+0 dda
+0  d
+b
+
+b
+0fd df
+1 d
+1    f
+b
+0gd f d
+1f
+1d
+b
+0fd ef
+0fd ef
+b
+0bdda
+0ddef
+b
+0  e
+0fdde
+b
+0gd f
+0fd ef
+b
+1gd f d
+1     f
+1     g
+1    d
+b
+0fd ef
+0 d
+b
+0fd a
+0  d
+b
+0fd d
+0   a
+b
+0 de b
+1 d   d
+1  d
+b
+0  efg
+1   f
+1    g
+b
+0 daa
+0fcd a
+b
+
+b
+0bde
+0dd f
+b
+0dde
+0fdde
+b
+0g  f
+1 d   d
+1g
+b
+1f  a
+1  d
+0bd d
+b
+1a b
+#2 c
+x a
+1add
+1 c
+b
+0 d a
+0 db b
+b
+0 bb d
+0  def
+b
+0   f d
+0 gddf
+b
+0db  d
+0f   df
+b
+0 def d
+0 g df
+b
+0ddef
+0fgdd
+b
+0gf f
+1 d
+1f  d
+b
+
+b
+1d  c
+1 d
+0 cb
+b
+0bdea
+0 dd
+b
+0 g df
+0df fd
+b
+0gd
+0fd a
+b
+0 d d
+0dcbc
+b
+0 dea
+1b da
+1a
+b
+1b da
+1   c
+1 d df
+1   f
+b
+1 gddf
+1  f
+0abb d
+b
+0 dddf
+0  d
+b
+0 dddf
+0 dda
+b
+0
+0bdda
+b
+0db cd
+0fb da
+b
+1gd   d
+1   a
+1   c
+1   d
+b
+
+b
+1g e  d
+1   a
+0   c
+b
+0fb d b
+1  d
+1  e
+b
+0fb
+0  dd
+b
+0 bdd
+0  bc
+b
+0 bdd
+1b
+1  bc
+b
+0 g df
+0 fgfd
+b
+0 ggdf
+1  f
+1d
+b
+0fb  d
+1db
+1f
+b
+0g ef d
+0g  f
+b
+0f dd
+0  dd
+b
+0fbd
+0   d
+b
+0  bb
+0dbb d
+b
+0  efg
+0d  f
+b
+
+b
+0c da
+1dbb d
+1    b
+b
+1fb  a
+1   f
+0  a
+b
+0g ef d
+0   f
+b
+0d ef
+1  ef
+1  e
+b
+0fbdd
+0 d a
+b
+0  efg
+0d  f
+b
+0b da
+0 d d
+b
+0.abb d
+1  e
+b
+0 dddf
+0   f
+b
+1  d f
+1   f
+0f  e
+b
+0g  f
+1 d   d
+1f
+b
+0de fd
+1d
+1 d  b
+b
+0fb  a
+0 bd
+b
+
+b
+0 de  d
+1b  a
+1  d
+b
+0d bb
+0fd df
+b
+0gd f d
+0 d
+b
+0fd df
+0   d
+b
+0fd df
+0b da
+b
+0a ef
+0 def
+b
+1  bb
+1 d
+0db
+b
+0ddda
+0c
+b
+0d    d
+0gd f
+b
+1fd  f
+1   f
+0  def
+b
+1  ef d
+1    a
+1    b
+1    d
+b
+0  ddf
+0  d
+b
+0dde  d
+0bde b
+b
+
+b
+0
+0fbd  b
+b
+0gd f d
+0   f
+b
+0.fd df
+1   c
+b
+0 d df
+0    f
+b
+0bde b
+0  e
+b
+0bde b
+1  d
+1  b
+b
+1bbdd
+1  e
+1 b
+1 d
+b
+0bbdd
+0  d
+b
+0
+0fb d
+b
+0fd d
+0df  d
+b
+0gd f
+0   f
+b
+0gd f
+0fg a
+b
+0df c
+0bd d
+b
+0a b
+0 cd a
+b
+
+b
+0 d a
+1  d
+1   a
+b
+0 d  b
+1   ab
+1 d
+b
+0 bd a
+1 dda
+1  d
+b
+0f  d
+1 b da
+1f
+b
+0d  cd
+0a b d
+b
+0b e b
+0d e  d
+b
+0f dd
+0   a
+b
+0b da
+0  d
+b
+0a   d
+0  b d
+b
+0 d  b
+0fd df
+b
+0 b d
+0d b d
+b
+1  eb
+1  d
+0b ea
+b
+0gd
+1g  f
+1 d
+b
+
+b
+0fd df
+1  d
+1d  c
+b
+0b ea
+0ab  d
+b
+0b da
+0  d
+b
+0ab  d
+0  b d
+b
+0 d  b
+0fd df
+b
+0 b d
+0d b d
+b
+1  eb
+1  d
+0b ea
+b
+0gd   d
+1g  f
+1 d
+b
+0fd df
+0b d
+b
+0abb d
+1 de  d
+1   d
+b
+1  dca
+#2 c
+x a
+1 d
+1 c
+b
+0 d db
+1   a
+1    a
+b
+
+b
+1 dba d
+1   c
+0  dd b
+b
+0 dea d
+0   f
+b
+0 de  d
+1   e
+1   c
+b
+w ddef
+b
+Y
+b
+b
+
+e

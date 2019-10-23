@@ -1,0 +1,175 @@
+-t
+-f
+{Preambel 3/Hans Newsidler}
+b
+0 abc
+#1 aaa
+x  bc
+b
+#1 a
+x  aa
+0 abc
+b
+1 a ac
+#2    c
+x    e
+#1 aaa
+x  bc
+b
+#1 a
+x cde
+0 dff
+b
+0 aaa
+0 abc
+b
+
+b
+#1 a  c
+x  b
+x  a a
+x   c d
+b
+#1     c
+x   b
+x   c a
+xda
+b
+#1d
+xda
+xc d
+xa b
+b
+#1  a
+x e
+xa  c
+x  b c
+b
+#1  b
+x  b c
+x  a a
+x   c d
+b
+
+b
+#1     c
+x   b
+#2   c a
+x  a
+x  b
+x  d
+b
+#1 a a
+x c c
+#2 c
+x a
+1 a a
+b
+#1    e
+x  e
+#2 a  c
+x c
+x d
+xa
+b
+#1c d
+xda
+#2da
+xc d
+1a b
+b
+#1   e
+x e
+xa  c
+x  b
+b
+
+b
+#1  a a
+x  b c
+#2  b c
+x  a a
+1   c d
+b
+#1     c
+x   b
+#2   c a
+x  a
+x  b
+x  d
+b
+#2 a
+x c
+x d
+xa
+#1c d
+xda
+b
+#2da
+xc d
+#1a b
+x  a
+x e
+b
+0a  c
+0 abc
+b
+
+b
+0 aaa
+#1 a   d
+x b  a
+b
+#2 b
+x a
+x  d
+x  b
+#1  d
+x  a
+b
+0  bc
+0  aa
+b
+#1  b c
+x  d d
+#2    d
+x    c
+x    a
+x     d
+b
+#1  b a
+x  a
+#2 ab  d
+x  d
+x a
+x c
+b
+
+b
+#2 d
+xa
+xc
+xd
+#1c da
+xd bc
+b
+#2d
+xc
+1a  cd
+#1  a c
+x e
+b
+wa  c a
+b
+#1
+x ab  a
+x b  a
+x a   d
+b
+0 b  a
+Y ab  a
+b
+b
+Q
+
+e

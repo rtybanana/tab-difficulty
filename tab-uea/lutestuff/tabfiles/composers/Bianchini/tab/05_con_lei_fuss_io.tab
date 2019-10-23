@@ -1,0 +1,310 @@
+-C
+-t
+-f
+{5. Con lei fuss'io/5. Con lei fuss'io}
+b
+c
+0 aaac "+
+1 aaac
+1 aaac
+b
+1 ab "+ d
+#2   a
+x c
+#2 d ef
+x  d  "+
+x d
+x   e
+b
+#2 "+ dca
+x d
+x c
+x a
+1 c
+1 ddef
+b
+#2 d  "+
+x ddef
+1 dfec
+1acd a
+1cdda
+b
+#2aabc
+x  a
+x ab
+x   c
+#2 "+aa c
+xa
+x e
+x c
+b
+#2 efec
+x c   "+
+1 ef
+1 efec
+1c aac
+b
+
+b
+#2c  eec
+x  d
+xc  "+ ec
+x fd ef
+#2a  c
+x f "+ ef
+1c da
+b
+1c da
+1a dca
+1 ddef
+1 cdca
+b
+1 aaac
+1 dc
+#2  "+dca
+x d
+x c
+x a
+b
+1 cd "+a
+1   c
+1 cd a
+1 cdca
+b
+1  def
+1   ca
+1   ac
+1    ef
+b
+1    cd
+2    ac
+1  b  a
+#2  aa
+x     d
+x   c
+b
+1   e c
+#2 d ef
+x  d  "+
+#2 d
+x    e
+x ddef
+x f   "+
+b
+
+b
+1cd ac
+1da a d
+1acd a
+#2 ddef
+xc da
+b
+#2 d
+xacd a
+1 dfec
+#2  "+ e c
+x d    "+
+x ce
+x ac
+b
+1 cee
+2     c
+1  e
+1 ef
+2a bc
+b
+2 d
+1 cde
+1 daa
+#2 cbc
+x a
+x cde
+b
+#2 acc
+x  da
+x   c
+x  c
+1 cd a
+1cdda
+b
+#2  "+ a
+x d
+x c
+x a
+#2acd a
+x d
+xa
+x c
+b
+
+b
+1 dfec
+#2 a a d
+x  d
+#2 a    "+
+x c  "+
+1 dfec
+b
+2 dff d
+1 dfec
+2 dfec
+1 cde c
+1 aaac
+b
+1 dff d
+1aab "+ a
+#2   c
+x d  "+
+1 bdca
+b
+#2 a c a
+x  d
+x  b
+x  a
+#2dabc
+x  d
+x a  "+
+x   b
+b
+1dabc
+#2 b
+xc
+1a bc
+#2 a
+x  aa
+b
+
+b
+#2   ce
+x  d
+1 ddef
+2  dac
+#3  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+#2 cd a
+x   e
+1 cdca
+1 dda c
+1 df  d
+b
+1aab "+ a
+1    e
+1  def
+#2   e
+x   c
+b
+#2  da
+x  d
+x  da
+x  d
+#2  a c
+x  a
+x  bc
+x   c
+b
+#2   ca
+x   c
+1  dea
+#2    c
+x   c
+x   a
+x  dca
+b
+#2  a  c
+x   c d
+x    ef
+x  aac
+#2    cd
+x   c  "+
+1   eec
+b
+
+b
+1   eec
+1 da c
+#2   a
+x c
+1 daac
+b
+1 fd ef
+1c "+d a
+#2da a d
+x     c
+x     d
+x    a
+b
+1da a d
+1cdda
+1a dca
+1 ddef
+b
+#2 cdca
+x   a
+x a  e
+x    c
+1 aa ec
+1  eeec
+b
+1 aaac
+1 da "+c
+#2   a
+x c
+1 daac
+b
+1 fd ef
+1c "+d a
+#2da a d
+x     c
+x     d
+x    a
+b
+1da a d
+1cdda
+1a dca
+1 ddef
+b
+
+b
+#2 cdca
+x   a
+x a  e
+x    c
+1 aa ec
+1  eeec
+b
+#2 a ac
+x   c
+x  a
+x  b
+#2 aaac
+x     d
+x    a
+x   ac
+b
+1 a  cd
+1 abc
+#2     a
+x  a
+1  bc
+b
+#2aab  a
+x  a
+x ab
+x   c
+#2aab  a
+x     c
+x     d
+x    a
+b
+Y efec
+b
+b
+
+e

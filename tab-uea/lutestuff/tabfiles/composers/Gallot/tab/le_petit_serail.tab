@@ -1,0 +1,458 @@
+-C
+-t
+-f
+{Chaconne - Le petit serail/Chaconne - Le petit serail}
+b
+W   a  a
+W    e /a
+W    c //a
+W    a ///a
+b
+b
+2    e
+#2   a
+x   c
+b
+1   da a
+1.  b
+2  b
+b
+1  bce /a
+1.  d
+2   c
+b
+#2  dfe ///a
+x  d
+#2     f
+x    f-
+#2   c
+x    e
+b
+1   a
+#2      a
+x    e
+#2   a
+x   c
+b
+
+b
+#2   d  a
+x   c
+#2   d
+x  b
+#2   c
+x   a
+b
+#2  b   /a
+x   c
+#2  d
+x  b
+#2   d
+x   c
+b
+#2      ///a
+x   d
+#2   c e
+x   a
+#2     f
+x    e
+b
+1   af
+#2      a
+x c
+#2 d
+xa
+b
+1bdd   a
+1.dd  b-
+2b
+b
+1a b d-
+1.a d e-
+2a
+b
+#2b d   a
+xa
+1 d d  ///a
+#2   c
+x c
+b
+
+b
+1 d
+#2      a
+x c
+#2 d
+xa
+b
+#2b     a
+xd
+#2b  a-
+xa
+#2 g
+x  e
+b
+#2a   d-
+xb
+#2a   e-
+x  d
+#2b
+xa
+b
+#2b     a
+xa
+#2 d
+x     d
+#2    a
+x c
+b
+1 d
+#2      a
+x  e
+#2  d
+x   f
+b
+1   d  a
+1.    f
+2  d
+b
+
+b
+1   f a
+1    c-
+1  bce-
+b
+#2   d  a
+x  b
+#2  d
+x      ///a
+#2   cff
+x    e
+b
+1    f
+#2      a
+x  e
+#2  d
+x   f
+b
+#2   d  a
+x   c
+#2   a
+x  d
+#2  e
+x  d
+b
+#2  b  a
+x   d
+#2   c
+x   a
+#2    e-
+x  d
+b
+#2   d  a
+x   c
+#2   d
+x    f
+#2   cf ///a
+x    e
+b
+
+b
+1   a
+#2      a
+x  d
+#2  def-
+x  d
+b
+1  dc  /a
+#2    a-
+x  d
+#2  bac-
+x  b
+b
+1  bce-
+#2      ///a
+x  b
+#2   fef
+x  d
+b
+1  aa  a
+#2      ///a
+x     f
+#2   cf
+x    e
+b
+1   af
+#2      a
+xc
+#2a
+x d
+b
+1a     /a
+#2  d-
+xa
+#2 d
+x c
+b
+
+b
+1 d    //a
+#2  b-
+x d
+#2 c
+x a
+b
+1 cb a
+#2 da
+x d c  ///a
+2 c
+#3 d
+x c
+b
+1 d
+#2      a
+x   c
+#2  a
+x  b
+b
+#2  dc  /a
+x  d
+1.  de  a
+2  d
+b
+1 aba d
+#2 ab
+x a
+1 cb a
+b
+#2cd    a
+xa
+1.ac    ///a
+2  d
+b
+1 d
+#2      a
+xf
+#2d
+xc
+b
+
+b
+1d    a
+#2 c
+xd
+#2c
+xa
+b
+1c     a
+#2 a
+xc
+#2a
+x d
+b
+1a     /a
+#2  d
+xa
+#2 d
+x c
+b
+1 d    //a
+#2  b
+x d
+#2 c
+x a
+b
+1 b    ///a
+#2  a
+x b
+#2 a   d
+x  d
+b
+1 a   d
+#2   c
+x a
+#2  d
+x  b
+b
+
+b
+1  d  c
+#2   a-
+x  d
+#2  b
+x  a
+b
+1  b  a
+#2    e-
+x  b
+#2  a
+x   c
+b
+1  a   a
+#2   a
+x  a
+#2   c
+x   a
+b
+1   c  /a
+#2    a
+x   c
+#2   a
+x    e
+b
+1   a  //a
+#2     d
+x   c
+2    e ///a
+#3    f
+x    e
+b
+1   a
+#2      a
+x d
+#2 c
+x a
+b
+
+b
+1  d  c
+1   a-
+1 a
+b
+1   f a
+1    e-
+1  d
+b
+1  aa  a
+2   c  ///a
+#3  a
+x   c
+#2  a
+x    e
+b
+1   a
+#2      a
+x  d
+#2 d   c
+x  d
+b
+1 aba d
+#2 ab
+x  b
+#2 b   a
+x  b
+b
+1  d  b
+#2   a
+x  d
+#2   f a
+x    e
+b
+1   d  a
+1.   da
+2   c
+2   d
+b
+
+b
+1   c
+#2      ///a
+x   c
+#2  d   /a
+x   c
+b
+1  a   a
+#2   a
+x  a
+#2 a    b
+x  a
+b
+1.  cc a
+2 a
+#2a    e
+x a
+b
+1 cb a
+#2b d   a
+x d
+#2 d c  ///a
+x c
+b
+1 d
+#2      a
+xa
+#2b  a
+x d
+b
+1a     /a
+#2  d e-
+xa
+#2a d d-
+xb
+b
+
+b
+1 da   //a
+#2 da c-
+x    a-
+#2 d c e
+x a
+b
+1 cb a
+#2   d-
+x d
+#2 d c  ///a
+x c
+b
+1 d
+#2      a
+x d
+#2  g
+x  e
+b
+1  dd-
+#2      a
+x  dd
+#2  ef
+x  dd
+b
+1  ba a
+#2    e-
+x  d
+#2   f
+x  d
+b
+1 d d  a
+2 c c  ///a
+#3 d
+x c
+#2 d
+x    c
+b
+
+b
+1a   e-
+1  d
+#2  b   /a
+x   c
+b
+#2   d  a
+x   d
+1.   dfe///a
+2   d
+b
+1.   cef
+2   d
+1   ced
+b
+#2   aab
+x   a
+1.   a a
+2    e
+b
+1   a
+0      a
+b
+b
+
+e

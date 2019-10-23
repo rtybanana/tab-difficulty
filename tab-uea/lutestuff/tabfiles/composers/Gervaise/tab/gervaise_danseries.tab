@@ -1,0 +1,224 @@
+-C
+-t
+-f
+{Danseries/Danseries}
+b
+1acd a
+0ccd  c
+b
+0 da c
+1 a c a
+b
+0aab  a
+1 cdca
+b
+0 da c
+1 abc a
+b
+#2aab  a
+x d
+#2a
+xc
+#2dabc
+xa
+b
+#2cdda
+xd
+#2c
+xd
+#2fdda
+xh
+b
+
+b
+#2fdda
+xd
+#2cabc
+xa
+#3c
+xa
+x e
+x c
+b
+0 ea c
+1 ea c
+b
+1acd a
+0ccd  c
+b
+0 da c
+1 aa c
+b
+0aab  a
+1 cdca
+b
+0 da c
+1 a c a
+b
+#2aabc
+x d
+#2a
+xc
+#2dabc
+xa
+b
+
+b
+#2cdda
+xd
+#2f
+xd
+#2cbd a
+xa
+b
+#2 db c
+x c
+#2a a c
+x ed
+#3aa
+x e
+x c
+x e
+b
+0a bc a
+1a bc a
+b
+#2 da c
+xa
+#2c aa
+xd
+#2f
+xc
+b
+#2d bc
+xh
+#2f
+xd
+#2cbd a
+xa
+b
+
+b
+#2 db c
+x c
+#2a a c
+x ed
+#3aa
+x e
+x c
+x e
+b
+0a bc a
+1a bc a
+b
+1acd a
+0ccd  c
+b
+0 da c
+1 a c a
+b
+0aab  a
+1 cdca
+b
+0 da c
+1 abc a
+b
+#2aab  a
+x d
+#2a
+xc
+#2dabc
+xa
+b
+
+b
+#2cdda
+xd
+#2c
+xd
+#2fdda
+xh
+b
+#2fdda
+xd
+#2cabc
+xa
+#3c
+xa
+x e
+x c
+b
+0 ea c
+1 ea c
+b
+1acd a
+0ccd  c
+b
+0 da c
+1 aa c
+b
+0aab  a
+1 cdca
+b
+0 da c
+1 a c a
+b
+
+b
+#2aabc
+x d
+#2a
+xc
+#2dabc
+xa
+b
+#2cdda
+xd
+#2f
+xd
+#2cbd a
+xa
+b
+#2 db c
+x c
+#2a a c
+x ed
+#3aa
+x e
+x c
+x e
+b
+0a bc a
+1a bc a
+b
+#2 da c
+xa
+#2c aa
+xd
+#2f
+xc
+b
+
+b
+#2d bc
+xh
+#2f
+xd
+#2cbd a
+xa
+b
+#2 db c
+x c
+#2a a c
+x ed
+#3aa
+x e
+x c
+x e
+b
+0a bc a
+1a bc a
+b
+b
+
+e

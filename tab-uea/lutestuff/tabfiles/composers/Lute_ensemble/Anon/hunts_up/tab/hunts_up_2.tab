@@ -1,0 +1,501 @@
+-C
+-t
+-f
+{The hunt is up/The hunt is up}
+b
+0  d"+ca
+1 acc a
+b
+1. cdca
+2 d
+1 cdca
+b
+1  d"+ca
+1 cd
+1 acc a
+b
+1.  d"+ca
+2 a
+1 cd a
+b
+0 d"+aa
+1 cd a
+b
+1 aa c"+
+#2 c
+x a
+1 ce
+b
+1 aa c
+#2      /a
+x  b
+#2  a
+x   c
+b
+
+b
+1    c
+1 aab
+1    c
+b
+1. daa
+2  b
+#2  a
+x   c
+b
+1   a
+1 da
+1   a
+b
+1. cdca
+2 d
+#2 c
+x a
+b
+1    a
+1 cd
+#2  c
+x  a
+b
+1 acc
+#2     a
+x c
+#2 a a
+x  d
+b
+1  de
+1 adc
+1  c
+b
+
+b
+#2    a
+x cd
+#2   c
+x d
+#2 c
+x a
+b
+1    a
+1 cd
+1    a
+b
+b
+#2a
+xf
+2a
+#3 c
+x d
+#2a
+xa
+b
+#3 c
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+#2 c
+x  d
+b
+
+b
+2a
+#3 c
+x d
+2a
+#3 c
+x d
+2a
+#3 c
+x d
+b
+#3a
+x d
+xa
+xc
+#3a
+x d
+x c
+x a
+1  d
+b
+#3 d
+xa
+xc
+xd
+#2c
+xc
+#3a
+x d
+xa
+xc
+b
+#2a
+x a
+#3 c
+x a
+x  e
+x  c
+#3  e
+x a
+x c
+x  e
+b
+
+b
+2 a
+#3c
+xe
+#3f
+xe
+xc
+xa
+#3c
+xa
+x e
+x c
+b
+2 e
+#3 a
+x c
+#3 e
+xa
+2c
+#2 e
+x a
+b
+2c
+#3 d
+xa
+#3c
+xd
+2f
+#2c
+x d
+b
+2 d
+#3 a
+x c
+#3 d
+xa
+2c
+#2 d
+x a
+b
+
+b
+2 c
+#3  d
+x a
+#3 c
+x d
+2a
+#2 c
+x  d
+b
+2 c
+#3  d
+x a
+#3 c
+x a
+x c
+x d
+#3a
+x d
+xa
+xc
+b
+2a
+#3 d
+x c
+#3 a
+x c
+x d
+xa
+2c
+#3a
+x d
+b
+
+b
+#3 c
+x d
+xa
+xc
+2e
+#3c
+xa
+#3 e
+xa
+xc
+xe
+b
+2f
+#3d
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+b
+#3 c
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+1  d
+b
+b
+0  dca
+1 acc a
+b
+1. cdca
+2 d
+1 cdca
+b
+
+b
+1  dca
+1 cd
+1 acc a
+b
+1.  dca
+2 a
+1 cd a
+b
+0 daa
+1 cd a
+b
+1 aa c
+#2 c
+x a
+1 ce
+b
+1 aa c
+#2      /a
+x  b
+#2  a
+x   c
+b
+1    c
+1 aab
+1    c
+b
+1. daa
+2  b
+#2  a
+x   c
+b
+1   a
+1 da
+1   a
+b
+
+b
+1. cdca
+2 d
+#2 c
+x a
+b
+1    a
+1 cd
+#2  c
+x  a
+b
+1 acc
+#2     a
+x c
+#2 a a
+x  d
+b
+1  de
+1 adc
+1  c
+b
+#2    a
+x cd
+#2   c
+x d
+#2 c
+x a
+b
+1    a
+1 cd
+1    a
+b
+b
+
+b
+#2  d
+x
+x  d
+#2 c
+x
+x c
+#2a"#
+x
+xa
+b
+#2 c
+x
+xc
+#2a"#
+x
+x d
+#2 c
+x
+x  d
+b
+#2 c
+x e
+xa
+#2c"#
+xe
+xf
+#2e"#
+xf
+xe
+b
+#2f"#
+xe
+xc
+#2a"#
+xc
+x d
+#2 c
+x a
+x  d
+b
+
+b
+#2 d
+xa
+xc
+#2c"#
+xd
+xc
+#2a"#
+xc
+xa
+b
+#2 a
+x c
+x d
+#2 c
+x a
+x c
+#2  a
+x  c
+x  e
+b
+#2 a
+x
+x a
+#2c"#
+xa
+xc
+#2 e
+x
+x a
+b
+#2h"#
+x
+xh
+#2c"#
+x
+xc
+#2 e
+x
+x a
+b
+
+b
+#2 d
+xa
+xc
+#2c"#
+xd
+xf
+#2c"#
+x
+x d
+b
+#2 d
+x c
+x a
+#2  d
+x a
+x c
+#2 d
+xa
+xc
+b
+#2a"#
+x
+xa
+#2f"#
+x
+xf
+#2a"#
+x
+xa
+b
+#2 c
+x d
+x f
+#2 c
+x d
+x f
+#2 c
+x
+x  d
+b
+
+b
+#2a"#
+x d
+xa
+#2 c
+x d
+xa
+#2c"#
+xa
+xc
+b
+#2 d
+xa
+xc
+#2e"#
+xc
+xe
+#2a"#
+xc
+xe
+b
+#2f"#
+x
+xf
+#2a"#
+x
+xa
+#2 c
+x d
+xa
+b
+1. cdca
+2 d
+1 cdca
+b
+b
+
+e

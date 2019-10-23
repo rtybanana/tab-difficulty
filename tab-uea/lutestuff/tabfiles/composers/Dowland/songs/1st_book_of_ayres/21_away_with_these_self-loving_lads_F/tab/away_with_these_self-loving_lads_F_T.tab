@@ -1,0 +1,99 @@
+-C
+-t
+-f
+{Away with those self-loving lads/Away with those self-loving lads}
+b
+c
+1 daa
+b
+1. dda
+2    c
+1  a   a
+1 dba d
+b
+#2 daa
+x      a
+x     c
+x     d
+1 cdca
+1 dda
+b
+
+b
+#2 db  d
+x    a
+x    c
+x    e
+1 dda
+1 db  d
+b
+#2    a
+x ddc
+x c
+x  b
+0 da   a
+b
+0.
+1  dca
+b
+1.  dca
+2 a
+1 c
+#2    a
+x d
+b
+
+b
+1abb d
+1 daa
+1. cdca
+2 c
+b
+1. ddef
+2  d
+#2 ab  d
+x c
+x dda
+x      a
+b
+#2 c ca
+x  d
+x    c
+x dc
+0 cdca
+b
+.
+0.
+1  dddb
+b
+
+b
+1.  dddb
+2  d
+1 d  b
+1 b da
+b
+1  dddb
+1b
+1.abb d
+2a
+b
+1 dddf
+#2      a
+x b
+#2 a   d
+x b
+1 dda  a
+b
+
+b
+#2    a
+x ddc
+x c
+x  b
+0 dde  a
+.
+b
+b
+
+e

@@ -1,0 +1,436 @@
+-C
+-t
+-f
+{26. Ain trium/26. Ain trium}
+b
+c
+#3 e
+x g
+x h
+x g
+#3 h
+x g
+x e
+x g
+b
+0 h
+1 h
+#2 g
+x h
+b
+1e
+#3g
+xe
+x h
+xe
+#2g
+x h
+xe
+xg
+b
+0h f
+1 hf
+1h
+b
+#2fc
+xe
+xc
+xa
+#2ce
+xa
+x c
+x e
+b
+
+b
+1af
+1d
+#2 f
+xd
+xc
+xa
+b
+1 df
+#3 d
+x c
+x d
+xa
+1ca
+#2d
+xc
+b
+#2d
+xf
+1hi
+1 il
+1hi
+b
+1fh
+1l
+1 h
+1kf
+b
+#2  i
+xh
+1h f
+1  h
+1g
+b
+0ha   h
+#2    c
+x a
+#3 b
+x a
+x  d
+x  b
+b
+
+b
+1  d e
+#2  d
+x  b
+2  a
+#3   b
+x   c
+#3   e
+x   c
+x   e
+x   b
+b
+1   c
+1  b
+#2   c
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+0   ac
+1   ac
+1  b
+b
+1   c
+1 a
+#2 ab
+x c
+x d
+xa
+b
+1  de
+1 d
+#2 c c
+x a
+#3 c
+x a
+x  d
+x  c
+b
+1  aa
+1 a  c
+#tx a
+x c
+t#2  c
+x  e
+b
+
+b
+1 a  c
+1l
+1l
+1k
+b
+1hd
+#2f
+xd
+1cd
+1fc
+b
+1 df
+#2  d
+x  b
+1 da
+1d  c
+b
+#2 a
+xc
+1c d
+#2  b
+xa
+#3c
+xa
+x d
+xa
+b
+1c  a
+1  a
+#2  aa
+x  b
+1  d e
+b
+1   ac
+#2    a
+x     d
+1   a c
+1  b  a
+b
+#2    c
+x  a
+1  a a
+1     d
+1   c
+b
+
+b
+1  a  c
+1f
+1f
+1f
+b
+1.a d
+2  d
+1a d
+1c d
+b
+1d  c
+1a b
+#2   e
+xa
+x c
+x e
+b
+1a  ca
+1  d
+#2    a
+x  b
+1  a a
+b
+1  b  a
+1   c d
+1     c
+1   b
+b
+1d  c a
+#3d
+xc
+xa
+xc
+#2d    a
+xc
+xd
+xf
+b
+1h  f
+#2h
+xf
+1d b
+#2c d
+xa
+b
+
+b
+1 df  d
+#2 a
+x  d
+1  b  d
+#2  a a
+x   c
+b
+1 d ac
+#2    c
+x    a
+1 d   d
+#2a    c
+x     a
+b
+1c  a
+#3c
+xa
+xc
+xd
+1c  a
+1d  c
+b
+1f a
+1c d
+2a b
+#3a
+xc
+#3d
+xc
+xd
+xa
+b
+1c a
+1   a
+1  a
+1  b  a
+b
+1  d  c
+1  a a
+1     d
+1h   h
+b
+
+b
+1f a  c
+#3c
+xa
+xc
+xe
+1f
+1da
+b
+1c d
+#3  a
+x   c
+x  a
+x  b
+1  d
+1a bc
+b
+1c aa
+#2c  a
+x d  c
+1c  a
+1a d e
+b
+1 da c
+#3  b
+x  a
+x  b
+x  d
+1 df
+1 cde
+b
+1 ab
+#2a b
+x   c
+1  b
+#2  a c
+x e
+b
+1a  ce
+#2  d e
+x   a
+1   c
+1 acc
+b
+
+b
+1 cd a
+#3 c
+x a
+x c
+x e
+1a
+1a  ce
+b
+1  def
+#2    e
+x    c
+1  d a
+1a d e
+b
+2c  ac
+#3a
+xc
+#3d
+xc
+xa
+x d
+1 c  a
+1  d
+b
+2 a
+#3   c
+x a
+#3 b
+x a
+x  d
+x  b
+1  a
+1c  a
+b
+2d  c
+#3d
+xc
+#3a
+xc
+xd
+xf
+1h
+1ha
+b
+
+b
+2ac
+#3 c
+x a
+#3  d
+x a
+x c
+x d
+1a
+1d    a
+b
+1f    c
+#2     c
+x     e
+1c   a
+1ac  a
+b
+1cd
+#2c  a
+xa
+#2 d
+x   c
+1 cde
+b
+1  ff
+1h
+1  he
+1g
+b
+1ha
+1a  c
+1   e
+#2a
+x e
+b
+1a  c
+1d
+1c d
+1 d  c
+b
+#2 d  c
+x c  e
+x a a
+x  d
+1h  fh
+#2f
+xd
+b
+
+b
+1f de
+1da c
+#2da
+xa d
+1c aa
+b
+1 abc
+1a d a
+2 aa c
+#3 a
+x c
+#3 e
+xa
+x c
+x e
+b
+wa  c a
+b
+b
+
+e

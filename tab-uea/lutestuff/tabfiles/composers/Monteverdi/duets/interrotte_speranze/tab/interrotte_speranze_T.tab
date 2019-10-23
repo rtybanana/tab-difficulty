@@ -1,0 +1,238 @@
+-C
+-t
+-f
+{Interrotte speranze/Interrotte speranze}
+b
+c
+wca a  /a
+b
+wca a  /a
+b
+0ca a  /a
+1 cf  c
+1c e
+b
+w da c
+b
+wca a  /a
+b
+1cda   /a
+1 c
+0aab
+b
+w da c /a
+b
+w da c /a
+b
+0 da c
+0 dc c
+b
+0 cde c
+0c
+b
+0ccde
+0c
+b
+0cdda
+0cdc c
+b
+1eac e
+1c d
+0ecc e
+b
+wfc e c
+b
+0
+0ca a  /a
+b
+
+b
+wca a  /a
+b
+0ca a  /a
+1 cf  c
+1c e
+b
+w da c
+b
+wca a  /a
+b
+1cda   /a
+1 c
+0aab
+b
+w da c /a
+b
+w da c /a
+b
+0 da c
+0 dc c
+b
+0 cde c
+0c
+b
+0ccde
+0c
+b
+0cdda
+0cdc c
+b
+1eac e
+1c d
+0ecc e
+b
+wfc e c
+b
+0cdd   a
+0aaba
+b
+1 da a a
+1a b
+0fdaa
+b
+
+b
+wfcd a
+b
+wda c a
+b
+1da c a
+1c d
+1aabc
+1 c
+b
+0 efec
+0      /a
+b
+wfc e c
+b
+0fc e c
+0ed  c
+b
+1ec de
+1c d
+1  c
+1 g
+b
+wccd  c
+b
+0.ccd  c
+1 d
+b
+1d    a
+1 c
+0cdd   a
+b
+0cdd   a
+0 daa
+b
+1 da c
+1  c
+0 cdca
+b
+0fc ca
+0fc ca
+b
+wda c a
+b
+
+b
+0dc c
+1da
+1c
+b
+1da c a
+1 c
+0cda c
+b
+0cda   /a
+1aa   d
+1d
+b
+1ccd  c
+0 e
+1ea
+b
+#2c d  a
+x c
+xa c
+x a
+0 da   a
+b
+0 da   a
+1 da   a
+1   a
+b
+1 daa
+1    e
+1 da c
+1  c
+b
+0 cdca
+1 cdca
+1    a
+b
+1 cd a
+1     e
+1 cd  c
+1 e
+b
+0aac  a
+1ea   a
+1     a
+b
+
+b
+1ea   a
+1c     a
+1a c   /c
+1  e
+b
+0 efe  /a
+1 efe  /a
+1    c
+b
+1bcc c
+1cca a
+1eca  e
+1   d
+b
+0fc e c
+1ccd  c
+1     c
+b
+1fc e c
+1     a
+0fda   a
+b
+0ec d  /c
+1c d
+1b c
+b
+1c d e
+1ea
+1fc
+1b c
+b
+0c d e
+1  c
+1b
+b
+1ccd  c
+1 d
+1f  e
+#2 c
+xe  c
+b
+1cc a
+1 a
+1a   e
+1  e
+b
+
+b
+w efe  /a
+b
+b
+
+e

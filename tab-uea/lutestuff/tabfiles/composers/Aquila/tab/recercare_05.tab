@@ -1,0 +1,259 @@
+-C
+-t
+-f
+{Recercare 5/Recercare 5}
+b
+c
+1aa c
+1     a
+#2     a
+x   b
+x   c
+x  a
+b
+1a c
+1c d
+1e  c
+1g a
+b
+1h  g
+1    h
+#2     a
+x   b
+x   c
+x  a
+b
+1  c  a
+1  d  c
+#2     e
+x a
+x  d a
+x  c
+b
+1  a c
+1   b
+1  ab
+1  cc
+b
+1  de
+1ca b
+1ca b
+1ea c
+b
+
+b
+1f de
+#2  d
+xe
+#2c
+xa
+1ea c
+b
+1ccd
+1aac
+1fca
+1ce  c
+b
+1ea c
+1  c
+#2   c
+x  a
+x  c
+x  e
+b
+1 ac
+1 cd
+1 ea
+1aac
+b
+#2  de
+x c
+x e
+xa
+1 ede
+1a
+b
+#2aa c
+x  d
+x  c
+x  a
+#2a cc
+x  a
+x  c
+x  d
+b
+
+b
+#2 a c
+xa
+x  c
+x   a
+#2a cc
+x  d
+x a
+x c
+b
+1cd
+1ea
+1ac
+1cd
+b
+1ea
+1f d e
+1 a a
+1ea c
+b
+1f de
+1  aa
+1  cc
+1   ce
+b
+#2  aa
+x  c
+1  d e
+2 da c
+#3  c
+x  a
+#3  d
+x  c
+x  a
+x  c
+b
+1 cd
+1  de
+1 ac
+1 cd
+b
+1 ea
+1a  c e
+1  a a
+1 e  c
+b
+
+b
+1a  c e
+1   ca
+1     c
+#2a
+xc  b
+b
+1ea c
+1ac
+1cd
+1ea
+b
+#2fc
+x e
+xa
+xc
+#2e
+x  d
+x a
+x c
+b
+#2cd  c
+x c
+x d
+x f
+#2cd  c
+xe
+1fc  e
+b
+#2 a a
+xc
+xe
+xf
+#2ea c
+x   a
+1e  c
+b
+1f  e
+1 cd
+1 cd
+1 cd
+b
+
+b
+#2 a
+x  d
+x  c
+x  a
+#2 ac
+x  a
+x   c
+x   b
+b
+1 acc
+1 cd a
+1 da c
+1  cc
+b
+1 cd a
+1fc
+1fc ca
+1fc ca
+b
+#2 a   a
+xf
+xe
+xc
+#2ea   a
+xc
+xa
+x d
+b
+1ac  a
+1  d
+1acd
+1acd
+b
+1 ac
+1  cc
+1  de
+1  aa
+b
+1  cc
+1   ce
+#2  aa
+x  c
+1  d e
+b
+
+b
+#2    c
+x  d
+x ac
+x  a
+1 ac c
+1 cd a
+b
+1 da c
+1a cc
+1c da
+1ea ac
+b
+1fc ca
+#2  d
+xe
+#2c
+xa
+1c d
+b
+1a d
+1 cd a
+#2 d  c
+x  d
+x  c
+x  a
+b
+1 acc
+1acd a
+#2aaa c
+x    a
+1 ea c
+b
+0aa gh
+b
+b
+
+e

@@ -1,0 +1,255 @@
+-t
+-f
+{Left Hand Exercises  Exercise 1/Left Hand Exercises  Exercise 1}
+b
+xa
+x\2c
+x\4d
+b
+x a
+x \2c
+x \4d
+b
+x  a
+x  \2c
+x  \4d
+b
+x   a
+x   \2c
+x   \3d
+b
+x    a
+x    \2c
+x    \3d
+b
+x     a
+x     \2c
+x     \3d
+b
+x     \3d
+x     \2c
+x     a
+b
+x    \3d
+x    \2c
+x    a
+b
+
+b
+x   \3d
+x   \2c
+x   a
+b
+x  \4d
+x  \2c
+x  a
+b
+x \4d
+x \2c
+x a
+b
+x\4d
+x\2c
+xa
+b
+b
+
+{Left Hand Exercises  Exercise 1/Left Hand Exercises  Exercise 1}
+b
+x\4d
+x\1b
+xa
+b
+x \4d
+x \1b
+x a
+b
+x  \4d
+x  \1b
+x  a
+b
+x   \3d
+x   \1b
+x   a
+b
+x    \3d
+x    \1b
+x    a
+b
+x     \3d
+x     \1b
+x     a
+b
+x     a
+x     \1b
+x     \3d
+b
+x    a
+x    \1b
+x    \3d
+b
+
+b
+x   a
+x   \1b
+x   \3d
+b
+x  a
+x  \1b
+x  \3d
+b
+x a
+x \1b
+x \3d
+b
+xa
+x\1b
+x\3d
+b
+b
+
+{Exercise 2/Exercise 2}
+b
+xa
+xc
+xd
+xc
+xa
+b
+x a
+x c
+x d
+x c
+x a
+b
+x  a
+x  c
+x  d
+x  c
+x  a
+b
+x   a
+x   c
+x   d
+x   c
+x   a
+b
+x    a
+x    c
+x    d
+x    c
+x    a
+b
+
+b
+x     a
+x     c
+x     d
+x     c
+x     a
+b
+x    a
+x    c
+x    d
+x    c
+x    a
+b
+x   a
+x   c
+x   d
+x   c
+x   a
+b
+x  a
+x  c
+x  d
+x  c
+x  a
+b
+x a
+x c
+x d
+x c
+x a
+b
+xa
+xc
+xd
+xc
+xa
+b
+b
+
+{Exercise 3/Exercise 3}
+b
+xd
+xc
+xa
+xc
+xd
+b
+x d
+x c
+x a
+x c
+x d
+b
+x  d
+x  c
+x  a
+x  c
+x  d
+b
+x   d
+x   c
+x   a
+x   c
+x   d
+b
+x    d
+x    c
+x    a
+x    c
+x    d
+b
+
+b
+x     d
+x     c
+x     a
+x     c
+x     d
+b
+x    d
+x    c
+x    a
+x    c
+x    d
+b
+x   d
+x   c
+x   a
+x   c
+x   d
+b
+x  d
+x  c
+x  a
+x  c
+x  d
+b
+x d
+x c
+x a
+x c
+x d
+b
+xd
+xc
+xa
+xc
+xd
+b
+b
+
+e

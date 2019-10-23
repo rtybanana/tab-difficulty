@@ -1,0 +1,521 @@
+-C
+-t
+-f
+{61. Lauda Sion/Miguel de Fuenllana}
+b
+c
+w a
+b
+w a
+b
+wcd  c
+b
+1cd  c
+1    e
+1   a
+1   c
+b
+1fc e
+1 a
+0 c
+b
+wf de
+b
+wea c
+b
+wac  e
+b
+0c aa
+0 a
+b
+0e  c
+0 a
+b
+0 cde
+0   e
+b
+1c da
+1  c
+1c da
+1 a
+b
+0acd
+0 df
+b
+1 c e
+1  f
+0 cee
+b
+
+b
+w a  c
+b
+0 df c
+0c
+b
+wcdda
+b
+0cdaa
+0   a
+b
+0efh e
+0e
+b
+0ffh a
+0f h
+b
+0e f c
+1cdf
+1  d
+b
+1 cc e
+1c
+0b
+b
+wc de c
+b
+wc de c
+b
+wccde
+b
+0ccde
+1 a
+1  d
+b
+0 acc
+1  d e
+1  c
+b
+0  dce
+0  cce
+b
+
+b
+1h  a h
+1  a
+0  a ef
+b
+1ha g e
+1  a
+0   d
+b
+0.f  eec
+1e c
+b
+1c de c
+1 a
+0ac
+b
+1 d e c
+1  f
+0  f
+b
+1 c e c
+1  f
+0c e
+b
+1 aa c
+1a
+1 d
+1 c
+b
+0 da c
+0 c  ef
+b
+1  ba d
+1 a
+0 abc a
+b
+1 c eec
+#2  e
+x  c
+1  f
+1  e
+b
+wcdfec
+b
+0cdfec
+0c
+b
+
+b
+wfc e
+b
+wf de
+b
+0ea c
+1   c
+1  a
+b
+1e cc
+1  e
+0ca a
+b
+1a   e
+1  d
+0  d
+b
+1 d  c
+1  d
+0  c
+b
+w cd ac
+b
+w cd ac
+b
+w  def
+b
+0c def
+0ca a
+b
+0.acc e
+1  a
+b
+0a cce
+0 daac
+b
+0 c  ef
+0  de c
+b
+1 a  ce
+1  a
+0   d
+b
+w  deec
+b
+
+b
+w  deec
+b
+0 cde
+0     c
+b
+0 cde c
+0  de c
+b
+0. ccce
+1  aa
+b
+0 acc
+0 dfec
+b
+0 ccce
+0 cdca
+b
+1  aac
+1 c
+0ca
+b
+wcc eec
+b
+0fc eec
+1e
+1c
+b
+0acd
+1f
+#2  c
+x  a
+b
+0ec c
+0acc e
+b
+0.ccde
+1e c
+b
+1fc e
+1  d
+0eacc
+b
+
+b
+1 dda
+1c
+0cdf c
+b
+1 cc e
+1c
+0b
+b
+0.cc e c
+1  c
+b
+0c ee c
+0   e c
+b
+0. aaac
+1   c
+b
+0 aa c
+0 c  ef
+b
+0 aba d
+0 abc a
+b
+1 c eec
+1  f
+0  e
+b
+0 dfec
+0  a c
+b
+0 da c
+0   a
+b
+0 c ca
+0  de c
+b
+0 a  ce
+0   d
+b
+0  deec
+0f  e
+b
+0fc e c
+0f d
+b
+
+b
+0ea c
+0ac  e
+b
+1c aa
+1  c
+1c da
+1 a
+b
+0acd a
+0acd a
+b
+0acd a
+0 cd a
+b
+0 ac c
+0  cce
+b
+0  de c
+0  de c
+b
+w  cce
+b
+0e cce
+0   c
+b
+wfc e
+b
+0fc e
+0f d
+b
+0eacc
+0acd e
+b
+1caaac
+1 c
+0ca
+b
+waccce
+b
+0a cce
+0   a
+b
+0a   e
+0 d  c
+b
+
+b
+0 c  a
+0 a   e
+b
+0  d  c
+1  ce
+1  a
+b
+0 ccee
+0   d
+b
+0 cde
+0 a
+b
+0c de
+0  cc
+b
+0c aa
+0a   e
+b
+0 da c
+0 cd a
+b
+0 acc
+0  de
+b
+0 ccee
+0   d
+b
+0 cde
+0 a  c
+b
+0  de
+0  cc
+b
+0  aef
+0  cce
+b
+1c  ac
+1  a
+0  a ef
+b
+1ha   e
+1  a
+0   d
+b
+
+b
+0   eec
+0f  e
+b
+0ec c
+0ccde
+b
+0acc e
+0 ddef
+b
+1  fec
+1a
+0cd
+b
+0ccc e
+0b
+b
+wc def
+b
+0c def
+0caaa
+b
+0acc e
+0 cdea
+b
+1 daac
+1  d
+0 dcac
+b
+0 cde c
+0fc e
+b
+1fc e c
+1f de
+1eacc
+1acd e
+b
+1c aa
+1  c
+1c da
+1 a
+b
+0acd a
+0 cdce
+b
+
+b
+0a cce
+0a  ce
+b
+0 daac
+0 acc e
+b
+0 c cef
+1 c cef
+1  a
+b
+0 acc a
+1   a
+1    e
+b
+w accca
+b
+0 ac ca
+0 acc a
+b
+0aac  a
+0 dde c
+b
+0 cdca
+0 aaac
+b
+1   eec
+1 a
+0  e
+b
+0 dfec
+0   e
+b
+0 dfec
+0acd e
+b
+0aacc
+0 dde
+b
+1 cc e
+1   e
+0   d
+b
+0.  def
+1  c
+b
+
+b
+0  aef
+0a cce
+b
+1c  ac
+1  a
+0  a ef
+b
+1ea  ce
+1  a
+0   d
+b
+wfc eec
+b
+0fc eec
+1e
+1c
+b
+0 ghge
+0caaa
+b
+1 ccce
+1c
+0b
+b
+wc eeec
+b
+0
+0c eeec
+b
+0caaac
+0fc eec
+b
+0.caaac
+1e
+b
+wfc eec
+b
+0
+0 ceeec
+b
+0caaac
+0fc eec
+b
+
+b
+0.caaac
+1e
+b
+0fc eec
+0c
+b
+Yc eeec
+b
+b
+
+e

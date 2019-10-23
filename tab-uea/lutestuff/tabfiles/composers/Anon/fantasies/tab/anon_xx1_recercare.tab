@@ -1,0 +1,227 @@
+-C
+-t
+-f
+{Ricercar/Unknown}
+b
+c
+0f da
+b
+1h
+1f
+b
+#2   a
+xd
+xc
+xa
+b
+#2 d
+x c
+x a
+x  d
+b
+1 ab
+#2d
+xc
+b
+#2a
+x d
+x c
+x a
+b
+1acd a
+1 d
+b
+1add a
+1 c
+b
+1 dda
+#2c
+xa
+b
+#2 d
+x c
+x a
+x  d
+b
+
+b
+1 ab  d
+#2  b
+x  a
+b
+#2   c
+x   a
+x    e
+x    c
+b
+1    ac
+1  d
+b
+1  b c
+1  a a
+b
+#2   c
+x     d
+1   a c
+b
+1a    a
+1    e
+b
+1c  a
+#2f
+2d
+b
+#2c
+xa
+x d
+x c
+b
+1 a   d
+1 d a
+b
+#2 c c
+x a
+x  d
+x  b
+b
+1  aa
+1f
+b
+
+b
+#2da
+xc
+xa
+x d
+b
+1 c  a
+#2  d
+x a
+b
+#2 c
+x d
+xa
+xc
+b
+1da
+#2  b
+x  d
+b
+#2 a
+x c
+x d
+xc
+b
+#2acd a
+x a
+x  d
+x  b
+b
+#2  a
+x  b
+x  d
+x a
+b
+1ac
+#2    a
+x    c
+b
+#2    e
+x   a
+x   c
+x  a
+b
+#2 ab
+x  d
+x a
+x  a
+b
+
+b
+#2  b
+x  a
+x   c
+x   a
+b
+#2  d e
+x   a
+x   c
+x   a
+b
+#2    e
+x    c
+x    a
+x     e
+b
+1  d  c
+#2  a
+x  b
+b
+#2  d
+x a
+x c
+x d
+b
+1ac  a
+1cd a
+b
+1da c
+1fc  a
+b
+1cd a
+#2a
+x    e
+b
+1   a
+1 dde
+b
+1  bc
+1 c
+b
+1 dda
+1 dff
+b
+1 dff
+1 dde
+b
+
+b
+1   c
+#2d b
+x  a
+b
+#2da c
+x b
+1cd a
+b
+1a   d
+1 b
+b
+1a   d
+1 daa
+b
+1 c  a
+#2  d
+x a
+b
+#2 c
+x d
+1a b
+b
+#2    a
+x da
+x   c
+x   a
+b
+#2 d ca
+x c
+3 d
+3 c
+3 a
+3 c
+b
+Y dda
+b
+b
+
+e

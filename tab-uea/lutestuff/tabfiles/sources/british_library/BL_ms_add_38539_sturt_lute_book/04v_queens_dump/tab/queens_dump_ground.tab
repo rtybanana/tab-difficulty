@@ -1,0 +1,40 @@
+-C
+-t
+-f
+{The Queen's Dump/The Queen's Dump}
+b
+1 dde  a
+#2 dde
+x    f
+#2 dde
+x    f
+#2 dde
+x    f
+b
+1 dff  4
+#2 dff
+x     d
+#2 dff
+x     d
+#2 dff
+x     d
+b
+1 cdc  ///a
+#2 cdc
+x    a
+#2 cdc
+x    a
+#2 cdc
+x    a
+b
+1 dde  a
+#2 dde
+x    f
+#2 dde
+x    f
+#2 dde
+x    f
+b
+b
+
+e

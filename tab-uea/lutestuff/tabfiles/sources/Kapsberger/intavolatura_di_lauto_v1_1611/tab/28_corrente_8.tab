@@ -1,0 +1,171 @@
+-C
+-t
+-f
+{28. Corrente 8/Giovanni G. Kapsberger}
+b
+1 d
+b
+.
+1.f d
+2h
+1ac
+b
+1.cd
+2a
+1 da
+b
+1.a b
+2 d
+1 c
+b
+1. df c
+2 a
+1  de
+b
+1. ab c
+2  d
+1  b
+b
+1.  dcd
+2  b
+1  aa
+b
+1. ab  d
+2    a
+1    c
+b
+1a   d
+1c   c
+1e
+b
+1.fc  a
+2a
+1f
+b
+1f   c
+1e
+1 d
+b
+
+b
+1f   a
+1 c
+1     d
+b
+1f    c
+1 d
+1d    a
+b
+1.c aa  a
+2a
+1 d
+b
+1.da   a
+2f
+1ac
+b
+1.cd    a
+2a
+1 dd  c
+b
+1.aab  d
+2c
+1a   a
+b
+A1
+0 daa  a
+1 d
+.
+b
+b
+A2
+1 daa  a
+1 a
+1 c
+b
+.
+1 daa
+1   c
+1   e
+b
+1  ff
+1 c e
+1 d
+b
+1a  c
+1 da
+1  c
+b
+
+b
+1. cd
+2 ab
+1  de
+b
+1. a a
+2  d
+1  cc
+b
+1acd a
+1c
+1e
+b
+1.f   a
+2e
+1a   e
+b
+1.c  a
+2a   d
+2 d  c
+#3a
+xc
+b
+#2d
+x    d
+1.d da
+2c
+b
+1da   d
+1 c   c
+1 d
+b
+1aac  a
+1 d   c
+1     e
+b
+1ac  a
+#2c    d
+xd
+1f    c
+b
+1.d    a
+2f
+1c     a
+b
+
+b
+1.ac  a
+2c
+1d    d
+b
+1cdd   a
+1.ac  a
+2c
+b
+A1
+1 daa  a
+1 a
+1 c
+.
+b
+b
+A2
+1. daa  a
+#3 c
+x a
+#2  d
+x   a
+b
+b
+
+e

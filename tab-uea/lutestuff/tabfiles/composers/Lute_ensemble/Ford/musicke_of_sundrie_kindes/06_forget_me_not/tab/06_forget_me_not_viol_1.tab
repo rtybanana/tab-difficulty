@@ -1,0 +1,111 @@
+-C
+-t
+-f
+{6. Forget me not/6. Forget me not}
+b
+c
+1  a
+b
+.
+1. aa
+2 b
+1 d
+1 aa
+b
+1 bc
+#2 d
+x b
+1 aa
+1 d
+b
+1 bc
+1 aa
+1  ca
+1  ac
+b
+0.  ca
+#2 d
+x b
+b
+1. aa
+2  c
+1  a
+#2a
+x d
+b
+1. bc
+2 a
+1  c
+#2f
+xd
+b
+#2c
+xa
+x d
+x b
+1 aa
+1   a
+b
+
+b
+A1
+0.  afa
+1  a
+.
+b
+b
+A2
+0.  afa{
+1 d
+b
+.
+1.ab{
+2c
+1d  }
+1cd
+b
+0.acc
+1    c
+b
+1.    f
+2   a
+1 acc
+1  b
+b
+0.  ccc
+1  c
+b
+1. bc
+2 de
+1ab
+1cd
+b
+1.dda
+2c
+#2a
+x d
+x b
+x a
+b
+#2 b
+x a
+x  c
+x  a
+#2  ca
+xd
+1c
+b
+A1
+0.daaaa
+1 d
+.
+b
+b
+
+b
+A2
+wdaaaa
+b
+b
+
+e

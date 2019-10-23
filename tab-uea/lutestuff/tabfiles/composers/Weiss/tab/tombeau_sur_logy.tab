@@ -1,0 +1,539 @@
+-C
+-t
+-f
+{Tombeau/Tombeau}
+b
+C
+#2 def  5
+x def  5
+#2 def  5
+x def  5
+#2 egf  5
+x egf  5
+2 egf  5
+#3 d&'
+x b
+b
+#2edg   5
+xedg   5
+2edg   5
+#3  e&'
+x  d
+#2fde   5
+x   f
+#3
+x d
+x f
+xe
+b
+
+b
+#3f
+xh
+xi
+x  i
+#3h
+x  g
+xf
+x   i
+#3e
+x   h
+xf
+x    i
+#3h
+x  g
+x     a
+x      6
+b
+2.bbdbba
+3 d
+#3 b
+xb
+x  d
+x b
+2.  a&'a  //a
+3  a
+#3  ba  ///a
+x  d
+2  d&'   4
+b
+#3  ea  5
+x  d
+2   f
+#3 d
+x  e
+x  d&'
+x   f
+#3f
+x  e
+x  d&'
+x   f
+#3 d
+x  e
+x  d&'
+x   f
+b
+
+b
+2 e f  //a
+#3fU
+xdX
+#3 e
+xf
+#tx d
+x e
+2  d&'b  //a
+#3      ///a
+x  e
+#3 be   4
+x   d
+xb
+x b
+b
+#3 dUd  ///a
+x bX
+2 b d  4
+#3   d
+x  b
+x  d
+#4 b
+xb
+#3 dUd  ///a
+x bX
+2 b d  4
+#3d
+x bU
+x dX
+xb
+b
+
+b
+#3  dd  /b
+x    bU
+x    dX
+x   b
+#3  ed  /a
+x      /a
+x      //a
+x      ///a
+#3 be   4
+x   b
+x    d
+x   b
+#3    d
+x   b
+x    d
+x   b
+b
+#3b     4
+x   b
+x    d
+x   b
+#3    d
+x   b
+x    d
+x   b
+#3 b    4
+x   b
+x    d
+x   b
+#3    d
+x   b
+x    d
+x   b
+b
+1bbdbb 4
+2. dedd ///a
+#4 e
+xd
+#3  dd&Ue //a
+x  e
+x  d
+x  eX
+1  edd /a
+b
+
+b
+2.  ecb a
+#4  dU
+x  bX
+2  daba
+#3      6
+x  d
+1  da e5
+#3  b
+x   c
+x    d
+x  b
+b
+2  bcc 4
+#3     d"x
+x     d
+#3     d"x
+x     d
+x     d"x
+x     d
+2  ddd 4
+#3     d"x
+x     d
+#3     d"x
+x     d
+x     d"x
+x     d
+b
+2  ecc 5
+#3      d|
+x      d.
+#3      d|
+x      d.
+x      d|
+x      d.
+0 cdcc 5
+b
+
+b
+#3i
+x i
+x i
+x f
+#3 f
+x  h
+x  h
+x   f
+#3   f
+x    f
+x    f
+x     h
+#3     h
+x      f
+x      f
+xf
+b
+1ffhff 4
+1ddfdd e
+1ccdfc 4
+1a dedd/a
+b
+b
+.
+#2 dde  /a
+x  ded
+#2  efd
+x  efd d
+#3  ef&U  /a
+x  dX
+2  ded
+#3      //a
+x d
+x  d
+x   e
+b
+2   fd ///a
+#3      4
+x      5
+#3      6
+xb
+x d
+x  d
+#2  ea  5
+x  b&'
+#3  b
+xb
+x   d
+x d
+b
+
+b
+#3   b
+x  b
+x bU
+x dX
+#3 bb   a
+x  e
+x  d   //a
+x  e
+#3  d   b
+x  b
+2   d
+#3d
+x b
+x b
+xa
+b
+#3bdU   b
+x bX
+x  d
+x   d
+#3b
+x  dU
+x  eX
+x b
+#3ab    ///a
+x  e
+x   dU
+x   aX
+#3d
+x b
+x bU
+x dX
+b
+
+b
+#3bdU   b
+x bX
+x  d
+x   d
+#3b
+x  dU
+x  eX
+x b
+#3  e   a
+x d
+x  ec
+x d
+#3  e   a
+x d
+x  ec
+x d
+b
+#2 bd  a
+x bde
+2 bd   6
+#3  eU
+x  dX
+2  ea  5
+#3  dU
+x  bX
+#3 a
+x   d
+x  b
+x a
+b
+#3 b
+x   b
+x  b
+x b
+#3a
+x    a
+x  b
+xa
+#3b
+x    b
+x  b
+xb
+#3b
+x     c
+x   d
+xb
+b
+
+b
+#3 d
+x      ///a
+x   d
+x d
+#3 d
+x     b
+x   b
+x d
+#3 b
+x     c
+x   b
+x b
+#3 b
+x     a
+x   a
+x b
+b
+2 a&'    5
+#3  cU
+x  bX
+#3   d
+x    a
+x  cU
+x  bX
+#3 d
+x    a
+x  cU
+x  bX
+#3d
+x    a
+x  b
+xd
+b
+2.cbb   ///a
+3c
+2ccd   4
+#txe
+xf
+2.e&'dd   //a
+3f
+2fde   ///a
+#3      4
+x      5
+b
+
+b
+#3      6
+xh
+x  g
+x     a
+#3      6
+x e
+x  g
+x     a
+#3      6
+xh
+x  g
+x     a
+#3      6
+x e
+x  g
+x     a
+b
+#3      6
+xh
+x  g
+x     a
+#3      6
+xa
+x  g
+x     a
+#3      5
+xa
+x  e
+x      d
+#3      5
+xf
+x  e
+x      d
+b
+#3      //a
+xf
+x  d
+x e
+1edded //a
+#3fU    ///a
+xaX
+xa
+x  e
+#3  eU
+x  bX
+x  b
+x   d
+b
+
+b
+#3   dU //a
+x   b
+x   aX
+x   d
+#3   b
+x  b
+x b
+xb
+0bbdbb 6
+b
+#3bU
+xaX
+xa
+x cU
+#3 dX
+x  dU
+x  eX
+x a
+#3 b
+x cU
+x dX
+x  aU
+#3  bX
+x    c
+x   a
+x  e
+b
+1.  a&'a  /a
+2  b
+1  b d /b
+2.  b&' c /b
+3  d
+b
+
+b
+#2  a b /a
+x  b  e
+2  b  d/a
+#3  aa
+x    b
+1  baa 5
+#3   da 5
+x  cU
+x  bX
+x   d
+b
+2.   b&'b 5
+3   b
+#3   bb 6
+x  d
+x   b
+#4   a
+x   b
+2. b b a
+3 b
+3 bUa  6
+#4 d
+x bX
+#3 d
+x  d
+b
+3  ea  5
+#4  dU
+x  eX
+#3a
+x  a
+#3   b
+x  b
+x    d
+x  b
+1  bcc
+#3     d
+x    c
+x   c
+x  b
+b
+
+b
+#3  e
+x c
+xc
+x  b
+2.  a&'a d/a
+3   a
+#3   b
+x   cU
+x   dX
+x  a
+#3  b
+x  dU
+x  eX
+x a
+b
+#3 b
+x cU
+x dX
+xb
+#3  a   /a
+x    b
+x     e
+x  b
+2  b  d/a
+#3  d
+x   c
+2.  a&'a
+3  b
+b
+w  ba e5
+.
+b
+b
+
+e

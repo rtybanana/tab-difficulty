@@ -1,0 +1,498 @@
+-C
+-t
+-f
+{9. Fantasia 6/9. Fantasia 6}
+b
+c
+0  d
+0 b
+b
+1 b
+1 b
+1 d
+1 b
+b
+0b
+1   a
+1a
+b
+1 d d
+#2 b
+x  e
+1  dd
+#2 b
+x   d
+b
+1  ef
+1  dd
+1 de
+1d
+b
+1b d
+#2a b
+x d d
+1 c ca
+1b d
+b
+1a   d
+1  b
+1f g d
+#2    d
+xd e
+b
+
+b
+1b da
+#2    d
+x  b
+#2  dd
+x d
+xb
+x df
+b
+#2ab c
+x d
+1 acc
+0 cd a
+b
+0  ddf
+0 dda
+b
+1 de b
+1 d
+1 de b
+#2   d
+x b  a
+b
+#2  e  d
+x  d
+1  bc
+0 b d b
+b
+1   d b
+1 b
+1 bd
+1    a
+b
+1  b d
+1 b
+1 d
+1 bb d
+b
+1 g df
+1 fg d
+#2  dd
+x d
+x d
+x  f
+b
+
+b
+#2ab c
+x d
+x a
+x d
+#2 cd a
+x d
+x c
+x  b
+b
+0  def
+1 d
+1    f
+b
+0 d db
+1 d
+1   db
+b
+1 d f d
+1   df
+1 de b
+1     d
+b
+1. bd a
+2  b
+1 b da
+1  dd b
+b
+1  ec d
+1  d a
+0  def
+b
+0 def
+1b da
+1  d
+b
+#2 d  b
+x   a
+1  b
+0 d ef
+b
+0 def
+1 dda
+1  d
+b
+#2
+x   a
+1  b d
+0   df
+b
+
+b
+0   ca
+0b d a
+b
+1    d
+1a b
+#2   d b
+x  d
+1 d
+b
+0 c ca
+0a d a
+b
+1aa c
+1 a
+0abd
+b
+1aa c
+1 a
+#2a b
+x   c
+x bdd
+x df
+b
+#2ab c
+x d
+x a
+x d
+0 cd a
+b
+0f
+1 b   b
+1d
+b
+1bb   b
+1 de
+1 bd  b
+1  b
+b
+0  dd b
+0 bdd
+b
+
+b
+1 b d
+1 bbc
+1 dda
+1 de b
+b
+1. bb d
+2  e
+0  dd b
+b
+1   ca
+1a
+1b   a
+1 b c
+b
+1 d d
+1a   df
+#2   ab
+x d
+1 d d b
+b
+1   c d
+1 c  a
+1 d  f
+#2  d
+x    d
+b
+1 de b
+1   da
+1 d f d
+1  d  c
+b
+0 de  d
+0 bd a
+b
+0 acc
+1aa c
+1 a
+b
+1ab
+1  bc
+1  dd
+1a   d
+b
+1bd a
+1 bdd
+0aa c
+b
+
+b
+1. cd a
+2 d
+1. c ca
+2 d
+b
+1a d a
+1 d
+1 b  a
+#2  d
+xb
+b
+1ab
+1 d d
+1 cd
+1    a
+b
+1 bb d
+1  dd b
+1   ca
+1  d
+b
+1  g df
+#2   dfg
+x   f
+0  dca
+b
+1  def
+#2 d
+x  bc
+0 bdd
+b
+1 bdd
+1 d
+1 b d
+#2  d
+xb
+b
+1ab
+1 d d
+1 cd
+1b   a
+b
+1a b d
+1 d d b
+1 c ca
+1  d
+b
+
+b
+1  g df
+#2   dfg
+x   f
+0  dca
+b
+w  def
+b
+0 d db
+0 de b
+b
+1
+1 d db
+1 d db
+1 d f d
+b
+1 daa
+1b d
+#2   a
+xa b
+1 d d
+b
+1 c ca
+1  dd b
+#2 a c d
+x   a
+x b  a
+x  d
+b
+2. d db
+3   c
+#2   d
+x  b
+1 bd a
+#2 d df
+x  g
+b
+1  f
+1  dcd
+1  dac
+1  c
+b
+
+b
+1  dca
+#2a d
+x  d
+1aac
+#2abd
+x  d
+b
+1bd
+#2   a
+x b
+1aa c
+#2 bdd
+xbd a
+b
+1add
+1 c
+#2bd a
+xa
+x ddd
+x bbc
+b
+1 aaa
+1  dcd
+1  dac
+1  c
+b
+1  dda
+#2  dd b
+x   c
+1  f fd
+#2  g df
+x  d
+b
+1 d db
+1   a
+1 c ca
+1b  a
+b
+1a  c
+#2 d d
+x   a
+#2  b
+x b
+x a
+x  dd
+b
+
+b
+#2  bc
+x   a
+1  dca
+1   ac
+#2 b cd
+x    a
+b
+#2  fdf
+x  d
+x  d
+x   cd
+1  cac
+#2  dca
+x b
+b
+1  dac
+1  c
+1  dca
+#2a d
+xb
+b
+1da c
+#2abd
+x  d
+1.bd a
+2ab
+b
+#2da c
+xb d
+xaa c
+x d
+1 cd a
+1 c
+b
+1b  d
+#2a b
+x d
+1 cd
+1  dca
+b
+1 bd  b
+#2  fd d
+x   d
+1  dca
+1 b
+b
+
+b
+1. d ab
+2   c
+#2   da
+x  b
+1a  c
+b
+1 b d
+1 d
+1a  c
+1  bc
+b
+1ab  d
+#2c da
+x a
+#2ab c
+x d
+1 a
+b
+0 cd a
+1 dda
+1 fg d
+b
+1b    b
+#2  d
+xa
+#2 d d
+xb
+xa b
+x d
+b
+1 cd
+#2a
+x   c
+1 b d
+1 d
+b
+1a  c
+1 b ca
+1b d  b
+#2 f f d
+x d d
+b
+#2 c ca
+x d a
+1 c ca
+1 d a
+1  d
+b
+
+b
+1. d ef
+2   f
+1 dd f
+1    f
+b
+1 d e
+1    f
+1. df c
+2    d
+b
+1 dda
+1cd
+1dd f d
+#2   f
+xf
+b
+1hd f
+1f de
+1  ef
+#2 d
+xd
+b
+wc da
+b
+b
+
+e

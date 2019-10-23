@@ -1,0 +1,75 @@
+-C
+-t
+-f
+{Toy - 13/Toy - 13}
+b
+2 c  a
+b
+.
+1 d  c
+2a   e
+1c  a
+2e  c
+b
+2.f   a
+3a
+2 c
+2.f
+3a
+2 c
+b
+1 d  c
+2a   e
+1c  a
+2e  c
+b
+2.f   a
+3a
+2 c
+1 acc a
+2 c  a
+.
+b
+b
+.
+2. d a
+3  d
+2  a
+2. d a
+3  d
+2  a
+b
+
+b
+2. c  a
+3  d
+2   c
+2. c  a
+3  d
+2   c
+b
+2. d a
+3  d
+2  a
+2. d a
+3  d
+2  a
+b
+A1
+2. c  a
+3 a
+2  d
+1 acc
+2 c  a
+.
+b
+b
+A2
+2. c  a
+3 a
+2  d
+Y. acc
+b
+b
+
+e

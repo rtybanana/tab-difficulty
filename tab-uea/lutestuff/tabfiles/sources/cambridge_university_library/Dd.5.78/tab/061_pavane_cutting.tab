@@ -1,0 +1,411 @@
+-C
+-t
+-f
+{61. Galliard/Francis Cutting}
+b
+#2 dda
+xa
+1c
+#2ec c
+x a
+b
+1f de
+#2 dff
+xa
+1cdda
+b
+#2a d e
+xf
+#2   a
+xc
+1ea c
+b
+#2fc ca
+xa d
+#2c  a
+x  a
+1aacc
+b
+#2 cde
+x d a
+#2  b
+x a
+#2 cde
+x e
+b
+#2aa c
+xc
+#2d
+x  a
+2  b
+#3c d
+xa
+b
+
+b
+#2 df
+x  a
+#2aab
+xda c
+#2cdd
+xac
+b
+#2   a
+xcd
+#2  d
+xd
+1cdda
+b
+b
+#3 d a
+x c
+x d
+xa
+2cd
+#3 c
+x d
+#2ec c
+x a
+b
+1f de
+#2 dff
+xa
+1cdda
+b
+#2a d e
+xf
+2   a
+#3e
+xc
+#3e    a
+xf
+xh
+xe
+b
+#2f   a
+xa d
+2c  a
+#3  c
+x  a
+#3  cc
+x  d
+x a
+x  c
+b
+
+b
+#2  de
+x d a
+2  b
+#3 c
+x a
+#3 c e
+x a
+x c
+x e
+b
+#3a  c
+x d
+xa
+xc
+#3d
+x   a
+x   c
+x  a
+2  b
+#3c d
+xa
+b
+#3 df
+x  d
+x  f
+x  a
+#3a b
+x  a
+xd  c
+xc
+#3a d
+x d
+xa
+x c
+b
+#3 d a
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xd
+1cdda
+b
+b
+1 aff
+1 cde
+1 e
+b
+
+b
+1aabc
+#2     a
+x d
+#2a
+xc
+b
+1da c
+#2c
+x  a
+#2aab
+x  d
+b
+2 df
+#3a
+xc
+#2d
+x  d
+#2  b
+xcd
+b
+2acd
+#3c
+xd
+#2f
+x ab
+#2  de
+xd  c
+b
+2c da
+#3 a
+x c
+2 d
+#3d
+xf
+#2h  f
+x  f
+b
+#2f hh
+x  i
+#2ef   a
+xf
+#2e
+x d
+b
+
+b
+2fc  a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#3  d
+x  a
+x  b
+x  d
+b
+b
+1 aff
+2 cde
+#3  d
+x a
+#3 c
+x a
+x c
+x e
+b
+2aa c
+#3d
+xc
+#3a
+x d
+xa
+xc
+#3d
+xc
+xa
+xc
+b
+2d  c
+#3  b
+x  a
+#3   c
+x   b
+x   c
+x  a
+#3  b
+x  a
+x  b
+x  d
+b
+2 df
+#3a
+xc
+#2d
+x  d
+#2  b
+xcd
+b
+
+b
+2acd
+#3c
+xd
+#2f
+x ab
+#2  de
+xd  c
+b
+2c da
+#3 a
+x c
+2 d
+#3d
+xf
+#2h  f
+x  f
+b
+#2f hh
+x  i
+2e    a
+#3 f
+x h
+#3e
+xf
+xh
+xe
+b
+#3f   a
+xa
+xc
+x d
+#3a
+x c
+x d
+x a
+1 cdca
+b
+b
+1acd
+1cd e
+1 dff
+b
+1df c
+#2aa
+x  a
+#2  b
+x c
+b
+
+b
+1cda
+1ddbc
+#2 c
+x  d
+b
+1cdfa
+#2  d
+x   c
+#2   e
+x ab
+b
+1acd
+#2f
+x  de
+#2dab
+x cd
+b
+1.cdf
+2  d
+#2df f
+x   e
+b
+#2   c
+xcd
+#2acd
+x d
+#2    a
+x c
+b
+#2   a
+xcd
+#2  d
+xd
+1cdda
+b
+b
+2acd
+#3 d
+xa
+#3c  a
+xa
+x d
+x c
+2 ab
+#3a
+xc
+b
+
+b
+#3d  c
+xc
+xa
+x d
+#2aa
+x  a
+#2  b
+x c
+b
+2cda
+#3a
+xc
+2d  c
+#3 c
+x a
+#2 c
+x  d
+b
+1cdfa
+#2  d
+x   c
+#2   e
+x ab
+b
+2acd
+#3c
+xd
+#2f
+x  de
+#2dab
+x cd
+b
+1.cdf
+2  d
+#2df f
+x   e
+b
+#2   c
+xcd
+#3a d
+x d
+x c
+x a
+#3 c
+x d
+x a
+x c
+b
+
+b
+2 d a
+#3 a
+x c
+#3 d
+xa
+xc
+xd
+Ycdda
+b
+b
+
+e

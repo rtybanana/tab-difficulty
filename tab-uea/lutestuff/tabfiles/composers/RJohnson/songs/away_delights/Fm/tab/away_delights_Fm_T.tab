@@ -1,0 +1,113 @@
+-C
+-t
+-f
+{Away, delights/Away, delights}
+b
+c
+1.bdda
+2    d
+#2 db b
+x    a
+1  e  d
+b
+1. dddf
+2a
+0bdda
+b
+1.dde  d
+2     b
+#2dbb  a
+x     b
+1 de  d
+b
+0acd a
+0 cd a
+0 de  d
+b
+c
+1. ddd  a
+#3 b
+x  e
+1.  ddf
+2    d
+b
+1 d db
+#2ab  d
+x    b
+1b   a
+#2  d
+xa   d
+b
+1dd  b
+1b
+1ab  d
+2b
+#3  e
+x  d
+b
+
+b
+1b b   /a
+1a
+1b d  b
+1 bd
+b
+1 dd b
+1  b
+0acd a
+b
+.
+0abd a
+1ab    ///a
+#2ab
+xab
+b
+0aab  a
+#2 dd  b
+x     a
+x b    a
+x  e
+b
+0ac  a
+0ab    ///a
+b
+1da   a
+1b d  b
+1a b d
+1  d
+b
+1b  a
+1 df
+#2 b c
+x    d
+xab
+x    a
+b
+1a c  a
+#2  d  b
+x d
+1 a   a
+1  c
+b
+
+b
+0 cd a
+1 d d  a
+2.  aa
+3    d
+1  b c
+#2a c  a
+x      a
+b
+c
+1  d   /a
+1 d    a
+1  d   ///a
+1 c
+b
+w ddd  a
+.
+b
+b
+
+e

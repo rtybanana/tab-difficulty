@@ -1,0 +1,375 @@
+-C
+-t
+-f
+{Loth to depart/Loth to depart}
+b
+1     a
+1 acc
+1     a
+b
+0 acc a
+1ab  d
+b
+1. df  d
+2 f
+1 bd a
+b
+0 acc a
+1   c
+b
+1. bdca
+2 a
+1  d
+b
+1.a b d
+2 d  c
+1 b  a
+b
+1 a c e
+1     a
+1  dca
+b
+0 acc a
+1   c
+b
+1    d
+1ab
+1    d
+b
+0abbcd
+1abb
+b
+0bbdddb
+1ab  d
+b
+
+b
+0 dff d
+1 dff
+b
+1     d
+1 df
+1     d
+b
+0ddf  d
+1 dff d
+b
+0abb d
+1 dff d
+b
+0 dff d
+1  f
+b
+1. bdca
+2 a
+1  d
+b
+1.dfg d
+2 g
+1 f
+b
+1 df
+1     d
+1 d
+b
+1. bdca
+2 a
+1  d
+b
+1. acc a
+2 d
+#2 c
+x a
+b
+0 cdca
+1  d
+b
+0  dca
+1   c
+b
+b
+
+b
+1 a   a
+#2   c
+x  a
+#2  c
+x  d
+b
+1 a
+1     a
+1ab  d
+b
+1. df  d
+2 f
+1 bd a
+b
+0 acc a
+1   c
+b
+#2 b  a
+x a
+#2  d
+x a
+#2 b
+x d
+b
+1a   d
+#2    c
+x d
+1 b  a
+b
+1 a c e
+1     a
+1  dca
+b
+0 acc a
+1   c
+b
+1ab  d
+#2d
+xb
+#2a
+x d
+b
+
+b
+#2a
+x a
+#2 b
+x a
+#2  d
+x  b
+b
+#2  dd
+x  b
+#2  d
+x a
+1ab  d
+b
+0 dff d
+1 dff
+b
+#2     d
+x d
+#2 a
+xd
+#2a
+xc
+b
+1d
+1     d
+1 db c
+b
+1ab  d
+#2b
+xa
+#2 d
+x b
+b
+1 d
+1     d
+1 ab
+b
+#2 b  a
+x a
+#2  d
+x b
+#2 a
+x  d
+b
+1 ac
+1     a
+1 ac
+b
+
+b
+#2d    d
+xc
+#2a
+xd
+#2c
+xa
+b
+1 d
+1     d
+1 a
+b
+#2    a
+xa
+#2 d
+x b
+#2 a
+x  d
+b
+#2  c  a
+x  d
+#2 a
+x d
+#2 c
+x a
+b
+1. cd a
+2 d
+#2 c
+x a
+b
+1  d
+1   c
+1    a
+b
+b
+1 ac  a
+1a
+1 a
+b
+1 ac
+1     a
+#2a   d
+xc
+b
+1da
+1     a
+1abd a
+b
+
+b
+1.aac  a
+2 d
+#2 b
+x a
+b
+1.ffg a
+2d
+1b d
+b
+1.a b d
+2    c
+1f   a
+b
+1hf   e
+#2     a
+xea
+1f g a
+b
+1.eff  a
+2a
+#2f
+xh
+b
+1i
+#2    d
+x  b
+#2  d
+x a
+b
+#2ab  d
+x    d
+#2a
+xb
+#2d
+xa
+b
+#2f
+x   d
+#2  g
+x d
+1df  d
+b
+0ddff
+1     d
+b
+
+b
+#2   f
+x d
+#2 f
+x d
+#2  f
+x  g
+b
+#2     d
+x a a
+#2 b c
+x a a
+#2  b c
+x     d
+b
+#2a
+x    d
+#2  b
+x  d
+#2 a   d
+x b
+b
+#2 d
+x     d
+#2   f
+x  f
+#2 f
+x d
+b
+2 b  a
+#3 d
+xa
+#2b
+xa
+#2 d
+x b
+b
+#2 a
+x     a
+#2   c
+x  d
+1 ac
+b
+
+b
+2    d
+#3a
+xc
+2d
+#3c
+xd
+#2c
+xa
+b
+#2 d
+x     d
+#2   f
+x  g
+1 df
+b
+2    a
+#3f
+xh
+2i
+#3h
+xi
+#2h
+xf
+b
+#2h
+x     a
+#2e
+xf
+#2 a
+xe
+b
+2f   a
+#3d
+xc
+#2a
+x d
+#2 c
+x a
+b
+#2fc  a
+x   c
+#2    e
+x    a
+1
+b
+b
+
+e

@@ -1,0 +1,217 @@
+-C
+-t
+-f
+{53. Durmiendo iba el Señor/53. Durmiendo iba el Señor}
+b
+c
+0  aa
+1  b  d
+1  dd b
+b
+#2  e b
+x   c
+x   a
+x    d
+0  eab
+b
+0  dd b
+1  ba d
+1  dd b
+0  ba d
+b
+c
+0  dd b
+1  dd b
+1  ba d
+b
+1  dd b
+#2 b
+x  e
+#2  d
+x  b
+1   d
+1  b
+1  d
+b
+c
+0 daa
+0 daa
+b
+1  bb
+#2 b
+x  e
+1 bbb
+1 daa
+1  b  d
+1 daa
+b
+
+b
+0 db  d
+0 dda
+1 dda
+#2 def
+xa
+b
+c
+2bb d
+#3 e
+x d
+#3 b
+x  e
+x  d
+x  b
+1   d
+1b
+b
+1 def
+#2   f
+xa
+0cd a
+0ddb
+b
+c
+1cd a
+1d b
+1 d a
+1c
+b
+Ydd f d
+.
+b
+b
+.
+c
+1
+1    a
+1    b
+1    d
+b
+1   a
+1  d
+1  e
+1 b  a
+b
+1 d  b
+#2 b  d
+x  e
+1  da
+1  b b
+b
+
+b
+1  d d
+1  aa
+1  b  d
+1  d  b
+b
+1  e b
+1b
+#2 d
+xa
+xb
+xd
+b
+#2f  d
+xd
+xb
+xa
+1 db
+1 bd
+0 db
+b
+1.ab  d
+2c  a
+1d  c
+1f  d
+1d
+1   c
+1f  d
+#2d b
+xb
+b
+2a d
+#3b
+xa
+#2b
+xa
+#2b d
+xd
+1f  d
+1d b
+1a d
+b
+c
+0c  a
+#2c  a
+xd
+xf
+xc
+b
+
+b
+#2d  f
+xf
+xg
+x  g
+#2 d
+x f
+1 g d
+#2  ef
+x b
+1 d d
+b
+1  bb
+1 b
+2 dda
+#3 b
+x  e
+#3  d
+x  b
+x  a
+x   c
+#2   a
+x   c
+x  a
+x  b
+1  d
+1  b
+b
+c
+#2  aa
+x    d
+x   a
+x   c
+1  dd
+#2    d
+x   a
+b
+#2  bb
+x   d
+1   f
+1  d
+1   e
+1 db
+#2     d
+xa
+b
+c
+1cd a
+1d   b
+1 b  d
+1c da
+b
+
+b
+1d e  d
+1   f
+0 fgfd
+0 fgfd
+b
+c
+Y dff d
+.
+b
+b
+
+e

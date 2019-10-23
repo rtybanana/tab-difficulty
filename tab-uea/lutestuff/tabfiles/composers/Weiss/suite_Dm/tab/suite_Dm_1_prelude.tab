@@ -1,0 +1,364 @@
+-C
+-t
+-f
+{Suite in D minor/Suite in D minor}
+b
+c
+#2      ///a
+x d
+xe
+x d
+#2    a
+x d
+xe
+x d
+b
+#2      ///a
+x f
+xf
+x f
+#2    a
+x f
+xf
+x f
+b
+
+b
+#2      ///a
+x f
+xe
+x f
+#2    a
+x f
+xe
+x f
+b
+#2      ///a
+x d
+xe
+x d
+#2    a
+x d
+xe
+x d
+b
+#2      ///a
+x c
+xc
+x c
+#2    a
+x c
+xc
+x c
+b
+
+b
+#2     e
+x c
+xc
+x c
+#2     a
+x c
+xc
+x c
+b
+#2    a
+x c
+xa
+x c
+#2    a
+x a
+xa
+x a
+b
+#2     b
+x a
+xc
+x a
+#2      a
+x a
+xa
+x a
+b
+
+b
+#2      4
+x  f
+x c
+x  f
+#2      4
+x  d
+x c
+x  d
+b
+#2     a
+x c
+xa
+x c
+#2      /a
+x  a
+x c
+x  a
+b
+#2      d
+x a
+x  b
+x a
+#2     a
+x a
+x  b
+x a
+b
+
+b
+#2      a
+x c
+x  b
+x c
+#2      //a
+x a
+x   c
+x a
+b
+#2     a
+x  \3d
+x   \4e
+x  d
+#2      a
+x  d
+x   e
+x  d
+b
+#2      /b
+x a
+x  a
+x a
+#2      ///a
+x  \3d
+x   \4e
+x  d
+b
+
+b
+#2      a
+x  b
+x   c
+x  b
+#2      /a
+x  b
+x   c
+x  b
+b
+#2      //a
+x  d
+x   c
+x  d
+#2      4
+x  b
+x   c
+x  b
+b
+#2      /a
+x  a
+x   cU
+x   aX
+#2      a
+x  bU
+x  aX
+x   c
+b
+
+b
+#2     a
+x  d
+x  bU
+x  aX
+#2      5
+x a
+x  dU
+x  bX
+b
+#2      4
+x cU
+x aX
+x  d
+#2      ///a
+xa
+x cU
+x aX
+b
+#2      //a
+xc
+x dU
+x cX
+#2      /a
+xe
+x c
+xa
+b
+
+b
+#2  d
+x a
+x  aU
+x  dX
+#2      a
+x  b
+x   cU
+x   aX
+b
+#2      4
+x    c
+x  dU
+x  bX
+#2      /a
+x  a
+x   cU
+x   aX
+b
+#2      4
+x    c
+x   c
+x  b
+#2      /a
+x  a
+x   a
+x  d
+b
+
+b
+#2     a
+x  d
+xa
+x c
+#2      d
+x a
+x  bU
+x  aX
+b
+#2      a
+x  c
+xcU
+xaX
+#2      4
+x c
+x  dU
+x  bX
+b
+#2     e
+x  a
+xeU
+xcX
+#2    a
+xa
+x cU
+x aX
+b
+
+b
+#2      a
+xf
+x cU
+x aX
+#2     a
+x  \3e
+x   \4eU
+x   \1cX
+b
+#2    \3e
+x a
+xe
+x  d
+#2      a
+x  c
+x a
+xe
+b
+#2 c
+xc
+x  f
+xc
+#2     a
+x  e
+x c
+xc
+b
+
+b
+#2  f
+x c
+xa
+x  a
+#2      a
+x  b
+xa
+x c
+b
+#2      /a
+x  a
+x cU
+x aX
+#2      //a
+x   c
+x a
+x  e
+b
+0 aaa  ///a
+0  dba ///a
+b
+#2      ///a
+x    a
+x   c
+x  b
+1.  a&'
+2   c
+b
+
+b
+#2      //a
+x  e
+x   c
+x c
+#2      /a
+x a
+x  a
+xa
+#2      a
+x c
+x  b
+x a
+b
+0ece   a
+0eaa   /a
+b
+0ccc   //a
+0cce  a
+b
+0aaf   ///a
+0aaf   4
+b
+0aaf   5
+0aaf  a
+b
+waac   b
+b
+
+b
+#2     a
+x c
+x  e
+x   c
+#2    d
+x  a
+x a
+x    a
+#2      6
+x    c
+x a
+x  e
+b
+w aaa  ///a
+b
+b
+
+e

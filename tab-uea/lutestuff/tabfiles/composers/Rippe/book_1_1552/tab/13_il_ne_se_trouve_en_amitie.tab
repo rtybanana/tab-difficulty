@@ -1,0 +1,780 @@
+-C
+-t
+-f
+{13. Il ne se trouve en amitié/13. Il ne se trouve en amitié}
+b
+c
+wcdfec
+b
+0cdda
+0cdda
+b
+1ac c
+1 d
+1 cb
+1 a
+b
+1 cfe
+#2  e
+x  c
+1 cfe
+1  e
+b
+1 aa c
+1    e
+1  aa
+1  cc
+b
+1  de c
+1 ac
+1 cd
+1 a
+b
+1 cdca
+1 df
+1ac  a
+1cdd
+b
+1ea  c
+1c d
+1caca
+1  a
+b
+
+b
+1 hhge
+#2 g  {
+x e   }
+#2 hhge
+x g  {
+#3 h
+x g
+x e
+x g    }
+b
+1 h
+1 cd  c
+0  def
+b
+0  def
+1 ddef
+1    e
+b
+1 dfec
+1    a
+0 dfec
+b
+1acd a
+1 d
+1add a
+1 c
+b
+1cdda
+1d
+1c da
+1a   e
+b
+1 dfec
+1 c c
+1 a ac
+1    ef
+b
+1 a  ce
+1     c
+1aa c a
+1  d
+b
+1  cc
+1 da
+1 cdca
+1 aaa
+b
+1 cdc
+1 aca
+1 aa c
+1   c
+b
+
+b
+1ccf  c
+#2  e  {
+x  c   }
+1ccf  c
+1  e
+b
+1  f
+1     c
+1cdf
+1   e
+b
+0cdf c
+0cdf c
+b
+#2cdda
+x c
+x d
+xa
+#2cdda
+x d
+xa
+xc
+b
+#2ac c
+xc  {
+xd
+xc   }
+#2aab
+x d
+x c
+x a
+b
+1ccfe
+#2  e
+x  c
+#2ccfe
+x  e
+#3  f
+x  e
+x  c
+x  e
+b
+1 aa c
+1    e
+1  aa
+1  cc
+b
+
+b
+#2  deec&{
+x  c
+x   e
+x  c   }
+#2 cd
+x  c
+x  d
+x  f
+b
+#2 cdca
+x a
+x c
+x d
+#2ac  a
+x d
+xa
+xc
+b
+#2ea  c
+x  d
+x a
+x c
+#2ca a
+x  d
+x  c
+x  a
+b
+1 hhge
+#2 g  {
+x e   }
+#2 hhge
+x g  {
+#3 h
+x g
+x e
+x g   }
+b
+0ccde c
+0  def
+b
+0  def
+1 ddef
+1    e
+b
+1 dfec
+1    a
+1 dd c
+1  c
+b
+
+b
+1add a
+#2 c
+x a
+#2add a
+x c
+#3 d
+x c
+x a
+x c
+b
+#2cdda
+xe
+xf
+xe
+#2c
+xa
+x d  e
+x c
+b
+#2 da c&{
+xa
+xc
+xa    }
+#2 da c
+x c  {
+x a  a}
+x  d
+b
+1 a  ce
+1    a
+1     e
+1     c
+b
+1aa   a
+1  d
+1  cc
+1 da
+b
+1 cdca
+1 aaa
+1 a  e
+1    c
+b
+
+b
+1ccf  c&{
+#2  e
+x  c   }
+#2ccf  c
+x  e  {
+#3  f
+x  e
+x  c
+x  e   }
+b
+1 aaac
+1c   {
+1a
+1 d
+b
+1 caac
+1 a  {
+#2 da
+x c
+x a
+x c    }
+b
+#2 d a
+x a
+x ca c
+x d
+#2aac  a
+x c
+x d
+xa
+b
+1caa c
+1caa
+1h   he
+1    e
+b
+1f aa c
+1e  c
+1c a c
+1a
+b
+1ca a
+1f
+1ea c
+1c
+b
+1e de
+1c d
+1c ce
+1 aa
+b
+
+b
+1 hhge
+#2 g  {
+x e   }
+1 hhge
+1 g
+b
+0ccd  c
+0caa c
+b
+0caa c
+1caa
+1    c
+b
+1cdda
+#2 a
+x c
+#2 d
+xa
+xc
+xe
+b
+1f a
+1   a
+1f a
+1e
+b
+1ccd
+1    a
+1acd a
+1acc
+b
+1    c
+1 d
+1da c
+1     a
+b
+0caa c
+1aa   a
+1c
+b
+1aaa c
+1 d
+1 d c
+1   a
+b
+
+b
+1 ddca
+#2 c  {
+x a   }
+#2 ddca
+x c  {
+#3 d
+x c
+x a
+x c   }
+b
+#2 daa
+x   c
+x  a
+x  b
+#2 dda
+x  a
+x  b
+x  d
+b
+#2 aba d
+x  d  {
+x a
+x c    }
+#2 da c
+x a  {
+x c
+x d   }
+b
+#2a   a
+x d
+x c
+x a
+#2 ddca
+x c  {
+#3 d
+x c
+x a
+x c   }
+b
+1cdda
+1f
+1d
+1c
+b
+1aaa c
+1 d
+1cc  c
+1 a
+b
+
+b
+0fc  a
+1 daa
+1e
+b
+1cdda
+#2    e
+x    c
+1acd a
+1aac
+b
+1 dfec
+1  f
+0 ccc a
+b
+1  aa c
+1 a
+1 a c d
+#2    e
+x    c
+b
+1ccf  c
+#2  e
+x  c
+1ccf  c
+1  e
+b
+1 aaac
+1  e
+1 a
+1 d
+b
+1 caac
+1 a
+0  eeec
+b
+#2 aaac
+x  d {
+x a
+x c
+#2 d
+x a    }
+x c a
+x d
+b
+
+b
+#2a dca
+x d
+x c
+x a
+#2 ddca
+x c
+#3 d
+x c
+x a
+x c
+b
+1 ddef
+1a c
+1c d
+#2ea  e
+x    c
+b
+1fcd a
+1c
+1ea c
+1f
+b
+1ea c
+1c d
+1c ca
+1 aa
+b
+0ccc e
+0   d
+b
+0ccd  c
+0cdda
+b
+0cdda
+1   a
+1a   e
+b
+#2 da c
+x c  {
+x d
+xa    }
+#2caa c
+xa   {
+xc
+xe    }
+b
+0f aa c
+1  d
+1e  c
+b
+
+b
+1ca ac
+1 c
+1a  a
+1 df
+b
+0acd a
+1cdda
+1 c
+b
+1 dfe
+1  dce
+1c dac
+1    a
+b
+1   ac&{
+1c
+1a c
+1 d   }
+b
+1 cdca
+#2  c
+x  a
+#2   c
+x   a
+x    e
+x    c
+b
+0fcd a
+1fcd
+1    a
+b
+0cdda
+0  da
+b
+0  aa
+0cdda
+b
+0caa c
+1haa
+1     h
+b
+1haa
+1f
+1ea  c
+1c
+b
+
+b
+1ea c
+1ccd
+1ccde
+1  f
+b
+1 hhge
+#2 g  {
+x e   }
+#2 hhge
+x g  {
+#3 h
+x g
+x e
+x g   }
+b
+1ccd  c
+1e
+1f d
+1  c
+b
+1  de c
+1e
+1c d
+1a c
+b
+1 da
+1 c c
+1 a a d
+1  d e
+b
+1 aba d
+1    a
+1a b cd
+1c
+b
+1da c a
+1c d
+1a b
+1 da
+b
+1a bc
+1 da
+1a bc a
+1 da
+b
+
+b
+1 ccc a
+1 a a
+1 aa e
+1    c
+b
+1ccf  c
+#2  e  {
+x  c   }
+#2ccf  c
+x  e  {
+#3  f
+x  e
+x  c
+x  e
+b
+0 aaac
+0cdda
+b
+0cdda
+1   a
+1a   e
+b
+#2 daac
+x c  {
+x d
+xa    }
+#2caa c
+xa   {
+xc
+xe    }
+b
+1f  e c
+1  c
+1  d
+1e  c
+b
+1caa c
+1   c
+1a a
+1 dc
+b
+0acd a
+1ca a
+1e
+b
+
+b
+1ca a
+1a d e
+1 dd c
+1 c  a
+b
+1 dd c
+#2d   {
+xc    }
+#2a c
+x d
+x c
+x a
+b
+1 cd a
+#2  c
+x  a
+#2   c
+x   a
+x    e
+x    c
+b
+#2f   a
+xh
+xf
+xh
+#2f
+xd
+xc
+xa
+b
+#2c da
+x a
+x c
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+
+b
+#2  aa
+x   c
+x   e
+x   c
+#2   a
+x    e
+x    c
+x    a
+b
+0cdf c
+1haa  h
+1i
+b
+1haa  h
+1f
+1ea  c
+1c
+b
+1ea c
+1 dd
+1ccce
+1 aa
+b
+1 hhge
+#2 g
+x e
+1 hhge
+1 g
+b
+1ccd  c
+1e    {
+1f
+1  c   }
+b
+1  de
+1e  c
+1c  a
+1a   e
+b
+1 d  c
+1 c  a
+1 a   d
+1  d  c
+b
+1 aba d
+1    a
+1aab  d
+1c d  c
+b
+
+b
+1da c a
+1c d
+1a b
+1 da
+b
+1a b  a
+1 da
+1 c c a
+1 a a
+b
+1 c ca
+1 a a
+1 a ac
+#2 c
+x a
+b
+#2 c   a
+x  f  {
+x  e
+x  c
+#2  f
+x  e
+#3  f
+x  e
+x  c
+x  e
+b
+1 aab
+1    c
+1 aab
+1   c
+b
+0 aabc
+0 aba d
+b
+0 aba d
+0 aba d
+b
+0 abc a
+1     a
+1     c
+b
+1 aba d
+1     a
+1 ab  d
+1   ca
+b
+
+b
+Y aabc
+b
+b
+
+e

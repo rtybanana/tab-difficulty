@@ -1,0 +1,160 @@
+-C
+-t
+-f
+{Care-charming sleep/Robert Johnson}
+b
+c
+0 bdca
+0      ///a
+b
+1. acc a
+2   a
+0  dce
+b
+0 ddd  a
+0 b ca
+b
+0 ac  a
+1   c
+1  a
+b
+0.aac  a
+1  d  c
+b
+
+b
+1 df  d
+1   f
+1 df
+#2  d  c
+x  b  a
+b
+1 aacc
+1   b
+1aab  a
+1   c
+b
+0. b ca
+#2 dd  b
+x      a
+b
+0 d da
+1     d
+#2  b
+x     b
+b
+1 bb  a
+#2   d  a
+x a
+0 b c  /a
+b
+
+b
+1 dgf d
+1 a
+0 bbc  /a
+b
+0ab  a
+0a c  a
+b
+1aac  a
+#2   c
+x      a
+1a d   /a
+1      ///a
+b
+1 d d  a
+#2 b
+x  e
+0  dd  a
+b
+1 cdca
+1 d
+0a b  a
+b
+0 ea   //a
+0abb   /a
+b
+
+b
+0 df  d
+1. bdca
+2     d
+b
+1  dddb
+1   a
+0 acc a
+b
+0abb d
+0 db c
+b
+1a b d
+1. b
+2    c
+1 ba a
+b
+0 df  d
+1   f
+1      d
+b
+0 bb  a
+0  dddb
+b
+0 b c  /a
+0 aba d
+b
+
+b
+1. bd db
+2     a
+1. ddd  a
+2 a
+b
+0abb   /a
+0a b d
+b
+1  b   /a
+1a
+1b
+1      a
+b
+0aac  a
+0 b c  ///a
+b
+0 b ca
+1.  def
+2    d
+b
+0 db c
+1.aacc
+2   a
+b
+
+b
+1a dce
+1    a
+1b da
+1  b
+b
+0 ddd  a
+0 b c  ///a
+b
+1 b ca
+#2     d
+x     c
+1. ac  a
+2      a
+b
+1. b c  /a
+2      a
+b
+1a c  a
+1  d
+1    c
+1  c
+b
+0  dce ///a
+b
+b
+
+e

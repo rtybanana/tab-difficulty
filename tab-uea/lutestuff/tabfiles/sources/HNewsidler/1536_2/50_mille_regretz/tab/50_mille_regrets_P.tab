@@ -1,0 +1,431 @@
+-C
+-t
+-f
+{Milles Regrets/Milles Regrets}
+b
+c
+2. a  c
+3  d
+#3  b
+x  a
+#4   c
+x  a
+x  b
+x  d
+#2 a  c
+x b
+#3 d
+x b
+x d
+x a
+b
+2.a b d
+3 d
+#3 b
+x a
+#4  d
+x a
+x b
+x d
+2ab  a
+#3 a
+x b
+#3 d
+x b
+#4 d
+x b
+x a
+x b
+b
+0 da c
+1 da c
+#2 b  a
+x a   d
+b
+
+b
+1  da c
+#2  d  c
+x  b  a
+1  d  c
+1  d
+b
+1  bc a
+1d b
+1d b  a
+1d bc
+b
+#3cd a
+xa
+x d
+x b
+#3 a  c
+x  d
+x  b
+x  a
+1ab  d
+1    a
+b
+2. abc
+3 c
+#4 d
+x c
+x a
+x c
+#4 d
+xa
+xc
+xd
+2da c
+#3c
+xa
+#4 d
+x b
+x a
+x b
+#4 d
+xa
+xc
+xd
+b
+
+b
+2.c da
+3a
+#3 d
+x b
+#4 a
+x  d
+x  b
+x  a
+#3a bc
+x d
+x b
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+#2  a c
+xa
+x d
+x b
+0 da c
+b
+#3 ab
+x  a
+x  b
+x  d
+#3 a
+x c
+#4 d
+xa
+xc
+xd
+1dab
+#3f
+xd
+#4f
+xd
+xc
+xa
+b
+2.c da
+3a
+#3 d
+x b
+#4 a
+x  d
+x  b
+x  a
+#3a bc
+x  a
+x  b
+x  d
+#3 a
+x b
+x d
+xa
+b
+
+b
+#2  a c
+xa
+#3 d
+x c
+x a
+x c
+2 \4da \2c
+#3 \1b
+x a
+#4  \4d
+x  \1b
+x  a
+x  \1b
+#4  \4d
+x a
+x \3c
+x \4d
+b
+1ab  d
+1a
+1ab  d
+1ab  d
+b
+1 df  d
+1 df  d
+1 bd a
+#3 d
+x b
+#4 d
+x b
+x a
+x  d
+b
+1 ab  a
+1 abc
+1 abc
+1 abc
+b
+1 aaa
+1 aaa
+#3   cd
+x a
+x  d
+x  b
+#3 a
+x  d
+x  b
+x  d
+b
+
+b
+2.ca  c
+3a
+#3 d
+x c
+#4 a
+x c
+x d
+xa
+2ca  c
+#3a
+xc
+#3d
+xc
+xa
+xc
+b
+0d bc
+#3a bc
+x  a
+x  b
+x  d
+#4 a
+x  d
+x a
+x c
+#4 d
+x c
+x d
+xa
+b
+2c a c
+#3a
+xc
+#3d
+xc
+xa
+xc
+1h a  h
+1 a
+b
+0f g
+1f g
+1\4da
+b
+
+b
+#3d \3d
+x\2c
+xa
+x\2c
+#3c \1b
+xa
+x \4e
+xa
+#3  a \1c
+xa
+x \4e
+x \2c
+#3a
+x \4e
+x \2c
+x \4e
+b
+0a \3d&{ \2d&(
+1a d&} d&)
+1  \1b \2c
+b
+#2  a a
+x  \1b \2c
+x  a a
+x   \3c \4d
+#2     \2c
+x   \1b
+#3   \3c
+x   \1b
+x   a
+x   \1b
+b
+0   \3c a
+2. a \2c a
+3  \4d
+#3  \1b
+x  a
+#4  \1b
+x  \4d
+x a
+x \3c
+b
+0 \4d&{aa
+1 d&} a\2c
+#3a
+x d
+#4a
+x d
+x \1b
+x a
+b
+0 \4d&{\3da
+0 d&}aa
+b
+1  \2g&{\3ha
+1\1f
+1f g&} a
+1f
+b
+
+b
+1\2d  \1c&{
+1  \4f&(
+1d fc&}
+1  f&)
+b
+#3c\3d
+x \1b
+#4 a
+x  \3d
+x  \1b
+x  a
+#4  \1b
+x  \3d
+x a
+x \2c
+2 \3d
+1a\1b  a
+#3 \4d
+x \1b
+#4 \4d
+x \1b
+x a
+x  \4d
+b
+1 aa \2c&{
+1  \1b  a
+1 aa c&}
+#3  b  d
+x  a
+x  b
+x  d
+b
+#2  b
+x  a
+x   ca
+x     d
+1\4f     e
+1    \2g
+b
+0d  c a
+1d b  a
+#3  d
+x  b
+x  a
+x   c
+b
+
+b
+#3cd a
+xa
+x d
+x b
+#3 d  c
+x b
+x a
+x d
+1ab  d
+1    a
+b
+1 a c
+1ab  d
+1ab  d
+1ab  d
+b
+1 df  d
+1 df  d
+2 bd a
+#3 a
+x b
+#3 d
+x b
+#4 d
+x b
+x a
+x  d
+b
+1 ab  a
+1ab  d
+1ab  d
+1ab  d
+b
+1 df  d
+1 df
+#3 bd a
+x d
+xa
+x d
+#3 d
+x b
+#4 d
+x b
+x a
+x  d
+b
+1 ab  a
+1 abc
+1 da c
+1 ab  a
+b
+
+b
+0 da c
+2 ab  a
+#4
+x  d
+x  b
+x  a
+#4  b
+x  d
+x a
+x c
+#4 d
+xa
+x\2c
+x\3d
+b
+Y\2c\3daac
+b
+b
+
+e

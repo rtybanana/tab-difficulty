@@ -1,0 +1,210 @@
+-C
+-t
+-f
+{17. Santo Erculano/17. Santo Erculano}
+b
+x
+#2acd a
+x   c
+x d
+1acd a
+2acd a
+b
+1c da
+2a d e
+1c da
+2ea c
+b
+1f de
+2    f
+1f fc
+2e
+b
+1fc ca
+2fc c
+1fc ca
+2 d
+b
+#2acd a
+x d
+xacd a
+#2aacc
+x  d
+xaacc
+b
+1acd a
+2   c
+x
+#2acd a
+x   c
+x d
+b
+1acd a
+2acd a
+1c da
+2a d e
+b
+
+b
+1c da
+2ea c
+1f de
+2    f
+b
+1f fc
+2e
+1fc ca
+2fc c
+b
+1fc ca
+2 d
+#3    a
+x a
+#3 c
+x d
+2acd a
+b
+#2aacc
+x  d
+xaacc
+1acd a
+2   c
+b
+#2acd a
+x   c
+x d
+#2acd a
+x d
+xacd a
+b
+#2c da
+xa d e
+x da c
+1acd a
+2   c
+b
+#3    a
+x a
+x c
+x d
+xa
+x d
+#2acd a
+x d
+xacd a
+b
+
+b
+#2c da
+xa d e
+x da c
+1acd a
+2   c
+b
+#2acd a
+x   c
+x d
+#2acd a
+x d
+xacd a
+b
+2c da
+#3a
+x d
+#3 c
+x a
+#2acd a
+x   c
+xacd
+b
+#2ddf  d
+x   f
+xddf
+#2   f
+xddf
+x  g
+b
+1ddf  d
+2   f
+#3     d
+x  d
+#3  f
+x  g
+2ddf  d
+b
+#2c da
+xe
+xf de
+1f fc
+2e
+b
+1fc  a
+2   c
+1fc ca
+2fc ca
+b
+
+b
+#2ddf  d
+x   f
+xddf
+#2   f
+xddf
+x  g
+b
+1ddf  d
+2   f
+#3     d
+x  d
+#3  f
+x  g
+2ddf  d
+b
+#2c da
+xe
+xf de
+1f fc
+2e
+b
+1fc ca
+2fc c
+1fc ca
+2fc ca
+b
+#3   a
+xa
+xc
+xd
+xf
+xd
+#3c
+xa
+x d
+x c
+x d
+xa
+b
+#2c da
+xa d e
+xc da
+#2da c
+xf de
+xc da
+b
+
+b
+#2dabc
+xc
+xa b d
+#2  d
+xaaa c
+x e
+b
+1aac  a
+2   c
+1aac
+1aac  a
+b
+b
+
+e

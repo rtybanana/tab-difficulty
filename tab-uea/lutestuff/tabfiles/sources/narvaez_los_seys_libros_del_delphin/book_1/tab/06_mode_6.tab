@@ -1,0 +1,586 @@
+-C
+-t
+-f
+{Mode 6/Luis de Narváez}
+b
+c
+wd
+b
+0d
+0 d
+b
+1c
+#2d
+xc
+#2d
+xc
+xa
+x d
+b
+0.ab
+1c
+b
+1db
+1f
+0h  f
+b
+1  f
+1f
+1d
+1  f
+b
+1  d
+1a
+1c
+#2a
+xc
+b
+0d b d
+1a
+1    d
+b
+1     d
+1 d
+0 db c
+b
+
+b
+0    a
+0 ba
+b
+1     d
+1  b
+0dab
+b
+0 bd
+0cd a
+b
+0da c
+0a b
+b
+1   a
+1 d
+0 da
+b
+#2   c
+x  a
+x  b
+x  a
+#2  b
+x  a
+x  b
+x  d
+b
+0 aaa
+0  dcd
+b
+1     d
+1  b
+0  bac
+b
+0    a
+0i a
+b
+1   f d
+1d
+0h
+b
+0f
+0  g
+b
+
+b
+1   f
+1d
+0da  c
+b
+1  d d
+1 d
+0c  a
+b
+0ab c
+1  b
+1   e
+b
+1 ab
+1 c
+0 dde
+b
+0  ff
+0dcbc
+b
+1 dda
+1c
+1d
+1c
+b
+wdfg d
+b
+0dfg d
+1  g
+1f
+b
+1h  f
+1i
+0l ik
+b
+0if h
+0fh
+b
+0hi f
+0if   i
+b
+1   f
+1h
+0h i
+b
+
+b
+1 fgh
+#2f
+xh
+1f
+1   h
+b
+0hf gh
+0   h
+b
+0hf
+0   g
+b
+1i  h
+1  f
+1  g
+1  i
+b
+1if
+1 h
+1hi
+1 f
+b
+1fh
+1h
+0df
+b
+1c f
+1 e
+1 f
+1d
+b
+1c f
+1 e
+1 e
+#2 c
+x e
+b
+1ab  a
+1    c
+1    d
+1   a
+b
+1 b c
+1  a
+1 ab
+1   c
+b
+
+b
+1  de
+1 a
+0  bc
+b
+1    c
+1  b
+1  a
+1   c
+b
+1  a a
+1   c
+0 a c d
+b
+1c    c
+1   b
+1   c
+1   b
+b
+w abc a
+b
+1 abc a
+1 c
+1 d
+1a
+b
+1c  a
+1e
+0f  e
+b
+1   c
+1d
+0df
+b
+1c   c
+#2 e
+x c
+1 f
+1 e
+b
+
+b
+#2a   d
+x   a
+x   c
+x  a
+#2  b
+x  a
+x  b
+x  d
+b
+1 a   d
+1 c
+0 d ac
+b
+1 b ca
+1 a
+0 a ac
+b
+0  bcd
+1a d
+1c
+b
+1da  c
+1f
+0h  f
+b
+1    f
+1f
+0f  e
+b
+1   c
+1d
+0df
+b
+1  f
+1c
+1cd
+1  a
+b
+1 bd
+1a
+0aab
+b
+1   a
+1 d
+0 da
+b
+
+b
+1  bc
+1 c
+1 c
+1  d
+b
+0 df f
+0  de
+b
+0 df  d
+0h  f
+b
+1    f
+1f
+0f  e
+b
+1   c
+1d
+0df
+b
+1  f
+1c
+1cd
+1  a
+b
+1 bd
+1a
+0aab
+b
+1   a
+1 d
+0 da
+b
+#2   c
+x  a
+x  b
+x  a
+#2  b
+x  a
+x  b
+x  d
+b
+0 aaa
+0  dcd
+b
+
+b
+1     d
+1  b
+0  bac
+b
+0    a
+0i a
+b
+0hd f d
+0f   f
+b
+1 dff
+1d
+0dfg d
+b
+1 dda
+1c
+0cdf c
+b
+1  bcd
+1a
+0abd a
+b
+1  aac
+1 d
+0 dff d
+b
+0 bdca
+1 abac
+1  a
+b
+0  bcd
+1  d
+1    c
+b
+0 aba d
+1d
+1  d
+b
+1 df
+1a
+1c d
+1 a
+b
+
+b
+1ab
+1c
+1d b
+1  d
+b
+1 df
+1a
+1c d
+1 a
+b
+1ab  d
+1c
+1d
+1    c
+b
+1 a   d
+1c
+1 d
+1  d a
+b
+1  a c
+1a
+1cd
+1e
+b
+1fb  a
+1 a
+1 b
+1 d  c
+b
+1a   d
+1c  a
+1d  c
+1f  e
+b
+1h  f
+1i  h
+0li k
+b
+0  i
+0lh k
+b
+0ifg
+0fhi
+b
+
+b
+1if  h
+1h
+0h if
+b
+1 fgh
+1f
+1h
+1f
+b
+0h   h
+0 i f
+b
+0fh  f
+0if   i
+b
+1h if
+1f
+0f gh
+b
+1 ff h
+1 k
+1f
+1 k
+b
+0ffh  f
+0 hi f
+b
+1ff   f
+#2  h
+x  f
+1  i
+1  h
+b
+#2    f
+x  h
+x  i
+x f
+#2 h
+x i
+xf
+xh
+b
+
+b
+#2f
+x i
+x h
+x f
+#2  i
+x f
+x h
+x i
+b
+1f g
+1 i
+0 if
+b
+1   hf
+#2 h
+x f
+1 i
+1 h
+b
+#2    h
+x h
+x i
+xf
+#2h
+xf
+x i
+x h
+b
+#2 f
+x  i
+x  g
+x  f
+#2   h
+x  f
+x  g
+x  i
+b
+1 f f
+1  i
+0  i k
+b
+0    hf
+0f h
+b
+0 hihf
+0 iffh
+b
+0 fhh f
+0f
+b
+
+b
+1 hihf
+1 hihf
+1 hihf
+1 hihf
+0 iffh
+b
+c
+0 fhh f
+0f
+b
+0 hi
+0 if
+b
+0f h
+0h i
+b
+0if
+0  gh
+b
+1h if
+1 f
+0fg d
+b
+1 fg d
+1d
+1dabc
+1 c
+b
+0 dfa
+0c d
+b
+1d   c
+1  b
+0  b d
+b
+0fb  a
+0i a
+b
+1hd f d
+1 f
+0fg d
+b
+1 fg d
+1d
+1dabc
+1 c
+b
+
+b
+0 dfa
+0c d
+b
+0ddf  d
+0 f  d
+b
+0d g
+0ddf  d
+b
+1 fg d
+#2f
+xh
+#2i
+xh
+xi
+xf
+b
+0hd f
+0     d
+b
+whd f d
+b
+Y
+b
+b
+
+e

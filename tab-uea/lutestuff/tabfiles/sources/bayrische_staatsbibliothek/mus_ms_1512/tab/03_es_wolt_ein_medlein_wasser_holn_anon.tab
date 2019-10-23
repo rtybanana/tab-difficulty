@@ -1,0 +1,99 @@
+-C
+-t
+-f
+{3. Es wolt ein Medlein Wasser holn/Anonymous}
+b
+c
+1
+1  b  d
+1  b
+#3  b
+x  a
+x  b
+x  d
+b
+1  bc
+1  bc
+1  da
+1  da
+b
+1 ab
+1 ab
+1  bc
+1  b
+b
+1 b  d
+1 ab
+1  da
+1 ab
+b
+1 ab
+1  de
+#2  bc
+x  aa
+1  bc
+b
+0  da
+1  d
+1   a
+b
+1   a
+1  da
+#2 b  a
+x     d
+x    a
+x    c
+b
+
+b
+1 b  d
+1 a   d
+#3  b
+x  a
+x  b
+x  d
+1 ab
+b
+1  da
+1  de
+#2  bc
+x  a
+x  b
+x  d
+b
+#2 a  c
+x  d
+x  b
+x  a
+2  b c
+#3  a
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+1  a
+1  aa
+#2   a
+x    d
+x    c
+x    a
+b
+1  b d
+1  b d
+#2 a   d
+x    a
+x a  c
+x    d
+b
+1  da
+1  bc
+1  da
+1  da
+b
+w ab  d
+b
+b
+
+e

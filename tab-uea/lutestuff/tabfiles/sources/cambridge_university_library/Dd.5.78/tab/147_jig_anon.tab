@@ -1,0 +1,86 @@
+-C
+-t
+-f
+{147. Jig/Anonymous}
+b
+c
+2. b "# d{
+3 a
+#2 b
+x d
+1ab  d
+#2ab
+x    d
+b
+#2c  a
+xf
+xfa   a
+xe
+1fc  a
+1fc
+b
+b
+2ab  d{
+#3ab
+xab
+#2ab
+xab
+#2ab  "#
+x    d{
+x b
+xa
+b
+#3c  a
+xe
+2f
+#2fa   a
+xe
+1fc  a
+2fc
+#3a
+xc
+b
+b
+
+b
+#2d  c{
+xa
+x b  d(
+xa    )
+#2 db c
+x     d&{
+x ab
+x d
+b
+#2 b "# a
+x  d
+x ad  "#a
+x  c
+1  dca
+2   c
+#3a
+xc
+b
+b
+2d  c{
+#3c
+xa    }
+#3 b  d{
+x d
+2a
+#2 d  c{
+x a    }
+x  b  d{
+x d
+b
+2 b  "#a
+#3 a
+x  d
+#2 ad "# a
+x  c
+1  dca
+1   c
+b
+b
+
+e

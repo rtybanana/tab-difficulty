@@ -1,0 +1,138 @@
+-C
+-t
+-f
+{26. Branle de Bourgogne - 5/26. Branle de Bourgogne - 5}
+b
+c
+#2  d a
+x a
+x b
+x d
+b
+.
+1abb d{
+1abb   }
+1 db c
+1 db
+b
+1 bd a
+1 bd
+#2 ab  d
+x b   {
+x d
+x a    }
+b
+1abb d{
+1   c  }
+#2  d a
+x a
+x b
+x d
+b
+#2a b d
+x b  {
+x d
+xa    }
+#2 db c
+x a
+x b
+x d
+b
+#2ab  a
+x  d
+x a
+x b
+#2 ab  d
+x b   {
+x d
+x a    }
+b
+
+b
+0abb d
+#2  d a
+x a
+x b
+x d
+b
+1abb d
+1 bd a
+1 da c
+1aab  a
+b
+1  d a
+#2 d
+x b
+#2 a
+x  d
+x  b
+x  a
+b
+1   c d
+#2 d   {
+x b
+#2 a
+x  d
+x  b
+x  a   }
+b
+1  bc d
+1  d d
+1  da
+1  cc
+b
+#2  d a
+x  c
+x  d
+x a
+#2 b
+x a
+x b
+x d
+b
+1abb d
+#2 d
+x b
+1 da c
+1aab  a
+b
+
+b
+1  d a
+#2 d
+x b
+#2 a
+x  d
+x  b
+x  a
+b
+1   c d
+#2 d   {
+x b
+#2 a
+x  d
+x  b
+x  a   }
+b
+1 abc
+1  d d
+1  da
+1  cc
+b
+A1
+1 cd a
+1   c
+#2  d a
+x a
+x b
+x d
+.
+b
+b
+A2
+1 cd a
+Y.   c
+b
+b
+
+e

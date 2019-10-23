@@ -1,0 +1,441 @@
+-C
+-t
+-f
+{5. Mater Patris/5. Mater Patris}
+b
+c
+0   c
+0   c
+b
+0   c
+0   a
+b
+0  bc
+1  bc
+1   c
+b
+1  bc
+#3  d
+x  b
+x  a
+x  b
+0  da
+b
+0 abc
+1  bc
+1 a
+b
+1  bc
+#3  d
+x  b
+x  a
+x   c
+0  def
+b
+0 abc
+1 ab
+1   c
+b
+#2  b
+x  a
+#3  b
+x  a
+x   c
+x   a
+0  dce
+b
+
+b
+1 aa c
+#2    c
+x    e
+1 aaa
+1  bc
+b
+1  aa
+1  bc
+1 a
+#2  aa
+x   cd
+b
+1 a ac
+#2   a
+x   c
+#2 aaa
+x    c
+1  bc
+b
+1 a
+#2  aa
+x   cd
+1 abc
+1  dea
+b
+#2  de
+x  bc
+xa a
+x   c
+#3   e
+xa
+x e
+x c
+#3a
+x e
+x c
+x e
+b
+1a  c
+1 a
+1   a
+1  d
+b
+
+b
+1  bc
+#3  d
+x  b
+x  a
+x   c
+0  def
+b
+0 ab
+#2 c c
+x d
+x a
+x c
+b
+1 dda
+#2   a
+x    e
+#2 a ac
+x   c
+x  a
+x  b
+b
+1 cd a
+#3 d
+x c
+x a
+x c
+1 da c
+1  b
+b
+1   c
+#2 aa
+x   c
+1  aa
+1 abc
+b
+1    c
+1 aaa
+#3    e
+x a
+x  e
+x  c
+#2 a
+x  e
+b
+0 aa c
+0
+b
+
+b
+0 abc
+1 abc
+1 abc
+b
+1   c
+0 abc
+1a bc
+b
+1 dff
+1 dff
+0 dda
+b
+0 d a
+1 db
+1a
+b
+1  d
+1c
+#2ca
+xa
+x db
+x c
+b
+#2 ab
+x  a
+1   c
+1 c
+1 da
+b
+1 ab
+1   c
+1a
+#2a d
+x d
+b
+#2 cd
+x ab
+x  de
+x   c
+1   a
+1 a
+b
+
+b
+1 c c
+1  de
+1   a
+1 a
+b
+1 c c
+1 da
+1  b
+1 a
+b
+1   c
+1a
+#3   e
+xa
+x e
+x c
+#2a
+x e
+b
+0a  c
+1a  c
+1   a
+b
+1   c
+1 a
+1    e
+1a d e
+b
+1 a  c
+1 e  c
+1a bc
+1  bc
+b
+1 cde
+1 cde
+1 ab
+1 ab
+b
+1a  c
+1a
+1 db
+1 d
+b
+
+b
+1 cd
+1a
+#2a  a
+x d
+#3a
+x d
+x c
+x d
+b
+#3   c
+x d
+x c
+x a
+#3 d
+x c
+x a
+x c
+0 d a
+b
+1 a
+1   c
+1 a
+1   a
+b
+1  d
+1    e
+1  bc
+1   a
+b
+1  d e
+1  bc
+1 a
+1   a
+b
+1  d e
+1  bc
+1 a
+1   a
+b
+1  d e
+1  b c
+#2 a  c
+x    e
+x  aa
+x  bc
+b
+
+b
+1  d e
+1 d  c
+#2 d  c
+xa   e
+1c da
+b
+1  bc
+1a   e
+#3  a c
+xa
+x e
+x c
+#3a
+x e
+x c
+x e
+b
+0a  c
+0a  c
+b
+0 abc
+0 abc
+b
+0  dce
+0  dce
+b
+0 aa c
+0 ab c
+b
+0 cd a
+0 cd a
+b
+0 aa c
+0 aa c
+b
+0 a c
+1aa c
+1  a
+b
+0 dff
+0aa c
+b
+1 ab
+1 d
+1 ab
+#2 c
+x d
+b
+
+b
+1aab
+1 d
+1  da
+1 d
+b
+1 abc
+1   c
+1 abc
+#2  aa
+x   cd
+b
+Y da c
+b
+b
+1  b
+1  b
+1  d
+b
+1 ab
+#2  d
+x  b
+1  de
+b
+1 ab
+#3 b
+x a
+x  d
+x  b
+1  def
+b
+1 ab
+2 abc
+#3  d
+x  b
+1  def
+b
+1 abc
+#2  d
+x  b
+1  def
+b
+1 ab
+#3 b
+x a
+x  d
+x  b
+1  def
+b
+
+b
+1 abc
+#2 a
+x c
+#2 dff
+x  de
+b
+1a bc
+1  a c
+1 e
+b
+1a bc
+#3c da
+xa
+xc
+xd
+#2ca  c
+xa
+b
+#2 df
+x cd
+#2 abc
+x  a
+1 a c
+b
+#2 a  c
+x  d
+#2  b
+x  a
+#2 abc
+x  d
+b
+#2 abc
+x  de
+#2a bc
+x  a
+1 da c
+b
+1a bc
+#3c da
+xa
+xc
+xd
+#2c d
+xa b
+b
+
+b
+1a  cd
+#3  a c
+xa
+x e
+x c
+#3a
+x e
+x c
+x e
+b
+Y.a  c a
+b
+b
+
+e

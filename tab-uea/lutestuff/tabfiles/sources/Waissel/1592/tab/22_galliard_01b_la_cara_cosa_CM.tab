@@ -1,0 +1,243 @@
+-C
+-t
+-f
+{22. Galliarda 1b/22. Galliarda 1b}
+b
+1 acc a
+1 acc
+1 acc a
+b
+#2 acc a
+x  a
+#2  c
+x  d
+1 acc a
+b
+#2  d a
+x a
+#2 b
+x  d
+#2 a
+x b
+b
+1 dff d
+1   f
+1 dff d
+b
+1abb d
+#2abb
+x    d
+#2    c
+x    a
+b
+1 dff d
+1    a
+1 dff d
+b
+1 bd a
+#2 bd
+x    c
+#2    d
+x   a
+b
+1 acc a
+1   c
+1 acc a
+b
+
+b
+#2 acc a
+x  a
+#2  c
+x  d
+#2 a
+x  d
+b
+#2 acc a
+x b
+#3 d
+x b
+x a
+x  d
+1 acc a
+b
+#3 bd a
+x a
+x  d
+x  b
+#3  d
+x a
+x b
+x d
+#3a
+x d
+xa
+xc
+b
+2dab  d
+#3c
+xa
+#3 d
+x b
+x a
+x  d
+1 aba d
+b
+1abb d
+1abb
+1abb d
+b
+#2dab  d
+xc
+#2a
+x d
+#2 b
+x a
+b
+
+b
+2 bd a
+#3 d
+x b
+#3 d
+x b
+x a
+x  d
+#3 a
+x  d
+x  c
+x  a
+b
+#3 acc a
+x  a
+x  c
+x  d
+#3 a
+x  d
+x  c
+x  a
+1 acc a
+b
+1 acc a
+1 bd a
+1 da c
+b
+1abb d
+#2    c
+x    a
+1 dff d
+1 dff
+#2    a
+x bd
+x a
+x  d
+b
+1 acc a
+1   c
+1 acc a
+b
+#3 acc a
+x  d
+x a
+x  c
+#3  d
+x a
+x b
+x  d
+#3 a
+x b
+x d
+x a
+b
+
+b
+#3abb d
+x a
+x  d
+x  b
+#3  d
+x a
+x b
+x d
+#3 aba d
+x  d
+x  b
+x  a
+#3  b
+x  d
+x a
+x  b
+2 bd a
+#3b
+xa
+#3 d
+x b
+x a
+x  d
+b
+1 acc a
+1   c
+1 acc a
+b
+1 acc a
+1 bd a
+1 da c
+b
+1abb d
+#2    c
+x    a
+1 dff d
+1 bd a
+#2 acc a
+x  d
+x  d  a
+x  c
+b
+1acd a
+#2   c
+x d
+1acd a
+b
+#3 acc a
+x  c
+x  d
+x a
+#3 bd a
+x  d
+x a
+x b
+#3 da c
+x a
+x b
+x d
+b
+
+b
+#2abb d
+xc
+xd
+xa
+#2c da
+xd
+xf
+xc
+2ea   a
+#3f
+xe
+#3f
+xe
+xc
+xe
+b
+2fcd a
+#3d
+xc
+#3d
+xc
+xa
+x d
+Yacd a
+b
+b
+
+e

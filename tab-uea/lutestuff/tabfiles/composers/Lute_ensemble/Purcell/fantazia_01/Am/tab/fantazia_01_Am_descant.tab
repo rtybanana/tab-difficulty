@@ -1,0 +1,549 @@
+-C
+-t
+-f
+{Fantazia 1/Fantazia 1}
+b
+c
+w
+b
+0
+0    c
+b
+1
+1    a
+1     d
+#2     c
+x     a
+b
+1 a   d
+1    a
+1    c
+1  d
+b
+1  b  a
+#2  a d
+x   c
+#2  b
+x    c
+1  d a
+b
+2 a
+#3     e
+x     c
+1     e
+1   ca
+1a   d
+b
+
+b
+1
+#2 d  c
+x b  a
+0 a c
+b
+1
+1  a
+1  b
+#2 cd
+x a
+b
+1 db
+#2a
+xc
+1 da
+1 c
+b
+#2 a
+x    c
+x    e
+x   b
+1   c
+#2  d
+x  b
+b
+1  a
+2.   a
+3    e
+1   a
+1  c
+b
+#2  d e
+x   b
+x a d
+x c  e
+1  de
+2.  cd
+3   b
+b
+
+b
+2    e
+1  a
+2   d
+0  a
+b
+0c
+1  a
+1a
+b
+1 da
+#2 c c
+x a
+1 d a
+#2a   e
+x    c
+b
+1c  a
+1   c
+0  a
+b
+1h
+#2   c
+x   a
+1  b
+1  a
+b
+#2
+x   c
+1   c
+1f
+1   b
+b
+0d  c
+1c
+1a
+b
+
+b
+0d
+1f
+#2   d
+x   c
+b
+1h  a
+#2   c
+x   d
+1   c
+1   a
+b
+1a   d
+1    c
+1a   a
+1    c
+b
+1    d
+#2 e
+x c
+1 e  c
+1    a
+b
+#2a    d
+x     d
+x    a
+x    c
+#2a   d
+xa
+xc
+xe
+b
+
+b
+#2f
+x   a
+x    d
+x    c
+#2    a
+xi
+xh  a
+xf   d
+b
+#2e   c
+x   c
+x   a
+xc   d
+#2a   c
+xl
+xk
+xh
+b
+1.g a
+2h
+0k
+b
+0. h
+1a
+b
+1 d
+#2 c
+x a
+1 c
+1 e
+b
+1a  c
+#2 d
+x c
+0 a
+b
+0.c  a
+1e
+b
+
+b
+1f   e
+#2d
+xc
+1d   c
+1f
+b
+0.h  a
+1f
+b
+0d  c
+1a
+1f
+b
+#2  a
+xd
+xc
+xa
+#2c
+x d
+xa
+xc
+b
+1d
+#2   c
+x   b
+1   c
+#2c
+xa
+b
+0.c
+#2   a
+x    e
+b
+
+b
+#2   a
+x    c
+xa   e
+x d a
+#2a   e
+x c
+x d
+xa
+b
+1 d
+#2    c
+x    b
+#2    c
+x     e
+x c  b
+x a  c
+b
+#2 c  b
+x  e  e
+x a   c
+x c
+0 aa
+b
+1  a
+#2  e
+x  c
+0  e
+b
+1
+1c  a
+0c  a
+b
+1f a
+2.f a
+3f a
+1.g  c
+2g  c
+b
+
+b
+1g   g
+2.g   g
+3g   g
+1. d d
+2 d d
+b
+1b   b
+2.b   b
+3b   b
+1  e b
+1 e  d
+b
+1    a
+2. c  b
+3 b
+1 b
+#2    a
+x  e
+b
+1  e b
+1c   e
+1   b
+2.c
+3e
+b
+1b    e
+0a   e
+2. e  c
+3 c  b
+b
+1 b   e
+0 a   e
+2.  e b
+3    c
+b
+
+b
+1  c e
+#2f
+x    e
+1    c
+2.f
+3e
+b
+1e  c
+0g
+2.h  b
+3k
+b
+1d   e
+2.e  b
+3g  d
+1.g b
+2e c
+b
+1.e c
+2c e
+2.ba
+3  e
+2.c c
+3e
+b
+1 d
+2. ee
+3ba
+1.b  a
+2 e b
+b
+1 e b
+2.b
+3c
+1  c
+2.  db
+3   b
+b
+
+b
+1  d e
+2. a
+3 c
+1.  c c
+2  a e
+b
+Y  a b
+b
+0c
+1 c
+1 d
+b
+1 c
+#2    e
+x   b
+#2   d
+x    e
+1  a
+b
+1 a
+#2   c
+x c
+1  e
+1  aa
+b
+1    e
+#2 a  c
+x c
+#2 e
+x a
+1a
+b
+1  a
+1 e
+1a   c
+1    d
+b
+
+b
+1 a  c
+1 b  a
+0 a a
+b
+#2  d e
+x   a
+x    e
+x    c
+1    a
+#2f
+x    a
+b
+1a   c
+1d   a
+1c d
+#2ca
+xe
+b
+#2g   e
+xc
+1h  a
+1    e
+1g
+b
+1h   c
+#2     a
+xf    c
+#2d    d
+x     a
+1c   c
+b
+
+b
+#2    c
+x a
+xa   b
+x    c
+#2    e
+x     c
+1 da
+b
+1 c
+#2   c
+x   a
+#2    e
+x   b
+1   c
+b
+0 a b
+0
+b
+0
+1.
+2 c
+b
+#3 d
+xa
+2c
+#2 c
+xe
+#3f
+xh
+2k
+#2e
+xf
+b
+#2
+xd
+1.c
+2a
+#2 d
+x c
+b
+
+b
+#3 d
+xa
+2c
+#2 a
+xh
+#3e
+xf
+2h
+#2a
+xd
+b
+#2
+xc   a
+#3    e
+x   a
+2a  c
+#2    a
+x dd
+#3 da
+x  b
+x  d
+x c
+b
+1 a a
+#3
+x c
+2 db
+#2 c
+x  de
+xf
+xd  c
+b
+#2c
+x   a
+xa
+x    e
+#2 d a
+x cd
+#3 db
+xa
+2c a
+b
+
+b
+2 a c
+#3da
+x  d
+#3a b
+xc d
+2da
+#2 ca
+x  a
+xc  c
+x   a
+b
+#2    e
+xa
+2 d  c
+#3c
+xe
+#3g   e
+xh
+2k
+#2 h
+xa   e
+b
+#2   a
+x d
+1 c c
+2 aa
+1h
+2f
+b
+#2d   c
+xc
+xaa
+x dd
+#2 cb
+x da
+x c c
+x a
+b
+1  e
+1 a a
+1    e
+1  e
+b
+Y a  c
+b
+b
+
+e

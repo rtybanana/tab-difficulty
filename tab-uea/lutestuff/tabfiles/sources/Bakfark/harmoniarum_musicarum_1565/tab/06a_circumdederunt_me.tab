@@ -1,0 +1,692 @@
+-C
+-t
+-f
+{7. Circumdederunt me viri mendaces/Valentin Bakfark}
+b
+c
+0   c
+1a  c
+1   c
+b
+1a bc
+#2a
+x  d
+1da c
+1 b c
+b
+1dab
+1c
+1aab
+1 dde
+b
+1 bbc
+1 a a
+2.  bcd
+#4  a
+x  b
+#2  de
+x   c
+b
+1. aaac
+2    a
+1   ccd
+1a    a
+b
+1c  ac
+1ca
+1da c
+#2 a
+xc
+b
+
+b
+1ac c
+#2  fc
+x d
+2. c e
+#4  e
+x  c
+#3  fe
+x  e
+#4  f
+x  e
+x  c
+x  e
+b
+#3 ab
+x  a
+x  b
+x  d
+#2d b
+x  a
+1  bc
+1c da
+b
+#2    d
+x  b
+1a  c
+2  fec
+#3 d
+x c
+1 df
+b
+2 c e
+#3  e
+x  c
+#3c f
+x  e
+#4  f
+x  e
+x  c
+x  e
+1  ffc
+1a
+b
+2.  fec
+3 e
+#3 f  c
+x e
+#4 f
+x e
+x c
+x e
+1a  cd
+1  b
+b
+
+b
+1  dcd
+1 a  c
+1 b ca
+1 a   d
+b
+#2  de c
+x   f
+x  a c
+x   c
+1  bac
+1a  c d
+b
+2.c a a
+3   b
+#3c  cc
+x   b
+#4   c
+x   b
+x    e
+x   b
+#2d  c a
+x  a
+x  bc
+xc d
+b
+#2aa c
+x d
+x cbc
+x a
+#2 cde
+x   c
+x daa
+x    e
+b
+#2    c
+x c
+x a a
+x    f
+2   ce
+#3  e
+x  c
+#2  e
+x   e
+b
+
+b
+1 abac
+1  a
+1  bc
+#2d  c
+x  d
+b
+1dabc
+1dc c
+#2cdda
+xa
+x d a
+x c
+b
+#2 ab  d
+x  d
+x abc
+x c
+#2 dfef
+xa
+1c  ac
+b
+1  dcd
+1a
+1  fec
+#2 d
+x   c
+b
+1 aaac
+1 c  ef
+1  ba d
+1 a c a
+b
+2.   eec
+#4  e
+x  c
+#3 a
+x  e
+#4 a
+x  e
+x  c
+x  e
+1 a ccd
+1  b  a
+b
+
+b
+1 aaac
+1  b
+#2 a c
+x   c
+1a
+b
+1  fec
+1 d
+1 cd e
+1a   a
+b
+#2 abc
+x d
+x a
+x  b
+1 cde
+1 dfa
+b
+1a bcd
+1da  c
+#2   cd
+xc b
+1a d
+b
+2.  fec
+3 e
+#3 f
+x e
+#4 f
+x e
+x c
+x e
+1a bc a
+1 b  a
+b
+1 a c d
+1a d a
+#2  bc a
+xc
+xd  c
+xa
+b
+1c fa
+1df c
+#2  d e
+xa
+1fc e
+b
+
+b
+1cdfa
+1da c
+#2ac c
+x  b
+1  d e
+b
+#2ca a
+x  a
+2a cc
+#4  d
+x  c
+x  a
+x  c
+1  d a
+1 d ef
+b
+1a dce
+1 d ef
+#2  f c
+x   a
+1 abc
+b
+#2a d e
+x   c
+1 d ef
+#2  b  d
+x c
+x dff
+xa
+b
+#2cca
+xd
+1cd a
+2 abc
+#3a
+x d
+#2a
+x   a
+b
+1 d ec
+1c f
+1ccde
+1cd
+b
+
+b
+1a ff
+#2 d f
+xa f
+#2ccde
+xd
+1cd a
+b
+2 abc
+#3a
+xc
+#2a
+x   a
+1c fec
+#2 dd f
+xa  f
+b
+#2c da
+x d
+xda  d
+x    c
+2   cd
+#3c
+xd
+#2c d
+xa
+b
+#3 dfec
+x c
+x  f
+x  d
+#3  f
+x c
+x d
+x f
+2. db  d
+#4 c
+x d
+1aa
+b
+#2cdf
+x d
+xd
+x  f
+#2 cd
+xc
+1cdf
+b
+
+b
+2. ab
+#4a
+x d
+#3c  c
+xa
+#4c
+xa
+x d
+xa
+#3c a
+xa
+xc
+xd
+2ca a
+#3a
+x d
+b
+2. c c
+#4  e
+x  c
+#3  fe
+x  e
+#4  f
+x  e
+x  c
+x  e
+#2 ab
+x  a
+xab c
+x   a
+b
+1  d d
+1 ef c
+1a   d
+1c da
+b
+1da a d
+#2 d
+xc
+1ac c
+1 df
+b
+2. ca
+3  e
+#3  f
+x  e
+#4  f
+x  e
+x  c
+x  e
+1  fec
+1 d
+b
+1  b c
+1cc  a
+1 db c
+1ac  e
+b
+
+b
+#2c def
+xa
+x df c
+x c
+#3 abc
+x  a
+x  b
+x  d
+#2 ab
+x   a
+b
+2   ce
+#3  e
+x  c
+#3a f
+x  e
+#4  f
+x  e
+x  c
+x  e
+1 ef c
+1ac  a
+b
+#2cd a
+x c
+xda c
+x  d
+#2  b
+xc  a
+xa d d
+x d  c
+b
+1 b ca
+1 a   d
+2  bcd
+#4  d
+x  b
+x  a
+x  b
+#2  de
+x   c
+b
+0 aaac
+1 a  c
+1  a c
+b
+1 a a
+1   ac
+1 ab cd
+1  b  a
+b
+
+b
+1  aac
+#2c
+x   c
+1  aa
+1 d  c
+b
+1d  a
+1c   c
+1a  c d
+1aa   a
+b
+2a a c
+#3 e
+x c
+#3aa
+x e
+#4a
+x e
+x c
+x e
+1a bc
+#2   c
+x d
+b
+2 cd
+#3 a
+x c
+1 d a
+1 abc
+#2d
+x   a
+b
+1a d e
+1c da
+#2   ac
+xa
+1 dc
+b
+
+b
+2  dca
+#3 c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+1 daa
+1 d
+b
+2a  c
+#3 c
+x a
+#3dd
+x c
+#4 d
+x c
+x a
+x c
+#2cd a
+xac
+x dfa
+x cd
+b
+#3 abc
+x  a
+x  b
+x  d
+1 abc
+#2 cde
+x   c
+x daa
+x    e
+b
+#2   ac
+x b
+1 ab
+2   cd
+#3  a
+x  b
+#2  de
+x   c
+b
+1 abac
+1dd   d
+2 dda
+#3c
+xa
+#3c
+xd
+2c
+b
+
+b
+1 dff
+#2a
+x c
+1cdf
+1 d f
+b
+1a d
+1c  e
+#2  fa
+x d
+1df c
+b
+1 cde
+1cd a
+1  b c
+1ac  e
+b
+1  def
+1 df c
+1   c d
+1 cd a
+b
+1 daac
+1  f  d
+1   ef
+#2f d
+x    e
+b
+#2h  a h
+x  a
+1l  g
+#2k  hhf
+xh
+xf  h
+x i
+b
+1ca
+1hd a
+#2    h
+x  h
+1fca
+b
+
+b
+1c  ac
+#2da
+x   a
+2   cd
+#3c
+xd
+#2c d
+xa
+b
+1 dffc
+1 a f
+1 cde
+1 d a
+b
+1 abc
+1d  c
+1ca a
+1 db c
+b
+1a d d
+1c  ef
+1 ab  d
+#2a
+x    a
+b
+2  a c
+#3 e
+x c
+#3aa
+x e
+#4a
+x e
+x c
+x e
+1a b  a
+1hf
+b
+
+b
+#3f a
+xd
+xc
+xa
+#3cd
+xd
+xf
+xc
+#3d  c
+xc
+xa
+xc
+#3dc
+xa
+xc
+xd
+b
+#2cd a
+xac
+x df
+x cd
+#2 abc
+x  d
+xda c
+x  b
+b
+1c def
+1 df c
+1acd e
+1c da
+b
+1 ab  d
+#2a
+x    a
+2.  fec
+3 e
+#3 f
+x e
+x c
+x e
+b
+1a b  a
+1da c
+#2  b
+xc  a
+xa d d
+x d  c
+b
+1 b ca
+1 a   e
+#2 b ca
+x  d
+1  d
+b
+
+b
+2 a c a
+#3  c
+x  d
+#2  c
+x  a
+Y acc a
+b
+b
+
+e

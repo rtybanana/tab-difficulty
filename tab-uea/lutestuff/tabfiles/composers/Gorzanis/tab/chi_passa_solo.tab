@@ -1,0 +1,155 @@
+-C
+-t
+-f
+{Padoana/Padoana}
+b
+2ca bc
+b
+1ca bc
+#2ca b
+x    c
+#2ca b
+x   c
+b
+2.ca bc
+3   c
+2  a
+#2   b
+x   c
+x  a
+b
+#2aab  a
+x  d  c
+#2 a   d
+x c  a
+#2aaa c
+x e
+b
+#2aac  a
+x   c
+xaac
+#2     a
+xaac
+x   c
+b
+#2ca bc
+xca bc
+xca bc
+1ca bc
+2d
+b
+#2ca bc
+xa
+xc
+#2 e
+xa
+xc
+b
+
+b
+2.dab  a
+3c
+2a
+2.ca bc
+3   c
+2ca bc
+b
+#2aa c a
+x  a
+x  b
+#2  d
+x a
+x c
+b
+1cdda
+2cdd
+#2   a
+xcdd
+x   c
+b
+#2cdda
+xd
+xcdda
+#2a   d
+x d  c
+x b  a
+b
+1da a d
+2da a d
+#2cd a
+xa d e
+x dc c
+b
+2.acd a
+3 a
+2acd a
+#2 ea c
+xa
+xc
+b
+#2dab  a
+xc
+#2abd a
+x  b
+#2aaa c
+x e
+b
+
+b
+2.aa c a
+3  a
+2  b
+#2  d
+x a
+x c
+b
+1cdda
+2cdd
+#2   a
+xcdd
+x   c
+b
+2cdda
+#3f
+xd
+xc
+xa
+#3 d
+x b
+x a
+x  d
+x  b
+x  a
+b
+1dab  d
+2dab  d
+#2cdda
+xa d e
+x dc c
+b
+2.acd a
+3 a
+2acd a
+#2 ea c
+xa
+xc
+b
+#2dab  a
+xc
+#2abd a
+x  b
+#2aaa c
+x e
+b
+
+b
+2aac  a
+#3 d
+x c
+#3 a
+x  d
+1.aac  a
+b
+b
+
+e

@@ -1,0 +1,257 @@
+-C
+-t
+-f
+{Villancico/Villancico}
+b
+0 bbcd
+b
+0 dba d
+b
+0abb d
+b
+0 bdca
+b
+1 dedb
+1 bbcd
+b
+1  ba d
+1 a
+b
+w bbcd
+b
+0dfg d
+b
+1dfg d
+1fg d
+b
+0fggd
+b
+0dfg d
+b
+0bdda
+b
+0abb d
+b
+1 dedb
+1 bbcd
+b
+1  ba d
+1 a
+b
+w bb d
+b
+b
+0abb d
+b
+0cdda
+b
+
+b
+0ddf  d
+b
+1fb d
+1dbbc
+b
+1 dda
+1c
+b
+wdab  d
+b
+0 dff d
+b
+0abb d
+b
+0bbd  b
+b
+0abb d
+b
+1 dedb
+1 bbcd
+b
+1  ba d
+1 a
+b
+x bb d
+b
+b
+
+{Villancico/Villancico}
+b
+#2 bb d
+x   a
+x bbc
+x    d
+b
+#2 dba d
+x    a
+x db c
+x     d
+b
+#3ab  d
+x d
+xa
+xb
+#3d
+xf
+2d
+b
+#3 b cd
+x   a
+x   c
+x   d
+#3  b
+x  d
+2  b
+b
+1 dedb
+1 bbcd
+b
+1  ba d
+1 a
+b
+w bbcd
+b
+
+b
+#3df  d
+x   f
+x  d
+x  f
+#3  g
+x d
+x f
+x g
+b
+1df  d
+1ddff
+b
+#3fg d
+x   f
+x  d
+x  f
+#3  g
+x d
+x f
+x g
+b
+#3df  d
+x g
+x f
+x d
+#3  g
+x  f
+x  d
+x  b
+b
+#3bd a
+x   c
+x   d
+x  b
+#3  d
+x  e
+2  d
+b
+#3ab  d
+x   a
+x   c
+x  a
+#3  b
+x  d
+2  b
+b
+1 dedb
+1 bbcd
+b
+
+b
+1  ba d
+1 a
+b
+w bb d
+b
+b
+#3ab  d
+x  b
+x  d
+x a
+#3 b
+x d
+2 b
+b
+#3c  a
+x  d
+x a
+x c
+#3 d
+x f
+2 d
+b
+#3da   d
+x b
+x a
+x  d
+#3  b
+x  a
+x   c
+x   a
+b
+1fb d
+1dbbc
+b
+1 dda
+1c
+b
+2ddb  d
+#3 b
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+
+b
+#3   a
+x    d
+x    c
+x    a
+1     d
+b
+2ddff
+#3b
+xa
+#3 d
+x b
+x a
+x  d
+b
+#3a b d
+x   c
+x  a
+x  b
+#3  d
+x a
+2 b
+b
+#3b d  b
+x    d
+x   a
+x   c
+#3   d
+x  b
+2  d
+b
+1abb d
+1  d
+b
+1 dedb
+1 bbcd
+b
+1  ba d
+1 a
+b
+x bb d
+b
+b
+
+e

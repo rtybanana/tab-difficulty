@@ -1,0 +1,485 @@
+-C
+-t
+-f
+{317. Allemande/Francis Cutting}
+b
+c
+0acd a
+1acd a
+1aac  a
+b
+1. cd a
+2 a
+1  d
+1f
+b
+1 daa
+1a   e
+1cd  c
+1fc  a
+b
+1ea c
+1 a
+1  c
+1   c
+b
+1  d e
+1f   a
+1c  a
+1 da c
+b
+1 ac
+1   c
+1a   e
+1 cd a
+b
+#2 a a
+x   c
+1  de
+1 adc
+1  c
+b
+1  dca
+1   c
+0    a
+b
+b
+
+b
+2acd a
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+#3 c  a
+x a
+x c
+x d
+#3 c
+x a
+x  d
+x  c
+2  d
+#3c
+xd
+#3f
+xd
+xc
+xa
+b
+#3 d a
+x a
+x c
+x d
+#2a
+x    e
+#2c   c
+xe
+xfc  a
+x e
+b
+2eff  a
+#3  c
+x  d
+#2 a
+x  d
+2  c
+#3    e
+x   a
+#2   c
+x   a
+b
+
+b
+2    e
+#3c
+xd
+#2f   a
+xd
+2c  a
+#3 a
+x c
+#2 d  c
+x c
+b
+2 ac
+#3    e
+x   a
+#2   c
+x   a
+2a   e
+#3 c
+x d
+#3a   a
+xc
+xd
+xa
+b
+#3c  a
+xa
+xc
+xe
+#3f a
+xc
+xe
+xf
+#3e    a
+x h
+xe
+xf
+#3h
+xf
+xh
+xe
+b
+2f   a
+#3d
+xc
+#3a
+x d
+x c
+x a
+0  dca
+b
+b
+
+b
+1 acc
+#2 a
+x a
+1 ac  a
+1h
+b
+1ea c
+1a
+1     a
+1 c  a
+b
+1 a c e
+1a
+1c d  c
+1   b
+b
+1ea c
+1     a
+1 c  a
+1a d
+b
+1f  e
+1 c   c
+1 e  c
+1c f
+b
+1h  g
+1 e   e
+1a   e
+1fc  a
+b
+1ce  c
+1h  g
+#2   e
+xh
+1g
+b
+0haa  h
+0haa
+b
+b
+
+b
+2 acc
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+2a
+#3e
+xf
+#3h
+xf
+xe
+x h
+b
+2ea   a
+#3c
+xa
+#3 d
+x c
+x a
+x  d
+2  c  a
+#3  d
+x a
+#3 c  a
+x  d
+x a
+x c
+b
+2 a   e
+#3 c
+x e
+#3a
+x c
+x e
+xa
+#3c    c
+x f
+xc
+xe
+#3f
+xe
+xf
+xc
+b
+1ea c
+1     a
+2 c  a
+#3 d
+xa
+#3c
+xa
+xc
+xe
+b
+
+b
+1f  e
+1 c   c
+2 e  c
+#3 f
+xc
+#3e
+xc
+xe
+xf
+b
+1h  g
+1 e   e
+2a   e
+#3c
+xe
+#2f   a
+xe
+b
+1ce  c
+#3a    e
+xc
+xe
+xa
+#3c    c
+xe
+xf
+xe
+#3c
+x f
+x e
+x c
+b
+#3 e  c
+x c
+x  f
+x  e
+#3  f
+x c
+x e
+x f
+0 efec
+b
+b
+1cdda
+#2c
+xc
+1cdda
+1f
+b
+
+b
+1 da
+#2   a
+xa
+1c   c
+1 d
+b
+1 ccc
+1 aaa
+1a   e
+1  e
+b
+1 ef c
+#2c
+x    a
+1ha   e
+#2 c  a
+xf
+b
+#2ea   a
+xc
+xa  c
+x d
+#2 cd
+x a
+1f de
+b
+#2   f
+xd
+1acd
+1cd a
+#2  d
+x c
+b
+1 acc
+#2 cde
+x e
+1aa c
+#2  c
+x d
+b
+#2    a
+x cd
+x   c
+x d
+0 cdca
+b
+b
+
+b
+2cdda
+#3 a
+x c
+#3 d
+x c
+x d
+xa
+#3c
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+b
+#3c  a
+xa
+xc
+xd
+#2c
+xa
+#3 d  c
+x c
+x d
+xa
+#3 d
+x a
+x c
+x d
+b
+2 c c
+#3 d
+x c
+2 a a
+#3 c
+x d
+2a   e
+#3   c
+x  a
+#3  c
+x  d
+x a
+x c
+b
+
+b
+#3 e  c
+x c
+x e
+x f
+2c
+#3e   a
+xf
+2ha   e
+#3a
+x d
+2 c  a
+#3h
+xf
+b
+#3e    a
+xc
+xa
+x d
+#3a  c
+x d
+x c
+x a
+2 cd
+#3c
+xd
+#3f a
+x d
+xa
+xc
+b
+#3a b
+xc
+xd
+xc
+#3a d
+x d
+xa
+x c
+2 d a
+#3f
+xd
+#3c
+xa
+x d
+x c
+b
+
+b
+2 a c
+#3a
+x d
+#3 c e{
+x a
+x c
+x e   }
+#3a  c
+x  d
+x  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+2  dca
+#3  a
+x  c
+#3  d
+x a
+#4 c
+x a
+x c
+x d
+Y cdca
+b
+b
+
+e

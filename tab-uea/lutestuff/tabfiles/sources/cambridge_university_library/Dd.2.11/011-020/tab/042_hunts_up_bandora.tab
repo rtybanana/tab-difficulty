@@ -1,0 +1,91 @@
+-C
+-t
+-f
+{42. The hunt's up/Anonymous}
+b
+c
+0daa  a
+1      a
+1cdc
+b
+1     a
+1da
+1  a
+1     a
+b
+1daa  a
+2 b
+2 a
+1      a
+1cdc
+b
+1     a
+1da
+1  a
+1     a
+b
+1.abc a
+2ab
+1  c
+1    a
+b
+1aa c
+1    d
+1   a
+1   c
+b
+1    a
+1ac
+1  c
+1    a
+b
+0acc a
+0acc
+.
+b
+b
+
+b
+.
+1.ab  d
+2ab
+1  a
+1    d
+b
+1ab  d
+1   a
+1   c
+1   e
+b
+1     a
+1da
+1  a
+1     a
+b
+1daa  a
+1    a
+1    c
+1    d
+b
+1cdca
+1      a
+1db c
+1 a
+b
+1      a
+1ddc
+1c
+1 b
+b
+1     a
+1da
+1  a
+1     a
+b
+0daa  a
+Ydaa
+.
+b
+b
+
+e

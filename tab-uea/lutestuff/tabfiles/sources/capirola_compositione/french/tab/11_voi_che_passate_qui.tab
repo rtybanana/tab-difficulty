@@ -1,0 +1,177 @@
+-C
+-t
+-f
+{11. Voi chi passate qui/11. Voi chi passate qui}
+b
+c
+#2 a
+x b
+x d
+x b
+#2 d
+x b
+x d
+x a
+b
+1 bb d
+1    c
+1    d
+1   a
+b
+1   c
+1   d
+1  b
+1  d
+b
+wabb d
+b
+0abb d
+0abb d
+b
+1abb d
+#2 a
+x b
+#2 d
+xa
+xc
+xd
+b
+#2f
+xd
+xc
+xa
+#2 d
+x b
+x a
+x  d
+b
+
+b
+1abb d
+1 a
+1 b
+1 d
+b
+1a
+1c
+1d
+1f
+b
+0df  d
+1h
+1f
+b
+1d   d
+1 g
+1 f
+1 d
+b
+1df  d
+1 d
+1 f
+1 g
+b
+0df  d
+0bd
+b
+1ab  d
+1 df
+1ab
+1bd
+b
+1df
+1bd
+1ab
+1 df
+b
+0 bd  b
+1b
+1a
+b
+1 d d
+1    b
+1 b  a
+1  a
+b
+
+b
+1 ab  d
+#2c
+xd
+#2f
+xd
+xc
+xa
+b
+#2c
+xa
+x d
+x b
+#2 d
+x b
+x a
+x  d
+b
+0  b
+0  d
+0 a
+b
+0 b  d
+0   a
+0   c
+b
+0 bdd
+0 df
+0ab
+b
+1bd a
+1   d
+0  bc
+0  dd
+b
+0 dff
+0ab
+0bd
+b
+0d bc
+0  dd
+0 ab
+b
+0abd
+0bd
+0df
+b
+
+b
+1fb d
+1   a
+0d bc
+1b da
+1 a
+b
+0abb d
+0.ddf  d
+1b d
+b
+0a b d
+0 db c
+1 b ca
+1  a
+b
+0 ab  d
+1 d
+1    a
+1    c
+1 b
+b
+1 a  d
+1  d
+1 a a d
+0 b
+1 a
+b
+Y. bb d
+b
+b
+
+e

@@ -1,0 +1,98 @@
+-C
+-t
+-f
+{Venga quel bel narciso/Venga quel bel narciso}
+b
+c
+0 bd a
+1 abc
+1 bdd
+b
+1 dff
+1ab  d
+1 dff
+1 abc
+b
+1 bdd
+1 dda
+1 a c
+1  c
+b
+0  d a
+.
+b
+b
+1
+1ab  d
+1ab  d
+1ab  d
+b
+1 dff
+#2a  c
+x c
+1cd a
+1da c
+#2f  e
+x e
+x f c
+xd
+1c f
+1 e
+b
+1a  c
+1a
+#2a
+x d
+x bd
+x a
+b
+
+b
+.
+#2 bd
+x  b
+xf a
+x   c
+#2f  a
+xd
+xcd
+xa
+b
+#2cd
+x b
+x ab
+x  d
+#2 ab
+x  a
+xd  c
+x   a
+b
+#2d   d
+xc
+xa
+x d
+1ab
+1ab  d
+b
+1 dfa
+#2  dd
+x b
+1 a c
+1  c
+b
+A1
+1  d a
+1a
+#2a
+x d
+x bd
+x a
+.
+b
+b
+A2
+w  d a
+b
+b
+
+e

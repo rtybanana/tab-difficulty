@@ -1,0 +1,111 @@
+-C
+-t
+-f
+{155. Rosette, pour un peu d'absence/155. Rosette, pour un peu d'absence}
+b
+c
+0
+0aabc
+b
+0a ff
+0 cee c
+b
+0 dfec
+1cc  b
+1 dfec
+b
+0ccee c
+0 efec
+b
+1
+1df c
+1cef c
+1dfg d
+b
+0fhaa
+1da c
+1cdf c
+b
+0cce  c
+0 efec
+b
+1
+1cdf c
+1ccee
+1ddff
+b
+0cdda
+1 cdca
+1 db c
+b
+0 ca b
+0 efec
+b
+
+b
+1
+1aabc
+1 aabc
+1 bbcd
+b
+0ddf  d
+0abb d
+b
+0abd a
+0 efec
+b
+1. abc a
+2  a
+1 abc a
+b
+0 aabc
+1cef c
+b
+1aabc
+0 ea c
+1aab
+0     a
+b
+1
+1ddf  d
+1cdda
+1 dfec
+b
+0dabc
+1 abc a
+b
+0 da c
+1 bbcd
+b
+0 efec
+b
+1da c
+1     a
+1cdf c
+b
+
+b
+0ccde
+1ddff
+b
+1.cdda
+2d
+1aabc
+1 efec
+0 acc a
+b
+1. da c
+2 bbcd
+1dab  d
+b
+0cdda
+1abb d
+b
+1abd a
+1 ea c
+b
+Yaacc a
+b
+b
+
+e

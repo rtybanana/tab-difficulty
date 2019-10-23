@@ -1,0 +1,450 @@
+-C
+-t
+-f
+{50. Fantasy 16/G.B. dalla Gostena}
+b
+c
+w a
+b
+0  c
+0 c
+b
+0 a
+0   c
+b
+0  d e
+0   e
+b
+0  cc
+0 c
+b
+0   a
+0 a
+b
+1ac  e
+1 a
+1  d
+1  c c
+b
+1 cd a
+1     e
+0c    c
+b
+1a c e
+1   a
+1   c
+1    e
+b
+1 daa
+1  cc
+1  de
+1  fg
+b
+0 cd
+0c
+b
+
+b
+1 ac
+1a
+0a
+b
+0  fec
+0 e
+b
+0a  c e
+0   ce
+b
+1  a c
+1   c
+1 da
+1  c
+b
+0 cd a
+0fc   c
+b
+1cd  c
+1    e
+1hdaa
+1   c
+b
+1fcde
+1 ac
+1 cd
+1 df
+b
+1efh
+#2  f
+x  d
+1  c
+1  d
+b
+1cdf
+#2  d
+x  c
+1  a
+1  c
+b
+0acd
+0f
+b
+0 ffc
+0e
+b
+
+b
+0ffd e
+0  de
+b
+1ea c
+1  d
+1 a
+1 c
+b
+1cd a
+#2 c
+x a
+1  d
+1 a
+b
+0ac  e
+0  d
+b
+0 daa
+0  f
+b
+0 c c
+0  d
+b
+0 a
+1  c
+1 c
+b
+1 da
+1 c
+1c
+1  c
+b
+1  d
+1 f
+1h f
+1 e
+b
+0efh
+1k
+#2  f
+x   h
+b
+
+b
+1hf g
+1   h
+1 df
+1  c
+b
+1fcd
+1 a
+1 c
+1 e
+b
+1ef
+1   c
+1cda
+1  c
+b
+1 cd
+1a
+0aac
+b
+0 aa c
+1 d a
+1 c
+b
+0 a c e
+0  dce
+b
+0   ac
+0  c
+b
+0  a ef
+1   c
+1    ce
+b
+0    ef
+0 a bc
+b
+0  cc a
+0 cd
+b
+0 a c
+1  c
+1   c
+b
+0  d e
+0   e
+b
+
+b
+0  cc
+1a
+#2  de
+x ac
+b
+0 cd
+0cdf
+b
+0afh
+1f
+#2  f
+x  d
+b
+0cdf
+0ha g
+b
+0fcd
+0effc
+b
+0f d e
+0 e e
+b
+0effc
+0cdf
+b
+1 ac
+1a
+0afh
+b
+1c f
+1 d
+1 d
+#2 c
+x a
+b
+1 cd
+1a
+1aac
+#2  a
+x   c
+b
+1 dde
+1 c
+0 c ca
+b
+
+b
+0  d  c
+0 aaac
+b
+1 cdca
+1    c
+1a c e
+1  aa
+b
+1 ccc
+1  de
+#2cd a
+x   c
+x  a
+x  c
+b
+1acd
+1  f
+1ffh
+1   h
+b
+1 hi
+1  h
+#2hhf
+x  h
+x  i
+x f
+b
+#2fh
+x f
+x  i
+x  h
+#2h f
+x   h
+x   g
+x   e
+b
+#2e  c
+x  a
+x  c
+x  d
+#2c f
+x c
+x d
+x a
+b
+
+b
+1ac
+1  d
+1 da
+1 af
+b
+1 cd
+1c
+1 ac
+1a
+b
+1  de
+1 e
+1aacc
+1 cd a
+b
+1 d   c
+1  a c
+1 cd a
+1   c
+b
+1    e
+1   e c
+1 a   e
+#2   c
+x    a
+b
+1    c
+1 a b
+1  cce
+#2 cd
+x   a
+b
+1 a c
+1a c
+1 cde
+#2c
+x ac
+b
+#2acd
+x  c
+xf a
+x   c
+#2cd a
+x    e
+xh    h
+x    e
+b
+
+b
+#2f aa
+x   c
+x   e
+x   a
+#2e cc
+x   a
+xa   e
+x    c
+b
+#2 cd a
+x     e
+xc    c
+x a   e
+#2ac  a
+x    c
+x    e
+x    a
+b
+#2 da c
+x    e
+x   a
+x  cc
+#2 cde
+x  c
+1  d
+b
+1 a
+1a c
+1 cd
+1c
+b
+1 ac
+#2a
+x cd
+1  de
+1fe
+b
+1ef c
+1hf
+1f h
+1 h
+b
+1ef
+1cef
+1afc
+#2 fh
+xc
+b
+
+b
+1edf
+#2c
+x cd
+1 ac
+1acd
+b
+1  fec
+1 e
+1a  c e
+1   ce
+b
+#2 da c
+x   c
+x  a
+x  c
+#2 cd a
+x   c
+1   e
+b
+#2     e
+x   c
+x   c
+x    a
+1     c
+1  db
+b
+1  cc a
+1aa
+1 cd
+#2c
+x  f
+b
+#2ac
+x  d
+xfc
+x e
+1ef
+#2cdf
+x c
+b
+1ha g
+1ffh
+1 df
+1e
+b
+
+b
+1kf h
+1h  g
+1 hhe
+1fhia
+b
+1 ffc
+1e
+#2ccd a
+xa
+xa
+x  c
+b
+1  fec
+#2 e c
+x c
+1 f e
+1 e
+b
+Yaacc a
+b
+b
+
+e

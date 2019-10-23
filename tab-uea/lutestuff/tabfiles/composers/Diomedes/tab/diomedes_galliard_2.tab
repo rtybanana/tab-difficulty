@@ -1,0 +1,172 @@
+-t
+-f
+{Galliard 2/Galliard 2}
+b
+1 aabc
+b
+1. aabc
+2  a
+#2  c
+x  e
+#2 a
+x ce
+#2 ef
+x      /a
+#2 ce
+x ac
+b
+2 cee
+#3  e
+x a
+#2 c
+x   c
+1ca b
+2ac  e
+#3  e
+x  c
+#3  e
+x a
+x c
+x  e
+b
+
+b
+2. ea c
+3a
+#2c
+x    a
+#2a    e
+x     c
+1ea c a
+#2   c
+xc
+1a
+b
+1cce  c
+#2     a
+x      /e
+#2  c   /c
+x  e
+1  f   /a
+2ccf  c
+#3  e
+x  c
+#2  e
+x f
+b
+1cef c
+1   e
+b
+b
+#2c
+xa
+1 ef
+#2 c
+x e
+#2a c
+x e
+b
+1 cee
+#2 a
+x c
+#2 e  c
+x c
+1 acc
+1  ab
+1a e e
+b
+
+b
+1 e  c
+#2a
+xc
+1 ca b
+1 a d e
+#2 c
+x a
+b
+1 cee c
+#2  c
+x  e
+1  c  b
+1ccd  c
+#2 ghge
+x h e
+#2 h ge
+x g
+b
+1.cce  c
+2cce
+#2   e
+x  f
+1cce  c
+1   e
+#2e
+xg
+b
+#2h  e
+xg
+#2eg
+x  h
+#2g e
+xe
+1cef
+#2  c
+xc
+#2b
+x a
+b
+
+b
+#2cce
+x  c
+#2  e
+x   e
+#2 fc
+x  e
+1cef
+#2 cee
+x   c
+1ca b
+b
+2.aacc
+3c
+#2e
+x     c
+#2     e
+xe
+#2cca b
+xc
+1 ea c
+#2 c  b
+x a   e
+b
+#2 cee c
+x  f
+#2 c
+x   c
+#2   b
+x aa
+#2    e
+x    c
+2ccf  c
+#3  e
+x  c
+#2  e
+x f
+b
+
+b
+1cef
+1      /a
+#2    c
+xcef
+#2   e
+x f
+1cef   /a
+1cef
+.
+b
+b
+
+e

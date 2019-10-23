@@ -1,0 +1,343 @@
+-C
+-t
+-f
+{14. Prenes la galan/14. Prenes la galan}
+b
+c
+1.    d
+2    d
+1  b d
+#2    d
+x  b
+b
+1 bb d
+#2  b
+x b
+1d b
+#2 b  d
+xd
+b
+#2db
+x    d
+1d b d
+#2d   d
+x  b
+1  b  d
+b
+#2 dff
+x  d
+x   a
+x d
+#2c  a
+x   a
+xab ca
+x  a a
+b
+#2 db c
+x  b d
+x dda
+x d a
+#2a   d
+xc  a
+xd b d
+xd b c
+b
+
+b
+#2c d a
+x df
+xcb
+xab
+#2 df
+x   f
+x  f f
+#3a d
+xc
+b
+#2d bc
+x  a
+x  b  d
+#3  d
+x a
+#2 ba a
+x   ac
+x   cd
+x   cd
+b
+1 a a d
+#2 d   d
+x d
+#2a d d
+xc d
+xda c
+xdb c
+b
+#2cdaa
+x  b
+x dd
+x  d
+#2cdaa
+x   a
+xaabc
+x   e
+b
+#2 dff
+x  de
+xabbc
+x  aa
+#2  b d
+x d
+x daa
+x  b
+b
+
+b
+2  dca
+#3 c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+1 dda
+1 d
+b
+#2  b
+x b
+xda
+x  de
+#2da c
+x c
+1cd a
+b
+1d bc
+1d  c
+1hd a
+#2f a
+x   a
+b
+#2d  c
+x  aa
+x  bc
+x  a
+#2 db
+x  b
+x  da
+x a
+b
+1ab  d
+#2ca a
+x  d
+#2dab  d
+x b
+xcd ac
+x    e
+b
+#2cdda
+xa b
+xa a
+x   c
+1a a c
+1 e
+b
+
+b
+1a bcd
+1hd f d
+#2    c
+x    e
+1fd ef
+b
+1hd f d
+#2cdda
+xc
+1ff  d
+1dbbc
+b
+1cdda
+1 df
+1abd
+#2ca a
+x  d
+b
+1d b
+1fdde
+#2 dff
+xd
+1df  d
+b
+1 d a
+#2c d
+x b
+1aa c
+1 bb d
+b
+1 dda
+1   e
+1   f
+1ha   d
+b
+1ha   d
+1f
+1ddf  d
+1cdda
+b
+1.df
+2d
+#2cd a
+xabbc
+x  de
+x dff
+b
+
+b
+#2abd d
+xc da
+xdab  d
+xha f
+#2fb cd
+xdb c
+1cdaa
+b
+1 d
+#2hd f
+x d
+#2ha f
+xhd f
+xdb c
+xha f
+b
+#2fd e
+xd  c
+xc  a
+xcd
+1dab
+#2 dff
+x  ff
+b
+#2a bc
+x  bc
+xc de
+x  bc
+#2  aa
+x  aa
+xa bc
+x  de
+b
+1 ab
+1 dde
+1da c
+1 cbc
+b
+1cdda
+1l  k
+#2li k
+xli k
+xh  f d
+xl  k
+b
+
+b
+#2i  h i
+xh  f
+xfd a
+xd
+#2d   c
+xc  ac
+xa  cd
+x  a
+b
+#2  b c
+x   c
+1 ea
+1ab c
+#2    a
+x b  a
+b
+#2a d d
+x b  a
+x a c
+x  de
+1  b
+#2  b d
+x  b d
+b
+#2  d a
+x  b d
+x a  c
+x    a
+1h  f d
+#2  f
+xh  f
+b
+#2d  c
+xh  f
+xfd e
+xd  c
+#2c  a
+x d
+xcaa
+xcdaa
+b
+#2fb aa
+x ab
+1f d a
+#2df  d
+x f
+xdab  d
+x b
+b
+
+b
+#2cdda
+x b
+xaabc
+x  d
+1aaa c
+1 ea c
+b
+#2a dcd
+x ab  d
+x d ac
+xc
+#2f a
+x b  a
+x d a
+xc
+b
+#2fb
+x b  a
+x a a
+xc
+#2f  cd
+x  d d
+xdd ac
+xd
+b
+#2cbd a
+x bd a
+x a ac
+x   cd
+#2  def
+x  d
+x dff d
+x dff
+b
+#2abb d
+xc
+xdbb
+xd
+#2cbd a
+x  b
+xa a d
+x   c
+b
+1aaa c
+1 ea c
+Yaac  a
+b
+b
+
+e

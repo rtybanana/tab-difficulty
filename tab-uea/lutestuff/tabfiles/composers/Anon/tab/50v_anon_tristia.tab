@@ -1,0 +1,321 @@
+-C
+-t
+-f
+{Tristia/Tristia}
+b
+C
+0  a c
+1  aac
+1  aa
+b
+1. a ac
+2    a
+#2  da c
+x     a
+1  d  c
+b
+0 abc a
+1 a c a
+1  b
+b
+1 daac
+1 a
+#2 ddef
+x  b
+x  d
+x a
+b
+0abb d
+1abb d
+1 a
+b
+1. dda
+2  b
+#2c aa
+x   c
+x   a
+x    d
+b
+1d  cca
+#2   c a
+x  a
+#2d bc a
+x  d  c
+x a   d
+x    a
+b
+
+b
+1ca ac
+#2 a
+x    d
+1c da
+1 a  c
+b
+#2a bc
+x  d
+x  b
+x  aa
+#2a  cd
+x   ac
+1a dcd
+b
+1. dfec
+2  d
+1 db
+1  aa
+b
+1d  cd
+#2  bc
+x    c
+#2f   a
+x     d
+1f a  c
+b
+1.h f cd
+2f   a
+#2ddf c
+x    d
+1cdda
+b
+#2c
+x bbc
+1a dcd
+1 aa c
+1 e
+b
+0a bc a
+0a bc a
+b
+0a  c a
+0a bc a
+b
+
+b
+1 b
+1 b
+0 df
+b
+1d  c
+1d  c
+0c d
+b
+1 a
+1 ab
+1a b
+1  d
+b
+1 a
+1 d
+1 df
+1a b
+b
+1c d
+1 a
+1c
+1 df
+b
+1a b
+1c
+1 ab
+1 d
+b
+#2   a c
+x b
+1 ab
+#2  d d
+x   c
+b
+0 aaac
+1 abc a
+1 ab  a
+b
+1  a a
+1  d
+1 d  c
+#2 a  cd
+x b
+b
+
+b
+1 a c d
+#2 bd a
+x  b
+1 da c
+1  ba
+b
+1 aaac
+1   c d
+1  a a
+1 d ac
+b
+1a  cda
+1. df cd
+#2  d  c
+xd bc a
+x  a
+b
+1   cda
+1c aa
+1  b ca
+#2a
+x    d
+b
+wc aac
+b
+0a  cd
+0a dcd
+b
+0 bdca
+0 daac
+b
+0 abc a
+1. abc a
+2  a
+b
+1 b ca
+1    d
+0  def
+b
+1 a ac
+1 a
+1 abc a
+1   c
+b
+
+b
+1a bcd
+#2  a
+x   c
+1a dcd
+#2    c
+x    a
+b
+0a dca
+0a dca
+b
+0 bdca
+0 daac
+b
+0 abc a
+1. abc a
+2  a
+b
+1 b ca
+1    d
+0  def
+b
+1 a acd
+1 a
+1  bc a
+1    d
+b
+#2   c
+x a
+1 aaa
+#2    d
+x   c
+1  dc
+b
+1 aacc
+1   b
+0 abc a
+b
+0 aaac
+0  aac
+b
+0 a ac
+1 daac
+1 d
+b
+
+b
+1 bd
+1  d
+0a b
+b
+1 df c
+1 d
+1c def
+1c
+b
+1abd d
+1  d
+1dabc
+1 a
+b
+0cdfa
+1cdda
+1  d
+b
+1abd d
+1a   d
+#2dabc
+x  d
+x ab
+x b
+b
+1cdda
+1a d d
+1 ab c
+1 ea
+b
+0a bc a
+0   c
+b
+1. ab  a
+2  a
+#2 d ac
+x   c
+x da c
+x  b
+b
+
+b
+1. bd a
+2  b
+#2a  cd
+x  a
+xa b
+x  d
+b
+1 dff d
+#2 d
+x  d  c
+#2c a   a
+x  b  a
+xc da c
+x a   d
+b
+1.a g df
+2 a   d
+#2d bc a
+x  d  c
+x a   d
+x b  a
+b
+1.cd ac
+2 b  d
+1c da
+#2a
+x    d
+b
+#2abd a
+x    c
+xa   d
+x d a
+#2d bc
+x d
+x ab
+x b
+b
+1cdda
+1ab  a
+1 ab c
+1 ea
+b
+waa c a
+b
+b
+
+e

@@ -1,0 +1,468 @@
+-C
+-t
+-f
+{77. Con pavor recordo/77. Con pavor recordo}
+b
+c
+wcca  c
+b
+wcca  c
+b
+wccee
+b
+wcdf
+b
+0cc e
+0  f
+b
+0cc e
+0  e
+b
+wca  c
+b
+1ca
+#2  a
+x  c
+#2  e
+x  a
+x  c
+x  e
+b
+#2 a
+x c
+x d
+x a
+#2 c
+x d
+xa
+xc
+b
+#2d
+xa
+xc
+xa
+#2 d
+x c
+x a
+x  d
+b
+
+b
+#2  b
+x  a
+x   c
+x  a
+1  b
+1   c
+b
+w aa c
+b
+w
+b
+w aba d
+b
+w aba d
+b
+#2 a a d
+x  d
+x a
+x c
+#2 d
+xa
+xc
+xd
+b
+1cdda
+#2f
+xd
+#2c
+xa
+x d
+x c
+b
+#2 a
+x  d
+x a
+x c
+#2 d
+xa
+xc
+xd
+b
+#1cdda
+x  b
+x  a
+x   c
+b
+
+b
+0fdaa
+#1 db
+x  a
+b
+0fc ca
+0 d a
+b
+0f  ca
+0 c
+b
+0.cdda
+#2  b
+x  a
+b
+#2   c
+x   a
+x    e
+x    c
+#2    a
+x    c
+x    e
+x    a
+b
+#2    c
+x    e
+x   a
+x   c
+#2   e
+x   a
+x   c
+x    e
+b
+w   af
+b
+w
+b
+wcca  c
+b
+wcca  c
+b
+wccee
+b
+
+b
+#2cdf
+xa
+x d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+#2   c
+x  a
+x  c
+x  d
+#2 a
+x c
+1 a
+b
+waacc
+b
+wccee
+b
+#2ea c
+x  a
+x  c
+x  e
+#2 a
+x c
+x d
+x a
+b
+0cce
+0 af
+b
+0cc
+0  e
+b
+1 af
+#2 c
+x d
+#2a
+xc
+xd
+xa
+b
+
+b
+#2c
+xa
+x d
+x c
+#2 a
+x c
+x d
+x a
+b
+#2 c
+x  e
+x a
+x c
+#2 d
+x c
+x a
+x  e
+b
+w a
+b
+0ddff
+0 bd
+b
+1ddff
+#2   d
+x   c
+#2   a
+x    d
+x    c
+x    a
+b
+#2     d
+x    c
+x    d
+x   a
+#2   c
+x   e
+1   f
+b
+0 aba d
+0d
+b
+0cdda
+0aabc
+b
+#1 cdca
+x  b
+x  a
+x   c
+b
+
+b
+#1fdaa
+xd
+xcdda
+x b
+b
+#1aabc
+x  a
+xabd a
+x  b
+b
+0 aa c
+0   c
+b
+0 aa c
+0   b
+b
+waa c a
+b
+Y
+b
+b
+w ddef
+b
+w dff d
+b
+1cdda
+#2f
+xd
+#2c
+xa
+x d
+x c
+b
+#2 a
+x  d
+x  b
+x  a
+#2   c
+x  a
+x  b
+x   c
+b
+#1cdda
+x  b
+#1  a
+x   c
+b
+
+b
+#1fd a
+x  a
+#1 db
+x  a
+b
+0fc ca
+0 d a
+b
+0f  ca
+0 c
+b
+0.cdda
+#2  a
+x  b
+b
+#2  d
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+x a
+b
+#2 c
+x d
+xa
+xc
+#2d
+xa
+xc
+xd
+b
+wc
+b
+wfdaa
+b
+wdabc
+b
+1 cdca
+#2a
+xc
+#2d
+xa
+xc
+xd
+b
+
+b
+#2f
+xd
+xc
+xa
+#2 d
+x b
+x a
+x  d
+b
+#1 aba d
+x    a
+#1    c
+x    e
+b
+0  def
+0aabc
+b
+0 aa c
+#1   c
+x  b
+b
+#1  a
+x   c
+0 aa c
+b
+waa c a
+b
+1acd
+#2 a
+x c
+#2 d
+x c
+x a
+x  d
+b
+1aac
+#2  a
+x  c
+#2  d
+x  c
+x  a
+x   c
+b
+1fda
+#2 c
+x d
+#2 f
+x d
+x c
+x a
+b
+
+b
+0fc ca
+0 d a
+b
+0f  ca
+0 c
+b
+0.cdda
+#2  a
+x  b
+b
+#2  d
+x  a
+x  b
+x  d
+#2 a
+x c
+x d
+x a
+b
+#2 c
+x d
+xa
+xc
+#2d
+xa
+xc
+xd
+b
+wc
+b
+wfdaa
+b
+wdabc
+b
+1 cdca
+#2a
+xc
+#2d
+xa
+xc
+xd
+b
+
+b
+#2f
+xd
+xc
+xa
+#2 d
+x b
+x a
+x  d
+b
+#1 aba d
+x    a
+#1    c
+x    e
+b
+0  def
+0aabc
+b
+0 aa c
+#1   c
+x  b
+b
+#1  a
+x   c
+0 aa c
+b
+waa c a
+b
+Y
+.
+b
+b
+
+e

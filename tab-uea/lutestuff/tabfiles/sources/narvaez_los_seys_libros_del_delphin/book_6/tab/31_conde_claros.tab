@@ -1,0 +1,906 @@
+-C
+-t
+-f
+{Conde Claros/Luis de Narváez}
+b
+c
+0aa c
+0  c
+b
+0aa c
+0  c
+b
+0aa c
+0  c
+b
+0ac  a
+0  d
+b
+#1 cd a
+x  c
+0 aa c
+b
+0   c
+#1 aa c
+x   b
+b
+b
+1   c a
+#2  c
+x  d
+#2 a
+x c
+x a
+x  d
+b
+#2  c  a
+x  a
+x  c
+x  d
+#2 a
+x c
+x a
+x  d
+b
+
+b
+#2  c  a
+x  d
+x  c
+x  a
+#2   c
+x   a
+x    e
+x    c
+b
+#2 c  a
+x d
+x c
+x d
+#2 c
+x a
+x  d
+x  c
+b
+#1  d a
+x  c
+#1  a c
+x   c
+b
+#1   b
+x    e
+#1  a c
+x   b
+b
+b
+1   c a
+#2  c
+x  d
+#1 a
+x  d
+b
+1 a c a
+#2  c
+x  d
+#1 a
+x  d
+b
+1 a c a
+#2  c
+x  d
+#1 a
+x  c
+b
+
+b
+1 c ca
+#2 c
+x d
+#1a
+x d
+b
+#1 c ca
+x d
+1 a bc
+#2   b
+x   c
+b
+#1  a
+x   c
+#1 aa c
+x   b
+b
+b
+#1   c a
+x a
+#2  c
+x  d
+1 a
+b
+#1  c  a
+xh
+#2e
+xg
+1h
+b
+#1e    a
+x f
+#2 c
+x e
+1 f
+b
+#1 c  a
+xf
+#2c
+xe
+1f
+b
+#2 c  a
+xe
+xc
+xa
+#1 ef c
+x  a
+b
+
+b
+#2  c
+x  d
+1  f
+#2    c
+x  d
+x  c
+x  a
+b
+b
+1  c  a
+#2   c
+x  a
+#2  c
+x  a
+x  c
+x  d
+b
+#2 a   a
+x c
+x a
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+#1   c
+x    e
+#1   b
+x   c
+b
+#1a   e
+x c  a
+#1 e  c
+xa   e
+b
+#1c  a
+xa   e
+#1c   c
+x f
+b
+#1 e
+x c
+#1cf  c
+x e
+b
+b
+0effc
+0     a
+b
+
+b
+0effc
+0     a
+b
+0effc
+0     a
+b
+0fcd a
+0cd ac
+b
+#1ea c a
+x f
+#1c   c
+x e
+b
+#1 f
+xe
+#1c   c
+x e
+b
+b
+1ea c
+#2     a
+x     c
+#2     e
+x    a
+1    c
+b
+1     a
+#2   c
+x  a
+#2  c
+x  d
+1 a
+b
+1   c
+#2a
+xc
+#2e
+xf
+1h
+b
+
+b
+1a   a
+#2  d
+x a
+#2 c
+x d
+x c
+x d
+b
+#2 c
+x a
+x  d
+x  c
+#2  a c
+x c
+x d
+xa
+b
+#2c
+xa
+x d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+b
+#2  c  a
+x  a
+x  c
+x  d
+#2 a
+x c
+x a
+x  d
+b
+#2  c  a
+x  a
+x  c
+x  d
+#2 a
+x c
+x a
+x  d
+b
+
+b
+#2  c  a
+x  d
+x  c
+x  a
+#2   c
+x   e
+x   c
+x   a
+b
+#2    e
+x   a
+x   c
+x   a
+#2    e
+x    c
+x    a
+x    c
+b
+#2    e
+x    c
+x    e
+x    a
+#2    c
+x    e
+x    c
+x    a
+b
+#2     e
+x    a
+x    c
+x    e
+#2    c
+x    a
+x     e
+x     c
+b
+b
+1     a
+#2  c
+x  d
+#1 a
+x  d
+b
+1  c  a
+#2e
+xf
+#1h
+xf
+b
+
+b
+1e    a
+#2 c
+x e
+#1a
+x d
+b
+1 c  a
+#2c
+xe
+#1f
+xe
+b
+#1f   a
+xe
+1c   c
+#2 e
+x f
+b
+#1c
+x f
+#1 e  c
+x c
+b
+b
+#1 f c
+xe
+#2  f
+xe
+x f
+xe
+b
+#1e  c
+x f
+#2  f
+xe
+x f
+xe
+b
+#1e  c
+x f
+#2  f
+xe
+x f
+xe
+b
+
+b
+#1 c e
+xf
+#2  d
+xf
+x c
+xf
+b
+#1f  e
+x c
+#1 e  c
+xc
+b
+#1  f
+xc
+#2 e
+xc
+x e  c
+xc
+b
+b
+1a    a
+#2h
+xf
+#2h
+xf
+xe
+x h
+b
+#2e
+x h
+xe
+xf
+#1h
+xe
+b
+#1 f
+x  f
+#1   g
+x    h
+b
+#1a
+x c
+#1  d
+x   c
+b
+#1    e
+x    a
+#1c
+x e
+b
+
+b
+#1 a
+x  a
+#1   b
+x    c
+b
+b
+1a    a
+#2c
+xa
+#2 d
+x c
+x a
+x  d
+b
+1a c  a
+#2c
+xa
+#2 d
+x c
+x a
+x  d
+b
+#2  c  a
+x  a
+x  c
+x  d
+#2 a
+x c
+x d
+x a
+b
+#2 c  a
+x d
+x c
+x d
+#2 c
+x a
+x  d
+x  c
+b
+#1  d a
+x  c
+#1  a c
+x   c
+b
+
+b
+#1   b
+x    e
+#1  a c
+x   b
+b
+b
+1   c a
+#2e
+xf
+1h
+#2     e
+x    a
+b
+1    c
+#2  c
+x  d
+1 a
+#2e
+xf
+b
+1h
+#2 c
+x e
+1a
+#2    e
+x   b
+b
+1   c
+#2c
+xe
+1f
+#2  a
+x  c
+b
+1  d
+#2 a
+x c
+#2 e
+xa
+xc
+xe
+b
+
+b
+#2c
+xa
+x e
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+b
+#2a  c a
+x d
+x c
+x a
+#2  d
+x c
+x a
+x  d
+b
+#2 a   a
+x c
+x a
+x  d
+#2  c
+x  d
+x  c
+x  a
+b
+#2   c a
+x   e
+x   c
+x   e
+#2   c
+x   a
+x    e
+x    c
+b
+#2 c  a
+x d
+x c
+x d
+#2 c
+x a
+x  d
+x  c
+b
+#1  d a
+x  c
+#1  a c
+x   c
+b
+
+b
+#1   b
+x    e
+#1  a c
+x   b
+b
+b
+#2   c
+x  a
+x  c
+x  d
+#2  c
+x  d
+x  c
+x  a
+b
+#2   c
+x  a
+x  c
+x  d
+#2  c
+x  d
+x  c
+x  a
+b
+#2   c
+x  d
+x  c
+x  c
+#2   c
+x  c
+x  c
+x  c
+b
+0  de
+#1   a
+x a
+b
+#1   c
+x  c
+#1  a c
+x   b
+b
+#1   c
+x  c
+#1  a c
+x   b
+b
+b
+
+b
+1   c a
+#2a
+xc
+#2e
+xf
+xe
+xc
+b
+#2 f
+xc
+xe
+xf
+#2e
+xf
+xe
+xc
+b
+#2 f
+xf
+xe
+xe
+#2 f
+xe
+xe
+xe
+b
+0fc
+1  d
+#2e
+xc
+b
+#1f
+xe
+#1c f
+x e
+b
+#1 f
+xe
+#1c f
+x e
+b
+b
+0ef c
+0     a
+b
+0ef c
+0     a
+b
+0ef c
+0     a
+b
+
+b
+0fc  a
+0cd a
+b
+#1ea c
+x f
+#1c   c
+x e
+b
+#1 f
+xe
+#1c   c
+x e
+b
+b
+1a    a
+#2c
+xa
+#2 d
+x c
+x a
+x  d
+b
+#2  c  a
+x  a
+x  c
+x  d
+#2 a
+x  d
+x  c
+x  a
+b
+#1   c
+x   a
+#1a   e
+x d  c
+b
+#1 c  a
+x d
+#1 c c
+x a   e
+b
+#1  d  c
+x  c  a
+#1c a c
+xa
+b
+
+b
+#1 e
+x c  a
+#1 a   e
+x  d  c
+b
+b
+#1h  g a
+xf
+#1e  c
+xc
+b
+#1h    a
+xf
+#1e  c
+xf
+b
+#1e
+xc  a
+#1a   e
+x d  c
+b
+#1fc  a
+x d
+#1 c
+xea
+b
+#1ccd
+xaac
+#1 efec
+x c
+b
+#1 e
+x ccc
+#1 aaa
+x  dce
+b
+b
+0  ccca
+1 a
+#2  c
+x  d
+0 a
+b
+0     a
+1h
+#2e
+xf
+0h
+b
+
+b
+0     a
+1a
+#2 c
+x e
+0a
+b
+0    a
+1   c
+#2    e
+x   b
+0   c
+b
+#2  d a
+x a
+1 c
+0  a c
+0c
+b
+#2 e
+xa
+0c
+#2 ec
+x  e
+0  f
+b
+b
+#1hf g a
+xg
+#1h
+xe
+#1g
+xh
+b
+#1a    a
+xc
+#1e
+x c
+#1 e
+xa
+b
+#1 a   a
+x c
+#1 a
+x  c
+#1  d
+x a
+b
+
+b
+#1 c  a
+x a
+#1 c
+x  d
+#1 a
+x c
+b
+#1  a a
+x  c
+#1  d
+x  a c
+#1  c
+x  a
+b
+#1   b
+x   c
+#1  a
+x    c
+#1    b
+x    c
+b
+b
+#1a  c a
+x  a
+#1  c
+x    e
+#1   b
+x   c
+b
+#1a   a
+x    c
+#1    e
+x     e
+#1    a
+x    c
+b
+#1a  c a
+x  a
+#1  c
+x    e
+#1    g
+x    h
+b
+#1ffh a
+xh
+#1k
+x c
+#1 e
+x f
+b
+
+b
+#1c   a
+xe
+#1f
+xcef c
+#1 c
+x e
+b
+#1     e
+x    b
+#1    c
+xe    e
+#1g
+xh
+b
+w.eff  a
+b
+Y.
+b
+b
+
+e

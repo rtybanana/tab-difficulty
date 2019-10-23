@@ -1,0 +1,319 @@
+-C
+-t
+-f
+{The broom of Caudin knows/The broom of Caudin knows}
+b
+2    c
+b
+1.   c d
+2    c
+1.   c
+2    a
+b
+#2     d
+x    a
+x    c
+x    d
+1.   cc 4
+2   e
+b
+1.   c
+2   e
+#2  d  d
+x a
+x c
+x  d
+b
+0 ac   a
+1.    a&,
+2    c
+b
+1.   c d
+2  d
+1.   c
+2    c
+b
+#2     d4
+x    a
+x    c
+x    d
+1.   ccd
+2  a
+b
+#2  d  d
+x a
+x c
+x  d
+1. a&,    a
+2  d
+b
+
+b
+0  dcc
+0      4
+b
+b
+2  a
+b
+#2   c  a
+x  a
+x  c  a
+x  d
+1. ac   a
+2 c
+b
+#2 a
+x c
+x a
+x  c
+1.  a&, a
+2   c
+b
+1.   cc
+2  a
+#2  d  d
+x a
+x c
+x  d
+b
+0 ac   a
+1.    a&,
+2    c
+b
+1.   c d
+2    c
+1.   c c
+2    a
+b
+#2     d
+x    a
+x    c
+x   a
+1   c d
+#2     c
+x  c
+b
+
+b
+#2  d  a
+x a
+x c
+x  d
+1. a&,    a
+2  d
+b
+0  dcc
+0      4
+b
+b
+c
+#2     d
+x  d
+x  c&,   a
+#3  aU
+x  cX
+#2  d
+x     a
+x     c
+x  a
+b
+c
+2 c   d
+#3 aU
+x cX
+#3c
+x c
+x a
+x  d
+1. ac   a
+2c
+b
+2  d  a
+#3  cU  a
+x  aX
+2.  a&,   ///a
+3   c
+2   c  a
+#2      /a
+x  a   //a
+x  c   ///a
+b
+1  d&,   4
+#2   c
+x    c
+1    a&,
+1     d
+b
+
+b
+#2      4
+x  d
+x  c&,   a
+#3  aU
+x  cX
+#2  d
+x     a
+x     c
+x a
+b
+#2 c   d
+x a
+x c
+xc
+1.e     /a
+2h
+b
+#2 f    //a
+x h
+#3c     /a
+xe
+xc
+x c
+2 a    a
+#3 cU
+x dX
+2. a&,
+3  d
+b
+0  dcc
+0      4
+b
+b
+#3  d
+x a
+x c
+xa
+2.cc   d
+3h
+#3c
+x c
+x a&,
+x  d
+2.  d   4
+3  d
+b
+
+b
+#3  d
+x a
+x c
+xa
+2.cc   d
+3h
+#3c     4
+x c
+x a&,
+x  d
+2.  d
+3  d
+b
+2  c   a
+#3  aU
+x  cX
+2.  a&,   ///a
+3   c
+2   c
+#2      //a
+x  a   ///a
+x  c
+b
+1  d&,   4
+#2   c
+x    c
+1    a&,
+1     d
+b
+#2      4
+x  d
+x  c&,   a
+#3  aU
+x  cX
+#2  d
+x     a
+x     c
+x a
+b
+#2 c   d
+x a
+x c
+xc
+1.e     /a
+2h
+b
+
+b
+#2 f    //a
+x h
+#3c     /a
+xe
+xc
+x c
+2 a    a
+#3  d
+x a
+#3 c
+x a
+2. a&,
+3  d
+b
+0  dcc
+0      4
+b
+b
+C
+1   c  4
+2.   c
+3  a
+1.  d
+2 d    ///a
+b
+C
+#2  d   //a
+x  a   /a
+2.   c&,  4
+3   a
+1   a
+1      /a
+b
+#2 d
+x  d
+#2a
+xc
+1e  a
+#2c&,
+xa
+b
+0 a a b
+#2a b
+x a
+2a a
+#3   c
+xc
+b
+1e da
+#2c&,
+xa
+#2a    b
+x a
+#2  d  a
+x a
+b
+1a     /a
+1   a
+1   c
+#2  a
+x  d
+b
+
+b
+#3 a   b
+x c
+2 d
+2. a&,
+3  a
+1   ccd
+1      4
+b
+b
+
+e

@@ -1,0 +1,652 @@
+-C
+-t
+-f
+{Ricercar 13/Ricercar 13}
+b
+#2 bb d
+x a
+x b
+x d
+b
+#2a
+x\1c
+xe
+x\2f
+b
+1.\1ea   a
+2\2f
+b
+1\4ha   a
+1e
+b
+1fa   a
+1h
+b
+1.ea   a
+2f
+b
+1ha   a
+1e
+b
+1fa   a
+1h
+b
+1\4i   a
+#2\3h
+x\1f
+b
+#2\3h
+x\1f
+x\3e
+x\1c
+b
+1\3ea   a
+1  \2d
+b
+
+b
+1 a   a
+1e
+b
+1f   a
+#2d
+xb
+b
+#2d
+xb
+xa
+x d
+b
+#2a
+x d
+x c
+x a
+b
+1.acd
+2 df
+b
+1ac
+1bd
+b
+1ac
+1 df
+b
+1.acd
+2 df
+b
+1ac
+1bd
+b
+1da c
+1 c
+b
+1bd a
+#2\3f
+x\4g
+b
+
+b
+#2\3f
+xd
+x\1b
+xa
+b
+#2d  a
+xb
+xa
+x d
+b
+1 b  a
+#2d
+xf
+b
+#2d
+xb
+xa
+x d
+b
+#2a   d
+x d
+x b
+x a
+b
+1  ddf
+1 d
+b
+#2a   a
+x d
+x c
+x a
+b
+1ac  a
+1bd a
+b
+1ad  a
+1 c
+b
+1 d a
+#2 b
+x a
+b
+
+b
+#2  d
+x  b
+x   d
+x   c
+b
+#2   a
+x   c
+x   d
+x  b
+b
+#2  d
+x  b
+x  d
+x a
+b
+1ab
+#2 a
+x  d
+b
+#2  b
+x   d
+x   c
+x   a
+b
+#2    d
+x   a
+x   c
+x   d
+b
+#2  b
+x   d
+x  b
+x  d
+b
+1 \1d\3f&{
+#2  d&}
+x   \3f&{
+b
+#2   d
+x   \2c
+x   a
+x    \3d
+b
+
+b
+1 \4d  \2c
+1 \1b  a
+b
+1 \4d  \2c
+1  \3c&{
+b
+#2 \1bd a
+x    c
+x    d
+x   a
+b
+1   ca
+1   ac
+b
+2   ca
+#3 d
+x c
+#3 d
+x c
+x a
+x c
+b
+Y dda
+b
+b
+0 def
+b
+1 def
+1 def
+b
+0fdda
+b
+0gd f
+b
+1fddd
+1ddef
+b
+1c da
+#2d
+xa
+b
+0c da
+b
+
+b
+0dde  d
+b
+1dde  d
+#2  d"x
+x   f
+b
+1c d
+2.    a
+#4    b
+x    a
+b
+1    b
+1  b
+b
+1  d a
+1  ea d
+b
+0  da b
+b
+0 d ab
+b
+0 bdca
+b
+0bbd  b
+b
+1abb d
+1dabc
+b
+1b da
+1 def
+b
+1a b d
+1  d
+b
+0 dedb
+b
+0 dedb
+b
+1gd f
+1fd d
+b
+
+b
+1ddef
+#2c
+xa
+b
+1c da
+1d bb
+b
+1  da
+1c
+b
+0d bb
+b
+1d bb
+1   a
+b
+1 e  d
+1 d  b
+b
+1 b  a
+1  e  d
+b
+1 b  a
+1  a
+b
+#2  ea d
+x  d
+x  e
+x  d
+b
+#2  ea d
+x  d
+x  e
+x b
+b
+1 d
+1   a
+b
+1 b b
+1 d a
+b
+1   b
+1 b
+b
+
+b
+#2 d a
+x c
+x d
+xa
+b
+#2bd a
+xdf
+1fg a
+b
+1   a
+#2g
+xf
+b
+1g    d
+1   f
+b
+1   a
+1fg
+b
+1    b
+1bd
+b
+1d    d
+1   c
+b
+0fb d b
+b
+1.fb d b
+2d
+b
+1c da
+1f
+b
+1   a
+#2d"+
+xc
+b
+#2   a
+xd
+1f
+b
+#2   a
+xd
+1g
+b
+
+b
+1   a
+#2f
+xd
+b
+1c da
+1gd
+b
+1f g
+1d e
+b
+1c da
+#2d
+xa
+b
+1c da
+1d
+b
+0dde  d
+b
+1dde  d
+#2 g
+x f
+b
+1 ddd
+1 bbb
+b
+1 ddd
+1  ea
+b
+1  d
+1   e
+b
+1  b  d
+#2  e
+x b
+b
+#2 \3d
+xa
+x\1b
+x\4d
+b
+1f aa
+1\2d
+b
+
+b
+0\4f aa
+b
+0gd \2f d
+b
+1gd f d
+1    a
+b
+1d   b
+1a    d
+b
+1c   a
+#2d    d
+xa
+b
+#2    a
+xc
+xd
+xc
+b
+#2d    d
+x    a
+x    b
+x    d
+b
+#2   a
+x   c
+x   d
+x  b
+b
+Y  def
+b
+b
+0  def
+b
+1  def
+1  de
+b
+1  def
+1  de
+b
+0 aba
+b
+
+b
+1 aba
+#2  d
+x  b
+b
+1  def
+1  bc
+b
+1  d
+1   e
+b
+0  b  d
+b
+1  b  d
+1cdda
+b
+1cdda
+1cdda
+b
+1cdda
+1cdda
+b
+0dab  d
+b
+1dab  d
+#2c
+xa
+b
+1c da
+1d bc
+b
+1d da
+1c
+b
+0dab  d
+b
+1dab  d
+1abb d
+b
+1abb d
+1abb d
+b
+1abb d
+1abb d
+b
+
+b
+1bbd  b
+1bbd  b
+b
+#2     b
+xa
+x d
+x b
+b
+1 a a d
+1 b cd
+b
+1 b a d
+1 a
+b
+0 bb d
+b
+0 bb d
+b
+1
+1fggd
+b
+1fggd
+1fggd
+b
+1fggd
+1fggd
+b
+0df  d
+b
+1df  d
+#2f
+xd
+b
+1b  a
+1 d  c
+b
+1a
+1    e
+b
+1 d a
+#2    c
+x    d
+b
+
+b
+#2   a
+x   c
+x   d
+x  b
+b
+1 bd a
+#2\4g
+x\3f
+b
+#2\1d
+x \4g
+x \3f
+x \1d&{
+b
+#2 b\3d a
+x a
+x b
+x d
+b
+#2a
+xb
+xd
+xa
+b
+1b da
+#2a
+x d
+b
+#2 b
+x d
+xa
+x g
+b
+1df  d
+#2 g
+x f
+b
+#2 d
+x f
+x g
+xd
+b
+1fb   b
+1   d
+b
+
+b
+1fb   b
+#2d
+xb
+b
+#2a b d
+xd
+xb
+xa
+b
+1b b d
+1a
+b
+1.bbd  b
+2     d
+b
+#2    a
+x    c
+x    d
+x    a
+b
+1 d db
+#2  e
+x  d
+b
+1  ea d
+1  d  b
+b
+1  ea d
+1   c
+b
+1  dd b
+1 b
+b
+#2    d
+x  e
+1  d
+b
+1  bcd
+1  d
+b
+1   ab
+1  b
+b
+
+b
+#2  dca
+x a
+x b
+x d
+b
+1a
+1i
+b
+1gd f
+1fddd
+b
+2.gd f
+#4f
+xg
+#2f
+xd
+b
+Yfdda
+b
+b
+
+e

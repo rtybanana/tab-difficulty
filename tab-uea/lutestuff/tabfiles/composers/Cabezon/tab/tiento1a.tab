@@ -1,0 +1,218 @@
+-C
+-t
+-f
+{Tiento 1/Antonio de Cabezón}
+b
+c
+wc
+b
+0 c
+0b
+b
+0c
+0 a
+b
+0ac
+0 df
+b
+0 c e
+0  d
+b
+0 dc
+0a  c
+b
+0. cde
+1 d
+b
+0a cc
+0c aa
+b
+0   ce
+0a   e
+b
+0 cd
+0 df c
+b
+
+b
+0 cc e
+#1a  c
+x  d
+b
+0 da c
+0 ca a
+b
+#1  cc e
+x    f
+#1 a ce
+x    c
+b
+0   eec
+0  e
+b
+0 a ac
+0 d  c
+b
+0  a
+0 c  a
+b
+0 d  c
+0 c ce
+b
+0.c da
+1 ac
+b
+0 cd e
+0a c
+b
+
+b
+0cda
+#1f  e
+x  c
+b
+#1 cd
+x  f
+0ec c
+b
+0fda
+#1eac
+xc
+b
+0acd
+0ec c
+b
+#1 da
+xc
+0caaa
+b
+0 cc e
+0b
+b
+0c a  c
+0 cd
+b
+0.ac
+1cd
+b
+#1ef  e
+xa
+0fc
+b
+
+b
+0 a c
+0e
+b
+0fd e
+#1c d
+x  f
+b
+#1cc   c
+x f
+0 d e
+b
+0   ca
+0 cd
+b
+0 daac
+#1ca
+x    a
+b
+0f d  c
+0f a ef
+b
+0h  a e
+0    hh
+b
+#1f a ec
+x  c
+#1  d e
+x a
+b
+
+b
+#1ec
+x d
+0ff  e
+b
+0 a c
+0ef
+b
+#1fcde
+xc
+#1f
+x d c
+b
+0ac  e
+0ea c
+b
+#1 a a
+x  d
+0c a
+b
+0 cc e
+0b
+b
+0c a
+0 ca
+b
+0 dfc
+0aa c
+b
+0 ca
+#1  d
+x d
+b
+
+b
+0aa c
+0ca a
+b
+0 cd e
+0b c
+b
+0c de
+0   a
+b
+0a   e
+0 da c
+b
+0 cc e
+0   d
+b
+0  de
+0 cd
+b
+0 ccc
+0acc  a
+b
+0c de
+#1 c   c
+x     e
+b
+0a   a
+0 da c
+b
+0  cc
+0 cd a
+b
+
+b
+0 aa c
+#1 d a
+x  c
+b
+#1 cdca
+x   a
+#1 a  ee
+x    c
+b
+0   eec
+0  e
+b
+Y aa c
+b
+b
+
+e

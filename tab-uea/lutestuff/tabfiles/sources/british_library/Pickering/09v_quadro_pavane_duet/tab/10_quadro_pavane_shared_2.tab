@@ -1,0 +1,808 @@
+-C
+-t
+-f
+{The Quadro Pavane/The Quadro Pavane}
+b
+c
+1  c
+1  d
+b
+1     a
+1aac
+1   c
+1     a
+b
+0aac  a
+1 c
+1 e
+b
+0aacc
+0a d e
+b
+1 d a
+1  de
+1 adc
+1  c
+b
+1    a
+1 cd
+1   c
+1    a
+b
+0 cd a
+1  d
+1 a
+b
+1    a
+1 cd
+1   c
+1    c
+b
+1  d e
+1    a
+1  d e
+1   b
+b
+1     a
+1aac
+1   c
+1     a
+b
+1.aac  a
+2 c
+1 a
+1  d
+b
+0aacc
+1 aab
+1    c
+b
+
+b
+1aa  e
+#2  e
+x  c
+1  e
+1a
+b
+1    c
+1 ef
+1   e
+1    c
+b
+1. efec
+2 f
+1 e
+1 c
+b
+0 efec
+0 a c e
+b
+1 cd a
+1a
+1 f ec
+1 e
+b
+1     a
+1aac
+1   c
+1     a
+b
+1.aac  a
+2  d
+1  c
+1  a
+b
+0aac  a
+0a d e
+b
+1 d a
+1  de
+1 adc
+1  c
+b
+1    a
+1 cd
+1   c
+1    a
+b
+0 cd a
+1  d
+1 a
+b
+1    a
+1 cd
+1   c
+1    c
+b
+
+b
+1  d e
+1    a
+1  d e
+1   b
+b
+1     a
+1aac
+1   c
+1     a
+b
+1aac  a
+1     c
+1   c e
+1    a
+b
+0 efec
+0 a c e
+b
+0 cd a
+1 aa c
+1  d
+b
+1     a
+1aac
+1  c
+1     a
+b
+1    a
+1 cd
+1 aa c
+1  d
+b
+1     a
+1aac
+1   c
+1  d
+b
+0aac  a
+1  c
+1  d
+b
+b
+1e
+#2a
+xc
+#2e
+xc
+#3e
+xc
+xe
+xf
+b
+
+b
+1e
+#2h
+xf
+#2e
+x h
+x f
+x e
+b
+1 f
+#2 d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+2  c
+#3   c
+x  a
+#3  c
+x  a
+x  c
+x  d
+#3 a
+x  d
+x a
+x c
+#3 d
+x c
+x d
+x a
+b
+2 c
+#3  d
+x a
+#3 c
+x a
+x c
+x d
+#2a
+xc
+1a
+b
+2c
+#3a
+xc
+#2d
+xc
+2a
+#3 d
+x c
+#3 a
+x c
+x d
+x a
+b
+
+b
+#3 c
+x a
+x  d
+x  c
+#3  a
+x  c
+x  d
+x a
+#3 c
+x a
+x c
+x d
+#3 f
+x d
+x c
+x a
+b
+#3 c
+x a
+x  d
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+#3 c
+x e
+xa
+xc
+b
+0e
+0h
+b
+0e
+0a
+b
+1e
+1a
+1h
+1f
+b
+1e
+#2c
+xe
+#3f
+xe
+xf
+xe
+#3f
+xe
+xc
+xa
+b
+0 e
+0c
+b
+0 e
+0 a
+b
+
+b
+#2 e
+x a
+x e
+xa
+#2c
+xe
+xc
+xa
+b
+#2f
+xe
+#3f
+xe
+xc
+xa
+#2c
+x a
+#3 c
+x a
+x c
+x e
+b
+0a
+1. a
+2  d
+b
+1.  c
+2  a
+0   c
+b
+#2   c
+x   b
+x   c
+x  a
+#2  c
+x  d
+x a
+x c
+b
+2 a
+#3   c
+x  a
+#3  c
+x  a
+x  c
+x  d
+#3 a
+x  d
+x a
+x c
+#3 d
+x c
+x d
+xa
+b
+
+b
+#2 c
+x a
+x c
+x d
+#2a
+xc
+1a
+b
+1a
+#2a
+x d
+#2 c
+x a
+1  d
+b
+1f
+#2e
+xc
+#2a
+x d
+x c
+x a
+b
+#3 c
+x a
+x  d
+x  c
+#3  a
+x  c
+x  d
+x a
+#3 c
+x a
+x c
+x e
+#3a
+x e
+xa
+xc
+b
+#2e
+xa
+xh
+xf
+#2e
+x h
+x f
+x e
+b
+#2 f
+x a
+xf
+xe
+#2c
+xa
+x e
+x c
+b
+
+b
+2 e
+#3 a
+x c
+#3 e
+x a
+x c
+x e
+#3a
+x c
+x e
+xa
+#3c
+x e
+xa
+xc
+b
+#3e
+xa
+xc
+xe
+#3f
+xe
+xc
+xa
+#3c
+xa
+x e
+x c
+#3 e
+xa
+xc
+x e
+b
+#3a
+x e
+xa
+xc
+#3e
+xc
+xe
+xf
+#3e
+xa
+xc
+xe
+#3c
+xa
+x e
+x c
+b
+#3 a
+x  d
+x a
+x c
+#3 d
+x c
+x d
+xa
+#3 d
+x c
+x a
+x  d
+#3 a
+x  d
+x  c
+x  a
+b
+
+b
+1   c
+1 a
+1 c
+1 e
+b
+2a
+#3 e
+x c
+#3 a
+x c
+x e
+xa
+#3c
+xa
+xc
+xe
+#3f
+xe
+xc
+xa
+b
+b
+1 e
+1 ef
+1   e
+1    c
+b
+0 efec
+1 a
+1 c
+b
+1 aa c
+1    e
+1   b
+1  cc
+b
+1 cee
+1     c
+1   e
+1 f
+b
+1    c
+1 ef
+1   e
+1    c
+b
+1 cee
+1  f
+1 c
+1 f
+b
+1    c
+1 ef
+1   e
+1    c
+b
+
+b
+1  cc a
+1  d
+1 a
+1 d
+b
+1    a
+1 cd
+1   c
+1    a
+b
+1 cd a
+1    c
+1a d e
+1    a
+b
+0 efec
+0 a c e
+b
+1 cd a
+1a
+1 ffec
+1 e
+b
+0aac  a
+0 a c e
+b
+1 cd a
+#2 a
+x c
+1 aa c
+1  d
+b
+1     a
+1aac
+1   c
+1  d
+b
+1aac  a
+1     c
+1     e
+1    a
+b
+b
+#2    c
+xc
+x e
+x a
+#2h
+xc
+x e
+x a
+b
+
+b
+#3c
+xa
+x e
+x c
+#2 a
+xc
+#3c
+xa
+x e
+x c
+1 a
+b
+#3 a
+x  e
+x a
+x c
+#3 d
+x c
+x d
+xa
+#3c
+xa
+xc
+xd
+#2c
+xa
+b
+2c
+#3a
+xc
+#3d
+xc
+xa
+x d
+#3 f
+x d
+x c
+x a
+#3  e
+x a
+x c
+x  e
+b
+#2 a
+xc
+2c
+#3a
+xc
+2d
+#3f
+xd
+2c
+#3d
+xc
+b
+
+b
+2a
+#3c
+xa
+2 d
+#3 f
+x d
+#3 c
+x a
+x c
+x d
+#3a
+xc
+xe
+xf
+b
+2h
+#3f
+xe
+#3c
+xa
+x e
+x c
+2 a
+#3 c
+x e
+#3a
+xc
+xe
+xf
+b
+2e
+#3c
+xa
+#3 d
+x c
+x a
+x  d
+#3  c
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xe
+b
+2f
+#3e
+xc
+#3a
+x d
+x c
+x a
+2  d
+#3 a
+x c
+#3 d
+xa
+xc
+xe
+b
+
+b
+#3f
+xe
+xf
+xe
+#3f
+xe
+xc
+xa
+#3c
+xa
+xc
+xa
+#3c
+xa
+x e
+x c
+b
+#2 e
+x a
+xf
+xe
+#2c
+xa
+x e
+x c
+b
+#2 a
+xh
+2h
+#3f
+xe
+#3f
+xe
+xc
+xa
+#3 e
+xa
+xc
+x e
+b
+2a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+#3   c
+x  a
+x  c
+x  d
+#3 a
+x c
+x e
+xa
+b
+
+b
+#3c
+xa
+xc
+xe
+#3f
+xe
+xc
+xa
+#3c
+xa
+x e
+x c
+#3 e
+xa
+xc
+x e
+b
+2a
+#3 a
+x d
+2 c
+#3  d
+x c
+2 a
+#3 c
+x e
+#3a
+xc
+xe
+xf
+b
+Yeff  a
+b
+b
+
+e

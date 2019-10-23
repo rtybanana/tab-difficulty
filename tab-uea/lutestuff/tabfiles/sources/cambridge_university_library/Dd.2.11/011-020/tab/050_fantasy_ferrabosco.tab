@@ -1,0 +1,629 @@
+-C
+-t
+-f
+{50. Fantasy/Alfonso Ferrabosco}
+b
+c
+0  d
+1  d
+#2  c
+x  a
+b
+1  c
+1  d
+#2a  c
+x  a
+x  b
+x  d
+b
+#2a b
+x  d
+x df
+x c
+#2 d
+x  d
+1a c
+b
+#2  d
+x a
+x b
+x d
+#2 bd
+x d
+xa b
+x  a
+b
+#2a  c
+x da
+x ab
+x bd
+#2 df
+xa
+1 bd
+b
+
+b
+#2   c
+x bd
+x ac
+x  a
+1 abc
+#2  ab
+x   ce
+b
+1 aaa
+1 acc
+#2 bd a
+x  b c
+x   cd
+x  aa
+b
+#2  bc
+x  d d
+x a a
+x b c
+#3    a
+x a
+2  d d
+#3    c
+x  d
+2  c
+b
+1.a d a
+2  b
+#2   cd
+x  aa
+x  bc
+x  de
+b
+#2aab
+x   c
+x ddd
+x b
+#2 d
+x a
+1ab c
+b
+1bb a
+1ba
+1a   d
+1 b
+b
+
+b
+1   c
+#2da
+x  d
+1da c
+#2c  a
+xa   e
+b
+1ca a
+1ab c
+#2a dd
+x a
+x b
+x df
+b
+#2ab c
+xcd
+xdf
+xab
+#2cd a
+xab
+xfa d
+x  d
+b
+1 a c
+1e
+2.f d a
+3d
+#2a
+xb
+b
+2a d
+#3  d
+x a
+#3 b
+x d
+xa
+xb
+2a b
+#3 d
+x b
+#2 d
+xa
+b
+
+b
+#2 ab
+x b
+x d d
+x   c
+#2   d
+x b
+1 ab
+b
+2a   d
+#3    a
+x    c
+#3    d
+x   a
+x   c
+x  a
+2a b
+2.   c
+3  a
+#3  b
+x  d
+b
+2 df
+2.  b
+3  d
+#3 a
+x  b
+#3 bd
+x  b
+x  d
+x a
+#3 b
+x  d
+2 dff
+b
+1.  g
+2  f
+1 dff
+#2 ddd
+x  bc
+b
+1 ddd
+1 dff
+1ab  d
+#2    a
+x df
+b
+
+b
+#2 bd
+x    c
+x bd d
+x   a
+#2 acc
+x cd
+1 dfa
+b
+#2  cc
+x b
+x a d
+x  d
+2 adc
+#3  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+2.  d a
+3 a
+#3 b
+x d
+xa
+xb
+2a  c
+#3   a
+x   c
+2 d d
+#3 c
+x a
+b
+1 d da
+1 b c
+#2     d
+x b c
+x a a
+x  d d
+b
+1 a a d
+#2  da b
+x     a
+1  da b
+1  cc a
+b
+
+b
+1  dc b
+1  da
+1  cc a
+1 acc
+b
+1 bd a
+1  d f
+1  d d
+1 db c
+b
+1 d da
+1 b c
+1 ab
+1f dd
+b
+1f g h
+1da c
+1cdf
+1ab
+b
+1dff
+#2cef
+x  d
+1a c
+#2a d a
+x    c
+b
+#2a d d
+x    a
+1 abc
+1 da c
+1a  cd
+b
+1a b c
+#2 ea
+x    a
+1a  c a
+1 bd a
+b
+1 adc
+1  bc
+1  ac
+1  aa
+b
+
+b
+#2   cd
+x  a
+2  bc
+#3  a
+x  b
+1  aa
+1f  cd
+b
+1f  ac
+1dd  c
+1bd
+1ab
+b
+1da
+#2b d
+x a
+#2ab
+x  d
+x df
+xa
+b
+#2bd
+x  d
+1ab
+1 dgf
+#2 df
+x  d
+b
+1 dff
+1 ddd
+1ab c
+1 dff
+b
+1 df
+#2  d
+x b
+#2 ad f
+x   f
+1   f
+b
+1  dff
+#2   e
+x    d
+1  bac
+1  d a
+b
+
+b
+1  d d
+1 db c
+1 d da
+1 b c
+b
+1 ab
+1  dda
+1 b ca
+#2 a   d
+x   a
+b
+1  da b
+#2 b c a
+x a
+#2     d
+x   a
+x  da b
+x    a
+b
+1  d da
+1  c c
+#2  d a
+x    c
+x   cd
+x  aa
+b
+#2  bc
+x     a
+x  aac
+x a
+#2   cd
+x  dc
+x ab c
+x  bc
+b
+#2 aa
+x aaa
+xa  cd
+x  d a
+#2 a c
+xa
+x  de
+x e
+b
+
+b
+#2a bc
+xa d
+xd b
+xa  c
+#2cef
+xh
+xdfg
+xf
+b
+2ddf
+#3c
+x  d
+#2aab
+x aa c
+#3a  cd
+x  a
+x  b
+x  d
+#2 ef c
+xa bc
+b
+#2ca
+x aab
+#3 acc
+x   a
+x  d d
+x    c
+#3    a
+x ab
+xa a d
+x   c
+#3  b c
+x  a
+x d c
+x   a
+b
+#3   c
+x   a
+x b c
+x  a
+#2 ac
+x   c
+#3 acc
+x  d
+x a
+x  c
+#3  de
+x  c
+x  d
+x  a
+b
+
+b
+1 acc
+1  d d
+1 ada
+1 acc
+b
+1  dd
+2 b
+#3 a
+x b
+2 d
+#3 b
+x d
+2a bc
+#3  a
+x  b
+b
+2  da
+#3  b
+x  d
+2 a
+#3  d
+x a
+2ab  d
+#3 a
+x  d
+#2d b
+x   c
+b
+#2b d
+x    c
+xa b d
+x   c
+1a  da
+1 d  c
+b
+1a  cd
+2  b
+#3  a
+x  b
+2  d
+#3  b
+x  d
+2 a ac
+#3  d
+x a
+b
+
+b
+2 b c a
+#3  a
+x  c
+2 ba a
+#3   c
+x  a
+2 ab  d
+#3 b
+x   c
+#3 d a
+x    d
+x   a
+x   c
+b
+#3   d
+x  b
+x  d
+x a
+1 b c a
+1   a b
+1 a a d
+b
+#2  d df
+x a a
+x b c
+x  d d
+#2 a a d
+x  d d
+x  d cb
+x    a
+b
+1  d ca
+1 acc
+2 cdca
+#3 a
+x c
+#3ad
+x c
+#4 d
+x c
+x a
+x c
+b
+1cea
+1ef c
+1ffa
+1ce
+b
+1df c
+#2  b
+xcd
+#2abd
+xc
+1da c
+b
+
+b
+1a b  d
+2a a a
+#3     d
+x    a
+2 ea c
+#3    a
+x    c
+1a  cd
+b
+2.  d a
+3 a
+#2 acc
+x d
+2. cd a
+3a
+#3 dd c
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+1 bd a
+#2 a  cd
+x   a
+#2  d d
+x   c
+2  da
+#3    d
+x   a
+b
+2.  cc
+3  d
+#2 a
+x     c
+#2   c e
+x     a
+2  d a
+#3     d
+x     c
+b
+
+b
+#2  c ca
+x  d a
+3 acc
+#4 c
+x a
+#4 c
+x a
+x  d
+x a
+3 cdca
+#4 d
+x c
+#4 d
+x c
+x a
+x c
+3 d df
+#4 f
+x d
+#4 f
+x d
+x  g
+x d
+b
+2 fd e
+#3 d
+x f
+#2 dda
+xa
+2bdda
+#3d
+xb
+2a  ce
+#3   a
+x   c
+b
+2 d df
+#3   c
+x   d
+#3   a
+x   c
+2   d
+#2    a
+x d d
+x c c
+x a a
+b
+Y cdca
+b
+b
+
+e

@@ -1,0 +1,172 @@
+-C
+-t
+-f
+{326. Ballet 14/326. Ballet 14}
+b
+c
+2  bc a
+#3  a a
+x  b
+#3  d d
+x  b
+2  abc
+b
+.
+2.   c a
+3  a
+#3  b  a
+x  d
+x a   d
+x b
+2 d  c
+#3 b c
+x a
+#3  d d
+x  b
+2  da
+b
+0 aba d
+#2hil
+xhhk
+xil h
+xhhik
+b
+#3 il h
+x l
+x i
+x h
+#3 i
+x l
+xh
+xk
+2lh k h
+#3i   h
+xh
+#3 l
+x i
+2fhi f
+b
+
+b
+1ddf  d
+1   f
+#3  ba d
+x  a
+x  b
+x  d
+#3 a
+x    a
+x    c
+x    e
+b
+1cdda
+1      a
+#3c  a
+xa
+xc
+xd
+#3f
+x    a
+x     d
+x     c
+b
+1aab  a
+1   c
+#3aab  a
+x d
+xa
+xc
+#3d
+x     c
+x     d
+x    a
+b
+#2cef c
+xddf  d
+xc da
+xaabc
+#3 ea c
+x    a
+xaab  d
+xd
+#3c   a
+xa
+2 ea c
+b
+
+b
+1aac  a
+1   c
+#3hi f
+xf
+xh
+xk
+#3l
+x   a
+xi
+xh
+b
+#3f
+x    f
+x     i
+x     h
+#2  gh f
+x   h
+#3    a
+x  c
+x  d
+x a
+#3 b
+x    a
+x     d
+x     c
+b
+#3  bc a
+x a
+x c
+x e
+#2 f
+x   c
+#3     a
+x d
+xa
+xc
+#3d
+x  a
+x  b
+x  d
+b
+
+b
+2ce  c
+#3f    d
+xd
+#3cdda
+xd
+2aabc
+2 ea c
+#3  d d
+x  b
+#3  a a
+x   c
+2 aabc
+b
+A1
+1 acc a
+1   c
+2  bc a
+#3  a a
+x  b
+#3  d d
+x  b
+2  abc
+.
+b
+b
+A2
+1 acc a
+Y.   c
+b
+b
+
+e

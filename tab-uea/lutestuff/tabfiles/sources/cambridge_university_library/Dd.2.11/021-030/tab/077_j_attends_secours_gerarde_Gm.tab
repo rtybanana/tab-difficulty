@@ -1,0 +1,263 @@
+-C
+-t
+-f
+{77. J'attends secours/Derick Gerarde}
+b
+c
+1   c
+#2   c
+x   c
+1    c
+1   a
+b
+1a  c
+#2a b
+xa
+#2 ab
+x  b
+1 da
+b
+1a  c a
+#2d    a
+x     a
+1d  a  /a
+1c  a  a
+b
+1a  cda
+#2   ccd
+x   ce
+#2 d a d
+x   c
+1 daa c
+b
+1 bbc a
+#2 ab
+x  d
+1 dff d
+1  de
+b
+#2ab c
+x a
+2da
+#3  d
+x  b
+1  da
+1c
+b
+
+b
+1d bc
+#2dabc
+x   c
+#2    ca
+xc d
+xa b  a
+x     a
+b
+1 efe  /a
+#2cdf c
+x a
+1cda c
+1 cde
+b
+1 dfec
+#2cda c
+x    c
+1ccde c
+1acdca
+b
+1 ab c
+1 ddef
+#2  def
+x   e
+1a dce
+b
+1aab c
+1 efe
+#2 cdca
+x  d
+x  d
+x  de
+b
+#2 aabc
+x  bc
+x  a c
+x   bc
+1  bc a
+1 ab
+b
+1   c a
+#2 abc
+x   c
+1 aaac
+1  def
+b
+
+b
+1  bcca
+#2 abc a
+x     a
+1 aba  /a
+1  aa  a
+b
+1 abc a
+1  b cd
+1  ba d
+1 dda c
+b
+1abb da
+#2da  c
+x  d
+#2da   a
+x c
+xcdda
+x d
+b
+#2ccd a
+xa
+1acd
+1 aa c
+1 e
+b
+1aab  a
+1   c
+1 aba d
+1  dcef
+b
+1 abc a
+1  b c
+1  deg
+1   fh
+b
+1 aaac
+1 dbac
+1 ddef
+1 abc
+b
+1 aacc
+1 a b  /a
+1  bc a
+1 abc a
+b
+b
+
+b
+#2 ab cd
+x aba d
+x bbc  /b
+x  def a
+1 abacd
+1 aba d
+b
+#2 ddef
+x abc
+x bdca
+x aabc
+1 abc a
+1 abcca
+b
+b
+#2 aba d
+x aba d
+x  def a
+x  bcca
+1  abc /a
+#2  a c
+x ef
+b
+#2a bc
+x a
+1caab
+1 efec
+#2      /a
+x   bcc
+b
+#2  bc a
+x    c
+1  a c b
+1   bc /a
+#2 ea
+x a  c
+b
+#2a b
+x a
+1caab
+1 efec
+1 efec
+b
+
+b
+#2aabc
+x efec
+xaabc
+xcbd a
+1 efec
+#2      /a
+x   bc
+b
+#2 abc a
+x aab  /a
+x abc a
+x bdca
+1 aab  /a
+1 a
+b
+1 a
+1  ccca
+1  ccca
+1a
+b
+1a
+1  dcef
+1  dcef
+1 c
+b
+1 c
+1  eeec
+#2  eee
+x  f
+xc   ec
+x  e
+b
+1ca bc
+1  a
+1hea  h
+1     d
+b
+1fddef
+1f  ca
+#2da c a
+x     c
+xda   d
+x    a
+b
+1ca ac
+1cc  ac
+1acdca
+1dabc a
+b
+
+b
+#2     a
+xc d
+1a b
+1aaa c
+1 efec
+b
+1a cc a
+#2 acc
+x     a
+1 bdca
+1 acc a
+b
+1 bdca
+1 acc e
+1 bdca
+1 acc a
+b
+0  d df
+Y accca
+b
+b
+
+e

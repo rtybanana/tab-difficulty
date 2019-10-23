@@ -1,0 +1,130 @@
+-C
+-t
+-f
+{Prelude/Prelude}
+b
+c
+0  dca //a
+0 bdca
+b
+0 bdc a
+0 abc
+b
+0 afd b
+0  dd
+b
+0  ddd /a
+0  bcd
+b
+0   ff a
+0   df
+b
+0   da //a
+0   cd
+b
+0   cde
+0   ac
+b
+1      //a
+#2    a
+x     e
+1    df
+1  d
+b
+0  dcca
+1  bc
+1     a
+b
+0   ddb
+0 gdd
+b
+0 g  d /a
+0 f f
+b
+0 ddd  a
+0lg a
+b
+
+b
+0lg h
+0if
+b
+0if g
+0hf
+b
+1hfgh
+1f
+0ffghhf
+b
+0ffg h
+0 if
+b
+0dfd e
+0 gd f
+b
+0 gd  f
+0 fg
+b
+0 fgc e
+0 df
+b
+0  ih  //a
+0  gh
+b
+0  gc a
+0  fffd
+b
+0      /a
+0   cd
+b
+0  dcd
+0      a
+b
+0  dcca
+0  bc
+b
+0  bc  //a
+0  aac
+b
+0   ed /a
+0   cd
+b
+
+b
+1   cdd
+#2   a
+x    d
+1   ac
+1   cce
+b
+1    df//a
+1    a
+1   cd
+1  aa
+b
+1  ccca
+1      a
+1  dc  /b
+1  b
+b
+1   da a
+1   a
+0  fd
+b
+1  fcfa
+1  d
+1  d d
+#2  f
+x  d
+b
+1  c ca
+1  d
+1  d ca
+1  c
+b
+w  dca
+w      //a
+b
+b
+
+e

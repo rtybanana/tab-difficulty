@@ -1,0 +1,124 @@
+-C
+-t
+-f
+{22. Bassa imperiale/22. Bassa imperiale}
+b
+c
+1fc  a
+b
+.
+1.cd a
+2a
+1 d
+1f   a
+b
+1cd a
+1a
+1 d
+1f
+b
+1h  f
+1f  e
+1d  c
+1c  a
+b
+0acd a
+1
+#2 b
+x d
+b
+1. b  d
+2 d
+#2 b  a
+x d
+xa
+xc
+b
+0dab  d
+1a   d
+#2f
+xd
+b
+1c  a
+#2a
+x d
+1acd a
+1a
+b
+
+b
+A1
+0 daa  a
+1
+1fc
+.
+b
+b
+A2
+0 daa  a
+1
+#2f
+xd
+b
+.
+1.cd a
+2a
+1 d
+2   c
+#3f
+xd
+b
+1.cd a
+2a
+1 d
+2    a
+#3d
+xf
+b
+1h  f
+1f  e
+1d  c
+1c  a
+b
+0acd a
+1
+#2 c
+x d
+b
+1.acd a
+2c
+1a
+2   c
+#3 c
+x d
+b
+
+b
+1.acd a
+2c
+1a
+2   c
+#3f
+xd
+b
+1.cd a
+2a
+0 d
+b
+0acd a
+0 cd a
+b
+A1
+0 daa  a
+1
+#2f
+xd
+.
+b
+b
+A2
+Y daa  a
+b
+b
+
+e

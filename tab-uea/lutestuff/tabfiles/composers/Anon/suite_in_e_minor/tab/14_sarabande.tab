@@ -1,0 +1,107 @@
+-C
+-t
+-f
+b
+S3
+1  aa  /a
+2  b&,
+#3  a U
+x  b X
+1  d
+b
+1.  dc  //a
+2  d
+#2 a
+x c
+b
+1ad    ///a
+2 c&,   d
+#3a
+x c
+#2a
+x c
+b
+
+b
+1. aba  d
+2 a
+#2     a
+x  d
+b
+1  b&,   a
+#2   c  U
+x   a  X
+#2  d c
+x  b
+b
+1.  aad /a
+2  a
+1  c&x
+b
+#2      //a
+x  d
+1.  d&,a  ///a
+2  c
+b
+1  d   4
+0     d&#
+b
+
+b
+#2c&x
+xa
+1. c&,   d
+2     b&,
+b
+1ada  a
+#2 d
+x c
+1 a&,   b
+b
+#2 c&,b   a
+x a
+1.  e&,e a
+2 a
+b
+1 af   ///a
+#2 aaaa
+x c
+#2 a&,
+x  d
+b
+
+b
+1.  c&,c  a
+2      /a
+#2  d   //a
+x  b
+b
+1.  a&,a  /a
+2  b
+1  d
+b
+#2   c  //a
+x  a
+1.   a&,  ///a
+#3    c
+x   a
+b
+1    c
+1      4
+2.  d
+3  b
+b
+
+b
+#2  a U /a
+x  b X
+1.   c  4
+#3   a
+x    c
+b
+1   ad
+0      /a
+b
+b
+P
+e

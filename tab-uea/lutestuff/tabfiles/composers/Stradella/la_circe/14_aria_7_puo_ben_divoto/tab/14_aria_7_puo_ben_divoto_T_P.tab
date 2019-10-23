@@ -1,0 +1,287 @@
+-C
+-t
+-f
+{/}
+b
+1acd
+1  c
+1ccde
+1   c
+b
+1c da
+1a d e
+1 dd c
+1adc  a
+b
+1acd a
+1aa   e
+1ccd  c
+#2aad  a
+x  c
+b
+1 cdc  ///a
+1    a
+1aa   e
+#2ccd  c
+x e
+b
+1aac  a
+1   c
+1 acb
+#2a c e
+x  e
+b
+1 efec
+1    a
+1aa   e
+1acd a
+b
+1aac c
+1 ea   //a
+1aacc
+1   a
+b
+
+b
+1a d e
+1    c
+1acd a
+1     e
+b
+1ccd  c
+1cdd   a
+1acd a
+1aac  a
+b
+1acd
+1  b
+1ccde
+1   c
+b
+1c da
+1    e
+1cd  c
+1da   d
+b
+1cdda
+1ac  a
+1 daa
+1a d e
+b
+1cd  c
+1    a
+1da   d
+1cdd   a
+b
+1acd a
+1    e
+1 daa
+1a d e
+b
+1 db c
+1a dfe
+1cdda
+1da   d
+b
+1cdd a
+1acd   ///a
+1 da a a
+1 dd  c
+b
+
+b
+1 df  d
+1acb  a
+1cce  c
+1ca    a
+b
+1aac  a
+1 ce  c
+1 aba d
+1 aa   a
+b
+1 ac  a
+1  eeec
+1 aaa  //a
+1  dc  /a
+b
+1  aa  a
+1a d   /a
+1cdd   a
+1aac  a
+b
+1acd a
+1      ///a
+1a d   /a
+1cad   a
+b
+1aac  a
+1a d   /a
+1cdd   a
+1aac  a
+b
+1 cde c
+1a d   /a
+1cad   a
+1aac  a
+b
+0 cdca
+b
+b
+1ccd
+1aac
+1 dde
+1 ccc
+b
+
+b
+1 daa
+1a d e
+#2 da c
+x  c
+1 cdca
+b
+1 adc
+1aac  a
+1fcd
+1  c
+b
+1fca
+1   c
+1c da
+1a d e
+b
+1 dd c
+1adc  a
+1acd a
+1aa   e
+b
+1 cd  c
+#2aad  a
+x  c
+1acd a
+1aa   e
+b
+1ccd  c
+1 ea c
+1aac  a
+1 aa   b
+b
+1acc   /a
+1cce  c
+1 ea c
+1    a
+b
+1aa   e
+1 c  a
+1a c c
+1 ea   //a
+b
+1aacc
+1   a
+1a d e
+1 dc c
+b
+
+b
+1 cdca
+1     e
+1 dd  c
+1cdd   a
+b
+1acd a
+1aac  a
+1acd
+1  b
+b
+1ccde
+1   c
+1cdda
+1a d e
+b
+1 da c
+1 df  d
+1 daa
+1acd a
+b
+1 daa
+1a d e
+1cd  c
+1    a
+b
+1da a d
+1cdd   a
+1acd a
+1    e
+b
+1 daa
+1a d e
+1dd  c
+1df  e
+b
+1cdda
+1 df  d
+1 daaa
+1 cdc  ///a
+b
+1 da a a
+1     c
+1 aba d
+1 cbc a
+b
+
+b
+1  eeec
+1 aaa  a
+1 ac  a
+1  eeec
+b
+1 aba d
+1 aaa  a
+1 ac  a
+1  eeec
+b
+1 aaa  //a
+1  dc  /a
+1  aa  a
+1a d   /a
+b
+1cdd   a
+1aac  a
+1acd a
+1      ///a
+b
+1a d   /a
+1cdd   a
+1aac  a
+1a d   /a
+b
+1cdd   a
+1aac  a
+1 cd  c
+1a d   /a
+b
+1cdd   a
+1aac  a
+0 cdca
+b
+b
+1acd
+1aac
+1ccde
+1ea c
+b
+1fdaa
+1a d e
+1 da c
+1acd a
+b
+
+b
+1aadc
+1  c  a
+Yacd a
+b
+b
+
+e

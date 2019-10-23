@@ -1,0 +1,692 @@
+-C
+-t
+-f
+{71. Go merrily, wheel/Anonymous}
+b
+2a
+b
+2f
+#3 c
+x d
+2a
+#3  d
+x a
+x c
+x d
+2a
+b
+2f
+#3e
+xc
+xa
+x d
+#3 c
+x a
+x c
+x d
+2 c
+b
+#3 d
+x c
+x d
+xa
+2c
+#3c
+xa
+xc
+xe
+2c
+b
+2 ea c
+1 a
+1 aa c
+2 a
+b
+b
+
+b
+#3 d
+x a
+x c
+x d
+xa
+x a
+#3c
+x d
+xa
+xc
+xe
+xc
+b
+#3f
+xa
+x c
+x d
+xa
+x a
+#3a
+x d
+x c
+x a
+x c
+x  d
+b
+#3 d
+x c
+x d
+xa
+xc
+x d
+#3 a
+x  d
+x a
+x c
+x a
+x  c
+b
+1  dca
+2  d
+1  dca
+2 a
+b
+b
+2 d
+#3 c
+x d
+xa
+x a
+2c
+#3a
+xc
+xe
+xc
+b
+
+b
+2f
+#3e
+xf
+xa
+x c
+2a
+#3 d
+xa
+x c
+x  d
+b
+2 d
+#3 c
+x d
+x  d
+x  a
+2 a
+#3  d
+x a
+x  c
+x   c
+b
+1  dca
+2  d
+1  dca
+2a
+b
+b
+2f
+#3e
+xf
+2a
+2 c
+#3 a
+x c
+2  d
+b
+2f
+#3e
+xf
+2a
+2 c
+#3 a
+x c
+2  d
+b
+
+b
+2 d
+#3 c
+x d
+2 a
+2c
+#3a
+xc
+x d
+xc
+b
+1 ea c
+2 a
+1 aa c
+2 a
+b
+b
+#2 d
+x a
+xa
+#2c
+x d
+xe
+b
+#2f
+x c
+xa
+#2 c
+x  d
+x c
+b
+#2 d
+x  d
+x d
+#2 a
+x  c
+x a
+b
+1  dca
+2  d
+1  dca
+2 a
+b
+b
+
+b
+#3 d
+x a
+xh
+x d
+xa
+x a
+#3c
+x  d
+xf
+xc
+xe
+x a
+b
+#3f
+x  h
+xk
+xf
+xa
+x c
+#3f
+xa
+x c
+x  d
+xa
+x c
+b
+#3c
+x d
+xf
+x  d
+xc
+x d
+#3 a
+x  c
+xa
+x a
+x  c
+x   c
+b
+1  dca
+2  d
+1  dca
+2a
+b
+b
+
+b
+#txk
+xh
+#txe
+xf
+#tx c
+x a
+#tx a
+x c
+#txa
+x d
+#tx d
+xa
+b
+#txf
+xe
+#txa
+xc
+#tx d
+xa
+#txa
+x d
+#tx a
+x c
+#tx a
+x c
+b
+#txc
+xa
+#tx c
+x d
+#tx c
+x d
+#txc
+xa
+#tx d
+x c
+#txc
+xa
+b
+
+b
+1 ea c
+2 a
+1 aa c
+2 a
+b
+b
+#3 d
+xa
+#2c
+xa
+#3c
+xe
+#2f
+xe
+b
+#3f
+xh
+#2k
+xf
+#3 c
+x d
+#2a
+x c
+b
+#3 d
+xa
+#2c
+x d
+#3  c
+x  d
+#2 a
+x  c
+b
+1  dca
+2  d
+1  dca
+2 a
+b
+b
+
+b
+#4 d
+x c
+x d
+x f
+#4 d
+x a
+x c
+x d
+2a
+#4c
+xa
+xc
+xe
+#4c
+x d
+xa
+xc
+2e
+b
+#4f
+xe
+xf
+xh
+#4f
+xc
+xe
+xf
+2a
+#4 c
+x a
+x c
+x d
+#4 c
+x  d
+x a
+x c
+2  d
+b
+#4 d
+x c
+x d
+xa
+#4c
+x d
+xa
+xc
+2 d
+#4 a
+x  d
+x a
+x c
+#4 a
+x  c
+x  d
+x a
+2  c
+b
+
+b
+1  dca
+2  d
+1  dca
+2a
+b
+b
+2f
+#3e
+xc
+xa
+x d
+#2 c
+x  d
+xa
+b
+2f
+#3e
+xc
+xa
+x d
+#2 c
+x  d
+x c
+b
+2c
+#3a
+x d
+x c
+x a
+#2c
+x c
+xc
+b
+1 ea c
+2 a
+1 aa c
+2 a
+b
+b
+
+b
+3 d
+#4 c
+x d
+3 a
+#4 c
+x d
+#3a
+x a
+3c
+#4a
+xc
+3 d
+#4a
+xc
+#3e
+xc
+b
+3f
+#4e
+xf
+3a
+#4c
+xe
+#3f
+xa
+3 c
+#4 a
+x c
+3  d
+#4 c
+x d
+#3a
+x c
+b
+3 d
+#4 c
+x d
+3 a
+#4 d
+xa
+#3c
+x d
+3 a
+#4  d
+x a
+3  c
+#4  d
+x a
+#3 c
+x a
+b
+1  dca
+2  d
+1  dca
+2
+b
+b
+
+b
+#tx c
+x d
+#tx c
+x d
+#tx d
+xa
+#txa
+xc
+#txa
+xc
+#txc
+xe
+b
+#txe
+xf
+#txe
+xf
+#tx d
+xa
+#tx d
+xa
+#tx a
+x c
+#tx a
+x c
+b
+#txa
+xc
+#tx c
+x d
+#tx c
+x d
+#tx  d
+x a
+#tx  d
+x a
+#tx  a
+x  c
+b
+1.  dca
+1
+2a
+b
+b
+
+b
+#3f
+xh
+xk
+xf
+2a
+#3  d
+x a
+x c
+x  d
+2a
+b
+#3f
+xh
+xk
+xf
+2a
+#3  d
+x a
+x c
+x  d
+2a
+b
+#3 a
+x c
+x d
+x a
+2c
+#3  e
+x a
+x c
+x  e
+2c
+b
+1 ea c
+2 a
+1  a
+2 a
+b
+b
+#4 d
+x c
+x d
+xa
+#3c
+x d
+2a
+#4c
+xa
+xc
+xe
+#3f
+xc
+2e
+b
+
+b
+#4f
+xe
+xf
+xh
+#3k
+xf
+2a
+#4 c
+x a
+x c
+x d
+#3a
+x c
+2  d
+b
+#4 d
+x c
+x d
+xa
+#3c
+x d
+2  a
+#4  c
+x  a
+x  c
+x  d
+#3 a
+x  c
+3   c
+#4  a
+x  c
+b
+1  dca
+2  d
+1  dca
+2 a
+b
+b
+3 d
+#4 a
+x c
+#4 d
+x a
+x c
+x d
+#3a
+x a
+3c
+#4 d
+xa
+#4c
+x d
+xa
+xc
+#3e
+xc
+b
+
+b
+3f
+#4c
+xe
+#4f
+xc
+xe
+xf
+#3a
+x c
+3a
+#4 c
+x d
+#4a
+x c
+x d
+xa
+#3 c
+x  d
+b
+3 d
+#4 a
+x c
+#4 d
+x c
+x a
+x  c
+#3  d
+x  a
+3 a
+#4  c
+x  d
+#4 a
+x  c
+x  d
+x a
+#3  c
+x   c
+b
+1  dca
+2  d
+Y.  dca
+b
+b
+
+e

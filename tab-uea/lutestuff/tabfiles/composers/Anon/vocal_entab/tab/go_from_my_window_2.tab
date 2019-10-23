@@ -1,0 +1,428 @@
+-t
+-f
+{Go From My Window/Anon.}
+b
+1 dda
+#2 d
+xa
+1cdda
+1acd a
+b
+#2   a
+x d
+x  d
+x   a
+1 dda
+1 dda
+b
+1aa c a
+#2a
+xc
+1da c
+1caa c
+b
+#2     a
+xaac
+x   c
+x     a
+0aac  a
+b
+
+b
+1aa c a
+#2a
+xc
+1da c a
+#2c
+xa
+b
+#2 dba d
+xa
+xc  a
+x d
+1acd a
+1  d
+b
+1 dda
+#2 d
+xa
+1cdda
+1acd a
+b
+#2   a
+x d
+x  d
+x   a
+0 dda
+b
+b
+
+b
+#2 d a
+x c
+x d
+xa
+#2c  a
+x d
+xa   a
+x c
+b
+#2 d a
+x  d
+x  a
+x  b
+#2  d
+x  a
+1   a
+b
+#2a    a
+x d
+xa
+xc
+#2d  c
+xa
+xc  b
+x    c
+b
+#2a    a
+x a
+x  c
+x  d
+#2 a
+x  c
+1   c
+b
+
+b
+#2a    a
+x d
+xa
+xc
+#2d
+x  b
+x d
+xa
+b
+#2c  a
+x d
+xd
+xc
+#2a   a
+x c
+1  d
+b
+#2 d a
+x c
+x d
+xa
+#2c  a
+xd
+1acd a
+b
+1 dda
+1  d
+1  a
+1   a
+b
+b
+
+b
+#2   a
+xf
+#3c
+xd
+2f
+#2c  a
+x d
+xa   a
+x c
+b
+#2 d a
+x  d
+#3  a
+x  b
+2  d
+#2  a
+x   a
+x  d
+x  a
+b
+#2a    a
+xh
+#3d
+xf
+2h
+#2d    a
+xa
+xc   c
+x e
+b
+
+b
+#2a    a
+x a
+#3  c
+x  d
+2 a
+#2  c
+x   c
+1     a
+b
+#2     a
+xd
+#3a
+xc
+2d
+#2     d
+x d
+#3 a
+x c
+2 d
+b
+#2   a
+xf
+#3c
+xd
+2f
+#2    a
+x c
+#3  d
+x a
+2 c
+b
+
+b
+#2   a
+x d
+#3 a
+x c
+x d
+xa
+2c  a
+#3d
+xc
+2a  ca
+#3 d
+x c
+b
+#2 d a
+x  d
+#3  a
+x  b
+2  d
+#2  a
+x   a
+1      a
+b
+b
+2 dda  a
+#3  d
+x  b
+#2  a
+xa b
+#2c da
+x d
+xadd a
+x c
+b
+
+b
+2 dda
+#3 b
+x a
+#3 b
+x a
+x  d
+x  b
+#2  d
+x  a
+1   a
+b
+2a bc a
+#3 a
+x  d
+#2  b
+xc d
+#2da
+xa
+xc   c
+x e
+b
+2a    a
+#3 d
+x c
+#3 d
+x c
+x a
+x  d
+#2 a
+x  c
+1   c
+b
+
+b
+2a bc
+#3 a
+x  d
+#2  b
+xc d
+2da c
+#3c
+xd
+#2c de
+xa
+b
+2. dff
+3a
+2c  a
+#3d
+xc
+#3a   a
+x d
+x c
+x a
+2  d
+#3f
+xd
+b
+2c  a
+#3  d
+x  b
+#2  a
+xa b
+#2c da
+x d
+xadd a
+x c
+b
+
+b
+2 dda
+#3 b
+x a
+#3 b
+x a
+x  d
+x  b
+#2  d
+x  a
+1   a
+b
+b
+2 dda
+#3  b
+x  d
+#3 a
+x c
+x d
+xa
+#3c  a
+xa
+xc
+x d
+#3a   a
+x d
+xa
+x c
+b
+
+b
+#3 d a
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xd
+#2cd
+x  d
+1   a
+b
+2aab  a
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+#3d    a
+xc
+xd
+xa
+#3c   c
+xa
+xc
+x e
+b
+
+b
+#3a    a
+x a
+x c
+x a
+#3  d
+x  c
+x  d
+x  a
+#2aac
+x   c
+1     a
+b
+2aab  a
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+2da c
+#3c
+xd
+#2c de
+xa
+b
+
+b
+2. dff
+3a
+#3c  a
+x d
+xd
+xc
+#3a   a
+x d
+x c
+x a
+2 c
+#3 a
+x c
+b
+2 d a
+#3  b
+x  d
+#3 a
+x c
+x d
+xa
+2c  a
+#3d
+xc
+#3a
+x d
+x c
+xa
+b
+2 dda
+#3 a
+x c
+#3 d
+xa
+xc
+xd
+0cdda
+b
+b
+Q
+
+e

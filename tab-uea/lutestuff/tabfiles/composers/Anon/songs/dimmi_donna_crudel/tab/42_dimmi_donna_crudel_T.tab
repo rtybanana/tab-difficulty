@@ -1,0 +1,105 @@
+-C
+-t
+-f
+{Dimmi donna crudel/Dimmi donna crudel}
+b
+c
+0acd
+1 cde
+1 dff
+1acd
+1cd a
+0acd
+b
+A1
+1aa c
+0 dda
+1 cde
+1 a c
+1  c
+0  d a
+.
+b
+b
+A2
+1aa c
+0 dda
+1 cde
+1 a c
+1  c
+1  d a
+1acd
+b
+1acd
+1ac
+1ca
+1cef
+1ef c
+1ef c
+1fc e
+1ef c
+b
+
+b
+1c f
+1 e
+1a  c
+1 cd
+1 ac
+1  cc
+1  de
+1f de
+b
+.
+1ea c
+1a
+1c
+1c  a
+1a c e
+1  d a
+#2    c
+x  d
+1 dc c
+b
+1 cd a
+1a d
+1 df
+1aa c
+1 cde
+1fd a
+1e  c
+1ac  e
+b
+#2c  a
+x   c
+xc a
+x  c
+0acd
+1 cd a
+0 da c
+1 cd a
+b
+
+b
+A1
+#2 a c
+x  d
+1  c
+1  d a
+1 cd
+1 ac
+1  cc
+1  de
+1f de
+.
+b
+b
+A2
+#2 a c
+x  d
+1  c
+0  d a
+b
+b
+
+e

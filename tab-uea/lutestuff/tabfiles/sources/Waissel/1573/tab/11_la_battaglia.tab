@@ -1,0 +1,350 @@
+-C
+-t
+-f
+{11. La Battaglia/11. La Battaglia}
+b
+c
+#2fdaa
+xe
+xf
+xh
+1fdaa
+1fdaa
+b
+#2cdda
+xa
+#3c
+xa
+xc
+xd
+1cdda
+1dab  d
+b
+1dab  d
+#2d
+xc
+#2aab  d
+x d
+#3a
+x d
+x c
+x a
+b
+#2 cdca
+x  c
+x  d
+x a
+2 cdca
+#3 a
+x c
+#3 d
+xa
+xc
+xd
+b
+
+b
+#2fcd a
+x  c
+x  d
+x a
+1fcd a
+1fcd a
+b
+1cdda
+1fcd a
+1dab  d
+1cdda
+b
+#2abb d
+x d
+xa
+x c
+2 dda
+#3a
+xc
+#3d
+xc
+xa
+x d
+b
+#2 cdca
+x d
+x c
+x a
+0 cdca
+.
+b
+b
+.
+1
+1  dca
+#2 aba d
+x  d
+#3 a
+x  d
+x a
+x c
+b
+
+b
+2 da c
+#3 a
+x c
+#3 d
+x a
+x c
+x d
+#3 cdca
+x a
+x  d
+x  c
+#3  d
+x a
+x c
+x d
+b
+1 c
+1 cdca
+1 aba d
+1 cdca
+b
+1 da c
+1abb d
+2cdda
+#3 d
+xa
+#3c
+x d
+xa
+xc
+b
+1aabc
+2 dda
+#3a
+xc
+2dab  d
+#3a
+xc
+#3d
+xa
+xc
+xd
+b
+2cdda
+#3a
+xc
+#3d
+xc
+xa
+x d
+1aabc
+1 dda
+b
+
+b
+2 cdca
+#3 a
+x c
+#2 da c
+x     d
+2 ddca
+#3 c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+2 dda
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+0 ddef
+.
+b
+b
+.
+1
+1cd
+1fh
+#2fh
+xfh
+b
+#2df
+xcd
+xac
+xda
+1cd
+1  aa
+b
+1  d a
+#2  d a
+x  d a
+#2  bc
+x  aa
+x   ce
+x  bc
+b
+1  aa
+1cd
+#3a
+x d
+xa
+xc
+2da
+#3c
+xa
+b
+
+b
+1cd
+1  aa
+#3   c
+x   a
+x   c
+x  a
+2  bc
+#3  a
+x   c
+b
+1  aa
+1cdda
+1abb d
+1 daac
+b
+#3 cdca
+x d
+xa
+xc
+#3d  ac
+xc
+xa
+x d
+#3   ca
+x d
+x c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+#3 daa
+x c
+x d
+xa
+#3c
+xa
+x d
+x c
+0 ddef
+.
+b
+b
+
+b
+.
+#2cdda
+xd
+xc
+xa
+#3cdda
+xa
+x d
+x c
+#3 d
+xa
+xc
+xd
+b
+#2cdda
+xcdda
+xcdda
+xcdda
+#2cdd
+x   a
+xfda
+x   a
+b
+#2cdda
+xd
+xc
+xa
+2cdda
+#3a
+xc
+#3d
+xc
+xa
+x d
+b
+#2acd a
+x  c
+x  d
+x a
+#3acd a
+x d
+xa
+xc
+#3a
+x d
+x c
+x a
+b
+1acd a
+#2cdda
+x dda
+#2acd a
+xacd a
+xcdda
+x dda
+b
+
+b
+#2acd a
+xacd a
+xcdda
+x dda
+#2acd a
+xacd a
+#3cdda
+xa
+xc
+xd
+b
+#2cdda
+xa
+x da c
+x     d
+2 ddca
+#3 c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+#3 dda
+x  b
+x  d
+x a
+#3  d
+x  b
+x  a
+x   c
+Y ddef
+.
+b
+b
+
+e

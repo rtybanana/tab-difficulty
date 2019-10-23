@@ -1,0 +1,127 @@
+-C
+-t
+-f
+{/}
+b
+c
+1. abc a
+2     c
+1 ab  d
+1 a c e
+b
+1 cdca
+1 ca b
+1 da c
+1 ab  d
+b
+1 abcd
+1  d
+1. aa c
+2    a
+b
+#2 ab  d
+x c
+1 dd  c
+1 db  a
+1dc c
+b
+1cdda
+1cdda
+#2 db c
+xa b d
+x bb a
+x  a
+b
+0 ab  d
+2. bbcd
+3   a
+#3 bbc
+x  a
+x ab  d
+x    a
+b
+#2 aabc
+x abc
+x aacc
+x   b
+0 acc a
+b
+
+b
+0 cdca
+1 a c e
+1 ca b
+b
+1. da c
+2 c  a
+#2 a   d
+x     c
+1 a   d
+b
+1 cee c
+2. cd  c
+3 e
+1aabc a
+1 dff d
+b
+1 dda
+1 abc
+1. aa c
+2    e
+b
+1 aab
+1 acc
+0 cdca
+b
+1 ea c
+1aacc a
+#2 cee c
+x  f
+x c e c
+x  e
+b
+1. aabc
+2 aabc
+1 ab  d
+1 ab  a
+b
+1 cdca
+1 dda
+1 ab  d
+1  d  c
+b
+0 abc a
+1 bbcd
+1abd a
+b
+
+b
+1cdda
+2. dff
+3   e
+2aabc
+2ca b
+1da c
+b
+#2abd
+x  b
+xccee
+x   c
+#2cdda
+x    e
+xca  c
+x    a
+b
+#2 ab  d
+x     c
+1 abc a
+#2 aabc
+x   c
+x aa c
+x   b
+b
+Y acc a
+b
+b
+
+e

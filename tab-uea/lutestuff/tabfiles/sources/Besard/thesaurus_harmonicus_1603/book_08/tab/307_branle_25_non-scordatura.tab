@@ -1,0 +1,375 @@
+-C
+-t
+-f
+{307. Branle 25/307. Branle 25}
+b
+c
+1 db  d
+#2 b
+x  d
+b
+.
+#2 a
+x     d
+x  ba
+xa
+#2 db  d
+x a
+x b
+x  d
+b
+2 ab  d
+#3  d
+x a
+2  b
+#3  a
+x  b
+2  da
+#3  b
+x  d
+#3  a
+x  b
+x  d
+x  a
+b
+2 a   d
+#3  d
+x a
+#3  b
+x  d
+x a
+x b
+#2 d
+x     d
+x b
+x  d
+b
+
+b
+#2 a
+x     d
+x  ba
+xa
+2 db  d
+#3 b
+x a
+#3  d
+x a
+x b
+x  d
+b
+2 ab  d
+#3   a
+x   c
+#3  a
+x  b
+x  d
+x a
+#3 b    a
+x a
+x  d
+x  b
+#3  a
+x  b
+x  d
+x  a
+b
+#2  b
+x     d
+2   a
+#3 a
+x b
+#2dd
+x     d
+x b
+x  d
+b
+#2da
+x     d
+x   a
+xdf
+#2     d
+xdd
+x b
+x  d
+b
+
+b
+2da   d
+#3  d
+x a
+2  b
+#3 b
+x a
+2c da
+#3  b
+x  d
+#3  a
+x  b
+x  d
+x  a
+b
+2da   d
+#3  d
+x a
+#3  b
+x  d
+x a
+x b
+#2dd
+x     d
+x b
+x  d
+b
+#2da
+x     d
+#3d
+xb
+xa
+x d
+2a    d
+#3 d
+x b
+#3 a
+x b
+x d
+x b
+b
+2 a   d
+#3a
+x d
+#3 b
+x d
+x b
+x a
+#3  da
+x a
+x  d
+x  b
+#3  a
+x  b
+x  d
+x  a
+b
+
+b
+A1
+#2  b
+x     d
+1   a
+1 db  d
+#2 b
+x  d
+.
+b
+b
+A2
+#2  b
+x     d
+2   a
+#3a
+xc
+2d
+#3     d
+xc
+2a
+#3c
+xd
+b
+.
+2f
+#3   a
+xd
+2c
+#3d
+xf
+#2h
+x   f
+xf  e
+xd  c
+b
+#3c  a
+xd
+xf
+xc
+#3d b
+xc
+xa
+x d
+#2 cd
+x da
+#3a b
+x d
+2 cd
+b
+
+b
+#2 d
+x   a
+2      a
+#3a
+xc
+#2d  c
+xa   d
+x d  c
+x b  a
+b
+#3 d   d
+x b
+x a
+x  d
+#2  b
+x d
+#2 bdd
+x d
+2 ab
+#3  a
+x   c
+b
+#3  da
+x a
+x b
+x  d
+#3 a   d
+x b
+x d
+x a
+#3 b c
+x a
+x  d
+x  b
+#3  a   a
+x  b
+x  d
+x  a
+b
+A1
+#2  b
+x     d
+2   a
+#3a
+xc
+2d
+#3     d
+xc
+2a
+#3c
+xd
+.
+b
+b
+
+b
+A2
+#2  b
+x     d
+2   a
+#3a
+xc
+#3d    d
+xf
+xd
+x h
+#3 f
+x h
+xd
+x f
+b
+.
+#3f  a
+xd
+xc
+xa
+#3c
+xd
+xf
+xc
+#2h
+x   f
+xf  e
+xd  c
+b
+#3c  a
+xd
+xf
+xc
+#3d  c
+xc
+xa
+x d
+2f a
+#3d b
+xc
+#3a
+x d
+2acd
+b
+1 d a
+2      a
+#3a
+xc
+#2d  c
+xa   d
+x d  c
+x b  a
+b
+
+b
+2 a   d
+#3  b
+x  d
+#3 a
+x b
+x d
+x a
+#3    d
+x b
+x d
+x b
+#3  b
+x a
+x b
+x a
+b
+#3  da
+x a
+x b
+x  d
+#3 a   d
+x b
+x d
+x a
+#3 b c
+x a
+x  d
+x  b
+#3   a
+x  b
+x  d
+x  a
+b
+A1
+#2  b
+x   a
+2     d
+#3a
+xc
+#3d    d
+xf
+xd
+x h
+#3 f
+x h
+xd
+x f
+.
+b
+b
+A2
+#2  b
+x   a
+0.     d
+b
+b
+
+e

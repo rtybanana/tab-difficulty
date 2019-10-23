@@ -1,0 +1,246 @@
+-C
+-t
+-f
+{Ricercar 10/Ricercar 10}
+b
+c
+1. aa c
+2    a
+#2 a  c
+x    a
+x     d
+x     c
+b
+1. a   a
+2  d
+#2 a
+x  d
+x  b
+x  a
+b
+1 abc a
+#3  a
+x   c
+x   a
+x    d
+#2 a  c
+x    d
+x   a
+x   c
+b
+
+b
+#2 b  a
+x     d
+x    a
+x    c
+#2 b  d
+x    c
+x    d
+x   a
+b
+#2 a c
+x  d
+x a
+x  d
+#2  bc
+x  d
+x a
+x b
+b
+#2 a c
+x c
+x d
+xa
+#2 d  c
+x b
+#3 d
+x b
+x a
+x  d
+b
+#2 a  c
+x c
+x d
+xa
+1 d  c
+#2 b
+x a
+b
+
+b
+#2 b  c
+x a
+#3 b
+x a
+x  d
+x  b
+#2  aac
+x  b
+x  d
+x a
+b
+#2    d
+x  d
+#3 a
+x  d
+x  c
+x  d
+#2 d  c
+xa
+xc
+xd
+b
+#2f
+xd
+#3f
+xd
+xc
+xa
+#2 d  c
+x c
+x d
+xa
+b
+
+b
+#2bd
+xa
+#3b
+xa
+x d
+x c
+#2 df
+x b
+x d
+x  d
+b
+#2 a
+x  d
+x  b
+x   d
+1  bc
+1d
+b
+#2   a
+xc
+#3d
+xc
+xa
+xc
+#2d bc
+xc
+xd
+xc
+b
+1    d
+1a d
+1    c
+1 db
+b
+
+b
+#2    a
+x b
+#3 d
+x b
+x a
+x  d
+#2 a   d
+x  d
+1  b
+b
+#2    a
+x  a
+#3  b
+x  a
+x   c
+x  a
+#2  b  d
+x  a
+x  b
+x  d
+b
+#2 ab
+x  d
+x a
+x c
+#2 df
+x c
+x d
+xa
+b
+#2c da
+xa
+xc
+xe
+#2f   a
+xe
+xc
+xa
+b
+
+b
+#2c d
+xa
+x d
+x b
+#2 ab
+x b
+x d
+xa
+b
+#2 d  c
+x b
+#3 d
+x b
+x a
+x  d
+#2 a  c
+x    d
+x   a
+x   c
+b
+#2 a c
+x   a
+x    d
+x    c
+#2    d
+x  d
+#3 a
+x  d
+x  c
+x  d
+b
+
+b
+#2 aa c
+x    a
+x    c
+x    e
+#2 aaa
+x  b
+x  d
+x  a
+b
+1 abc
+#3  d
+x  b
+x  a
+x   c
+1 abc
+#2  a
+x   c
+b
+0 abc
+0 aa c
+b
+#2 ab  a
+x     c
+x     d
+x    a
+Y aa c
+b
+b
+
+e

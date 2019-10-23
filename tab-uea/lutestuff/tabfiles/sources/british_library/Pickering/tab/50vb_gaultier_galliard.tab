@@ -1,0 +1,64 @@
+-C
+-t
+-f
+{Galliard/Anonymous}
+b
+#2aad a
+xb
+#2\4d
+x  \2c
+#2  a
+xd
+b
+1\2c  "#   //a
+1.\4d\2cc  a
+2   c  /a
+b
+#2  a   a
+x  \2c
+#2  \4d
+x  {   /a
+#2      //a
+x  d
+b
+1  c  a
+1  dca
+1      ///a
+.
+b
+b
+.
+1.a  "# a
+2 \2c   \4e
+1  \4d  \2c
+b
+#2  \2c
+x  a
+1.  \2c "# a
+2   \1c  /a
+b
+#2  a   a
+x  c
+#2  d
+x    { /a
+#2     }//a
+x  d
+b
+
+b
+A1
+1  c "# a
+1  dca
+#2      ///a
+x c
+.
+b
+b
+A2
+1  c "# a
+1  dca
+1      ///a
+b
+b
+
+e

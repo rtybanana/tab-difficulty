@@ -1,0 +1,131 @@
+-C
+-t
+-f
+{/C.W. von Gluck}
+b
+.
+0 da a 7
+1
+b
+0 db c a
+1
+b
+0 da a a
+1
+b
+1 da a 7
+1      a
+1 cdca
+b
+#2 a a d
+x d
+#2  d  c
+x d
+#2  b  a
+x d
+b
+#2 da a a
+x  d
+#2 c c a
+x  b
+#2 da  c
+x  d
+b
+1 aba d
+1 ddca
+1 cdc  ///a
+b
+1 da a a
+1      ///a
+1      7
+.
+b
+b
+.
+0 da a 7
+1
+b
+1cdd   a
+1dcd  a
+1fd   c
+b
+
+b
+1fcd a
+1.caaa
+2 cdb
+b
+1 acc
+1aac  a
+1      6
+b
+0acd  a
+1
+b
+1acd  a
+1aaca
+1a d e
+b
+0aac  a
+1 dcc
+b
+1 dc  a
+1 cdc
+1 acc
+b
+0 cdca
+1 daa
+b
+0aac
+1ccd
+b
+#2a d e
+xcada
+1aadc
+1 dc  a
+b
+1 cdca
+1      ///a
+1 cb
+b
+0 da a 7
+1
+b
+0 db c a
+1
+b
+0 da a a
+1
+b
+
+b
+1 da a 7
+1      a
+1 cdca
+b
+#2 a a d
+x d
+#2  d  c
+x d
+#2  b  a
+x d
+b
+#2 da a a
+x  d
+#2 c c a
+x  b
+#2 da  c
+x  d
+b
+1 a a d
+1 ddca
+1 cdc  ///a
+b
+1 da a a
+1      ///a
+1      7
+.
+b
+b
+
+e

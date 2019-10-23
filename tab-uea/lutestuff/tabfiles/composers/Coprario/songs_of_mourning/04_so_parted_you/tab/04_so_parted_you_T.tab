@@ -1,0 +1,106 @@
+-C
+-t
+-f
+{4. So parted you/4. So parted you}
+b
+c
+w acc
+b
+0 a c e
+0 cd a
+b
+w acc a
+b
+0. acc
+1  d
+b
+0 acc
+1 aab
+1    e
+b
+1 aab
+0 acc
+1 a c e
+b
+1 cd a
+#2  cce
+x  d
+1 aacc
+1   b
+b
+0. acc a
+1     c
+b
+0 a c e
+1 cdca
+1 acc a
+b
+w aabc
+b
+0 acc a
+1 aabc
+1 a c e
+b
+1  dca
+1  da c
+1 adc a
+1  c
+b
+
+b
+0. cdca
+1 cdca
+b
+0 cdca
+1  def
+1 aabc
+b
+1 acc
+1a d e
+1cdda
+1aa c
+b
+1 cee
+1  f
+1 cfe
+1  e
+b
+w aabc
+b
+.
+0. cdca
+#2  c c
+x  a
+b
+w ccde
+b
+1 ccde
+0 cd  c
+1 cd  c
+b
+0 aabc
+0
+b
+0 a c e
+1 cdca
+1 cd  c
+b
+1. aabc
+2    a
+1 a c e
+#2     c
+x     a
+b
+
+b
+1 aab
+1 acc a
+1 aacc
+1   b
+b
+w acc a
+.
+b
+b
+
+e

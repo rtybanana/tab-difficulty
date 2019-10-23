@@ -1,0 +1,156 @@
+-C
+-t
+-f
+{202. Galliard/Anonymous}
+b
+1aac  a
+1 db  d
+1 bd a
+b
+1. acc a
+2 b
+1 ac  a
+b
+1 bd a
+1 db  d
+1ab  d
+b
+1. dba d
+2a
+1 db  d
+b
+1da c a
+1ca ac
+1ab cd
+b
+1 db  d
+#2    c
+x a
+#2 bd a
+x d
+b
+1aab  a
+1aa  c
+1 ea c
+b
+
+b
+1.aac  a
+2 d
+1 cdca
+b
+1 dda
+1 adc
+1 ac
+b
+A1
+1  d a
+0   c
+.
+b
+b
+A2
+1  d a
+1   c
+1da c
+b
+.
+0ca ac
+1ea c
+b
+1.fc  a
+2d
+1cdda
+b
+1.ddf  d
+2c
+1acd a
+b
+1.cdda
+2a
+1 ea c
+b
+1.aac  a
+2 d
+1 cd a
+b
+
+b
+#2 db  d
+x     c
+1aab  a
+1aabc
+b
+#2db  d
+x   a
+2db c
+#3cc e
+xa
+1 dff
+b
+1aab  a
+1 f ec
+1 e e
+b
+A1
+0aac  a
+1da c
+.
+b
+b
+A2
+0aac  a
+#2 a c
+x b
+b
+.
+1. dda
+2a
+1bdda
+b
+1ab  d
+1 db  d
+1 bd a
+b
+1 acc a
+1da c
+1abd a
+b
+
+b
+1cdda
+1 db  d
+1aab  a
+b
+1cdda
+1fc e c
+1dab  d
+b
+1abd a
+1bdda
+1 dba d
+b
+1.ab  d
+2 d
+#2 b  d
+x a
+b
+1  da
+1  dc a
+1 acc
+b
+A1
+1  d a
+1   c
+#2 a c
+x b
+.
+b
+b
+A2
+1  d a
+0   c
+b
+b
+
+e

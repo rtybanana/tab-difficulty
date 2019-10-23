@@ -1,0 +1,618 @@
+-C
+-t
+-f
+{52. Clamabat autem mulier/52. Clamabat autem mulier}
+b
+c
+w  aa
+b
+0.  aa
+1    e
+b
+1  aa
+1  c
+0   e
+b
+0  dc
+0  c
+b
+0. cd a
+1 d  c
+b
+0a   e
+0c  a
+b
+w d  c
+b
+w c  a
+b
+0 d    a
+1   a
+1a
+b
+1c d
+1a
+1 da
+1 c
+b
+0 abc
+1   c
+1 c
+b
+1 dda
+1a
+0c
+b
+
+b
+1      a
+1a
+1 d
+1 c
+b
+1 a   d
+1  d
+1  b c
+1    e
+b
+0  aa
+1   a
+1   c
+b
+1  aa
+1  c
+0  dce
+b
+0   ac
+0  c
+b
+w  dca
+b
+0  aa
+1  d
+1    e
+b
+1 d  c
+1    a
+0 d  c
+b
+0 c  a
+1   c
+1 a
+b
+1  de
+1  c
+0  d
+b
+0  b
+0 a
+b
+0
+1  d
+1  c
+b
+
+b
+0  d
+0  a
+b
+1 a c
+1  a
+1  b
+1  d
+b
+1 a
+1 c
+1 da
+1   c
+b
+0  a
+0a  ce
+b
+1 da c
+1a
+1c  a
+1  c
+b
+0  d
+1a   e
+1 d  c
+b
+0 c ce
+1    a
+1  a
+b
+1  b  d
+1  d
+1 a
+1    a
+b
+1    c
+1  d
+1  a
+1  c
+b
+0  d a
+0  aa  a
+b
+
+b
+1  b  d
+1    a
+1  aac
+1  c
+b
+0  dca
+0  cac
+b
+w  dca
+b
+w  da  a
+b
+w  da  a
+b
+1   a
+1   c
+1  a
+1  c
+b
+0  d e
+0 a  c
+b
+0   ce
+1  e
+1   e
+b
+0 ab c
+0  a
+b
+0  da
+0 a
+b
+1   a
+1  d
+1  a
+1  d
+b
+1  cc
+1   a
+1    e
+1    c
+b
+1  d a
+1  c
+0  d
+b
+
+b
+0    c
+1  c
+1  a
+b
+0  d
+0  c
+b
+w  d a
+b
+w  d a
+b
+0  da
+0 a  c
+b
+1  a
+1    e
+0  def
+b
+0 cd a
+0  d
+b
+1 d a
+1  b
+1  a
+1   c
+b
+w daa
+b
+0 da
+1   a
+1   c
+b
+1  a
+1  c
+0 cd a
+b
+0 aa c
+1 c  a
+1 e
+b
+0a c
+0 d
+b
+
+b
+1  b  d
+1 c
+1 a
+1  d
+b
+w ab  d
+b
+w ab  d
+b
+0  def
+1 ab  d
+1     c
+b
+1     a
+1 c
+0 dd   a
+b
+0  b  a
+0 c
+b
+w dd   a
+b
+0
+0  def
+b
+0
+0  def
+b
+0  def
+0  def
+b
+w ab  d
+b
+0  def
+1    f
+1 a
+b
+0 bb d
+0  def
+b
+w  dca
+b
+
+b
+1   ac
+#2     d
+x    a
+1   ac
+1    e
+b
+1  aa
+#2    e
+x    c
+1    a
+1    c
+b
+0   ce
+0  da
+b
+0    c
+0  c
+b
+w  d a
+b
+w   ca
+b
+0   ca
+0  a
+b
+1    a
+1   c
+0  d
+b
+0    c
+0  c
+b
+w  d a
+b
+0
+0   ca
+b
+0
+0   ca
+b
+1  b  d
+1    a
+1    c
+1    e
+b
+w  aa
+b
+
+b
+0
+0  def
+b
+0
+0  dca
+b
+w  def
+b
+w  ba d
+b
+w  b
+b
+0  b
+0  b
+b
+w  d
+b
+0 a   d
+1  b
+1  d
+b
+1 a   d
+1  d
+1  b  d
+1  a
+b
+1   ca
+1   a
+1   c
+1    a
+b
+0.   ac
+1    e
+b
+1  aa
+1  c
+0  da
+b
+0   c
+0  c
+b
+0  de
+1    f
+1   g
+b
+
+b
+1  de
+1    e
+0 a  c
+b
+0  bc
+0 c
+b
+w dda
+b
+0.  def
+1   g
+b
+0  def
+0 a ac
+b
+0   ce
+1  e
+1   e
+b
+0 ab c
+1  a
+1    a
+b
+w df  d
+b
+w cd a
+b
+0 aa c
+0 ab  d
+b
+w  dca
+b
+w  da  a
+b
+w  da  a
+b
+0  da
+0 d
+b
+1  da
+1 c
+1 d
+1a
+b
+
+b
+0c d
+0   a
+b
+1 df  d
+1    a
+1    c
+1    e
+b
+wc da
+b
+0  da
+1  a
+1  c
+b
+1  da
+1  b
+1  a
+1   c
+b
+1  a c
+1    e
+0   a
+b
+1   cd
+1    c
+1     d
+1    a
+b
+1   ac
+1    e
+0   a
+b
+0     f
+0    e
+b
+w   a  a
+b
+w   a  a
+b
+0  da
+0 a
+b
+
+b
+1   a
+1  d
+0 d
+b
+0  d
+0 c
+b
+0 df
+0   f
+b
+1 d
+1  b
+1  a
+1   c
+b
+w d a
+b
+1   a
+1   c
+1  a
+1  c
+b
+1  da
+1    e
+1    c
+1    a
+b
+0. ab  d
+1  a
+b
+w  dca
+b
+w  da  a
+b
+w  da  a
+b
+0.  def
+1    e
+b
+0  dca
+0    f
+b
+0  dc
+0    e
+b
+
+b
+w  def
+b
+0
+0 aa c
+b
+0
+0 ab  d
+b
+w  dca
+b
+w  da  a
+b
+w  da  a
+b
+0  da
+0 a
+b
+1   a
+1  d
+0 d
+b
+0   c
+0 c
+b
+0. d a
+1   c
+b
+1  aa
+1  c
+1  d
+1    e
+b
+0 a  c
+0 d ac
+b
+0 c ca
+0 ab  d
+b
+w  def
+b
+w a  c
+b
+
+b
+0  d
+0  bc
+b
+0 d a
+0  a
+b
+0    c
+0 d a
+b
+0 c ca
+0 ab  d
+b
+w  def
+b
+w a  c
+b
+0  d
+0  bc
+b
+0 d a
+0  a
+b
+0  a c
+0 d a
+b
+0 c ca
+0 ab  d
+b
+w  def
+b
+w a  c
+b
+0  d
+0  bc
+b
+w dda
+b
+w cd a
+b
+w a ac
+b
+w ab  d
+b
+w  dca
+b
+
+b
+w  dca
+b
+0  aac
+0 ab  d
+b
+0
+0    a
+b
+0 aa c
+0   ce
+b
+w  def
+b
+w      a
+b
+b
+
+e

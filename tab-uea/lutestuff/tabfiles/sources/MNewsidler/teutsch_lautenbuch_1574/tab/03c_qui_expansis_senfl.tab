@@ -1,0 +1,691 @@
+-C
+-t
+-f
+{3c. Qui expansis/Melchior Newsidler}
+b
+c
+0   c
+#3   c
+x   a
+x   c
+x   d
+2   c
+#3   a
+x    d
+b
+0 a a
+#3 a c
+x  d
+x  b
+x  d
+#3 a
+x  d
+#4 a
+x  b
+x  d
+x a
+b
+#3  dd
+x  b
+#4  d
+x  b
+x  d
+x a
+#2  d
+x   c
+#3 a a
+x  b
+x  d
+x a
+#3 b  d
+x a
+#4 b
+x a
+x b
+x d
+b
+
+b
+#2 b  a
+x a
+1  d d
+2.    c
+3  c
+#4  d
+x  c
+x  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+1a d a
+#2  b d
+x d
+#3ab  d
+x    c
+x    d
+x   a
+#3   c
+x   a
+x   c
+x   e
+b
+#3 dff
+x  d
+#4  f
+x  d
+x  f
+x  g
+#2  f
+x   d
+1ab c
+#3bd a
+xa
+#4b
+xa
+xb
+xd
+b
+#2b  a
+xa   d
+1 d  c
+2.   ca
+3 c
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+
+b
+1 dff d
+#2   f
+x  g
+#2  ff
+x   d
+xd  c
+x   a
+b
+#2 a c
+xb
+xa b
+x d
+1 bdca
+1if
+b
+#2i  hhf
+xh
+xf i
+x i
+2cdda
+#3d
+xc
+#3d
+xc
+#4d
+xc
+xa
+xc
+b
+#3ddf f
+x  g
+x d
+x f
+#3 d
+x  g
+#4 d
+x  g
+x  f
+x  d
+#2ddf fd
+x  d
+x  ff
+x   d
+b
+
+b
+#2dabc
+x  d
+x  b
+x   a
+2db cd
+#3a
+xb
+#3d
+xb
+#4d
+xb
+xa
+x d
+b
+#3 b cd
+x d
+xa
+x d
+#3 b
+x a
+x  d
+x  b
+1f dd b
+#2 b
+x   f
+b
+1fb d b
+#2  d
+xd
+#3fbdd b
+xd
+xb
+xd
+#3f
+xb
+xd
+xf
+b
+2d f fd
+#3  d
+x  f
+#3  g
+x  d
+x  f
+x  g
+#3  f fd
+x   f
+x  d
+x  f
+#3d g
+x  f
+#4  g
+x  f
+x  d
+x  f
+b
+
+b
+#3dfg d
+x g
+xd
+xf
+#3d
+x g
+#4d
+x g
+x f
+x d
+#3dfg d
+x d
+x f
+x g
+#3 f
+x g
+#4d
+x f
+x g
+xd
+b
+1fbd  b
+#2   d
+xd
+2fbdd b
+#3d
+xb
+#4 f
+x d
+x b
+x  e
+#4 b
+x  e
+x  d
+x  b
+b
+1 bdd b
+#2f
+x     d
+1ffg hf
+#2i
+x h
+b
+2.dffc a
+3c
+#3d
+xc
+#4d
+xc
+xd
+xf
+1d fc a
+#2 d   b
+x b
+b
+
+b
+#3 a a d
+x  d
+x  b
+x  d
+#3 a
+x  b
+x  d
+x a
+#3abdca
+x a
+x b
+x a
+#3  d
+x  b
+x   d
+x   c
+b
+#2 gddf
+x   f
+x   d
+x    h
+#3 dddf
+x f
+x g
+x f
+#3 d
+x  g
+#4 d
+x  g
+x  f
+x  d
+b
+2d fffd
+#3  g
+x  f
+#3  g
+x  f
+#4  g
+x  f
+x  d
+x  f
+2dbbcd
+#3a
+xb
+#3d
+xb
+#4d
+xb
+xa
+x d
+b
+
+b
+#2abbcd
+x d
+x b  d
+x    c
+#3abdca
+x a
+x  d
+x  b
+#3  d
+x  b
+#4  d
+x a
+x b
+x d
+b
+#3abdca
+x    c
+x    d
+x    c
+2    a
+#3     d
+x     c
+#3aabc a
+x b
+x d
+x b
+#3 a
+x  d
+#4 a
+x  d
+x  b
+x  a
+b
+1 abc a
+1d
+1 abc a
+1a
+b
+
+b
+#3aabc a
+x d
+x b
+x d
+#3a
+x d
+#4a
+x d
+xa
+xc
+2dabc
+#3   c
+x  d
+#3 a
+x  d
+#4 a
+x b
+x d
+xa
+b
+1b da
+1a   d
+2   d
+#3 d
+x b
+#3a  d
+x d
+#4a
+x d
+x b
+x d
+b
+1a bc
+1 b  d
+#2d
+x   a
+1 a c
+b
+1f dd
+1 dd f
+#2fg
+x    h
+1  dd
+b
+1da c
+2 b
+#3 a
+x b
+#2bd a
+x b
+xda c
+x  d
+b
+#2 ab
+xb
+1abd
+2   d
+#3 d
+xa
+#2 df
+x  d
+b
+
+b
+#2aa c
+x  d
+x  bc
+x   a
+#2  bcd
+xb
+xa b
+x d
+b
+#3 bd a
+x d
+xa
+xb
+#3a
+x d
+#4a
+x d
+x b
+x a
+2 bd
+#3 a
+x b
+1 dda
+b
+#2 ab c
+x b
+x df  d
+x f
+2 gddf
+#3 d
+x f
+#3 g
+x f
+#4 g
+x f
+x d
+x  g
+b
+#2 d f d
+x  g
+x  f
+x f
+#2bbdd
+xd
+xf d f
+x g
+b
+
+b
+1df fd
+#2 bd a
+x d
+#2a bcd
+xb
+xdf  d
+xf
+b
+#2hd f d
+xf
+xd  f
+x g
+#2 fg d
+x d
+1 f fd
+b
+1 db c
+#2d  f d
+x g
+#2 fgfd
+x d
+1 f  d
+b
+#3 dff d
+x f
+x g
+x f
+#3 d
+x  g
+#4 d
+x  g
+x  f
+x  d
+#3 dff
+x  d
+#4  f
+x  d
+x  f
+x  g
+#2 df
+x   d
+b
+
+b
+#2  bc
+x    d
+#3ab
+x   a
+x   c
+x   e
+2. dgf
+3  f
+#3  g
+x  f
+#4  g
+x  f
+x  d
+x  f
+b
+2abd d
+#3  b
+x  d
+#2  b
+x   d
+#3abbcd
+x d
+xa
+xb
+#3a
+xb
+#4d
+xa
+xb
+xd
+b
+1fbdd b
+#2  d
+xd
+2fbdd b
+#3d
+xb
+#4 f
+x d
+x b
+x  e
+#4 b
+x  e
+x  d
+x  b
+b
+
+b
+#2bbdd b
+xd
+xf
+x     d
+2f g hf
+#3i
+x  f
+#3  g
+x  i
+#4 f
+x  i
+x f
+x h
+b
+2.dffc a
+3c
+#3d
+xc
+#4d
+xc
+xd
+xf
+1dffc a
+#2 d
+x  g
+b
+2d f fd
+#3   f
+x  d
+#3  f
+x  g
+x d
+x f
+#3 gihf
+x f
+x  i
+x  g
+#3  f
+x  g
+#4  i
+x f
+x g
+x i
+b
+
+b
+#3 gihf
+x f
+x  i
+x  g
+#3  i
+x g
+x f
+x  i
+#3abdca
+x a
+x  d
+x  b
+#3  d
+x a
+#4 b
+x a
+x b
+x d
+b
+#3abb d
+x d
+xb
+xa
+#3 d
+x b
+x a
+x  d
+1 dfffd
+1d
+b
+#2   ffd
+xf
+1h f
+1fb d b
+#2  d
+x     d
+b
+#2f  hhf
+x  f
+2f gh
+#3   f
+x    i
+#3abdca
+x a
+x  d
+x  b
+#4  d
+x a
+x b
+x d
+#4a
+x d
+xa
+xc
+b
+
+b
+2df c a
+#3a
+xc
+#3d
+xc
+#4d
+xc
+xa
+xc
+#3dabc a
+x  d
+x a
+x b
+#3 a
+x  d
+#4 a
+x  d
+x  b
+x  a
+b
+Ydabc a
+b
+b
+
+e

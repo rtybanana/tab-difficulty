@@ -1,0 +1,415 @@
+-C
+-t
+-f
+{207. Pavane - la vecchia/Augustine Bassano}
+b
+c
+#2 cdca
+x cdc
+b
+1. cdc  ///a
+2acd a
+#2 da c
+x cdca
+x dd c
+x dc
+b
+2 cdc  ///a
+#3    a
+x d
+#3 c
+x a
+x  d
+x  c
+1  dc  ///a
+#2fcd
+xfc
+b
+2.ea c a
+3f
+#3e
+xc
+2ea c a
+#2c d  c
+xf
+xe
+xc
+b
+2 ghge
+#3      /a
+x h
+#3 g
+x e
+x  h
+x e
+1 ghge
+#2cce  c
+xcce
+b
+
+b
+1.c ee c
+2 f
+2 efec
+#3      //a
+x f
+#3 e
+x c
+2 efec
+b
+2.a cc a
+3  d
+#3 a
+x  d
+x  c
+x  a
+1a cc a
+#2 cdca
+x cdca
+b
+2. cdca
+3 d
+#3 c
+x a
+2 cd a
+#2  fec
+x d
+x c
+x  f
+b
+2. cee c
+3  f
+#3  e
+x  c
+x  e
+x  f
+1 ceeec
+#2 cdca
+x cd
+b
+
+b
+#3 cdca
+x a
+x c
+x d
+#3a
+x  d
+x a
+x c
+#3 da c
+x  c
+3 cd a
+#4 a
+x c
+3 dd c
+#4  c
+x  a
+#4  d
+x  c
+#5  d
+x  c
+x  a
+x  c
+b
+#3  d
+x    a
+x      ///a
+x  d
+#3 c
+x a
+x  d
+x a
+1 cdc  ///a
+#2fcd
+xfc
+b
+#3ea   a
+xc
+xe
+xf
+#3h
+xa
+xc
+xe
+#3ccd  c
+xe
+xf
+xc
+#3e
+x      d
+2ccd  c
+b
+2 ghge
+#3      /a
+x h
+#3 g
+x e
+x  h
+x e
+1 ghge
+#2c ee c
+xc ee
+b
+
+b
+2.c ee c
+3e
+#3f
+xe
+xc
+x f
+2 efec
+#3a d
+x  c
+#3  a
+x   c
+x  a
+x ed
+b
+2.a cc a
+3  d
+#3 a
+x  d
+x  c
+x  a
+1a cc a
+#2 cdca
+x cdc
+b
+3 cdca
+#4  a
+x  c
+#4  d
+x a
+x c
+x d
+#3 c
+x  d
+x a
+x c
+#3  fec
+x  d
+x  f
+x c
+#3 d
+x    e
+x a a
+x   c
+b
+2 cee
+#3     c
+x d
+#3 c
+x a
+x  e
+x  c
+1 ceeec
+#2 aa c
+x a
+b
+
+b
+2. accca
+3 c
+#3 a
+x  d
+x  c
+x  a
+2 acc
+#3  a
+x   a
+2a d e
+#3  c c
+x d
+b
+2 cdca
+#3      ///a
+x d
+#3a
+x d
+x c
+x a
+#2 cd   ///a
+xf
+xf
+xf
+b
+#2ea  c
+xc
+xc
+x  d
+#3    e
+x h g
+x g
+x e
+#2 ghge
+x  f
+b
+2.c e ec
+3  f
+#3 c
+x  f
+x  e
+x  c
+#2c e e
+x     c
+2.c aac
+3e
+b
+
+b
+2.fcd a
+3     e
+#2    a
+xa d e
+2.cdd   a
+3a
+#2      //a
+x daa
+b
+2. ca ac
+3     a
+#2      a
+xcdda
+2.acd a ///a
+3 d
+#3 c
+x a
+2  dca ///a
+b
+2. daa  a
+3 d
+#2 c   a
+x a
+2 cf ec
+#3  e
+x  c
+#2  f
+x  e
+b
+2 aab  //a
+#3      //a
+x  c
+#3  a
+x   c
+x   b
+x    e
+1 aab  //a
+#3 aa c
+x c
+x a
+x  d
+b
+
+b
+2 acc a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+#3 acc a
+x   a
+x   c
+x   a
+#3   c
+x   a
+x    e
+x    c
+b
+#3    a
+xa
+3a
+#4 c
+x d
+#3a
+x c
+2  d
+#3      ///a
+xf
+3f
+#4c
+xe
+#3f
+xa
+#3 c
+xf
+b
+#2ea  c
+xc
+xc
+x  d
+#3    e
+x h g
+x g    /a
+x e
+3 c  e
+#4  e
+x a
+#3 c
+x a
+b
+
+b
+2.c e ec
+3  f
+#3 c
+x  f
+x  e
+x  c
+#2c e e
+x     c
+xc aac
+xe
+b
+2.f d e
+3     e
+#2    a
+xa d e
+2.cdd   a
+3a
+#2      //a
+x daa
+b
+2. ca ac
+3     a
+#2      a
+xcdda
+#3acd   ///a
+xc
+xa
+x d
+#3 c
+x  d
+x a
+x c
+b
+#3 aa   //a
+x c
+x d  c
+x a
+#3 c
+x    b
+x    c
+x aa
+#2c ee
+x     c
+x c
+xa
+b
+
+b
+2 efec
+#3      //a
+xa
+#3 e
+x c
+x a
+x c
+0 efec
+b
+b
+
+e

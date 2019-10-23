@@ -1,0 +1,160 @@
+-C
+-t
+-f
+{73. Ich gieng wol bey der nacht/73. Ich gieng wol bey der nacht}
+b
+1  dca
+b
+.
+#2 bdca
+x b
+#2 b
+x b
+1 bdca
+b
+#2 dbacd
+x d
+#2 d
+x d
+1 dbacd
+b
+#2abbcd
+xa
+#2a
+xa
+1abbcd
+b
+#2abbcd
+xa
+#2a
+xa
+1abbcd
+b
+#2abbcd
+xa
+#2a
+xa
+1abbcd
+b
+#2 dbacd
+x d
+#2 d
+x d
+1 dbacd
+b
+
+b
+#2 bdca
+x b
+#2 b
+x b
+1 bdca
+b
+#2 bdca
+x b
+#2 b
+x b
+1 bdca
+.
+b
+b
+.
+#2abbcd
+xa
+#2a
+xa
+1abbcd
+b
+#2abbcd
+xa
+#2a
+xa
+1abbcd
+b
+#2 dbacd
+x d
+#2 d
+x d
+1 dbacd
+b
+#2 dbacd
+x d
+#2 d
+x d
+1 dbacd
+b
+#2  dca
+x b
+#2 d
+x b
+#2 a
+x  d
+b
+
+b
+#2 accca
+x a
+#2 a
+x a
+1 accca
+b
+#2  dca
+x  d
+#2  d
+x  d
+1  dca
+b
+#2  dca
+x  d
+#2  d
+x  d
+1  dca
+b
+#2abbcd
+xa
+#2a
+xa
+1abbcd
+b
+#2abbcd
+xa
+#2a
+xa
+1abbcd
+b
+#2 dbacd
+x d
+#2 d
+xa
+1c
+b
+0dabacd
+1cdda
+b
+0abbcd
+1 dbacd
+b
+#2  dca
+x b
+#2 a
+x  d
+1 accca
+b
+
+b
+#2  dca
+x  d
+#2  d
+x  d
+1  dca
+b
+#2  dca
+x  d
+#2  d
+x  d
+1  dca
+.
+b
+b
+
+e

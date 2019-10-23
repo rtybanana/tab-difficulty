@@ -1,0 +1,1345 @@
+-C
+-t
+-f
+{Hierusalem luge/Hierusalem luge}
+b
+c
+w   a
+b
+w   a
+b
+w   ca
+b
+w  a a
+b
+#2  b c
+x  a
+x  b
+x  d
+0  b
+b
+1.    e
+#3  a
+x  b
+1  a
+1   c
+b
+0  def
+1   a
+1   c
+b
+1  def
+1  c
+0  dce
+b
+1 a ac
+#2  c
+x  a
+#2  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+1 cd a
+1 a
+0 cd
+b
+
+b
+1. d ac
+#3  c
+x  d
+1  c
+1  a
+b
+1 dcac
+#2  a
+x  c
+#2  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+#2 cdca
+x a
+x c
+x d
+1 c
+1 a
+b
+1  dea
+1 a
+1 c
+#2  c
+x  d
+b
+1 dff
+1  d
+1   f
+1  d
+b
+1 dff
+1 c
+0 dde
+b
+1a bc
+#2 c
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+
+b
+0cdda
+0 a
+b
+1d  c
+1  d
+1 cb
+1 aa
+b
+1dcbc
+1  a
+1  b
+1 ad
+b
+1cdfec
+1 c
+0 df
+b
+0   ac
+1acd e
+1 ab
+b
+0c def
+0ef c
+b
+1fcde
+1 a
+1 c
+1 e
+b
+1.fffc
+#3e
+xf
+1e
+1c
+b
+1.fffc
+2e
+#2f
+xe
+#3f
+xe
+xc
+xe
+b
+
+b
+0fcdca
+0   c
+b
+0fcde
+0   ca
+b
+#2  d a
+x  c
+x  d
+x  f
+1  d a
+#2  c
+x  a
+b
+#2  d c
+x  c
+#3  d
+x  c
+x  a
+x  c
+0  d a
+b
+0  def
+1   e
+1  d
+b
+0 aaa
+0  dce
+b
+1 daac
+1   c
+1  a
+1  c
+b
+1  dca
+#2 c
+x a
+0 c
+b
+1 a ccd
+1    a
+1    c
+1    e
+b
+
+b
+0  defc
+0a  cef
+b
+1acd a
+1    c
+0acd e
+b
+0c aa
+0acd a
+b
+1fcd a
+1  b
+1fca a
+1   c
+b
+0cd ac
+0fcdca
+b
+1  def
+1d
+1cdda
+1a
+b
+0 dfec
+0 ddef
+b
+1 d
+1    e
+1   ac
+1    a
+b
+0 dff d
+0    f
+b
+1  ba d
+1 c
+1 a
+1  d
+b
+1  bc
+1  d
+0 a
+b
+
+b
+1     d
+1  ac
+1a  c
+1   a
+b
+1  d ef
+1 d
+0 dcac
+b
+1. ddca
+#3 c
+x d
+1 c
+1 a
+b
+1.addca
+2 c
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+1.cdda
+2a
+#2c
+xa
+xc
+xd
+b
+0fdda
+0  d
+b
+0ca
+0df f
+b
+0acd a
+1a
+1  b
+b
+0 da c
+0 ab  d
+b
+
+b
+0 c ca
+1  d
+1 a
+b
+0  de c
+0 dfa d
+b
+0d  c a
+0 abc
+b
+0acd e
+0c da
+b
+1.   ac
+#3a
+xc
+1a c
+1 d
+b
+0 cdca
+1   e
+1 a
+b
+1 cdca
+1 d
+0 cde c
+b
+1    a
+1 c c
+0 a ac
+b
+1. cfeec
+2  e
+#2  f
+x  e
+x  c
+x  e
+b
+1 dfec
+1    a
+1    c
+1    e
+b
+
+b
+1 aaac
+1   c
+1 da
+1  c
+b
+1 ce
+1  a
+0 af
+b
+1 cfe
+#2  e
+x  c
+#2  f  c
+x  e
+#3  f
+x  e
+x  c
+x  e
+b
+0 aba d
+1   c a
+1     c
+b
+1 ab  d
+1    a
+1 ab c
+1    e
+b
+1 aabc
+1   c
+1   c
+1  b
+b
+1. aacc
+2   b
+#2   c
+x   b
+#3   c
+x   b
+x    e
+x   b
+b
+1 abc a
+1  a
+1   c
+1  a
+b
+
+b
+1 abc
+1  d
+1 ab
+1 c
+b
+1 efec
+1 a
+0a  c
+b
+0aaa c
+0 d a
+b
+1aabc
+1  d
+1  b
+1  a
+b
+0 abc
+1 a
+1  a
+b
+0 d a
+0 a c
+b
+0 d ac
+1c   c
+#2 c
+x a
+b
+0f def
+0ca ac
+b
+1f def
+1  bc
+1  de
+1dabc
+b
+0acd e
+1c  a
+1 aa
+b
+1acd a
+1 d
+1 c e
+1  b
+b
+
+b
+1  dca
+1 d
+1aca a
+1 ab
+b
+1  def
+1   c
+1 daac
+1    e
+b
+1 dfec
+1a
+1c  a
+1d   e
+b
+0fc ca
+0cdfec
+b
+0fc eec
+1  a
+1    cd
+b
+0  a ef
+#2 abac
+x  a
+x  b
+x  d
+b
+1 ab
+1 ca ef
+1 da cd
+1    ac
+b
+1.  a cd
+#3 c
+x d
+1 c c
+1 a  e
+b
+0f da c
+1    e
+1    c
+b
+0   eec
+0f d
+b
+
+b
+0da c
+0  b
+b
+0cda c
+0   a
+b
+0acd e
+1    a
+1c
+b
+1ea c
+1f
+0hf fh
+b
+1 cde
+1f
+0fede
+b
+1 ffc a
+#2e
+xc
+1e
+1 d
+b
+1fcde c
+1 a
+1 dda
+1d
+b
+1.ccd a
+#3a
+xc
+1a
+1  b
+b
+1  fec
+1 d
+1 dbc
+1   a
+b
+
+b
+1 ddca
+#2 c
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+1 dda
+1  b
+1  a
+1   c
+b
+1 ddef
+1   cd
+1 dfec
+1    a
+b
+1 d a d
+1  b
+0  d  c
+b
+w dfffd
+b
+Y dda
+b
+b
+
+{Hierusalem luge/Hierusalem luge}
+b
+w   a
+b
+w   a
+b
+w  b c
+b
+w  b e
+b
+0  def
+1   a
+1   c
+b
+1  aa
+1  b
+1  d e
+1  a
+b
+1 ab c
+1  a
+1  a
+1    a
+b
+1 a   d
+#2   c
+x   a
+#2   e
+x   c
+#3   e
+x   c
+x   a
+x   c
+b
+1  de c
+1  c
+1  d
+1     d
+b
+1    a
+1  b
+0 da c
+b
+
+b
+1 c  a
+1   c
+0 a ac
+b
+1.   eec
+2  e
+#2  f
+x  e
+#3  f
+x  e
+x  c
+x  e
+b
+0 a ac
+0     d
+b
+0 dbacd
+0     d
+b
+#2dab ca
+x  a
+#2  b
+x  d
+1  b
+1  a
+b
+1da cca
+1   a
+0da cca
+b
+0cd ac
+0    c
+b
+0  de c
+1f  a
+1 a
+b
+0db c
+0c ab
+b
+
+b
+1. abc
+2a
+#2c
+xa
+#3c
+xa
+x d
+xa
+b
+0c a c
+0 d
+b
+0cd
+#2  a c
+x c
+2 a
+b
+0ccd  c
+0 cde c
+b
+0 c  ef
+0a  c
+b
+1   c a
+1 d
+1 abc
+1 c a
+b
+1 db c
+1a   e
+1caaa
+1   c
+b
+1  aa
+1  b
+1acd e
+1 d  c
+b
+0 cdca
+1  a
+1   f
+b
+1 abc
+1  a
+1  bc
+1  d
+b
+
+b
+1 a
+1 c
+1 daa
+1a
+b
+1 db c
+1 c
+0 aaa
+b
+1   ce
+#2  e
+x  c
+0a e
+b
+1.aaa c
+#3 e
+xa
+1 db
+1 c
+b
+1 a  c
+#2  a
+x   c
+1 d ac
+1   c
+b
+1 ca
+1  b
+1  dca
+1  a
+b
+1 ab  d
+1 c
+1 d ac
+#2  a
+x   c
+b
+1   a
+1 c  a
+1 a ac
+1   c
+b
+
+b
+1. c eec
+2  e
+#2  f
+x  e
+#3  f
+x  e
+x  c
+x  e
+b
+0 dfec
+0    c
+b
+0 aaac
+1 d  c
+1  bc
+b
+1 cdea
+1   f
+1   e
+1 a   d
+b
+1 cdea
+1  bc
+1 daac
+1   ce
+b
+1  aac
+1 d
+1 c ca
+1 a   d
+b
+1.c dc c
+2   b
+#2   c
+x   b
+#3   c
+x   b
+x    e
+x   b
+b
+1d bc a
+1   a
+1   c
+1  a
+b
+1dabc
+1  d
+1dabc
+1 cd
+b
+
+b
+1cdfa
+1 c
+1 d
+1a   e
+b
+1cdfa
+1 cd
+1dabc
+1  de
+b
+1  bc
+#2c
+xd
+1c da
+1a   e
+b
+1 d ac
+#2  c
+x  a
+#2  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+0 bd a
+0   c
+b
+0dabc a
+0    c
+b
+0c da
+0aabc
+b
+0 dfec
+0  def
+b
+0 cdca
+1a
+1    c
+b
+1a  cef
+1  aa
+1  bc a
+1  d  c
+b
+
+b
+0 a a d
+0a d ef
+b
+1c dcca
+#2  c
+x  a
+#2  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+1 cdca
+1 a
+1  d
+1 a
+b
+1 cd a
+1 d
+1a
+1  b
+b
+1  dea
+#2 a
+x c
+1 d
+#2   c
+x   a
+b
+1  dca
+#2 c
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+0 daa
+0  d
+b
+
+b
+0 dff
+0  def
+b
+0 c c
+0 ab  d
+b
+1  de
+1  ba
+1 a   d
+1   c
+b
+1  dea
+1  b
+1  ded
+1   c
+b
+0 aa c
+1 d a
+1  b c
+b
+0 cdca
+0 aba d
+b
+1  def
+1  bc
+1  aa
+1  bc
+b
+0  def
+0 dff
+b
+0ac c
+1dab
+1    c
+b
+0c da
+0acbc
+b
+0 dfec
+0cd a
+b
+
+b
+1ac c
+1 d
+1 cff
+1 a
+b
+1 c e
+#2  e
+x  c
+1  e
+1   c
+b
+0 afef
+0  bc
+b
+0 abcc
+0  ab
+b
+1 abc
+1  d
+1 abc
+1 c
+b
+0 dfec
+1 c  c
+1 a c
+b
+1 ada
+1  b
+1 aac
+1   c
+b
+1. aacc
+2   b
+#2   c
+x   b
+#3   c
+x   b
+x    e
+x   b
+b
+0 abc
+0     a
+b
+
+b
+1 abc
+1     c
+1    cd
+1     f
+b
+1  aac
+1    e
+0   a
+b
+0a dca
+0  d ef
+b
+1c aa
+1   c
+1  aa
+1  b
+b
+1c da
+1  a
+0 df c
+b
+1a   e
+1  d
+0c da
+b
+1 d  c
+#2  c
+x  a
+1  c
+#2 c
+x a
+b
+0 cd a
+0 daac
+b
+0 aba d
+1    c
+1  a
+b
+0   ce
+0   a d
+b
+0  b c
+0     a
+b
+
+b
+0  d ac
+0 aba d
+b
+1  ba a
+#2    e
+x    c
+0   ce
+b
+0  def
+0 dff d
+b
+0    f
+0 dff d
+b
+1 cd a
+1   e
+0 daac
+b
+1 aba d
+#2   c
+x   a
+0   cc
+b
+0  deec
+1 daa
+#2   c
+x   a
+b
+1  dca
+#2 c
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+1. dbac
+#3  a
+x  b
+1  a
+1 c  a
+b
+
+b
+1 aaa d
+1  d
+0 a cc
+b
+1   eec
+1  d
+0  def
+b
+1  dcca
+#2  c
+x  a
+#2a d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+0  dca
+0 c  a
+b
+0 dfec
+1 ab  d
+1   a
+b
+0 cdcef
+1 dfec
+1    e
+b
+1  ba
+1   ce
+1fddef
+1  bc
+b
+1  def
+1   c
+0caaac
+b
+0d  c
+1aab
+1    e
+b
+
+b
+1cdaa
+1 cd
+1dabc
+1 c
+b
+0 dfec
+1dabc
+1  d
+b
+1 a
+1  b
+0acdca
+b
+1cdaa
+1  b
+1  d
+1  b c
+b
+1a dce
+1  b
+1cdaa
+1  b
+b
+0 cdca
+1c  a
+1  b
+b
+1  da
+1  a
+0 dffc
+b
+1aa ce
+#2  e
+x  c
+0 ce
+b
+0 dfec
+0acbc
+b
+0 ddef
+0aabc
+b
+1 cdca
+1   a
+1 c c
+1  b a
+b
+
+b
+0 daac
+1 ab  d
+1   a
+b
+0 cdca
+0 daac
+b
+1  bcca
+1    e
+1 daac
+1   c
+b
+0 aaa
+0 ab  d
+b
+0 cdca
+0  de c
+b
+1f
+1   c d
+1 cdca
+1d
+b
+0cd ac
+0aabc a
+b
+1  b c
+1 da
+1 dbcc
+1   a
+b
+1  dca
+#2 c
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+1 d ac
+1  b
+1  a
+1 c  a
+b
+
+b
+1 aaa d
+1  d
+0 a cc
+b
+1   eec
+1  d
+0  daa
+b
+1   cca
+#2  c
+x  a
+#2a d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+0  dca
+0 c  a
+b
+0 dfec
+1 ab  d
+1   a
+b
+0 cdcef
+1 dfec
+1    e
+b
+1  ba
+1   ce
+1fddef
+1  bc
+b
+1  def
+1   c
+0caaac
+b
+0da c
+1a b
+1    e
+b
+
+b
+1cdaa
+1  d
+1dcbc
+1 a
+b
+0 dfec
+1aabc
+1  d
+b
+1da c
+1  b
+0acdca
+b
+1cdaa
+1  b
+1  d
+1  b c
+b
+1a dce
+1  b
+1cdaa
+1  b
+b
+0 cdca
+1cdaa
+1  b
+b
+1  da
+1  a
+0 dffc
+b
+1aa ce
+#2  e
+x  c
+0 ce
+b
+0 dfec
+0acbc
+b
+0 ddef
+1aabc
+1 d
+b
+
+b
+1 cdca
+1 a a
+1 cdc
+1  b a
+b
+0 daac
+1 ab  d
+1   a
+b
+0 cdca
+0 daac
+b
+1  bcca
+1    e
+1 daac
+1   c
+b
+0  aac
+0 aba d
+b
+0 cdca
+0  de c
+b
+1f
+1   c d
+1 cdca
+1d
+b
+0caaac
+1aabc a
+1  d
+b
+1aab c
+1  a
+1 dbc
+1   a
+b
+1  dca
+#2 c
+x a
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+b
+
+b
+1 dda
+1  b
+1  a
+1   c
+b
+0 daa
+1   a
+1  b
+b
+Y dda
+b
+b
+P
+e

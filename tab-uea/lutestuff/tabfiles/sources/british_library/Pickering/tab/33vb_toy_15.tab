@@ -1,0 +1,66 @@
+-C
+-t
+-f
+{Toy - 15/Toy - 15}
+b
+1.f   a
+1a
+2 d
+1 c  a
+2a
+b
+1.f   a
+1e    a
+2f
+1h
+2e
+b
+1.f   a
+1a
+2 d
+1 c  a
+2a
+b
+1.d    d
+1c   a
+2a
+1 d a
+2c
+b
+2.f   a
+3e
+2f
+1a
+2 d
+1 c  a
+2a
+b
+
+b
+2.f   a
+3e
+2f
+1e    a
+2f
+1h
+2e
+b
+2.f   a
+3e
+2f
+1a
+2 d
+1 c  a
+2a
+b
+2.d    d
+3c
+2d
+1c   a
+2a
+1 d a
+2c
+b
+b
+
+e

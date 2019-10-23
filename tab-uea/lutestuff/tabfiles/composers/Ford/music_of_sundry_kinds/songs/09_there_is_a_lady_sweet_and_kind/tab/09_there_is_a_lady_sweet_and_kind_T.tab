@@ -1,0 +1,75 @@
+-C
+-t
+-f
+{9. There is a lady, sweet and kind/9. There is a lady, sweet and kind}
+b
+C
+1     a
+b
+0aacc
+1     a
+1aa
+b
+1ac  a
+#2 e  c
+x  d
+0aac  a
+b
+1
+1cd  c
+1.cc   c
+2     e
+b
+#2 cd a
+x  c
+1  def
+1 aa c
+1  cde
+b
+0  ee c
+1
+1cef c
+b
+.
+1aa   a
+#2   c
+x c
+1 ef c
+#2c
+x    c
+b
+#2 cd a
+xa
+x     c
+x e
+1aac  a
+1a d a
+b
+
+b
+1.a cc
+2c   c
+1cd a
+1aa c
+b
+A1
+2.  f c
+3 f
+#2 e
+x  d
+0aaccca
+1
+1cef c
+.
+b
+b
+A2
+2.  f c
+3 f
+#2 e
+x  d
+0.aaccca
+b
+b
+
+e

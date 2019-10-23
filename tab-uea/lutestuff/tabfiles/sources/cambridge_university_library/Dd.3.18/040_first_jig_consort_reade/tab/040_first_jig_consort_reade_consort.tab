@@ -1,0 +1,122 @@
+-C
+-t
+-f
+{40. First jig/Richard Reade}
+b
+2acd a
+b
+.
+1fcd a
+2ea   a
+#2f   a
+xa
+x c
+b
+2. dda
+3 c
+2 acc a
+1  dca
+2f
+b
+2.ca  c
+3a
+2 d   c
+2. c  a
+3 a
+2  d
+b
+A1
+#3 a   a
+x  d
+x  c
+x  a
+2  c
+1  dca
+2acd a
+.
+b
+b
+A2
+#3 a   a
+x  d
+x  c
+x  a
+2  c
+1  dca
+2f
+b
+
+b
+.
+#2ea   a
+xa
+x     e
+#2c d  c
+x c
+x d
+b
+1aac  a
+2 ea c
+2.aa c a
+3c
+2e
+b
+1.fcd a
+1ea c a
+2ccd  c
+b
+A1
+2. g  e
+3 e
+2 g
+1cce  c
+2f
+.
+b
+b
+A2
+2. g  e
+3 e
+2 g
+1cce  c
+2cce
+b
+.
+1cce  c
+2k
+#2g    c
+xc
+xc
+b
+1caa c
+2c
+#2 ea c
+x a
+x ac  a
+b
+1 cdca
+2a
+#2 c ca
+x  d
+x    a
+b
+
+b
+A1
+#2a  c a
+x a
+x  c
+1  dca
+2cce
+.
+b
+b
+A2
+#2a  c a
+x a
+x  c
+Y.  dca
+b
+b
+
+e

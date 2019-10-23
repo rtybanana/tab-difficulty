@@ -1,0 +1,75 @@
+-C
+-t
+-f
+{17. Snatch and away/17. Snatch and away}
+b
+1a
+b
+.
+1 e
+1 a
+1 c
+1. a c
+2  d
+1  c
+b
+1  d
+1  a
+1 a
+0  cc
+1 c
+b
+1 a
+1  c
+1  d
+1  c
+1     a
+1  c
+b
+A1
+1.  a c
+2   c
+1  a c
+0   c a
+1a
+.
+b
+b
+A2
+1.  a c
+2   c
+1  a c
+0.   c a
+b
+.
+1   c
+1  c
+1   c
+1  aa
+1  d
+1  aa
+b
+
+b
+1  cc
+1 a
+1  cc
+0  dca
+1 c
+b
+1.  cc
+2  d
+1 a
+1  c
+1     a
+1  c
+b
+1.  a c
+2   c
+1  a c
+0.   cca
+.
+b
+b
+
+e

@@ -1,0 +1,515 @@
+-C
+-t
+-f
+{67. Wascha mesa/67. Wascha mesa}
+b
+c
+#2b da
+xa
+xb
+xd
+#2b da
+xa
+xd
+xb
+b
+#2a b d
+x  a
+x  b
+x  d
+#2a b d
+xd
+xb
+xa
+b
+#2b da
+xa
+x d
+x b
+#2    a
+x d
+x c
+x a
+b
+#2ac  a
+x a
+x c
+x d
+1ac  a
+1ac
+b
+
+b
+#2b da
+xa
+xb
+xd
+#2b da
+xa
+xd
+xb
+b
+#2a b d
+x  a
+x  b
+x  d
+#2a b d
+xd
+xb
+xa
+b
+1b da
+#2a
+x d
+1 c  a
+#2 d
+x c
+b
+#2 d a
+x  d
+x d
+x c
+1 dda
+1 dd
+b
+#2b da
+xa
+xb
+xd
+#2b da
+xa
+xd
+xb
+b
+#2a b d
+x  a
+x  b
+x  d
+#2a b d
+xd
+xb
+xa
+b
+
+b
+1b da
+#2a
+x d
+1 c  a
+#2 d
+x c
+b
+#2 d a
+x  d
+x d
+x c
+1 dda
+1 dd
+b
+1fd a
+1fd
+1fd a
+#2d
+xb
+b
+#2a b d
+x  a
+x  b
+x  d
+#2a b d
+xd
+xb
+xa
+b
+#2b da
+xa
+x d
+x b
+#2 d a
+xa
+xb
+xd
+b
+1fd a
+1fd
+1fd a
+1fd
+b
+1fd a
+1fd
+1fd a
+#2d
+xb
+b
+
+b
+#2a b d
+x  a
+x  b
+x  d
+#2a b d
+xd
+xb
+xa
+b
+#2b da
+xa
+x d
+x b
+#2 d a
+xa
+xb
+xd
+b
+1fd a
+1fd
+1fd a
+1fd
+b
+#2b da
+xa
+xb
+xd
+#2b da
+xa
+xd
+xb
+b
+#2a b d
+x  a
+x  b
+x  d
+#2a b d
+xd
+xb
+xa
+b
+1b da
+#2a
+x d
+1 c  a
+#2 d
+x c
+b
+
+b
+#2 d a
+x  d
+x d
+x c
+1 dda
+1 dd
+b
+#2b da
+xa
+xb
+xd
+#2b da
+xa
+xd
+xb
+b
+#2a b d
+x  a
+x  b
+x  d
+#2a b d
+xd
+xb
+xa
+b
+1b da
+#2a
+x d
+1 c  a
+#2 d
+x c
+b
+#2 d a
+x  d
+x d
+x c
+1 dda
+1 dd
+b
+1b d  b
+1b d  b
+#2     b
+x     d
+x    a
+x    c
+b
+
+b
+#2a b d
+x  a
+x  b
+x  d
+#2a b d
+xd
+xb
+xa
+b
+#2b da
+xa
+x d
+x b
+#2    a
+x d
+x c
+x a
+b
+#2ac  a
+x a
+x c
+x d
+1ac  a
+1ac
+b
+1b d  b
+1b d  b
+#2     b
+x     d
+x    a
+x    c
+b
+#2a b d
+x  a
+x  b
+x  d
+#2a b d
+xd
+xb
+xa
+b
+1b da
+#2a
+x d
+1ac  a
+#2 d
+x c
+b
+
+b
+#2 d a
+x  d
+x d
+x c
+1 dda
+1 dd
+b
+b
+
+{67. Wascha mesa/67. Wascha mesa}
+b
+1   a
+b
+#2b da
+xa
+#2b
+xd
+1b da
+b
+1b d
+1   a
+1b d
+b
+1.a b d
+2a b
+1    d
+b
+1a b
+1    d
+1a b
+b
+1.a b d
+2a b
+1    d
+b
+1a b
+1    d
+1 d
+b
+
+b
+1. cd a
+2 cd
+1    a
+b
+1 cd
+1    a
+1 cd
+b
+1.b da
+2a
+1b
+b
+1b d
+1   a
+1b d
+b
+1.a b d
+2a b
+1    d
+b
+1a b
+1    d
+1a b
+b
+1.b da
+2a
+1 d
+b
+1 c  a
+1 d
+1 c
+b
+
+b
+1. dda
+2 dd
+1   a
+b
+1 dd
+1   a
+1 dd
+b
+1.b da
+2a
+1b
+b
+1b d
+1   a
+1b d
+b
+1.a b d
+2a b
+1    d
+b
+1a b
+1    d
+1a b
+b
+1.b da
+2a
+1 d
+b
+1 c  a
+1 d
+1 c
+b
+
+b
+1. dda
+2 dd
+1   a
+b
+1 dd
+1   a
+1 dd
+b
+1.fd a
+2fd
+1   a
+b
+1fd
+1d
+1b  a
+b
+1.a b d
+2a b
+1    d
+b
+1a b
+1    d
+1a b
+b
+1.b da
+2a
+1b
+b
+1ac
+1    a
+1 d
+b
+
+b
+1. cd a
+2 cd
+1    a
+b
+1 cd
+1    a
+1 cd
+b
+1.fd a
+2fd
+1   a
+b
+1fd
+1d
+1b  a
+b
+1.a b d
+2a b
+1    d
+b
+1a b
+1    d
+1a b
+b
+1.b da
+2a
+1 d
+b
+1 c  a
+1 d
+1 c
+b
+
+b
+1. dda
+2 dd
+1   a
+b
+1 dd
+1   a
+1 dd
+b
+1.b da
+2a
+1b
+b
+1b d
+1   a
+1b d
+b
+1.a b d
+2a b
+1    d
+b
+1a b
+1f
+1d
+b
+1.b da
+2a
+1 d
+b
+1 c  a
+1 d
+1 c
+b
+
+b
+1. dda
+2 dd
+1   a
+b
+1 dd
+1   a
+1 dd
+b
+b
+
+e

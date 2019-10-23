@@ -1,0 +1,109 @@
+-C
+-t
+-f
+{31. Tiento3/31. Tiento3}
+b
+c
+0.  b  d
+1  b  d
+b
+#1   da
+x    c
+0   cd
+b
+#0   a
+x    c
+b
+#1d  cd
+x  a
+x  b
+xd
+b
+#1b dd
+x  f
+0 fg d
+b
+#0 d f
+x  f
+b
+0.dfg d
+1d
+b
+#1ffg  f
+xh
+xi  h
+x h
+b
+#0 iif
+xh
+b
+#1ifg  i
+x    f
+x    h
+x     i
+b
+0hgi f
+#1f
+x  g
+b
+
+b
+#0 ffc
+xe
+b
+1ffd a
+#2d
+xb
+#2a
+x d
+x b
+x a
+b
+#2  d
+x  b
+x   d
+x   c
+#2   a
+x    d
+x    c
+x    a
+b
+#2     d
+x    a
+x    c
+x    d
+#2   a
+x   c
+x   d
+x  b
+b
+#2  d
+x a
+x b
+x d
+#2a
+xb
+xd
+xa
+b
+0bd a
+#1db c
+x a
+b
+#0f dd
+x d
+b
+
+b
+0 ffc
+#1e
+xc
+b
+#0effc
+x     a
+b
+Yeffc a
+b
+b
+
+e

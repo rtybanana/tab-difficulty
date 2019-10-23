@@ -1,0 +1,197 @@
+-C
+-t
+-f
+{24. Branle de Bourgogne - 3/24. Branle de Bourgogne - 3}
+b
+c
+#2  d a
+x a
+x b
+x d
+1abb d
+1abb
+b
+1f aa
+1f a
+1da c
+#2c
+xa
+b
+#2 daa
+xa
+xb
+xa
+#2 d
+x b
+x a
+x  d
+b
+1aac  a
+1   c
+1 cd a
+1   c
+b
+#2  d a
+x a
+x b
+x d
+1abb d
+1f
+b
+1f aa
+#2d
+xc
+#2da c
+x  d{
+x a
+x c  }
+b
+
+b
+#2 daa
+xa
+xb
+xa
+#2 d
+x b
+x a
+x  d
+b
+#2 acc a
+x  a
+x  d
+x  c
+1  d a
+1   c
+b
+1 bd a
+#2 a
+x b
+1 db  d
+1 db
+b
+1abb d{
+1abb   }
+1 bd a
+1 bd
+b
+1.da c
+2f de
+1da c
+1cd a
+b
+1abb d
+#2    c
+x d
+1 bd a
+1b  a
+b
+1abb d
+#2 d a
+x b
+1 dba d
+#2 b
+x a
+b
+1.abb d{
+2abb   }
+1   c
+#2a
+xc
+b
+
+b
+1ddf  d&{
+#2   f
+xf     }
+1ddf  d
+1cdda
+b
+1abb d
+#2    c
+x d
+1 bd a
+#2 a
+x b
+b
+#2 db c&{
+xa
+x d
+x b   }
+#2 ab  d
+x b
+x d
+x a
+b
+1 bd a {
+#2     d
+x a
+1  da c
+1 ab  a
+b
+1  bc d
+1  da c
+1aad  a
+1aac
+b
+#2  d a
+x  c
+x  d
+x a
+#2 b
+x d
+xa
+xc
+b
+
+b
+#2dab  d
+x  a  {
+x  b
+x  d
+#2 a
+x b
+x d
+x a
+b
+#2abb d
+x  d {
+x a
+x b   }
+#2 da c
+xa
+x d
+x b
+b
+#2 ab  d&{
+x b
+x d
+x a    }
+#2 bd a
+x d
+x b
+x a
+b
+#2  da c
+x  a  {
+x  b
+x  d   }
+#2 ab  a
+x     c
+x     d
+x    a
+b
+1  bcc
+1  d d
+1  da
+1  cc
+b
+1. cd a{
+2 cd
+1   c  }
+1 cd a
+.
+b
+b
+
+e

@@ -1,0 +1,116 @@
+-C
+-t
+-f
+{Haulberroys 1/Haulberroys 1}
+b
+1a  c
+1    a
+1a  c
+#2 d
+xa
+b
+#2b
+xa
+#2 d
+x b
+1 a c
+#2 a
+x c
+b
+#2 d
+xa
+1 d
+1    a
+1 b
+b
+0 a c
+0  d a
+b
+
+b
+1a  c
+1 a
+1     a
+#2c
+xd
+b
+#2c
+xa
+#2 d
+x b
+1 a c
+#2 a
+x c
+b
+#2 d
+xa
+1 d
+1 b  a
+#2 d
+x b
+b
+#2 a
+x  d
+1 a c
+0  d a
+.
+b
+b
+.
+0 db
+0 db
+b
+
+b
+#2 d
+x b
+#2 a
+x  d
+0 a c
+b
+1    a
+1 b
+1 a
+1  d
+b
+#2  c
+x  a
+#2  c
+x  d
+1 ac
+1     a
+b
+1 db
+1     d
+1 db
+#2b
+xa
+b
+
+b
+#2 d
+x b
+#2 a
+x  d
+1 a c
+#2 a
+x b
+b
+#2 d
+x b
+#2 a
+x  d
+1  c  a
+#2 a
+x  d
+b
+#2  c
+x  a
+#2  d
+x  c
+0  d a
+.
+b
+b
+
+e

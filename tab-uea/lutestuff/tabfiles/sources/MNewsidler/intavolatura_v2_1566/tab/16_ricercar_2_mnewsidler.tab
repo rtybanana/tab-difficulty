@@ -1,0 +1,753 @@
+-C
+-t
+-f
+{16. Ricercar 2/Melchior Newsidler}
+b
+c
+0h
+1hf
+1h
+b
+1ef
+1 f
+2e h
+#3f
+xh
+1k
+b
+#2 h
+xh
+xf
+x f
+#2ce
+x c
+1h f
+b
+#2 f
+xf
+xe
+xce
+2ac
+#3c
+xe
+#2f d
+x a
+b
+#3fc
+x a
+x c
+x e
+1ef
+#2  f
+xef
+xce
+xac
+b
+
+b
+#2 ef
+x f
+1cef
+1e fg
+#2   g
+x h
+b
+#2 fh
+x h
+x f
+x  f
+#2kf h
+x  f
+x  h
+xh
+b
+#2fh e
+xh
+xfh e
+xe
+2cef
+#3e
+xf
+#2h
+x   h
+b
+#2hf gh
+xf
+xe f
+xc
+#2effc
+xf
+xeffc
+xc
+b
+#2a c e
+x   e
+xa cce
+x d
+#2 cde
+x  f
+x cd
+x   c
+b
+
+b
+#2c ab
+x   c
+x   b
+xa   e
+#2 efec
+x f
+xc f
+x f
+b
+#2 efec
+x c
+x efec
+x  d
+#2  fgge
+x  h
+x  fgge
+x   h
+b
+#2  cce
+x   e
+x ccc
+x    c
+#2 c cef
+x a   e
+x  de c
+x  cc
+b
+2  abc
+#3   c
+x  a
+#3  c
+x   c
+x  a
+x  c
+#3  a c
+x   c
+x   b
+x    e
+#3   c
+x   b
+#4   c
+x   b
+x    e
+x   b
+b
+
+b
+1  cc a
+#2h
+x   h
+#2  fgh
+xf
+xeffc
+xc
+b
+#2eff
+x   a
+xk   hk
+x     h
+#2   hhf
+xh
+xf
+x     e
+b
+#2  de c
+xe
+xc
+x     e
+#2 cdca
+xa
+xaac  a
+x  d
+b
+#3  fec
+x f
+x e
+x c
+#3 f
+x e
+#4 f
+x e
+x c
+x e
+1a cc a
+1 a
+b
+#2   c
+x  c
+1 c
+#2    e
+x a
+x  de
+x  c
+b
+
+b
+#2  d
+x  cc
+x d a
+x    e
+#2    c
+x c  e
+x a a
+x   c
+b
+#2  de
+x   b
+1  cc
+#2    c
+x  cc
+x  ab
+x   ce
+b
+#2  abc
+x  c
+x    c
+x  ab
+#2   ce
+x   e
+x  cc
+x    c
+b
+2 a  ce
+#3  d
+x a
+#2 c ca
+x  c
+#2  abc
+x a
+x a  ee
+x    c
+b
+#3   eec
+x  f
+x  e
+x  c
+#3  f
+x  e
+#4  f
+x  e
+x  c
+x  e
+#2  fec
+x f
+x ef
+x c
+b
+
+b
+#2ce
+x  d
+xh  g
+x   e
+#2  fgh
+xf
+xe
+x    g
+b
+#2  cce
+xc
+x f
+x    c
+#2    a
+x e
+x c c
+x a   e
+b
+#2 cd  c
+x  c
+xf d
+x     e
+#2 cdca
+x e
+1eff  a
+b
+2cf ec
+#3 e
+x c
+#3 f
+x e
+#4 f
+x e
+x c
+x e
+1eff  a
+1   c
+b
+1  d
+#2a
+x  c
+1f  e
+#2  d
+xe
+b
+
+b
+1cef
+#2h
+x  hh
+#2  fg
+xf
+xe fc
+xc
+b
+#2a d
+x d
+x c  a
+x a
+1  def
+#2 d
+x    e
+b
+#2    c
+x c
+x a c
+x  d
+#2a c
+x   a
+x    e
+x d
+b
+#2 cde
+x  c
+xc d
+x   c
+#2  aa
+xa
+x d  c
+x c
+b
+#2 a c
+x  d
+x  cc a
+x   a
+1   cef
+#2  d
+x     e
+b
+
+b
+#2     c
+x  c
+x  a c
+x   c
+#2 aab
+x    a
+x     e
+x  d  c
+b
+#2  cc a
+x  a
+xa cc
+x   a
+#2   ce
+x d
+x c ca
+x a a
+b
+#2fc c
+x     e
+x  de c
+xe
+#2ce ec
+x c
+xhaa  h
+x   h
+b
+#2   g a
+xf
+xe  c
+xc  a
+#2a   e
+x    c
+1ea c e
+b
+#2ccd a
+xa
+xaac  a
+x  d
+#2aaa c
+x   c
+1 ea
+b
+1aac  a
+1   c
+1 a
+1    c
+b
+
+b
+#2  aa
+x  c
+x  d
+x    e
+#2 c  a
+x    c
+xa   e
+x   b
+b
+#2e  c
+xf
+xh  g
+x   h
+#2  f
+xf
+xcdf
+xe
+b
+#2fca
+x  c
+x  d
+xe
+#2a
+x  c
+xe  c
+x  a
+b
+#2  c
+x  d
+x a c
+x c
+#2 a a
+x c
+x d  c
+xa
+b
+#2c aa
+x  c
+2  d
+#3    e
+x    c
+#2 cd a
+x    c
+2a d e
+#3 d a
+x c
+b
+
+b
+#2 acc
+x c
+x da c
+x   c
+#2  a
+x c
+2 a
+#3    a
+x     e
+b
+#2  de c
+x     e
+2 cdc f
+#3     e
+x     c
+2aac  a
+#3 d
+x c
+2 acc
+#3   a
+x    e
+b
+#2 dfec
+x    e
+2c def
+#3    e
+x    c
+2fc ca
+#3e   c
+xc
+#2a   e
+xc  b
+b
+#2ea c
+xf de
+xh  g
+x   h
+2h f
+#3f
+xe
+2cdf
+#3  d
+x  c
+b
+
+b
+2fca
+#3e c
+xc
+2a d
+#3  c
+x  a
+2   c
+#3 d
+x c
+2 a
+#3   a
+x    e
+b
+2    c
+#3  d
+x  c
+2  aa
+#3    e
+x    c
+#2 cd a
+x    c
+2a d e
+#3 d a
+x c
+b
+#3 a c
+x  d
+x  c
+x  d
+#3 a   a
+x  d
+x a
+x c
+#3 d  c
+x c
+x a
+x c
+#3 d
+xa
+2ccd  c
+b
+
+b
+2 ac  e
+#3 c
+x e
+#2a
+x    a
+#3  fec
+x f
+x e
+x c
+#3 f
+x e
+#4 f
+x e
+x c
+x e
+b
+#2aac  a
+xh
+#3    h
+xf
+xe
+xc
+#3a  c
+xc
+xe
+xc
+#3a
+x d
+x c
+x a
+b
+#3 cd
+x a
+x c
+x d
+#3a
+x  c
+xf a
+x   c
+#3   a
+xe
+xc
+xa
+#3 d  c
+x c
+x a
+x  d
+b
+
+b
+#3 a c
+x  d
+x  c
+x  a
+#3a c
+x   a
+x    e
+x    c
+#3    e
+x d
+x c
+x a
+#3 c e
+x a
+x  d
+x  c
+b
+#3  d
+x  c
+x  a
+x   c
+#3  aa
+x    e
+x    c
+x    a
+#3 a  c
+x  d
+x  c
+x  a
+#3  cc
+x   a
+x    e
+x    c
+b
+#3a   a
+x d
+x c
+x a
+#3 c
+x     e
+x     c
+x     a
+#3f    c
+xe
+xc
+x f
+#3c   c
+x f
+x e
+x c
+b
+
+b
+#3 e
+x    a
+x     e
+x     c
+#3h    a
+xf
+xe
+xc
+#3e  c
+xc
+xa
+x e
+#3a d
+x d
+x c
+x a
+b
+#3 c
+x  c
+xf a
+x   c
+#3  a
+xe
+xc
+xa
+#3c   c
+xa
+x e
+x c
+#3 a
+x  d
+x  c
+x  a
+b
+#3   c
+x  a
+x  c
+x  d
+#3 a
+x   a
+x    e
+x    c
+#3    a
+x d
+x c
+x a
+#3 c
+x     e
+x     c
+x     a
+b
+
+b
+#3c    c
+x f
+xc
+xe
+#3c   c
+x f
+x e
+x c
+#3 a
+x    a
+x     e
+x     c
+#3h    a
+xf
+xe
+xc
+b
+#3e  c
+xc
+xa
+x e
+#3a
+x c
+x e
+xa
+2c d a
+#3a
+xc
+#3a
+x c
+x e
+xa
+b
+#3  fec
+x f
+x e
+x c
+#3 f
+x e
+#4 f
+x e
+x c
+x e
+1aac  a
+#2   c
+xc
+b
+2ec ce
+#3c
+xe
+1fc ca
+2fffc
+#3e
+xc
+1eff  a
+b
+
+b
+1fc ca
+#2  d
+x    c
+#2fc ce
+x    a
+xf   e
+x   b
+b
+2fffc
+#3e
+xf
+#2e f
+xc d
+Yeff  a
+b
+b
+
+e

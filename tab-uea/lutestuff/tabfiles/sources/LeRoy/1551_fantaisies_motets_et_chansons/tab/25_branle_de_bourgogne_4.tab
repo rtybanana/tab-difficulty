@@ -1,0 +1,138 @@
+-C
+-t
+-f
+{25. Branle de Bourgogne - 4/25. Branle de Bourgogne - 4}
+b
+c
+1. cd a
+2 a
+b
+.
+1  dc
+1ac  a
+1 daa
+1 cd a
+b
+1aac  a
+1  d a{
+#2   c
+x a    }
+1 cd a
+b
+1 acc a
+1  d a
+#2   c{
+x a   }
+1 cd a
+b
+#2   c{
+x a   }
+1 cd a
+#2   c
+x a
+1 cd a
+b
+1 acc a
+1  d a
+1. cd a
+2 a
+b
+1  dc
+1acc e
+1 da c
+1 cd a
+b
+
+b
+1aac  a
+1  da c
+#2aac  a
+x  a
+x  d
+x  c
+b
+A1
+1 cd a
+1   c
+1. cd a
+2 a
+.
+b
+b
+A2
+1 cd a
+1   c
+1acc e&{
+#2 d
+xa    }
+b
+.
+1cdda
+1acc e
+1 da c
+1 cd a
+b
+1aac  a
+1  d a
+#2   c{
+x a
+x c
+x d   }
+b
+1aac  a
+1  d a
+#2   c{
+x a   }
+1 cd a
+b
+#2c
+xa
+x d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+
+b
+1 ac  a
+1  d a
+1acc e
+#2 d
+xa
+b
+#2c  a
+xe
+xf
+xe
+#2c
+xa
+x d
+x c
+b
+#2 a
+x  d
+x  c
+x  a
+#2aac  a
+x  d
+x a
+x  c
+b
+A1
+1 cd a
+1   c
+1acc e&{
+#2 d
+xa     }
+.
+b
+b
+A2
+1 cd a
+Y.   c
+b
+b
+
+e

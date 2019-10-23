@@ -1,0 +1,447 @@
+-C
+-t
+-f
+{286. Flat pavane/John Johnson}
+b
+c
+0.abdca
+1 d
+b
+0 bdca
+0 acc"#ca
+b
+1 bd a
+#2  d
+x a
+#2 b
+x a
+x b
+x d
+b
+0aa  "# e
+0aac "# a
+b
+1.abd a
+2d  "x
+#1b da
+xd  "x
+b
+1a "#   a
+#2 d
+x b
+#2 a
+x  d
+1 acc
+b
+1  d a
+#2  a
+x  c
+#2  d
+x a
+#3 c
+x a
+x c
+x d
+b
+
+b
+#1 cd
+x   c
+0    a
+b
+b
+0abd a
+#1   c
+x d
+b
+#2 b"#  a
+x  d
+x a
+x b
+#2 a   a
+x  d
+x a
+x  c
+b
+2  d"# a
+#3  a
+x  c
+#3  d
+x  c
+x  a
+x  c
+#3  d
+x  c
+x  d
+x a
+#3 b
+x a
+x b
+x d
+b
+0aa "#  e
+0aa c"# a
+b
+
+b
+#2abd a
+x d
+xa
+xd
+#3b  a
+xa
+xb
+xd
+#3b
+xa
+x d
+x b"#
+b
+2 a   a
+#3 d
+x b
+#3 a
+x  d
+x  c
+x  a
+#3   c
+x  a
+x  c
+x  d
+#3 a
+x c
+x d
+x a
+b
+#3 c  a
+x a
+x  d
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+#1 cd  "#
+x   c
+0    a
+b
+b
+0 dba d
+#1 dba d
+x dba
+b
+
+b
+0ab  d
+0 dba d
+b
+1abd a
+#2  d
+x a
+#2 b
+x a
+#3 b
+x a
+x b
+x d
+b
+0 acc"# a
+0da "+c
+b
+#1ca  "#c{
+xa     }
+xa b d{
+x  d
+b
+1aa  c{
+#2 e
+x c
+#1 e
+x  d   }
+b
+1aac  "#a
+#2   c
+x  a
+#2  c
+x  a
+#3  c
+x  a
+x  c
+x  d
+b
+#1aac  "#a
+x   c
+0     a
+b
+b
+
+b
+1 db  d{
+#2 a
+x b
+#2 d
+x a
+#3 b
+x a
+x b
+x d
+b
+2a   d{
+#3 d
+x b
+#3 a
+x b
+x d
+xa
+2 d   d{
+#3 b
+x a
+#3  d
+x a
+x b
+x d
+b
+2 b  "#a
+#3  d
+x  c
+#3  d
+x a
+x b
+x d
+2a
+#3 d
+x b
+#3 a
+x  d
+x  c
+x  a
+b
+
+b
+#3  c  a
+x  a
+x  c
+x  d
+#3 a
+x  d
+x a
+x b
+#3 d
+x b
+x d
+xa
+#3c
+xa
+xc
+xd
+b
+#1ca  "#c
+xa
+#2a   d{
+xc
+xd
+xa
+b
+#2c   c
+x f
+x e
+x c
+#3 f
+x e
+x f
+x e
+#3 f
+x e
+x c
+x e
+b
+2a    a
+#3 d
+x b
+#3 a
+x b
+x d
+xa
+#3b
+xa
+x d
+x b
+#3 a
+x  d
+x  c
+x  a
+b
+#1 ac  a
+x   c
+0     a
+b
+b
+
+b
+#1ab  d
+xab
+0bdda
+b
+#1 dba d
+x dba
+0ab  d
+b
+#1 bd a
+x bd
+x daa
+x b
+b
+0. acc "#a
+1 bd a
+b
+#1 d a
+x b
+x a d{
+x  d
+b
+1 adc{
+#2  c
+x  a  }
+#1 adc {
+x  c  "#
+b
+1  d a
+#2  a
+x  c
+#2  d
+x a
+#3 c
+x a
+x c
+x d
+b
+
+b
+2a   a
+#3 d
+x b
+#3 d
+x b
+x a
+x  d
+#3 a
+x  d
+x a
+x b
+#3 d
+x a
+x b
+x d
+b
+b
+2a   d{
+#3 d
+x b
+#3 a
+x b
+x d
+xa
+#2b  a
+xd
+xb  "#
+xa
+b
+2 db  d{
+#3 b
+x a
+#3  d
+x a
+x b
+x d
+#2a   d{
+x d
+x b  "#
+x a
+b
+2 b  a
+#3  d
+x  c
+#3  d
+x a
+x b
+x d
+2a
+#3 d
+x b
+#3 a
+x  d
+x  c
+x  a
+b
+0. acc "#
+1 bd a
+b
+
+b
+#3 d a
+x b
+x d
+xa
+#3b
+xa
+xb
+xd
+#3b  a
+xa
+x d
+x b
+#3 a
+x  d
+x  c
+x  a
+b
+#3  c  a
+x  a
+x  c
+x  d
+#3 a
+x  d
+x a
+x c
+#3 d
+x c
+x a
+x  d
+#3 a
+x c
+x d
+x a
+b
+#3 c  a
+x a
+x  d
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+#1 cd "#a
+x   c
+Y    a
+b
+b
+
+e

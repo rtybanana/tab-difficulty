@@ -1,0 +1,279 @@
+-C
+-t
+-f
+b
+c
+2 a
+b
+1. acc  a
+#3c
+x  c
+1.  d  a
+2  d
+b
+1.  db  ///a
+2 a
+1.  c&,c  a
+2      /a
+b
+1. c&,cc  //a
+#3 c
+x e
+#2c
+x  c U
+x  e X
+x a
+b
+1.  ec a
+2 aa e
+1 ca  e
+#2  a
+x      a
+b
+1.e&,a    /a
+2e
+1.e/ c /  a
+2c
+b
+1.c&, e  a
+2 ea a
+1 ec   a
+#2 c&,
+x a
+b
+0  eecaa
+1 aa   /a
+#2      //a
+x      ///a
+b
+
+b
+1 ca  e
+#2 ea a
+x c
+1. c&,e  a
+#3 a
+x  e
+b
+1 af
+#2      ///a
+x a
+1. aab
+b
+b
+C
+2  c
+b
+#2   c
+x   c
+#2   c
+x   c
+#3  a
+x   c
+x  a
+x  c
+#3  d
+x  c
+x  d
+x  a
+b
+#2  c
+x a c
+#2 ac
+x a c
+#3 cd
+x a
+x c
+x e
+#3c c
+x e
+xc
+x cd U
+b
+#2 e
+xc c
+2.c&,  e
+3 e
+2c  c
+#3 k    a
+xh
+#2k     a
+xg     a
+b
+
+b
+#3h h  a
+x      a
+x     a
+x     c
+#3ec   d
+x     c
+x     d
+x     a
+#2ea   c
+xc c c
+2c e  a
+#3 ea a
+x c
+b
+2. c&,e  a
+3 a
+2 aab  ///a
+#3 a
+x c U
+2 e X
+#3 a ba
+x   c
+#2  a a
+x a ba
+b
+#3  dcc
+x    a
+x    c
+x    e
+#3  cc
+x    e
+x  cc
+x  d c
+#2  dee
+x  cc
+#2  c cd
+x   ee
+b
+#2     c
+x    a
+2   c
+#3  a
+x  c
+#3     a
+x  d
+x   b
+x a
+2  c&,c
+#3c c   a
+x     a
+b
+
+b
+#2ca   c
+xc c   a
+#3ea    /a
+x f
+xe
+xg
+#3h    a
+xg
+xh
+xe
+#2ga    a
+x      /a
+b
+2ca    //a
+#3  d
+xe
+#3 ed   ///a
+x  c
+xc
+x     d
+#3 c
+x   e
+x   c
+x    e
+#3  f
+x     c
+x   c
+b
+#3     a
+x  d
+x    c
+x    e
+#3 a
+x    a
+x  d
+x  c
+#2  cc
+x  c a a
+#2  c a a
+x  c a a
+b
+#3  d c 4
+x    a
+x  d c
+x   b  ///a
+#3  cc  //a
+x   b  U
+x   c  X
+x c    4
+#3  aba ///a
+x     d
+x     c
+x   c
+2.   caa///a
+3    e
+b
+#2   c
+x      a
+#2    a
+x   c
+0   cac
+b
+b
+
+b
+c
+1. acc  a
+2 ac
+1 cd
+1  cc
+b
+0  de  a
+#2  dee
+x c
+x a&,
+x  d
+b
+1.c&, c   a
+2c
+1e d
+1 a  e
+b
+1.c&, c c
+2    a
+1cca  e
+#2 ea a
+x c
+b
+0 cee
+1.     a&,
+2     a
+b
+#2     c
+x a
+1      /a
+1. a&,a
+2  d
+b
+1.  c&,c  a
+2 aa   /a
+1.  dcc //a
+2  d
+b
+1  db  ///a
+#2  cc  U
+x   b  X
+1  c c 4
+#2  a  d
+x   c c
+b
+1.   b&, a
+2   c ca
+1.   c&,a ///a
+2    e
+b
+1   c
+1      a
+0   cac
+b
+b
+P
+e

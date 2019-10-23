@@ -1,0 +1,144 @@
+-t
+-f
+{Scottish Hunt's Up/Scottish Hunt's Up}
+b
+#2 c- a
+x  d
+1a-d-a
+#2c-- a
+xa
+#2 c- a
+x  d
+1a-d-a
+#2c-- a
+xa
+b
+#2 a---d
+x  b
+1 db--d
+#2a--- d
+x d
+#2 a-- d
+x  b
+1 db- d
+#2a--- d
+x d
+b
+
+b
+#2 c--a
+x  d
+1a-d-a
+#2c---a
+xa
+#2 c--a
+x  d
+#2    a
+xa
+#2c
+xa
+b
+#2 a---d
+x  b
+#2     d
+x d
+#2a--- d
+x d
+#2 a-- d
+x  b
+#2     d
+x d
+#2a
+x d
+b
+
+b
+#2 c--a
+x  d
+#2    a
+xa
+#2c-- a
+xa
+#2  c- a
+x   c
+#2     a
+x d
+#2a--- a
+x d
+1 c- a
+2  d
+1.a-d-a
+b
+b
+1f-- a
+#2    a
+xa
+#2c
+xa
+1f-- a
+#2    a
+xa
+#2c
+xa
+b
+1d--- d
+#2     d
+x d
+#2a
+x d
+b
+1f-- a
+#2    a
+xa
+#2c-- a
+xa
+b
+
+b
+1f-- a
+#2    a
+xa
+#2c
+xa
+b
+1d--- d
+#2     d
+x d
+#2a
+x d
+b
+1 a-- d
+2  b
+1. d-- d
+b
+1d--- d
+#2     d
+x d
+#2a
+x d
+b
+1d--- d
+#2     d
+x d
+#2a
+x d
+b
+
+b
+1f-- a
+#2    a
+xa
+#2c
+xa
+b
+#txc
+xa
+#tx c
+x a
+t2  d
+b
+Y.a d a
+b
+b
+
+e

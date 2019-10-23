@@ -1,0 +1,64 @@
+-C
+-t
+-f
+{132. Jig/Jo[seph] Singer}
+b
+c
+#2 aba d
+x d
+x d
+x d
+#2 dba d
+x d
+x c
+x a
+b
+1.a    a
+2 a
+1a    a
+1 a
+.
+b
+b
+.
+#2 aba d
+x d
+x c
+x a
+#2  dca
+x  b
+1  abc
+b
+#2  b  a
+x   c
+x  b
+x   c
+#3  b  a
+x  a
+x  b
+x  d
+1 a
+b
+#2 aba d
+x d
+x c
+x a
+#2  dca
+x  b
+2  abc
+#3   c
+x  a
+b
+
+b
+#2  bc a
+x  d
+x  acc
+#3   b
+x  a
+1 acc a
+1 acc
+b
+b
+
+e

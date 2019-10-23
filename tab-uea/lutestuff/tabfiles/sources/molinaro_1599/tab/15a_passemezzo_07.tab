@@ -1,0 +1,788 @@
+-C
+-t
+-f
+{15. Passemezzo 7/Simone Molinaro}
+b
+c
+1  b
+1  d
+b
+1ddef
+1     d
+1 d f
+1  de
+b
+1 def
+1d
+1ddda
+1c
+b
+1ddef
+#2     d
+x  d
+1  ef
+1 bd
+b
+1 def
+#2d
+xf g
+1gd
+1dfef
+b
+1fggd
+1      d
+1 gd
+1d e
+b
+1f gd
+#2f g
+xd e
+1b dd
+1a b d
+b
+1b dd
+1     b
+1  dd
+1  ef
+b
+
+b
+1 bd
+#2  ea
+x  d
+#2  bc
+xd
+xb dd
+xa
+b
+1 def
+#2d
+xf g
+1gd
+1ie
+b
+1gd   d
+#2f g a
+xd e b
+1d d d
+1c da
+b
+1d b  d
+#2 g f
+x f
+1 d f
+1 bd
+b
+1 de
+#2  ef
+x e
+1 ddd
+1 bbb
+b
+1 dda
+1      a
+#2f
+x  d
+xd e
+x  g
+b
+
+b
+#2cd
+x   a
+xdb c
+xf a
+2d ef
+#3  d
+x  e
+2  g g
+#3f
+xd
+b
+#2cd a
+xf
+xg
+xi
+#2l
+x   a
+xi   i
+xg  f
+b
+#2f   f
+x  d
+xd e
+x  g
+#2 gi
+x   df
+xa b d
+x  d
+b
+#2 de b
+x   d
+x  b
+x  d  b
+#2  e  d
+x b  a
+x d  b
+xa   d
+b
+#2b  a
+x  d
+x  e
+xab c
+#2 ddd
+x  e
+x b
+x  d
+b
+
+b
+#2 de b
+xb
+xd
+xf  d
+#2g  f
+xi  h
+xl  i
+xi g
+b
+1g i
+#2f g
+xd
+1bd
+1df
+b
+1fg
+#2  dd
+x  ef
+#2 bd
+x de
+x bd
+x  ef
+b
+#2  dd
+x  e
+xf g   d
+x  d
+#2d e b
+xb
+x   fd
+x f
+b
+1 g d  d
+#2  dd
+x  ef
+#2 bd
+x de
+x bd
+x  ef
+b
+#2  dd
+x b
+x d
+x b c
+#2   d
+xb  a
+xd  c
+xf  d
+b
+
+b
+1 d f
+1d    d
+#2b   a
+xa
+x d  b
+xb
+b
+#2 e  d
+xi
+xg  a
+xf
+#2d   g
+xg
+xf   d
+xd
+b
+#2c  a
+x d
+x b c
+x  e
+#2  de
+x d
+x  gf
+x  e
+b
+1  def
+1   f
+1  dff a
+1   e
+b
+#2   f d
+x d
+x f
+x g
+#2d
+xf
+xgd f
+xd
+b
+#2f  e
+x  g
+1d ef
+1 dda
+1c
+b
+
+b
+#2dab  d
+x   f
+x   d
+x   c
+#2   a
+x    d
+x    c
+x    a
+b
+0dab  d
+1  b
+1  d
+b
+b
+#2  ef
+x  g
+x d
+x e
+#2 d
+x  g
+x  e
+x  d
+b
+2  ef
+#3   d
+x   c
+#2   a
+x   c
+#2  de
+x   f
+x  d
+x   e
+b
+#2   f
+x d
+x f
+x g
+#3d    d
+x d
+x f
+x g
+#2d
+xf
+b
+
+b
+2g  f
+#3   d
+x   c
+#3   a
+x    d
+x    b
+x    a
+#2     d
+xd
+xf  f
+xg
+b
+#3f  d
+x  g
+x d
+x f
+#3 g
+xd
+xf
+xg
+#2i
+x   f
+x   h
+xg  f
+b
+#3f  d
+x   a
+x   c
+x   d
+#3   f
+x   d
+x   c
+x   a
+#3d  d
+x   c
+x   d
+x   c
+#3   d
+x   c
+x   a
+x   c
+b
+#2b  d
+x     b
+x     d
+x b  a
+#2 d  b
+xa   d
+xb  a
+xd  c
+b
+
+b
+2f  d
+#3 f
+x d
+#2  g
+xg  f
+2f  d
+#3 gea
+x  d
+2d bc
+#3b dd
+xa
+b
+#2 def
+xd
+xd
+xf g
+1g i
+#2f ef
+xd
+b
+#2f g d
+xd
+xd
+x  e
+#2  da
+xc
+#3d
+xc
+xa
+xc
+b
+#2d    d
+x  ba
+x  bc
+x  dd
+#2  ef
+x  dd
+x  ef d
+x bd
+b
+#2 de  d
+x f
+1bb  a
+1 d  b
+#2 egfd
+x  e
+b
+1 ddef
+#2f
+x  d
+1bd    a
+1df
+b
+
+b
+1fg
+2   a
+#3df
+xbd
+#2df f
+xbd
+xa d
+x c
+b
+1 d a
+#2  e
+x   c
+1 bdd
+1  ef
+b
+#2  def
+xf
+xd e
+x  g
+#2b d
+x  ea
+x eb d
+x  d
+b
+#2 de b
+xb
+xb
+xd
+#2b
+x  e
+x  e
+xab
+b
+#2 de
+xb
+xbbd
+xd ef
+#2f gd
+xgd
+x  g
+xf
+b
+
+b
+#2gd   g
+x   d
+x   d
+x   f
+#2   d
+x     g
+x     g
+x   cd
+b
+#2   ab
+x  e
+x  ed
+x b  a
+1  e b
+2   c d
+#3  d
+x  b
+b
+#2  dd b
+xb
+xb
+xd
+#2f
+x   d
+x   d
+xg  f
+b
+#2i  h
+x  g
+x  g
+xg ii
+#2ffg
+x g
+xd
+x f
+b
+#2fg d
+x  g
+x  g
+x  e
+#2  d
+x   d
+x  bd
+x   c
+b
+
+b
+#2   df
+x g
+x g fd
+x fd
+#2 de b
+x   a
+x b ca
+x   d
+b
+#2  ef d
+xd
+xd
+xf g
+#2gd
+x   f
+xf  f
+x   d
+b
+#2d  b
+x  b
+xb da
+x  e
+#2 eg d
+x de
+x bd d
+x  ef
+b
+1  def
+1gii   f
+#2 gi  g
+xg
+xfeg d
+xd e
+b
+1cdda
+1dbbb
+#2 dda
+xc
+#3d
+xc
+xa
+xc
+b
+1dab  d
+#2 d
+x   a
+1  ef
+1 bd
+b
+
+b
+1 de
+#2     d
+x  d
+1 bb d
+1  def
+b
+1  b c
+1 eb d
+#2 d  c
+x   d
+1 bbbd
+b
+0 aba d
+1d
+1f
+b
+b
+1g  f
+1i  h
+1l  i
+1i  h
+b
+1g  f
+#2f  d
+xd  c
+#2d  a
+x    d
+1c  a
+b
+1d b  d
+1  d
+1  ef
+1 bd
+b
+1dde
+1f gh
+1gd f
+1df
+b
+0fg d
+1  d  b
+1  e  d
+b
+
+b
+1 b  a
+#2 d  b
+x   a
+#2 b ca
+x   d
+x  ea d
+x   c
+b
+0  dd b
+1f  d
+1g  f
+b
+#2i  h
+xg  f
+xf  d
+xd  c
+#2b  a
+xa   d
+x d  b
+x b  a
+b
+#2  e  d
+x d
+x f
+x g
+#2d
+xf
+xg  f
+xd
+b
+#2f  e
+xg  f
+xf d
+xd e
+#2c d
+xd b
+xd d
+xc
+b
+#2d b
+x d
+x e
+x   d
+#2 db
+x bd
+x de
+xb d
+b
+
+b
+#2 eb
+x d
+1 d d
+1   b
+1 b
+b
+1 d a
+1  d
+1  e
+#2   a
+x  d
+b
+1  bc
+1 dde
+1  ef
+1a bc
+b
+#2c da
+x d
+xd  c
+x b
+#2f  e
+x  d
+x def
+x f
+b
+#2b da
+x  b
+x  d
+x  e
+#2 eb d
+x  d
+#3  e
+x  d
+x  b
+x  d
+b
+#2 de b
+xg
+x g
+xd
+#2 g
+xd e
+xf  d
+xg  f
+b
+
+b
+#2f  d
+x de b
+x bd  b
+x  ef d
+#2 bd  b
+x de
+x b
+x  d
+b
+#2 de b
+xb
+x d
+x e
+#2 d
+x  e
+x b d
+x  ef
+b
+#2 bd
+xfg d
+xdf  d
+xbd a
+#2df  d
+xfg
+xd
+x f
+b
+1fg d
+1b    b
+1 b  a
+1 d  b
+b
+#2 b   b
+x  dd
+x  ef
+xi gh
+#2gde
+xfg
+xd g
+x f
+b
+#2fg d
+x  g
+x  d
+x  e
+#2  g
+x f  d
+x ge f
+x i  h
+b
+
+b
+#2f dd
+x  g
+xd e f
+xb d
+#2a bc
+xd
+xb dd
+xa
+b
+1 def
+#2     d
+xa
+#2b   a
+xa
+x d  b
+xb
+b
+#2 eb d
+x  d
+x dea
+x  d
+2  bb
+#3 b
+x  e
+#2 bd d
+x  b
+b
+#2   ef
+x  g
+1  ef
+1  de
+1  bc
+b
+1  de  a
+1  ef
+1  dff
+1   e
+b
+1   f d
+1 d
+1 d
+1  g
+b
+1  ff d
+1d
+1d da
+1c
+b
+
+b
+1d b  d
+1 d
+1 d
+1 b
+b
+wdab  d
+b
+b
+
+e

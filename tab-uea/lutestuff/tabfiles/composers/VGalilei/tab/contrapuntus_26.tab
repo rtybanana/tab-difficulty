@@ -1,0 +1,343 @@
+-C
+-t
+-f
+{Contrapunto XXVI/Contrapunto XXVI}
+b
+c
+0t b
+1 a
+1 d
+b
+#2     d
+x c
+x a
+x  d
+1  b c
+1  aa
+b
+#2   c
+x    e
+x   ac
+x    a
+#2     d
+x   c
+x    a
+x  a
+b
+#3    c
+x   c
+x   a
+x    e
+#2    cd
+x   c
+#2  a a
+x   ac
+x  d e
+x a a
+b
+#2  bc
+xa
+2  d
+#3 d
+x c
+#2 ab
+x d
+2  a
+#3 c
+x a
+b
+
+b
+#2  d
+x a c
+2 c
+#3   a
+x    e
+2 d  c
+#3 c
+x a
+2  da
+#3 a
+x    e
+b
+#2    c
+x c  b
+x d  c
+x c  e
+2   a
+#3 a
+x   c
+#2   e
+x  d
+b
+#2  b
+x a c
+x   a
+x  d
+#2  b c
+x   cd
+x    a
+x  a
+b
+#3    c
+x   c
+x   a
+x    e
+#2    cd
+x a
+#2  d
+x     c
+x     a
+x  bc
+b
+#2  aa
+x a  c
+x  d e
+x  aa
+#2  bc
+x a
+x c
+x d  c
+b
+
+b
+#2a   a
+x d   c
+x     d
+x c   a
+#2     c
+x a   d
+x  d a
+x  a c
+b
+#2  b
+x    e
+x  aa
+x  bc
+#2   cd
+x  a
+x  b
+x   c
+b
+#2  a c
+x  b
+x a
+x d
+#3     d
+x c
+x a
+x  d
+#2  b c
+x  aa
+b
+#2   c
+x  d e
+x    c
+x d
+#2     c
+x c  a
+x   a
+x a c
+b
+2  de
+#3  b
+x  a
+#2  b
+x   c
+2  a
+#3   b
+x    e
+#2 a b
+x    c
+b
+
+b
+#2  d e
+x   b
+x  bc
+x a
+#2 c
+x e  c
+2a   e
+#3 d
+x c
+b
+#2 a c
+x     a
+x  d  c
+x a   d
+2 b  a
+#3 a  c
+x  d
+2  b d
+#3  d c
+x    a
+b
+#2 a   d
+x  b
+2 d
+#3    c
+x b
+2 a a
+#3  d
+x    d
+2  b c
+#3 d
+x    d
+b
+2   a
+#3 b
+x a
+#2  d
+x a
+2 b c
+#3 a
+x   a
+2a   d
+#3   c
+x  a
+b
+
+b
+2  b c
+#3  a
+x    e
+#3   a
+x  b
+2  d
+#2 a
+x c  e
+#3 d  c
+x    e
+x   a
+x   c
+b
+#3  a
+x  b
+x cd
+x  a
+#3 a f
+x  d
+x  bc
+x  a
+#3   cd
+x  a
+x  b
+x    c
+#2    a
+x  a
+b
+#2  b  d
+x d
+x a
+x  b
+#2 d
+x   a
+x    c
+x     d
+b
+#2   a
+x  d
+x  a
+x   af
+#2  bc
+x     a
+2     d
+#3  a a
+x   c
+b
+
+b
+#2   ac
+x a
+2 d
+#3 c c
+x a
+#2  de
+x c
+2a   e
+#3 d a
+x c
+b
+#2 a
+x a c
+2  b
+#3 da
+x   c
+#2   a
+x ca
+2  d
+#3 ab
+x  a
+b
+#2   c
+x a
+2 d  c
+#3 c
+x a
+2  da
+#3  b
+x  a
+#2   ce
+x  a
+b
+2  b c
+#3  a
+x    a
+2     d
+#3   c
+x    a
+#2     c
+x   ac
+x   cd
+x  d c
+b
+
+b
+2 b  a
+#3 a
+x     d
+#2 b   a
+x     c
+#2 a   d
+x  b
+x da
+x c c
+b
+#2   a
+x a c
+x   e
+x  d
+#2 c
+xa   e
+x a c
+x c
+b
+2 d  c
+#3 c
+x a
+#2  da
+x  bc
+#2  aa
+x    e
+x d  c
+x c  a
+b
+#2 a   d
+x  d a
+x  b c
+x     d
+#2    c
+x  d e
+x a a
+x  b c
+b
+2    a
+#3  a
+x   c
+1  a
+0  b  d
+b
+b
+
+e

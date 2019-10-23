@@ -1,0 +1,528 @@
+-C
+-t
+-f
+{73. Trenchmore ground/John Johnson}
+b
+1  d a
+2 a
+1 c
+2 d
+b
+1a   a
+2 d
+2. c
+3 a
+2  d
+b
+1  c  a
+2  d
+1 a
+2 c
+b
+1 d   a
+2 c
+2. a
+3  d
+2  c
+b
+1  d a
+2 a
+1 c
+2 d
+b
+1a   a
+2c
+1e
+2f
+b
+1e    a
+2f
+1h
+2f
+b
+
+b
+2.e    a
+3c
+2a
+1c
+2 d
+b
+b
+#3    a
+x a
+x c
+x d
+2a
+1 c
+2  d
+b
+#3    a
+x a
+x c
+x d
+2a
+1 c
+2  d
+b
+#3     a
+x  a
+x  c
+x  d
+2 a
+1  c
+2   c
+b
+#3     a
+x  a
+x  c
+x  d
+2 a
+1  c
+2   c
+b
+#3    a
+x a
+x c
+x d
+2a
+#2c
+xa
+x c
+b
+
+b
+#3    a
+x a
+x c
+x d
+2a
+#2c
+xa
+x c
+b
+#3     a
+x  a
+x  c
+x  d
+2 a
+#2 c
+x a
+x  c
+b
+#3     a
+x  a
+x  c
+x  d
+2 a
+#2 c
+x a
+x  c
+b
+b
+1.  d a
+1.a
+b
+1  d a
+2    c
+1    e
+2   a
+b
+1.aac  a
+1. a
+b
+2. a   a
+3 c
+2 d
+1a
+2 d
+b
+1 cd
+2   c
+1.    a
+b
+
+b
+1 cd
+2   c
+1.    a
+b
+1 ac
+2   c
+1.     a
+b
+1 ac
+2   c
+1.     a
+b
+#2 c
+x  d
+x   c
+1.    a
+b
+#2 c
+x  d
+x   c
+1.    a
+b
+#2 a
+x  c
+x   c
+1.     a
+b
+#2 a
+x  c
+x   c
+1.     a
+b
+#2 c
+x  d
+x    a
+1c
+2a
+b
+#2 c
+x  d
+x    a
+1c
+2a
+b
+
+b
+#2 a
+x  c
+x     a
+1 c
+2 a
+b
+#2  c
+x   c
+x     a
+1 c
+2 a
+b
+1.  d a
+1.f
+b
+1.  d a
+1.f
+b
+1.e    a
+1.h
+b
+1.e    a
+1.h
+b
+1.f   a
+1.k
+b
+1.f   a
+1.k
+b
+1e    a
+2h
+1e    a
+2h
+b
+1e    a
+2h
+1e    a
+2h
+b
+
+b
+2.f   a
+3e
+2c
+#3a
+x d
+x c
+x a
+2  d
+b
+1  d a
+2a
+2.c
+3e
+2f
+b
+2.e    a
+3c
+2a
+#3 d
+x c
+x a
+x  d
+2  c
+b
+1  c  a
+2 a
+2. c
+3 d
+2 f
+b
+1 c  a
+2a
+2.c
+3e
+2f
+b
+1 c  a
+2a
+2.c
+3e
+2f
+b
+1e    a
+2a
+2.e
+3f
+2h
+b
+
+b
+1e    a
+2a
+2.e
+3f
+2h
+b
+1f   a
+2a
+2.c
+3a
+2 d
+b
+1 c  a
+2c
+2.a
+3 d
+2 c
+b
+1a    a
+2 a
+2. c
+3 a
+2  d
+b
+1  c  a
+2 c
+2. a
+3  d
+2  c
+b
+1  d a
+2   c
+1   e
+2   c
+b
+1  d a
+2   c
+1   e
+2   c
+b
+1  c  a
+2 a
+1 c
+2 a
+b
+
+b
+1  c  a
+2 a
+1 c
+2 a
+b
+#2  d a
+xf
+xf
+1.f
+b
+#2  d a
+xf
+xf
+1.f
+b
+#2     a
+xh
+xh
+1.h
+b
+#2     a
+xh
+xh
+1.h
+b
+#2    a
+xf
+xe
+1c
+2a
+b
+#2    a
+x d
+x c
+1 a
+2  d
+b
+#2     a
+xh
+xf
+1e
+2 h
+b
+
+b
+#2     a
+xa
+x d
+1 c
+2 a
+b
+#2    a
+xfc
+xe f
+#2    a
+xc d
+xa c
+b
+#2    a
+x da
+x c c
+#2    a
+x a a
+x  d e
+b
+#2     a
+xea
+xc d
+#2     a
+xa c
+x da
+b
+#2     a
+x c c
+x a a
+#2     a
+x  d e
+x  c c
+b
+1  d a
+2 a
+1 c
+2 d
+b
+1a   a
+2    c
+1    e
+2   a
+b
+
+b
+1aa c a
+2  a
+1  c
+2  d  c
+b
+1 a   e
+2 c  a
+1 d  c
+2  c  a
+b
+2. c  a
+3 d
+2a
+#2c
+x d
+xa
+b
+#2 c  a
+x  d
+xa
+#3a
+x d
+x c
+x a
+2  d
+b
+2.  c  a
+3  d
+2 a
+#2 c
+x  d
+x a
+b
+#3     a
+x  a
+x  c
+x  d
+x a
+x c
+#3 d
+x c
+x a
+x  d
+x a
+x  c
+b
+
+b
+1  d a
+2   c
+1a
+2    a
+b
+1  d a
+2   c
+1a
+2    a
+b
+1  c  a
+2   c
+1 a
+2     a
+b
+1  c  a
+2   c
+1 a
+2     a
+b
+2. c  a
+#4 a
+x c
+2  d
+2.a
+#4 d
+xa
+2 c
+b
+2.c   a
+#4a
+xc
+2a
+2.f
+#4e
+xf
+2c
+b
+2.e    a
+#4a
+xc
+2 f
+2.h
+#4f
+xh
+2f
+b
+
+b
+#2e    a
+x f
+xcd
+#2ac
+x  d
+x df
+b
+b
+
+e

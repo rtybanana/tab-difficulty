@@ -1,0 +1,300 @@
+-C
+-t
+-f
+{Proch Dolor/Proch Dolor}
+b
+c
+w a
+b
+0 a
+0  a
+b
+w  a
+b
+w  d
+b
+0   ac
+0   a
+b
+0    c
+0 d
+b
+0c    c
+0 c
+b
+wcc   c
+b
+0a
+0    e
+b
+0a
+0    e
+b
+0 d ac
+#1    c
+x    c
+b
+0 da
+0    c
+b
+w ca  c
+b
+
+b
+0 c   c
+0     c
+b
+0a   e
+#1 c
+x    e
+b
+0ac  e
+0 c  e
+b
+0cd  c
+0  a
+b
+0cda
+#1 a
+x  a
+b
+0.  d ec
+1  d
+b
+0  d ec
+0  a  c
+b
+w  cc
+b
+0  dc
+0  c
+b
+0 aa
+0    c
+b
+0  a
+#1    c
+x  a
+b
+0c a
+#1   a
+x  a
+b
+
+b
+0c a e
+0 ca
+b
+#1a   e
+x  c
+0  c
+b
+wa   e
+b
+#1 d ac
+x   a
+0   a
+b
+1 d  c
+0   a
+1    a
+b
+0 c e c
+0    ec
+b
+1 c e c
+0  d
+1   e
+b
+#1ac  e
+x c
+0 c  e
+b
+we cc
+b
+#1c
+x d
+x  a
+x d
+b
+
+b
+#1cd
+x  a
+x aa
+x   e
+b
+#1  d  c
+x  d e
+x   e c
+x  d
+b
+0  de c
+0  de
+b
+w  c e
+b
+w  d e
+b
+0. a  c
+1 a  c
+b
+0 a  c
+0 a  c
+b
+0.c d  c
+1  a
+b
+wcc   c
+b
+0.a d
+1  d
+b
+0a  c
+0    e
+b
+w d a
+b
+0 d ac
+0    c
+b
+w ca e
+b
+
+b
+0 c e c
+0 c
+b
+wa  ce
+b
+wa  ce
+b
+0cd
+#1  a
+x    c
+b
+0c   c
+0  a c
+b
+0  a  c
+#1  d
+x     c
+b
+0  de c
+0  d  c
+b
+0  c e
+#1 c
+x    e
+b
+#1  d
+x a
+x c
+x  d
+b
+0. da c
+1    c
+b
+0 da c
+0    c
+b
+0. ca
+1  a
+b
+
+b
+0 daa
+#1  a
+x   a
+b
+0   c
+0 a c
+b
+0 da
+0 ca
+b
+#1 d  c
+x c
+x a
+x  d
+b
+0 a a d
+#1 a   d
+x     d
+b
+0 c ce
+0 ca
+b
+0   ac
+0    c
+b
+w    ca
+b
+0     c
+#1     c
+x    e
+b
+#1 a ac
+x  b
+0  a c
+b
+w a c
+b
+0 c
+0  d
+b
+
+b
+0. cd
+1  d
+b
+w a   a
+b
+w c  e
+b
+0 d  c
+0     d
+b
+w d  c
+b
+#1 ca e
+x  c
+0  d
+b
+#1 cd e
+x  c
+0   ce
+b
+#1 a c a
+x  a
+x  cc a
+x  d
+b
+0 a  c
+#1   c
+x a
+b
+0 d ac
+#1 a
+x d  c
+b
+#2c   c
+x c
+x a
+x  d
+0 a  c
+b
+
+b
+0.cca
+1  a
+b
+#1  d
+x a
+0 c
+b
+Ycd a
+b
+b
+
+e

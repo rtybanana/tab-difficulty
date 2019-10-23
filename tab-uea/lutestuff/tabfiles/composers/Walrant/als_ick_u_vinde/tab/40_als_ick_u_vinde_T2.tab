@@ -1,0 +1,140 @@
+-C
+-t
+-f
+{Als ick u vinde/Als ick u vinde}
+b
+c
+0 acc
+1 acc
+1 ea c
+b
+0aacc
+1 cde
+1aacc
+b
+1aacc
+1acd a
+0aacc
+b
+1 ea c
+0acd a
+1 da c
+b
+1 dda
+1 acc
+#2 aa c
+x   c
+x   b
+x  d
+b
+1 acc a
+1 acc
+1 acc
+1 ea c
+b
+0aacc
+1 cde
+1aacc
+b
+1aacc
+1acd a
+0aacc
+b
+1 ea c
+0acd a
+1 da c
+b
+
+b
+1 dda
+1 acc
+1. aa c
+2  d
+b
+1 acc a
+1   c
+1 ac
+1aacc
+b
+1 ea c
+1aacc
+1.acd a
+2acd a
+b
+1aacc
+1acc e
+1ccee
+1caa c
+b
+1cc e
+1  e
+1 ea c
+1c
+b
+#2e  c
+xc
+xa
+x e
+1a  c
+1a
+b
+#2a c
+x e
+xa
+xc
+1aacc
+1e
+b
+#2f   a
+xe
+xc
+xa
+1 ea c
+1 acc
+b
+
+b
+1 aa c
+1 acc a
+1. aa c
+2  d
+b
+1 acc a
+1 acc
+1 aa c
+1  c e
+b
+0 aa c
+1 acc a
+1a
+b
+#2e  c
+xc
+xa
+x e
+1a  c
+1a
+b
+#2a c
+x e
+xa
+xc
+1aacc
+1e
+b
+#2f   a
+xe
+xc
+xa
+1 ea c
+1 acc
+b
+1 aa c
+1 acc a
+0 aa c
+b
+w acc a
+b
+b
+
+e

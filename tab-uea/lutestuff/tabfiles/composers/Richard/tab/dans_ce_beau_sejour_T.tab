@@ -1,0 +1,142 @@
+-C
+-t
+-f
+{Dans ce beau séjour des plaisirs/Dans ce beau séjour des plaisirs}
+b
+c
+1    a
+1 cdc
+1 da   a
+1   a
+b
+1 cdca
+1     c
+1 a
+1 cb  a
+b
+0 da   a
+1 daa
+1  d  c
+b
+
+b
+1     e
+1 a c
+1    a
+1 cd&Uc
+b
+1 cdc
+1 a c e
+1  d  c
+1    a
+b
+0 acc a
+.
+b
+b
+S3
+1 acc
+1   b
+1ca
+b
+1 acc
+1a   e
+1 d  c
+b
+
+b
+1   a
+1 cdca
+1    c
+b
+1    e
+1 ccd
+1 cd  c
+b
+1c  a
+1    c
+1 da
+b
+1   a
+1 ccde
+1      /a
+b
+c
+1 cde
+1     c
+1     e
+1 a c
+b
+
+b
+S3
+1    a
+2 cdc
+2    c
+1a   e
+b
+1 aacc
+1   b
+1 acc a
+b
+1      /a
+1a dc
+1    a
+b
+1 da   a
+1     a
+1  d  c
+b
+1c     a
+1 acc a
+1 d
+b
+0. cdc  ///a
+b
+b
+
+b
+1    a
+0 cdc
+b
+1    c
+1 aab
+1    e
+1c  a
+1 ccee
+1   d  /a
+b
+1     c
+0 cde
+1     e
+0 a c
+b
+
+b
+1    a
+1 cdc
+1    c
+1a   e
+1 aacc
+1   b  //a
+b
+0. acc a
+1     a
+1. acc
+2     c
+b
+1     d
+1 aba
+1   c
+1      a
+1. daa
+2 c
+b
+1 ad  a
+1  c c
+1  d a
+Y.  dc  ///a
+b
+b
+
+e

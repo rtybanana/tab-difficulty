@@ -1,0 +1,444 @@
+-C
+-t
+-f
+{38. Gagliarda 7/38. Gagliarda 7}
+b
+0hf g a
+b
+.
+0.hf g a
+1    c
+1f   e
+1   b
+b
+0ea c
+0f de
+0cef c
+b
+0effc
+1     a
+1f
+1e
+1   a
+b
+1a   e
+1    c
+1 c  a
+1     e
+1f    c
+1     a
+b
+1cdd   a
+1e
+1f
+#2e     /a
+xf
+1h     //a
+1f
+b
+1eh    a
+1c
+0fh    /a
+0eg
+b
+0cce   5
+1     c
+1  f
+0cce
+b
+
+b
+0 af   6
+0 cf  a
+0  e  c
+b
+0 ef  e
+0 f
+0 ca b
+b
+0cef c
+0e
+0bc  e
+b
+0c eb
+0 a
+0e cd
+b
+1 cee
+1     c
+0  f ce
+0  c eb
+b
+0  eeec
+1ccee
+1   c
+0 aab
+b
+1aacc
+#2   b
+x   c
+#2   e
+x   c
+x   b
+x    e
+0 efec
+b
+0.aac  a
+#2 d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+
+b
+0   c
+1     a
+1a
+#2e
+xc
+xe
+xf
+b
+0.hf g a
+1    c
+#2f   e
+x    c
+x    e
+x   b
+b
+1ef c
+#2c
+xe
+1fc e
+1     c
+1cef c
+1      //a
+b
+1eff  a
+#2h
+xf
+1e
+#2  f
+x  d
+1  c
+#2   c
+x   a
+b
+1    e
+#2a
+x d
+1 c
+#2    a
+x     e
+1     c
+#2f
+xe
+b
+
+b
+1c     a
+#2  d
+x  c
+1  a
+#2e
+xf
+1h     //a
+#2 e
+x f
+b
+1 h
+1f
+1eg    /a
+0 h
+1 g
+b
+1cce  c
+#2    e
+x    c
+1    b
+1     c
+0      5
+b
+0hhf g
+0hfh h
+0g he
+b
+0he g
+0 f
+0 ce
+b
+0cef
+0e
+0 gh
+b
+1gh  g
+#2e
+xg
+0h  g
+0ec d
+b
+1ccee
+#2  c
+x  e
+1 ef
+1     e
+0 cc  b
+b
+
+b
+1     c
+1  f
+1c e
+1   e
+1 aab
+1    c
+b
+1aa c e
+#2     cU
+x     aX
+1  fec
+1 f
+1 e    //a
+1  d
+b
+1aac  a
+1    c
+1   c
+1  d
+0aac
+b
+1.hf g a
+2f
+1e  c
+1fc  a
+0ce  c
+b
+0.af  e
+1 c  a
+1 d  c
+1a   e
+b
+1.cdda
+2d
+1a   e
+1c  a
+1 d  c
+1  c
+b
+0 cee
+1     c
+1  a
+1  c  b
+1  e  c
+b
+
+b
+1. a   e
+2 c
+1 a
+1  c  b
+1  e  c
+1 a   e
+b
+1. ca b
+2 e
+1 c
+1  e  c
+1 a   e
+1 c  b
+b
+1. ea c
+2 c
+1 e
+1 a   e
+1 c  b
+1 e  c
+b
+1.a   e
+2c
+1a
+1 c  b
+1 e  c
+1a   e
+b
+1.ca b
+2e
+1c
+1 e  c
+1a   e
+1c  b
+b
+1.ea c
+2c
+1e
+1ha   e
+1fc  a
+1ee  c
+b
+1cf  e
+1a
+1cf  c
+1      //a
+1 e
+1  d
+b
+
+b
+1aac  a
+#2 d
+x c
+#2 a
+x  d
+x  c
+x  a
+0   c
+b
+#2h    a
+xf
+xe
+x h
+1e  c
+#2f   a
+xe
+#2c
+xa
+1 e  c
+b
+#2e   e
+xc
+xa
+x e
+1 c
+#2c   a
+xa
+1 e  c
+1a   e
+b
+#2cd a
+x   c
+x  a
+x  c
+1acd
+1    a
+#2 df c
+x    e
+x   a
+x   c
+b
+#2 c e
+x a
+x  e
+x  c
+1  a
+1   b
+1  cd
+1  ee
+b
+
+b
+#2  c&_
+x a
+x c
+x e
+1a
+1 c d
+1  ee
+1 ac
+b
+#2  e&_
+x c
+x e
+xa
+1c
+1  a
+1a c
+1  e
+b
+#2  f&_
+x e
+xa
+xc
+#2e
+xc
+xa    e
+x e
+1 c  b
+1 e  c
+b
+#2a   e
+x e
+xa
+xc
+#2e
+xa
+xc   b
+xa
+#2 e  c
+xc
+1a   e
+b
+
+b
+#2c  b
+x  a
+x  c
+x  d
+#2 a
+xc
+xe   c
+xc
+#2a   e
+x  d
+x  cb
+x  a
+b
+#2  cc
+xa
+xe
+xa
+#2h
+x a
+x  d  e
+x  c
+#2  a a
+x   c
+1   bc
+b
+#2   ce
+xa
+xe
+xa   c
+#2fc  a
+xea  c
+xc d e
+xa c a
+#2  a c
+x   c
+1 ea
+b
+1aac  a
+#2 d
+x c
+#2 a
+x  d
+x  c
+x  a
+#2   c
+x   b
+x   c
+x  a
+b
+A1
+waac  a
+0hf g a
+.
+b
+b
+A2
+w.aac  a
+b
+b
+
+e

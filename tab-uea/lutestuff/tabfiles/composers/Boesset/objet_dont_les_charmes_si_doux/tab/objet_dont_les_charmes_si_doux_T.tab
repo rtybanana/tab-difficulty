@@ -1,0 +1,135 @@
+-C
+-t
+-f
+{Objet dont les charmes si doux/Objet dont les charmes si doux}
+b
+.
+w bdca
+0
+b
+.
+0. b  a
+1 d
+0 a c e
+b
+0    a
+1  dc
+1     d
+0  da b
+b
+w. acc a
+b
+
+b
+0 b  a
+0 d
+0a
+b
+w db c
+0 bbcd
+0 ba a
+0 bba d
+0 a
+b
+0 bbcd
+0    c
+0    a
+b
+0. bdc
+1 d
+0 a c e
+b
+
+b
+0    a
+1  dc
+1     d
+0  da b
+b
+w. acc a
+b
+0 b  a
+0 d
+0a
+b
+0 db c
+0a   d
+0 ba a
+b
+0db   d
+0 a
+0   c
+b
+
+b
+0 b  a
+0 a cc
+0   b  //a
+b
+w acc a
+0    c
+b
+A1
+w. acc
+.
+b
+b
+A2
+w acc
+0    a
+b
+.
+w bdc
+1 a c
+1 c
+b
+0. dda
+1   c
+1 b d
+1 d
+b
+
+b
+wa cc
+0 cdca
+b
+0 dda
+0    d
+0 db c
+b
+0a b d
+0    c
+0    a
+b
+0 b c
+0  a
+0 ab  d
+b
+0  d  b
+1 b
+1 d
+0a b  a
+b
+
+b
+0bdd   a
+0aad  a
+0  c
+b
+A1
+w bdca
+0      ///a
+b
+A1
+A2
+w bdc
+0    a
+.
+b
+b
+A2
+Y. cdca
+b
+b
+
+e

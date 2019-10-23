@@ -1,0 +1,854 @@
+-C
+-t
+-f
+{80. Mounsieurs allemande/Daniel Bacheler}
+b
+c
+#2aacc
+x     a
+2   c
+#3   b
+x    e
+#2caa c
+x      a
+x    c
+x    a
+b
+#3e    e
+xf
+#2h
+xf    c
+2 e
+#2eff  a
+xa
+1af
+b
+#3e
+xf
+xh
+x a
+#3 c
+xf
+xe
+x f
+#3 e
+xc
+xa
+x c
+#3 e
+x f
+x  c
+x a
+b
+
+b
+#3  d
+x c
+xa
+x c
+#3  f
+xa
+x e
+x  d
+#2aac
+x   c
+1     a
+b
+b
+#3   c
+x   b
+x   c
+x  a
+#3  c
+x  a
+x  c
+x  d
+#3 a
+x  d
+x a
+x c
+#3 e
+x c
+x e
+xa
+b
+2c
+#3 a
+x c
+#3 e
+x c
+x e
+xa
+#3c
+xa
+xc
+xe
+#3f
+xc
+xe
+xf
+b
+
+b
+2h
+#3 a
+x c
+#3 e
+xa
+xc
+xe
+2f
+#3  a
+x  c
+#3  d
+x a
+x c
+x e
+b
+2a
+#3 e
+x c
+#3 a
+x  d
+x  c
+x  a
+2   c
+#3  a
+x  c
+#3  d
+x a
+x c
+x e
+b
+#3a
+xc
+xe
+xf
+#3h
+xa
+xc
+xe
+#3f
+xc
+xe
+xf
+#3e
+xa
+xc
+xe
+b
+
+b
+#3c
+xe
+xf
+xe
+#3c
+xe
+xa
+xc
+#3 e
+xa
+x c
+x e
+#3 a
+x c
+x e
+x a
+b
+#3 c
+x a
+x c
+x e
+#3 c
+x e
+xa
+x c
+#3 e
+x c
+x e
+xa
+#3 e
+xa
+xc
+x e
+b
+#3a
+xc
+xe
+xf
+#2h
+xe
+0af
+b
+b
+1aac {
+1  }  a
+1caa c
+1      a
+b
+1ea   a
+#2a
+xc
+#2e
+xf
+1h
+b
+
+b
+1fc
+#2ea
+xc d
+#2b c
+xc a
+x  c
+xb
+b
+1ccee
+1     c
+0ccee
+b
+#2f
+xe
+xh
+x e
+#2 c
+xf
+xe
+x f
+b
+#2 e
+xc
+xa
+x c
+#2 e
+x  f
+x  c
+x a
+b
+#2  d
+x c
+xa
+x c
+#2  f
+xa
+x e
+x  d
+b
+1aacc
+1     a
+0   c
+b
+b
+
+b
+#3a
+x e
+xa
+xc
+#3a
+xc
+xe
+xa
+#3c
+xa
+xc
+xe
+#3c
+xe
+xf
+xc
+b
+#3e
+x h
+xe
+xf
+#3e
+xf
+xh
+xf
+#3e
+xf
+xe
+xc
+#3a
+xc
+xa
+x d
+b
+#3 c
+x a
+x  d
+x a
+#3 c
+x a
+x c
+x e
+#3b
+xc
+xe
+xc
+#3b
+xc
+xe
+xb
+b
+
+b
+2c
+#3a
+x e
+#3 c
+x a
+x  e
+x  c
+2  a
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+b
+#3a
+x e
+xa
+xc
+#3e
+xc
+xe
+xf
+#3h
+xa
+xc
+xe
+#3f
+xe
+xc
+xa
+b
+#3c
+xa
+xc
+xe
+#3c
+xa
+x e
+x c
+#3 a
+x  e
+x a
+x c
+#3 a
+x c
+x e
+x a
+b
+
+b
+#3 c
+x a
+x c
+x e
+#3a
+xc
+xe
+xa
+#3c
+xa
+x e
+xa
+#3c
+xa
+xc
+x e
+b
+#3a
+x e
+xa
+xc
+#3e
+xc
+xe
+xf
+#2h
+xe
+1a
+b
+#2e
+xf
+xh
+xe
+#2f
+xc
+xe
+xa
+b
+#2c
+x e
+xa
+x c
+#2 e
+x a
+xa
+x e
+b
+#2 c
+x  d
+xa
+x c
+#2 e
+x a
+xc
+x e
+b
+
+b
+#2e
+xa
+x  f
+xe
+0af
+b
+b
+#3e
+xf
+2h
+#2e
+xa
+#3a
+xc
+2e
+#2a
+x c
+b
+#3 e
+xa
+2c
+#2 e
+x a
+#3c
+xe
+2f
+#2e
+xc
+b
+#3e
+xf
+2h
+#2e
+x a
+#3  d
+x a
+2 c
+#2  d
+x  a
+b
+#3  c
+x  d
+2 a
+#2  c
+x   c
+0     a
+b
+b
+
+b
+#3h
+xf
+xe
+xf
+#2h
+xa
+#3 c
+x a
+x c
+x e
+#2a
+x c
+b
+#3c
+xa
+x e
+xa
+#2c
+x a
+#3 e
+x c
+x a
+x c
+#2 e
+x a
+b
+#3 c
+x a
+x c
+x e
+#2a
+x c
+#3 e
+x c
+x e
+xa
+#2c
+x e
+b
+#3a
+x e
+xa
+xc
+#2e
+xa
+#3e
+xa
+xe
+xf
+#2h
+xa
+b
+
+b
+#2a
+x e
+x c
+#2 a
+x c
+x e
+#2a
+xc
+xe
+#2c
+xe
+xa
+b
+#2 e
+xa
+xc
+#2c
+xe
+xa
+#2 e
+xa
+xc
+#2 c
+x e
+xa
+b
+#2e
+xf
+xh
+#2a
+xc
+xe
+#2f
+xc
+xe
+#2f
+x c
+x e
+b
+#2a
+x  c
+x  a
+#2   c
+xa
+xc
+#2e
+x a
+x c
+#2 a
+xe
+xc
+b
+
+b
+#2a
+x  c
+x  d
+#2 a
+xc
+xe
+#2f
+x c
+x e
+#2 f
+xf
+xe
+b
+#2c
+x e
+x c
+#2 a
+xc
+xa
+#2 e
+x  f
+x  d
+#2  c
+xa
+x d
+b
+#2 c
+x  a
+x  c
+#2  d
+xc
+xa
+#2 e
+x  d
+x  c
+#2  a
+xh
+xf
+b
+#2e
+x  c
+x  a
+#2   c
+xe
+xc
+#2a
+x   c
+x  a
+1.aaccca
+b
+b
+
+b
+c
+#3a
+xa
+xa
+xa
+#2c
+xa
+#3c
+xc
+xc
+xc
+#2f
+xc
+b
+#3a
+xa
+xa
+xa
+#2e
+xa
+#3e
+xe
+xe
+xe
+#2h
+xe
+b
+#3c
+xc
+xc
+xc
+#2f
+xc
+#3e
+xe
+xe
+xe
+#2h
+xe
+b
+#3g
+xg
+xg
+xg
+#2k
+xg
+#3c
+xc
+xc
+xc
+#2g
+xc
+b
+
+b
+#3e
+xc
+xa
+x e
+#3a
+xc
+xe
+xf
+#3h
+xa
+xc
+xe
+#3f
+xe
+xc
+xa
+b
+2c
+#3f
+xe
+#3c
+xa
+x e
+x c
+2 a
+#3e
+xc
+#3a
+x d
+x c
+x a
+b
+2 c
+#3a
+x d
+#3 c
+x a
+x  d
+x  c
+2  a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+b
+2   c
+#3   a
+x    e
+#3    c
+x    a
+x     e
+x     c
+0     a
+b
+b
+
+b
+#2     a
+xa
+xh
+xa
+#2    c
+xc
+xf
+xc
+b
+#2     a
+xe
+xh
+xe
+#2     a
+xa
+xe
+xa
+b
+#2     c
+xc
+xf
+xc
+#2    e
+xe
+xh
+xe
+b
+#2  a
+xg
+xk
+xg
+#2  a
+xc
+xf
+xc
+b
+#2     a
+xe
+xh
+xe
+#2   c
+xa
+xe   e
+xa
+b
+
+b
+#2    c
+x e
+xc
+x e
+#2    c
+x a
+x e
+x a
+b
+#2    a
+x c
+xa   e
+x c
+#2    c
+x e
+xc     a
+x e
+b
+#2     a
+xa
+xe
+xa
+0aacc
+b
+b
+#3   c
+x  a
+2  c
+#3  a
+x  c
+2  d
+#3  c
+x  d
+2 a
+#3 c
+x e
+2a
+b
+#3 e
+xa
+2c
+#3a
+xc
+2e
+#3c
+xa
+2 e
+#3 c
+x e
+2a
+b
+
+b
+#3e
+xf
+2h
+#3  c
+x  d
+2 a
+#3 c
+x e
+2a
+#3c
+xe
+2f
+b
+#3e
+xf
+2h
+#2f
+xc
+Yaf
+b
+b
+
+e

@@ -1,0 +1,359 @@
+-C
+-t
+-f
+{Correte tutti quanti/Correte tutti quanti}
+b
+c
+1
+1 ddef
+1 ddef
+#2  d
+xa  ce
+b
+1 dfec
+1 dff d
+#2 cdca
+x d
+1 c
+b
+1 ddef a
+#2fd ef
+x   f
+1fdaa
+#2f d
+x    e
+b
+1h ikkh
+1hd f d
+1fcdca
+#2 c
+xd
+b
+1cdda
+1 ddef
+1a dce
+1 ddef
+b
+1 dff d
+1 dde  a
+2 cdca
+#3 d
+x c
+#3 d
+x c
+x a
+x c
+b
+
+b
+1 ddef a
+1f de  a
+1fcdca
+1fcde c
+b
+1da acd
+1cdda  a
+#2acdca
+x   a
+x   c
+x    e
+b
+1 dda  a
+1 ddef
+1 ddef
+#2  d
+xa  ce
+b
+1 dfec
+1 dff d
+2. cdca
+3 d
+2 c
+#3 a
+x c
+b
+1 ddef a
+#2fd ef a
+x   f
+1fdaa
+#2f d
+x    e
+b
+1h ikkh
+1hd f d
+#2fcdca
+x   a
+x   c
+xd
+b
+1cdda
+1 ddef
+1a dce
+1 ddef
+b
+
+b
+1 dff d
+1 dde  a
+#2 cdca
+x   a
+1 cdca
+b
+1 ddef a
+1f def a
+1fcdca
+1fcde c
+b
+1da acd
+1c da  a
+2.acdca
+3 d
+2 c
+#3 a
+x c
+b
+1 dda  a
+1  aa
+1 dde  a
+1  bc
+b
+1 ddef a
+1aab
+1c def
+1d  c
+b
+1f def
+1  bc
+1c def
+1   f
+b
+1 dde
+1c da
+1c def
+1cdda
+b
+
+b
+1dfg d
+1cdda
+2acdca
+#3 d
+x c
+#3 d
+x c
+x a
+x c
+b
+1 dda  a
+1  da
+1cdda
+1  d e
+b
+1cdf c
+1cc  a
+1ddf fd
+1d f
+b
+1c def
+1   f
+1cdde
+1c aa
+b
+#2c def
+x    e
+xcdf c
+x    a
+1ddf  d
+1 dff d
+b
+1dfg d
+1ddff d
+1fddef
+#2   e
+xf
+b
+1hd f d
+1 dff
+1 dff
+1  f  d
+b
+1  f  d
+1 dff d
+1 cdca
+1 dbac
+b
+
+b
+#2  dca
+x d
+1 cd
+1 dde  a
+1cd a
+b
+1cd a
+1cdda
+1aacc
+1 dde
+b
+#2aadc
+x  c
+#3  d
+x  c
+x  a
+x  c
+1acd a
+1 cd
+b
+1c da
+#2  aa
+xa b
+1 ddef
+#2 d a
+x  bc
+b
+1 ddef
+1c aa
+1fcdca
+#2  d
+xd
+b
+1c def
+#2c  ef
+x  d
+1acdca
+#2   ca
+x  b
+b
+
+b
+#2 dde  a
+x     a
+xf  e c
+x     d
+#2   ca
+xf
+xf   e
+xd
+b
+1cdda  a
+1  aa
+1 ddef a
+1  bc
+b
+1 dde  a
+1aab
+1c def
+1d  c
+b
+1f def
+1  bc
+1c def
+1   f
+b
+1 dde
+1c da
+1c def
+1cdda
+b
+1dfg d
+1cdda
+#2acd a
+x a
+1 cdca
+b
+1 dda  a
+1  da
+1cdda
+1  d e
+b
+1cdf c
+1cc  a
+1ddf fd
+1d f
+b
+1c def
+1   f
+1cdde
+1c aa
+b
+
+b
+#2c def
+x    e
+xcdf c
+x    a
+1ddf  d
+1 dff d
+b
+1dfg d
+1ddff d
+1fddef
+#2   e
+xf
+b
+1hd f d
+1 dff
+1 dff
+1  f  d
+b
+1  f  d
+1 dff d
+1 cdca
+1 dbac
+b
+#2 cdca
+x d
+1 cd a
+1 ddef a
+1cd a
+b
+1cd a
+1cdda
+1aacc
+1 dde
+b
+#2aadc
+x  c
+#3  d
+x  c
+x  a
+x  c
+1acd a
+1 cd
+b
+
+b
+1c da
+#2  aa
+xa b
+1 ddef
+#2 d a
+x  bc
+b
+1 ddef
+1c aa
+1fcdca
+#2 c
+xd
+b
+1c def
+#2c  ef
+x  d
+1acdca
+#2   ca
+x  b
+b
+#2 ddef a
+x     a
+xf  e c
+x     d
+#2   ca
+xf
+xf   e
+xd
+b
+wcdda  a
+b
+b
+
+e

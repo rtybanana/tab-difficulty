@@ -1,0 +1,136 @@
+-C
+-t
+-f
+{Chi passa per sta strada/Chi passa per sta strada}
+b
+2 aa   /a
+b
+.
+1 aa   /a
+2 aa c
+1 aa   /a
+2 aa c
+b
+1. aa   /a
+1 aa c
+2 aa c
+b
+#2 abc
+x ab  a
+x abc
+1 aa c
+2 aa   /a
+b
+
+b
+1. acc a
+1
+2 aa c
+b
+1 aa   /a
+2 aa c
+1 aa   /a
+2 aa c
+b
+1. aa   /a
+#2 aa c
+x aa   /a
+x aa c
+b
+#2 abc
+x ab  a
+x abc
+1 aa c
+2 aa   /a
+b
+
+b
+2. ac  a
+3  d
+#3  c
+x  d
+#2 a
+x a
+x dda
+b
+1 dd   a
+2 dda
+1 dd   a
+2 dda
+b
+1. dd   a
+#2  def
+x ab c
+x bd a
+b
+1 df  d
+2 df  d
+#2 bd a
+x bb d
+x aaa
+b
+
+b
+1  dca
+2 bd a
+2. aa c
+3 aa c
+2 aa   /a
+b
+2. ab  a
+3  df c
+#2 ab  d
+x bd a
+#2 aa c
+x aa   /a
+b
+1. ab  a
+1 ab  a
+2 dda
+b
+1 dd   a
+2 dda
+1 dd   a
+2 dda
+b
+
+b
+1. dd   a
+#2  def
+x ab c
+x bd a
+b
+1 df  d
+2 df  d
+#2 bd a
+x bb d
+x aaa
+b
+1  dca
+2 bd a
+2. aa c
+3 aa c
+2 aa   /a
+b
+2. ab  a
+3  d  c
+#2 ab  d
+x bd a
+#2 aa c
+x aa   /a
+b
+
+b
+A1
+1. acc a
+1
+2 aa c
+.
+b
+b
+A2
+0. accca
+b
+b
+
+e

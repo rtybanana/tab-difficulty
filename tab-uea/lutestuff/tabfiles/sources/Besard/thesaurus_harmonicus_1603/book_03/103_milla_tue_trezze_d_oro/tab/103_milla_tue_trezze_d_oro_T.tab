@@ -1,0 +1,91 @@
+-C
+-t
+-f
+{103. Milla tue tresse d'oro/103. Milla tue tresse d'oro}
+b
+c
+#2 dff
+x a
+1 db  d
+1 a
+1 dda
+#2 bbc
+x  de
+1ddff
+b
+2  bc
+#3  bc
+x aab
+#2 abc
+x bd
+#2aadc
+x  c
+1 cdca
+b
+2 da c
+#3 da c
+x ca b
+#2 ea c
+xa b
+#2a a c
+x e
+1aacc
+b
+#2
+x  bc
+x  bc
+x abc
+1 dff
+2 dff
+#3  de
+x  bc
+#2cdda
+xda c
+xd da
+xc
+0 aba d
+b
+
+b
+#2
+x da c
+xabb d
+xcdda
+1ddf  d
+1ddf  d
+b
+1hd f d
+#2fd a
+xda c
+#2cea c
+xdab  d
+2.cdda
+3aabc
+2 ea c
+2abb d
+#2 ea c
+x ea c
+b
+#2
+x  bc
+x  bc
+x  de
+b
+1 dff
+#2 aba d
+x cd a
+1 da c
+1abb d
+1cdda
+1 da c
+1aabc
+1abb d
+1abd a
+#2aaa c
+x e
+b
+Yaacc a
+b
+b
+
+e

@@ -1,0 +1,377 @@
+-C
+-t
+-f
+{29. Ricercar 11 alla spagnola/29. Ricercar 11 alla spagnola}
+b
+c
+1  d a
+#2   c
+x  c
+#2  d
+x a
+x b"=
+x d
+b
+#2a
+xd
+xc
+xa
+#2 d
+x b
+x a
+x  d
+b
+1  cc
+#2     a
+x   a
+#2   c
+x   a
+x    d
+x    c
+b
+#2  d a
+x     d
+x     c
+x     a
+1     c
+1  da
+b
+1  cc
+1     a
+#2    d
+x  d
+x a
+x   a
+b
+
+b
+1 b c
+#2    a
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+1  aa
+#2    a
+x   c
+#2  a
+x  b
+1  da
+b
+#2     a
+x  d d
+x    c
+x    a
+1    ca
+1  c
+b
+1  d a
+#2  a
+x  c
+#2  d
+x a
+x b"=
+x d
+b
+#2a
+x a
+x b
+x d
+#2a
+xc
+xd"=
+xa
+b
+#2c
+xa
+x d
+x b
+#2 a
+x  d
+x  c
+x  a
+b
+
+b
+1 acc
+1     a
+1da
+#2     a
+xc
+b
+1ab
+#2    a
+x d
+#2 b
+x a
+x  d
+2  c
+b
+1  da
+1     c
+1f
+#2     a
+xd
+b
+1c
+#2   a
+xa
+#2 d
+x b
+x a
+x  d
+b
+1 a a
+#2     d
+x b
+1 d a
+#2     d
+x b
+b
+1 a a
+#2     d
+x b
+#2 a
+x  d
+x  b
+2  a
+b
+1  bcd
+1  dd b
+1  bcd
+1 b
+b
+
+b
+1   a d
+#2 d
+x b
+#2 a
+x  d
+x  b
+2  a
+b
+#2   c
+x  a
+x  b
+x  d
+#2 a
+x b
+x d
+xa
+b
+1c da
+1a bc
+1  a c
+1 e
+b
+1aa c
+#2     a
+x d
+#2 b
+x a
+x  d
+x  b
+b
+#2  a
+x   c
+x   a
+x    d
+#2    c
+x    a
+x     d
+x     c
+b
+1  b  a
+1   c
+1  d  c
+1   b
+b
+
+b
+1  b  a
+#2   c
+x  a
+#2  b
+x  d
+1 a a
+b
+#2    d
+x  dc
+x a
+x  b
+1  dcd
+1 a
+b
+#2 aa c
+x c
+x d
+xa
+1ca  c
+1da
+b
+1    c
+#2c
+xa
+1. ea c
+2a
+b
+1ca  c
+1da
+#2ca  c
+xa
+x d
+x c
+b
+#2 a   d
+x c
+x e
+xa
+1c da
+1a bc
+b
+1  a c
+1f
+#2da   a
+xc
+xa
+x d
+b
+
+b
+#2 b
+x a
+x  d
+x  b
+1  dcd
+1  bac
+b
+1 b cd
+1  a
+b
+1 ab  d
+#2  a
+x   c
+#2   a
+x  b
+x  d
+x a
+b
+1  dd b
+1  bcd
+1     b
+1  dd
+b
+1  bcd
+#2  d
+x a
+#2 b
+x d
+xa
+xc
+b
+1ea   a
+1  d
+1 a   a
+1e
+b
+#2fb  a
+xd
+xc
+xa
+#2 d
+x b
+x a
+x  d
+b
+
+b
+1 acc
+1 bd a
+1 da c
+1  b
+b
+1 bd a
+1a
+1    a
+#2 d
+x b
+b
+1 a a d
+1 b cd
+1 b a d
+1 a
+b
+#2    d
+xd
+xc
+xa
+#2 d
+x b
+x a
+x  d
+b
+1.  c ca
+2  d d
+1 a a
+1 b c
+b
+1 a a
+1  d d
+1  c c
+1     a
+b
+1  d d
+1 a a
+#2     d
+x  d d
+x    c
+x    a
+b
+
+b
+1  c ca
+#2    d
+x    a
+1  d ca
+1  c
+b
+1  d a
+#2   c
+x  c
+#2  d
+x a
+x b
+x d
+b
+#2a
+xd
+xc
+xa
+#2c
+xe
+1f   a
+b
+1 a   a
+1e
+1f   a
+1a
+b
+1b  a
+1a   e
+1 d  c
+1  c
+b
+0acd a
+0acd a
+b
+0bdda
+0bdda
+b
+Yacd a
+b
+b
+
+e

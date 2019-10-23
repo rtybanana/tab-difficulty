@@ -1,0 +1,169 @@
+-C
+-t
+-f
+{24. Alta Mendozza/24. Alta Mendozza}
+b
+0fd a
+0fd a
+0da c
+b
+wcd a
+0 d
+b
+0fd a
+0fd a
+0da c
+b
+wcd a
+0 d
+b
+wfd a
+0da c
+b
+0.cd a
+1a
+0 d a
+b
+0.acd a
+1 da
+0 c c
+b
+w daa
+0      a
+.
+b
+b
+.
+0cd a
+0dd f
+0f  e
+b
+0.hd f
+1f
+0d
+b
+0hd f
+0if h
+0fh  f
+b
+
+b
+0.hd f
+1f
+0d
+b
+0f   e
+0c  a
+0d  c
+b
+0.fd a
+1h
+0f
+b
+0da  c
+0a   d
+0c  a
+b
+0.dd f
+1f
+0d
+b
+0da  c
+0a   d
+0c  a
+b
+0.acd a
+1 d
+0a   a
+b
+0 da  c
+0 a   d
+0 c  a
+b
+w daa
+0  a
+.
+b
+b
+.
+0  d  c
+0 a   d
+0 c  a
+b
+1. da c
+2 c
+1 d  c
+1.a   e
+2 d
+1a   e
+b
+
+b
+wcd a
+0 d
+b
+0a   e
+0c  a
+0d  c
+b
+1.f  a
+2d
+1c
+1.acd a
+2 d
+1a
+b
+w daa
+0  a
+.
+b
+b
+.
+0cd a
+0a   e
+0 d  c
+b
+1. cd a
+2 a
+1  d a
+1.aac  a
+2  d
+1 a   a
+b
+w cd a
+0   c
+b
+0  d  c
+0 a   d
+0 c  a
+b
+1. d  c
+2 c
+1 d  c
+1.a   e
+2 d
+1a   e
+b
+wcd a
+0 d
+b
+
+b
+0a   e
+0c  a
+0d  c
+b
+1.f  a
+2d
+1c  a
+1.a   a
+2 d
+1 c  a
+b
+w daa
+0  d
+.
+b
+b
+
+e

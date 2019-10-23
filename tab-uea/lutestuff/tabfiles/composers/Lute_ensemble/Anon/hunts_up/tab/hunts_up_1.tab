@@ -1,0 +1,471 @@
+-C
+-t
+-f
+{The hunt is up/The hunt is up}
+b
+1. c
+2 d
+1a
+b
+1.a
+2c
+1a
+b
+#2a
+xf
+#2c
+x d
+#2a
+x d
+b
+1. c
+2 d
+1a
+b
+#2c
+x d
+#2a
+xc
+#2a
+x d
+b
+
+b
+#2 c
+x a
+#2  e
+x a
+#2 c
+x  e
+b
+#2 a
+xc
+#2 e
+x a
+#2h
+xc
+b
+#2 e
+x a
+#2c
+x e
+1 a
+b
+#2 d
+xa
+#2c
+xd
+#2f
+xd
+b
+#2c
+xa
+#2 d
+xa
+#2c
+xe
+b
+
+b
+#2f
+xa
+#2c
+x d
+#2a
+x d
+b
+#2 c
+x a
+#2  d
+x a
+#2 c
+x d
+b
+#2a
+xc
+#2e
+xa
+#2c
+xe
+b
+#2f
+xc
+#2e
+xf
+#2h
+xe
+b
+#2f
+xa
+#2c
+x d
+#2a
+x d
+b
+
+b
+#2 c
+x  d
+#2a
+x c
+1  d
+b
+b
+0  dca
+1 acc a
+b
+1. cdca
+2 d
+1 cdca
+b
+1  dca
+1 cd
+1 acc a
+b
+1.  dca
+2 a
+1 cd a
+b
+0 daa
+1 cd a
+b
+1 aa c
+#2 c
+x a
+1 ce
+b
+1 aa c
+#2      /a
+x  b
+#2  a
+x   c
+b
+
+b
+1    c
+1 aab
+1    c
+b
+1. daa
+2  b
+#2  a
+x   c
+b
+1   a
+1 da
+1   a
+b
+1. cdca
+2 d
+#2 c
+x a
+b
+1    a
+1 cd
+#2  c
+x  a
+b
+1 acc
+#2     a
+x c
+#2 a a
+x  d
+b
+1  de
+1 adc
+1  c
+b
+
+b
+#2    a
+x cd
+#2   c
+x d
+#2 c
+x a
+b
+1    a
+1 cd
+1    a
+b
+b
+#3  d
+x  c
+x  d
+x a
+#3 c
+x a
+x c
+x d
+2a
+#3c
+xe
+b
+2f
+#3e
+xc
+#3a
+x d
+x c
+x a
+#3  d
+x a
+x c
+x d
+b
+
+b
+#3a
+x d
+x c
+x a
+#3 c
+x d
+xa
+xc
+#3e
+xa
+xc
+xe
+b
+2f
+#3e
+xc
+#3a
+x d
+x c
+x a
+#3 c
+x d
+xa
+x c
+b
+#3 d
+xa
+xc
+xe
+#3f
+xc
+xe
+xf
+#3e
+x h
+xe
+xg
+b
+
+b
+#3h
+xe
+xg
+xh
+#3g
+xh
+xk
+xh
+#3g
+xh
+xk
+xg
+b
+2h
+#3f
+xe
+#2c
+xa
+#2 e
+x c
+b
+#2 a
+x c
+#2 d
+xa
+#2c
+xd
+b
+#3c
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+#3 d
+x c
+x d
+xa
+b
+
+b
+#3c
+xa
+xd
+xc
+#3a
+x d
+x c
+x a
+#3  d
+x  c
+x  d
+x a
+b
+#3 c
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+#3  d
+x  c
+x  d
+x a
+b
+#3 c
+x a
+x d
+x c
+#3 a
+x  d
+x  c
+x  a
+#3   c
+x   b
+x   c
+x  a
+b
+
+b
+#3  c
+x  a
+x  c
+x  d
+#3 a
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xa
+b
+#3 d
+x c
+x a
+x  d
+#3 a
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xe
+b
+2f
+#3e
+xc
+2a
+#3c
+xe
+2f
+#3c
+xe
+b
+
+b
+#3f
+xa
+xc
+x d
+#3a
+x c
+x d
+x a
+#2 c
+x  d
+b
+b
+0  dca
+1 acc a
+b
+1. cdca
+2 d
+1 cdca
+b
+1  dca
+1 cd
+1 acc a
+b
+1.  dca
+2 a
+1 cd a
+b
+0 daa
+1 cd a
+b
+1 aa c
+#2 c
+x a
+1 ce
+b
+1 aa c
+#2      /a
+x  b
+#2  a
+x   c
+b
+
+b
+1    c
+1 aab
+1    c
+b
+1. daa
+2  b
+#2  a
+x   c
+b
+1   a
+1 da
+1   a
+b
+1. cdca
+2 d
+#2 c
+x a
+b
+1    a
+1 cd
+#2  c
+x  a
+b
+1 acc
+#2     a
+x c
+#2 a a
+x  d
+b
+1  de
+1 adc
+1  c
+b
+
+b
+#2    a
+x cd
+#2   c
+x d
+#2 c
+x a
+b
+1    a
+1 cd
+1    a
+b
+b
+
+e

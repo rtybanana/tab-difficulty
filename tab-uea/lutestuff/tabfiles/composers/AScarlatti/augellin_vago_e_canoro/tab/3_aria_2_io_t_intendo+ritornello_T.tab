@@ -1,0 +1,244 @@
+-C
+-t
+-f
+{/}
+b
+2 daa
+1 aba d
+1 dd  c
+2 da c
+b
+#2 ab  a
+x   c
+xa d e
+1. daa
+b
+#2 da c
+xaa c d
+2     a
+#3 cd a
+x    c
+#3    e
+x    a
+2 daa
+b
+#2aa   d
+xadd a
+x c    ///a
+1. daa  a
+b
+2cdda
+1 df  d
+1 dd  c
+2 da c
+b
+#2aabc
+xa d e
+x    a
+#3c da
+x   c
+#3  a
+x  b
+xacd
+x    a
+b
+
+b
+2 daa
+1 dc c
+1a d e
+2ed  c
+b
+2ff  e
+1aa   e
+1ac  a
+2 cde
+b
+#2 daa
+xaacc
+x     a
+1. cd a
+b
+2cdda
+1da a d
+1 dd  c
+2 da c
+b
+2 ab  a
+1aabc
+#3 da   a
+x   c
+#3   a
+x   c
+2  a
+b
+#2aab
+x   c
+xa\1c\2d
+#3 \2da
+x   \1c
+#3   a
+x    \3e
+2 \2daa
+b
+2aab
+1 cbc
+#3 da
+x   c
+#3   a
+x   c
+2 da
+b
+
+b
+2 dff
+1 dde
+#2aabc
+x db c
+xa d e
+b
+#2cdda
+xaa   d
+xacd a
+2 daa  a
+1
+b
+2 abc a
+1
+2  deec
+1
+b
+2 aba d
+1
+2 cdc d
+#3     c
+x     a
+x dd  c
+x     a
+b
+#3     c
+x     d
+#2add a
+x c    ///a
+1. daa  a
+b
+b
+2cdda
+1 dc c
+#2a d e
+x dc c
+x cd a
+b
+2 dc c
+1
+#2a d e
+x    a
+xccd  c
+b
+
+b
+#3 da c
+x    a
+xaa   e
+x     c
+2adc  a
+b
+2ac  a
+#3  d
+x  c
+#3  a
+x   c
+2cdda
+1 dc c
+b
+2a d e
+1aa   e
+#2ac  a
+xcad   a
+xaac  a
+b
+2ac  a
+#3  d
+x  c
+#3  a
+x   c
+#2cdda
+xa d e
+x dc c
+b
+#2a d e
+x    c
+xac  a
+#2 da c
+x    a
+xaa   e
+b
+1 cdca
+2a d e
+2c da
+1cdc c
+b
+2a d e
+1aa   e
+#2acd a
+xcad   a
+xaac  a
+b
+
+b
+1.acd   ///a
+b
+b
+2cdda
+1da   d
+1.cdda
+b
+#2aabc
+xa d e
+x c  a
+1 daa
+2  a
+b
+2 dff
+1aabc
+2acd
+1 fdfe
+b
+#2 daa
+xacd
+x    a
+2 daa
+1
+b
+1.
+2 da c
+1
+b
+1.
+b
+2 dff
+1
+2 cbc
+1
+b
+2 daa
+1a b a
+#2 daa
+xacd
+x    a
+b
+
+b
+1 daa
+2    e
+1 da c
+2 cd a
+b
+#2 da   a
+xadd a
+x c    ///a
+1. da a a
+b
+b
+
+e

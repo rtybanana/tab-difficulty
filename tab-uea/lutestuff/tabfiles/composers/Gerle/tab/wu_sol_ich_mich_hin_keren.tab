@@ -1,0 +1,91 @@
+-C
+-t
+-f
+{Wo soll ich mich hin keren/Wo soll ich mich hin keren}
+b
+c
+1a  c a
+b
+.
+1a bc
+1a bc
+1 da c
+1a  ce
+b
+#2ca  c
+x    a
+x    c
+x    e
+1c da
+1c da
+b
+
+b
+1da   d
+1c da
+#2c da
+xa
+1a bc
+b
+1  a c
+1 e
+0a  c a
+.
+b
+b
+1
+1a bc
+#2 da c
+xa
+x d
+x c
+b
+1 d ac
+1 a c a
+1    ec
+1  e
+b
+
+b
+0 a  cd
+1
+1a b  d
+b
+0 da c
+1a  ce
+1c da
+b
+1c da
+1a bc
+0 da c
+b
+1
+1a bc
+1a bc
+1a bc
+b
+
+b
+1 da c
+1a  ce
+#2ca  c
+x    a
+x    c
+x    e
+b
+1c da
+1c da
+1da   d
+1c da
+b
+#2c da
+xa
+1a bc
+1a a c
+1 e
+b
+wa  c a
+b
+b
+
+e

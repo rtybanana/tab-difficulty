@@ -1,0 +1,79 @@
+-C
+-t
+-f
+{Short almain 2/Short almain 2}
+b
+c
+#1a
+x d
+b
+.
+0 bbcd
+0 bbc
+b
+0 aba d
+0  dca
+b
+0.  cc a
+1  d
+b
+0  cc a
+0  cc
+b
+#1  dca
+x a
+0 bdc
+b
+0 bb  d
+0 ab
+b
+0. bbcd
+1 d
+b
+0 bbcd
+#1a
+x d
+b
+0 bbcd
+0 bbc
+b
+
+b
+0 aba d
+0  dca
+b
+1.  cc a
+2  d
+#1  c
+x  a
+b
+0 acc a
+0 bd a
+b
+#1 dda
+x b
+x a d
+x  d
+b
+#1  dc
+x   a
+0 acc
+b
+1.  dca
+2  d
+#1   c
+x    a
+b
+A1
+0  dca
+1a
+1 d
+.
+b
+b
+A2
+w  dca
+b
+b
+
+e

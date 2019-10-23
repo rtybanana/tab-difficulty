@@ -1,0 +1,125 @@
+-C
+-t
+-f
+{Ich bin ir lange zeyt/Ich bin ir lange zeyt}
+b
+c
+0  b  d
+1  b  d
+#2  a a
+x   c
+b
+0   ac
+0  b d
+b
+0  aa
+0  bc
+b
+0  da
+1  b  d
+1 ab
+b
+1  de
+#2 d&+ c
+x   a
+1   c
+1 c
+b
+1 d&+ a
+#2   a
+x   c
+1 da
+1  b
+b
+#2  d
+x  b
+x  a
+x   c
+0 da
+b
+0a  c
+0a  c
+b
+
+b
+1 b  a
+#2  d
+x  b
+#2  d
+x  b
+x  a
+x   c
+b
+0 d a
+1 b
+1 ab
+b
+#2 b
+x a
+x  d
+x  b
+0  da
+b
+w  b  d
+.
+b
+b
+0
+0 a   d
+b
+0  da
+0  bc
+b
+1  da
+#2 a  d
+x    c
+1 b  a
+1 d   d
+b
+1 ab
+1  de
+0 a c
+b
+0  d a
+1
+1  d a
+b
+0 b  a
+0 b  a
+b
+1 a c
+#2 a
+x b
+1 d a
+1a   d
+b
+
+b
+#2
+x b
+1 db
+0 bd
+b
+0 a c
+1
+1  bc
+b
+1  d a
+1  d a
+1  bc
+1  bc
+b
+1. b d
+2 d a
+1a   d
+1 db
+b
+1 a
+1 b  d
+0  da
+b
+w  b  d
+b
+b
+
+e

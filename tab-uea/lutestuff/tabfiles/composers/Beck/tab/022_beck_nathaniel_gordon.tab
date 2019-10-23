@@ -1,0 +1,395 @@
+-C
+-t
+-f
+{Nathaniel Gordon - the new way/Mr. Beck}
+b
+C
+1     d
+b
+1.    d /a
+2   c
+#2  a
+x   c
+#2  a
+x  d
+b
+1 a    ///a
+1   c
+1   c  a
+#2   a  ///a
+x    a
+b
+1   a&,a
+#2    c
+x   c
+#2  aa
+x  d
+#2   c
+x  d
+b
+1.   a&,  /a
+2    c
+1    a ///a
+1  a
+b
+1  b a a
+1    c
+1  aa  /a
+1      //a
+b
+
+b
+1 a    ///a
+1   c
+1   c&,  //a
+#2   a  ///a
+x    a
+b
+1   a&,  /a
+1 d
+#2  dU  //a
+x  aX
+#2   c
+x  a
+b
+0   a&,  ///a
+1    a
+b
+b
+.
+#2  d  a
+x a
+b
+1. da   /a
+2c
+#3aU
+xc
+2eX
+#4eU
+xc
+2aX
+b
+1e  a
+#2     d
+xc
+#2eU   e
+xcX
+#2a   a
+x a
+b
+
+b
+1aaaaa ///a
+#2      //a
+xc
+#2e     /a
+xf
+#2e     4
+xc
+b
+0a&, d   /a
+1  d
+#2aU
+xcX
+b
+#2eU    ///a
+xcX
+#2a     //a
+x a
+#2  dU  /a
+x  aX
+#2  d
+x d
+b
+#2  dU a
+x  aX
+#2   cU
+x   aX
+1   c&,  4
+#2   a  ///a
+x    a
+b
+1   a
+1 d
+#2  dU  //a
+x  aX
+#2   c
+x  a
+b
+0   a&,  ///a
+1    a
+b
+b
+.
+#2     d
+x    a
+b
+
+b
+#2    d /a
+x     d
+#2   a  //a
+x   c
+#2  a   /a
+x   c
+#2  a   //a
+x  d
+b
+1 a    ///a
+1   c
+1   c&,  4
+#2   a  ///a
+x    a
+b
+#2     d/a
+x    a
+#2   a  //a
+x   c
+2  aa  /a
+#3  dU
+x  aX
+2   c  4
+#3   eU
+x   cX
+b
+1.   a  ///a
+2   c
+1   a&,
+#2    a
+x  a
+b
+2.  b   a
+3  a
+2.  b   //a
+3  d
+2.  a   /a
+3   c
+2.  a   //a
+3  b
+b
+
+b
+1 a    ///a
+1   c  //a
+#2  a  e
+x   c
+#2   a&,
+x    a
+b
+1   a  ///a
+1a
+#2  dU  //a
+x  aX
+#2   c
+x  a
+b
+0   a&,  ///a
+1    a
+b
+b
+.
+#2  d
+x a
+b
+#2 d    /a
+x  d
+#2a     //a
+xc
+#2a  a
+xc
+#2e
+xa
+b
+#2eU    /a
+xfX
+#2eU    //a
+xcX
+#2eU    ///a
+xcX
+#2a
+x a
+b
+
+b
+#2  d d
+x a
+#2a
+xc
+2e     /a
+#3fU
+xeX
+2c     //a
+#3eU
+xcX
+b
+0 d    /a
+1  d
+#2aU
+xcX
+b
+#3eU a
+xc
+2aX
+#3cU  a
+xaX
+2 a
+#2  d d
+x  a
+#2  d
+x d
+b
+#3  dU  //a
+x  aX
+2   c
+#3   eU /a
+x   cX
+2   a
+#2      4
+x   c
+#2    dU///a
+x    aX
+b
+1    d /a
+1 d
+#2  dU  //a
+x  aX
+#2   c
+x  a
+b
+
+b
+0   a&,  ///a
+2.   a
+3    a
+b
+b
+
+{Nathaniel Gordon - the new way/Mr. Beck}
+b
+S3
+2   c d
+b
+2.  a&,
+3  c
+#2  d
+x   c
+#2    c
+x     d
+b
+2    c 4
+1   c
+1   c
+2 c
+b
+
+b
+2.  d  d
+3 a
+#2 c
+x c   d
+#2 a   c
+x  d  a
+b
+2 cU   a
+1 aX
+1 a
+2   c
+b
+2.  a&,  a
+3  c
+#2  d
+x   c c
+#2    c
+x     d
+b
+
+b
+#3    cU
+x    dX
+2   c
+#2    c
+x c   d
+#2 a   c
+x  d  a
+b
+#3 cU   a
+x dX
+2c
+#2 c
+x a
+#2  c
+x   c
+b
+2  aU
+1  dX
+1  d  d
+b
+.
+2   c d
+b
+
+b
+2.  a&,  c
+3  c
+2  d  a
+3   c c
+2.    c
+2     d
+b
+#3    cU4
+x    dX
+2   c
+#2    c
+x c   d
+#2 a   c
+x  d  a
+b
+#3 cU  d
+x dX
+2c
+#2 c
+xc
+#3eU    /a
+xcX
+x dU
+x cX
+b
+
+b
+2 dU   ///a
+1 aX
+1 a   c
+#3cU
+xaX
+b
+#2 c   d
+x  d
+2 c
+3 a    a
+2.  c
+2 a
+b
+3  dU a
+2.  aX
+2  d
+3   c  ///a
+2.    c
+2   c
+b
+
+b
+2.    d /a
+3   c
+#2    c
+x    a a
+#2     c
+x      a
+b
+2     aU
+1     dX
+1     d4
+.
+b
+b
+
+e

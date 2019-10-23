@@ -1,0 +1,135 @@
+-C
+-t
+-f
+{13. Nach willen dein -1/13. Nach willen dein -1}
+b
+c
+0  \1b
+0  \1b
+b
+0 a\1b
+1 a \2c"+
+1 \1b
+b
+1 \1d\3f"+
+#2 \1d
+xa
+1\2c \3d
+1\4d \1b
+b
+0 \1d\3f
+0a \3d
+b
+0 \4d a
+1
+1 \4d\1b
+b
+1 \4d\1b
+1 \4d\1b
+1 a\1b
+#2 a\1b
+x  a
+b
+#2a  \2c
+x   a
+1    \3d
+1  \4d\3d
+#2 \4d"+ \3d
+x   a
+b
+#2 \1b \2c"+
+x a
+x  \4d
+x  \1b
+0  \4da
+b
+x  \1b  \3d
+b
+
+b
+0
+#2 a\1b
+x  \4d
+x  \1b
+x  a
+b
+0 a \2c
+0 a\1b
+b
+x  \4da
+b
+0
+0  \4da
+b
+0  \1b\2c
+0 \1b  a
+b
+0 a  \2c
+1
+1 a  \2c
+b
+0 a \2c
+0 \1b\3d
+b
+0 \4d\1b
+1\4d
+1a \3d
+b
+#2a  \2c
+x \4d
+1 a\1b
+0 \1b\3d
+b
+x a \2c
+b
+0
+#2  \4d"+ a
+x    \2c
+x    \3d
+x   a
+b
+0  \1b\2c
+0  \4d\3d
+b
+0 a \2c
+0 \1b\3d
+b
+
+b
+1 \4d"+\1b
+#2  \1b
+x  a
+1 \4d\1b"+
+1 \4d
+b
+0 \1b  \3d
+1
+1 \1b  \3d
+b
+1 a\1b
+1 \1b\3d
+1 \4d\1b"+
+1 a
+b
+1 \4d
+#2a \4d
+x  \1b
+1a \4d
+#2 \4d a
+x \1b
+b
+1 a \2c
+1  \2d\3e
+1 \4d\1b
+#2 \4d a
+x \1b
+b
+1 a \2c
+1 \1b  \3d
+0  \4da
+b
+x  \1b  \3d
+b
+b
+
+e

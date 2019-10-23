@@ -1,0 +1,117 @@
+-C
+-t
+-f
+{24. Branle de Poictou/24. Branle de Poictou}
+b
+1. cd a
+2 d
+1a
+b
+1acd a
+0cdda
+b
+0 da c
+1aac  a
+b
+0 cd a
+1 c  a
+b
+1  dc
+1 ac  a
+1  d
+b
+0 c  a{
+1  dc  }
+b
+1. cd a&{
+2 d
+1a    }
+b
+1acd a
+0cdda
+b
+0 da c
+1aac  a
+b
+1. cd a
+2 a
+1  dc
+b
+1    a
+0 acc
+b
+0  d a
+1   c
+b
+
+b
+#2 cd a
+x a
+#2 c
+x d
+1a
+b
+1acd a
+0cdda
+b
+0 da c
+1aac  a
+b
+0 cd a
+1 c c
+b
+1    a
+1 ac  a
+1  d
+b
+0 c  a
+1  dc
+b
+#2    a
+x a
+#2 c
+x d
+1a
+b
+1acd a
+0cdda
+b
+0 dd c
+1 dcac
+b
+1. cd a
+2 a
+1  dc
+b
+1    a
+0 acc a
+b
+0  d a
+1   c
+b
+.
+1. cd a
+2 d
+1a
+b
+
+b
+1acd a
+0cdda
+b
+0 da c
+1dab  d
+b
+0cdda
+1aabc
+b
+1a   a
+0 ea c
+b
+0aac  a
+1   c
+.
+b
+b
+
+e

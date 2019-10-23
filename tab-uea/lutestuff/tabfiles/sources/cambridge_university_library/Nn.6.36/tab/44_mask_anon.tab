@@ -1,0 +1,122 @@
+-C
+-t
+-f
+{44. Mask/Anonymous}
+b
+c
+1f
+b
+.
+#2f aa
+xd
+xc
+xa
+1 d
+1hd f d
+b
+1f   a
+#2d   c
+xc
+1a d e
+1c  a
+b
+1.da   d
+2c
+#2a   a
+x d
+1ac
+b
+#2c  a
+xd
+xf
+xh
+1f
+1c  a
+b
+1hd f d
+#2f   a
+xd
+1cd  c
+1e
+b
+0fcd a
+1.      //a
+#3a
+xc
+b
+
+b
+1.da   d
+2c
+#2a
+x d
+1ac  a
+b
+A1
+0 daa
+1      a
+1f
+.
+b
+b
+A2
+0 daa
+0      a
+b
+.
+1 dba d
+#2 a
+x c
+1 d
+1 d a c
+b
+#2a    a
+xc
+xd     a
+xc
+0acdca
+b
+1a d
+#2 c
+x d
+1a
+1a b
+b
+#2c a
+xd
+xf  c
+xd
+1c  a
+#2d
+xf
+b
+0h  f
+1    h
+1h
+b
+
+b
+1da c
+#2    c
+xd
+1.c aa
+2c
+b
+#2a    d
+xc
+xd
+xc
+#2a   a
+x  d
+xf
+xd
+b
+#2   a
+xc
+1acd a
+Y dda  a
+.
+b
+b
+
+e

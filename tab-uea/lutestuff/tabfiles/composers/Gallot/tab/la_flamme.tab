@@ -1,0 +1,200 @@
+-C
+-t
+-f
+{La Flamme/La Flamme}
+b
+W   a  a
+W    d /a
+W    c //a
+W    a ///a
+b
+b
+1 abc a
+#2 ab
+x a
+1     c
+b
+1.  db-
+2 a
+#2     a
+x  a
+b
+1  bc-
+#2  b
+x  b
+1  a a-
+b
+1  a   //a
+#2    c
+x  b
+1  a a
+b
+
+b
+1 a   d
+1.  b-
+2a
+b
+1 ed  c
+#2 ed
+x e
+1 ed
+b
+1a    a
+1.a bc-
+2c
+b
+1ce b-
+1  a-
+1 a
+b
+1d    a
+1.da c-
+2 c
+b
+1c     a
+1 a
+1d
+b
+1.aa    /a
+#3  d-
+x  b
+#2  d-
+xa
+b
+
+b
+1 da   //a
+0 db c
+b
+1 bbc a
+#2 bb
+x b
+1 bde c
+b
+1 aba d
+#2 ab
+x a
+1 b  a
+b
+1 db c-
+1 b  d-
+#2   a-
+x a
+b
+1.  d   a
+#3   f
+x  d
+1   f d
+.
+b
+b
+.
+1 aba d
+#2 ab
+x a
+1  d   a
+b
+
+b
+1  def-
+#2  de
+x a
+1  a  a
+b
+1  bc-
+#2  b
+x   a-
+1  d e-
+b
+1  aa  a
+#2  aa
+x d
+1 dde
+b
+1 db c
+#2 db
+x d
+1a   d
+b
+1. d df
+2  g
+1 a c
+b
+1  dd-
+#2  dd-
+x a
+1 b c-
+b
+1. a   a
+2  d
+1  dca-
+b
+
+b
+1 a   e
+1   a-
+#2  dc-
+x a
+b
+1 b ca-
+#2     a
+x  d
+#2  b
+x  a
+b
+1  bc-
+#2  b
+x  d
+1 a    a
+b
+1.  dc  /a
+2 a
+1 a    //a
+b
+1c d-
+#2a
+x  b-
+1 ea-
+b
+1.a b  a
+2 d
+#2 b
+x a
+b
+
+b
+1. bb a
+2  a
+1 ab  d
+b
+1.  d   a
+2   f
+1   ef
+b
+1  b c
+#2    a
+x  a
+#2  b
+x     d
+b
+1  d  c
+#2   b-
+x  d
+1 a
+b
+1  bc a
+#2  b
+x  b
+#2      ///a
+x  a
+b
+1.  a   //a
+2   c
+2  a
+1   c a
+.
+b
+b
+
+e

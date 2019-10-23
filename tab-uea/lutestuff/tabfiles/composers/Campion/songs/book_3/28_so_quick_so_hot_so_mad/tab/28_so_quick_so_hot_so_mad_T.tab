@@ -1,0 +1,106 @@
+-C
+-t
+-f
+{So quick, so hot, so mad/So quick, so hot, so mad}
+b
+1 acc a
+b
+0 acc a
+1  d  c
+b
+0aa   e
+1acd a
+b
+1cdda
+1a   e
+1 d  c
+1 cd a
+1 adc
+1  c  a
+b
+0 cdca
+1cdda
+b
+0 db
+1a  c
+b
+0 ca
+1 aab
+b
+0 acc
+1 cd a
+1   c
+0 aabc
+b
+0. acc a
+b
+0
+1 acc a
+b
+0 acc a
+1  d  c
+b
+0aa   e
+1acd a
+b
+
+b
+1cdda
+1a   e
+1 d  c
+1 cd a
+1 adc
+1  c  a
+b
+0 cdca
+1cdda
+b
+0 db
+1a  c
+b
+0 ca
+1 aab
+b
+0 acc
+1 cd a
+1   c
+0 aabc
+b
+0. acc a
+b
+.
+1 acc
+1 aa c
+1  e e
+b
+0 aab
+1 acc
+1a   e
+#2 ca
+x a
+1 c   c
+b
+0 aabc
+1 acc
+b
+c
+1 cdca
+1  a
+1 a   e
+1   cU
+b
+1  d  c
+1   b
+1 acc a
+b
+1 aacc
+1   b
+b
+
+b
+0. acc a
+.
+b
+b
+
+e

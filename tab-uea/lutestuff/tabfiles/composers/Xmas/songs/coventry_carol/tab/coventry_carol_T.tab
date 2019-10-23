@@ -1,0 +1,141 @@
+-C
+-t
+-f
+{Coventry Carol/Coventry Carol}
+b
+c
+0 ab  a
+1 abc
+1 aa c
+b
+0 ac  a
+#2 abc
+x c
+b
+1 dda
+#2      a
+x d
+xaa  d
+x  d
+b
+1caa c
+0      /a
+b
+1da   a
+1c d   a
+1aab  a
+b
+
+b
+1abd a
+#2ce  c
+x  d
+b
+0aacc a
+1da a d
+b
+1c da
+#2      a
+xc
+#2aa c
+x     a
+b
+1caa c
+0      /a
+b
+1da   a
+1caa c
+1aabc
+b
+1abd a
+#2ce  c
+x  d
+b
+
+b
+c
+waacc a
+b
+b
+0 ab  a
+1a bc
+1 aa c
+b
+0 ac  a
+#2 abc
+x c
+b
+1 dda
+#2      a
+x d
+xaa  d
+x  d
+b
+1caa c
+0      /a
+b
+1da   a
+1c d   a
+1aab  a
+b
+
+b
+1abd a
+#2ce  c
+x  d
+b
+0aacc a
+1da a d
+b
+1c da
+#2      a
+xc
+#2aa c
+x     a
+b
+0 ea c
+1aa c
+b
+1 dda
+#2      a
+x d
+#2aa  d
+x  d
+b
+1caa c
+0      /a
+b
+
+b
+A1
+1da   a
+1caa c
+1aabc
+b
+A1
+A2
+1abd a
+#2ce  c
+x  d
+b
+A1
+A2
+c
+waacc a
+b
+b
+A2
+1da   a
+1caa c
+1aabc
+b
+1abd a
+#2ce  c
+x  d
+b
+c
+waacc a
+b
+b
+
+e

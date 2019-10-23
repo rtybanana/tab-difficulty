@@ -44,6 +44,8 @@ class Tab {
         //position 5 (f) the first item added to the list is 5 (difference from 0 to 5).
         //think about how a position change is defined, when does a human have to change positions.
 
+        //return the variance of this list of position changes
+
         return 0;
     }
 }

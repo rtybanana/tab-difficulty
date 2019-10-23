@@ -1,0 +1,665 @@
+-C
+-t
+-f
+{Pavan - Patencia/Pavan - Patencia}
+b
+c
+1. aaac a
+2 c
+1cdaac
+#2 a
+xe
+b
+1fc e c
+1ca bc
+#2ec c a
+x a
+1ba   e
+b
+2ccf  c
+#3  e
+x  c
+3  e
+2  f
+3  e
+1caab
+1 acc a
+b
+2aa  e
+#3  e
+x  c
+#3  e
+xa
+2c
+#2    c
+xac
+#2 df
+x cd
+b
+#2 dfec
+x  c
+1 cdeec
+#2 cc a
+x  a
+1  a
+b
+
+b
+2 aa  e
+#3   d
+x   b
+#3   d
+x a
+2 c
+#2 da ac
+x  c
+#2 cd
+x ea
+b
+#2aa c e
+x ca a
+#3     c
+x a
+2 ed
+2aad  a
+#3  c
+x  a
+#3a c
+x  d
+x d
+x  c
+b
+2acd a
+#3c
+xe
+1f
+#2   a  d
+xdf
+#2cd
+xac
+b
+2 dba d
+#3a
+xc
+#2d
+x     c
+#2     a
+xcd
+#2ac
+x df
+b
+
+b
+#3 ce  c
+x  f
+x c
+x  e
+#3c f
+x c
+x d
+x  f
+#3     c
+xccf
+x  e
+x  c
+#3c e
+x  f
+x f
+x  e
+b
+2 aabc
+#3c
+x    c
+#3   b  a
+x   c
+x   b
+x    e
+#2caabc
+x      a
+1   bc
+b
+b
+2. aaac
+3  d
+#2 a
+x c
+2cdaac
+#3 a
+x c
+#3 d
+xa
+xc
+xe
+b
+#2fc e c
+xe
+1ca bc
+#2ec c a
+x a
+#2     e
+xba
+b
+
+b
+2ccf  c
+#3  e
+x  c
+#3  f
+x  e
+#4  f
+x  e
+x  c
+x  e
+#2ca b
+x  a
+2 acc a
+#3   b
+x   c
+b
+2aa  e
+#3  e
+x  c
+#3  e
+xa
+2c
+#2    c
+x f
+#2 df
+x ce
+b
+#3 dfec
+x c
+x d
+x  f
+1 cdeec
+#2 cc a
+x  a
+#3  a
+x  c
+x  d
+x  a
+b
+2 aa  e
+#3   d
+x   b
+#3   d
+x a
+2 c
+#2 da ac
+x  c
+#2 cd
+x ea
+b
+
+b
+#2aa c e
+x ca a
+#3     c
+x a
+2 ed
+2aadcca
+#3  c
+x  a
+#3a c
+x  d
+x d
+x  c
+b
+3acdca
+#4 a
+x c
+#4 d
+xa
+xc
+xe
+1f
+#2   a
+xdf
+#3cd
+xd
+2ac
+b
+3 dba d
+#4  d
+x a
+#4 b
+x d
+xa
+xc
+#2d
+x     c
+#2     a
+xcd
+#3ac
+xc
+2 df
+b
+
+b
+#3 ce  c
+x  f
+x c
+x  e
+#3c f
+x c
+x d
+x  f
+#3     c
+xc f
+x  e
+x  c
+#3c f
+x  e
+#4  f
+x  e
+x  c
+x  e
+b
+#3 aab
+x    c
+xc
+x    c
+#3   c
+x   b
+x    e
+x   c
+#2 aab
+x    c
+#3 a
+x c
+x d
+x f
+b
+b
+1 ca b
+1c
+#2    c
+xac
+#2 df
+x cd
+b
+#2 acc
+x  d
+#2 ac
+x  aa
+#2aa ce
+x    c
+#3    e
+x a
+2c e
+b
+#2da ac
+x c
+#2cd
+xea
+#2fc e c
+xce
+#2ef ce
+xgc
+b
+
+b
+1ha a h
+#2fc e c
+x e
+2eh ge
+#3 g
+x e
+3 g
+2 h
+3 g
+b
+1cceeec
+#2f
+x     e
+2fc ca
+#3ea
+xc
+2acd
+#3c c
+x  a
+b
+2da c a
+#3cdd  c
+x c
+#2aa c d
+x cb  a
+#2cdda  d
+x     a
+#2cdd  c
+x     d
+b
+1acdca
+1cdd  c
+#3     d
+xcc
+xa
+x d
+#3a
+xc
+x a
+xa
+b
+2cce  c
+#3   e
+x d
+#3 c
+x  f
+x  e
+x  c
+#2cceeec
+x   e
+1     c
+b
+b
+
+b
+2. ca b
+#4 a
+x c
+#3 d
+xa
+2c
+#2    c
+x f
+#2 df
+x cd
+b
+#3 acc
+x  a
+x  c
+x  d
+#2 ac
+x  aa
+2aa ce
+#3    c
+x    e
+#2 a
+xc  e
+b
+#2da ac
+x c
+#3cd
+xa
+xc
+xd
+#2fc e c
+xce
+#3ef ce
+xc
+xe
+xgc
+b
+1ha a h
+#2fc e c
+x e
+2eh ge
+#3 g
+x e
+#4 h
+x g
+x h
+x g
+#4 h
+x g
+x e
+x g
+b
+
+b
+2cceeec
+#3c
+xe
+#2f
+x     e
+2fc ca
+#3ea
+xc
+2acd
+#3c c
+x  a
+b
+2da c a
+#3cdd  c
+x c
+#2aa c d
+x cb a
+#2cdda
+x     a
+#2cdd  c
+x     d
+b
+#3acd a
+x a
+x c
+x  d
+1cdd  c
+#3     d
+xcc
+xa
+x d
+#3a
+xc
+x a
+xa
+b
+2cce  c
+#3   e
+x d
+#3 c
+x  f
+x  e
+x  c
+#2cceeec
+x     c
+1cce
+b
+b
+1.fd ef d
+2df
+#2cdda
+xda
+#2fc
+xcd
+b
+
+b
+#2da a d
+x c
+#2cdda  d
+x a
+#2ac ca
+x  a
+#2 ab  a
+x c c
+b
+#2 dda c
+xa
+#2cdda
+x df
+2addca
+#3 c
+x a
+#3ac
+x d
+xd
+x c
+b
+#2cdda  d
+x     a
+#2cdd  c
+x     d
+#2acd a
+x    c
+#2a d e
+x   a
+b
+#2aabc
+x     a
+#2   c d
+x    a
+#2 dfec
+x    e
+#2 a a
+x   c
+b
+#2 cde c
+x     e
+#2 ca a
+x ed  c
+#2aa c e
+x ca a
+#2 dc c
+x  a
+b
+
+b
+#2 cbc a
+x aaa
+#2aa  ed
+x    c
+2ccf  c
+#3  e
+x  c
+#3c e
+x  f
+x f
+x  e
+b
+2 aabc
+#3    c
+x  b
+#3  a
+x   c
+x   b
+x    e
+#2 aa c
+x   b
+1c abc
+b
+b
+2.fd ef
+3h
+#3fh
+xh
+xdf
+xf
+#3cdda
+xa
+xc
+xda
+#2fc
+xcd
+b
+#3da a d
+x  d
+x a
+x c
+#3cdd
+x   a
+xd
+xc
+#3ac ca
+x   a
+x   c
+x  a
+#2 ab  a
+x c c
+b
+
+b
+#3 dda c
+x c
+x d
+xa
+#3cd
+x   a
+xa
+x df
+2addca
+#3 c
+x a
+#3ac
+x d
+xd
+x c
+b
+#3cdd
+x   a
+xcd
+x     a
+#3cdd  c
+x     a
+x     c
+x     d
+#3acd
+x   c
+x    a
+x    c
+#3a d e
+x    c
+x    e
+x   a
+b
+#3aab
+x   c
+x     a
+x     c
+#3   c d
+x     c
+x     d
+x    a
+#3 df
+x   e
+x    c
+x    e
+#3 a a
+x    e
+x a a
+x   c
+b
+
+b
+#3 cd
+x   e
+x     c
+x     e
+#3 ca
+x    a
+x     c
+x ed
+#3aa c
+x     a
+x a
+x ca a
+#2 dc c
+x  a
+b
+2 cbc a
+#3 a
+x c
+#3 a
+x   a
+xaa  ed
+x    c
+3ccf  c
+#4  e
+x  f
+#3  e
+x  c
+#3c e
+x  f
+x f
+x  e
+b
+2. aa c
+3    e
+#2   b
+x acc
+#2 aab
+x    c
+Y    c
+b
+b
+
+e

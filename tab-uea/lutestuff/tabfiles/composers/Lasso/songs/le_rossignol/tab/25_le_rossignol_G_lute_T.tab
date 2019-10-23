@@ -1,0 +1,488 @@
+-C
+-t
+-f
+{Le Rossignol/Le Rossignol}
+b
+c
+0  d
+1  c
+1  a
+1   c
+1a
+1 ea
+1 c
+b
+1 acc
+1 a
+1 aab
+1 ccce
+1 efec
+1 e
+1a dce
+1  c
+b
+1c da
+1 df c
+1 c e
+1  d
+1  cc
+1 a
+1 aab
+1 ccce
+b
+1 efec
+1    c
+1ha g a
+1 f
+1fc ca
+1eff  a
+1cef c
+1 efec
+b
+
+b
+1ccd  c
+1acc e
+1 cee
+1 efec
+1aacc
+1a
+1acd a
+1c
+b
+1 efec
+1cef
+1cef
+1cefec
+1effc
+1a cc
+1 ffgh
+1h   h
+b
+1he e h
+1h
+1effc a
+1e
+0acd a
+#2ccd  c
+xf
+xe
+xc
+b
+1ecc e
+1 f
+0eccce
+1 a b e
+1c
+1a c
+1    a
+b
+
+b
+1 ffec
+#2 e
+x c
+2 efec
+#3 f
+x e
+#3 f
+x e
+x c
+x e
+#2aa c a
+x  a
+x  c
+x  d
+#2 a
+x c
+x d
+x a
+b
+1 c  a
+1  d
+1  c c
+1  a
+1a cce
+1   e
+1 efec
+1 c
+b
+1 acc
+1  cc
+1 aab
+1 ccce
+1 efec
+1 e
+1a dce
+1  c
+b
+1c da
+1 df c
+1 c e
+1  d
+1  cc
+1 a
+1 aab
+1 ccce
+b
+1 efec
+1    c
+1ha g a
+1 f
+1fc ca
+1effc a
+1cefec
+1 efec
+b
+
+b
+1ccd  c
+1acc e
+1 cee
+1 efec
+1aacc
+1a
+#2acd a
+xe
+xc
+xa
+b
+1 efec
+1cef
+1cef
+1cefec
+1effc
+1 f c
+1 ffgh
+1h   h
+b
+1he e h
+1h
+1effc a
+1e
+0acd a
+#2ccd  c
+xf
+xe
+xc
+b
+1eccce
+1 f
+0eccce
+1 a b e
+1c
+1a c
+1    a
+b
+#2  fec
+x f
+x e
+x c
+#2 e ec
+x f
+x   e
+x e
+0aacc a
+0effc
+b
+
+b
+1 fh e
+1e
+1.ffh a
+2d
+0cef c
+0 efec
+b
+1  fg e
+1 e
+0aac  a
+#2 c e c
+x  f
+x  e
+x  c
+2  ee c
+#3  f
+x  e
+#3  f
+x  e
+x  c
+x  e
+b
+#2 efec
+x f
+xc
+x f
+#2 e  c
+x c
+x f
+x e
+1aa c
+1  d
+1  c
+1 aab
+b
+0acc e
+1  fg e
+1 e
+#2 cdca
+x a
+x c
+x e
+#2a
+xc
+xe
+xf
+b
+
+b
+0ha gha
+1   c a
+1f
+1ea c
+1  d
+1  c
+1  ab
+b
+0eccce
+1 a b e
+1e
+2.acdca
+3 a
+#3 c
+x a
+x c
+x e
+1a
+1     e
+b
+1c d  c
+1   c
+1   b
+1     c
+1 acc a
+#2   a
+x    e
+#2    c
+x    a
+x     e
+x     c
+b
+#2 acc a
+x  a
+x  c
+x  d
+#3 a
+x  d
+x a
+x c
+#3 d
+x c
+x a
+x c
+0 dde  a
+1 dde
+1      a
+b
+
+b
+1 dde  a
+1 f
+0 cdca
+#2 a c a
+x  d
+x  c
+x  a
+#2aad  a
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+0 cdca
+0 efec
+0acc e
+0acd a
+b
+0 efec
+0 efec
+1aa c
+1  c
+0ccde
+b
+1ee g
+1  f
+0effc
+#2cc e
+x  f
+x  e
+x  c
+2ccee
+#3  f
+x  e
+#3  f
+x  e
+x  c
+x  e
+b
+1cef c
+1   e
+1 efec
+1 e  c
+0aacc
+1 acc
+1 a
+b
+
+b
+1acdca
+1   c
+1 cdca
+1 cd a
+1 acc
+1a  c
+1aac
+1a
+b
+1ha g a
+1ha
+1effc a
+1eff  a
+1acd a
+1 c
+0caa c
+b
+1ccd ec
+1     e
+0 cdcef
+1  cb e
+1 a
+0 acc a
+b
+#2   eec
+x  f
+x  e
+x  c
+1 cf
+1  e
+#2 efec
+x c
+x e
+x f
+1c ab
+1c
+b
+1a cc
+1  de
+1 efg
+1   g
+1ccde
+1 e
+1effc
+1 f
+b
+
+b
+1cefec
+1  f
+1  dce
+1  ab
+1aacc
+1  c
+1cef c
+1e f
+b
+1fc ca
+1a d
+1aac c
+1 efec
+1ccd ec
+1c ab
+1ea c a
+1e  b
+b
+1c e ec
+1  f c
+1 c  ec
+1  e
+1cefec
+1 e
+0 aabc
+b
+1  dce
+1  ab
+1  cc
+1 a c
+1 cdce
+1 efec
+1aacc
+1acd a
+b
+1 efec
+1c
+1ea c a
+1f
+1he g e
+1h
+1fc e c
+1 e
+b
+
+b
+#2effc a
+xc
+xe
+xf
+#2e    a
+x f
+xc
+xe
+#2fc ca
+x a
+x c
+x e
+0effc a
+b
+1     a
+1ccd  c
+1aac  e
+1     a
+1 ffec
+#2 e
+x c
+#3 f
+x e
+x f
+x e
+#3 f
+x e
+x c
+x e
+b
+2aac  a
+#3 d
+xa
+#3c
+xa
+x d
+x c
+#3 a
+x c
+x d
+x c
+#3 a
+x  d
+x  c
+x  a
+1aac  a
+1h
+1     a
+1f
+b
+wea c a
+w
+b
+b
+
+e

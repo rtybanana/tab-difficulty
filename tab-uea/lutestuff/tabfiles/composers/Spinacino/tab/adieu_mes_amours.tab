@@ -1,0 +1,495 @@
+-t
+-f
+{Adieu mes amours/Francesco Spinacino}
+b
+c
+#3
+x
+x a
+x c
+#3 d
+x c
+x a
+x c
+b
+0 d
+0bd
+b
+0ac
+#2 d
+xa
+xb
+xd
+b
+1fd a
+1 b
+1f dd
+#2d
+xb
+b
+1da c
+1 c
+#2 d a
+x   c
+x   d
+x  b
+b
+
+b
+#2 bd a
+x d
+xa
+xb
+#2    d
+xa
+x d
+x b
+b
+1 db b
+1   a
+#2 bd a
+x d
+xa   d
+x   a
+b
+#2 a c
+xa
+xd
+xb
+#2    d
+xd
+xb
+xa
+b
+1b  a b
+#2 db
+x  d
+1  ea
+1a d d
+b
+#2    b
+x  b
+x db
+xa
+#2b   a
+xa
+x da
+x b
+b
+
+b
+#2 ab  d
+x  a
+x  b
+x  d
+#2 ab
+x b
+1  d
+b
+#2   c
+x a
+1 b
+1 d a
+1 a
+b
+#2ab  a
+x a
+x  d
+x  b
+#2a d d
+x  b
+xb d
+x   c
+b
+#2d  ab
+x   c
+x   d
+x   a
+#2f  ca
+x   a
+x   c
+x   d
+b
+#2  bc
+xb
+xd
+x  d
+1da c
+#2    d
+xa
+b
+
+b
+1.b  a b
+2a b
+#2b dd
+x a
+xab  d
+x d
+b
+#2 b  a
+x a
+1  d
+#2 d ab
+x  b
+x  d
+x  b
+#2  a
+x  b
+b
+#2  d a
+x a
+x b
+x d
+#2 b  a
+x d
+xa   d
+xb
+b
+#2d bc
+x   a
+x   c
+x   d
+#2a b d
+x d
+1 dddf
+b
+
+b
+#2   a
+xa
+x d db
+x     d
+1  dca
+1 c
+b
+1 dda
+1   d
+1 dda
+1b
+b
+1   a
+#2a
+x d
+1b d
+#2d
+xb
+b
+1d d a
+#2  b
+x   d
+1  bc
+1d
+b
+1  d d
+#2b
+xa
+#2b  a
+xa
+x d
+x b
+b
+
+b
+1 abc
+#2a
+x d
+#2 bbc
+x a
+x  d
+x  b
+b
+1 d df
+#2 f
+x d
+1 d df
+#2 a cd
+x   a
+b
+#2    a
+x bd
+1b
+1  bab
+#2a
+x d
+#2 bdca
+x d
+x b
+x a
+1 b  a
+1  b
+b
+#2 ab
+x  d
+x a
+x b
+#2 db
+xa
+1b d
+b
+
+b
+#2   a
+xa
+1 d
+#2d  c
+x c
+#3 d
+x c
+x a
+x c
+b
+1bd a
+1f
+#2   a
+xd
+xb
+xa
+b
+#2 d a
+xa
+xb
+x  d
+#2b
+xa
+1 d
+b
+#2  d a
+x d
+1a
+#2ab  d
+xb
+1d
+b
+1  d d
+#2b
+xa
+#2   a
+xa
+x d
+x c
+b
+
+b
+#2 acd
+x  d
+x  b
+x  a
+#2 c c
+x a
+x  d
+x  b
+b
+1 d df
+#2 f
+x d
+1 dddf
+#2a  bd
+x   a
+b
+#2a   a
+x d
+1c
+1  cab
+#2a
+x    d
+b
+1 cdca
+1   df
+#2    d
+x     d
+x    a
+x   ac
+b
+#2  bcd
+x d
+1  c  d
+#2 aba
+x    a
+x    c
+x   cd
+b
+
+b
+1  ddf
+1 dc c
+1  dca
+1 c
+b
+#2 dda
+xa
+1cd
+#2d
+xb
+xa
+x d
+b
+#2a
+xc
+xd
+x d
+#2a
+xb
+1d
+b
+1 c a
+1
+1  dd
+#2
+xb
+b
+1da c
+1 c
+#2cd a
+x   c
+x   d
+x  b
+b
+
+b
+#2  c a
+x d
+xa
+xb
+#2    a
+xa
+x d
+x  b
+b
+1 db b
+1   a
+#2 bf a
+xca
+x c
+x d
+b
+#2 a c
+xb
+xd
+xc
+#2    a
+xd
+xc
+xd
+b
+1
+#2 ab
+x  c
+#2   a
+x
+1a d d
+b
+#2    d
+x dd
+x  b
+xa
+#2b
+xa
+x da
+x
+b
+
+b
+#2
+x  d
+x  b
+x  d
+#2 ab
+x b
+1 d d
+b
+#2   d
+x a
+x b
+x d a
+2 a
+b
+#2 b  a
+x a
+x  d
+x  b
+#2a d d
+x  b
+x   d
+x   c
+b
+#2d  a
+x   c
+x   d
+x   a
+#2   ca
+x   a
+x   c
+x   d
+b
+b
+#2  bc
+xb
+xd
+x  d
+1da c
+#2    d
+xa
+b
+
+b
+#2b  a
+xa b
+xb dd
+x a
+#2ab  d
+x d
+b
+#2 b ca
+x a
+1  d
+#2 d ab
+x  b
+#3  d
+x  b
+x  a
+x  b
+b
+#2  d a
+x a
+x b
+x d
+#2 b  a
+x d
+xa   d
+xb
+b
+#2d  c
+x   a
+x   c
+x   d
+#2a b d
+x d
+1 dddf
+b
+
+b
+#2   a
+xa
+x d db
+x     d
+1  dca
+1 c
+b
+b
+1 dda
+1   d
+1. dea
+2  d
+b
+#2   a
+x de
+x  d
+x  b
+0 dea
+b
+Y dda
+b
+Q
+
+e

@@ -1,0 +1,189 @@
+-C
+-t
+-f
+{Corante, Hofmeister Teil II/Corante, Hofmeister Teil II}
+b
+1  d
+b
+1  dca
+1      ///a
+1 a-- e
+b
+1 b  a
+1  d
+1a
+b
+1.aabc
+2c
+1a
+b
+1. da c
+2a
+1 da c
+b
+1.a-- d
+2c
+1d  c
+b
+
+b
+1 b  a
+1. aba d
+#3  d
+x a
+b
+0 bb d
+1d
+b
+0d  c
+1f  d
+b
+1d--- a
+#2   c
+xb
+xa
+x d
+b
+1a-- d
+1 dba d
+#2 b
+x a
+b
+0 bbcd
+1      /a
+b
+0 bbc
+.
+b
+b
+.
+1d
+b
+
+b
+1.dfg d
+2f
+1h
+b
+0if h
+1h  g
+b
+1.ffgh
+2h
+1f
+b
+0aacc a
+1f  d
+b
+1.dfg d
+2f
+1d
+b
+1.b  a
+2d
+1a-- d
+b
+1 dba d
+1     b
+1     a
+b
+1d
+1   c
+1b  a
+b
+
+b
+1a-- d
+#2      /a
+x d
+#2 b
+x a
+b
+1 b  a
+1. a-- a
+#3  d
+x a
+b
+1  d
+1    a
+1      ///a
+b
+0.acd
+.
+b
+b
+.
+1.  dca
+2 a
+#2 b
+x  d
+1a
+b
+0aabc
+0 da c
+b
+
+b
+#2a--- d
+xc
+1d  c
+#2 b  a
+x d
+1 a-- d
+b
+1 bbcd
+#2a
+xb
+1d  c
+1f  d
+b
+1d  c
+#2  d  b
+x a
+#2 b  a
+x d
+1 aba d
+b
+1 bbcd
+1      /a
+0 bbc
+.
+b
+b
+.
+0d   d
+1if h
+1h  g
+b
+0ffgh
+1aacc a
+1f  d
+b
+
+b
+1.dfg d
+2f
+#2b  a
+xd
+1a-- d
+b
+1 dba d
+#2a
+xb
+1d  c
+1b  a
+b
+1a-- d
+1 d a
+#2 b c
+x  d
+1 acc a
+b
+1acd a
+1      ///a
+0acd
+.
+b
+b
+
+e

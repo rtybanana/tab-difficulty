@@ -1,0 +1,421 @@
+-C
+-t
+-f
+{284. Good night and good rest/John Johnson}
+b
+1  ba d
+1    a
+1  bac
+b
+0  bcd
+1  bac
+b
+1  dca
+1     a
+1 ac
+b
+#2    a
+x cd
+#2   c
+x    a
+1 cdc
+b
+1 bd a
+1 ab c
+1  dcd
+b
+1 aaa
+#2  d
+x    d
+1  bac
+b
+1 dba d
+1 bdca
+1 baa
+b
+1 ab  d
+1   a
+1     d
+b
+b
+#2  b  d
+x  d
+#2 a
+x b
+#2 db
+x a
+b
+
+b
+1a b d
+#2 db
+x    c
+#2    a
+x bd
+b
+#2 a a
+x  d
+#2 acc
+x  d
+#2 adc
+x  c
+b
+2.  dca
+3 a
+#2 c
+x d
+1 cdca
+b
+2 bdca
+#3 d
+x b
+2 a ac
+#3 b
+x a
+2  dcd
+#3 a
+x  d
+b
+2 a a
+#3 b
+x a
+#2    d
+x  d
+#2    c
+x  b
+b
+#2  b a
+x     d
+#2    a
+x  b
+#2   a
+x  a
+b
+
+b
+1 ab  d
+#3   a
+x  a
+x  b
+x  d
+1 aba d
+b
+b
+1d b  d
+#2   a
+xc
+#2a
+x d
+b
+#2a b d
+xb
+#2a
+x db c
+#2    a
+x bd
+b
+#2 a a
+x  d
+#3   c
+x  a
+x  c
+x  d
+#3 a
+x  d
+x a
+x  c
+b
+#3 cd a
+x a
+x  d
+x a
+#3 c
+x d
+xa
+x d
+1 cdca
+b
+
+b
+#3 bd a
+x d
+2a
+#3 da c
+xa
+2c
+#3a   d
+xc
+2d
+b
+#3cdda
+xa
+xc
+xd
+#2c
+x da c
+#2ab  d
+xcdda
+b
+#2db c
+x a
+2ddda
+#3c
+xd
+#2c
+x b
+b
+2da   d
+#3c
+xa
+#3 d
+x b
+x a
+x  d
+1 ab  d
+b
+b
+#3     d
+x  a
+x  b
+x  d
+#3 a
+x b
+x d
+x b
+#3 db  d
+x a
+x b
+x d
+b
+
+b
+#3a   d
+x d
+xa
+xc
+#3d
+xa
+xc
+xd
+#3c  a
+xa
+x d
+x b
+b
+#3 d d
+x b
+x a
+x  d
+#3 acc
+x  a
+x  c
+x  d
+#3 a
+x c
+x d
+x a
+b
+#3 c  a
+x  d
+x a
+x c
+2 d
+#3 c
+x d
+#2 cd a
+x    a
+b
+#3f   a
+x i
+xf
+xh
+#3i
+xh
+xf
+x i
+#3f
+x i
+x h
+x f
+b
+
+b
+#3c  a
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+#3 da c
+x a
+x c
+x d
+b
+#3a   d
+x d
+xa
+xc
+#3d
+xa
+xc
+xd
+#3c  a
+xd
+xf
+xc
+b
+2da   d
+#3c
+xa
+#3 d
+x b
+x a
+x  d
+1  b
+b
+b
+1da   d
+#2d   a
+xc
+#2a b c
+x d
+b
+#2a b d
+xb
+#2a
+x db c
+2 bd a
+#3 a
+x b
+b
+
+b
+#2 a a
+x  d
+#3   c
+x  a
+x  c
+x  d
+#3 a
+x c
+x d
+x a
+b
+2 cd a
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+1 cd a
+b
+#3ac  a
+x d
+xa
+xc
+#3d
+xa
+xc
+xd
+#3f   a
+xd
+xc
+xa
+b
+#3c  a
+xd
+xc
+xa
+#3 d
+x b
+x d
+xa
+#3 db c
+x a
+x b
+x d
+b
+
+b
+#3 b  d
+x d
+x b
+x a
+#3  d
+x  b
+x  a
+x   c
+#3  aa
+x  b
+x  d
+x  a
+b
+2 ab  d
+#3   a
+x  a
+#3  b
+x  d
+x a
+x  d
+1 ab  d
+b
+b
+#2 d a d
+x b
+#2 a  a
+x  d
+#2  b c
+x  a
+b
+1  bcd
+#2b
+xa
+#2 d  a
+x b
+b
+#2 a a
+x  d
+#3aa c
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+2fcd a
+#3h
+xf
+2d   c
+#3f
+xd
+2a   d
+#3c
+xd
+b
+
+b
+#3c  a
+xa
+xc
+xd
+#2c
+xa   d
+1 db c
+b
+#2 bb a
+x a
+#2  da
+x  b
+1  def
+b
+1 ab  d
+Y   a
+b
+b
+
+e

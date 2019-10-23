@@ -1,0 +1,123 @@
+-C
+-t
+-f
+{4. Costume di grandi/4. Costume di grandi}
+b
+1.cdd   a
+1.a d   /a
+b
+1. da   a
+2     a
+1 dd  c
+b
+1 df  d
+2 dd  c
+#2aa   d
+xadd a
+x c
+b
+1. da   a
+1.a d   /a
+b
+1.cdf   //a
+#2aa   d
+xadd a
+x c
+b
+1. da   a
+1.a d e
+b
+1cd  c
+2 dd  c
+#2aa   d
+xadd a
+x c
+b
+1. da   a
+1.a d e
+b
+1cd  c
+2f aa
+1.da   d
+b
+1.add a
+1.cdd   a
+.
+b
+b
+.
+C
+wcdd   7
+b
+
+b
+0cbd   a
+0da a d
+b
+wda a  4
+b
+1ddd   a
+1c
+0da a d
+b
+b
+w.da a d
+w.cdd   a
+b
+0
+wacc   /a
+w.caa   a
+b
+0 ce  a
+0 df
+0ac
+0cdf  c
+wcc e c
+b
+w. da   //a
+w. df  d
+b
+w. da   a
+w.cdda
+b
+w.da a d
+w.acd a
+b
+0cdd   ///a
+0ad  a
+0 c
+w. da   a
+b
+w.da   d
+w.fcd a
+b
+0cd  a
+0a     ///a
+0 c
+w. da   a
+b
+
+b
+w. df  d
+w. da   a
+b
+0 ce  a
+0 df
+0ac
+0cdf  c
+wcc e c
+b
+w.cdf   //a
+w.da a d
+b
+w.cdd   a
+w.ddf   4
+b
+0cdd   ///a
+wa d a
+Y. dde  a
+.
+b
+b
+
+e

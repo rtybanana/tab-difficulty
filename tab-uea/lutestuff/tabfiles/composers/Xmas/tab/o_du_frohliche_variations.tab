@@ -1,0 +1,351 @@
+-C
+-t
+-f
+{O du fröhliche variations/O du fröhliche variations}
+b
+0  da  /a
+0 ab   d
+b
+1.  da  /a
+2  b
+1  a
+1  bc
+b
+0  da  /a
+0 ab   d
+b
+1.  da  /a
+2  b
+1  a
+1  bc
+b
+1  d   /a
+1   a
+1  d   //a
+1   a
+b
+0 a    5
+#2 c    4
+x   c
+x d    ///a
+x   c
+b
+1 c    4
+1  d
+1 ab   5
+1   a
+b
+0  da  /a
+1    a
+1     d
+b
+1.   cc 4
+2  a
+1   cc 4
+1  a
+b
+
+b
+1.  bc  4
+2  d
+0  bc  4
+b
+1.  aa  /a
+2  b
+1  aa  /a
+1  b
+b
+1.  da  /a
+2 a
+0  da  /a
+b
+1add   /a
+1 c   d
+1 a  a
+1  d   /a
+b
+1a b   d
+1 a  a
+1  da
+1  b   ///a
+b
+1  a   /a
+1   a
+1   c  4
+1    c
+b
+Y    dd/a
+b
+b
+#2  da  /a
+x a
+x c
+x  d
+#2  b   4
+x a
+x c
+x a
+b
+
+b
+#2  da  /a
+x a
+x c
+xa
+#2c
+xe
+xf
+x   a
+b
+0  da  /a
+1 a    4
+1  b
+b
+#2  da  /a
+x a
+x c
+xa
+#2c
+xe
+xf
+x   a
+b
+#2  d   /a
+x d
+x  d
+x   a
+#2  d   //a
+x d
+x  d
+x   a
+b
+#2 a    5
+x c
+x a
+x  b
+#2 c    4
+x   c
+x d    ///a
+x   c
+b
+#2a     4
+x c
+1  d
+1 ab   5
+1   a
+b
+0  da  /a
+1      ///a
+#2     d
+x   a
+b
+
+b
+1.   cc 4
+2  a
+1   cc 4
+1  a
+b
+#3  b   4
+x  d
+x  b
+x  a
+#2  b
+x  a
+1  d   4
+1  bc d
+b
+1  aa  /a
+#3  b
+x  d
+x  a
+x  b
+1  aa  /a
+1  b
+b
+#3  da  /a
+x  b
+x  a
+x  b
+#2  d   /a
+x a
+1  da
+b
+1add   /a
+1 c   d
+1 a  a
+1  d   /a
+b
+1a b   d
+1 a  a
+1  da
+1  b   ///a
+b
+1  a   /a
+1   a
+1   c  4
+1    c
+b
+w    dd/a
+b
+b
+
+b
+0.      4
+1      ///a
+b
+1.      4
+2      5
+1      6
+1      5
+b
+wedded
+b
+0      4
+0      ///a
+b
+1.      4
+2      5
+1      6
+1      5
+b
+wdddd
+b
+#2      4
+x   a
+x  d
+x d
+#2      ///a
+x   a
+x  b
+x a
+b
+#2      4
+x  d
+x d
+x      5
+#2      6
+x d
+x      5
+x d
+b
+
+b
+#2      4
+x   a
+x  d
+x d
+#2      ///a
+x   a
+x  b
+x a
+b
+#2      4
+x  d
+x d
+x      5
+#2      6
+x d
+x      5
+x d
+b
+#2      4
+x   c
+x  d
+x c
+#2      4
+x   c
+x  d
+x c
+b
+#2      ///a
+x   a
+x  b
+x a
+#2      //a
+x a
+x      /a
+x a
+b
+#2      //a
+x   c
+x  d
+x c
+#2      ///a
+x   c
+x  d
+x c
+b
+1      4
+1   c
+1  d
+1 c
+b
+
+b
+#2      a
+x   c
+x  d
+x     a
+#2      a
+x c
+x     a
+x c
+b
+#3 c   b
+x a
+x c
+x d
+#2 c
+x     d
+#3  d  b
+x  b
+x  d
+x a
+1  d
+b
+#2     a
+x  d
+x d
+x     b
+#2     a
+x d
+x     b
+x d
+b
+#2     d
+x  d
+x d
+x    a
+#2     d
+x   a
+x  d
+x d
+b
+#2   a
+xe
+x    c
+xe
+#2    a
+xe
+x     d
+xe
+b
+
+b
+1 aba
+1    a
+#2     d
+x  d
+x d
+x     b
+b
+0 dda a
+1 ddc  a
+1 c
+b
+Y dda  /a
+b
+b
+
+e

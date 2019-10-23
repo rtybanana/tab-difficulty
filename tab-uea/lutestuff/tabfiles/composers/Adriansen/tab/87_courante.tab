@@ -1,0 +1,101 @@
+-C
+-t
+-f
+{87. Courante /87. Courante }
+b
+c
+2  d
+b
+#2  d a
+x a
+x bd a
+x d
+#3a   a
+x d
+2a
+#2  d a
+x  d
+b
+#2 bd a
+x da c
+xab  d
+xc  a
+2da c
+#3c
+xa
+#2 dda
+x d
+b
+#2da c
+xc  a
+xd  c
+xf  a
+#2hd f d
+x   f
+2hd
+#3f
+xd
+b
+
+b
+#2c d a
+xa
+#3    c
+xa
+2 e
+#2aac  a
+x   c
+2aac
+#3c
+xe
+b
+#2f   a
+xf
+#3e    a
+xf
+2h
+2f   a
+#3e
+xf
+2a   a
+#3a
+xc
+b
+#2dab  d
+xdab
+#3c  a
+xd
+2f
+#3da c
+xc
+#2d
+x d a
+#3 d
+xa
+b
+#2bdda
+xbd
+xabb d
+x dba d
+#2abb d
+x   c
+2abb
+#3 d
+x b
+b
+
+b
+#3 a a
+x b
+2  d
+#3  cc
+x  d
+2  c
+#2acd a
+x   c
+Yacd a
+.
+b
+b
+
+e

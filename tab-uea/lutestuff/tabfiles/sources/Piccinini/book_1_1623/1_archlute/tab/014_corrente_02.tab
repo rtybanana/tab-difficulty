@@ -1,0 +1,502 @@
+-C
+-t
+-f
+{14. Corrente 2/14. Corrente 2}
+b
+x    d /a
+b
+b
+.
+#2  b
+x   d
+1   c
+1   a
+b
+1.    d
+#3    c
+x    a
+1     d
+b
+#2d    a
+xb
+1a    b
+1 d   d
+b
+1. bbc  /a
+#3 a
+x  d
+1  b
+b
+1    d
+1  d
+#2    c
+x    a
+b
+1 aba d
+#2 d
+x b
+#2 a
+x  d
+b
+1  b
+1   da
+1    c
+b
+
+b
+1   cd
+#2 b
+x d
+#2a  a
+xb
+b
+1d  c
+#2a   d
+xb
+#2d
+xa
+b
+1f  d
+1     b
+1d    d
+b
+1b   a
+1    c
+1a   d
+b
+1 dff
+1   a
+#2   c
+x   d
+b
+1   f&_
+1 d
+#2a
+xb
+b
+1d&_
+1     d
+#2    a
+x    c
+b
+1a   d
+1d
+#2f
+xh
+b
+1i
+1   c
+#2   d
+x  b
+b
+
+b
+1  d&_
+1    a
+#2    c
+x    d
+b
+1b  a
+1  d
+#2 a
+x b
+b
+1 d  c
+#2a
+xb
+#2d
+xb
+b
+#2a   d
+x   a
+#2   c
+x   d
+1 db
+b
+1 bd
+1. dff
+#3  d
+x  f
+b
+1  g
+1   f
+1    d
+b
+#2     d
+x     b
+1     a
+#2d     a
+xb
+b
+1a     /a
+#2 d    //a
+x b    ///a
+1 a    4
+b
+
+b
+#2     a
+x   c
+#2   a b
+x    d
+1    cd
+b
+#2    d /a
+x b
+#2 a
+x  d
+#2  b
+x   d
+b
+#2   c
+xd    a
+#2b     a
+xa     /a
+#2 d    //a
+x b    ///a
+b
+#2 a    4
+x  b
+#2   d
+x   c
+#2   a
+x    d
+b
+#2    cd
+x     b
+#2    da
+x     b
+#2   a  a
+x     a
+b
+1   c  /a
+#2 b  a
+x d  c
+#2a   d
+xb  a
+b
+1d  c
+#2a   d
+xb  a
+#2d  c
+xa   d
+b
+
+b
+#2f  d
+x     a
+#2     b
+x     d
+#2d   a
+xb   c
+b
+#2a   d
+xb
+2d
+#3   a
+x   c
+#2b  d
+xa
+b
+1 dff
+2     d
+#3 b
+x d
+#2 b   a
+x     b
+b
+#2 a   d
+x   f
+2 d
+#3   d
+x   f
+#2a  d
+xb
+b
+1d  c
+2     d
+#3b
+xd
+#2b   a
+x    c
+b
+1a   d
+2d
+#3    c
+x    d
+#2f    h
+xh
+b
+
+b
+#2i   a
+xa
+#2b
+xd  c
+#2f  d
+xd b
+b
+#2b d
+x   a
+#2   c
+x   da
+#2  b c
+x   cd
+b
+#2   df
+x      a
+#2     a
+x  d  b
+#2 a   d
+x b  a
+b
+#2 d  c
+x d
+#2a   d
+xb  a
+#2d  c
+xb  d
+b
+#2a b
+xd     /a
+#2b     a
+xa    a
+1 d   b
+b
+#2 b c a
+x     b
+1 a a d
+#3
+x     aU
+x     b
+x     dX
+b
+
+b
+2      /a
+#3    aU
+x    c
+#3    dX
+x   a
+x   c
+x   d
+1  b
+b
+A1
+0.    d
+.
+b
+b
+A2
+0    d
+1dfg
+b
+1.dd f
+2b
+1abd
+b
+1.bd a
+#3a
+xb
+1 d  c
+b
+#2a   d
+x d
+#2 b
+x a
+1  da
+b
+1  bc
+1.  aa
+#3   c
+x  a
+b
+1 ab  d
+#2    a
+x b
+1 d  c
+b
+1a   d
+#2   a
+xb
+1d  c
+b
+1f  d
+#2   f
+xf
+1i  h
+b
+
+b
+1h  f
+#2 i
+xf
+#2h
+x i
+b
+1l
+#2   a
+x   c
+#2   e
+x   a
+b
+1   f
+#2     d
+x    a
+#2    c
+x     d
+b
+1    d&_
+#2a
+xb
+#2d
+xa
+b
+1f&_
+#2    a
+x    c
+#2    d
+x    a
+b
+#2   a
+xd
+#2b
+xa
+#2 d
+x    d
+b
+#2    c
+x    a
+#2     d
+x     b
+#2     a
+x      a.
+b
+
+b
+1      /a
+#2   c
+x   d
+1  b
+b
+#2a   d
+xb  a
+1d  c
+1a   d
+b
+1 d   d
+#2    c
+x    d
+1   a
+b
+#2 a   d
+x b  a
+1 d  c
+1 a   d
+b
+#2  d   a
+x  a
+#2   a
+x  d
+#2     a
+x     c
+b
+#2 d   d
+x a
+#2  b
+x d
+#2    a
+x    c
+b
+#2d   d
+xa
+#2 b
+xd
+#2   a
+x   c
+b
+
+b
+#2   a
+xc
+#2 d
+x    d
+#2    c
+x  b
+b
+#2    d
+xa
+#2 b
+xd  c
+#2b  d
+xa
+b
+#2 db
+x     d
+#2 a
+x b  a
+#2 d  c
+xb
+b
+#2a   d
+x   d
+#2   c
+x d
+#2 b
+x    a
+b
+#2     b
+xb
+#2 d
+x     d
+#2    a
+x b
+b
+#2 a   d
+x d
+#2a
+xb    b
+#2d    a
+xb     a
+b
+#2a     /a
+xd
+#2f
+xh     //a
+#2i     ///a
+xf
+b
+
+b
+1h     4
+0   f
+b
+0   h
+1  fa d
+b
+1  gha
+1  dc
+1    c
+b
+1    d /a
+1   f&_
+1    h&_
+b
+1   d  a
+1    f&_
+1     a
+b
+1   cdb
+1.   acd
+#3    a
+x    c
+b
+1    d
+1     d
+1      /a
+b
+0. bbcd
+b
+b
+
+e

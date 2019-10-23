@@ -1,0 +1,109 @@
+-C
+-t
+-f
+{6. When pale famine/6. When pale famine}
+b
+c
+w abc a
+b
+1. abc a
+2     c
+1 a   d
+1  bca
+b
+0.  abc
+1    a
+b
+0. a c e
+1 a   e
+b
+0. cdca
+1 cdca
+b
+0 dda
+0 dda
+b
+1 dda
+1 da c
+0 ca b
+b
+1 aa c
+1 a   a
+1 cf  c
+1  e
+b
+w aabc
+b
+0. ab  d
+#2  a a
+x   c
+b
+1 aabc
+1 abc a
+1. cdca
+#3  c c
+x  a
+b
+
+b
+0 ccde
+1 cee
+1 aab
+b
+#2 abc
+x  a
+x ab
+x   c
+1  dff
+1   e
+b
+w ab  d
+b
+.
+0. ab
+#2  a
+x   c
+b
+1 daa
+1  b c
+1  b d
+1  a a
+b
+1 ab  d
+0  b
+#2  a
+x   c
+b
+0 aab
+1 abc
+1  bca
+b
+w  abc
+b
+0
+0 a c e
+b
+1
+1 a c e
+1. cdca
+2     d
+b
+1 cee c
+1   c
+1 aab
+1 abc
+b
+
+b
+1 aabc
+#2  bc
+x    a
+1 aacc
+1   b
+b
+w acc a
+.
+b
+b
+
+e

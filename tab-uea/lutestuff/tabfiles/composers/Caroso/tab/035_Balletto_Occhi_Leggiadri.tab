@@ -1,0 +1,172 @@
+-C
+-t
+-f
+{Balletto Occhi Leggiadri/Balletto Occhi Leggiadri}
+b
+c
+0 bdd
+b
+0 bdd
+x bdd
+b
+0 dff
+x dff
+b
+wabbcd
+b
+0ab
+xdbbcd
+b
+0bbdd
+xabbcd
+b
+0 dff
+x df
+b
+0abbcd
+b
+0ab
+b
+0
+xabbcd
+b
+0abbcd
+xabbcd
+b
+0 db  d
+x db  d
+b
+0abdca
+x    c
+b
+0    d
+x   a
+b
+waacc a
+b
+
+b
+0aacc a
+.
+b
+b
+.
+0aacc a
+b
+0abdca
+xabdca
+b
+0 db  d
+1 b
+x d
+b
+wabbcd
+b
+0ab
+x db c
+b
+0 b  a
+1 a
+x  d
+b
+0aadc
+x  d
+b
+wacdca
+b
+A1
+0ac
+.
+b
+b
+A2
+wac
+b
+b
+.
+1 bdd
+b
+0 bdd
+1 bd
+b
+0 dff
+1 dff
+b
+0abbcd
+1ab
+b
+
+b
+0abbcd
+1dbbcd
+b
+0bbdd
+1abbcd
+b
+1. db  d
+2 b
+1 d
+b
+0.abbcd
+0ab
+.
+b
+b
+.
+1abbcd
+b
+0abbcd
+1abbcd
+b
+0 db  d
+1 db  d
+b
+0abdca
+1    c
+b
+0    d
+1   a
+0.aacc a
+b
+0aacc a
+.
+b
+b
+.
+1aacc a
+b
+0abdca
+1abdca
+b
+1. db  d
+2 b
+1 d
+b
+0.abbcd
+b
+
+b
+0ab
+1 db c
+b
+1. b  a
+2 a
+1  d
+b
+1.aacc
+2  d
+1 a
+b
+0.acdca
+b
+A1
+0ac
+.
+b
+b
+A2
+Yac
+b
+b
+
+e

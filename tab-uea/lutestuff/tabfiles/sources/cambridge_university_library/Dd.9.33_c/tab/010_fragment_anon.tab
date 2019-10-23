@@ -1,0 +1,32 @@
+-C
+-t
+-f
+{10. [fragment]/Anonymous}
+b
+2f  a
+#3c
+xd
+#3f
+xd
+xc
+xa
+#3c
+x d
+xa
+xc
+b
+2a   a
+#3 d
+xa
+#3c  a
+x d
+xa
+xc
+#3e    a
+xa
+xc
+xe
+b
+b
+
+e

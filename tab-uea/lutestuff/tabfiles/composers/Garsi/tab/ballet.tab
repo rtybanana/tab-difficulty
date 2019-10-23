@@ -1,0 +1,200 @@
+-C
+-t
+-f
+{Ballet/Ballet}
+b
+0.
+1f
+b
+#2c     a
+xa
+xc
+xd
+1f
+1h
+b
+1f     a
+1    a
+1   a
+1  d
+b
+#2  aa  a
+x   c
+x  a
+x  b
+1  d
+1 a   d
+b
+1  d   a
+1    a
+1   a
+1  d
+b
+#2abbcd
+x a
+x b
+x d
+1a
+1f  d
+b
+
+b
+#2a   d
+x a
+x b
+x d
+1a
+1  d  b
+b
+#2 a   d
+x  d
+x a
+x c
+1 d
+1a   a
+b
+1 d    a
+1    a
+1   a
+1 d
+b
+#2abbcd
+x a
+x b
+x d
+1a
+1b
+b
+#2d   d
+x    c
+x    d
+x   a
+1   c
+1  d  b
+b
+#2 a   d
+x  d
+x a
+x c
+1 d
+1a   a
+b
+
+b
+1 d    a
+1    a
+1   a
+1cdd   a
+b
+1aabcca
+1 d   c
+1a    d
+1 c  a
+b
+1 daa  a
+1    a
+1   a
+#2d
+xc
+b
+1a b
+1 da
+1a b
+1 cd
+b
+1 d    a
+1    a
+1   a
+1  d
+b
+1  b
+1   da
+1    b
+1   cd
+b
+1bbdd
+1bbd
+#2bbdd
+x     d
+x    a
+x    c
+b
+
+b
+#2a   d
+x   a
+x   c
+x    d
+#2b  a
+x   c
+x   d
+x  b
+b
+#2a dd
+x  b
+x   d
+x   c
+#2b  a
+x    d
+x    b
+x    a
+b
+#2 d   d
+x    a
+x    b
+x     d
+#2 c  a
+x     b
+x     d
+x    a
+b
+1 d    a
+1    a
+1   a
+1f
+b
+1d
+1b d
+1  b
+1a
+b
+1bbdd
+1bbdd
+1bbdd
+1f  d
+b
+
+b
+#2d  c
+xb
+xd
+xa
+#2b  a
+xa
+xb
+x d
+b
+#2a   d
+x d
+xa
+x b
+#2 d  b
+x c
+x d
+xa
+b
+#2 c  a
+x  d
+x  b
+x   d
+#2   c
+x   a
+1 c  a
+b
+1 d    a
+1    a
+Y   a
+b
+b
+
+e

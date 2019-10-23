@@ -1,0 +1,181 @@
+-C
+-t
+-f
+{Ricercar 17/Ricercar 17}
+b
+c
+#2f   a
+xd
+xc
+xa
+#2c
+xa
+x d
+x b
+b
+#2 d
+x b
+x a
+x  d
+#2 ab  d
+x     a
+x     c
+x     d
+b
+1    a
+#2    c
+x    d
+1b  a
+1a   a
+b
+
+b
+#2    d
+x    c
+x    d
+x   a
+#2   c a
+x  a
+x  b
+x  d
+b
+#2  b
+x  d
+x a
+x b
+#2 a   d
+x  d
+x  b
+x  a
+b
+#2   cd
+x  a
+x  c
+x  d
+#2    c
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+
+b
+#2  d a
+x a
+x b
+x d
+#2a   d
+x    c
+x    d
+x    a
+b
+#2  da
+x a
+x c
+x d
+#2    a
+x c
+#3 d
+x c
+x a
+x c
+b
+#2 d a
+x   c
+x   d
+x  b
+#2  d
+x a
+x b
+x d
+b
+1ab  d
+1b da
+1d e  d
+1a b d
+b
+
+b
+1b d  b
+#2a
+x d
+1 bd a
+1a d d
+b
+1b d  b
+1 d d
+#2 d  a
+x c
+#3 d
+x c
+x a
+x c
+b
+#2 d a
+x   c
+x   d
+x  b
+#2  da
+x  b
+1  e
+b
+#2 b  a
+x  e
+x  d
+x  b
+1  ea
+1  d
+b
+
+b
+1  d  b
+1  b  d
+#2    a
+x  a
+#3  b
+x  a
+x   c
+x  a
+b
+#2  b  d
+x    a
+x    c
+x    d
+#2b da
+xa
+x d
+x b
+b
+1 abc
+1a d d
+1 cd a
+1 d ac
+b
+#2    a
+x c
+#3 d
+x c
+x a
+x c
+#2 d a
+x   c
+x   d
+x  b
+b
+
+b
+#2  d
+x  b
+1  e
+#2 b
+x  e
+x  d
+x  b
+b
+0  da
+0fdda
+b
+b
+
+e

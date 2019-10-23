@@ -1,0 +1,356 @@
+-C
+-t
+-f
+{Grizzly (Duet)/Grizzly (Duet)}
+b
+C
+#2f
+xe
+2f
+1ace
+2 e
+1ace
+b
+#2ced
+xb
+2c
+1 ad
+2
+1  d
+b
+1 ac
+1  a
+1 d c
+1  c
+b
+1  dca
+1     a
+1     c
+1     e
+b
+.
+1    a
+1acd
+1     a
+1acd
+b
+1    c
+1 dc
+#2     a
+x d
+#2 c
+x a
+b
+2 d
+1c
+1c c
+2
+1 dc
+b
+
+b
+1    a
+1 cd
+1     a
+1 cd
+b
+#2 b
+x c
+#2c
+x b
+#2 c
+xc
+#2 c
+x b
+b
+2 a
+1e
+1eff
+2
+1
+b
+1    e
+1 fee
+1    c
+1 ede
+b
+#2     a
+x     c
+#2     e
+x     a
+0
+b
+#2 b
+x c
+#2c
+x b
+#2 c
+xc
+#2 b
+x c
+b
+2 d
+1c
+1c c
+2
+1 dc
+b
+
+b
+1    c
+1 dc
+#2     a
+x d
+#2 c
+x a
+b
+2 c
+1c
+1c d
+2
+1
+b
+1acd a
+1   f
+1   e
+1   c
+b
+1 a b
+1    e
+1    c
+1  d
+b
+1  c
+1  a
+#2   c
+x b
+1 cca
+b
+A1
+1  d e
+1     a
+1     c
+1     e
+b
+b
+A2
+1  d e
+1
+0acb a
+b
+.
+1   a
+1cdd
+1    a
+1cdd
+b
+1    c
+1 ede
+1   b
+1 ad
+b
+
+b
+#2 acc
+x
+1
+0
+b
+#2a
+xc
+#2e
+xa
+#2c
+xe
+#2c
+xb
+b
+1a
+2 e e
+1 f f
+2 e e
+1 f f
+b
+1ccd
+#2  d
+x c
+#2a
+x d
+#2 c
+x a
+b
+#2  d
+x a
+#2 d
+x  d
+#2 a
+x d
+#2 a
+x  d
+b
+#2 dda
+x
+1
+0
+b
+
+b
+1c d
+2b c
+1c d
+2b c
+1c d
+b
+1def
+#2  f
+x e
+#2c
+x  d
+#2 e
+xc
+b
+1d    a
+1 a
+1   c
+1 ab
+b
+1a b
+1 a
+1b c
+1 d
+b
+#2cdda
+x
+1
+#2
+x d
+#2a
+xb
+b
+0c
+#2
+x d
+#2 c
+x a
+b
+#2c
+xb
+2c
+1f
+2c
+1a
+b
+
+b
+1 dda
+1
+0
+.
+b
+b
+w
+b
+1    a
+1acd
+1     a
+1acd
+b
+1    c
+1 dc
+#2     a
+x d
+#2 c
+x a
+b
+2 d
+1c
+1c c
+2
+1 dc
+b
+1    a
+1 cd
+1     a
+1 cd
+b
+#2 b
+x c
+#2c
+x b
+#2 c
+xc
+#2 c
+x b
+b
+2 a
+1e
+1eff
+2
+1
+b
+
+b
+1    e
+1 fee
+1    c
+1 ede
+b
+#2     a
+x     c
+#2     e
+x     a
+0
+b
+#2 b
+x c
+#2c
+x b
+#2 c
+xc
+#2 b
+x c
+b
+2 d
+1c
+1c c
+2
+1 dc
+b
+1    c
+1 dc
+#2     a
+x d
+#2 c
+x a
+b
+2 c
+1c
+1c d
+2
+1
+b
+1acd a
+1   f
+1   e
+1   c
+b
+
+b
+1 a b
+1    e
+1    c
+1  d
+b
+1  c
+1  a
+#2   c
+x b
+1 cca
+b
+1  d e
+1     a
+0    a
+b
+b
+
+e

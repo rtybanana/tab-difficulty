@@ -1,0 +1,501 @@
+-C
+-t
+-f
+{The leaves be green/The leaves be green}
+b
+1a
+b
+1.d
+2a
+1c
+b
+0af
+1a
+b
+1.d
+2a
+1c
+b
+0af
+1a
+b
+1.d
+2f
+1h
+b
+0f
+1d
+b
+1.c
+2d
+1a
+b
+0 d
+1 dde
+b
+b
+
+b
+1. abc
+2 a
+1 aabc
+b
+0 acc a
+1 abc
+b
+1. abc
+2 a
+1 aabc
+b
+0 acc a
+1 abc
+b
+1. abc
+2   e
+1 dff
+b
+1 dde
+1    f
+1 dff
+b
+1. dda
+2 d
+1 cd a
+b
+0 ddef
+2 d
+#3a
+xc
+b
+b
+
+b
+2d
+#3a
+xc
+#2d
+xa
+#2c
+x e
+b
+2a
+#3 c
+x d
+2a
+#3   c
+x  a
+#2  b
+x   c
+b
+2 a
+#3  b
+x  d
+2 a
+#3   b
+x   c
+#2  a
+x   b
+b
+2   c
+#3  a
+x  b
+#3  d
+x a
+x c
+x e
+#3a
+x e
+xa
+xc
+b
+
+b
+2d
+#3a
+xc
+#3d
+xc
+xd
+xf
+1h
+b
+2f
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+1d
+b
+2c
+#3  a
+x  b
+#3  d
+x a
+x c
+x d
+1a
+b
+2 d
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+1 dde
+b
+b
+
+b
+1. abc
+2 a
+1 aabc
+b
+0 acc a
+1 abc
+b
+1. abc
+2 a
+1 aabc
+b
+0 acc a
+1 abc
+b
+1. abc
+2   e
+1 dff
+b
+1 dde
+1    f
+1 dff
+b
+1. dda
+2 d
+1 cd a
+b
+0 ddef
+1 dde
+b
+b
+
+b
+2 a
+#3  d
+x a
+#3 b
+x a
+x  d
+x  b
+#3  a
+x   c
+x  a
+x   b
+b
+2   c
+#3   a
+x    d
+#3    c
+x    a
+x     d
+x     c
+1     a
+b
+2d
+#3c
+xd
+#3f
+xd
+xc
+xa
+#3 e
+xa
+xc
+x e
+b
+2a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+1   c
+b
+
+b
+2d
+#3a
+xc
+#3d
+xc
+xd
+xf
+#3h
+xd
+xf
+xh
+b
+2f
+#3 c
+x d
+#3a
+xc
+xd
+xf
+1d
+b
+2c
+#3a
+x d
+#3 c
+x a
+x c
+x d
+#3a
+xc
+xd
+xa
+b
+2c
+#3a
+x d
+#3 c
+x a
+x  d
+x  b
+1  a
+b
+b
+
+b
+1. abc
+2 a
+1 aabc
+b
+0 acc a
+1 abc
+b
+1. abc
+2 a
+1 aabc
+b
+0 acc a
+1 abc
+b
+1. abc
+2   e
+1 dff
+b
+1 dde
+1    f
+1 dff
+b
+1. dda
+2 d
+1 cd a
+b
+0 ddef
+1 dde
+b
+b
+
+b
+2.d
+3c
+#2a
+xd
+#2c
+x e
+b
+2a
+2. a
+3 b
+2 a
+#2  b
+x   c
+b
+2.  b
+3  a
+#2   c
+x  b
+#2  a
+x   b
+b
+2   c
+2.    c
+3    a
+2    c
+#2     d
+x     a
+b
+2.h
+3f
+#2d
+xf
+#2h
+xd
+b
+
+b
+2f
+2.c
+3a
+2c
+#2 d
+x a
+b
+2.c
+3a
+#2 d
+xc
+#2a
+x c
+b
+2 d
+2.  d
+3  b
+2  d
+#2  a
+x   a
+b
+b
+1. abc
+2 a
+1 aabc
+b
+0 acc a
+1 abc
+b
+1. abc
+2 a
+1 aabc
+b
+0 acc a
+1 abc
+b
+
+b
+1. abc
+2   e
+1 dff
+b
+1 dde
+1    f
+1 dff
+b
+1. dda
+2 d
+1 cd a
+b
+0 ddef
+1 dde
+b
+b
+#2  b
+x a
+#3  d
+x  b
+x  a
+x   c
+#2  a
+x   b
+b
+2   c
+#3  a
+x  b
+#3  d
+x a
+x c
+x e
+#2a
+xa
+b
+
+b
+#2a
+xd
+#3f
+xd
+xc
+xa
+#2c
+x e
+b
+2a
+#3 e
+x c
+#3 e
+xa
+xc
+x e
+1af
+b
+2.d
+3c
+#2d
+xf
+#2h
+xd
+b
+2f
+#3c
+xd
+#2f
+xf
+1d
+b
+
+b
+2c
+#3a
+xc
+#2d
+xc
+2a
+#3 d
+x c
+b
+#3 d
+xf
+xc
+xd
+2f
+1c
+b
+b
+1. abc
+2 a
+1 aabc
+b
+0 acc a
+1 abc
+b
+1. abc
+2 a
+1 aabc
+b
+0 acc a
+1 abc
+b
+1. abc
+2   e
+1 dff
+b
+1 dde
+1    f
+1 dff
+b
+
+b
+1. dda
+2 d
+1 cd a
+b
+0 ddef
+1 dde
+b
+b
+
+e

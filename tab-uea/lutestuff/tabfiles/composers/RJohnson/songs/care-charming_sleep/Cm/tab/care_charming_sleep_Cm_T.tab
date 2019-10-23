@@ -1,0 +1,163 @@
+-C
+-t
+-f
+{Care-charming sleep/Care-charming sleep}
+b
+w    d /a
+b
+b
+c
+0 bdc  ///a
+0    a
+b
+1. acc
+2   a
+0  dce
+b
+0 dddf
+0 bdca
+b
+0 ac  a
+1   c
+1  a
+b
+0.aac  a
+1  d  c
+b
+1 df  d
+1   f
+1 df
+#2  d  c
+x  b  a
+b
+1 aacc
+1   b  //a
+1aab  a
+1   c
+b
+0. b ca
+#2 ddd
+x   a
+b
+0 d db
+1 df  d
+#2   f
+x      d
+b
+
+b
+1 bb  a
+#2   d  a
+x a
+0 b c  /a
+b
+1 dgf d
+1  f
+0 bbc  /a
+b
+0ab  a
+0aa c
+b
+1.aac  a
+2      a
+1a d   /a
+1      ///a
+b
+1 d d  a
+#2 b
+x  e
+0  dd  a
+b
+0 cdca
+0 cd   ///a
+b
+0a b  a
+0 ea   //a
+b
+0abb   /a
+0 df  d
+b
+1. bdca
+2     d
+1  dddb
+1   a
+b
+0 ac  a
+0aa c
+b
+b
+0abb d
+0 db c
+b
+1a b d
+1. b
+2    c
+1 ba a
+b
+
+b
+0 df  d
+1   f
+1      d
+b
+0 bb  a
+0  dddb
+b
+0bbd  b
+0 b c  /a
+b
+0 aba d
+0 b&U ddb
+b
+1
+#2     a
+x a    a
+0abb   /a
+b
+0. bbc  /a
+#2 a    a
+x  d
+b
+1 ac  a
+1  d
+1    c 6
+1  c
+b
+0 b c  ///a
+0 b ca
+b
+1.  def
+2    d
+0 db c
+b
+1.aacc
+2   a
+1a dce
+1    a
+b
+1b da
+x  b
+0 ddd  a
+b
+
+b
+0 b c  ///a
+1 b ca
+#2     d
+x     c
+b
+1. ac  a
+2      a
+1. b c  /a
+2      a
+b
+1a c  a
+1  d
+1    c 6
+1  c
+b
+w  dce ///a
+b
+b
+
+e

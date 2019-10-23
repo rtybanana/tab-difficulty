@@ -1,0 +1,427 @@
+-C
+-t
+-f
+{157. Covarde cavallero/Miguel de Fuenllana}
+b
+c
+w   a
+b
+w  dd
+b
+0 b d
+0   c
+b
+0 b d
+0 ab
+b
+1 bd
+1  b
+1   d
+1   c
+b
+0 dda
+0  d
+b
+0ab  d
+0 b
+b
+0  b
+0aa
+b
+0abd
+0ab
+b
+0 d
+1 a f
+1  d
+b
+0aa
+0abd
+b
+1
+1 ab
+0abd
+b
+0aab
+0a bc
+b
+
+b
+0 ddd
+0 ab
+b
+1 d
+1  d
+0 bd
+b
+1 a c
+1  d
+0  c
+b
+0  d
+0abd
+b
+1abd
+1ab
+1 df
+1abd
+b
+0aab
+0ab c
+b
+0 ddd
+0 ab
+b
+1 d
+1  d
+0 bd
+b
+1 a c
+1  d
+0  c
+b
+0  d
+0   a
+b
+0  dd
+1  d
+1   c
+b
+0 b d
+1  b
+1 a
+b
+
+b
+0 bd
+0 dda
+b
+0abd
+0b
+b
+0abb
+0 df
+b
+0 bbc
+0 b d
+b
+1 d a
+1  g
+0  f
+b
+0ab  d
+0  b
+b
+0a d
+0 b
+b
+0  b
+0aa
+b
+0abd
+0ab
+b
+0 d f
+1  f
+1  d
+b
+0 dff
+0 bd
+b
+1 a c
+1  d
+0  c
+b
+0  d
+0abd
+b
+0abd
+0ab
+b
+
+b
+0 df
+0ab
+b
+0aab
+0ab c
+b
+0 ddd
+0 ab
+b
+1 d
+1  d
+0 bd
+b
+1 a c
+1  d
+0  c
+b
+w  d a
+b
+0  d a
+0  d
+b
+0. b
+1 a
+b
+0 bd
+0 d a
+b
+0abd
+0 b
+b
+0   f
+0 dff
+b
+1 bd
+1 ab
+1  dd
+1  cc
+b
+0 ddd
+0  d
+b
+0a bc
+0 b  a
+b
+
+b
+0 b  a
+1a
+1    c
+b
+1ab  d
+1   a
+1 a c
+1  dd
+b
+1 dff
+1  d
+1  ff
+1  g
+b
+1 dff
+1  d
+1 bd
+#2 a
+x  d
+b
+1 a c
+1  d
+0  c
+b
+0  d
+0  d
+b
+0. bd
+1 a
+b
+0 bd
+0 d a
+b
+0abd
+0 b
+b
+0  b
+0 dff
+b
+1 bd
+1 ab
+1  dd
+1  cc
+b
+
+b
+0 ddd
+0  d
+b
+0a bc
+0 b  a
+b
+0 b  a
+1a
+1    c
+b
+1ab  d
+1   a
+1aa c
+1  dd
+b
+1 dff
+1  d
+1  ff
+1  g
+b
+1 dff
+1  d
+1 bd
+#2 a
+x  d
+b
+1 a c
+1  d
+0  c
+b
+0  d
+0  d
+b
+0 b
+1  d
+1 d
+b
+0ab  a
+1 b
+1 d
+b
+1a   d
+1 a
+0  b
+b
+
+b
+1a   d
+1  d
+0 df c
+b
+1 bd d
+1  b
+1  b
+1 a
+b
+1  d f
+1   f
+0   e
+b
+0  bc
+0 b
+b
+0 a
+0 bbc
+b
+1 a c
+1  d
+1 abc
+1 b
+b
+0 dda
+1  f
+1 b
+b
+1 a a
+1  d
+0  d d
+b
+1 d  c
+1  d
+0  c
+b
+w cd a
+b
+0  da
+0  d
+b
+0   d
+1  d
+1   c
+b
+
+b
+0 b d
+1  b
+1 a
+b
+0 bd
+0 dda
+b
+0abd
+0b
+b
+0abb
+0 df
+b
+1 bd
+1 b
+0 b
+b
+1 d
+1  g
+0  f
+b
+0ab
+0    d
+b
+0    d
+0ab
+b
+0ab
+0a   d
+b
+0 d f
+1  f
+1  d
+b
+0 dff
+0 bd
+b
+1 a c
+1  d
+0  cc
+b
+0  d
+0abd
+b
+
+b
+0abd
+0ab
+b
+1 df
+1 bd
+1 df
+1ab
+b
+0 df
+0abd
+b
+0aab
+0ab c
+b
+1 dff
+1 bd
+1 df
+1ab
+b
+0 df
+0 bd
+b
+1 a c
+1  d
+0  c
+b
+0  dd
+0a   d
+b
+0b da
+0 b d
+b
+1 dd
+1   c
+0b  a
+b
+0a d e
+0 d a
+b
+0  d a
+1 c
+1 a
+b
+w cd a
+b
+
+b
+w
+b
+b
+
+e

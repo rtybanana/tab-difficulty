@@ -1,0 +1,74 @@
+-C
+-t
+-f
+{Act II/Act II}
+b
+c
+1
+b
+.
+0cda   //a
+1ccf  c
+1  e
+b
+1aa   e
+1cc  b
+1cd  c
+1cc  a
+b
+0adf  d
+0 dd  c
+b
+0aab  a
+1 ccc
+1 \2d\4f&{  a
+b
+A1
+1.cce  c
+2     \2d
+#2cce  c
+x     a
+x      a
+x      /a
+.
+b
+b
+A2
+0cce  c
+1      5
+1cce  c
+b
+.
+1\1c\2d\4f   //a
+1\3e
+1\4f\1c\2d   ///a
+1    a
+b
+0f\2da   a
+1da   a
+1 \2c
+b
+
+b
+1\2d\4f\3e  \1c
+1c
+1\2ca   \3d
+1a
+b
+1cc\4e  c
+1a\2c\1b  a
+1cc\4e  c
+1cc \3e
+b
+A1
+0.c\2da   //a
+1cc\3e  c
+.
+b
+b
+A2
+wc\2da   //a
+b
+b
+
+e

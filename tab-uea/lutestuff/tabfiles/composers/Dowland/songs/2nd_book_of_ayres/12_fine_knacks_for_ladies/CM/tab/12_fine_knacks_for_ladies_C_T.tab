@@ -1,0 +1,121 @@
+-C
+-t
+-f
+{Fine knacks for ladies/Fine knacks for ladies}
+b
+c
+1 cdca
+#2 cdca
+x cdca
+1 cdca
+1 cdca
+b
+1 cdca
+#2 daa  a
+x acc a
+2 aacc
+#3   b
+x  d
+1  ccca
+b
+#2  dca
+x c
+#3 daa  a
+x     a
+x     c
+x     e
+1. cdca
+2  dca
+b
+#3 a e  a
+x  d
+x  d  c
+x c
+#3 a c a
+x  d
+x  c
+x   a
+0 cdca
+b
+2 da   a
+#3  d
+x     a
+#2  d  c
+x a   e
+1. cdca
+2 cdca
+b
+
+b
+#2  aac
+x  a  c
+x  aac
+x a c d
+1  e ec
+1   e
+b
+#2  d a
+x c
+1 a c e
+2.  de c
+3 ac
+#3 cde
+x d
+2a cc
+b
+#2 aaa
+xa   e
+x da c
+#3 a
+x    c
+0 cdca
+b
+.
+1 cdca
+#2 cdc
+x    a
+1ca    a
+1 cd  c
+b
+1aac  a
+#2 e  c
+x  d
+2.a c  a
+3     c
+#2     e
+xaac  a
+b
+#2  dca
+x c
+x    a
+x daa  a
+2  dca
+1 c
+2 a   e
+#2  d a
+x    e
+x     c
+x  de
+b
+
+b
+2. ac  a
+3     c
+#2     e
+xa c  a
+#2   ca
+x cd
+x    e
+#3 a   e
+x  d  c
+#2a c  a
+x  d e
+xa   ca
+x  c
+b
+0acdca
+.
+b
+b
+
+e

@@ -1,0 +1,420 @@
+-C
+-t
+-f
+{Mille Regrets/Mille Regrets}
+b
+c
+#2 a  c
+x    a
+x    c
+x    d
+#2 a  c
+x b
+#3 d
+x b
+x a
+x  d
+b
+#2a b d
+x   a
+#3   c
+x   a
+x    d
+x    c
+#2abd a
+x a
+x b
+x  d
+b
+#2 da c
+x    a
+#3    c
+x    a
+x    c
+x    d
+1 da c
+#2 bd a
+x a   d
+b
+#2  da c
+x a   d
+x  da c
+x  b  a
+#2  da c
+x  b
+x  d
+x  a
+b
+
+b
+1  bc a
+1da
+#2dab  a
+xc
+#3dabc
+xc
+xd
+xa
+b
+1cd a
+1c   c
+1ab  d
+#2    c
+x    a
+b
+#2 abc
+x  a
+x  b
+x  d
+#3dabc
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+2c da
+#3a
+xc
+#3d
+xc
+xa
+x d
+2a bc
+#3   a
+x   c
+#3   d
+x   c
+x   a
+x    d
+b
+
+b
+#2  a c
+xa
+x d
+x b
+#2 da c
+x b
+#3 d
+x b
+x a
+x  d
+b
+#2 ab
+x  a
+x  b
+x  d
+#3dab
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+2c da
+#3a
+xc
+#3d
+xc
+xa
+x d
+#2a bc
+x   a
+x   c
+x    d
+b
+#2  a c
+xa
+x e
+x c
+#3 a  c
+xa
+x e
+x c
+#2a
+x e
+b
+
+b
+#2ab  d
+x a
+#3 b
+x a
+x b
+x d
+1ab  d
+1ab  d
+b
+1 df  d
+1 df  d
+2 bd a
+#3 a
+x b
+#3 d
+x b
+x a
+x  d
+b
+#3 ab  a
+x  a
+x  b
+x  d
+#3  b
+x  a
+x   c
+x   a
+1 abc
+1 abc
+b
+#2 aaa
+x d
+#3 b
+x a
+x  d
+x  b
+1  dcd
+1  d
+b
+#2c a c
+xa
+xc
+xd
+#2cd  c
+xa
+#3c
+xa
+x d
+x c
+b
+
+b
+#2dabc
+x  a
+x  b
+x  d
+#2aabc
+xc
+#3d
+xc
+xd
+xa
+b
+#3caa c
+x c
+x d
+xa
+#3c
+xd
+2f
+1ha f h
+1 a
+b
+#2ffg
+xh
+xi
+xh
+1ffg
+1da
+b
+1c d
+1a b
+#3    c
+xa
+x e
+x c
+#2a
+x e
+b
+#2a dcd
+x   a
+#3   c
+x   a
+x    d
+x    c
+1a dcd
+1  bac
+b
+
+b
+1  a a
+1   c d
+#3     c
+x   c
+x   b
+x    e
+#2   c
+x   b
+b
+#2   c a
+x  a
+#3  b
+x  d
+x  b
+x  d
+#2 a c a
+x c
+x d
+xa
+b
+#2 dfa
+xa
+x d
+x c
+#2 daac
+x c
+#3 d
+x c
+x d
+xa
+b
+#2 dda
+x  b
+x  a
+x   c
+#2 dda
+x b
+#3 d
+x b
+x d
+x a
+b
+1 bd a
+1f
+1f g a
+1f
+b
+
+b
+1d  c
+1 f
+1df c
+1 f
+b
+2cd
+#3a
+xc
+#3d
+xc
+xa
+x d
+#2abd a
+x a
+x b
+x  d
+b
+1 aa c
+1  b  a
+1 aa c
+#3  b  d
+x  a
+x  b
+x  d
+b
+#2  b  d
+x  a
+1   ca
+1f  c c
+1   b
+b
+#2d bc a
+x  a
+x  b
+x  d
+#3d bc a
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+
+b
+1c da
+1    c
+1ab  d
+#2    c
+x    a
+b
+1 a c
+#3ab  d
+x a
+x b
+x d
+1abb d
+1abb d
+b
+#2 dff d
+x b
+x a
+x d
+2 bdca
+#3 a
+x b
+#3 d
+x b
+x a
+x  d
+b
+1 ab  a
+#3ab cd
+x a
+x b
+x d
+#2abb d
+xc
+xdbb d
+xa
+b
+#2 dff d
+x b
+x a
+x d
+2 bdca
+#3 a
+x b
+#3 d
+x b
+x a
+x  d
+b
+
+b
+2 ab  a
+#3  a
+x  b
+#3  d
+x  b
+x  a
+x   c
+1 daac
+1 abc a
+b
+#2 daac
+xa
+x d
+x b
+#3 ab  a
+x  a
+x   c
+x  a
+#3  b
+x  d
+x a
+x c
+b
+0 daac
+1 daac
+1 a
+b
+Ycaaac
+b
+b
+
+e

@@ -1,0 +1,206 @@
+-C
+-t
+-f
+{25. Holla he/25. Holla he}
+b
+c
+0  d
+#2  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+#2  aa
+x  bc
+x  de
+x  aa
+#2  bc
+x c
+x d
+x c
+b
+#2 dda
+x a
+x c
+x d
+#2acd a
+xccd a
+xdabc
+xacbc
+b
+#2cdda
+x a
+x  d
+x  b
+#2 ddef
+x d e
+x d e
+x cd
+b
+1 ac
+1  d
+#2 daa
+x  aa
+x  aa
+x  d e
+b
+
+b
+1  c c
+1  d a
+#2acd a
+xccd a
+xdabc
+xacbc
+b
+#2cdda
+xcdda
+xacd a
+xdabc
+#2cdda
+xcdda
+xacd a
+xdabc
+b
+1.cdda
+2cdda
+#2aab  d
+x db  d
+x ddca
+x cdca
+b
+#2 dda
+x  b
+x  a
+x   c
+#2 dda
+xd
+xc
+xa
+b
+#2cd
+xa
+xfc
+x  d
+1da
+1ac
+b
+#2cd
+x c
+#3 d
+x c
+x a
+x  d
+1ca
+1f d
+b
+
+b
+1fd
+1fd
+1df
+1c
+b
+1.  aa
+2   ce
+1  a c
+1  c c
+b
+#2  d a
+x a
+#3 c
+x a
+x  d
+x  b
+1  aa
+1  d e
+b
+1  bc
+1  aa
+1   ce
+1   a
+b
+1.cdda
+2acd a
+1cdda
+1ea c
+b
+2fc ca
+#3 d
+x a
+#2 c
+xcd
+1d
+1fcd
+b
+1da c
+1cd a
+2ac  a
+#3 d
+x c
+1 d a
+b
+
+b
+#2 dda
+x c
+x d
+xa
+#2 dda
+x a
+x c
+x d
+b
+#2acd a
+xccd a
+xdabc
+xacbc
+#2cdda
+xa
+x d
+x c
+b
+#2 ddef
+x da
+x da
+x cd
+1 ac
+1  d
+b
+#2 daa
+x  aa
+x  aa
+x  d e
+1  c c
+1  d a
+b
+#2acd a
+xccd a
+xdabc
+xacbc
+#2cdda
+xcdda
+xacd a
+xdabc
+b
+#2cdda
+xcdda
+xacd a
+xdabc
+1cdda
+#2cdda
+xcdda
+b
+
+b
+#2aab  d
+x db  d
+x ddca
+x cdca
+0 dda
+b
+b
+
+e

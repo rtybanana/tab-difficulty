@@ -1,0 +1,112 @@
+-C
+-t
+-f
+{318. Jig/R. Askue}
+b
+2c
+b
+.
+1 aa c
+2 d
+1 ca  c
+2cc  b
+b
+2. aa c
+3 c
+2 d
+1 ca  c
+2c  a
+b
+
+b
+2.f   a
+3d
+2c  a
+2. da c
+3    a
+2a    d
+b
+A1
+1.cc&Ue  c
+1 X
+2c
+.
+b
+b
+A2
+1.cc&Ue  c
+1 X
+2ca  c
+b
+.
+2.fc  a
+3d
+2c  a
+1 da c
+2a   e
+b
+
+b
+1cd a
+2da c
+1fd e
+2c  a
+b
+1h     a
+2 a
+1 da c
+2a    d
+b
+A1
+1.cc&Ue  c
+1 X
+2ca  c
+.
+b
+b
+A2
+0cc&Ue  c
+2 X
+#3e
+xf
+b
+
+b
+.
+1h     a
+2 a
+2. da c
+3a
+#3c
+xd
+b
+1f   a
+2  d
+2. c  a
+3 d
+2a
+b
+2.ca  c
+3a
+2 d
+2. ca  c
+3 a
+2 c
+b
+
+b
+A1
+1. aa c
+1      a
+#3e
+xf
+.
+b
+b
+A2
+1. aa c
+Y.      a
+b
+b
+
+e

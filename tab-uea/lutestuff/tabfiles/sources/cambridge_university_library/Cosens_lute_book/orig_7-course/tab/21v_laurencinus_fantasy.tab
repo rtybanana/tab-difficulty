@@ -1,0 +1,588 @@
+-C
+-t
+-f
+{John Bluncuilles last farewell/William Hollis}
+b
+c
+0aabcca
+2. efec
+3    a
+#3     d
+xaab
+2fc   c
+b
+1.da c
+2   a
+2abb d
+#3    c
+x    a
+1 efec
+b
+#2
+xa
+#3ca b
+x  d
+2  d
+#3aa c
+x  b
+2  b
+#3    c
+x f
+x e
+x c
+b
+#3 e
+x  f
+2  f
+1.fcd a
+2c
+#2d
+xf
+b
+1.hd f d
+2f
+#2h
+xk
+1lh k
+b
+
+b
+#2
+xh
+2i  h
+#3h
+xf
+1.h  f
+#3f
+xd
+b
+2fd e
+#3d
+xc
+1.da c
+#3c
+xa
+#2ca b
+x      a
+b
+2abb d
+#3d
+x    c
+#3    a
+xa
+xa
+x     d
+#2fc   c
+xc
+xda   a
+xa
+b
+2.cad   a
+3  b
+#3    c
+x f
+2 f
+2. ea   a
+3c
+#3h
+xa
+xc
+xf
+b
+
+b
+2.a c  a
+3 a
+#3a
+x a
+x c  a
+x  d
+#2aac
+x   c
+1     a
+b
+b
+3.aab  a
+#5   c
+x  a
+3.  b
+#5  b
+x  d
+3. a   a
+#5a
+xc
+3.d
+#5d
+xf
+2h
+4. ef c
+5 c
+#5 e
+x f
+x e
+x f
+#3 e
+x    a
+2aab  d
+b
+#3     c
+xc
+2f
+#3   c
+xa
+xd
+x   a
+#3ab  d
+x a
+#4 b
+x a
+x b
+x d
+1 efec
+b
+
+b
+#2
+xa
+4.ca b
+5a
+#5c
+xa
+xc
+xd
+#3c
+x  d
+4.aabc
+5  a
+#5  b
+x  a
+x  b
+x  d
+#3  b
+x   c
+4. e  c
+5 c
+#5 e
+x c
+x e
+x f
+#3 e
+x  f
+b
+2  f
+#4c
+xa
+xc
+xd
+1.fcd a
+2c
+#3d
+xc
+#4d
+xc
+xd
+xf
+b
+1.hd f d
+2f
+#3h
+xf
+#4h
+xf
+xh
+xi
+1lh k
+b
+2
+#3k
+xh
+#3   h
+xf
+xi
+xf
+1.h  f
+#3f
+xd
+b
+
+b
+#3   e
+xc
+xf
+xc
+1.da c
+#3c
+xa
+#3   b
+x a
+xc
+x    c
+b
+#3    d
+xa
+xd
+x    c
+#3    a
+xa
+xa
+x     d
+#3     c
+xc
+xf
+x c
+#3     a
+xa
+xd
+x a
+b
+#3      a
+x  d
+xc
+x  b
+#3    c
+x f
+x f
+x f
+2. ea c
+#5a
+xc
+xd
+xf
+2.h
+3f
+b
+
+b
+2.eff  a
+#5   c
+x  a
+x  b
+x  d
+2. a
+#4 c
+x d
+#3a
+x a
+x c
+x  d
+1aaccca
+b
+b
+1dab  d
+#2      d
+xcdd
+#3     a
+xd
+xc
+xa
+1 efec
+b
+#2
+xhd f d
+xf aa
+xhd f d
+1f aa
+1ha f
+b
+#2
+x
+x
+xha    a
+#2k
+xha f
+x
+x
+b
+#3f   a
+x     c
+xa    d
+x    a
+1 efec
+#2
+xi   a
+xh
+xf
+b
+
+b
+2da c
+#3c
+xa
+#2ca b
+x    c
+2abb d
+#3    c
+x    a
+#2 ea c
+x     d
+b
+#3    a
+xfc
+xd
+xc
+#3da c
+xc
+2a
+#3  b
+xa
+x  a
+x   c
+#3  a
+xa
+2   b
+b
+#3 a c
+x c
+x d
+x    c
+2a   d
+#3    c
+x    a
+2cd a
+#3    d
+x    c
+#3da c
+x    d
+2cdda
+b
+2.dab  d
+#4a
+xc
+#4d
+xc
+xd
+xc
+#4d
+xc
+xa
+xc
+0ddff d
+b
+b
+
+b
+1dab  d
+#2      d
+xcdd
+3     a
+#4c
+xd
+#4f
+xd
+xc
+xa
+1 efec
+b
+#4d
+xc
+xd
+xf
+2hd f d
+1f aa
+1hd f d
+3f aa
+#4h
+xk
+#3l
+xk
+b
+#3 d a
+x  a
+x    e
+x  d
+#3    c
+x  b
+2ha    a
+#2k
+xh  f
+#3f
+x     c
+x     d
+x    a
+b
+#2 efec
+x    d
+1    c
+#4f   a
+x i
+xf
+xh
+2i
+#2h
+xf
+b
+
+b
+3da c
+#4c
+xd
+#3c
+xa
+#3   b
+xca
+2    c
+3abb d
+#4    c
+x    d
+#3    c
+x    a
+#3    c
+x ea
+2     d
+b
+3fc  a
+#4d
+xf
+#3d
+xc
+#3da c
+xc
+2a
+3a b
+#4  a
+x  b
+#3  a
+x   c
+#3  a
+xa
+2   b
+b
+#4 a c
+x  d
+x a
+x c
+#3 d
+x    c
+#3    d
+xa
+x    c
+x    a
+#3   a
+x d
+x     d
+x     c
+#3da c
+x     d
+2cdda
+b
+
+b
+2dab  d
+#3a
+xc
+#4d
+xc
+xd
+xc
+#4d
+xc
+xa
+xc
+2.dab  d
+3c
+#2d
+xf
+b
+b
+#2h    d
+xf  a
+xd  c
+xc  a
+#2 d
+xa b
+x d e
+xf
+b
+#3d  c
+xa
+2ca a
+#2  d
+xa b
+#2 da
+x   a
+2   c
+#3  aa
+x  b
+b
+#2  d
+x  b
+x  a
+x   a
+0aa c
+b
+3.h    d
+4h
+#2f  a
+xda c
+3.c  a
+4c
+#3a
+x d
+xa
+x c
+#3   e
+x d
+xf
+xc
+b
+
+b
+3d  c
+#4c
+xa
+3.c  a
+4f
+#3a
+x d
+2aa c
+#3      a
+xh
+x      d
+xc
+#3d
+x     a
+x     c
+xf
+b
+#3a
+x     d
+2aa   a
+#3      d
+xc
+xf
+x     c
+#3     d
+xh
+xh
+x     d
+2c  a
+#3 a
+x  d
+b
+2abb d
+#3    c
+x    a
+2 efec
+#3    a
+x     d
+2 cdca
+#3 acc
+xa
+2. ea   a
+3c
+b
+#3h
+xa
+x ea   a
+xc
+#3 e
+xc
+x e
+xc
+#2aac  a
+x   c
+Y     a
+b
+b
+
+e

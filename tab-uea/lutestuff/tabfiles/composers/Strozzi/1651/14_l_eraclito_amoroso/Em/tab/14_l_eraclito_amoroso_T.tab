@@ -1,0 +1,450 @@
+-C
+-t
+-f
+{14. L'Eraclito amoroso/14. L'Eraclito amoroso}
+b
+C
+wacc   /a
+b
+0
+0acc   /a
+b
+0.acd a
+1acd
+b
+wacd a
+b
+wacb a
+b
+w da a a
+b
+0ba    a
+0bcc   /a
+b
+w
+b
+wbcc   /a
+b
+0ccd  c
+0 e
+b
+0aac  a
+0aac  a
+b
+0a e e
+0 ea c
+b
+w efe  //a
+b
+0 efe  //a
+0 dfe
+b
+w cc   /a
+b
+
+b
+#2
+x ca b
+#2 ea c
+x cd  c
+0 cc e
+b
+w ce  c
+b
+b
+wa c e
+b
+w ec c
+b
+0 cc a
+0  a
+b
+0  h ge
+0e g
+b
+wa c e
+b
+w ec c
+b
+0 cc a
+0  a
+b
+0  g ge
+0eeg
+b
+wa c e
+b
+w ec c
+b
+w cc a
+b
+0  g ge
+0e g
+b
+wa c e
+b
+w ec c
+b
+0 cc a
+0  a
+b
+0  g ge
+0e g
+b
+
+b
+wa c e
+b
+0. ec c
+1  a
+b
+0 cc a
+0  a
+b
+0 fhg e
+0eeg
+b
+wecc e
+b
+b
+w.a c e
+b
+w. ec c
+b
+0 cc a
+w  a
+b
+w. eg  e
+b
+w.a c e
+b
+w. ec c
+b
+0 cc a
+w  a
+b
+0 hg  e
+wehg
+b
+w.a c e
+b
+w. ea c
+b
+w. cdca
+b
+w. eg  e
+b
+w.ac  e
+b
+w. ea c
+b
+
+b
+w. cd a
+b
+w. eg  e
+b
+w.a c e
+b
+w. ec c
+b
+w. caba
+b
+w.  ggge
+b
+w.a c e
+b
+0 ed c
+w  c
+b
+0 cc a
+w  a
+b
+w.  ggge
+b
+w.a c e
+b
+w. ea c
+b
+w. cd a
+b
+w.  ggge
+b
+w.a c e
+b
+0 ea c
+w  c
+b
+w cc a
+0  a
+b
+w.  ggge
+b
+w.a c e
+b
+w. ea c
+b
+
+b
+w.ac  a
+b
+w.eef  e
+b
+w.a c e
+b
+w. ec c
+b
+w. cdca
+b
+w. ec  e
+b
+b
+C
+0 cc e
+0      /a
+b
+0
+0 cc e
+b
+w ccd  /a
+b
+0 cd  c
+0 e
+b
+0aac  a
+0aac   6
+b
+0 cec  /a
+0 ea   //a
+b
+0 ea   //a
+0 dfec
+b
+wcdf   //a
+b
+wecc   /a
+b
+#2
+x ca b
+#2 dc c
+x cd  c
+0ecc   /a
+b
+wcce  c
+b
+b
+
+b
+w.a c e
+b
+w. ec c
+b
+w cc a
+0  a
+b
+w.  ggge
+b
+0a c e
+0c
+0e
+b
+0eec c
+0 e
+0e
+b
+0 cd a
+0. b
+1 c
+b
+w eg  e
+0e
+b
+w.a c e
+b
+w. ec c
+b
+w. cdca
+b
+w. eg  e
+b
+w.a c e
+b
+w.c a c
+b
+w.c d a
+b
+w.eeg  e
+b
+0a c e
+w  d
+b
+
+b
+0 dd c
+w  c
+b
+0 ccca
+w  a
+b
+0 aa  e
+w   c
+b
+w.a c e
+b
+wc a c
+0 e
+b
+0 ea a
+w c
+b
+w ef  e
+0e
+b
+0aa  e
+w  d
+b
+0 ed c
+w  c
+b
+0 cc a
+w  a
+b
+w. eg  e
+b
+w.a c e
+b
+w.a c c
+b
+w.cc  a
+b
+w eh  e
+0  g
+b
+0a c e
+0c
+0e
+b
+
+b
+0eec c
+0 e
+0e
+b
+0 cd a
+0. b
+1 c
+b
+w eg  e
+0e
+b
+w.a c e
+b
+w.ce  c
+b
+w.acd a
+b
+w eh ge
+0  g
+b
+w.a c e
+b
+w. ec c
+b
+0. cd a
+1  c
+0  a
+b
+w.  ggge
+b
+w.a c e
+b
+w.ce  c
+b
+w.cc  a
+b
+w.eeg  e
+b
+w.a c e
+b
+w.a c c
+b
+w.acd a
+b
+
+b
+w fh  e
+0 eg
+b
+w.a c e
+b
+w.a c c
+b
+w.acd a
+b
+0 fh  e
+0 eg
+0 fg
+b
+w.a c e
+b
+w.ee  c
+b
+0fc  a
+wc
+b
+0eeh  e
+w  g
+b
+w.ecc   /a
+b
+b
+C
+0ac    ///a
+1 cd a
+1aa   e
+b
+0ccd  c
+0 e
+b
+1ea   a
+1ca    a
+0bcc   /a
+b
+wb c e
+b
+0ccde
+0     c
+b
+
+b
+1ccde
+1acd
+1a d e
+1cdda
+b
+1a d   /a
+1cdd   a
+0aa   a
+b
+wacd   ///a
+b
+0acd a
+0aa   e
+b
+w a c e
+b
+1a c e
+1aacc
+1 ec d
+1a c e
+b
+1acc  a
+1     c
+1 eh  e
+1  g
+b
+wecc   /a
+b
+b
+
+e

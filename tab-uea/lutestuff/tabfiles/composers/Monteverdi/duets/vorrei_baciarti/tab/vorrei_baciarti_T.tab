@@ -1,0 +1,427 @@
+-C
+-t
+-f
+{Vorrei baciarti/Vorrei baciarti}
+b
+C
+0a\2c\3d a
+0      ///a
+b
+0 \4da a a
+1 a\3d  a
+1  \2c
+b
+0 \2c&{\3d\1c  ///a
+0    a
+b
+wacd   ///a
+b
+0\2c\4dd   a
+1.aa\2c  a
+2 \4d
+b
+w \2c\3d\1ca
+b
+w\4f\1c&{\2d   ///a
+b
+1\2ed\3f&{   //a
+1c d&}
+0\1b \2c&{   /a
+b
+0ccd  c
+0   e
+b
+0\4f\2daa
+0      a
+b
+1\1d\4f\1f&{  a
+1 d
+1cce&}  c
+1   \2e
+b
+0 \4e&{a \1c&(
+0      //a
+b
+0 ea c
+1\2c \3d   //a
+1a \1c
+b
+
+b
+0 \4ea \1c
+1\2c \3d   //a
+1a \1c
+b
+0\2caa \1c
+0\4ea   a
+b
+0f\1c  a
+0      ///a
+b
+0\1c\2d\4f   a
+0  \3dU
+b
+0aa   a
+0  \1c
+b
+0 \2c&{\3d\1c&(a
+0      ///a
+b
+0acd a
+0 } c
+b
+0 cdca
+0   )  ///a
+b
+0 a\2c  a
+1   c
+1 \2c
+b
+1 \3da \1c
+1\2c
+1c \3d&{  \1c
+1a
+b
+0 \4dda
+0 \2da \1c
+b
+0 cf  c
+0  ee
+b
+0ce  c
+0      //a
+b
+
+b
+0ea   a
+1fc  a
+1hf g a
+b
+0kf ha
+0 cdc  ///a
+b
+0 cd  c
+0c de
+b
+0ec de
+0      /a
+b
+0cce  c
+0   e
+b
+0. aab  //a
+1 ce  c
+b
+0 aabc
+0      //a
+b
+1 ac  a
+#2 cd a
+xa
+0aac  a
+b
+0 cdca
+0 ac  a
+b
+0 cdca
+0      ///a
+b
+0 cdca
+0a     ///a
+b
+0a c  a
+0 cd  c
+b
+0 ccc  /a
+1 c c  ///a
+#2 a c e
+x  d  c
+b
+
+b
+0  cde
+0  de
+b
+1fc   c
+1ec   a
+1c d   a
+#2ff  e
+xed  c
+b
+1fc   c
+1e
+1cd  c
+1a
+b
+1 da c
+1  c
+1 cde
+#2   c
+x dfa
+b
+1ac  e
+#2 dfa
+x cd
+1 acc
+#2   a
+x cd e
+b
+0 da c
+1 cde
+1   c
+b
+1c da
+1a c e
+1 da c
+#2 c  a
+x a   e
+b
+1  ee c
+1     a
+1 aa   a
+#2a     /a
+x d    //a
+b
+
+b
+0 c   c
+0cca
+b
+1cda c
+1    a
+1 a   e
+1ccd  c
+b
+1a c  a
+1  a   a
+1   c  /a
+#2 da   //a
+x c    ///a
+b
+1 ac  a
+#2 cd
+x d
+1aa    6
+1     a
+b
+w cdc  ///a
+b
+w ccd  /a
+b
+0ec de
+0ec d
+b
+0ec de
+0 ccd
+b
+w ce  c
+b
+0 ce   5
+0 ce  c
+b
+0 ce   5
+0 ce  c
+b
+0 efe  //a
+0ce  c
+b
+0 ce  c
+0cdf   //a
+b
+
+b
+0cd  c
+0fc e
+b
+0     c
+1a c   /a
+1c
+b
+1ea   a
+1a c
+1 da c
+1a
+b
+1cd    //a
+1e
+1fc   c
+1e
+b
+0ccde
+1ea c
+1a
+b
+0aac  a
+0 da c
+b
+1 da   //a
+1a
+1c d  c
+1e
+b
+0fca
+1ef  e
+1
+b
+1ac  a
+1c
+1ea c
+#2c  a
+xa d e
+b
+0 da c
+1 cde
+1   c
+b
+
+b
+1c da
+1a   e
+1 d  c
+#2 c  a
+x a   e
+b
+1  d ec
+1     a
+1c d   a
+#2ea    /a
+x      //a
+b
+0cc   c
+0      5
+b
+0ce    //a
+0    c
+b
+0aac  a
+0   c
+b
+0 cdca
+1cdf   a
+1 cd
+b
+0aa   a
+0  c
+b
+wacd a
+b
+1 cd
+1a
+1 dff
+1d f
+b
+1fca
+1c d
+1ea c
+1a c
+b
+1c da
+1 da
+1a c e
+1 c c
+b
+
+b
+1 da c
+1 a a
+1 c ca
+1a d
+b
+1c     a
+1 d   c
+1 a   a
+1  c
+b
+1 cd
+1a
+1 dff
+1d f
+b
+1fca
+1c d
+1ea c
+1a c
+b
+1c da
+1 da
+1a c e
+1 c c
+b
+1 da c
+1 a a
+1 c ca
+1  d e
+b
+1 da c
+1 a a
+1 c ca
+#2  a
+x d
+b
+0a c  a
+0aa c
+b
+1 cd
+1a
+0 dff
+b
+
+b
+1fca
+1  d
+1ea c
+#2  d
+x  c
+b
+1c da
+1  a
+1a c e
+#2  a
+x   c
+b
+1 da c
+1  ca
+1 cdca
+1a
+b
+0 da c
+0 cdca
+b
+0 ac  a
+0  d ec
+b
+1 ac  a
+1 c
+0 da   a
+b
+0 cd  c
+1a c   /a
+#2acd
+x      a
+b
+1aa   a
+1
+0  c
+b
+w cdca
+b
+w cdc  ///a
+b
+0 da   a
+0c
+b
+1   a
+1a
+1cd
+1ac
+b
+
+b
+0aa c a
+0      6
+b
+Y cdc  ///a
+b
+b
+
+e

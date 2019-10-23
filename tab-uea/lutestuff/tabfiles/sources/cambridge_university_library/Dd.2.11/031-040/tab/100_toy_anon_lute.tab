@@ -1,0 +1,112 @@
+-C
+-t
+-f
+{100. A toy/Anonymous}
+b
+2 a
+b
+.
+1a    a
+2 a
+1 c  a
+2 a   e
+b
+1 cd  c
+2 e
+1a c  a
+2a c e
+b
+1 e  c
+2 a   e
+1 cd a
+2  e  c
+b
+A1
+1 aa   /a
+2    c
+1      /a
+2 a
+.
+b
+b
+A2
+1 aa   /a
+2    c
+1      /a
+2c
+b
+.
+#2 e  c
+x  f
+x   e
+1    c
+2a
+b
+#2 c  a
+x  d
+x   c
+1    a
+2 c
+b
+
+b
+#2 a   e
+x   d
+x  de c
+2.  cde
+3   e
+2   d
+b
+A1
+1 ce  c
+2   e
+1     c
+2c
+.
+b
+b
+A2
+1 ce  c
+2   e
+1     c
+#3 e
+x f
+b
+.
+#2c     /a
+x e
+x  f
+1    c
+#3 c
+x d
+b
+#2a   a
+x c
+x  d
+1 cd a
+2 a   e
+b
+2. cd  c
+3 e
+2a c  a
+#2      /a
+x ff
+x e
+b
+A1
+1a    a
+2    c
+1     a
+#3 e
+xa
+.
+b
+b
+A2
+1a    a
+2    c
+1.     a
+b
+b
+
+e

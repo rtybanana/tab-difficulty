@@ -1,0 +1,491 @@
+-C
+-t
+-f
+{66. Gailliarda / La mesme, autrement/66. Gailliarda / La mesme, autrement}
+b
+#2a
+xc
+b
+1dabc
+#2     a
+xd
+1cdda
+1abb d
+1 daac
+1 bdca
+b
+1 aba d
+#2   a
+x b
+#2 a
+x  d
+1 ab  d
+1   a
+1aabc
+b
+1 ea c
+1abb d
+1cdda
+1aabc
+1abd a
+1 ea c
+b
+1aac  a
+#2   c
+x  d
+#2  c
+x  a
+1aac  a
+1   c
+#2a
+xc
+b
+
+b
+1dabc
+#2     a
+xd
+#2c  a
+xd
+xa   d
+xc
+#2 da c
+xa
+x b  a
+x d
+b
+1 ab  d
+#2   a
+x b
+#2 a
+x  d
+1 ab  d
+1   a
+1aabc
+b
+#2 ea c
+xa
+xc
+xd
+#2c  a
+xd
+xa   a
+xc
+#2 ea c
+xa
+x c
+x e
+b
+1aac  a
+#2   c
+x  d
+#2  c
+x  a
+1aac  a
+1   c
+1aabc
+b
+#2aabc
+x  a
+x  b
+x  d
+1aabc
+1  aa
+#2a b d
+x  a
+x  b
+x  d
+b
+
+b
+1cef c
+#2   e
+x f
+#2 e
+x c
+1cef c
+1   e
+#2da c
+x c
+b
+1c  a
+1 a
+#2ab  d
+x  d
+1 da c
+1  b
+#2 b  a
+x  d
+b
+1 ab  d
+#2   a
+x a
+1  def
+1 ab  d
+#2  def
+x   f
+x    f
+x   e
+b
+1 ab  d
+#2   a
+x b
+#2 a
+x  d
+1 ab  d
+1   a
+1aabc
+b
+1 ea c
+1abb d
+1cdda
+1 a
+#2a bcd
+x  a
+x  b
+x  d
+b
+
+b
+1cef c
+#2   e
+x f
+#2 e
+x c
+1 ef c
+#2 c
+x e
+1aac  a
+b
+1.acd a
+2 a
+#2 cdca
+x d
+1aab  a
+1aaa c
+1 e
+b
+1aac  a
+#2   c
+x c
+#2 a
+x  d
+1aac  a
+1   c
+1aabc
+b
+#2aabc
+x  a
+x  b
+x  d
+#2   c
+xaab
+x   a
+x  a
+#2a bcd
+x  a
+x  b
+x  d
+b
+1cef c
+#2   e
+x f
+#2 e
+x c
+1cef c
+1   e
+#2da c
+x c
+b
+
+b
+1cd a
+1    c
+#2ab  d
+x  d
+1 da c
+1     d
+#2 b  a
+x  d
+b
+1 ab  d
+#2   a
+x a
+#2  def
+x a
+x  bcd
+x  d
+#2   ef
+x   f
+x    f
+x   e
+b
+1 ab  d
+#2   a
+x b
+#2 a
+x  d
+1 ab  d
+1   a
+1aabc
+b
+1 ea c
+1abb d
+1cdda
+1 a  c
+1abb d
+1    a
+b
+1cef c
+#2   e
+x f
+#2 e
+x c
+x e  c
+x  f
+#2 c
+x e
+xaac  a
+x d
+b
+
+b
+1 cd a
+#2  d
+x a
+#2 c  a
+x d
+xa    a
+x  b
+#2  a c
+x   c
+x   b
+x  d
+b
+1.aac  a
+2  d
+#2  c
+x  a
+1aac  a
+1   c
+#2a
+xc
+b
+1dabc
+#2     a
+xd
+1cdda
+1abb d
+#2 da c
+xa
+1 bd a
+b
+1 ab  d
+#2   a
+x b
+#2 a
+x  d
+1 ab  d
+1   a
+1aabc
+b
+1 ea c
+1abb d
+#2c  a
+xd
+xa   a
+x  b
+2 efec
+#3 f
+x e
+#3 f
+x e
+x c
+x e
+b
+
+b
+1aac  a
+2   c
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+1aac  a
+1   c
+#2a
+xc
+b
+1dabc
+#2     a
+xd
+#2c  a
+xd
+xa   d
+xc
+#2 da c
+xa
+x b  a
+x d
+b
+1 ab  d
+2   a
+#3 d
+x b
+#3 a
+x  d
+x  b
+x  a
+1 ab  d
+1   a
+1aabc
+b
+#2 ea c
+xa
+xc
+xd
+#2c  a
+xd
+xa   a
+x  b
+#2   ec
+x   c
+x   ec
+x e
+b
+
+b
+2aac  a
+#3 d
+x c
+#3 d
+x c
+x a
+x  d
+#3 a
+x  d
+x  c
+x  a
+1aac  a
+1   c
+1aabc
+b
+2.aabc
+3  a
+#3  b
+x  a
+x  b
+x  d
+1aabc
+1  aa
+2a bcd
+#3  a
+x  b
+#3  d
+x  a
+x  b
+x  d
+b
+1cef c
+#2   e
+x f
+#2 e
+x c
+1cef c
+1   e
+#3da c
+xa
+xc
+xd
+b
+1c  a
+1 a
+#3a   d
+x b
+x d
+xa
+1 d  c
+1  b
+#3 b  a
+x  d
+x a
+x b
+b
+
+b
+1 ab  d
+#2   a
+x a
+#2  def
+x a
+x  bcd
+x  d
+#2   ef
+x   f
+x    f
+x   e
+b
+1 ab  d
+#2   a
+x b
+#2 a
+x  d
+1 ab  d
+1   a
+1aabc
+b
+1 ea c
+1abb d
+1cdda
+1 a
+2a d d
+#3c
+xd
+#3f
+xd
+xc
+xa
+b
+1cef c
+#2   e
+x f
+#2 e
+x c
+x e  c
+x  f
+#2 c
+x e
+xaac  a
+x d
+b
+
+b
+2. cdca
+3 a
+#3 c
+x a
+x c
+x d
+#2 cd a
+x d
+xa    a
+x  b
+#2 efec
+x f
+2 e
+#3 c
+x e
+b
+1aac  a
+#2   c
+x  d
+#2  c
+x  a
+1aac  a
+1   c
+b
+b
+
+e

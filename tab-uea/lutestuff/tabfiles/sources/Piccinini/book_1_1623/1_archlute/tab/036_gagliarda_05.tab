@@ -1,0 +1,304 @@
+-C
+-t
+-f
+{36. Gagliarda 5/36. Gagliarda 5}
+b
+1  ac
+1  ca
+1  e e
+b
+.
+0. aaac
+1 c
+1 d
+1a
+b
+1c  a
+1 a
+1a   e
+1  d
+1 d  c
+1  c
+b
+0. cd a
+1a f
+1c d
+1e c
+b
+1f a
+1     c
+0ec de
+0caaa
+b
+0. ghge
+1 c  a
+1 d  c
+1a   e
+b
+0caaa
+1  hge
+1 h
+1 g
+1  f
+b
+
+b
+0.cce  c
+#2a
+x d
+1 c
+1 a
+b
+0. cee
+1  ac
+#2  ca
+x  a
+x  c e
+x  e
+b
+1 aaac
+#2    e
+x   a
+#2   c
+x  a
+x  c
+x  e
+#2 a
+x c
+x d
+xa
+b
+1c  a
+1 a
+1a   e
+1  d
+#2 d  c
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+1 cd a
+#2 a
+x  d
+#2  c
+x  a
+x   c
+x   a
+#2    e
+x    c
+x    a
+x     e
+b
+
+b
+#2f    c
+x     e
+x    a
+x    c
+#2e   e
+x   a
+x   c
+x    e
+#2c  a
+x   e
+x   c
+x   a
+b
+0. ghge
+#2c   a
+xa
+1 e  c
+#2f   e
+xe
+b
+1c  a
+#2h    h
+xf
+1eh  e
+#3 g
+x e
+x g
+x h
+1 gh
+1  f
+b
+0.cce  c
+1h
+1f
+1e
+b
+1.c
+2a
+1c
+1 a
+1e d
+1  c
+b
+1.f a
+2   c
+1  a
+1f  e
+1e  c
+1c  a
+b
+
+b
+1.a   e
+2 d  c
+1a   e
+1 cd  d
+1 df  c
+1ac   a
+b
+1.cd    a
+2d
+1c
+1cd
+1ac
+1 df
+b
+1. ce
+2 ac
+1 ce
+1  e c
+1 a  a
+1 c   d
+b
+1. d   c
+2c    a
+1a    c
+1 d    //a
+1 c    /a
+1 aa   a
+b
+1a c  a
+1 dd  c
+1 cf  d
+1 ah  a
+1. ce  c
+#3  c
+x  e
+b
+0 aa c
+w      //a
+b
+0 da c
+0 ca b
+0hhi  h
+b
+0ghhe
+1.hhf g
+2f
+0effc
+b
+
+b
+1fd e c
+#3   f
+x   e
+x   c
+x   a
+0 d ca
+0ac    ///a
+b
+w.cdd   a
+b
+0cdda
+0a   e
+0 dc c
+b
+0 cd a
+1  d
+1 a
+1 c
+1 d
+b
+1a    e
+1    a
+1 da c
+#2 c
+x d
+1 c c a
+1 a a
+b
+0.  eeec
+1 df
+0 ce
+b
+1f  e
+#2c
+xe
+1f    c
+1e
+1c   c
+1 a
+b
+1d  c
+#2  b
+x  d
+1 a   a
+1c d
+1a b
+1 da
+b
+
+b
+1 cdca
+#2     c
+x     d
+1    a
+1 cd  d
+1 df  c
+1ac   a
+b
+1cdd   a
+#2 a
+x c
+1 d
+1ac
+1 df
+1 cd
+b
+1aac  a
+#2   c
+x   a
+1    e
+1 d  c
+1 c  a
+1 a   e
+b
+1cce  c
+#2a
+x d
+1 c
+#2 a  e
+x    c
+1 c  b
+1 d  c
+b
+1 ce  c
+#2     a
+x      a
+1 af   /a
+1      //a
+1ccf  c
+#2  e
+xa
+b
+A1
+0. efec
+1  ac
+1  ca
+1  e e
+.
+b
+b
+A2
+w efec
+0      //a
+b
+b
+
+e

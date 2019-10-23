@@ -1,0 +1,149 @@
+-C
+-t
+-f
+{274. Polish dance 1/274. Polish dance 1}
+b
+c
+#2 ff h
+xf
+xeffc
+xcef c
+b
+.
+#3ac  e
+xe
+xc
+xa
+#2cef
+x    c
+#2aacc a
+xcaabc
+#3ea c a
+xc
+2ac  e
+b
+#2cdda
+xea  c
+1fcd a
+2kf h f
+#3h
+xf
+#2hf g
+xffhh
+b
+#2fhi f
+xef c
+1fcd a
+2ef c
+#3c
+x f
+2cf ec
+#3 e
+xf
+b
+
+b
+#2ef c
+xc
+#3f    a
+xe
+xc
+xa
+2c   a
+#3a
+x  c
+#3 aa c
+x   c
+x  a
+x   b
+b
+A1
+2aac  a
+#3   c
+x  d
+1aac  a
+#2 ff h
+xf
+xeffc
+xcef c
+.
+b
+b
+A2
+2aac  a
+#3   c
+x  d
+#2aac  a
+xea c a
+1fcd a
+#2hff h
+xf
+b
+.
+2ea c a
+#3c
+xa
+#2caa c
+xea c
+1fcd a
+1hf gh
+b
+2kf h f
+#3   h
+xh
+#2ffh
+xef c
+#2ccde
+x   c
+2c da
+#3  c
+x  a
+b
+
+b
+#2 ccde
+xc
+xecc
+xc
+#2ec de
+xfc e c
+xecc e
+xccd  c
+b
+#2eccde
+xfc e c
+xecc e
+xccd  c
+#2cef c
+xeff  a
+xcef c
+xaac  a
+b
+#2cef c
+xaac  a
+2c d a
+#3a
+x  c
+#3 aa c
+x   c
+x  a
+x   b
+2aac  a
+#3   c
+x  d
+b
+A1
+1.aac  a
+2ea c a
+1fcd a
+#2hff h
+xf
+.
+b
+b
+A2
+Yaac  a
+b
+b
+
+e

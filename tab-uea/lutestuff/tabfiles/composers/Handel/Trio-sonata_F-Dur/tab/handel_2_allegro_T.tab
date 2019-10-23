@@ -1,0 +1,289 @@
+-C
+-t
+-f
+{/}
+b
+C
+2
+b
+#2
+x d a
+x da
+x d a
+#3 db
+x c
+2 d a
+#2  a
+x\1c  a
+b
+#3a   e
+x d
+x c  a
+x d
+#2a   e
+x c  a
+#3  da
+x a
+2 c  a
+#2    e
+x c  a
+b
+#2 \2d a
+xa \1d
+x \2d\4f
+x a\1b
+#2  \3d
+x \2c \1c
+x  \1d\3e
+x    \2e
+b
+#2   a
+x  b a
+x  a c
+x a   d
+#2   ca
+x  b  a
+x  a  c
+x  d   /a
+b
+
+b
+#2      a
+x a   d
+x   ca
+x  \2d
+#3      a
+x \3d
+x \1c a
+x \3d
+#3  \2d\4e
+x \3d
+x \1c a
+x \3d
+b
+#2  \2d \3e
+x  d \1c
+x    \3e
+x c  a
+#2  a c
+xc  a
+xa  c
+xa  a
+b
+#2    e
+x c  a
+x a a
+x  a c
+#3  c  a
+x  a
+x  \2c  \1c
+x  \3d
+#2 a   \4e
+x  c  a
+b
+#2   ca
+x  d
+x    c
+x  c
+#2  d e
+x    c
+x    e
+xa   a
+b
+1 dfa
+#2
+x df c
+1 acc
+#2
+x cc e
+b
+1 cde
+#2
+x  d  c
+#3 a  c
+x  a
+x  c a
+x  d
+#2 a   e
+x  c  a
+b
+
+b
+#2   ca
+xa   e
+#3 d a
+x c
+2 a c
+#2  de
+x    c
+x  cc
+x a   e
+b
+#2a   a
+xc  a
+xa  c
+x d   a
+#3     c
+x c
+x a  c
+x  d
+#2  c  a
+x   c e
+b
+#2    a
+x  a   a
+2   c a
+#3a
+x d
+#2 c   c
+x  a
+x ac
+xa    e
+b
+2    a
+#3 d a
+x c
+#2 a c
+xa    a
+1.ac  a
+2
+.
+b
+b
+.
+#2
+x  d a
+x  d e
+x  d a
+#3  da
+x a
+x c  a
+x d
+#2a   e
+x c  a
+b
+
+b
+#2 a   a
+x  \4d  \2c
+x a   \3d
+x b  a
+#2 a  c
+x ea
+xa b
+x a \1b
+b
+#2   \2c
+x  \4d \2c
+2    \3d
+#3  \2b   b
+x  a
+2  \2b  a
+#3  a  \3c
+x     a
+#2      b
+x e  c
+b
+#2a    a
+x b  a
+x  a c
+x a
+#3   c
+xa
+x ea
+xa
+#2 ab
+xa  c
+b
+#2    e
+x d  c
+xa   e
+x c  a
+1 dda
+#2
+x  d  c
+b
+#2 d   d
+x a   c
+x  b  a
+x a   d
+#2   ca
+x cd
+x da
+xc   a
+b
+1aab
+#2
+x a c d
+1  dca
+#2
+xcc  a
+b
+
+b
+1cd  c
+#2
+xaa c
+1a d e
+#2
+xac  a
+b
+1 dda
+#2
+xcd  c
+1a d e
+#2
+x cde
+b
+#2 aa c
+x  d  c
+x  b  d
+x a   a
+#2 c  a
+x d  c
+xa   e
+x c  a
+b
+#2  da
+x ab
+#3  d
+x  b
+x  a a
+x   \2c
+#2   a\1c
+x \3d   a
+x \2c  a
+x  \3d \4e
+b
+#2   a
+x  d  c
+x a   d
+xa   a
+2 d  c
+#3 c c
+x a
+#2 c  a
+x  d e
+b
+#2   a
+x ab
+x  d
+x  b a
+#2  a c
+x   a
+x   ce
+x c  a
+b
+
+b
+#2 d a
+x  d  c
+x a   d
+x  dca
+1.  de  a
+2
+.
+b
+b
+P
+e

@@ -1,0 +1,98 @@
+-C
+-t
+-f
+{160. Estendu parmi ces fleurs/160. Estendu parmi ces fleurs}
+b
+c
+1 cde
+1cdf c
+0 ccde
+b
+#2ycde c
+x     e
+x     f
+x    c
+0 ghge
+b
+1ccd  c
+1  cde
+1 ddef
+1 cd a
+b
+#2 da c
+x    a
+x a   d
+x   c
+0 cee c
+b
+1acd
+1 ac
+0 cde
+b
+0 ccd
+#2  de
+x  f
+1  cc
+b
+1c aa
+1 a
+0bcc e
+b
+
+b
+1 cde c
+1 ccde
+1 ddef
+1 cdca
+b
+#2 aaac
+x    e
+xc  a
+x a
+1 ccee
+1   d
+b
+0 cee c
+1acd
+1aac
+b
+b
+0 cde
+0 ccd
+b
+#2  de
+x  f
+1  cc
+1c  a
+#2 a
+x  d
+b
+#2 a
+x c
+x   a
+x a
+0 ghge
+b
+#2fc e c
+xc
+xe   e
+xf
+1cdda
+1acd a
+b
+
+b
+#2 da c
+xa
+xca a
+x  d
+#2 ccde
+x   e
+x ccee
+x   d
+b
+Y cee c
+b
+b
+
+e

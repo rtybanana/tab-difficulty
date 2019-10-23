@@ -1,0 +1,378 @@
+-C
+-t
+-f
+{149. La mi sola/Miguel de Fuenllana}
+b
+c
+w   c
+b
+0 a c
+0    c
+b
+0  aa
+0  d
+b
+0  bc
+0a
+b
+0  b
+0 a c
+b
+0 df c
+0  aa
+b
+1a b d
+1  b
+1  d
+1    c
+b
+1    a
+1 a
+1ab  a
+1  d
+b
+0 a   d
+1 d  c
+1    c
+b
+1a b d
+1    d
+1 d   d
+1  b
+b
+1  a c
+1 c
+0 a a
+b
+
+b
+1   cd
+1 a
+0  d
+b
+0 aa c
+0  b  a
+b
+1 a   d
+1  a
+0 a c
+b
+1  d  c
+1   c
+0   b
+b
+0  cc a
+0   c
+b
+0 a
+0    c
+b
+0  aa
+0  d
+b
+0  bc
+0a
+b
+0  b
+0 a c
+b
+0 df c
+0  aa
+b
+0a d d
+0  b c
+b
+0 ea
+0a  c d
+b
+0  a a
+0 e  c
+b
+0a  c a
+1 df  d
+1     d
+b
+
+b
+1    c
+1 bd
+1 ab  a
+1  de
+b
+1 abc
+1  b
+1  def
+1 ab
+b
+1  de
+1  b
+1  bc
+#2  a
+x   c
+b
+1  a c
+1   c
+0   b
+b
+0   c a
+0a
+b
+1  bc
+1a
+1 a
+1 abc
+b
+1 da c
+1    c
+1   a
+1  a
+b
+0 b ca
+0 a bc
+b
+1   cd
+1 a
+0  d
+b
+0 aa c
+0  b  a
+b
+1     d
+1  a
+0   c
+b
+
+b
+1     c
+1   c
+0   b
+b
+0   c a
+0a
+b
+1  bc
+1a
+1 a
+1 abc
+b
+1 da c
+1    c
+1   a
+1  a
+b
+0 b ca
+0 a bc
+b
+1   cd
+1 a
+0  d
+b
+0 aa c
+0  b  a
+b
+1     d
+1  a
+0   c
+b
+1     c
+1   c
+0   b
+b
+0   c a
+0   c
+b
+0 a
+0    c
+b
+0  aa
+0  d
+b
+
+b
+0  bc
+0a
+b
+0   c
+0 a c
+b
+0 df c
+0  aa
+b
+1a b d
+1  d
+0 df  d
+b
+1    c
+1 cd
+1 ab
+1  a
+b
+1   cd
+1 a
+0  d
+b
+1 aa c
+1  a
+0  b  a
+b
+1     d
+1  a
+0   c d
+b
+1     c
+1   c
+0   b
+b
+0   c a
+0   c
+b
+1   c
+1  a
+1  b  a
+1  de
+b
+
+b
+1  b
+1  d  c
+1 ab  d
+1 c  a
+b
+0 ea c
+0a  cd
+b
+1  a c
+1   c
+0 ea
+b
+0a  c a
+1 df  d
+1     d
+b
+1    c
+1 bd
+1 ab  a
+1  de
+b
+1 abc
+1  b
+1  def
+1 ab
+b
+1  de
+1  b
+1  ac
+1   c
+b
+1  a c
+1   c
+0   b
+b
+0   c a
+0a
+b
+0   c
+0 a
+b
+0 df c
+0  aa
+b
+
+b
+1a b d
+1  b
+1  d
+1    c
+b
+1    a
+1 a
+1ab  a
+1  d
+b
+0 a   d
+1 d  c
+1    c
+b
+1a b d
+1    d
+1 d   d
+1  b
+b
+1  b c
+1 c
+0 a a
+b
+1   cd
+1 a
+0  d
+b
+0 aa c
+0  b  a
+b
+1 a   d
+1  a
+0 a c d
+b
+1  d  c
+1   c
+0   b
+b
+0  cc a
+0   c
+b
+0 a
+0    c
+b
+0  aa
+0  d
+b
+
+b
+0  bc
+0a
+b
+0  b
+0 a c
+b
+0 df c
+0  aa
+b
+0a d d
+0  b c
+b
+0 ea
+0a  c d
+b
+0  a a
+0 e  c
+b
+0a  c a
+1 df  d
+1     d
+b
+1    c
+1 bd
+1 ab  a
+1  de
+b
+1 abc
+1  b
+1  def
+1 ab
+b
+1  de
+1  b
+1  ac
+1   c
+b
+1  a c
+1   c
+0   b
+b
+w   c a
+b
+Y
+b
+b
+
+e

@@ -1,0 +1,157 @@
+-C
+-t
+-f
+{Pavane 7/Pavane 7}
+b
+c
+0 d a
+b
+0 c  a
+#2 d
+x c
+x a
+x c
+b
+#1 d a
+x a
+x c
+x d
+b
+#1a b d
+xc
+xd
+xc
+b
+
+b
+#1a   a
+x d
+x c
+x a
+b
+0 c  a
+0 d  c
+b
+#1    a
+x c
+#2 d
+x c
+x a
+x c
+b
+0 d
+0   a
+b
+0   a
+0c
+b
+#1ac  a
+x d
+xa
+x c
+b
+
+b
+1 da c
+#2 c
+x d
+#2a
+x d
+x c
+x a
+b
+0 cd
+0    a
+b
+0    a
+0c  a
+b
+0a  c
+#1   a
+xab
+b
+#1 da c
+x   c
+x  a
+x  c
+b
+0 cd
+0    a
+b
+
+b
+#1 cd a
+x a
+x c
+x d
+b
+0a
+0  b
+b
+0    d
+0a
+b
+0c da
+0da   d
+b
+#1d
+xc
+xa
+x d
+b
+0 cd a
+0 da
+b
+
+b
+#1   ca
+x c
+#2 d
+x c
+x a
+x c
+b
+0 d
+0   a
+b
+0 d a
+#2 c
+x a
+x c
+x d
+b
+0a
+0    d
+b
+0  b d
+0a
+b
+0c da
+#1d    d
+xc
+b
+
+b
+#1da   d
+xc
+xa
+x d
+b
+0 cd a
+0 d ac
+b
+#1   ca
+x c
+#2 d
+x c
+x a
+x c
+b
+0 d
+0   a
+b
+Y   a
+b
+b
+
+e

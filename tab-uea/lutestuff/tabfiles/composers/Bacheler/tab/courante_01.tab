@@ -1,0 +1,296 @@
+-C
+-t
+-f
+{Courante 1/Courante 1}
+b
+1 d
+b
+1ac
+1  d
+1bd
+b
+1.d  f
+2  d
+1d e
+b
+1f d
+1   a
+1      a
+b
+0 dedb
+#2a   a
+xb
+b
+0d  a d
+1f    c
+b
+1dde  d
+0bdda
+b
+0acd
+1    a
+b
+0      //a
+1 dda
+b
+1a d e
+1    a
+1bdda
+b
+1.d  a d
+2    a
+1d   b
+b
+0f dca
+1      //a
+b
+
+b
+0 dedb
+#2a   a
+xb
+b
+0da a d
+1acd a
+b
+1bdd   a
+1.a dca
+2 d
+b
+0 dda
+1   a
+b
+0      a
+1f
+b
+0fdda
+1d  c
+b
+1.bd d
+2   c
+1b  a
+b
+1d   d
+1   a
+1d   b
+b
+0f dca
+#2      //a
+xd
+b
+1b e b
+1 d
+1    a
+b
+0dde  d
+1      a
+b
+1bdda
+1.a dca
+2 d
+b
+
+b
+1. dda  a
+2a
+#2b
+xd
+b
+#2f
+x   c
+#2   d
+x   a
+#2db
+x  e
+b
+#2b d
+x  b
+#2   d
+x   c
+#2   a
+x d
+b
+#2a   d
+xb
+#2d
+xa
+#2b   b
+xd
+b
+#2f   a
+x    c
+#2    d
+x    a
+#2   a
+x    d
+b
+#2b   b
+x    d
+#2   a
+x    d
+#2 d  b
+x    a
+b
+0ddeffd
+1      a
+b
+1bdda
+1.a dca
+2 d
+b
+
+b
+0 dda  a
+1   af
+b
+1   ce
+1    a
+1   df
+b
+1.  ba d
+2    a
+1  b b
+b
+1  dca
+#2      //a
+x  b
+#2   d
+x   c
+b
+#2   ab
+x   c
+#2   d
+x   a
+#2   ca
+x   d
+b
+1.  ba d
+#3  a
+x  b
+1  d  c
+b
+1  b  d
+1.   da a
+#3   f
+x   d
+b
+1.   ca //a
+2   a
+#2    e
+x    c
+b
+
+b
+#2    a
+x a
+#2 c
+x d
+#2a
+xb
+b
+1ac
+1  d
+1bd
+b
+1d  f
+#2i
+xg
+#2f
+xd
+b
+1.fcd
+2d
+#2b
+xa
+b
+#2 d  b
+xa
+#2b
+x d
+#2a   a
+xb
+b
+1d    d
+#2f
+xd
+#2b     a
+xa
+b
+1b  a
+1.a d a
+2 d
+b
+0 dd   a
+1   a
+b
+1      a
+1f
+1   c
+b
+
+b
+1f  d
+1   a
+1db
+b
+1.b d
+2 d
+1bb
+b
+1d e
+1  b
+1db
+b
+1f  d
+1   a
+1    d
+b
+1b   b
+1 de
+1    a
+b
+0dde  d
+1      a
+b
+1bdda
+1.a dca
+2 d
+b
+0 dd   a
+1  d
+b
+1  d
+1      a
+1  b  a
+b
+1   d b
+1      a
+1      /a
+b
+1  b   //b
+1     d
+1  b d
+b
+1  d a
+1   a
+1  dce
+b
+
+b
+1   df
+1   ab
+1    a
+b
+0ddeffd
+1      a
+b
+1bdda
+1.a dca
+2 d
+b
+0 dda  a
+1   a
+b
+b
+
+e

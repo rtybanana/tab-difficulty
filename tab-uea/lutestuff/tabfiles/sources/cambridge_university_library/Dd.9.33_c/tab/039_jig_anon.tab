@@ -1,0 +1,73 @@
+-C
+-t
+-f
+{39. Jig/Anonymous}
+b
+1 cd a
+2 d  c
+1acd a
+2fc e c
+b
+2.c   c
+3 e
+2  f
+2.a  c a
+3 a
+2  c
+b
+1aa c
+2c  b
+1ea c
+2f d e
+b
+#2h  a
+xe  c
+xa
+1.ffh a
+.
+b
+b
+.
+2.ffh a
+3a
+2 c
+2.  d a
+3   c
+2a   e
+b
+#2f   a
+xc   c
+x e
+1.aac  a
+b
+#2 d   d
+x a
+x  b
+#2d    d
+x d
+x a
+b
+
+b
+2.a b d
+3  d
+2 df  d
+1 cd a
+2a
+b
+2.f   a
+3d
+2cd a
+2.aa c
+3 d
+2 cde
+b
+2.aacc
+3 d
+2 a   a
+Y. cdca
+.
+b
+b
+
+e

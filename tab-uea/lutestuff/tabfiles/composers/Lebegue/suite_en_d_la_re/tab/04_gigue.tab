@@ -1,0 +1,178 @@
+-C
+-t
+-f
+{/}
+b
+1.
+2 a
+1 c
+b
+.
+1aa    ///a
+1  a
+1     a
+1.    a
+2a
+1c
+b
+0 c&'f  a
+1  c
+1.  ee
+2a
+1 c
+b
+1. a&'    d
+2  d
+1 a   a
+1. ab   a
+2c
+1  e&'
+b
+1 aaaa
+1     a
+1      ///a
+1.   aa
+2  a
+1  d
+b
+1  b
+1   c
+1  b
+1  ac
+1   a
+1  c
+b
+
+b
+1.  d ca
+2      a
+1   a  /a
+0  dc  //a
+1  b
+b
+1  ac  /a
+1   a
+1      //a
+1.      ///a
+2  a
+1  c
+b
+1  d  a
+1    c
+1     a
+1.   e
+2  a
+1 a
+b
+1  b&'   d
+1   c
+1  aa
+0   c&'cd
+1   a
+b
+A1
+1.   a a/a
+2     d
+1      /a
+1.   a
+2 a
+1 c
+.
+b
+b
+A2
+1.   a a/a
+2     d
+1      /a
+1.   a
+2a
+1c
+b
+b
+1.e
+2  d
+1 a
+1. cd
+2c
+1ece
+b
+
+b
+1a&'af
+1 c
+1a   a
+1 c&^fe
+1  d
+1a
+b
+1 a    d
+1    a
+1   a
+1  d&'a a
+1  c
+1  da
+b
+1. a/ca  a
+2    c
+1    a
+0    c
+1  d
+b
+1 a    a
+1  c
+1 cd  d
+1. ac   a
+2 c
+1a
+b
+0 c&'d  d
+1   c
+1.  d
+2c
+1e
+b
+1.f     a
+2 a
+1 c
+1.ed
+2    a
+1     d
+b
+1ea    d
+1      c
+1c     d
+1.e e  a
+2c
+1aa
+b
+
+b
+1      a
+1  c
+1 c
+1      /a
+1  a
+1 a
+b
+1 c    //a
+1   d
+1  c
+1.    c
+2 c
+1  c
+b
+1  e&'  a
+1   c
+1 a aa
+1.    ca
+2 c
+1  e&'
+b
+1. aaaa
+2     a
+1      ///a
+0.    a
+b
+b
+
+e

@@ -1,0 +1,235 @@
+-C
+-t
+-f
+{12. Ricercar 12/12. Ricercar 12}
+b
+C
+1.a   a
+2    c
+1a   d
+1   a
+b
+1a  c
+1  a
+1a b
+1  d
+b
+1.b  a
+2   c
+1b  d
+1  b
+b
+1b d
+1 a
+1ab
+1  d
+b
+1.aa   a
+2     c
+1a    d
+1    a
+b
+1 d  c
+1    d
+1 a a
+1    c
+b
+1  d d
+1   a
+1  bc
+1 b
+b
+#2  d
+x a
+#2  d
+x  b
+1  dd
+1 b
+b
+
+b
+1 b ca
+1  d
+1.ab ca
+2c
+b
+1da   a
+#2a
+x     c
+#2     d
+x    a
+#2 d  c
+x     d
+b
+1 b  a
+1  d
+1 a c
+1a
+b
+1da c a
+#2a
+x     c
+#2     d
+x    a
+#2 d  c
+x     d
+b
+1 b  a
+#2  d
+x    c
+#2    d
+x   a
+#2  bc
+x    d
+b
+1  aa
+#2 d
+x  c
+#2  a
+x  c
+#2 bd
+x  a
+b
+1 ac
+1  d
+1aadc
+1  c
+b
+
+b
+1abd a
+1b
+1a d a
+1 b
+b
+1   ca
+#2  dd
+x a
+#2 b c
+x d
+#2a   d
+xb
+b
+1d
+#2    d
+x   a
+#2   c
+x   d
+#2  b
+x  d
+b
+1da
+1 b
+1b
+1 a
+b
+1ab
+1  d
+1 d
+1  c
+b
+1 bd
+1   c
+1 a
+1   a
+b
+1  d d
+1   a
+1  c c
+1   c
+b
+1abd a
+1b
+1a d a
+1 b
+b
+
+b
+1   ca
+#2  dd
+x a
+#2 b c
+x d
+#2a   d
+xb
+b
+1d
+#2    d
+x   a
+#2   c
+x   d
+#2  b
+x  d
+b
+1da
+1 b
+1b
+1 a
+b
+1ab
+1  d
+1 d
+1  c
+b
+1 bd
+1   c
+1 a
+1   a
+b
+1  d d
+1   a
+1  c c
+1   c
+b
+1  d d
+1   a
+1 a
+#2    d
+x    c
+b
+#2 b  a
+x    c
+#2    d
+x   a
+#2 b c
+x  a
+1  b
+b
+
+b
+1  dd
+1a bc
+1   da
+1 d  c
+b
+1a  cd
+#2    a
+x d
+#2 b
+x a
+1 b ca
+b
+1a    a
+1 a   e
+1ab ca
+#2 a
+x  d
+b
+#2a cc a
+x  a
+#2  c
+x  d
+#2 a
+x b
+1aa   e
+b
+1ab ca
+1  d
+1aad  a
+1  c
+b
+wacd a
+b
+b
+
+e

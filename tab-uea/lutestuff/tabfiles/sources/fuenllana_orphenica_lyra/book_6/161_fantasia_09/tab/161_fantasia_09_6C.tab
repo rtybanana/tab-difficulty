@@ -1,0 +1,237 @@
+-C
+-t
+-f
+{161. Fantasy 9/Miguel de Fuenllana}
+b
+c
+w   c
+b
+0  a c
+0   a
+b
+0   ce
+0  a a
+b
+0  b c
+0   ce
+b
+0 aaa
+0  cc
+b
+0 cd a
+0  de
+b
+0 abc
+0 c
+b
+0 dde
+1  aa
+1 c
+b
+0 abc
+0  ee
+b
+0 ab
+0 a
+b
+0 ca
+0  d
+b
+0 abc
+0 c
+b
+0 da c
+1   a
+1  c
+b
+
+b
+0 cdce
+0    a
+b
+0 db c
+0a   e
+b
+1  def
+1 a
+0 cdca
+b
+0 aaac
+0   a
+b
+0   ce
+0  e
+b
+1 aaac
+1   c
+1  a
+1  c
+b
+1 cdca
+1 e
+1a
+1  b
+b
+1  a a
+1 d
+1 d c
+1   a
+b
+1  dca
+#2 c
+x a
+#2 c
+x a
+x  d
+x  b
+b
+1  aac
+#2  c
+x  d
+0 a
+b
+
+b
+1    e
+1  d
+1  d a
+#2  b
+x  a
+b
+0  b c
+0  aa
+b
+0    c
+0   ce
+b
+1  aa
+1  c
+0  d
+b
+1 a  c
+1 c
+0 dc
+b
+0  d a
+0 c
+b
+0 abac
+0  dce
+b
+0  def
+0 acac
+b
+0 cdca
+0a
+b
+0c da
+0 d
+b
+0a  a
+0  d e
+b
+0 df c
+0 ab
+b
+0 cd
+0 acc
+b
+1  a
+1  d
+0 aaa
+b
+
+b
+1  cc
+1  d
+0 ac
+b
+0  de
+0 ddef
+b
+0 acc
+0 cdce
+b
+0  def
+0 acac
+b
+0 cdca
+0a
+b
+1  a c
+1 d
+0 dc
+b
+0 cd e
+0 abc
+b
+0  aa
+0  ece
+b
+0 aa c
+0  b
+b
+0 d
+0  a
+b
+0  b
+0 c c
+b
+0 da
+0 ab
+b
+0 c c
+0 da
+b
+0 ab
+0  def
+b
+
+b
+0 a
+0  dce
+b
+0  aa
+0  cac
+b
+0  dce
+0  aa
+b
+1 daac
+1   c
+1  a
+1  c
+b
+0 ddea
+0 c c
+b
+0 daac
+0 abc
+b
+0 c
+0 aaa
+b
+0  bc
+0  ece
+b
+0 aa c
+0   b
+b
+0 abc
+0 aabc
+b
+1 a c
+#2  a
+x  b
+#2  a
+x   c
+x   a
+x    e
+b
+w aabc
+b
+Y
+b
+b
+
+e

@@ -1,0 +1,874 @@
+-C
+-t
+-f
+{13. Greensleeves/Anonymous}
+b
+c
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 ab  a
+x     c
+#2     d
+x    a
+#2    c
+x a
+#2  a
+x    c
+b
+
+b
+2. ab  d
+3  d
+#2 a
+x c
+#2   a
+x d
+#2  d
+x   a
+b
+#2 abc
+xa
+#2 aa c
+x  d
+1aac  a
+1aac
+b
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 ab  a
+2     c
+1     d
+2    a
+1    c
+2 a
+1  a
+2    c
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 abc
+2a
+1 aa c
+2  d
+1.aac  a
+1.aac
+b
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+
+b
+1 ab  a
+2     c
+1     d
+2    a
+1    c
+2 a
+1  a
+2    c
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 abc
+2a
+1 aa c
+2  d
+1.aac  a
+1.aac
+b
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 ab  a
+2     c
+1     d
+2    a
+1    c
+2 a
+1  a
+2    c
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 abc
+2a
+1 aa c
+2  d
+1.aac  a
+1.aac
+b
+b
+
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 ab  a
+2     c
+1     d
+2    a
+1    c
+2 a
+1  a
+2    c
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 abc
+2a
+1 aa c
+2  d
+1.aac  a
+1.aac
+b
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 ab  a
+2     c
+1     d
+2    a
+1    c
+2 a
+1  a
+2    c
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+
+b
+1 abc
+2a
+1 aa c
+2  d
+1.aac  a
+1.aac
+b
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 ab  a
+2     c
+1     d
+2    a
+1    c
+2 a
+1  a
+2    c
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 abc
+2a
+1 aa c
+2  d
+1.aac  a
+1.aac
+b
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 ab  a
+2     c
+1     d
+2    a
+1    c
+2 a
+1  a
+2    c
+b
+
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 abc
+2a
+1 aa c
+2  d
+1.aac  a
+1.aac
+b
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 ab  a
+2     c
+1     d
+2    a
+1    c
+2 a
+1  a
+2    c
+b
+1 ab  d
+2  d
+1 a
+2 c
+1   a
+2 d
+1  d
+2   a
+b
+1 abc
+2a
+1 aa c
+2  d
+1.aac  a
+1.aac
+b
+b
+
+e

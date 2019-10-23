@@ -1,0 +1,212 @@
+-C
+-t
+-f
+{Entrée 10/Entrée 10}
+b
+W   a  a
+W    d /a
+W    a ///a
+b
+b
+S3
+1      ///a
+b
+0 bdc
+1      a
+b
+0 ddd
+1      ///a
+b
+0 bdc
+1     a
+b
+0 acc
+1      /a
+b
+0abb
+1      a
+b
+0 ddd
+1      ///a
+b
+1 bdc
+1 a
+2.     a
+3 a
+b
+
+b
+1  d a
+1      ///a
+1    a
+b
+1. bdc
+2     d
+#2     b
+x     a
+b
+1      a
+1 dda
+#2    d
+x    c
+b
+1    a
+1 bdc
+#2     d
+x     c
+b
+1     a
+1 acc
+1      a
+b
+1      /a
+1abb
+1 a
+b
+1      a
+1 dd
+1  f
+b
+
+b
+1 bd
+1. ac  a
+#3  d
+x a
+b
+1  d a
+1      ///a
+1    a
+b
+0abd
+#2 d
+xa
+b
+1bdda
+1      a
+#2a
+x d
+b
+#2a
+x    a
+#2   c
+x d
+#2 b
+x d
+b
+1     a
+1 ac
+1      a
+b
+1      /a
+1af
+1f
+b
+
+b
+1      a
+1bdd
+1 b
+b
+1aac  a
+1  d d
+1  c c
+b
+1  dca
+1      ///a
+1    a
+b
+0ffg
+1      a
+b
+0fgi
+1    a
+b
+1.ffg
+2h
+1f
+b
+1     a
+1hf g
+1      a
+b
+1      /a
+1if
+1h
+b
+1      a
+1fgi
+1h
+b
+
+b
+1     a
+#2 f
+xf
+#2e
+x d
+b
+#2f   a
+x      ///a
+#2  d
+x a
+#2 b
+x d
+b
+#2a
+x    a
+#2 b
+x a
+#2  d
+x  b
+b
+#2      a
+xb
+#2 d
+xa
+#2b
+x d
+b
+#2a
+x    a
+#2 b
+x a
+#2  d
+x b
+b
+
+b
+#2 a
+x     a
+#2  c
+x  d
+#2 a
+x   c
+b
+#2a
+x      /a
+#2d
+xb
+#2a
+xd
+b
+#2b     a
+x   c
+#2   d
+x  b
+#2  d
+x a
+b
+#2 b
+x d
+#2a
+x     a
+#2  d
+x  c
+b
+0  dca
+Y      ///a
+b
+b
+
+e

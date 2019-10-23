@@ -1,0 +1,70 @@
+-C
+-t
+-f
+b
+S3
+0  c&,c  a
+1  d  a
+b
+1 a   c
+1   c
+1 c   d
+b
+0 a&,a   /a
+1  d
+b
+0  c&,c  a
+1  ab  ///a
+b
+0  c&,c  a
+1  d  a
+b
+
+b
+1 a   c
+1   c
+1  a  d
+b
+0   b&,a
+1   cc
+b
+#2  aba U
+x    c X
+#2    a
+x     d
+#2     c
+x     a
+b
+0  cc  a
+1  d  a
+b
+1 a   c
+1   c
+1 c   d
+b
+
+b
+0 a&,a   /a
+1  d
+b
+0  c&,c  a
+1  aba ///a
+b
+0 ad  c
+1   c
+b
+0   b&, a
+1   c  a
+b
+1  a   4
+1.  a&, e ///a
+#3   c
+x  a
+b
+1   c
+1      a
+1   c
+b
+b
+P
+e

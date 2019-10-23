@@ -1,0 +1,612 @@
+-C
+-t
+-f
+{74. Fantasy/Alfonso Ferrabosco I}
+b
+c
+0f
+1f
+1f
+b
+1d
+1a
+1b
+1d
+b
+0f
+0 d
+b
+1f
+1 d
+1f f
+1  c
+b
+1d d
+1ab
+1bd
+1df
+b
+1fg
+1 d
+1df
+1f
+b
+1gd
+1 f
+1fg
+1g
+b
+1.if
+2 g
+1.gi
+2i
+b
+
+b
+1g
+1fg
+1df
+1f
+b
+#2 d
+xd
+xb
+x d
+#2  c
+xb
+xa
+x d
+b
+2abc
+#3 d
+xa
+#2b
+x  c
+#2a
+x  a
+1ab c
+b
+1 dcd
+1aaa
+1.bbc
+2a
+b
+#2 dd
+x b
+x d
+xa
+#2b
+x  d
+2bbc
+#3a
+xb
+b
+#2d
+x  d
+1dff
+#2fg d
+xg
+xf
+xd
+b
+
+b
+#2bdd
+xa
+xbd
+x  c
+#2dda
+xb
+xa d
+x d
+b
+2adc
+#3 c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+1 dca
+1b
+b
+1bdca
+1bd
+1a c d
+1bbc a
+b
+1 da b
+1a c d
+#2a  a
+x d
+x dcd
+x a
+b
+#2ab c
+x a
+xd c
+x  a
+#2   a
+xb
+xa c
+x d
+b
+
+b
+2 ccca
+#3 a
+x c
+#3 d
+xa
+xb
+xd
+1f
+1   a
+b
+1f  d
+1fd
+1dfa
+1acc
+b
+2bdca
+#4d
+xb
+xa
+xb
+#3db c
+x a
+x  c
+x  a
+1fd d
+1dfa
+b
+#2 bc
+xb
+xa d
+x d
+2adc
+#3 c
+x a
+#2 d
+x c
+b
+0 dca
+0  c
+b
+1  d
+1 b
+1 d
+1   a
+b
+1 b c
+1  cd
+1  df
+1 d
+b
+
+b
+1a
+1bdcd
+1dd c
+1dc
+b
+1   a
+1bdc
+b
+1adc a
+1 cc
+1 da b
+1a c d
+b
+2bdca
+#3a
+xb
+#2a
+x d
+#2a   a
+x  c
+xa   d
+x  c
+b
+#2 da b
+x   d
+x   c
+x   a
+1. ccca
+2a
+b
+#2b
+xd
+xf
+x  c
+#2d d
+x b
+x d
+xb
+b
+
+b
+2adc
+#3 c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+2. dca
+3a
+2b c
+#3a
+xb
+b
+#2db c
+x   d
+xdaa
+x b
+#2bdca
+xd
+1ff  d
+b
+#2d   b
+xb
+xa a
+x d
+#2bbc a
+xd
+xf f
+x d
+b
+#2if   a
+x g
+xgi
+x f
+0fgf   d
+b
+0 b
+#2 d d
+xa
+1b
+b
+#2a a
+x  c
+1 dd
+1 b
+1bbc
+b
+
+b
+#2ddd
+xf
+xg a
+x f
+2fgfd
+#3d
+xf
+#2d
+x g
+b
+2dgf d
+#3 f
+x d
+#2df
+x  f
+#2bdca
+x   c
+xbbcd
+x d
+b
+2dd c
+#3 c
+x a
+#2 c
+xd
+#2bdca
+xd
+xf
+x    d
+b
+2fd   d
+#3d
+x g
+#2df
+x d
+#2f f a
+xg
+xi
+xgi
+b
+#2fg a
+xdf
+xbd
+xab
+#2d d  a
+xf
+xg
+xfg
+b
+
+b
+#2df  d
+xf
+xdf a
+xbd
+#2ac  a
+x  c
+x d  b
+x  a
+b
+2adc a
+#3 c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+1 dca
+1l
+b
+1l
+1l
+1i
+1f
+b
+1g
+1i
+0l
+b
+0 i
+1l
+1 i
+b
+1l l
+#2  h
+xl
+1i k
+1fg
+b
+1gi
+1i
+1lm
+#2  a
+xil
+b
+
+b
+#2gi
+xf
+1gi
+1fd d
+1gg a
+b
+1ii  g
+1ll  i
+#2mma
+x l
+x m
+xl
+b
+#2il
+xl
+1gi
+1fgha
+#2g
+x  h
+b
+1f f d
+1f f a
+1ddd b
+1ff  d
+b
+#2gd a
+x f
+x g
+xf
+1gi
+#2 g
+xf
+b
+2dgf d
+#3 f
+x d
+#2df
+x  d
+0bbc   d
+b
+0i
+1i
+1i
+b
+
+b
+1g
+1d
+1f
+1g
+b
+0i
+0 g
+b
+1i
+1 g
+1if
+#2  f
+xi
+b
+1gd
+1df
+#2fg
+xg
+xi
+xf
+b
+2gi
+#3i
+xg
+1fg
+#2  f
+xdg
+x f
+x d
+b
+1df
+1  f
+1ddd
+1g a
+b
+#2  d
+xf
+xdd
+x f
+#2fg h
+xg
+xi
+xfg
+b
+
+b
+1gia
+#2 g
+xf
+2dgf
+#3 f
+x d
+#2df
+x  d
+b
+1bbcd
+1 b
+1 d
+#2   d
+x d
+b
+1 bac
+#2    d
+x b
+1  da
+1  ac
+b
+1  cd
+1 d
+#2    d
+x b
+1 bac
+b
+1bb a
+1ba
+2aba d
+#3  c
+x a
+#3 b
+x d
+xa
+xb
+b
+1d
+1dbacd
+1dd  b
+#2     a
+xf
+b
+1gd   d
+#2ff  d
+xd
+1bdca
+1dd  b
+b
+
+b
+1f f d
+1fg a
+1gi   a
+#2 g
+xf
+b
+2dgf d
+#3 f
+x d
+#2df
+x  d
+1bbcd
+1i
+b
+#2 g
+xg
+xfg
+xdf
+#2bdd
+xa
+xbd
+x  c
+b
+#2dda
+xf
+xg
+x f
+2fgfd
+#3d
+xf
+#2d
+x g
+b
+1dfffd
+1f
+#2   a
+xdf
+xbd
+xab
+b
+
+b
+2 da  a
+#3a
+xb
+#2d
+x   d
+#2db c
+xba a
+xaba d
+x dca
+b
+1accca
+1i
+1h ha
+1fg
+b
+1df   a
+#2 d
+xb
+1accca
+2 d d
+#3a
+xb
+b
+#3a a
+x d
+x c
+x a
+#3adc
+x c
+#4 d
+x c
+x a
+x c
+1 dca  a
+1l
+b
+1if   a
+1hi
+1fh  a
+#2 f
+xd
+b
+Ycdc   a
+b
+b
+
+e

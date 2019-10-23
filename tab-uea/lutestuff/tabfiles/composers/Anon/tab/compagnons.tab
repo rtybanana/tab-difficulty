@@ -1,0 +1,293 @@
+-C
+-t
+-f
+{Compagnons/Compagnons}
+b
+1 d
+#2 d
+x d
+#2bd a
+x d a
+xbd a
+xdd a
+b
+#2fb d
+x d a
+x b d
+x ab
+1  da
+#2bdda
+x   a
+b
+#2bd db
+xb  a
+x d db
+x  e
+#2 bdd
+x b da
+xdb cd
+xb da
+b
+#2ab ca
+x b
+x b  d
+x b
+#2d b d
+x  b d
+xda   d
+xdb  a
+b
+
+b
+#2bde b
+x    d
+xb da
+x   d
+#2abb d
+x  d
+x b
+x b
+b
+#2 a df
+x dd
+x ab  d
+x a
+#1  dca
+x c
+b
+#1 dda
+x d
+#2 d a
+x d
+x  da
+x d a
+b
+#2 b d
+x ab
+x  ddf
+x  b
+#2  da
+x   a
+x  dd
+x   a
+b
+#2f dd
+x  dc
+xfbdd
+xf  da
+#2d  cd
+xfb da
+xdb cd
+xb da
+b
+
+b
+#2a dca
+xa d
+xbbd
+xbbd  b
+#2abb d
+x    d
+x dddf
+x   a
+b
+#1 bdca
+xfb  a
+#1db  d
+xb da
+b
+#2dde  d
+x    a
+x    b
+xd   d
+1bdda
+#2ab  a
+x  b
+b
+#1  edb
+x db  d
+#1  dca
+x c
+b
+#1 dda
+x dd
+#1b  a
+xda   d
+b
+#1ab  d
+xf   a
+#2f da
+xd
+xbd a
+xa
+b
+
+b
+#2 d d
+x b
+xdab  d
+x  d
+#2  bcd
+xb
+xab  d
+x d
+b
+1ab  a
+#2   cd
+xa
+#1 d df
+x bbc
+b
+#2 bdd
+x  bc
+x gddf
+x   cd
+1 gddf
+#2b
+x  b
+b
+#1a d a
+x b
+#1db c
+xb d a
+b
+#2abd a
+x    c
+x bd d
+x   a
+#1 abc
+xabd a
+b
+#2a b d
+x a
+1 gddf
+#1d  cd
+xa b
+b
+
+b
+#2a  dd
+x   c
+x dda
+x a
+#1abd a
+x bdd
+b
+#2fb d
+x d
+xd  c
+x a
+#2 bdd
+x b
+1bde b
+b
+#1 bb d
+xabb d
+#1b dd b
+xfb   b
+b
+#2f d  b
+xf
+xda   d
+xb
+#2abd a
+x dd  b
+xb d a
+x    c
+b
+#2a b d
+x   d
+x bdc
+x   a
+#2 bdd b
+x dd
+xa bc
+x   d
+b
+
+b
+#2 bbc
+x   a
+1 dddf
+#2   df
+x a df
+x b cd
+x    c
+b
+#2  d a
+x d   d
+x dbac
+x   a
+#1  dca
+x cdc
+b
+1 dda
+#2f    b
+x  b
+#2f d  b
+x b
+xda   d
+xb
+b
+#2abd a
+x d   b
+xb d a
+x    c
+#2a b d
+x   d
+x bdc
+x   a
+b
+#2 bdd b
+x dd
+xa bc
+x   d
+#2 bbc
+x   a
+1 dddf
+b
+
+b
+#2   df
+x a df
+xa bcd
+x    c
+#2  d a
+x d   d
+x dbac
+x   a
+b
+#1 ddda
+x cdc
+#2 d df
+xb  a
+x d a
+x g df
+b
+#2abb d
+x d
+x bd d
+x a
+#2  da
+xf
+xf ddf
+xf
+b
+#2db  d
+x  b d
+xabb d
+x    d
+#1 gddf
+xa b  d
+b
+1 dedb
+#2 dbc
+x   a
+#1  dca
+x c c
+b
+w dddf
+b
+b
+
+e

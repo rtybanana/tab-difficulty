@@ -1,0 +1,117 @@
+-t
+-f
+{Mein fleiss vn mu/Hans Newsidler}
+b
+0a d
+0a d
+b
+0b  a
+0b  a
+b
+0a  c
+0a  c
+b
+0 bd
+0 bd
+b
+0 db
+0 db
+b
+0   c
+0a  c
+b
+
+b
+1b  a
+#2b
+xa
+1 d
+1 b d
+b
+1a  c
+1b  a
+0 db
+b
+1 b"+d
+#2  d
+x  b
+1   d
+1 b c
+b
+1 ab
+1a d
+1   d"+
+1 d
+b
+0a   d
+1    d"+
+1a
+b
+
+b
+0d
+1b"+
+1   a
+b
+1a d
+1  d
+1a  c
+1  b
+b
+#2  b
+x   d
+1   a
+1a d
+1  d
+b
+0d b
+1b"+
+1   a
+b
+1a d
+1  d
+1   c
+1 db
+b
+
+b
+1b"+  d
+#2   d
+x   c
+#2a   d
+x   a
+#2   c
+x   d
+b
+1 d"+b
+#2  b
+x   d
+#2   a
+x   c
+#2 d d
+x  b
+b
+1 b"+d
+1  d
+1 d"+ a
+1   d
+b
+1a  c
+#2   c
+x   d
+#2a b
+x   c
+1 bd
+b
+
+b
+1 db
+1  dd
+0 a c
+b
+w  d a
+b
+b
+Q
+
+e

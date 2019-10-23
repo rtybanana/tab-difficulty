@@ -1,0 +1,383 @@
+-C
+-t
+-f
+{256. Galliard - Chow bente/Anonymous}
+b
+1.aa c a
+2a
+1caa c
+b
+0eff  a
+1eff
+b
+1aa c a
+#2aa c
+x     a
+#2    c
+xcaa
+b
+0eff  a
+1eff
+b
+1.fc e c
+2f
+1eccd
+b
+1ccde
+1cd  c
+#2 ccde
+x    c
+b
+1.cce  c
+2  f
+#2  e
+x  c
+b
+1ccee
+0     c
+b
+b
+1aa c a
+#2aa c
+x     a
+#2    c
+xca
+b
+
+b
+#2     a
+xef
+#2  f
+x     a
+1eff
+b
+1.ha g a
+2a
+#2caa c
+xf
+b
+#2     a
+xef
+#2  f
+x     a
+1eff
+b
+2.cc   c
+3e
+#2f
+xc
+#2e
+x  f
+b
+#2  d
+xc
+1ccc
+#2b
+x a
+b
+#2     c
+xcce
+#2   e
+x  f
+#2  e
+x  c
+b
+1cce  c
+0   e
+b
+b
+2    a
+1f d
+2 a
+#2 c
+x d
+b
+
+b
+2    a
+1fc
+2    c
+#2    e
+x   b
+b
+2     a
+1ea c
+2  a
+#2  c
+x  d
+b
+2     a
+1ea c
+2     c
+#2     e
+x    a
+b
+2    c
+1caa
+2    a
+1aac  e
+b
+1acd a
+#2 ea c
+x    a
+#2 ea c
+x     c
+b
+2     a
+1aac
+2  d
+#2  c
+x  a
+b
+1aac  a
+0   c
+b
+b
+#2    a
+xfc
+#2  d
+x a
+#2 c
+x d
+b
+
+b
+#2fc  a
+x    c
+#2    e
+x    a
+#2    e
+x   b
+b
+#2     a
+xea
+#2   c
+x  a
+#2  c
+x  d
+b
+#2ea c a
+x     c
+#2     e
+x     a
+#2     e
+x    a
+b
+#2    c
+xca
+#2  a
+x    a
+#2     e
+xaac
+b
+#2 c  a
+xa
+#2 e  c
+x    a
+#2     e
+x     c
+b
+#2     a
+xaac
+#2   c
+x  d
+#2  c
+x  a
+b
+1aac  a
+0   c
+b
+b
+
+b
+1.ha g a
+2 ac
+#2 cd
+x ef
+b
+1eff
+0     a
+b
+1.aaccca
+2  c c
+#2  d e
+x  ab
+b
+1aacc
+0     a
+b
+1.k   a
+2c
+1fc e c
+b
+#2e
+xc
+#2 g  e
+x e
+#2 g
+x  f
+b
+1.ccee
+2    e
+#2   b
+x   d
+b
+1ccee
+0     c
+b
+b
+#2ea   a
+xf
+#2h
+x ac
+#2 cd
+x ef
+b
+1eff
+0     a
+b
+
+b
+#2aac  a
+x  d
+#2 a
+x  c c
+#2  d e
+x  f g
+b
+1 ffgh
+0     a
+b
+#2cca
+xe
+#2f
+xh
+#2k
+x ac
+b
+#2 cd
+x ef
+#2 gh
+x h
+#2 g
+xh
+b
+1.gha
+2  e e
+#2  f g
+x  h i
+b
+1g a
+0cceeec
+b
+b
+#2k   a
+x l
+2.n
+3l
+1k
+b
+#2ac  a
+x  d
+2. f
+3 d
+1 c
+b
+
+b
+#2e    a
+x f
+2.h
+3f
+1e
+b
+#2 ac  a
+x   c
+2.  f
+3  d
+1  c
+b
+#2    c
+x ea
+2.c
+3a
+1 e
+b
+#2 c
+x    a
+#2     e
+x a
+#2 cd  c
+x e
+b
+1.aac  a
+2 cd
+#2 ac
+x  de
+b
+1aac  a
+0   c
+b
+b
+#2k   a
+xn
+#3k
+xl
+2n
+#2k   a
+x l
+b
+
+b
+#2 c  a
+x f
+#3 c
+x d
+2 f
+#2 c  a
+x  d
+b
+#2ea   a
+xh
+#3e
+xf
+2h
+#2e
+x f
+b
+#2aac  a
+x  f
+#3  c
+x  d
+2  f
+#2  c  a
+x   c
+b
+#2 ea c
+xc
+#3 e
+xa
+2c
+#2c   c
+x    e
+b
+#2a   a
+x cd
+#2 a  c
+x    a
+#2     e
+x     c
+b
+#2  c  a
+x    c
+#2     e
+x    a
+#2 cde c
+x e
+b
+1aac  a
+Y   c
+b
+b
+
+e

@@ -1,0 +1,711 @@
+-C
+-t
+-f
+{19. Passemezo 3/19. Passemezo 3}
+b
+c
+#2  d
+x a
+b
+2.acd a
+3 a
+2  d
+#3a
+xc
+#2a   a
+x d
+x c
+x a
+b
+2.acd a
+3 a
+2  d
+#3a
+xc
+#2a   a
+x c
+x d
+xa
+b
+2.cdda
+3a
+2 d
+#3c
+xd
+#2f  a
+xd
+xc
+xa
+b
+
+b
+2.cdda
+3a
+#2 d
+xc da
+#3ac  e
+x e
+x c
+xa
+#3 d  c
+x c
+x a
+x d
+b
+2.acd a
+3 a
+2  d
+#3a
+xc
+#2a   a
+x d
+x c
+x a
+b
+2.acd a
+3 a
+#2  d
+xac  a
+#3 ac  e
+x  e
+x  c
+x a
+#3  d  c
+x  c
+x  a
+x  d
+b
+2.aac  a
+3  a
+2   c
+#3 a
+x c
+#2 a   a
+x  d
+x  c
+x  a
+b
+
+b
+2.aac  a
+3  a
+2   c
+#3 a
+x c
+#2 a   a
+x  c
+x  d
+x a
+b
+2.acd a
+3 a
+2  d
+#3 c
+x d
+#2a   a
+x d
+x c
+x a
+b
+2.acd a
+3 a
+2  d
+#3 c
+x d
+#2a   a
+x c
+x d
+xa
+b
+2.cdda
+3a
+2 d
+#3c
+xd
+#2f  a
+xd
+xc
+xa
+b
+
+b
+2.cdda
+3a
+2 d
+#3a
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+b
+2.acd a
+3 a
+2  d
+#3 a
+x c
+#3 d
+x c
+x a
+x  d
+#3 a
+x  d
+x  c
+x  a
+b
+2 acc a
+#3  a
+x  c
+#2  d  c
+x   a
+2 adc a
+#3  c
+x  a
+#3  d
+x  c
+x  a
+x  c
+b
+2.acd a
+3 a
+2  d
+#3 c
+x d
+2a   a
+2 d
+2 c
+2 a
+b
+
+b
+2.acd a
+3 a
+2  d
+#3 c
+x d
+1acd a
+#2  d
+x a
+b
+b
+#2 cd a
+x  d
+x c
+x d
+#2a   a
+x  d
+xa
+x d
+b
+#2 cd a
+xc
+xa
+x d
+#2 cd a
+x d
+xa
+x c
+b
+#2 dda
+xa
+xc
+xd
+#2f  a
+xd
+xc
+xa
+b
+#2 dda
+xf
+xd
+xc
+#2a
+x d
+x c
+x a
+b
+
+b
+#2 cd a
+x d
+xa
+xc
+#2a   a
+x d
+x c
+x a
+b
+#2 cd a
+xa
+xc
+xa
+#2 d
+x c
+x a
+x  d
+b
+1aac  a
+2 a
+#3  d
+x a
+2 c
+#3 a
+x c
+2 d
+#3 c
+x d
+b
+2aac  a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+1aac  a
+#2  d
+x a
+b
+1acd a
+#2  d
+x a
+#2 c
+x d
+1a   a
+b
+
+b
+1acd a
+#2  d
+x a
+#3 c
+x a
+x c
+x d
+1a   a
+b
+1 dda
+#2 a
+x c
+#2 d
+xa
+1c  a
+b
+1 dda
+#2 a
+x c
+#3 d
+x c
+x d
+xa
+1c  a
+b
+2 cd a
+#3 a
+x c
+#2 d
+x c
+#2 a
+x  d
+x  c
+x  a
+b
+#2     a
+x acc
+x  d  c
+x   a
+2 adc a
+#3  c
+x  a
+#3  d
+x  c
+x  a
+x  c
+b
+
+b
+1acd a
+#2   c
+xc
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+1acd a
+#2   c
+x d
+1acd a
+b
+b
+1aac  a
+b
+.
+1aac  a
+1aac
+1     a
+#2aac  a
+x  d
+b
+1aac  a
+#2   c
+xaac
+2  da c
+#3  a
+x  c
+#3  d
+x  a
+x  c
+x  d
+b
+1aac  a
+1aac
+#2     a
+xaac
+x  d  c
+x   b
+b
+
+b
+#2aac  a
+x   c
+xaac  a
+x  d  c
+2aac  a
+#3   c
+x  a
+#3  c
+x  d
+x a
+x c
+b
+#2 dda
+xa
+xc
+xa
+#2 dda
+x c
+#3 d
+x c
+x a
+x  d
+b
+#2     a
+xaac
+x  d  c
+x   a
+2aad  a
+#3  c
+x  a
+#3  d
+x  c
+x  a
+x  c
+b
+2  d a
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+xc
+xd
+xc
+#3d
+xc
+xa
+x d
+b
+
+b
+A1
+#2acd a
+x   c
+xacd
+x d  c
+1acd a
+1aac  a
+.
+b
+b
+A2
+#2acd a
+x   c
+xacd
+x d  c
+Yacd a
+b
+b
+
+{19. Passemezo 3/19. Passemezo 3}
+b
+#2  d
+x a
+b
+1.acd a
+2 a
+1  d
+b
+#2acd a
+x d
+#2a
+x c
+#2 d
+xa
+b
+1.cdda
+2a
+1 d
+b
+#2cdda
+xa
+#2d
+xc
+#2a
+x d
+b
+1.acd a
+2 a
+1  d
+b
+#2 cd a
+x a
+#2 d
+x c
+#2 a
+x  d
+b
+1.aac  a
+2  a
+1   c
+b
+
+b
+#2aac  a
+x  d
+#2 a
+x  c
+#2  d
+x a
+b
+1.acd a
+2 a
+1  d
+b
+#3    a
+x a
+x c
+x d
+#2a
+x c
+#2 d
+xa
+b
+1.cdda
+2a
+1 d
+b
+2cdda
+#3a
+xc
+#2d
+xc
+#2a
+x d
+b
+2 cd a
+#3 a
+x c
+#2 d
+x c
+#2 a
+x  d
+b
+1 acc a
+1  da c
+1 acc a
+b
+
+b
+1acd a
+#2   c
+x d
+#2 c
+x a
+b
+1acd a
+1   c
+b
+b
+#2  d
+x a
+b
+1 cd a
+#2  d
+x a
+#2 c
+x d
+b
+#2acd a
+x a
+#2 c
+x  d
+#2 a
+x c
+b
+1. dda
+2 dd
+1   a
+b
+#2 dda
+x c
+#2 d
+x a
+#2 c
+x d
+b
+#2acd a
+x a
+#2 c
+x d
+#2a
+x d
+b
+
+b
+1 cd a
+1 a   e
+1  d  c
+b
+#2aac  a
+x  a
+#2  c
+x  d
+#2 a
+x  d
+b
+1aac  a
+1   c
+#2  d
+x a
+b
+#2acd a
+x a
+#2  d
+x a
+#2 c
+x d
+b
+#2acd a
+x d
+#2a
+x c
+#2 d
+xa
+b
+1.cdda
+2cdd
+1   a
+b
+#2cdda
+xf
+#2d
+xc
+#2a
+x d
+b
+
+b
+#2 cd a
+xa
+#2 d
+x c
+#3 d
+x c
+x a
+x  d
+b
+#2     a
+x acc
+#2     c
+x  da
+#2     a
+x acc
+b
+1acd a
+#2   c
+x d
+#2 c
+x a
+b
+1acd a
+Y   c
+b
+b
+1aac  a
+b
+.
+1aac  a
+#2   c
+x  d
+1aac  a
+b
+1acd a
+1aaa c
+1 ea c
+b
+1aac  a
+1   c
+1aac  a
+b
+#2aac  a
+xc
+#2a
+x d
+#2 c
+x a
+b
+
+b
+#2 cd a
+x  d
+#2 a
+x c
+#2 d a
+x c
+b
+#2 a
+x  d
+#2 acc a
+x  d
+#2 a
+x  c
+b
+1.acd a
+2acd
+1   c
+b
+A1
+1acd a
+1   c
+1aac  a
+.
+b
+b
+A2
+1acd a
+Y   c
+b
+b
+
+e

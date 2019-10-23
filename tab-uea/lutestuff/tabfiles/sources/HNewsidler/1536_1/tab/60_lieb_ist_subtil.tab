@@ -1,0 +1,206 @@
+-C
+-t
+-f
+{60. Lieb ist subtil/60. Lieb ist subtil}
+b
+c
+0    c
+1   a
+1   a
+b
+1 a c
+#2   a
+x    d
+1 d  c
+1 d a
+b
+1a   da
+#2 d  c
+x b  a
+1 a  cd
+1 d   d
+b
+1 b ca
+#2  d  d
+x     c
+1 ab  a
+1  b  d
+b
+1  d  c
+#2 db  d
+x  a
+1 a c a
+1 bbc
+b
+1  def
+1 d a
+#2 d c
+x a
+1 c  a
+b
+1 d ac
+#2 b  a
+x a   d
+1  da
+#2 b cd
+x    c
+b
+
+b
+1  a a
+1 ab  a
+1  d  c
+#2 ab  d
+x  a
+b
+1 b ca
+1 daa
+#2   ca
+x d
+x a
+x c
+b
+1 d ac
+#2 b
+x a
+1  da
+1   a
+b
+1   c
+#2 a a
+x    d
+1 d  c
+1 d a
+b
+1a  cd
+#2 d  a
+x b
+1 ab c
+1 db
+b
+1 bd a
+#2  b
+x  a
+1 b cd
+1 abc
+b
+1  def
+#2    d
+x    c
+1 b ca
+1 b  d
+b
+
+b
+1 d ac
+#2 b   d
+x a
+1  d a
+1 b c
+b
+1  a a
+1 ab  d
+1  d  c
+#2 aba
+x  a
+b
+1 b cd
+1 d ac
+#2a  ca
+x d
+x a
+x c
+b
+1 d a
+1    c
+1 a   d
+1  bc a
+b
+1 b  a
+1    a
+1   a
+1 d  c
+b
+1 a   d
+1  bc a
+#2 b  a
+x     d
+x     c
+x     a
+b
+#2  da c
+x    d
+x d  c
+x    a
+#2a   ca
+x d
+x b
+x a
+b
+
+b
+1 b  a
+#2 d
+x b
+1 d   c
+1  da
+b
+1  a
+1 d a
+1  b c
+#2 ab  d
+x  a
+b
+1  bcd
+1 a ac
+0 b ca
+b
+1  da
+1 d
+1 b
+1 d a
+b
+1  b d
+1 dda
+1 db  d
+#2 b a
+x a
+b
+1  da
+#2 d  d
+x    c
+1 bd a
+#2 db
+x  a
+b
+1  bcd
+1 daa
+1 d   d
+#2 b a
+x a
+b
+1  da
+#2  d d
+x a  c
+1 b  a
+1 dd
+b
+
+b
+1  b
+1 bd a
+1 d  c
+#2 b a
+x a
+b
+1  da
+#2 db  d
+x  a
+1   ca
+1 c
+b
+Y dda
+b
+b
+
+e

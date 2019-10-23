@@ -1,0 +1,248 @@
+-C
+-t
+-f
+{Home again, market is done/Home again, market is done}
+b
+c
+#1 aa c
+x      /a
+x d
+xc
+b
+#1a   a
+x d
+x c   c
+x  e
+b
+#1 aa c
+x      /a
+x d
+xc
+b
+#1caa   /a
+x a
+x d    /a
+xc
+b
+#1f  a
+xc
+xc  a
+x d
+b
+#1a   a
+x c
+x c  a
+x  d
+b
+
+b
+#1 aa c
+xh
+xh a
+xg
+b
+#1haa   /a
+x      /a
+0haa
+b
+b
+#2 aa c
+x  d
+x a
+x c
+#2 d    a
+xa
+xc
+x d
+b
+#2a    a
+x d
+x c
+x a
+#2  e  c
+x  a
+x  c
+x  e
+b
+
+b
+#2 aa c
+x  d
+x a
+x c
+#2 d
+xa
+xc
+xd
+b
+1caa   /a
+#2 a
+x c
+#2 d
+xa
+xc
+xd
+b
+#2f  a
+xd
+xc
+xa
+#2 d a
+xa
+xc
+x d
+b
+#2a   a
+x d
+x c
+x a
+#2  d a
+x a
+x c
+x  d
+b
+
+b
+#2 a  c
+x c
+x d
+x a
+#2  e  c
+x a
+x c
+x  e
+b
+#1 aa c"+
+x      /a
+0 aa
+b
+b
+#2c
+x a
+x      a
+xa
+#2 c
+x  d
+x    a
+x c
+b
+#2a
+x a
+x      /a
+xa
+#2 c
+x  a
+x     c
+x c
+b
+
+b
+#2 a
+x  a
+x    c
+x a
+#2 d
+x  a
+x    c
+x d
+b
+#2 a
+x  a
+x    c
+x c
+#2 d
+x  a
+x    c
+xa
+b
+#2c
+x d
+x   a
+xc
+#2f
+x d
+x   a
+xf
+b
+#2a
+x c
+x    a
+xa
+#2 c
+x  d
+x    a
+x c
+b
+
+b
+#2 a
+x  a
+x    c
+xh
+#2  a
+xh
+1g
+b
+#1haa   /a
+x      /a
+0haa
+b
+b
+2. aa c
+3 c
+1 d
+2. da   /a
+3a
+1c
+b
+2.a    a
+3c
+1 d
+2. ca  c
+3 a
+1 c
+b
+2. aa c
+3 c
+1 d
+2. d    /a
+3a
+1c
+b
+
+b
+2.caa   /a
+3a
+1 d
+2.a   a
+3c
+1d
+b
+2.f  a
+3d
+1f
+2.f  a
+3c
+1 d
+b
+2.a   a
+3c
+1a
+2.a   a
+3 c
+1  d
+b
+2. aa c
+3 c
+1 d
+2. ca  c
+3 a
+1 c
+b
+#1 aa c"+
+x      /a
+0 aa
+b
+b
+
+e

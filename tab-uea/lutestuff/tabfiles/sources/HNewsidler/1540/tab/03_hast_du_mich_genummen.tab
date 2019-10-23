@@ -1,0 +1,121 @@
+-C
+-t
+-f
+{3. Hast du mich genummen?/3. Hast du mich genummen?}
+b
+1  d a
+b
+0a   d
+1a   d
+b
+1a   d"+
+#2b
+xa
+x d
+x b
+b
+0 db
+1 db
+b
+0 db
+1 db
+b
+0a   d
+1a   d
+b
+1 db
+0 bd
+b
+0 a c
+1 a c
+b
+0 a c
+1 a c
+b
+0a   d
+1a   d
+b
+1a   d"+
+#2b
+xa
+x d
+x b
+b
+0 db
+1 db
+b
+
+b
+0 db
+1 db
+b
+0a   d
+1 db
+b
+1 bd
+0 a c
+b
+0  d a
+1  d a
+b
+0  d a
+1  d a
+b
+0 a c
+1 a c
+b
+0 a c
+1 a c
+b
+1 bd"+
+#2 d
+x b
+x a
+x  d
+b
+0 a c
+1 a c
+b
+0a   d
+1a   d
+b
+1 db
+0 bd
+b
+0 a c
+1 a c
+b
+0 a c
+1 a c
+b
+0a   d
+1a   d
+b
+
+b
+1a   d"+
+#2b
+xa
+x d
+x b
+b
+0 db
+1 db
+b
+0 db
+1 db
+b
+0a   d
+1 db
+b
+1 bd
+0 a c
+b
+0  d a
+1  d a
+b
+Y.  d a
+b
+b
+
+e

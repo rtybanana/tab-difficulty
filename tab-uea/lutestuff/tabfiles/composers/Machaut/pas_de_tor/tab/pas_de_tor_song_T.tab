@@ -1,0 +1,287 @@
+-C
+-t
+-f
+{Pas de tor/Pas de tor}
+b
+0.c   c
+b
+0 d  c
+1 c
+b
+0. a a
+b
+0.  e e
+b
+1. a  c
+2  c
+1  a
+b
+1   d
+0  ae
+b
+1  d
+#2    e
+x  c
+1  d
+b
+0 a  c
+1 c
+b
+#2 da
+x   c
+#2  a
+x c
+1 a a
+b
+1  dc
+1  c
+#2   b
+x   d
+b
+1  ae
+1    e
+1    c
+b
+1  a b
+0    e
+b
+
+b
+1b
+0    c
+b
+1c    c
+#2a
+x d
+1a
+b
+1 c  b
+0 a   e
+b
+1a
+#2    c
+xc
+1d
+b
+0.c    c
+b
+#2  ae
+x   c
+1  a
+1   a
+b
+1.  a e
+2  a
+1   c
+b
+1c  a
+0a   e
+b
+1.c   c
+2a
+1 d
+b
+0 c  e
+1 a a
+b
+1  d e
+0 a  c
+b
+0. c  a
+b
+0.c   c
+b
+
+b
+0 d  c
+1 c
+b
+0. a a
+b
+0.  e e
+b
+1. a  c
+2  c
+1  a
+b
+1   d
+0  ae
+b
+1  d
+#2    e
+x  c
+1  d
+b
+0 a  c
+1 c
+b
+#2 da
+x   c
+#2  a
+x c
+1 a a
+b
+1  dc
+1  c
+#2   b
+x   d
+b
+1  ae
+1    e
+1    c
+b
+1  a b
+0    e
+b
+1b
+0    c
+b
+
+b
+1c    c
+#2a
+x d
+1a
+b
+1 c  b
+0 a   e
+b
+1a
+#2    c
+xc
+1d
+b
+0.c    c
+b
+#2  ae
+x   c
+1  a
+1   a
+b
+1.  a e
+2  a
+1   c
+b
+1c  a
+0a   e
+b
+1.c   c
+2a
+1 d
+b
+1    c
+#2  a
+x  c
+1  a
+b
+1   c
+0 aa
+b
+1c   c
+#2a
+x d
+#2    e
+x c
+b
+
+b
+1 a a
+0  e e
+b
+0. c   c
+b
+0.  a e
+b
+1.  a e
+2 c
+1 a a
+b
+1  e e
+0 a a
+b
+0.  a e
+b
+1 a a
+0  e e
+b
+0. c   c
+b
+1 a
+0   a
+b
+0.  e e
+b
+1. a  c
+2   c
+1   a
+b
+0  a e
+1  e
+b
+1  c e
+0  e
+b
+0 a  c
+1 c
+b
+0. e  c
+b
+
+b
+2a   a
+1 d
+2 c
+1 a  c
+b
+0.  e e
+b
+#2 d  c
+x c
+1 d
+1 a
+b
+0. c   c
+b
+1. a  c
+2    e
+1    c
+b
+1b   b
+0     e
+b
+0.c    c
+b
+1.c   c
+2    a
+1    c
+b
+#2e   e
+xc
+#2   a
+xa
+1 d
+b
+1c   c
+#2 a
+x  c
+1  a
+b
+1   c
+0 aa
+b
+1c   c
+#2a
+x d
+#2    e
+x c
+b
+
+b
+1 a a
+0  e e
+b
+0. c   c
+b
+b
+
+e

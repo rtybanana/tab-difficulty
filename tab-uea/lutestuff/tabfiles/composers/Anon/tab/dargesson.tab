@@ -1,0 +1,421 @@
+-C
+-t
+-f
+{Dargesson/Dargesson}
+b
+1. dba d
+1 aba
+2     d
+b
+1 aba d
+2 b
+1 dba
+2     d
+b
+1.abd a
+1 bd
+2    a
+b
+1abd a
+2 df
+1ab
+2cd
+b
+1.dab  d
+1 db
+2     d
+b
+1 ab  d
+2 b
+1 d   d
+2a
+b
+
+b
+1 bd a
+2    c
+1  d d
+2   a
+b
+2. acc
+3  d
+2 ac  a
+1.  dca
+b
+b
+2 aba d
+1 d
+1 aba
+2     d
+b
+#2 aba d
+x d
+x bd
+1 aba
+2     d
+b
+2 bdca
+1a
+1 bd
+2    a
+b
+#2 bd a
+xa
+x df
+1 bd
+2    a
+b
+
+b
+2 aba d
+1 d
+1 aba
+2     d
+b
+#2d    d
+x d
+xa
+#2 d
+x a
+x  b
+b
+#2 bd a
+x  d
+xa
+#2 df
+x f
+x bd
+b
+#2aac  a
+x d
+x ac
+1. cdca
+b
+b
+
+b
+#3  b  d
+x  a
+x  b
+x  d
+x a
+x b
+#2 d
+x a
+x  b
+b
+2d    d
+#3c
+xa
+x d
+x b
+#3 a
+x  d
+x  b
+x  a
+2  b
+b
+#3  d a
+x  c
+x  d
+x a
+x b
+x d
+#2a
+x b
+x  d
+b
+
+b
+2f   a
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+2  d
+b
+2 d   d
+#3 a
+x b
+2 d
+#3 d
+x b
+x a
+x  d
+2  b
+b
+2d    d
+#3c
+xa
+2 d
+#3 a
+x  d
+x a
+x b
+2 d
+b
+
+b
+#3    a
+x a
+x b
+x d
+2a
+#3    d
+x    c
+x    d
+x   a
+2   c
+b
+#3     a
+x  a
+x  c
+x  d
+2 a
+1. cdca
+b
+b
+2.  ba d
+3  d
+2 a
+#2 ab
+x bd
+x df
+b
+2.  b  d
+3  d
+2 a
+#2 d
+x a
+x  b
+b
+
+b
+2. bd a
+3 d
+2a
+#2 bd
+x df
+xab
+b
+2. bd a
+3 d
+2a
+#2a
+x b
+x  d
+b
+2. a   d
+3 b
+2 d
+2 d
+#3a
+xc
+2d
+b
+2d    d
+#3c
+xa
+2 d
+#3 d
+x b
+x a
+x  d
+2  b
+b
+
+b
+2f   a
+#3d
+xc
+2a
+#3a
+x d
+x c
+x a
+2  d
+b
+#2 ac  a
+xa
+x df
+1. cdca
+b
+b
+1. dba d
+2. a
+3 b
+2 d
+b
+2.  ba d
+3  d
+2 a
+#3 d
+x b
+x a
+x b
+2 d
+b
+1.abd a
+2. bd
+3 d
+2a
+b
+
+b
+#3  d a
+x  b
+x  d
+x a
+2 b
+#3 b
+x a
+x b
+x d
+2a
+b
+#2     d
+x db
+xd
+#2 d
+xa
+xc
+b
+#2d    d
+x d
+xa
+#3 a
+x  d
+x a
+x b
+2 d
+b
+2. bdca
+3 d
+2a
+2. bdca
+3    c
+2    d
+b
+
+b
+#2ac  a
+xcd
+xef
+1.ffh a
+b
+b
+1 aba d
+2 bd
+1 df  d
+2 fg
+b
+#2 d
+x  f
+x bd
+2. aba d
+3 b
+2 d
+b
+1 bd a
+2 df
+1ab
+2bd
+b
+#2a
+x b
+x df
+1 bd a
+#3a
+xc
+b
+
+b
+#2d    d
+x d
+xa
+#3 d
+x b
+x a
+x b
+2 d
+b
+#2 ab  d
+x d
+x bd
+1 ab
+2     d
+b
+2. bdca
+3 d
+2a
+2.  d d
+3   a
+2 acc
+b
+2.aac  a
+3 d
+2 ac
+1. cdca
+b
+b
+1 dba d
+#3 a
+x b
+#2 d
+x  b
+x bd
+b
+
+b
+#2 ab
+x     d
+x  def
+1. aba d
+b
+1abdca
+#3 b
+x d
+#2a
+x b
+x df
+b
+#2 b
+x  d
+x ac  a
+1. bdca
+b
+1 dba d
+#3a
+xc
+#2d
+x d
+xa
+b
+#2 d
+x  b
+x bd
+2. ab  d
+3 b
+2 d
+b
+
+b
+2. bd a
+3 d
+2a
+#2 df
+x f
+x bd
+b
+#2 ac  a
+xa
+x df
+Y. cdca
+b
+b
+
+e

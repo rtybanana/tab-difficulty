@@ -1,0 +1,431 @@
+-C
+-t
+-f
+{Le Pigeon/Le Pigeon}
+b
+W   a  a
+W    d /a
+W    c //a
+W    a ///a
+b
+b
+1 a
+b
+1 a   a
+1.  b-
+2 b
+b
+1 a    a
+1. a c  /a
+2  d
+b
+1 a    //a
+1   b-
+#2 a
+x    a
+b
+1 a   d
+#2   c-
+x b
+#2  d  c
+x   b
+b
+1  b  a
+1   c-
+1a
+b
+
+b
+1a d  c
+1. daa-
+2 b
+b
+1. ab  d
+2 a
+1 b  a-
+b
+1 d  c-
+1.aa  d-
+2  d
+b
+1 e  c
+#2      //a
+x  d
+#2  b
+x  a
+b
+#2aa   d
+xa
+1.a d  c
+2 e
+b
+1a b  a
+#2   c-
+x d
+#2 b
+x a
+b
+1 bb a
+#2  a
+x d
+1 ab  d
+b
+
+b
+1  de  a
+#2    f-
+x a
+1  d d-
+b
+#2  bac-
+x  b
+1  b a a
+2  a
+#3  b
+x  a
+b
+1  b
+1     d
+1   a-
+b
+0  b
+b
+b
+1 a
+b
+1 a   a
+#2  b
+x  d
+#2 a
+x b
+b
+#2 a
+x      a
+#2      /a
+x   c
+#2 a
+x  d
+b
+
+b
+#2 a    //a
+x   b
+#2 a
+x    c
+#2    a
+x  a
+b
+#2 a   d
+x  d
+#2 a
+x   c
+#2  d  c
+x   b
+b
+#2  b  a
+x  a
+#2  b
+x   c-
+1a
+b
+1a    c
+#2   e-
+x  d-
+#2 d
+x b
+b
+#2 a   d
+x  b
+#2  d
+x a
+#2 b
+x    a
+b
+
+b
+#2    c
+x d
+#2a   d
+x d
+#2a
+x  d
+b
+#2 e  c
+x  d
+#2  f
+x  d
+#2   f
+x  a
+b
+#2a    d
+x a
+#2     c
+xa
+#2  d
+x e
+b
+1.a b  a
+2 d
+#2 b c-
+x a
+b
+#2 b  a
+x  b-
+#2  a-
+x d
+#2     d
+x a
+b
+
+b
+#2  d   a
+x a
+#2  d
+x  b
+#2  a
+x    d-
+b
+#2    c-
+x  b
+1  b a a
+2  a
+#3  b
+x  a
+b
+1  b
+1     d
+1   a-
+b
+0  b
+b
+b
+1 d
+b
+1. dff d
+2 d
+#2  g
+x a
+b
+#2 b  a
+x a
+#2  d
+x   f
+#2  a
+x   c
+b
+
+b
+1   b  //a
+#2 a
+x    c
+#2    a
+x  a
+b
+#2 a   e
+x a
+1 a c
+#2  d
+x a
+b
+1 b ca-
+1 db c-
+1 bd d-
+b
+1 aba-
+#2      a
+x    f-
+#2  df-
+x   e
+b
+1  b  a
+#2   c-
+x  a
+#2  b
+x  d
+b
+1 a    a
+1.aa    /a
+2  d
+b
+1 e    //a
+#2    c
+x   e
+#2  f
+x    a
+b
+
+b
+#2a    e
+xa
+1. d c-
+2a
+b
+1 cdca
+#2 cd
+x c
+1 cd  d
+b
+1 dd  c
+#2   a
+x a
+#2 b
+x d
+b
+#2 a   d
+x a
+0 aba-
+b
+1  d  c
+2   c
+#3   b
+x   c
+#2   b
+x  d
+b
+1  b  a
+#2  d
+x   e
+1 a   d
+b
+
+b
+#2  d a
+x  b
+1.  a   //a
+2   c
+2  a
+b
+1   c
+1     a
+1   c-
+b
+0aab
+b
+b
+1 d
+b
+#2 d   d
+x  f
+#2  g
+x d
+#2  g
+x a
+b
+#2 b  a
+x a
+#2  d-
+x   f
+#2  a-
+x   c
+b
+#2      //a
+x   c
+#2   b-
+x   c
+#2  a c
+x    a
+b
+
+b
+#2     e
+x a
+#2   c-
+x a
+#2 b
+x a
+b
+#2    a
+x a
+#2 b
+x     d
+#2     c
+x d
+b
+#2     d
+x a
+#2      a
+x   f
+#2  d
+x   e
+b
+#2  b  a
+x  a
+#2  b
+x   c-
+#2 a
+x b
+b
+#2 a
+x      a
+#2 b    /a
+x d
+#2a
+x  d
+b
+
+b
+#2      //a
+x e
+#2    c
+x b
+#2 a
+x    a
+b
+#2     e
+xa
+#2   c
+xa
+#2 d
+xa
+b
+#2 c  a
+x d
+#2 c
+x   f
+#2  d
+x   f
+b
+#2 d   c
+x   a-
+#2  d
+x a
+#2 b
+x  a
+b
+#2 a   d
+x  d
+#2 a
+x d
+#2 b
+x a
+b
+
+b
+#2  d  c
+x  b
+#2  a-
+x   c
+#2   b-
+x a
+b
+#2  b  a
+x  a
+#2  b
+x  d
+#2 a
+x    d
+b
+#2  d a
+x  b
+1.  ac  //a
+2   b
+b
+1   c
+1     a
+1   c-
+b
+0aab
+b
+b
+
+e

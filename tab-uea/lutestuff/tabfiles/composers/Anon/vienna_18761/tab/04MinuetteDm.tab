@@ -1,0 +1,147 @@
+-C
+-t
+-f
+{Minuette/Minuette}
+b
+S3
+1  a   ///a
+1e
+1  a
+b
+1  b   a
+#2 a
+x  d
+#2  b&'   /a
+x  a
+b
+1   c  //a
+1  d
+1  d
+b
+1  a&'   /a
+#2   c
+x  a
+#2   a
+x      //a
+b
+1ad    ///a
+1c
+1 ca  e
+b
+1aa  a
+#2  a
+xa
+#2  a
+xa
+b
+1 c"_   d
+1  a
+1 a a b
+b
+0.  e&'e a
+.
+b
+b
+.
+1 d    /a
+1e
+1   a
+b
+
+b
+1   a a
+#2  d
+x  b
+1  d
+b
+1ca   b
+1fa    a
+1   c  //a
+b
+1   c  4
+#2 cU
+x aX
+1 c
+b
+1 h    /a
+1h    a
+1   h
+b
+1 a    d
+1f     a
+1  d   //a
+b
+1e     /a
+1ad   a
+1 c&'   d
+b
+1.ad    /a
+2 c
+#2 d
+xc
+b
+1e     /a
+#2 d
+xe
+1 a
+b
+1e     ///a
+0fa    a
+b
+1c&'     //a
+#2 c
+xc
+1  d
+b
+1ccd   4
+0e d   /a
+b
+
+b
+1a&'    a
+#2 a
+xa
+1  ba  ///a
+b
+1aa    d
+0c
+b
+#2 d  a
+xe
+#2 c   d
+xe
+#2 a   b
+x c
+b
+1  e&'  a
+#2  cU
+x  eX
+1  a
+b
+#2eU    /a
+xcX
+#2 dU   a
+x cX
+#2  fU a
+x  eX
+b
+#2 dU a
+x cX
+#2  dU  /a
+x  fX
+#2  bU  ///a
+x  aX
+b
+1   c  a
+1    d
+1    c&'a
+b
+1    af"_
+0m     ///a
+.
+b
+b
+x
+b
+
+e

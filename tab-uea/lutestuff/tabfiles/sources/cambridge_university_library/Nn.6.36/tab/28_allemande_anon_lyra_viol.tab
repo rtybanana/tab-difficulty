@@ -1,0 +1,68 @@
+-C
+-t
+-f
+{28. Allemande/Anonymous}
+b
+c
+#2  a
+x  c
+b
+.
+0 aa
+1 aa
+1 aa
+b
+1 aa
+#2 b
+x a
+1  c
+1  a
+b
+A1
+0 aaaa
+1  ca
+#2  a
+x  c
+.
+b
+b
+A2
+0 aaaa
+1  ca
+#2 a
+x b
+b
+.
+0 d
+1   a
+#2 b
+x d
+b
+1a
+#2 d
+x b
+1 d
+1   a
+b
+#2  a
+x  c
+1 a
+#2  ca
+x  a
+1  c
+b
+
+b
+A1
+0.  aaa
+#2 a
+x b
+.
+b
+b
+A2
+Y  aaa
+b
+b
+
+e

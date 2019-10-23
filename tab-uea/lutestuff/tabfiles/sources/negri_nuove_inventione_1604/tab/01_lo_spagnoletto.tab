@@ -1,0 +1,99 @@
+-C
+-t
+-f
+{1. Lo Spagnoletto/1. Lo Spagnoletto}
+b
+c
+1 aa c
+b
+.
+1 da c
+#2 c
+x d
+1acd a
+#2 d
+xa
+b
+#1cd a
+xc
+x d
+xc  a
+b
+#1a   e
+x d  c
+xad  a
+x c
+b
+A1
+0 dda  a
+1  a
+1 aa c
+.
+b
+b
+A2
+0 dda  a
+1  a
+1c  a
+b
+.
+#1a   e
+x d  c
+x c  a
+x a   e
+b
+0  e  c
+1  a
+#2c
+xa
+b
+
+b
+1 d  c
+#2 c
+x a
+#1  e  c
+x c
+b
+A1
+0 aa c
+#1
+xc  a
+.
+b
+b
+A2
+0 aa c
+#1  d
+x a
+b
+.
+0 cd a
+1  d
+#2 c
+x d
+b
+0acd a
+1 c
+#2c
+xa
+b
+1 da c
+#2 c
+x a
+#1  e  c
+x c
+b
+A1
+0 aa c
+#1  d
+x a
+.
+b
+b
+A2
+Y aa c
+b
+b
+
+e

@@ -1,0 +1,714 @@
+-C
+-t
+-f
+{53. La trombeta/53. La trombeta}
+b
+1  d a
+2   c
+1 cd a
+2   c
+b
+1acd a
+2   c
+1 cd a
+2   c
+b
+1  d a
+2   c
+#2 cd a
+x   c
+x cd a
+b
+#2acd a
+x   c
+xacd a
+#2 cd a
+x   c
+x cd a
+b
+1  d a
+2   c
+#3    a
+x a
+#3 c
+x d
+2 c
+b
+#3    a
+x d
+xa
+xc
+2a
+#3    a
+x a
+#3 c
+x d
+2 c
+b
+
+b
+1  d a
+2   c
+#2 cd a
+x cd a
+x cd a
+b
+#2acd a
+xacd a
+xacd a
+#2 cd a
+x cd a
+x cd a
+b
+1  d a
+2   c
+#2fcd a
+xfcd a
+xfcd a
+b
+#2fcd a
+xfcd a
+xfcd a
+#2acd a
+x cd a
+x cd a
+b
+1  d a
+2   c
+#2f
+xf   a
+#3c
+xe
+b
+2f   a
+#3a
+xc
+2a   a
+#3 d
+xa
+2c   a
+#3a
+x d
+b
+
+b
+2acd a
+#3f
+xe
+2f   a
+#3e
+xf
+2h   a
+#3f
+xe
+b
+2f   a
+#3a
+xc
+2acd a
+#3    a
+xc
+#3a
+x d
+x c
+x a
+b
+#2 cd a
+x   c
+x a
+#2  d a
+x   c
+x cd a
+b
+#2 cd a
+x   c
+xacd a
+#2   c
+xacd a
+x cd a
+b
+#2   c
+x cd a
+1  d a
+#2   c
+x  d a
+b
+#2  d a
+x  d a
+x a c
+2 a c
+1 cd a
+b
+1  d a
+1acd a
+#2acd a
+x d
+b
+
+b
+#2acd a
+xc   a
+xa
+2 d  a
+1 cd a
+b
+#2   c
+xacd a
+xc   a
+#2a
+x d  a
+x cd a
+b
+1 a c
+1  d a
+#2acd a
+x d  a
+b
+#2 d
+x cd a
+x a c
+#2  d
+x a c
+x  d a
+b
+#2   c
+x  d a
+#3    a
+xe
+xf
+xh
+2f
+#3    a
+x d
+b
+#3a
+xc
+2    a
+#3 a
+x c
+#2 d
+x c
+x  d a
+b
+
+b
+#2   c
+x  d a
+x  d a
+#2  d a
+x cd a
+x cd a
+b
+#2acd a
+xacd a
+xf   a
+#2a   a
+xa   a
+x c  a
+b
+#2  d
+x cd a
+x cd a
+#2 cd a
+x  d  c
+x cd a
+b
+#2  d  c
+x cd a
+xacd a
+#2 cd a
+x cd a
+x  d a
+b
+#2   c
+x  d a
+xf
+#2    a
+xa
+xf
+b
+#2    a
+xa
+xc
+#2    a
+xa
+x c
+b
+#2    a
+x  d
+x d
+#2    a
+x a
+x c
+b
+b
+
+b
+#2    a
+x  d
+x a
+#2    a
+x  c
+x  d
+b
+#2    a
+x   c
+x    a
+#2  d
+x a
+x    a
+b
+#2 c
+xa
+x    a
+#2 d
+x a
+x    a
+b
+#2 c
+xa
+x    a
+#2f
+xa
+x    a
+b
+#2f
+xa
+x    a
+#2c
+x d
+x    a
+b
+#2 c
+x  d
+x    a
+#2 d
+xa
+x    a
+b
+#2c
+xa
+x    a
+#2c
+x d
+x    a
+b
+
+b
+#2 c
+x  d
+x    a
+#2 a
+x c
+x    a
+b
+#2 c
+x  d
+x    a
+#2  c
+x a
+x    a
+b
+1  d a
+2   c
+#3    a
+x a
+#3 c
+x d
+2 c
+b
+1  d a
+2   c
+#3    a
+x a
+#3 c
+x d
+2 c
+b
+#3    a
+x a
+x c
+x d
+2a
+#3    a
+x a
+#3 c
+x d
+2 c
+b
+1  d a
+2   c
+#2 cd a
+x cd a
+x cd a
+b
+
+b
+#2acd a
+xacd a
+xacd a
+#2 cd a
+x cd a
+x cd a
+b
+#2  d a
+x   c
+x  d a
+#2acd a
+xacd a
+xacd a
+b
+#2fcd a
+xfcd a
+xfcd a
+#2acd a
+x cd a
+x cd a
+b
+1  d a
+2   c
+1  d a
+2   c
+b
+1 cd a
+2   c
+1acd a
+2   c
+b
+1 cd a
+2   c
+#3    a
+x  c
+#3  d
+x a
+2 c
+b
+
+b
+#3    a
+x a
+x c
+x d
+2 c
+#3    a
+x a
+#3 c
+x d
+2a
+b
+1 cd a
+2   c
+#2 cd a
+x cd a
+x cd
+b
+c
+#2 cd a
+x d
+1.acd a
+2c
+#2acd a
+xacd a
+b
+#2 d  a
+x c
+2 c  a
+#3 a
+x  d
+#2 a c
+x  d a
+xacd a
+x d
+b
+1 cd a
+1 ac  a
+1  d a
+#2  d a
+x a
+b
+#2 cd a
+x d
+2a   a
+#3 d
+x c
+#2 a c
+x  d a
+xacd a
+x d
+b
+
+b
+2 cd a
+#3 a
+x  d
+2 a c
+#3  d
+x  c
+b
+b
+1  d a
+2   c
+b
+#3    a
+x a
+x c
+x d
+2 c
+#3    a
+x a
+#3 c
+x d
+2a
+b
+#3    a
+x a
+x c
+x d
+2 c
+1  d a
+2   c
+b
+#3    a
+xa
+xc
+xe
+2f
+#3    a
+x d
+#3a
+xc
+2a
+b
+#3    a
+x a
+x c
+x d
+2 c
+1  d a
+2   c
+b
+
+b
+#3    a
+x d
+xa
+xc
+2a
+#3    a
+x d
+#3a
+xc
+2a
+b
+#3    a
+x a
+x c
+x d
+2a
+1 c  a
+2  d
+b
+#2 c
+x c  a
+x c  a
+#2a   a
+xa   a
+xa   a
+b
+#2a   a
+x c  a
+x c  a
+1  d a
+2   c
+b
+#2 cd a
+x cd a
+x cd a
+1acd a
+2acd a
+b
+#2acd a
+x cd a
+x cd a
+1  d a
+2   c
+b
+#2  d a
+x  d a
+#3 c
+x a
+2 c  a
+#3a
+x d
+2a   a
+b
+
+b
+#3 c
+x a
+2 c  a
+#3a
+x d
+2a   a
+#3 c
+x a
+2 c  a
+b
+#2  d
+x c  a
+x  d
+#2a
+xa   a
+xf
+b
+#3f   a
+xa
+2c   a
+#3a
+x d
+2a   a
+#3f
+xe
+2f   a
+b
+#2  d
+xa
+x    a
+2a   a
+#3 d
+x c
+2 d  a
+b
+#2 d
+x    a
+x d  a
+2 d  a
+#3 c
+x a
+2 c  a
+b
+#2 c
+x  d
+x c  a
+2 c  a
+#3 a
+x  d
+2 a  a
+b
+
+b
+#3  d
+x  c
+x  d a
+x a
+2  d a
+#3f
+xe
+#3f
+xh
+2f   a
+b
+#2a   a
+xa
+x c  a
+2 c  a
+1  d a
+b
+#2 c  a
+x d
+xa   a
+#2c
+xa   a
+xf
+b
+#2f   a
+xa
+x c  a
+#2 c  a
+x  d
+x   c
+b
+#3    a
+x c
+x c
+x c
+2 c
+#3    a
+xa
+#3a
+xa
+2a
+b
+#3    a
+x c
+x c
+x c
+2 c
+1  d a
+2   c
+b
+
+b
+#3    a
+x   c
+x   c
+x   c
+2   c
+#3    a
+x c
+#3 c
+x c
+2 c
+b
+#3    a
+xa
+xa
+xa
+2a
+1 c  a
+2  d
+b
+#2 cd a
+x cd a
+x cd a
+2 cd a
+1acd a
+b
+#3    a
+x a
+x c
+x d
+2 cd a
+2 cd a
+1  d a
+b
+#2f   a
+xf   a
+xf   a
+2f   a
+1f   a
+b
+#3    a
+xe
+xf
+xh
+2f   a
+#2f   a
+xacd a
+x   c
+b
+1acd a
+2   c
+1f   a
+2   c
+b
+
+b
+1acd a
+2   c
+1 cd a
+Y   c
+b
+b
+
+e

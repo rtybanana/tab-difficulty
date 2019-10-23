@@ -1,0 +1,88 @@
+-C
+-t
+-f
+{61. Orlando sleepeth/61. Orlando sleepeth}
+b
+c
+1. dda
+2a
+#1c
+xacd a
+b
+1 dda
+#2f
+xd
+#1c
+xacd a
+b
+1. dda
+2a
+#2c
+xd
+xacd a
+xc
+b
+0 dda
+0 dda
+.
+b
+b
+.
+1. bbcd
+2 d
+#1ab  d
+x db  d
+b
+1 bb d
+#2   c
+x d
+#1a   d
+x db  d
+b
+1 bdca
+#2 a a
+x  d
+#1 a c
+x  c
+b
+0  dca
+0  dc
+.
+b
+b
+
+b
+.
+S3
+1. dda
+2a
+1c
+1.c
+2a
+1 d
+b
+1. cd a
+2 a
+1 c
+0 dda
+1  d
+.
+b
+b
+.
+1. bb d
+2 d
+1a
+1.a
+2 d
+1 b a
+b
+1. acc a
+2  d
+1 a
+x  dca
+.
+b
+b
+
+e

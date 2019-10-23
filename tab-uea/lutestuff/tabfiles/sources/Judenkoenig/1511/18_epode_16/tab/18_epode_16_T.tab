@@ -1,0 +1,50 @@
+-C
+-t
+-f
+{18. Epode 16 - Altera jam bellis/18. Epode 16 - Altera jam bellis}
+b
+c
+0ca  c
+1ca  c
+1ca  c
+b
+0a b  a
+1  a c
+1 e
+b
+0a  c a
+1a  c a
+1a  c a
+b
+0 da c
+0 db  d
+b
+0c da
+1 daa
+1c da
+b
+0a bc
+Y da c
+b
+1ca  c
+0 df c
+b
+1a d d
+0 df c
+b
+1a bc
+0c da
+b
+1da   d
+0c da
+b
+1a bc
+1a d a
+1  a c
+b
+1 e
+wa  c a
+b
+b
+
+e

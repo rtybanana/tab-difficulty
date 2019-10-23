@@ -1,0 +1,124 @@
+-C
+-t
+-f
+{Prelude/Anonymous}
+b
+c
+1 aaa  a
+1    a
+#2 aaa
+x  c&,
+x  a
+x   \1c
+b
+#2  "# a",
+x    e
+x   a
+x      a
+#2   a
+x   \1c&{
+x  "# d&{
+x  \1c
+b
+#2 a
+x      /a
+x      //a
+x  \1c&,
+#2 a    ///a
+x \1b&{
+x d
+x  a&{
+b
+#2bU
+xa",
+x \1b
+x     \3dU
+#2   \4d
+x   \2c",
+x a
+x     \1b
+b
+
+b
+#2  \2cU  a
+x   a
+x X  \3e
+x a
+#2\1ca    a
+x\3e
+x\4f
+x      /a
+b
+#2      //a
+xf
+x\3e",
+x\3c
+#2\1b",     ///a
+x\2c
+x\4eU
+x      //a
+b
+#2      /a
+x\1c",
+xa",
+x \1b
+#2 a",
+x  \2cU
+x a  X
+x  a",
+b
+#2      /a
+x a
+2.  \1c",
+3 a
+#2  a",
+x      5
+x a
+x \1b",
+b
+#2 \3d&{
+x  a&}
+x\2c
+x      4
+#2 \1b",
+x a",
+x  \2c
+x a
+b
+
+b
+#2  a",
+x   \1c{
+x  a  }
+x   a
+#2      ///a
+x   \1c&{
+x   \2d{
+x  \1c  }
+b
+#2 aU
+x  \1c
+x X\3e
+x   \1c&{
+#2   \2d
+x  \1c&{
+x  \4e
+x      ///a
+b
+#2  \1c",
+x  a",
+x      ///a
+x   \2d
+1.   "#c",a
+#3   a",
+x    \3e
+b
+#2   a
+x      a
+x    a
+x   a
+0 aaa
+b
+b
+
+e

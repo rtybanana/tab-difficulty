@@ -1,0 +1,554 @@
+-C
+-t
+-f
+{28. Galliard on the galliard before/28. Galliard on the galliard before}
+b
+2.f"xbd a
+3    c
+1dbb d
+1bdda
+b
+2.acd a
+3b
+#3a
+x d
+x c
+x a
+1  d"x
+b
+#2abd a
+xb
+#2da   d
+xa
+#2fb d b
+x d
+b
+2ea   a
+#3a
+xh
+#3e"#
+x a
+x c
+x e
+1a"#
+b
+3.\4i  \3h
+4 \1f
+2 \2g
+3.\3h  \1f
+4  \4i
+2 f
+3.\3f  \1d
+4  \4g
+2 d
+b
+
+b
+#3\4d
+x   \2c
+x \1b
+xd
+#3b"#
+x   a
+x a
+xb
+#3a"#
+x    d
+x  d
+xa
+b
+#3 d
+x    c
+x  c
+x d
+#3 b"#  a
+x d
+xa
+xc
+#3d    d
+xa
+2f    b
+b
+#2      a
+xd    a
+#2      /a
+xb     a
+#2aad  a
+x  c
+b
+2. cd a
+#4  a
+x  c
+#4  d
+x  c
+x  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+1  d"#
+b
+b
+2i   a
+#3h
+xf
+#3 i
+x g
+x f
+x  i
+#2  g
+x  f
+b
+
+b
+#3f   a
+x    c
+x    d
+x    a
+#3d   d
+x   a
+x   c
+x    d
+#3b  a
+x   c
+x   d
+x   a
+b
+#3    a
+xa
+x c
+x d
+#3a
+x   c
+x    e
+x   a
+#3   c
+x    e
+x    a
+x a
+b
+#3 b
+x d
+xa
+xb
+#3d    d
+xa
+xb
+xd
+#3f    b
+x a
+x b
+x d
+b
+#3e    a
+x a
+x c
+x e
+#3a
+x e
+xa
+xc
+#2a"#
+x     a
+b
+
+b
+#3\4i  \3h
+x  f
+x  \2g
+x  \4i
+#3\3hf f
+x \2g
+x \4i
+x f
+#3f  d
+x  d
+x  \4g
+x d
+b
+#3 \4if \3h&{
+x f
+xf \2g
+x \4i&(
+#3 g&)d f&}
+x d
+xd \3f
+x \4g
+#3a \1b d
+x b
+x\1b d
+xa
+b
+#3 d  c
+x a
+xa c
+x d
+#3 b  a
+x d
+xa
+xc
+#3d    d
+xa
+2f    b
+b
+#2      a
+xd    a
+#2      /a
+xbdd   a
+2.aad"x  a
+3  c
+#3  d
+x  c
+x  a
+x  c
+b
+
+b
+#3    a
+x \3c\4d
+x   \2c
+x\1b
+#3a"#
+x d
+x c
+x a
+#2  d"x
+x    a
+b
+b
+1 \1d\4f\3f
+#2d
+x   \2c
+#2    \3d
+xa
+b
+2 \1b\3d\2d
+#3\4f
+x   c
+2   a"#
+#3    e
+xd
+2b"#  a
+#3   c
+xa
+b
+#3   \2d
+x  d
+x \3d&{
+x  \1b
+#3   \2ca
+x d&}
+x c
+x a
+#3 c
+x d
+xa
+x c
+b
+1. \3d&{\2da
+2\2fg&}
+#2\1df
+x\1bd&U
+b
+#2 bd
+xa
+#2 ab
+x d d
+#2 b c
+xd
+b
+
+b
+#2 a
+xb  a
+#2a   d
+x  d
+#2 d  c
+x   a
+b
+#2 b ca
+x   d"x
+#3    a
+x   c
+2 a cUd
+#2  d Xb
+x   a
+b
+2.     a
+3aac
+#2   c
+x  d
+#2  c"#
+x  a
+b
+1aa\3c  a
+0   \2c"#
+b
+b
+#3  \1b
+x \4d
+xa
+x\1b
+#3\4d
+x   \3d
+x   \1c"#
+x   a
+#3    \3d
+x\1b
+xa"#
+x d
+b
+2 \1b\3d\2d
+#3\4f
+x   c
+2   a"#
+#3    e
+xd
+2b"#  a
+#3   c
+xa
+b
+
+b
+#3   \3d
+x  d
+x \4d
+x  \1b
+#3   \2ca
+x \4d
+x \2c
+x a
+#4 d
+x c
+x d
+x c
+#4 d
+x c
+x a
+x c
+b
+2. d"xda
+3\3f
+#3\4g
+x\3f
+xd
+x\1b
+#3a
+x \3d
+x \1b
+x a
+b
+3.    a
+4 a
+3. \1b
+4    \2c
+3.    \3d
+4 \4d
+3.a
+4   a
+3.   \2c
+4\1b
+3.\4d
+4   \3d
+b
+3.  \1b
+4\2b
+3. \4d
+4   \3d
+3.   a
+4a
+3.b
+4   \2c&{
+3.   d&}
+4d
+3.f
+4  b
+b
+
+b
+3.  \3d
+4d
+3.b"#
+4a
+3.b"#
+4a
+#3  b
+xa
+#3  dd
+xa
+x b
+x d
+b
+3.aa c a
+4d
+3.c
+4a
+3. d
+4 b
+3. a
+4  d
+3. a
+4 b
+3.  d
+4 a
+b
+1aac  a
+1   c"#
+1     a
+b
+b
+2.a \1b \3d
+3\2c
+#2\4e\3d  \1c
+xf\1b  a
+#3 a c
+xf
+2e
+b
+2.f d \2e
+3d
+#2b  a
+xabd
+#2    a
+x\2c
+b
+2da \1c
+#3 \4f  \1d
+x\2d
+#3b da
+x d
+2ab c
+#2 d\4g&{d
+x  f&}\3f
+b
+
+b
+2ab  d
+1.   c"#
+#2ab  d
+xd
+b
+#3     d
+xb
+xa
+x d
+#3 b  a
+x a
+2  d
+#2aa c a
+xd
+b
+#2      /a
+xb     a
+#3     a
+xa
+x dd  b
+x b
+#2 ab  d
+x d
+b
+#3      a
+x b
+x a
+x  d
+#2  c ca
+x  d ab
+#2    ca
+x  c
+b
+#2    a
+x cd
+#2   c
+x    a
+1 cd
+b
+b
+
+b
+#3a   d
+x   a
+x   c
+x   e
+#3   f
+x   c
+2   h
+#3a
+x   h
+2   g
+b
+#3a d
+x a
+x b
+x a
+#3  d
+x  b
+x   d
+x   c
+#3 d d
+x  b
+x   d
+x   a
+b
+#3 \1b \2c
+x   \3d
+x   \2c&{
+x    \3d
+#3   f&}
+x  \4g
+x  \3f
+x  \1d
+#3  \3f
+x \1d
+x  \4g
+x a
+b
+2ab  d
+1.   c"#
+#2ab  d
+xd
+b
+#3     d
+xb
+xa"#
+x d
+#3 b"#  a
+x a
+2  d
+#2aa c a
+xd
+b
+
+b
+#3      /a
+xd
+x      a
+xb
+#3     a
+xa
+x dd  b
+x b
+#2 ab  d
+x d
+b
+#3      a
+xa
+x b
+x d
+2 ac  a
+#3  d ab
+x    c
+#3    da
+x    a
+x  c c
+x d
+b
+#2    a
+x cd
+#2   c
+x    a
+1 cd
+b
+b
+
+e

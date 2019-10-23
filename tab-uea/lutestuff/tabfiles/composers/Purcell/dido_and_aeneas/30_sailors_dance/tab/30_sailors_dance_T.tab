@@ -1,0 +1,73 @@
+-C
+-t
+-f
+{/}
+b
+c
+0da a d
+0db cd
+b
+1dd  c
+1     d
+1abb  a
+1      /a
+b
+0cdd   a
+1da a d
+1acb a
+b
+0cdd   a
+0cdd   a
+b
+0da a d
+0da a d
+b
+1a b   /a
+1ab  a
+0cdda
+b
+0cdd   a
+1da a d
+1     a
+b
+1cdd a
+1acd
+0 daa
+.
+b
+b
+
+b
+.
+0da a d
+0 aba d
+b
+0 aba d
+0 bbcd
+b
+0aa   e
+0abd a
+b
+0 efe  //a
+1aab  a
+1ab  a
+b
+0cdda
+1dd  c
+1ab  d
+b
+0cdda
+1da a d
+1a b d
+b
+1dd  c
+1cdda
+0da a d
+b
+0cdd   a
+0da a d
+.
+b
+b
+
+e

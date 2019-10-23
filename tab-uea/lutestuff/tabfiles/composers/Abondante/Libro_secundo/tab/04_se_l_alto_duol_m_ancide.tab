@@ -1,0 +1,429 @@
+-C
+-t
+-f
+{4. Se l'alto duol m'ancide/4. Se l'alto duol m'ancide}
+b
+c
+0 d a
+0fg a
+b
+1i  h
+1 f
+1ifgh
+#2i  h
+x h
+b
+1hi  h
+#2 f
+x   d
+#2h  f
+x d
+1 i  h
+b
+#2ig h
+x f
+x f
+x   f
+1f  d
+1 d
+b
+0 fgca
+1   ca
+1 fg
+b
+1dffc
+1a
+1d
+1 fbc
+b
+1 fgcd
+1 f c
+1.fgda
+2h
+b
+
+b
+1if  a
+1    h
+1 d df
+#2f  d
+x d
+b
+1hd f d
+1 d   d
+1    fd
+1hd   d
+b
+0if   i
+1fgi
+1hd f
+b
+#2 gi
+xf
+xfg
+x  g
+1 ffc
+1e
+b
+1.fbd a
+2 df
+1. fd a
+2  f
+b
+1ffg
+1    a
+1 d a
+1  d
+b
+0 df
+1 d   d
+1  f
+b
+#2abb d
+x d
+x b
+x a
+#2abd a
+xd
+xb
+xa
+b
+
+b
+1bd a
+1 dff d
+1 dddf
+#2f
+x    d
+b
+1h ia h
+1h  ff
+1i  hff
+1    h
+b
+1f  df
+1hd  fd
+#2   d
+xf
+1fdd
+b
+1 fg h
+1eff
+1.f i f
+2  h
+b
+1 dddf
+1a  cd
+#2  edb
+x d
+1 db  d
+b
+1f dca
+1 c
+1bd a
+2  d
+#3 b
+x a
+b
+1  ddf
+1bdda
+1aa c
+1 acc
+b
+1abd
+1 abc
+1bbdd
+1 d a
+b
+
+b
+1 bdd
+1 bd
+1aa c
+#2  b
+x b
+b
+1.bdda
+2 a
+0abbcd
+b
+1  b d
+1 bbcd
+1 b ca
+1abd
+b
+1aa c
+1 dff
+1 bdd
+#2f
+x a
+b
+1 bdd
+1fd a
+1 ffc
+#2e  c
+x d
+b
+1fbdd
+#2b
+x   c
+1bdda
+1f
+b
+1 bd a
+1f
+#2 fg h
+xh
+1fa
+b
+1 a c
+1e
+0fdddf
+b
+1fddd
+1 gda
+1ffg hf
+1 fg hf
+b
+
+b
+0fdddf
+0fcdca
+b
+b
+
+{4. Se l'alto duol m'ancide/4. Se l'alto duol m'ancide}
+b
+c
+0 abc
+1aabc
+1 abc
+b
+1ffd a
+1a
+1fg a
+1fg
+b
+1hi f
+1 f  h
+#2i gh
+x  i
+xifg
+x  i
+b
+#2  g
+x g
+1hi f
+1f i
+1 h a
+b
+1hd  fd
+1    f
+1   ffd
+1   ffd
+b
+1.  da b
+2  d
+1  bc a
+#2  g df
+x    f
+b
+#2   cd
+x   d
+1 abc d
+1 b   b
+1  da
+b
+
+b
+1 f  ca
+1h  f h
+1if h
+1h  fh
+b
+1ffgh
+#2 i  h
+x  f
+1i  hi
+#2 f fh
+xh
+b
+#2fbdd
+xe
+xf
+x ab
+#2fbdd
+x d
+1dffc
+b
+1.abd
+2c
+1dd f
+1  f
+b
+1d bcd
+1 b
+0df  d
+b
+2 fg d
+#3 d
+x f
+#3 g
+xd
+xf
+xh
+0i gh
+b
+
+b
+1  g i
+1  gh
+2i gh
+#3f
+xh
+#3i
+xh
+#4i
+xh
+xf
+xh
+b
+#2i ghi
+xh
+xf
+x i
+1. gi f
+2 gi
+b
+1fgihf
+#2 fg  f
+x   h
+#2f ddf
+x d
+1 d d
+b
+1f d a
+#2 b c
+xf
+1fd df
+1df fd
+b
+#2 bdd
+xb
+1bb
+1bbb d
+1a
+b
+1b dd
+1 bd a
+1 bdd b
+1 bd  b
+b
+1. de b
+2  d
+1   d
+1 df  d
+b
+1 d a
+#2  d
+x    d
+1 d db
+1  b
+b
+
+b
+#2abdca
+x d
+x b
+x a
+1abd
+1a  ca
+b
+1fb  a
+1 bdca
+1 dddf
+1fgda
+b
+#2f gha
+x f
+x f
+x   f
+1f dd
+1 d
+b
+#2dffc
+xf
+xd
+xc
+1da c
+1     a
+b
+1d fc a
+1d fc a
+1f g a
+#2i  hi
+x  i
+b
+#2 f  ha
+xh
+1h  fh
+1 fgh
+1f
+b
+1h  fh
+1 f
+1   a
+1 d d
+b
+1aa c
+1  c
+1abd a
+1 b c
+b
+
+b
+1 d df
+#2  dd
+x    f
+1  bcd
+1  ddf
+b
+1 d  b
+#2   c
+x   a
+1 b ca
+1if h
+b
+1ifg a
+1ff
+#2h f
+x  i
+1 fg
+b
+#2fg
+x  f
+x dd
+xf
+1eff
+1f g a
+b
+1b da
+#2   d
+x   a
+1a bcd
+1  d a
+b
+1a bc
+1  d a
+1 b ca
+1a   d
+b
+1ab ca
+1 a   a
+0a dca
+b
+Yaacc a
+b
+b
+
+e

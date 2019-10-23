@@ -1,0 +1,99 @@
+-C
+-t
+-f
+{Can she excuse/Can she excuse}
+b
+1    c
+1    c
+1    e
+b
+0   a
+1   a
+b
+1   a
+1    a
+1    c
+b
+0.     c
+b
+1     c
+2    c
+1     a
+2    a
+b
+0      a
+1     d
+b
+1     a
+0     c
+b
+0    c
+1    c
+.
+b
+b
+.
+0   a c
+1     c
+b
+1    c
+2    b
+1    c
+2    c
+b
+1    a
+1   a
+1     a
+b
+0.     c
+b
+
+b
+1     c
+2    c
+1     a
+2    a
+b
+0   a  a
+1     a
+b
+1     c
+0     d
+b
+0     c
+1     c
+.
+b
+b
+.
+0   a
+1   a
+b
+0   a
+1   a
+b
+0   c
+1   c
+b
+0   c
+1   c
+b
+1.   e
+1.     c
+b
+0     c
+1     c
+b
+2.    c
+3    e
+#2   b
+x   c
+1    e
+b
+0    c
+1    c
+.
+b
+b
+P
+e

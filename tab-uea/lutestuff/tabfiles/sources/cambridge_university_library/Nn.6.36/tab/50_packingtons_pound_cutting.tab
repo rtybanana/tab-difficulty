@@ -1,0 +1,160 @@
+-C
+-t
+-f
+{50. Packington's pound/Francis Cutting}
+b
+2.  dca
+3 a
+2 b
+#2 ac
+x   c
+x     a
+b
+2.  dca
+3 a
+2 b
+#2 ac
+x   c
+#3 b
+x d
+b
+2.a   d
+3b
+2a
+#2 d   d
+x a
+x  b
+b
+#2  d a
+x b
+x ac  a
+1.  dca
+b
+#3  d a
+x  c
+x  d
+x a
+2 b
+#2 ac
+x   c
+x     a
+b
+
+b
+#3  d a
+x a
+x b
+x d
+2 b
+#2 ac  a
+x   c
+#3 b
+x d
+b
+#3a   d
+xb
+xa
+x d
+xa
+x b
+#2 d   d
+x a
+x  b
+b
+#3  d a
+x a
+#2 b
+x ac  a
+1.  dca
+b
+#2aa   a
+xd
+xca  c
+1aa   a
+2 a
+b
+#2aa   a
+xd
+xca  c
+1.aa   a
+b
+#2aa   a
+xd
+xca  c
+#2aa   a
+xd
+xca  c
+b
+#2aa   a
+xd
+xca  c
+1aa   a
+2 a
+b
+
+b
+2.a   d
+3b
+2a
+#2 d   d
+x a
+x  b
+b
+2. b  a
+3 d
+2 b
+#2 ac
+x   c
+x     a
+b
+2.a   d
+3b
+2a
+#2 d   d
+x a
+x  b
+b
+#2  d a
+x b
+x ac  a
+1.  dca
+b
+b
+#3a   d
+x d
+xa
+xb
+2a
+#2 d   d
+x a
+x  b
+b
+#3 b  a
+x a
+x b
+x d
+2 b
+#2 ac
+x   c
+x     a
+b
+
+b
+#3a   d
+x d
+xa
+xb
+2a
+#2 d   d
+x a
+x  b
+b
+#3  d a
+x a
+#2 b
+x ac  a
+Y.  dca
+b
+b
+
+e

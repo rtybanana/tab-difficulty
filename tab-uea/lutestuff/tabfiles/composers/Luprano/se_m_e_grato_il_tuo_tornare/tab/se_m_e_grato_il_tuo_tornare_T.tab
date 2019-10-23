@@ -1,0 +1,141 @@
+-C
+-t
+-f
+{Se m'è grato il tuo tornare/Se m'è grato il tuo tornare}
+b
+c
+1b  a
+#2b  a
+x   c
+#2b  d
+x  b
+x  d
+xa
+b
+1 d a
+1 b d
+#2  d
+x   c
+1 a a
+b
+0 b  d
+0 b  d
+b
+1 b d
+1 d a
+1 a c
+1a   d
+b
+0  dd
+0 a c
+b
+0  d a
+0  d a
+.
+b
+b
+1  b d
+1 b  d
+1  da
+1  bc
+b
+#2
+x  dd
+1 ab
+1   d
+1  d
+b
+
+b
+1 a c
+1  b
+#2 a
+x   d
+x   c
+x   a
+b
+0 b  d
+0 b  d
+b
+1  d a
+1   db
+1.  b  d
+2   d
+b
+1   ca
+1   ab
+0   ca
+b
+0   a
+0  da
+b
+b
+1b  a
+#2b  a
+x   c
+#2b  d
+x  b
+x  d
+xa
+b
+1 d a
+1 b d
+#2  d
+x   c
+1 a a
+b
+0 b  d
+0 b  d
+b
+1 b d
+1 b a
+1 a c
+1a   d
+b
+0  dd
+0 a c
+b
+
+b
+1.  d a
+2 a
+#2 b  a
+x d
+1a
+b
+0 bd
+1 db
+1a   d
+b
+0  dd
+0 a c
+b
+1  d a
+1.  da
+2  bc
+#2   d
+x  bc
+b
+#2  da
+x a
+x b  d
+x d  c
+1a   a
+1b  a
+b
+#2b
+xa
+1 d a
+1    a
+1 c
+b
+1 d a
+1  d d
+1    b
+1  b
+b
+Y  d a
+b
+b
+
+e

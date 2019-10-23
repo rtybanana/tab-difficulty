@@ -1,0 +1,304 @@
+-C
+-t
+-f
+{12. La Bernadina/12. La Bernadina}
+b
+c
+#2     d
+x    a
+x    c
+x    d
+1   a
+1   c
+b
+#2   c
+x   a
+0  b
+1  a
+b
+#2  b  d
+x    a
+x    c
+x    d
+1   a
+1   cd
+b
+#2   c
+x   a
+1  b c
+1    a
+1  a
+b
+#2  b  d
+x  d
+x a   d
+x b  a
+1 db c
+1a   d
+b
+#2a   d
+x d  c
+1d  c
+1  da
+1c
+b
+
+b
+0da   d
+1da
+#2c d
+xa
+b
+1da c
+1fb
+1cd a
+1db c
+b
+#2d
+xc
+xa
+x d
+1ab  a
+1da c
+b
+#2   c
+x   a
+x    d
+x    c
+1ab  a
+1da c
+b
+#2d  c
+xc  a
+xa   d
+x d  c
+#2a   a
+x c
+#3 d
+x c
+x a
+x c
+b
+1 d a
+#2   a
+x   c
+1 da
+1  b
+b
+1 d a
+#2   a
+x   c
+1 daa
+1  b
+b
+
+b
+1   cd
+#2    d
+x    c
+1   ca
+1  a
+b
+0  bc
+0  bc
+b
+1  da
+#2  d
+x  b
+1  da
+1 a
+b
+0 b  d
+0 b  d
+b
+1  a c
+#2  a
+x   c
+1  a c
+1  b
+b
+0  de
+0  de
+b
+1 a c
+#2 a
+x  d
+1 a c
+1 b
+b
+0 d a
+0 daa
+b
+#3  b d
+x  a
+x  b
+x  d
+#2  b
+x  a
+1  b d
+1  d
+b
+0 a  c
+0 d  c
+b
+
+b
+1a d
+#2a
+x d
+1a d a
+1c a
+b
+0d  c
+0f aa
+b
+1fd a
+1d
+1cd a
+#2ab c
+x  a
+b
+1 dff
+1  d
+0d bc
+b
+1d da
+#2c
+xa
+1c da
+1 a
+b
+1 b  a
+#2a   a
+x     d
+#2ab  a
+x d  c
+xa   d
+xc  a
+b
+1d  c
+1f a
+1 ab
+#2 d   d
+x     c
+b
+#2 a   d
+x b  a
+x d  c
+xa   d
+1ca a
+1d  c
+b
+
+b
+1  de
+#2 c   c
+x     a
+#2 cd  c
+x a   d
+x c  a
+x d  c
+b
+1a d e
+1c  a
+1  bc
+#2 a c
+x   a
+b
+#2 abc
+x  d
+x a
+x b
+1 dff
+1a  c
+b
+#2  a
+x   c
+x  da
+x    d
+#2  def
+x  b
+x  d
+x a
+b
+1 cde
+1 d a
+1  bc
+1  b
+b
+1  da
+1  a
+1 ab
+#2  bc
+x  a
+b
+#2 ab
+x  d
+x ab
+x bd
+1 dff
+#2 d
+x b
+b
+
+b
+#2 db
+x  d
+x ab
+x b
+#2 dff
+x   e
+1ab c
+b
+1 d a
+#2  b
+x  a
+#2  b
+x  d
+x ab
+x bd
+b
+#2 dff
+x   e
+1ab c
+1cd a
+1d  c
+b
+1f a
+1h  fh
+#2h
+xf
+xh
+xi
+b
+1h  f
+#2 a
+x  d
+#2 a
+x b
+1ha
+b
+#2h  f
+xf
+xh
+xi
+#2h  f
+xf
+xd  c
+xc
+b
+
+b
+1abd
+1 d a
+1 ab
+#2db c
+x a
+b
+1  da
+1c
+Yd b  d
+b
+b
+
+e

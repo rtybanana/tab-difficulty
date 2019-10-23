@@ -1,0 +1,461 @@
+-t
+-f
+{Allez regrets/Francesco Spinacino}
+b
+0.
+#3i
+xh
+xf
+xh
+b
+0i gh
+1i g
+#2gd
+xf
+b
+1dfg
+#2b
+xd
+#2fg a
+x   c
+x   d
+x   c
+b
+#2gi f
+xf
+xg
+xf
+#2d
+xa
+xb d
+xa b
+b
+
+b
+1fd d
+1 f
+1ig  i
+#2 f
+x g
+b
+#2gd f
+xf
+xg
+xf
+#2d e
+x  d
+x  e
+x b
+b
+#2 d
+xa
+xb e
+xa
+1b d
+1  d
+b
+#2d ef
+x  d
+1 de
+#2  ef
+x  b
+xd da
+x  e
+b
+
+b
+1 bd
+1c
+#2d b
+x  d
+x  e
+x b
+b
+#2 d
+xa
+xb d
+xd
+1fd d
+1d  c
+b
+1fd d
+#2ig h
+x f
+#2 d
+xa
+xb
+xd
+#2f
+xh
+b
+#2i  hi
+x  b
+x  d
+x a
+#2   d
+x b
+x   c
+x   a
+b
+
+b
+#2    d
+x    b
+x    a
+x     d
+1ig  i
+#2g
+xf
+b
+#2i  h
+x   f
+x   d
+x   c
+1i  hi
+#2g
+xf
+b
+#2gi
+xfg
+xdf
+xbd
+1dfg
+#2 d
+xa
+b
+#2b  a
+xd
+xf
+xg
+#2fd
+xd
+#3g
+xf
+xd
+xb
+b
+
+b
+#2if h
+xg
+xi
+xg
+1ffg
+#2 de
+x bd
+b
+1dde
+1ffd
+1  dd
+#2 def
+x b
+b
+#2 d
+x b
+x  e
+x  d
+#2  e
+x d
+x  b
+x  e
+b
+#2 bdd
+x  e
+x b
+x d
+#2 bd
+x d
+xa
+xb
+b
+
+b
+#2abd
+xf
+xd
+xb
+1abd
+1f d
+b
+1  e
+1d
+#2f d
+x  e
+xfb
+xgd
+b
+1if h
+1fg
+#2ffd
+xd
+xfg
+x f
+b
+1 de
+1d
+#2fbd
+xg
+xi
+xf
+b
+1gd f
+1f  d
+#2gd f
+xf
+xd  b
+xb  a
+b
+
+b
+#2df  d
+xb
+xdf
+xbd
+#2ab
+xbd
+1df
+b
+1 de
+#2d ef
+x  d
+1  ef
+#2bde
+x  d
+b
+#3d e
+xb
+xa
+x d
+#2abd
+x  e
+#2b
+x  e
+1g e
+b
+1 b d
+1f
+#2g ef
+xf
+xg
+xi
+b
+
+b
+1.f  d
+2d
+2b
+#3a
+x d
+1 b d
+b
+1f
+1g ef
+#2f
+xd
+1fb
+b
+1d ef
+1ab
+1 db
+1 a
+b
+1db  d
+1i
+1 gi
+#2hf
+x d
+b
+#2ifg
+xg
+xi
+xg
+1f g
+#2de
+xb
+b
+
+b
+#2dfg
+xb
+xdf
+xbd
+1ab
+#2 de
+x bd
+b
+#2 def
+x  d
+x de
+xab
+#2bde
+xa
+xbd
+xd
+b
+#2fgd
+xg
+xif
+xg
+#2i  h
+xg
+xfb
+xd e
+b
+#2fbd
+xd e
+xb d
+xa b
+#2bbd
+x  b
+x  d
+x  b
+b
+
+b
+#2d ef
+xb
+xa
+x d
+#2 bd
+x  e
+x bd
+x  ef
+b
+#2  dd
+x  b
+1 dda
+#2   c
+x c
+#3 d
+x c
+x a
+x c
+b
+#2 dda
+xa
+xb  a
+x   c
+#2b dd
+xd
+xf dd
+x  ef
+b
+#2fbd
+xg
+xi g
+xg
+#2i
+xg
+xfb d
+xd
+b
+
+b
+#2f d
+xd
+1bde
+#2ddb
+x b
+1g e
+b
+1 b d
+1f
+1g e
+#2fgi
+xd
+b
+#2d
+xb
+xdfg
+xb
+#2ab
+x d
+1i g
+b
+#2 db
+xa
+xb
+xd
+#2f
+xg
+xi gf
+x  e
+#2i g
+xgd
+b
+
+b
+#2dfg
+x a
+x b
+x d
+#2a
+xb
+xd
+xa
+b
+#2b
+xa
+xb
+xd
+#2ffg
+xg
+xi g
+x  e
+b
+1 fd
+#2g  f
+xf  d
+1df c
+#2fb d
+x   c
+b
+#2 b
+x  e
+1d bc
+1  da
+1b  d
+b
+
+b
+#2    d
+xa b
+#3b
+xa
+x d
+xa
+1b  d
+#2fg d
+x   f
+b
+#2fg h
+xgi
+xi  h
+x   i
+#2i g
+xg
+xfgi
+x f
+b
+#2fg
+xg
+1ifg
+#2ab
+x d
+1dde
+b
+#2dfg
+xb
+1bb d
+#2    d
+xa d
+#3b
+xa
+x d
+xa
+b
+Ybb d
+b
+Q
+
+e

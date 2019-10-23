@@ -1,0 +1,386 @@
+-C
+-t
+-f
+{Et d'ou venez vous, Madame Lucette?/Et d'ou venez vous, Madame Lucette?}
+b
+c
+0    e
+#2  ab
+x   c
+1   e
+#2  cc
+x  d
+1 a
+1 cee
+1   e
+b
+#2 efec
+x f
+1ca a
+1acc e
+1 ea c
+1 cdeec
+1   e
+#2 ac  e
+x    a
+1 aaac
+b
+#2 cdca
+x e
+1a   e
+#2 ea c
+x   c
+1  a c
+1 acc a
+1 acc a
+1 ceeec
+1 cee
+b
+
+b
+#2 efec
+x f
+1c a
+#2aacc
+x  e
+1 ac  e
+#2  dca
+x    c
+1  cce
+1 aabc
+1 ceeec
+b
+#2 efec
+x f
+1c   c
+1aacc a
+1 acc a
+1 cee c
+1c
+#2caabc
+x   c
+1 ea c
+b
+#2a  ce
+x   a
+1   c
+#2 cdca
+x    c
+1ac  e
+1 efec
+1c
+#2ef c a
+xg
+1h    a
+b
+#2fcd a
+x a
+1ac
+1fcd  c
+1ccde
+1eccce
+1    c
+1fc c f
+1     e
+b
+
+b
+1 cde c
+1ec   e
+1cc  a
+1     c
+#2  hge
+x h
+x g
+x e
+#3 h
+x g
+x h
+x g
+#3 h
+x g
+x e
+x g
+b
+0cceeec
+1 cee
+1 cee
+#2 e  c
+x  f
+x c  c
+x e
+#2a c e
+x c
+x e
+xa
+b
+1c def
+1  de
+#2 ac c
+x   c
+x  a
+x  c
+#2a d
+x c
+x d
+xa
+#2c d
+x   e
+x  c
+x  d
+b
+#2c f
+x e
+x f
+xc
+1effc
+1   c
+#2 cdca
+x  d
+x a
+x c
+#2 ea c
+x a
+x c
+x e
+b
+
+b
+#2a  ce
+x c
+x e
+xa
+#2caabc
+xa
+xc
+xe
+#2fcdca
+xc
+xe
+xf
+1ea c
+1ccde
+b
+1ccde
+1 ghge
+#2caaa
+xf
+xe
+xc
+0 ghge
+#2 ghge
+x  h
+x e
+x g
+b
+#2c ee
+x e
+x f
+xc
+#2effc
+xc
+x f
+x e
+#2 ffc
+xc
+1ec  e
+1.eefg
+2 h
+b
+0 ghge
+1  h
+1  h
+0 ghge
+1 ghg
+1    e
+b
+1 ac  e
+1  c
+1ea   e
+1e
+1 ec ce
+1   b e
+1aacc a
+1     a
+b
+
+b
+1caabc
+1 aa
+1e    e
+1   d
+0 ceeec
+1fc
+1 c
+b
+1efh
+1ee g
+1acd
+1c d
+1eegg
+1  g
+1acc e
+1 c
+b
+1 ccce
+1  ggge
+1 cdca
+1 cdca
+1  ggge
+1 e
+1 egg e
+1 egg e
+b
+0 ghge
+1 ghge
+1 ghge
+1 cee
+1     c
+1 cee c
+1c    c
+b
+1cef c
+1cefe
+1h fg
+1  a
+1ea c
+1     a
+1ea c a
+1ea c a
+b
+1acd a
+1  d
+0acd a
+0ea c
+1 c  e
+1e
+b
+
+b
+1ccee
+1cdf c
+#2 ghge
+x h
+1 g
+0ccee c
+1 aabc
+1 aabc
+b
+1 cdca
+1 cdeec
+0  ggge
+0acc e
+1 ccce
+1a  ce
+b
+0 efec
+0acd a
+0aacc a
+1ea c a
+1ea c a
+b
+0ccde
+0acc e
+0 eggge
+1 egg
+1 eggge
+b
+1 cc e
+1 ea c
+1a  ce
+1  e
+0 efec
+1cefec
+1cefec
+b
+0aacc
+1aacc
+1aacc
+1acd a
+1  d
+1   ca
+1   c
+b
+1 cdeec
+1   e
+0 cdeec
+0 ccce
+1  cce
+1 c
+b
+
+b
+1 cde
+1aac
+1acd
+1c de
+0ea c
+0aacc a
+b
+1 cdeec
+1 ac  e
+1 cdca
+1  deec
+0 acc a
+1hffg a
+1 f
+b
+1f de
+1eac
+1acd
+1c de
+0ea c
+1  c e
+1ac
+b
+1caab
+1aacc
+1 cde
+1caab
+0 ghge
+1  hge
+1    e
+b
+1  ggge
+1 ccce
+1 cde c
+1  ggge
+0 ccde
+1 ccde
+1    e
+b
+1 efg
+1a c e
+1c de
+1 efg
+0 ccde
+1fcde c
+1   e
+b
+
+b
+1eccce
+1ccde c
+1cdf c
+1 ghge
+0ccee c
+1 dfec
+1 dfec
+b
+0ccee c
+1cdfec
+1    c
+1 ddef
+1    f
+1 dfec
+1 dfec
+b
+1cce  c
+1   e
+1cce
+1e
+wgc e c
+b
+b
+
+e

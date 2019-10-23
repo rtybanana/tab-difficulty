@@ -1,0 +1,301 @@
+-C
+-t
+-f
+{104. Mall sims/Hans Leo Hassler}
+b
+c
+0 abc a
+0d
+b
+0caa   a
+#1 a
+xh  f
+b
+#1f  e
+xd  c
+#1c  a
+xa   e
+b
+#1 e  c
+x a
+0 a
+b
+#1d  c
+xa
+#1c  a
+x abc
+b
+1.  de
+2  b
+#1  aa
+x   c
+b
+#1 aa c
+xa b  a
+#1 cd a
+x ea c
+b
+#1aac  a
+x   c
+0aac  a
+b
+b
+0 abc a
+0d
+b
+0ca  c
+#1 a
+xh  f
+b
+
+b
+#2   e
+xf
+x   c
+xd
+#2   a
+xc
+x    e
+xa
+b
+#1 e  c
+x a
+0 a
+b
+#2da   a
+xc
+xa
+xd
+#1ca  c
+x a
+b
+2.  de
+3  b
+#2  aa
+x   c
+#1 bd d{
+x  d
+b
+#2    c{
+x f
+x e
+x c
+#3 f
+x e
+x f
+x e
+#3 f
+x e
+x c
+x e
+b
+#1aac  a
+x   c
+0aaccca
+b
+b
+#2d    d
+xf
+1h
+#2c  a
+xd
+1f
+b
+
+b
+1dab  a
+#2c
+xa
+#1 ea c
+x a
+b
+#2  b  d{
+x  d
+1 a
+#2  aa
+x  b
+1  d
+b
+1  b  a
+#2  a
+x   c
+#1  abc
+x      a
+b
+#2   c
+x  a
+x  b
+x  d
+#2 a
+x  b
+1   c
+b
+#2     a
+x     c
+x     d
+x    a
+#2    c
+x     d
+1     a
+b
+#2  b  d
+x  d
+x a
+x b
+#2 d
+x a
+1  b
+b
+
+b
+#2     d
+x    a
+x    c
+x    d
+#2   a
+x    c
+1     d
+b
+0 abc a
+0d
+b
+1.caa c{
+2a
+#2 e
+x c    }
+1 a   d
+b
+#2 cd a
+x e
+1aa c a
+1aa  c
+#2 e
+x  d
+b
+#1aac  a
+x   c
+0aaccca
+b
+b
+#3d    d
+x h
+xd
+xf
+#2h
+xd
+#3c  a
+xa
+xc
+xd
+#2f
+xc
+b
+
+b
+2da   a
+#3c
+xd
+#3f
+xd
+xc
+xa
+#1 ea   a
+x a
+b
+#3  b  d
+x  a
+x  b
+x  d
+#2 a
+x  b
+#3  aa
+x   c
+x  a
+x  b
+#2  d
+x  a
+b
+2  b  a
+#3  a
+x  b
+#3  d
+x  b
+x  a
+x   c {
+#1  abc
+x   }  a
+b
+b
+#2   c a
+x  a
+x  b
+x  d
+#2 a
+x  b
+1   c
+b
+#2 a   a
+x     c
+x     d
+x    a
+#2    c
+x     d
+1     a
+b
+
+b
+2.  b  d
+3  d
+#3 a
+x  d
+x a
+x b
+#2 d
+x a
+1  b
+b
+2. ab  d
+3    a
+#2    c
+x    d
+#2   a
+x    c
+1     d
+b
+0aa   a
+0da   a
+b
+#2c   c
+xd
+xc
+xa
+#2 e
+x c
+1 ab  d
+b
+#3 c  a
+x a
+x c
+x e
+1a
+#3 f  c
+x e
+x f
+x e
+#3 f
+x e
+x c
+x e
+b
+2aa   a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+0   c
+b
+b
+
+e

@@ -1,0 +1,331 @@
+-t
+-f
+{Paduana/Paduana}
+b
+c
+#2a
+xc
+xe
+xf
+#2e
+xc
+xa
+x d
+b
+#2 c
+x d
+xa
+xc
+#2a
+x d
+x c
+x a
+b
+#2 d
+x c
+x a
+x  d
+#2 c
+x a
+x c
+x  d
+b
+1 acc
+1 a
+1 acc
+#2 c
+x a
+b
+
+b
+#2 c
+x d
+xa
+xc
+#2a
+x d
+x c
+x a
+b
+1 c
+#2 c
+x a
+#2 d
+x c
+x a
+x  d
+b
+#2 a
+x  d
+x  c
+x  a
+#2   c
+x   a
+x    e
+x    c
+b
+1  dca
+1  d
+0  dca
+b
+#2f
+xe
+xf
+xh
+#2i
+xh
+xf
+xe
+b
+#2h
+xf
+xe
+x h
+#2f
+xe
+xc
+xa
+b
+
+b
+#2e
+xc
+xa
+x d
+#2c
+xa
+x d
+x c
+b
+1 acc
+1 a
+1 acc
+#2c
+xe
+b
+#2f
+xe
+xc
+xa
+#2d
+xc
+xa
+x d
+b
+#2a
+x d
+x c
+x a
+#2 d
+x c
+x a
+x  d
+b
+#2 a
+x  d
+x  c
+x  a
+#2   c
+x   a
+x    e
+x    c
+b
+1  dca
+1  d
+0  dca
+b
+
+b
+1f
+#2e
+xf
+#2h
+xf
+xe
+x h
+b
+1 f
+#2  d
+x a
+#2 c
+x e
+xa
+xc
+b
+#2a
+x d
+x c
+x a
+#2 d
+x c
+x a
+x  d
+b
+1 acc
+1 a
+0 acc
+b
+#2a
+xc
+xe
+xf
+#2e
+xc
+xa
+x d
+b
+#2 c
+x d
+xa
+xc
+b
+#2a
+x d
+x c
+x a
+b
+
+b
+#2 d
+x c
+x a
+x  d
+#2  c
+x  d
+x a
+x  c
+b
+1  dca
+1  d
+0  dca
+b
+#2  a
+x  c
+x  d
+x a
+#2  c
+x  d
+x a
+x c
+b
+#2  d
+x a
+x c
+x d
+#2 a
+x c
+x d
+xa
+b
+#2c
+xa
+x d
+x c
+#2 d
+x c
+x a
+x d
+b
+1 acc
+1 a
+0 acc
+b
+
+b
+1f
+#2e
+xc
+#2a
+x d
+x c
+x a
+b
+1 cd
+#2  c
+x  d
+#2 a
+x c
+x d
+xa
+b
+#2 d
+x c
+x a
+x  d
+#2 a c
+x  d
+x a
+x  c
+b
+1  dca
+1  d
+1  dca
+#2f
+xe
+b
+#2f
+xh
+xi
+xa
+#2c
+xe
+xf
+x a
+b
+#2 c
+x e
+xa
+xc
+#2e
+xf
+xe
+xc
+b
+
+b
+#2a
+x d
+x c
+x d
+#2a
+xc
+x d
+x c
+b
+1 acc
+1 a
+1 acc
+#2 c
+x a
+b
+#2 c
+x d
+xa
+xc
+#2a
+x d
+x c
+x a
+b
+1 c
+#2 c
+x a
+#2 d
+x c
+x a
+x  d
+b
+#2 a
+x  d
+x  c
+x  a
+#2   c
+x   a
+x    e
+x    c
+b
+w  dca
+b
+b
+
+e

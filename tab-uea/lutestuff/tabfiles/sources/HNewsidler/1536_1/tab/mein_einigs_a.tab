@@ -1,0 +1,209 @@
+-t
+-f
+{Mein einigs A./Hans Newsidler}
+b
+0 a
+#2 a
+x  d
+x a
+x b
+b
+0 d
+0a
+b
+0 d  c
+1 d  c
+#2 b  d
+x a
+b
+0  da
+0  bc
+b
+#2 d a
+x c
+x d
+xa
+#2c  a
+x d
+xd   d
+x    c
+b
+
+b
+1    a
+1c
+0d    d
+b
+#2c
+xa
+x d a
+xc
+1a
+1    e
+b
+w d a
+b
+0
+#2d"+    d
+x    a
+x    c
+x    d
+b
+#2c  a
+xa
+xc
+x d
+1a  c
+1    d
+b
+
+b
+#2 db"+
+xa
+x d
+x b
+#2 a
+x  d
+1 b  d
+b
+#2   c
+x b
+x a
+x  d
+#2  b
+x  d
+x a
+x b
+b
+1 d"+
+1     d
+1 b  a
+1 d   d
+b
+#2    c
+x d
+x b  d
+x a
+1  da
+1  d
+b
+w  b  d
+b
+0
+#2 d"+b
+x  a
+x  b
+x  d
+b
+
+b
+0 db
+#2a   d
+x   a
+x   c
+x  a
+b
+0 db
+1
+1 bd
+b
+1 a c
+1  de
+0 a c
+b
+0  d a
+1    a
+1 ab
+b
+1 bd
+1 ab
+1   d"+
+1  d
+b
+w a c
+b
+0
+#2 a c
+x   a
+x    d
+x    c
+b
+
+b
+0 b  a
+#2  d"+ a
+x    c
+x    d
+x   a
+b
+0  bc
+1  dd
+1 a c"+
+b
+#2 a
+x  b
+1  d a
+0  a c
+b
+w   cd
+b
+0
+0   cd
+b
+0  b d
+#2  d d"+
+x a
+x  b
+x  d
+b
+0 a   d
+1
+1 a   d
+b
+1  da
+1  bc
+0  da
+b
+
+b
+0  b  d
+1     d"+
+1 d
+b
+#2 b
+x a
+x b
+x  d
+#2 ab"+
+x b
+x d
+x a
+b
+#2a d"+
+x d
+x a
+x c
+1 df"+
+1 a
+b
+1 b"+
+1  d
+#2 a
+x  d
+x d"+b
+x  a
+b
+1  b
+#2 b  d
+x a
+1  da
+1  d
+b
+
+b
+Y  b  d
+b
+b
+Q
+
+e

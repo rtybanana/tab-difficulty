@@ -1,0 +1,129 @@
+-C
+-t
+-f
+{9. Padoana/9. Padoana}
+b
+x  "+
+2abd a
+b
+1abd a
+#2abd
+x   "+ a
+#2abd
+x db c
+b
+1abd a
+2abd
+#3   "+ a
+x a
+#3 b
+x d
+2abd a
+b
+1 ab  d
+2   a  "+
+1 ab
+2  d  c
+b
+#2 a a d
+x c    "+
+#2 d a d
+x d a d
+#2a
+x d a d
+b
+1abd a
+#2abd
+x    a
+#2abd
+x db c
+b
+
+b
+1 bd a
+#2 a a d
+x  d  b
+#3 a    "+
+x  d
+x  c
+x  a
+b
+1aac  a
+2   c
+1aac
+2  d  b
+b
+1aac  a
+2   c
+1aac
+2abd a
+b
+#3    a
+x a "+
+x b
+x d
+#3a
+xc
+xd
+xc
+#3a
+x d
+x b
+x a
+b
+1abd a
+2abd
+#3   "+ a
+x a
+#3 b
+x d
+2abd a
+b
+1 ab  d
+2   a  "+
+1 ab
+2  d  c
+b
+
+b
+#2 a a d
+x c
+#2 d a d
+x d a d
+#2a
+x d a d
+b
+1abd a
+#2 a a d
+x  d  b
+#3 a
+x  d  "+
+x  c
+x  a
+b
+1aac  a
+2  d  b
+1aad  a
+2  c
+b
+2acd a
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+b
+1acd a
+2acd
+1acd a
+2
+x
+b
+b
+
+e

@@ -1,0 +1,328 @@
+-C
+-t
+-f
+{3. Courante/3. Courante}
+b
+c
+2   c
+b
+.
+1.   c a
+2  a
+#2  b
+x  d
+#2 a
+x b
+#2 a
+x  d
+#2 a
+x  b
+b
+2  bb c
+1  d
+2  b
+#2  b
+x  a
+#2   c
+x   b
+2   b
+#3   c
+x   b
+#2   c
+x  a
+b
+
+b
+1.    cd
+#3   c
+x   b
+1   c
+1  a c
+#2  d  a
+x  b
+#2  a  d
+x   c
+b
+1. bdca
+2  d
+#2a
+x e
+1a b
+2  b c
+1  a
+2 a
+b
+1.  bcca
+2  a
+#2   c
+x  a
+#2  b
+x  d
+#2 a
+x b
+#2a
+x d
+b
+
+b
+1. dba  //a
+2 b
+#2 a
+x  d
+#2  b
+x  a
+#2  a
+x  b
+#2      /b
+x  d
+b
+#2  b   a
+x  a
+#2   c
+x   a
+1 d
+#2     c
+xa
+#2 d  c
+x c
+#2 d  a
+x a
+b
+1.aa   d
+2 d
+#2 d
+x c
+#2 a   c
+x  e
+#2  e  d
+x a
+#2     a
+x c
+b
+
+b
+#2  f ec
+x  e
+#2  c
+x   e
+1c
+#2a   a
+x e
+1a    d
+2c    c
+#3a
+xc
+b
+1.da c a
+2c
+#2a
+x d
+#2 c c
+x d
+#2 a e
+x  e
+#2   f
+x a
+b
+#2    e
+x  e
+#2a    c
+xc
+#2aaa   //a
+x d
+#2     a
+x c
+1. ce  c
+2  f
+b
+
+b
+A1
+1 af&U   //a
+#3  X
+x  d
+x  b
+x  a
+2.  b
+3   c
+0 aab  //a
+#2
+x   c
+.
+b
+b
+A2
+1 af&U   //a
+#3  X
+x  d
+x  b
+x  a
+2.  b
+3   c
+0 aab  //a
+#2
+xc
+b
+.
+1.cef   //a
+2d
+#2c
+xa
+2 ef
+#3a
+xc
+1 ab
+#2   c
+x b
+b
+
+b
+2 a  e
+1  d
+2   f
+#2  a
+x  b
+#2  de
+x b
+#2 bab
+x a
+#2    c
+x  d
+b
+#2  dcca
+x  b
+#2  a
+x   c
+1 bbc
+1 a df
+1 a cd
+#2a
+xb
+b
+1.  c&'a  //a
+2  d
+#2 a
+x b
+#2 d
+xa
+1b
+1a c  a
+b
+
+b
+#2 d ca
+x b
+#2 a
+x  d
+#2  b
+x   d
+#2  b   ///a
+x   c
+#2   d  a
+x  d
+#2 a
+x b   a
+b
+#2 b   b
+x a
+#2  d   a
+x  b
+1db c a
+#2      d
+xf
+1. d&'ff d
+2 b
+b
+1. bbcd
+2 a
+#2 b
+x d
+#2a   d
+xc
+#3d   c
+xc
+xd
+xc
+#3d   a
+xc
+xa
+xc
+b
+
+b
+1.dd  c
+2 d
+1a
+1 a   d
+#2 a  a
+x b
+#2     c
+x d
+b
+#2 b   d
+x a
+#2  d
+x  b
+#2 a
+x c
+#2 a   d
+x c
+#3 d   c
+x c
+x d
+x c
+#3 d   a
+x c
+x a
+x c
+b
+
+b
+1. d   c
+2 c
+#2a
+x e
+1a    d
+#2 d  a
+x b
+#2 a   c
+x  d
+b
+1  d&'b  //a
+#2    c
+x a
+1  b&'c
+#2    a
+x  a
+1  abc
+#2      //a
+x   c
+b
+A1
+1.   c a
+#3    c
+x    a
+#3     d
+x    a
+2    c
+1a b ca
+1.     a
+2c
+.
+b
+b
+
+b
+A2
+1.   c a
+#3    c
+x    a
+#3     d
+x    a
+2    c
+1a b ca
+0     a
+b
+b
+
+e

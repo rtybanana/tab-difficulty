@@ -1,0 +1,227 @@
+-C
+-t
+-f
+{/}
+b
+0 cdca
+#2    a
+x    c
+b
+1a d e
+1a d e
+1    a
+b
+0aacc
+#2  a
+x  c
+b
+1acd
+1  d
+1 dde
+b
+1aac
+1  c
+#2aac
+x  c
+b
+1acd
+1  d
+1cc  a
+b
+0ce  c
+#2 ea c
+x    c
+b
+1aabc
+1.aab c
+2 ea
+b
+0aac  a
+#2 acc
+x   c
+b
+1 acc
+1     a
+1aacc
+b
+
+b
+1aacc
+1     a
+1aacc
+b
+2.acd
+3  c
+2.acd
+3 a
+2.acd
+3 a
+b
+1acd
+1    a
+1acd
+b
+1. dde
+2   e
+1a d e
+b
+1.cdda
+2 cd c
+1 acc
+b
+0 cdca
+1    a
+b
+1acd
+1    a
+1ac  a
+b
+2.acd
+3 a
+2.acd
+3  b
+2. da
+3   c
+b
+1 daa
+1      a
+1ca a
+b
+0aacc
+1aacc
+b
+
+b
+1aacc
+1     a
+1aacc
+b
+1aacc
+1     a
+1aa\2c\1c
+b
+2.a\2c&{\3d
+3  \1c
+2.ac&}\3d
+3 a
+2.\1b\3c&{\4d
+3  \2c
+b
+1\4cca
+1     \2c
+1b c e
+b
+1.ccde
+2   e
+1\1cc  a
+b
+1. \4d\3d \1c&{
+2  \2c&( c&}
+1\1b d&) \4e
+b
+0ccd  c
+#2ccde
+x   e
+b
+1a d e
+1    e
+1ac  a
+b
+0aacc
+#2 da
+xaac
+b
+1acd
+1  d
+1 da
+b
+
+b
+1aac
+1  c
+#2aac
+x  c
+b
+1acd
+1  d
+1ac  a
+b
+0 ea c
+#2 ea c
+x    c
+b
+1aabc
+1.aab c
+2 ea
+b
+0aac  a
+1 acc
+b
+1 acc
+1     a
+1 acc
+b
+1 acc
+1     a
+1aacc
+b
+2.acd
+3  c
+2.acd
+3 a
+2.acd
+3 a
+b
+1acd
+1    a
+1acd
+b
+1. \3da
+2   \1c
+#2\3d \2d&{a
+x\1c
+b
+
+b
+1.a d\4f\3e
+2    \1c
+1a\2c  a
+b
+0 \3d&{aa
+1\1cd&}\2da
+b
+1 dd\4e
+1   a
+1cdda
+b
+1 d&{de
+1   a
+1 da c
+b
+1ad\2c&(  a
+1 } \1c
+1adc  a
+b
+0aac&)  a
+1aacc
+b
+0a\3cc&{c
+1aac&}c
+b
+1a\2c\3d
+1 a\2c&{c
+1 acc
+b
+1 \1cd&}\3e
+1a d \3e&{
+1    e&}
+b
+1. \4d&{aa
+2 d&}\1b \2c
+1 a\2c\1c&{
+b
+0. \2c\3dca
+b
+b
+
+e

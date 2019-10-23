@@ -1,0 +1,424 @@
+-C
+-t
+-f
+{Sit nomen Domini/}
+b
+c
+0 af
+1 df
+1 ce
+b
+1 ef
+1b c
+0c a c
+b
+1   ac
+1    eg
+1 a bc
+1 a d e
+b
+1 dfe c
+1 ce
+1 ef
+1b c
+b
+1c a
+1fca
+1ccde
+1e cd
+b
+#2  de
+xc
+1caaa
+2.  hge
+#4 g
+x e
+#3 h h
+x g
+#4 h
+x g
+x e
+x g
+b
+
+b
+#2c    c
+x  c
+1   ea
+2 a   e
+#3   d
+x   b
+#3 a e
+x   d
+#4   e
+x   d
+x   b
+x   d
+b
+1 dfe c
+1 cee
+1 df c
+1a cce
+b
+1c def
+1eacc
+1 cde
+#2 dac
+x   a
+b
+#2 fhge
+x h
+xefh
+xf
+#2effc
+x d
+xccde
+x a
+b
+2.  hge
+#4 g
+x e
+#3 h
+x g
+#4 hf
+x g
+x e
+x g
+1cc   c
+1cd e
+b
+
+b
+1acd
+1 df
+2 c e
+#3  e
+x  c
+#3  f
+x  e
+#4  f
+x  e
+x  c
+x  e
+b
+1 a  c
+#2 ddef
+x   a
+#2   e
+x   f
+x ddef
+x   c
+b
+1 d ef
+1  d
+1 cd a
+#2   d
+x   bc
+b
+2. cdde
+#4  c
+x  d
+#2  ce
+x  a
+2. cc e
+3   d
+#3   e
+x   d
+x   b
+x   d
+b
+1   e c
+1 cd e
+1 aaac
+1 cdca
+b
+#2  def
+x   g
+1 aa
+2. cc e
+3   d
+#3   e
+x   d
+#4   e
+x   d
+x   b
+x   d
+b
+
+b
+1  de c
+1 cd
+1 df
+1a d
+b
+#3cd
+x c
+x a
+x c
+#3 d
+x a
+x c
+x d
+2ec
+#4f
+xe
+xc
+xe
+1f d ec
+b
+1ca ac
+1fc ca
+1  def
+#2ea
+xc
+b
+1acc e
+1f  ce
+1  aa
+1eccc
+b
+1  de
+1cc
+2.  hge
+#4 g
+x e
+#3 hh
+x g
+#4 h
+x g
+x e
+x g
+b
+1c de c
+1   e
+1ccd
+1   e
+b
+
+b
+1cc e
+1  de
+1 daa
+#2c f
+x   c
+b
+2cc e
+#3  e
+x  c
+#3c f
+x  e
+#4  f
+x  e
+x  c
+x  e
+1 df c
+#2 d  c
+x    e
+b
+#2   a
+x c c
+x  def
+x ac
+1 ce e
+1cdf c
+b
+2. c e
+#4  e
+x  c
+#3fa
+x  e
+#4 a
+x  e
+x  c
+x  e
+1ea  c
+#3c   c
+xa
+xc
+xd
+b
+#2c
+xa
+xc aa
+x d
+1a c e
+1 df c
+b
+
+b
+1 c e
+#2  d  c
+x  c
+1 cd e
+#2 c   f
+x    g
+b
+1 a d e
+1 cde c
+2.  c e
+#4   d
+x   b
+#3a  e
+x   d
+#4   e
+x   d
+x   b
+x   d
+b
+1 da  c
+#2 c
+x   c
+#2  aa c
+x a
+x a  e
+x    c
+b
+2.   eec
+#4  e
+x  c
+#3 a
+x  e
+#4 a
+x  e
+x  c
+x  e
+1 a ac
+1  aa
+b
+1c a
+#2 a  ef
+x    ce
+1c de c
+#2   e
+x ac
+b
+
+b
+#2ccd
+x   c
+x daa
+x    e
+1cdf c
+#2  da
+x c
+b
+1aacc
+1 c  e
+1a cc
+#2    h
+x  ah
+b
+#2 a g
+x    f
+x c ce
+x    c
+1acd a
+#2  c e
+x a
+b
+1 ddef
+1  f c
+1 daa
+#2    f
+x  cc
+b
+#2 dde
+x    e
+x  fac
+x    a
+1 dff d
+#2   ec
+x  d
+b
+1 ccce
+1  d  f
+1 c ce
+#2    e
+x  aa
+b
+#2 ccc
+x    c
+x  d ef
+x     e
+1 cde c
+#2   ca
+x  c
+b
+
+b
+1 aaac
+1  bc a
+1 a cc
+#2   a h
+x    e
+b
+#2 aaa
+x    a
+x  b cd
+x     c
+1 abc a
+#2   a d
+x  a
+b
+1  dcef
+#2  de c
+x a
+b
+c
+#2 c  a
+x  cc
+x daac
+x    e
+1    cd
+#2 c c
+x a  e
+b
+1  ea c
+#2 a  e
+x    c
+2.   eec
+#4  e
+x  c
+#3 a
+x  e
+#4 a
+x  e
+x  c
+x  e
+b
+
+b
+#3 aa c
+x  d
+x a
+x c
+#3 d
+x c
+x d
+xa
+#3ca ac
+xa
+x d
+x c
+#3 a
+x  d
+x  b
+x  a
+b
+#3 abc a
+x  d
+x a
+x b
+#3 a
+x  d
+x  b
+x  a
+#2 abc a
+x   c
+1  b
+b
+Y aabc
+b
+b
+P
+e

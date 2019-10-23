@@ -1,0 +1,244 @@
+-C
+-t
+-f
+{Humilde se acerca/Humilde se acerca}
+b
+.
+2. aa c
+3 c
+#2 da c
+xa   e
+b
+2.cd a
+3c
+#2cd a
+xc  a
+b
+2f  cc
+#3   e
+xf
+#2c  cc
+xa   e
+b
+2.ca a
+3c  ac
+#2c  ac
+xc  ac
+.
+b
+b
+2.ha   h
+3f
+#2 h a h
+xa  ce
+b
+2c  ac
+#3   a
+xa
+#2 d a
+x a a
+b
+
+b
+2 da
+#3   c
+x d
+#2 d a
+xac  b
+b
+#3 aa c
+x a
+x  a c
+x a
+#2 daa
+x daa
+b
+2.ha   h
+3f
+#2 h a h
+xa  ce
+b
+2c  ac
+#3   a
+xa
+#2 daa
+x a a
+b
+2 da
+#3   c
+x d
+#2 daa
+xac  b
+b
+2. aaac
+3 a  c
+#2 aaa  /a
+x
+b
+b
+
+b
+.
+2 ab c
+#3   c
+x  d
+#2 a  c
+x cbc
+b
+2. daa
+3   a
+#2 daa
+x   a
+b
+2c  cc
+#3   e
+xc
+#2 d c
+x c  e
+b
+2. d a
+3   ac
+#2   ac
+x   ac
+.
+b
+b
+2.c  ac
+3c
+#2 d  c
+x c  e
+b
+#2 d a
+x ca
+#2 a  c
+x a a
+b
+2  a  c
+#3   c
+x  a
+#2  aa
+x  a eg
+b
+
+b
+2. aaac
+3    c
+#2 a    /a
+x    c
+b
+2.cd  c
+3c
+#2 da c
+x ce e
+b
+#2 d a
+x ca
+#2 aaac
+x a a
+b
+2  a  c
+#3   c
+x  a
+#2  aa
+x  a eg
+b
+2. aaac
+3    c
+#2 aaa  /a
+x
+b
+b
+.
+#3 ab
+x a
+x a
+x ab
+#2 ab
+x d
+b
+
+b
+#3  def
+x  d
+x  def
+x  d
+#2  def
+x  f
+b
+2  aa c
+#3  a
+x  d
+#3   a c
+x  a
+2   c a
+b
+#3  a a a
+x  a
+x  aa
+x  a
+#2  a   a
+x  a
+.
+b
+b
+2.h  a h
+3f
+#2 h   h
+xa   e
+b
+2.ca a
+3a
+#2 df   a
+x a f a
+b
+2 da  c
+#3  b  a
+x d
+#2 df  a
+xa e  a
+b
+
+b
+#3 aaac
+x a
+x a
+x a  c
+#2 aa   a
+x a
+b
+2.h  a h
+3f
+#2 h   h
+xa   e
+b
+2.ca a
+3a
+#2 df   a
+x a f a
+b
+2 da  c
+#3  b  a
+x d
+#2 df  a
+xa e  a
+b
+#3 aaac
+x a
+x a
+x a  c
+#2 aaa  /a
+x a
+.
+b
+b
+2    c /a
+1
+2   eec
+b
+#2 a  c /a
+x
+1
+b
+b
+
+e

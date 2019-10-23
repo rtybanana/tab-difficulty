@@ -1,0 +1,1061 @@
+-C
+-t
+-f
+{Si tantos halcones/Luis de Narváez}
+b
+S6-2
+w   a
+b
+w  b
+b
+0  b
+0  b
+b
+w  d
+b
+0 df
+0   f
+b
+1d
+1   e
+1   c
+1   a
+b
+0d   d
+0d b c
+b
+0f   a
+0  a
+b
+0h    d
+0   f
+b
+0    h
+0h  f
+b
+1i  h
+1  f
+1  g
+1  i
+b
+0hf
+0d
+b
+0f g
+0h f
+b
+0  g
+1ff
+1 h
+b
+0hif
+0   f
+b
+0 h  f
+1f
+1h
+b
+
+b
+0if h
+0  g
+b
+0h i
+0h
+b
+0fg
+0 d
+b
+1 f
+1d
+0d g
+b
+0cd
+0   a
+b
+0ab c
+1 b
+1  a
+b
+1 ab
+1  d
+1 a
+1 c
+b
+0 da
+0   a
+b
+0 b c
+1a
+1c
+b
+0da
+0  b
+b
+0c d
+0ca
+b
+0ab
+0    a
+b
+1ab
+1    c
+1    d
+1   a
+b
+1   c
+1  a
+1  b
+1  d
+b
+1 a a
+1  b
+0  d
+b
+
+b
+0    d
+1   c
+1  a
+b
+0  b c
+0     d
+b
+0  a a
+0    c
+b
+0   cd
+1   c
+1    d
+b
+0   ac
+0  b  d
+b
+0    a
+1f a
+1h
+b
+1i  h
+1  f
+1  g
+1  i
+b
+1if
+1 h
+1hi
+1 f
+b
+1fg
+1h
+0if
+b
+0h i
+0f
+b
+1  g
+1f
+0d f
+b
+0  d
+0c  a
+b
+1d  c
+1  a
+1  b
+1  d
+b
+1 a a
+1  b
+0  d
+b
+
+b
+1   cd
+1  b
+0  bac
+b
+0    a
+1f a
+1h
+b
+0i  h
+0     f
+b
+1i
+1     h
+1     i
+1    f
+b
+1h   h
+1   e
+1   f
+1   h
+b
+1h f
+1  h
+1f i
+1 i
+b
+1f
+1h
+0if f i
+b
+1h if
+1 f
+0fggd
+b
+1 dff
+1d
+0dfg d
+b
+0 dda
+0c
+b
+0ddf  d
+0  g d
+b
+1dd   d
+#2  f
+x  d
+1  g
+1  f
+b
+1  g d
+1  f
+1  g
+1 d
+b
+
+b
+1 f
+1 g
+1d
+1 g
+b
+1 f
+1 d
+1  g
+1 f
+b
+1 d
+1  g
+1  f
+1  d
+b
+1   f
+1   h
+1   f
+1   d
+b
+1    h
+1    f
+1    d
+1    h
+b
+1    f
+1    d
+1     h
+1     f
+b
+1     d
+1     f
+1     h
+1    d
+b
+1    f
+1     h
+1    d
+1    f
+b
+0     d
+0   f
+b
+wddff d
+b
+Y
+b
+b
+
+{Si tantos halcones/Luis de Narváez}
+b
+c
+w   a
+b
+w  b
+b
+0  b
+0  b
+b
+#2  d
+x   f
+x  d
+x   f
+#2  d
+x  f
+x  g
+x  d
+b
+#2  f  d
+x  g
+x d
+x f
+#2 d
+x  g
+x  f
+x  d
+b
+1   fd
+1   e
+0   c
+b
+1    d
+1   a
+0  b d
+b
+1 d a
+1  d
+0  aa
+b
+1d bc
+#2  d
+x a
+1 b
+1   a
+b
+0d   d
+0d b c
+b
+1fb  a
+1   c
+1  a
+#2   c
+x  a
+b
+0h  f d
+0 d
+b
+0 f fh
+0h
+b
+
+b
+0i gh
+0 g  i
+b
+0hd f
+0df
+b
+0f ge
+0h ff
+b
+0  gh
+1ff
+1 h
+b
+0hi  h
+1  f
+1  h
+b
+0 hi
+1f
+1h
+b
+0ifg
+0  gh
+b
+0h if
+0hf
+b
+0fg
+1 dd
+1  f
+b
+1dfg
+#2f
+xd
+#2f
+xd
+x g
+x f
+b
+0 df
+1  ba
+1   c
+b
+0  dd
+1   aa
+1    c
+b
+1  bcd
+#2  d
+x  b
+#2  d
+x  b
+x  a
+x   c
+b
+0   ac
+0  b  d
+b
+0  a a
+0    c
+b
+
+b
+0   cd
+1a  c
+1c
+b
+1d  ac
+#2  b
+x  a
+#2  b
+x  d
+x a
+x c
+b
+0cd
+0ca
+b
+0ab
+1  dc
+1   e
+b
+1 dff
+#2 f
+x d
+#2 f
+x d
+x  g
+x  f
+b
+0  de
+1f  a
+1h
+b
+0i  fh
+1 f
+1 h
+b
+0hi
+0hf
+b
+0fg
+1 gd
+1  f
+b
+0dfg
+1  g h
+1   e
+b
+0  ff
+0  bc
+b
+#2   d
+x  b
+x  d
+x a
+#2 b
+x a
+x  d
+x  b
+b
+1  dcd
+1  b
+0  bac
+b
+
+b
+1f   a
+1h
+0i a
+b
+1hd f d
+1 f
+1fgd
+1  f
+b
+1dfg
+1f
+1hdf
+1  g
+b
+1fgi f
+1    h
+1f  d
+1  d
+b
+1 dff
+1d
+1dfg d
+1  f
+b
+1 dda
+#2d
+xc
+#2a
+x d
+xa
+xc
+b
+0dbbc
+1 a
+1   a
+b
+1  dcd
+1  b
+0  bac
+b
+1f   a
+1h
+0i a
+b
+1hd f d
+1 f
+1fgd
+1  f
+b
+1dfg
+1f
+1hdf
+1  g
+b
+1fgi f
+1    h
+1f  d
+1  d
+b
+1 dff
+1d
+1dfg d
+1  f
+b
+
+b
+1 dda
+#2d
+xc
+#2a
+x d
+xa
+xc
+b
+0ddf  d
+0 f  d
+b
+0d g
+0ddf  d
+b
+1df  d
+#2 g
+x f
+#2 g
+x f
+x d
+x  g
+b
+#2  f  d
+x  d
+x  f
+x  g
+#2 d
+x  g
+x  f
+x  d
+b
+#2   f
+x   d
+x    h
+x    f
+#2    d
+x    h
+x    f
+x    d
+b
+#2     h
+x     f
+x     d
+x     f
+#2     h
+x    d
+1    f
+b
+0     d
+0   f
+b
+wddff d
+b
+Y
+b
+b
+P
+{Si tantos halcones/Luis de Narváez}
+b
+c
+0 d
+1  ff
+1  de
+b
+#2d   d
+x  f
+x  g
+x d
+#2 f
+x g
+xd
+xf
+b
+#2d
+xf
+xd
+x g
+#2df
+x d
+x  g
+x  f
+b
+1f d f
+1   f
+1  d
+1   e
+b
+#2h    d
+x  d
+x  f
+x  g
+#2 d
+x f
+x d
+x f
+b
+#2 d
+x  g
+x  f
+x  d
+0h  f
+b
+
+b
+#2i  d
+x f
+x g
+xd
+#2f
+xg
+xf
+xd
+b
+#2ig
+x f
+x d
+x  g
+#2 d
+x f
+1 g
+b
+#2h  f
+x  d
+x  f
+x  g
+#2 d
+x  g
+x  f
+x  d
+b
+1h  f
+1  dd
+1  bc
+1  aa
+b
+#2d  c
+x  b
+x  d
+x a
+#2 b
+x a
+x  d
+x  b
+b
+1f d f
+1   f
+1  d
+1   e
+b
+1h b  d
+#2 a
+x c
+1 d
+#2a
+xc
+b
+
+b
+1d
+#2   c
+x  a
+1h b
+1     d
+b
+1i   a
+#2c
+xe
+1f
+#2  d
+x a
+b
+1ib
+#2    d
+x   a
+1   c
+1    a
+b
+1h    d
+#2 a
+x c
+1 d
+1 bd
+b
+1hab
+1  de
+1  bc
+1  aa
+b
+1d bc
+#2a
+xc
+1d
+1cd
+b
+1dfg
+1 df
+1  gh
+1  ff
+b
+1fhi f
+#2  i
+x f
+#2 h
+x i
+1f
+b
+#2f g
+x i
+1 i
+1  i
+1 h
+b
+
+b
+1ddf
+1 fg
+1 df
+1 fg
+b
+1d
+1 df
+1 bd
+1 ab
+b
+1 dde
+1  ff
+1  de
+1  ff
+b
+1 d
+1  de
+1  bc
+1  aa
+b
+#2d  c
+x  a
+x  b
+x  d
+#2 a
+x b
+1 a
+b
+#2d  c
+x  a
+x  b
+x  d
+1 a
+1  b
+b
+1c d
+1   a
+1    d
+1   a
+b
+1c d
+#2    d
+x    c
+1    a
+1    c
+b
+1a   d
+#2  b
+x  a
+1   c
+1  a
+b
+
+b
+1a b
+1    c
+1     d
+1    a
+b
+1 d  c
+1  a
+1   a
+1   c
+b
+1 da
+1    a
+1     c
+1     d
+b
+1   ca
+#2 b
+x a
+#2 b
+x d
+xa
+xb
+b
+#2a
+xb
+xa
+x d
+#2 b
+x d
+x b
+x a
+b
+1f dd b
+#2   c
+x   a
+1    d
+1   a
+b
+#2f    b
+x     d
+x    a
+x    c
+1    d
+1     b
+b
+1i d a
+#2  b
+x   d
+1   c
+1   d
+b
+
+b
+#2i   a
+x    c
+x    d
+x   a
+1   c
+1    a
+b
+#2h    d
+x  a
+x  b
+x  d
+#2 a
+x b
+x d
+x b
+b
+#2ha
+x  d
+x  b
+x  a
+#2   c
+x   a
+x    d
+x    c
+b
+#2d   d
+x a
+x b
+x d
+#2a
+xc
+xd
+xc
+b
+#2df
+x d
+x b
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+1fd a
+1c
+1d
+1  b
+b
+1fdda
+#2c
+xa
+1d
+1c
+b
+
+b
+wddff d
+b
+Y
+b
+b
+.
+w d
+b
+#2d b
+x  a
+x  b
+x  d
+1 a
+#2 b
+x a
+b
+#2db
+x d
+xa
+xc
+1d
+1df
+b
+1fhi
+#2 i
+x  f
+1  g
+1 hi
+b
+1hif
+#2 f
+x h
+#2 i
+xf
+1 i
+b
+1hf
+1ce
+1df
+1a
+b
+1hhf
+#2    h
+x   e
+#2   f
+x   h
+1   f
+b
+
+b
+1h   h
+1   eg
+1  bc
+1   c
+b
+#2 a  c
+x c
+x d
+xa
+#2c
+xa
+1d    a
+b
+1   c
+1c  bc
+1da c a
+1a
+b
+#2h   c
+x c
+x d
+xa
+#2c
+xa
+x d
+x b
+b
+#2ha
+x  d
+x  b
+x  a
+0   c
+b
+#2i   a
+x  c
+x  d
+x a
+#2 b
+x d
+1a
+b
+#2i   a
+x    c
+x    d
+x   a
+1   c
+1    a
+b
+
+b
+#2h    d
+x  a
+x  b
+x  d
+#2 a
+x c
+1 d
+b
+#2h    d
+x    a
+x    c
+x    e
+1   a
+1     d
+b
+#2d   d
+x  f
+x  g
+x d
+#2 f
+x g
+1d
+b
+1df
+1  g
+1   f
+1    d
+b
+#2f  a
+x c
+x d
+xa
+#2c
+xe
+1f
+b
+#2fb
+xd
+1d
+1 dda
+1c
+b
+wddf  d
+b
+Y
+.
+b
+b
+P
+e

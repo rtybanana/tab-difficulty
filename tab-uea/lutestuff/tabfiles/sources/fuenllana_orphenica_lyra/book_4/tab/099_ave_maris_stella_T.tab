@@ -1,0 +1,426 @@
+-C
+-t
+-f
+{99. Ave maris stella/99. Ave maris stella}
+b
+c
+w  d
+b
+wa
+b
+0b  a
+0 d
+b
+0a d
+0c
+b
+0da
+1  b
+1b
+b
+1a d
+1 d
+1 b
+#2 a
+x  d
+b
+0 dff
+1  d
+1   f
+b
+1f d
+1   f
+0   e
+b
+0h  f
+0 d
+b
+0dfg
+0 i
+b
+1f  h
+1 f
+0 h
+b
+0hi f
+0kf h
+b
+
+b
+0lg a
+0  i
+b
+0if ha
+0f
+b
+1hf fh
+1 h
+1 i
+#2 g
+x f
+b
+0fddd
+0  i
+b
+1fg a
+1  h
+1  i
+1  g
+b
+0effc
+0fddd
+b
+0dfff
+1 d
+1b
+b
+#2a d
+x d
+x c
+x d
+#2a
+x d
+xa
+xc
+b
+1ddff
+1f
+1h
+1 a
+b
+
+b
+1fb d
+1  d
+1 b
+1 d
+b
+0ffg h
+1e f
+1c d
+b
+1effc
+1f
+1 ffc
+1e
+b
+0ffd a
+0  d
+b
+1f
+1 a
+1 b
+1  d
+b
+1 df
+1 c
+0 d
+b
+1a
+1 a
+0 c
+b
+1bd
+1a
+1da
+1b
+b
+1a d
+1 d
+1a
+1 c
+b
+0 d a
+0b
+b
+
+b
+1d bc
+#2  d
+x a
+0 b
+b
+0b  d
+0 dff
+b
+1 bd
+1 a
+1 b
+1 d
+b
+1a b
+1c
+0d
+b
+1   c
+1b
+1a b
+1 d
+b
+0 cd a
+0f
+b
+1 db c
+#2a
+xb
+0d
+b
+0ab  d
+0  d
+b
+1b  a
+1   c
+1  dd
+1 ab
+b
+0ab  d
+0  d
+b
+1 d ac
+1  d
+1  c
+1   c
+b
+
+b
+0 cdda
+1 d c
+1   a
+b
+1  dca
+#2 c
+x a
+#2 c
+x d
+xa
+x c
+b
+0 dda
+1b
+1  b
+b
+1  d
+1 a
+1ab
+1  d
+b
+0d e
+0f
+b
+1  e
+1 g
+0d
+b
+0f d
+1  dd
+1d
+b
+1b
+1a
+1d bc
+1  d
+b
+1 def
+#2a
+xc
+0d
+b
+0b d
+0ab
+b
+
+b
+0d b
+0 a
+b
+1fd d
+1 f
+0 d
+b
+1df c
+1  a
+1af fd
+1   e
+b
+1   f
+1  d
+0 df c
+b
+1a bcd
+#2  d
+x a
+0 b
+b
+0 dfa
+1b d
+1 b
+b
+0aa c
+1  c
+1  a
+b
+1aacc
+1  d
+0 ac
+b
+0 bd a
+0 db c
+b
+1a   d
+1   c
+1  b
+1 d  c
+b
+1 b  a
+1   c
+0  de
+b
+
+b
+0 aff d
+0 df
+b
+1     d
+1 bd
+1 ab
+1  dd
+b
+0  bc
+0 ab
+b
+1a
+1  dd
+1da c
+1   a
+b
+1 b  d
+1b
+1a
+1 df
+b
+0 bdd
+0  d
+b
+1 b
+1 ab
+1  dd
+1   c
+b
+0 abac
+0 d
+b
+1  ddf
+1 b
+0  dd
+b
+1. abac
+2 b
+#2 d
+x b
+x a
+x  d
+b
+
+b
+0  bcd
+0a b
+b
+1 d  c
+1   d
+1  ba
+1   c
+b
+1 cdda
+1   c
+1 dff d
+1   d
+b
+1  dca
+1   a
+0 cdca
+b
+0 dda
+0   d
+b
+1 d
+1  b
+0acd
+b
+0dde
+1b
+1 bd
+b
+0 de
+0a ef
+b
+0b dd
+0fb
+b
+1d  c
+1 a
+1  b
+1  d
+b
+0b ea
+0 d f
+b
+
+b
+1a bc
+1b
+1d
+#2b dd
+xa
+b
+0 def
+1a
+#2   d
+x   c
+b
+1b da
+1d
+0f  d
+b
+1 db c
+1 b
+1 d
+1a
+b
+1 g df
+1   f
+1  d
+1   d
+b
+1 db c
+1  d
+#2 a
+x  d
+x  b
+x   d
+b
+1a bcd
+1  a
+1  b
+1  d
+b
+1 a ac
+1 c
+1 d
+1   d
+b
+0 cdca
+0 de  d
+b
+
+b
+1  dca
+#2 c
+x a
+1 d
+1 c
+b
+Y dda
+b
+b
+
+e

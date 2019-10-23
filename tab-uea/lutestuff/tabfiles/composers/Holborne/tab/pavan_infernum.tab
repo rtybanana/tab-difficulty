@@ -1,0 +1,698 @@
+-C
+-t
+-f
+{Pavane -- Infernum/Anthony Holborne}
+b
+1dabacd
+2  b
+#3c d
+xa
+b
+1 dbacd
+#2dbb  a
+x     c
+b
+#2da a d
+x b
+1cdd   a
+b
+2adb  a
+#3 b
+x a
+#2ab
+x     c
+b
+#2 dbacd
+xa
+2cdd   a
+#3a
+xc
+b
+#2     a
+xddb
+#2 c
+x a
+b
+#2dcb  a
+x d
+#3d
+x  b
+x c
+xd
+b
+#2cd    a
+x  d
+#2 a
+x b
+b
+
+b
+2cdd   a
+#3 b
+x a
+#2c d
+x a
+b
+#2abd a
+x   c
+#2  a
+x  b
+b
+2 bdca
+#3 db c
+x  a
+#2a  cd
+x  a
+b
+#2 abac
+x bd
+#2 dbacd
+xa
+b
+#2cdda
+xda
+1fb ca
+b
+#2   ac
+x d
+#2d
+x    d
+b
+2ddda
+#3c
+xa
+#3c d   a
+xd
+x b
+xc
+b
+2da a d
+#3  b
+x d
+#3d
+x b
+x a
+x  d
+b
+
+b
+1dabacd
+3  b
+#4  d
+x a
+#4 b
+x d
+xa
+xc
+b
+b
+1dabacd
+3  b
+#4c
+xd
+#3c d
+xa
+b
+1 dbacd
+#2dbb  a
+x     c
+b
+#2da a d
+x b
+1cdd   a
+b
+2adb  a
+#3 b
+x a
+#2ab
+x     c
+b
+#2 dbacd
+xa
+2cdd   a
+#3a
+xc
+b
+#2     a
+xddb
+#2 c
+x a
+b
+#2dcb  a
+x d
+#3d
+x  b
+x c
+xd
+b
+#2cd    a
+x  d
+#2 a
+x b
+b
+
+b
+2cdd   a
+#3 b
+x a
+#3c d
+x  b
+x  d
+x a
+b
+#2abd a
+x   c
+#2  a
+x  b
+b
+2 bdca
+#3 db c
+x  a
+#3a  cd
+x   a
+x   c
+x  a
+b
+#2 abac
+x bd
+#2 dbacd
+xa
+b
+#2cdda
+xda
+1fb ca
+b
+#2   ac
+x d
+#2d
+x    d
+b
+2ddda
+#3c
+xa
+#3c d   a
+xd
+x b
+xc
+b
+2da a d
+#3  b
+x d
+#3d
+x b
+x a
+x  d
+b
+
+b
+0dabacd
+b
+b
+1.abbcd
+2c
+b
+#2dbbcd
+xa
+#2cd ac
+xea
+b
+#2fc ca
+x d
+1dff  a
+b
+#2 dd  c
+xc
+#2cd
+x     d
+b
+2addca
+#3 c
+x a
+#3ac    ///a
+x d
+x  b
+x c
+b
+1 daa  a
+#2   a
+xf
+b
+#3      a
+xd
+xc
+xa
+#3 d
+x    d
+x db c
+x    a
+b
+1 dba d
+#2  b
+xd
+b
+
+b
+#3    d
+xb
+xa b
+x d
+#3ab
+x    c
+xabd a
+x     d
+b
+1 dda c
+#2  da
+x d
+b
+#3     d
+x b
+x a a
+x  d
+#3 ab
+x     c
+x abc a
+x      a
+b
+1  dc  /a
+#2   ca
+x  d
+b
+#3      a
+x  b
+x  a a
+x   c
+#3  aa
+x      /a
+x      //a
+x      ///a
+b
+#2      //a
+x dda
+#2  c
+x  a
+b
+2 dca  //a
+#3d
+xc
+#3a
+x  d
+x  c
+x d
+b
+
+b
+3acd   ///a
+#4  d
+x  c
+#4  d
+x a
+x c
+x d
+#4a
+xc
+xd
+xc
+#4a
+x d
+x c
+x a
+b
+#3a
+x      ///a
+x    a
+x   c
+1 cd
+b
+b
+1.abbcd
+2c
+b
+#2dbbcd
+xa
+#2cd ac
+xea
+b
+#2fc ca
+x d
+1dff  a
+b
+#2 dd  c
+xc
+#2cd
+x     d
+b
+3acd a
+#4d
+xc
+#4a
+x d
+x c
+x a
+#3ac    ///a
+x d
+x  b
+x c
+b
+1 daa  a
+#2   a
+xf
+b
+
+b
+#3      a
+xd
+xc  a
+xa
+#3 d
+x    d
+x db c
+x    a
+b
+1 dbacd
+#2  b
+xd
+b
+#3    d
+xb
+xa b
+x d
+#3ab
+x    c
+xabd a
+x     d
+b
+1 dda c
+#2  da
+x d
+b
+#3     d
+x b
+x a a
+x  d
+#3 ab
+x     c
+x abc a
+x      a
+b
+1  dca /a
+#2   ca
+x  d
+b
+#3      a
+x  b
+x  a a
+x   c
+#3  aa
+x      /a
+x  d   //a
+x      ///a
+b
+#2      //a
+x dda
+#2  c
+x  a
+b
+
+b
+3 dca  //a
+#4a
+xc
+#3d
+xc
+#3a
+x  d
+x  c
+x d
+b
+3acd   ///a
+#4 a
+x c
+#4 d
+xa
+xc
+xe
+#4f
+xe
+xf
+xe
+#4f
+xe
+xc
+xe
+b
+3f
+#4d
+xc
+#4a
+x d
+x c
+x a
+3  d"#
+#4  a
+x  b
+#4  d
+x  b
+x  d
+x  b
+#4  d
+x  b
+x  a
+x  b
+#3  a
+x   c
+b
+0 daa  a
+b
+b
+#2
+x aba d
+#2 d
+x daa  a
+b
+
+b
+0 dbacd
+b
+#2
+x aba d
+#2 d
+x daa  a
+b
+0 dbacd
+b
+2
+2abbcd
+2ab
+2 dbacd
+b
+2abbcd
+2abdca
+2aadcca
+3  c
+3 d
+b
+2acdca
+1.      ///a
+b
+2
+2acdca
+2f
+2ea c a
+b
+2fc ca
+2a d e
+2cd ac
+2ea
+b
+#2fc ca
+x d
+1dff  a
+b
+#2 dd  c
+xc
+#2cd
+x     d
+b
+
+b
+2addca
+#3 c
+x a
+#3ac    ///a
+x d
+x  b
+x c
+b
+1. daa  a
+2 b
+b
+1 abacd
+#2d
+xc
+b
+1abdca
+1 dbac
+b
+2 bdcd
+#3  b
+x a
+#3  def
+x   f
+x  d
+x   e
+b
+2 abacd
+#3 d
+x   a
+#3  b
+x b
+x a
+x  d
+b
+1 abacd
+3
+#4   c
+x  a
+#4  b
+x  d
+x a
+x c
+b
+b
+0 daa  a
+b
+#2
+x abacd
+#2 d
+x daa  a
+b
+0 dbacd
+b
+
+b
+#2
+x abacd
+#2 d
+x daa  a
+b
+0 dbacd
+b
+#2
+xabbcd
+#2ab
+x dbacd
+b
+#2abbcd
+xabdca
+2aadcca
+#3  c
+x d
+b
+2acdca
+1.      ///a
+b
+#2
+xacdca
+#2f
+xea c a
+b
+#2fc ca
+xa d e
+#3cd ac
+xa
+xc
+xea
+b
+#3fc ca
+x a
+x c
+x d
+1dff  a
+b
+#2 dd  c
+xc
+#2cd
+x     d
+b
+
+b
+3acd a
+#4d
+xc
+#4a
+x d
+x c
+x a
+#3ac    ///a
+x d
+x  b
+x c
+b
+2. daa  a
+#4 a
+x b
+#4 d
+x b
+x d
+x b
+#4 d
+x b
+x a
+x  d
+b
+#3 a
+x     d
+x    c
+x   a
+2  b
+#3d
+xc
+b
+3abdca
+#4  d
+x a
+#4 b
+x d
+3a
+1 dbac
+b
+3 bbcd
+x
+#4  b"#
+x  d
+#3  b
+x a
+#3  def
+x   f
+x  d
+x   e
+b
+
+b
+3 abacd
+#4   c
+x  a
+#4  b
+x  d
+x a
+x b
+#4 d
+x b
+x d
+x b
+#4 d
+x b
+x a
+x  d
+b
+#3 a
+x     d
+x    c
+x   a
+Y  b"#
+b
+b
+Q
+
+e

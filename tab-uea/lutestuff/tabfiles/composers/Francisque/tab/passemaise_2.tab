@@ -1,0 +1,723 @@
+-C
+-t
+-f
+{Passemaise/Passemaise}
+b
+W   a  a
+W    a ///a
+b
+b
+c
+1.  da
+2    d
+1 d  c
+1a   a
+b
+1cdda
+1      a
+1  aa
+1  bc
+b
+1  de
+1fd
+1da c
+1 c
+b
+1cdda
+#2 a
+x c
+1 d
+1a   d
+b
+1  d
+#2 db c
+xa
+1 b  a
+1  a
+b
+#2d ff d
+xf
+1h
+1f a
+#2 d
+x b
+b
+1 ab
+1d
+2d da
+#3c
+xa
+1c
+b
+1dabc
+#2   a
+x    d
+1 d  c
+1d
+b
+
+b
+#2abb d
+x a
+1cdda
+1add a
+#2 c
+x  b
+b
+1 daa
+1      a
+1f
+#2  d
+xd
+b
+1c
+#2a b
+xc
+#2 da
+xa
+1 c c
+b
+#2 daa
+x   c
+x  a
+x  c
+1  d e
+1a
+b
+1 d  c
+#2  c
+x  a
+1 ac
+#2a
+x d
+b
+1 cdca
+1      ///a
+1a
+#2   c
+x d
+b
+1 c
+#2 a a
+x c
+#2  d e
+x a
+1  c c
+b
+1 cdca
+#2      ///a
+x a
+1 c
+1 d  c
+b
+1a d e
+1c aa
+1da c
+1 c
+b
+
+b
+1cdda
+#2 a
+x c
+#2 d  c
+xa   e
+xc  a
+xd  c
+b
+#2f  e
+x   f
+x  d
+xd
+#2a   a
+xc
+xd
+xa
+b
+1cdda
+#2      a
+x     a
+#2  d  c
+x a   d
+x c  a
+x d  c
+b
+#2a   d
+xc
+1da
+2  da
+#3c
+xa
+1c
+b
+1dab  d
+#2 d
+x b
+1 a a
+1a   d
+b
+#2 d  c
+x b
+1 a c
+#2 b  a
+x a
+1  da
+b
+#2 a   d
+x  d
+1  b  a
+1  d  c
+1 a    a
+b
+1  b  a
+1  d  c
+1 a   d
+#2  d a
+x  b
+b
+
+b
+1  aa  a
+1f
+1d
+1c d
+b
+#2a b
+xc
+x da
+xa
+#2 c c
+x d
+1 a a
+b
+1 cdca
+1      ///a
+#2a
+x d
+x cd
+x ab
+b
+#2  de
+x   c
+1 d a
+1add a
+1 c
+b
+1cdda
+#2      a
+x  b
+1  a a
+1 a   d
+b
+1  d  c
+1 a   d
+1  ba a
+1    e
+b
+#2  aa  a
+x d
+x c
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+b
+1   a
+#2 a
+x c
+1 d
+1a
+b
+
+b
+1cdd   a
+1f
+1h
+#2f d
+xd
+b
+1ca
+#2d d
+x  b
+1f a
+#2 db
+xa
+b
+1cdda
+1  d   a
+1 a
+#2  d a
+x  b
+b
+1  a c
+1  bacd
+1  baa a
+1  a
+b
+1  bacd
+1 d
+1a
+#2 d a
+x b
+b
+1 a c
+#2 b a
+x    d
+1 d  c
+#2  b d
+x  d
+b
+1 aba d
+1   a
+1   c
+#2   a  a
+x    d
+b
+1    ca
+1    d
+1   a c
+1   c d
+b
+1  aaa a
+1  d
+1 a
+#2  d a
+x  b
+b
+
+b
+1  a c
+#2  b a
+x     d
+1  d  c
+#2   a d
+x   c
+b
+1  aaa a
+1f
+1h
+#2f d
+xd
+b
+1ca
+#2d d
+x  b
+1f a
+#2 db
+xa
+b
+1 cd
+1a   a
+1c
+#2a  c
+x d
+b
+1 c e
+#2 d c
+x   a
+1a   e
+#2  da
+x a
+b
+1 cdc
+1a   a
+1 d  c
+#2 c  a
+x a   d
+b
+1  da c
+1 d   d
+1 db  a
+1 cdca
+b
+1 daa  a
+#2c
+xd
+1f
+#2d a
+x  b
+b
+1cdd   a
+#2     c
+x     d
+#2 c  a
+x d
+1a    d
+b
+
+b
+1 dd  c
+#2   a d
+x   c
+1  aa  a
+#2 d  c
+xa
+b
+1cdda
+#2d   a
+x    c
+1abb d
+1cdda
+b
+1dab  d
+#2 a
+x b
+1 d
+#2 b  c
+x    d
+b
+1 aba d
+#2   a
+x   c
+1  aa  a
+#2  b
+x  d
+b
+1 dff d
+#2d
+xf
+1h
+1f de
+b
+#2da c
+x c
+1cdda
+1dd c
+1 c
+b
+1cdda
+#2  a   a
+x  b
+1  d
+1  b  a
+b
+1  a  c
+1   c d
+1  a a
+1   ac
+b
+1  dca
+#2 c
+x d
+1a
+#2 d  e
+x   a
+b
+
+b
+1 cdca
+1 da
+1 ddca
+1 c
+b
+1cdda
+#2  a   a
+x  c
+1  d
+1 a   d
+b
+1 cdca
+1 d   c
+1a    d
+1 c  a
+b
+1cdd   a
+#2 c
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+#2  da
+x a
+x c
+x d
+#2a
+xc
+xd
+xa
+b
+#2      a
+xf
+xd
+xc
+#2a  a
+x d
+x c c
+x a
+b
+#2  de
+x a
+x c
+x d
+#2a  c
+xc
+xd
+x c
+b
+
+b
+#2c  a
+xd
+xc
+xa
+#2 d  c
+xa
+xc
+x d
+b
+#2a   d
+x  d
+x  b
+x    c
+#2    a
+x  d
+x  aa
+x b
+b
+#2 a   d
+x d
+xa
+xc
+#2d
+x   a
+x   c
+x  a
+b
+#2 ab
+x c
+x d
+xa
+#2c  a
+xd
+x  d
+xc
+b
+#2ddf  d
+xf
+xh
+xf
+#2d  f
+xc
+xa
+x d
+b
+1 cdca
+#2d
+xc
+#2a
+x d
+xa d
+x c
+b
+
+b
+#2 daa
+xa
+xc
+xd
+#2f
+x  d
+x a
+x c
+b
+#2 d
+x   c
+x  a
+x  c
+#2  d
+x    a
+x    c
+x    e
+b
+#2 daa  a
+x     a
+x     c
+x     d
+#2 c  a
+x    c
+x    e
+x    a
+b
+#2 d  c
+x  d
+x  c
+x  a
+#2  c
+x a
+xa
+x d
+b
+#2 c  a
+x a
+x c
+x d
+#2a
+xc
+xd
+xc
+b
+#2a b
+xc
+x da
+xa
+#2 c c
+x d
+1 a a
+b
+
+b
+1 cdc  ///a
+#2  d
+x a
+#2 c  c
+x a
+x c
+x d
+b
+#2a   e
+x d
+xa  a
+xc
+#2d  c
+x a
+x c
+xd
+b
+1cdda
+#2 c
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+1  a   a
+1  b  a
+1  d  c
+#2 a   d
+x c
+b
+#2 d    a
+x c
+x a
+x  d
+#2  b
+x  a
+x   c
+x   a
+b
+#2a   d
+xc
+xd
+x a
+#2  d
+x  b
+x  da
+xc
+b
+#2     d
+xd
+xc
+xa
+#2 d
+x b
+x a a
+x b
+b
+
+b
+#2 d  c
+x  b
+xa
+x d
+#2 b  a
+x  a
+x d
+x b
+b
+#2 a   d
+x  d
+x  b  a
+x a
+#2  d  c
+x b
+x a    a
+x  d
+b
+#2  b  a
+x a
+x  d  c
+x b
+#2 a   d
+x d
+x c  a
+x  b
+b
+1 dda  a
+#2 a
+x c
+#2 d
+xa
+xc
+xd
+b
+#2f
+x    a
+x    c
+x    e
+#2   a
+x   c
+x  a
+x  b
+b
+#2  dca
+x a
+x c
+x d
+#2a
+x  b
+x  a
+x d
+b
+
+b
+#2 cdca
+x  d
+x  b
+x  a
+#2 d c
+x   a
+x   c
+x c
+b
+1 daa  a
+#2  d
+x a
+#2 c  a
+x d  c
+xa   e
+xc  a
+b
+1acdca
+1 d e
+1addca
+#2 c
+xd
+b
+1cdd   a
+#2 c
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+w   a
+b
+b
+
+e

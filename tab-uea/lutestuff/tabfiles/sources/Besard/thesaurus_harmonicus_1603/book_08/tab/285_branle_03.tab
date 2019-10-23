@@ -1,0 +1,255 @@
+-C
+-t
+-f
+{285. Branle 3/285. Branle 3}
+b
+c
+2  d
+2  b   a
+#3  a
+x  b
+#2   c
+x  b
+b
+2  a   a
+#3   c
+x  a
+2   a
+#3  b
+x  a
+#2   ca
+x     c
+x     d
+x    a
+b
+#2  aa  a
+x     a
+x     c
+x   a d
+#2   c
+x  a a
+x  b c
+x   ce
+b
+2  aa  a
+#3    e
+x    c
+#2    a
+x  d
+#2  bc
+x    d
+x  d
+x    a
+b
+
+b
+#2  aa
+x    c
+x  b
+x     d
+#2   c
+x    a
+x   e
+x     c
+b
+#2   a
+x     d
+x   c
+x     a
+#2    ef
+x   a c
+x   c d
+x    a
+b
+#2  aa  a
+x  d
+x  a
+x   a
+2  ba  a
+#3  a
+x  b
+#3   c
+x  a
+x  b
+x   c
+b
+2  aa  a
+#3   c
+x  a
+#3   a
+x   c
+x   e
+x   a
+2   ca
+#3   a
+x   c
+#3    e
+x   a
+x   c
+x    e
+b
+
+b
+2   a  a
+#3    e
+x    c
+#3    a
+x    c
+x    e
+x   a
+#3   ca
+x   a
+x   c
+x   e
+#3   c
+x   e
+x   f
+x   c
+b
+2   e  a
+#3   c
+x   e
+#2   a
+xf
+#3d  c
+xf
+xd
+xc
+#3a   e
+xc
+xd
+xa
+b
+#3c  a
+xd
+xc
+xa
+#3 d  c
+xa
+xc
+x d
+#3a   e
+xc
+xa
+x d
+#3 c  a
+x a
+x  d
+x  b
+b
+
+b
+#3  a   a
+x   c
+x  a
+x  b
+#3  a  c
+x  b
+x  d
+x  a
+#3 a   d
+x c
+x d
+x a
+#3 c  a
+x d
+xa
+x c
+b
+#2 daa  a
+x  d
+x  a
+x   a
+#2      a
+x   c
+x  a
+x  b
+b
+2  da  a
+#3  a
+x  b
+#2  d
+x a
+2  da  a
+#3  b
+x  a
+#3   c
+x  a
+x  b
+x  d
+b
+2 aba d
+#3  b
+x  d
+#3 a
+x  d
+x  b
+x  a
+#3  d   a
+x  b
+x  a
+x  b
+#3   c
+x  a
+x  b
+x   c
+b
+
+b
+2  aa  a
+#3   c
+x  a
+2   a
+#3 c
+x d
+#3a     a
+x d
+x c
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+#3 d    a
+x b
+x a
+x  d
+#3  b
+x  a
+x   c
+x   a
+#3 b    a
+x a
+x  d
+x  b
+#3  a
+x   c
+x   a
+x    e
+b
+#3 a    a
+x  d
+x  b
+x  a
+#3   c
+x   a
+x    e
+x    c
+#3  b   a
+x  a
+x   c
+x   a
+#3    e
+x   a
+x   c
+x    e
+b
+2.   a  a
+3   c
+2   a
+Y.    a
+b
+b
+
+e

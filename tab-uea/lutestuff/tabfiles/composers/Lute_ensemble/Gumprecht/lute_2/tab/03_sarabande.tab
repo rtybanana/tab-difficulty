@@ -1,0 +1,92 @@
+-C
+-t
+-f
+b
+1. cdc d
+2 c
+1 a  a
+b
+1. a c c
+2 d
+#2 c&x
+x a
+b
+#2  d  d
+x     c
+1  d  a
+1      /a
+b
+1.  cca a
+2  d
+#2  c&x
+x      /a
+b
+1   c  //a
+1     d
+#2   c
+x  a
+b
+1.   ad /a
+2   a
+1   c  //a
+b
+
+b
+#2   a  ///a
+x   c
+1.   ccd4
+2   c
+b
+1   c  a
+0    a
+.
+b
+b
+.
+1 acc  a
+#2 acc
+x acc
+#2  d
+x  c&x
+b
+1.  dccd
+2  d
+1  dcc 4
+b
+1  a   /a
+#2  c   ///a
+x  d
+#2 a
+x  d
+b
+1  c   //a
+2  a&x
+#3   d
+x  a
+1   d
+b
+1. cd  a
+2 c
+1 a   c
+b
+
+b
+1  d  d
+#2  c&x
+x    a
+1  d c
+b
+1  de  /a
+#2      a
+x  c
+#2  a  a
+x  d
+b
+1.   c&xa a
+2   c
+1   ccd4
+.
+b
+b
+
+e

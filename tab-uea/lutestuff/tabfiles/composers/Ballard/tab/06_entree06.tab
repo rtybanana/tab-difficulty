@@ -1,0 +1,207 @@
+-C
+-t
+-f
+{Entrée 6/Entrée 6}
+b
+W   a  a
+W    d /a
+W    c //a
+b
+b
+c
+1aab  a
+1   c
+1  b
+1  d
+b
+1 abc a
+1 b
+1  aa  a
+1 a
+b
+1aa    /a
+#2  d
+x  b
+1a d
+1   c
+b
+0a b   //a
+0 da
+b
+1     a
+1 a
+1  bc
+1 c
+b
+0 dde  a
+0  ff
+b
+
+b
+1  df  a
+#2   e
+x   c
+1   e
+1 b
+b
+1 ab  d
+1 b
+1 d
+1     c
+b
+1a    a
+1c     a
+1d     /a
+1f
+b
+1ha    //a
+1c
+1d
+1c a
+b
+1 ab
+1a
+1  aa  //a
+#2 d
+x c
+b
+#2 d
+x   c
+x   e
+x   a
+1 d ea
+1 c c
+b
+
+b
+1  aa c
+1 a
+1    ec
+#2  e
+x     a
+b
+#2 a    b
+x    c
+x  a
+x  d
+2  b  a
+#3     c
+x     d
+#3    a
+x    c
+x    e
+x   a
+b
+#3   c
+x  a
+x  b
+x   c
+#3 a
+x c
+x d
+x a
+#3a
+xc
+xd
+xa
+#2h
+x     a
+b
+
+b
+#2      //a
+xh
+xc
+xd
+#2 e
+x a
+xa b
+x   c
+b
+#2      //a
+xce
+xdf
+x c
+2      //a
+#3ca
+x  d
+#3a b
+x  a
+2   c
+b
+#2 ea   //a
+x    c
+x a   d
+x     a
+#2      //a
+x  a
+x ab
+x c
+b
+#2 ea   //a
+xa
+xc
+x    a
+#2 a   d
+x     c
+xda c a
+x c
+b
+
+b
+#2ce    //a
+x  d
+xa b
+x   c
+1a b   //a
+#2 ea c
+x    a
+b
+#2a    e
+x   c
+x a
+x d
+2 b  a
+#3    c
+x    d
+#3   a
+x   c
+x  a
+x  b
+b
+#3  d
+x a
+x b
+x d
+#3a
+xc
+xe
+xf
+#2     a
+xf g
+xe f
+xc d
+b
+1eff  a
+1 a c
+1 b
+1 a  c
+b
+
+b
+1  c da
+#2  d c
+x    a
+1 a   e
+1a  c
+b
+1 bdca
+1    c
+1   cd
+1  aa
+b
+Y  ccca
+b
+b
+
+e

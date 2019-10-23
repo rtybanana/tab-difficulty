@@ -1,0 +1,220 @@
+-C
+-t
+-f
+{Courant - La Tontine/Courant - La Tontine}
+b
+W   a  a
+W    e /a
+W    c //a
+W    a ///a
+b
+b
+1   a
+b
+1   af-
+#2      a
+x   c
+#2   d
+x  b
+b
+#2  d
+x    d-
+#2    e-
+x   c-
+#2  d
+x   f
+b
+#2    f-
+x   d
+#2      a
+x   d
+#2  b
+x  d
+b
+
+b
+#2   a-
+x  e
+1 bb  a
+#2    d-
+x  e
+b
+1  dd-
+#2     b
+x  d
+#2 a
+x b
+b
+#2     d
+x   d
+#2 a
+x a
+#2 c
+x d
+b
+1. c c  ///a
+2 c
+#2 d
+xa
+b
+1b d   a
+1dd  b
+1b b-
+b
+1.a b d-
+2 d
+#2 b
+x  e
+b
+
+b
+1b d-
+1.b b d-
+2a
+b
+1b     a
+1   a-
+1   c-
+b
+#2  dd-
+x a
+1 b d  a
+#2 a
+x  d
+b
+1.  cc a
+2  d
+#2 a
+x   a-
+b
+#2    d-
+x  dc-
+1  d da
+#2    c-
+x  c
+b
+1  d
+1      ///a
+1    a
+b
+0  dc
+.
+b
+b
+.
+1  d
+b
+
+b
+1.  dc  ///a
+2 a
+1 cb a
+b
+1 d d  a
+2 c c  ///a
+#3 d
+x c
+#2 d
+x    c-
+b
+#2a d e-
+x      /a
+#2  b
+x   d
+1   c
+b
+1. d d  a
+2  g
+#2  e
+x  d
+b
+#2  ef-
+x  d
+#2  e
+x   d-
+#2   c-
+x b
+b
+
+b
+1  dd-
+#2    d-
+x   d-
+#2  b
+x   c
+b
+1.  dc b
+2   a
+1  ba a
+b
+#2   fe-
+x  d
+1.   da a
+#3   c
+x   d
+b
+1   c
+1.  dc  ///a
+2    a
+b
+1.aa   e
+2b
+#2a
+x d
+b
+1. c c  ///a
+2  d
+#2  b
+x   c-
+b
+1 d d-
+#2   c-
+x d
+#2a
+x c
+b
+
+b
+1b d   a
+#2   a-
+xa
+#2 d
+x b
+b
+#2 a df-
+x  g
+#2 a
+x   g-
+#2  d
+x a
+b
+1  cc a
+#2    f-
+x   c-
+#2  c
+x  c
+b
+1  dcd-
+1.  d ca
+2  c
+b
+1.  dc  ///a
+2 a
+1 cb a
+b
+1 d d  a
+1. d c  ///a
+2 c
+b
+1 d
+1      a
+1    f-
+b
+
+b
+0 ddd
+.
+b
+b
+
+e

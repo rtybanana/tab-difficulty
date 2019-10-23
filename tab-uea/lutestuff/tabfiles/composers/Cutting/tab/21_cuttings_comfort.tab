@@ -1,0 +1,123 @@
+-C
+-t
+-f
+{Cutting's Comfort/Cutting's Comfort}
+b
+0f-aa
+#1f aa
+xf aa
+b
+1.cdd-  a
+2d
+#1f
+x dda
+b
+1.da- c
+2    e
+#1c da
+x d
+b
+
+b
+1.acd-a
+2 d
+#1a"#
+x    a
+b
+1f-aa
+#2f
+xf
+1.f aa- a
+2d
+b
+#2c- a
+xa
+xc
+xd
+#1f
+x dda
+b
+
+b
+#2da- c
+x    a
+x    c
+x    e
+#1c"# da
+x d
+b
+#2 c- a
+x a
+x c
+x d
+#2a
+xc
+1da-c
+b
+1cdda
+#2a
+x d
+#1 c"#- a
+x  dcd
+b
+
+b
+1 db-c
+#2 b-  d
+x a
+1  da- a
+#2 d
+x b
+b
+1 aba-d
+#2a-   a
+x d
+1 c- a
+#2 a
+x c"#
+b
+#2 d a
+xa
+xc
+xd
+#2f
+xc
+xd- c
+xa
+b
+
+b
+#2c  a
+x d
+xa
+x d
+#2 c- a
+x a
+x  d-d
+xa
+b
+#2 d- c
+x a
+x b-  d
+x a
+#2  d  c
+x  b
+x  a   a
+x b
+b
+#2 a-  d
+xc
+xa-  c
+x d
+#2 c- a
+x a
+1 c"#
+b
+
+b
+0 dda
+Y      a
+b
+b
+
+e

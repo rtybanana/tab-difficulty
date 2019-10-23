@@ -1,0 +1,256 @@
+-C
+-t
+-f
+{Courante de la durette/Courante de la durette}
+b
+1  d
+b
+1  d"x a
+1   c
+1 a   e
+b
+1 b"#  a
+1  d
+1a
+b
+1a   d{
+1  b"#
+1  d }
+b
+0 db  d
+1   a
+b
+1.aab  a
+2b
+1d  c
+b
+1   d
+1. a"#   d
+#3  d
+x a
+b
+1 b"#bcd
+1      /a
+1d
+b
+1dbb d
+1    c
+1f   a
+b
+1.d"xa c&{
+2b
+#2a
+x d}
+b
+
+b
+1a   d
+1. dba d&{
+#3 b
+x a  }
+b
+0 b"#bcd
+1      /a
+b
+0 b"#bc
+1  d
+b
+#2  d a
+x   c
+#2  a
+x  b
+#2  d
+x a
+b
+#2 b  a
+x a
+#2  d
+x a
+#2 b
+x d
+b
+#2a   d
+x  a {
+#2  b
+x  d
+#2 a
+x b }
+b
+#2 d  c&{
+x b
+#2 d
+xa
+#2b
+x d}
+b
+#2a   d
+x d  {
+#2a
+xb
+#2d }
+x   a
+b
+
+b
+#2   c
+x   d
+0 aba d
+b
+#2 b  d&{
+x a
+#2 b
+x d
+#2a
+xb }
+b
+#2d   d&{
+xb
+#2a
+x   }c
+1f   a
+b
+#2da c{
+xb
+#2a"#
+x d }
+#2 b d
+x d
+b
+1a   d
+1. dba d&{
+#3 b
+x a  }
+b
+0 b"#bcd
+1      /a
+b
+0 bbc
+1d
+b
+1.dfg d
+2f
+1h  f
+b
+1i"x  h
+1.h"#    a
+#3f
+xh
+b
+
+b
+0f"#fg a
+1      ///a
+b
+1abd
+1  b"#
+1f  d
+b
+1da c&{
+1 b
+1d }
+b
+1.b"#bdd&{
+2d }
+1a   d
+b
+1 d f
+1  f"#
+1   d
+b
+1da c{
+1 b }
+1b"#  a
+b
+1.ab"x  d{
+2 d  }
+#2 b"#  a
+x a
+b
+1  d  b
+1. a"#   a
+#3  d
+x a
+b
+0  d"xca
+1      ///a
+b
+0  dc
+1  b"#
+b
+
+b
+#2  b d{
+x  a
+#2  b
+x  d }
+#2 a   d
+x b
+b
+#2 d    a
+x b
+#2 a"#
+x  d
+#2 a   a
+x  c
+b
+#2  d a
+x  c
+#2  d{
+x a
+#2 b
+x d}
+b
+#2 bd{
+x d
+#2a }
+x  b
+#2f  d{
+x d }
+b
+#2d  c{
+xb
+#2a
+xc
+#2d
+xa }
+b
+#2b  a
+xa
+#2b
+xd
+#2b"#
+xa
+b
+#2 db{
+x b
+#2 d
+xa }
+#2 d
+x   d
+b
+
+b
+1da c{
+1 b }
+1b"#  a
+b
+#2a   a
+x b
+#2 d
+xa
+#2c  a
+xe
+b
+1f
+1.e"#a   a
+#3c
+xe
+b
+0f"xc  a
+1      ///a
+b
+0.fc
+b
+b
+
+e

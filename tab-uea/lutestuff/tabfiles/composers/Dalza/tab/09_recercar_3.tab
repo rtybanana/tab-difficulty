@@ -1,0 +1,157 @@
+-C
+-t
+-f
+{9. Recercar 3/9. Recercar 3}
+b
+c
+#1  dca
+x  b
+x  d
+x a
+b
+#1 b  a
+x d
+xa
+xb
+b
+#1abd
+x d
+xa
+x d
+b
+#1 b
+x a
+x  d
+x  b
+b
+0bbd
+0aab
+b
+#1   d
+xa
+x d
+x b
+b
+1 d d
+0a
+1 d
+b
+#1aa c
+x d
+xa
+xc
+b
+#1aa c
+xc
+xe
+xf
+b
+
+b
+0ea c
+0f
+b
+0fa c
+0e
+b
+0fb  a
+0i
+b
+#1 f
+xh
+xf
+x i
+b
+#1bd a
+xd
+xf
+x d
+b
+#1f
+xd
+xb
+xa
+b
+#1b
+x d
+xac
+x df
+b
+#1ac  a
+xc
+xd
+x   c
+b
+#1d
+xb
+xa
+x d
+b
+#1 bd
+x ab
+x  dd
+x  bc
+b
+
+b
+0  ddf
+0 a a d
+b
+0 b ca
+0  dd b
+b
+#1 a a d
+x    a
+x    c
+x    d
+b
+#1 dddf
+xb
+xa
+x d
+b
+#1 c  a
+x a
+x  d
+x  c
+b
+#1  d
+x   a
+x   c
+x   d
+b
+0 c ca
+0 d ac
+b
+#1 a a d
+x c
+x d
+x a
+b
+#1 c  a
+x a
+x  d
+x  b
+b
+0  def
+0 a a d
+b
+0 c ca
+0 d ac
+b
+
+b
+#1    a
+x ddc
+x c
+x a
+b
+1 cdca
+0 d
+1 c
+b
+Y dda
+b
+b
+
+e

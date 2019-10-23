@@ -1,0 +1,44 @@
+-t
+-f
+{Ricercar 11/Ricercar 11}
+b
+c
+#2  dca
+x a
+x b
+x d
+#2a   d
+x    a
+x    c
+x    d
+b
+#2b da
+xd
+xf
+xd
+2b da
+#3   c
+x   a
+#3   c
+x   a
+x    d
+x    c
+b
+
+b
+2b da
+#3d
+xb
+#3d
+xb
+xa
+x d
+1bbdca
+#2a
+x d
+b
+wabdca
+b
+b
+
+e

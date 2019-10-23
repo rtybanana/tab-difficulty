@@ -1,0 +1,300 @@
+-C
+-t
+-f
+{Ya se asienta el rey Ramiro/Luis de Narváez}
+b
+c
+1 a a d
+1  d  c
+1 a   d
+1 b  a
+b
+1 d   d
+#2  b
+x  d
+#2 a
+x c
+1 d   d
+b
+1 a
+1  b
+1 d a
+1     d
+b
+1a   d
+#2 b
+x d
+#2a
+xc
+1d   d
+b
+1a
+1 b
+1  b
+1   c
+b
+1c da
+1 d
+1cd a
+1dabc
+b
+
+b
+1
+1dcbc
+0cdda
+b
+0ddf  d
+1   f
+1d
+b
+0ddf  d
+0ddf  d
+b
+#2c  a
+x c
+x d
+xa
+#2c
+xd
+1f  a
+b
+1c  a
+1 d
+1c d
+1   a
+b
+1 df  d
+#2  b
+x  d
+#2 a
+x c
+1 d   d
+b
+1 a
+1  b
+1 d a
+1     d
+b
+
+b
+#2 f  d
+x  f
+x  g
+x d
+#2 f
+x g
+xd   d
+xf
+b
+#2d
+xf
+xd
+x g
+#2 f
+x d
+x  g
+x  f
+b
+1c da
+1 d
+1cdda
+1dabc
+b
+1
+1dcbc
+0cdda
+b
+0ddf  d
+1   f
+1d
+b
+0ddf  d
+0ddf  d
+b
+1c  a
+#2c
+xe
+1f
+1d  c
+b
+1c  a
+1a   d
+1 d  c
+1 b  a
+b
+
+b
+1 a   d
+#2  b
+x  d
+#2 a
+x c
+1 d   d
+b
+1 a
+1  b
+1 a a
+1     d
+b
+#2 b d
+x  b
+x  d
+x a
+#2 b
+x a
+x  d
+x  b
+b
+1 bd
+1   d
+1 b  d
+1     b
+b
+1 a   d
+#2  b
+x  d
+#2 a
+x b
+x d   d
+x b
+b
+#2 a
+x  d
+x  b
+x  a
+#2 a c
+x   a
+x    d
+x    c
+b
+
+b
+#2  b d
+x a
+x b
+x d
+#2a
+xc
+xd   d
+xc
+b
+#2d
+xc
+xa
+x d
+#2 b
+x d
+x b
+x a
+b
+1  da
+1c
+1cd a
+1dabc
+b
+1
+1dcbc
+0cdda
+b
+0ddff d
+1  f
+1d
+b
+0ddff d
+0d ff d
+b
+1  da
+#2f
+xd
+#2c
+xd
+xf
+xd
+b
+
+b
+#2c da
+xd
+xc
+x f
+#2 d
+x f
+x d
+x  g
+b
+1  f
+1   f
+1    f
+1     d
+b
+1d f
+1 d
+1  f
+1   f
+b
+#2  gd
+x f
+x g
+xd
+#2f
+xg
+xf
+xd
+b
+#2 g
+x f
+x d
+x  g
+#2 d
+x f
+1 g
+b
+#2  ff
+x  d
+x  f
+x  g
+#2 d
+x  g
+x  f
+x  d
+b
+
+b
+1  ff
+1  de
+1  bc
+1  aa
+b
+#2  bc
+x  a
+x  b
+x  d
+#2 a
+x  d
+1 b
+b
+#2 b  d
+x a
+x b
+x d
+#2a
+x d
+x b
+x a
+b
+1  d f
+1   e
+1  d f
+1  f  d
+b
+1   f
+1  g d
+1  d f
+1   e
+b
+Y   f d
+b
+b
+
+e

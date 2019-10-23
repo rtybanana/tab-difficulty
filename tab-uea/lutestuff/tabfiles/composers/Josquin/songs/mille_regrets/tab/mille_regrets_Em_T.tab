@@ -1,0 +1,169 @@
+-C
+-t
+-f
+{Mille regrets/Mille regrets}
+b
+wc    c
+b
+0 d   d
+0d    a
+b
+0.c a  c
+#2  bc
+x   a
+b
+1.  d e
+2    c
+0  d e
+b
+#1 a  c
+xc
+#1c
+xca
+b
+#1f d
+x  a
+#1d b
+x   c
+b
+
+b
+0cdf
+0c  a
+b
+0a d
+0 df
+b
+w ca
+b
+wcd
+b
+0a d
+0 df
+b
+0 ca
+0c  a
+b
+0.d b
+1d    d
+b
+#1c  a
+xc  a
+0a  c
+b
+
+b
+#1 d  c
+xcdf
+#1cdf
+xcdf
+b
+#1ccd
+xccd
+0aab
+b
+0cca
+0fca
+b
+0cdf
+0cdf
+b
+0cca
+#1
+xc
+b
+0.d
+1c
+b
+#1a
+x d
+0 cee
+b
+
+b
+0.aab
+1 da
+b
+#1 c c
+x a a
+#2  e e
+x a
+x  c
+x  e
+b
+w a  c
+b
+0c d
+0f a
+b
+0f d
+0fcd
+b
+0df c
+0a
+b
+#1 a
+xh
+#1h
+xh
+b
+
+b
+0f
+0df c
+b
+#1cca
+x d  c
+#1 ca
+x d a
+b
+#2
+x c
+1 a c
+2    e
+#3  e
+x  c
+1  e
+b
+0 a  c
+#1
+x a
+b
+#1  d
+x  a
+#1  b
+x   c
+b
+
+b
+#1ca
+xdab
+#1dd   d
+xddb
+b
+0cd a
+1.aa c
+2 c
+b
+#1 d  c
+xdab
+#1ddb
+xddb
+b
+0cd a
+1.aa c
+2 c
+b
+#1 df
+x df c
+#1 cde
+x df c
+b
+0 cde
+0 df c
+b
+wccdeec
+b
+b
+
+e

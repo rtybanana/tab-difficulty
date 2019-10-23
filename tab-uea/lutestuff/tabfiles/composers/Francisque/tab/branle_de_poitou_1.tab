@@ -1,0 +1,243 @@
+-C
+-t
+-f
+{Branle de Poitou/Branle de Poitou}
+b
+x   a  a
+x    d /a
+x    a ///a
+b
+b
+1  d
+1    a
+1 a   e
+b
+1 b  a
+#2 d a
+x b
+#2 a
+x  d
+b
+1  c  a
+1   c
+1a   d
+b
+1 d   d
+1a
+1 b  a
+b
+1  c  a
+1  d  b
+1 a    a
+b
+
+b
+1.  c  a
+#3  a
+x  c
+1   c
+b
+1  d
+1    a
+1 a   e
+b
+1 b  a
+#2 d a
+x b
+#2 a
+x  d
+b
+1  c  a
+1   c
+1a   d
+b
+1 db
+1a  c
+#2 bd
+x d
+b
+1a b
+1  a
+1 e
+b
+1aac
+1   c
+1     a
+b
+
+b
+1  d d
+1    a
+1 a   e
+b
+#2 b  a
+xa
+#2 d a
+x b
+#2 a
+x  d
+b
+#2  c  a
+x  a
+#2   c
+x   a
+1a   d
+b
+1c  a
+#2 d
+xa
+#2c
+xe
+b
+1f
+1.e  c
+#3c
+xe
+b
+1f
+1    a
+1      ///a
+b
+
+b
+#2a   d
+xc
+1d
+1a
+b
+1f  d
+1 d
+1d  c
+b
+1 b
+1b  a
+1 a
+b
+1.a   d
+#3 d
+xa
+1 b
+b
+#2 d   d
+x b
+#2 a
+x b
+#2 d
+xa
+b
+1 bb   /a
+1   c
+1    d
+b
+#2a
+xb
+1d
+1b  a
+b
+
+b
+1a   d
+1  d
+1 d  c
+b
+1  b
+1 b  a
+1  a
+b
+1aac  a
+#2  a
+x  c
+1  d d
+b
+#2 a a
+x  d
+#2  cc
+x  d
+#2 a
+x  c
+b
+0  dca
+1      ///a
+b
+#2a   d
+x d
+#2a
+xb
+#2d
+xa
+b
+
+b
+1f  d
+1 d
+#2d  c
+xa
+b
+#2b
+xd
+#2b  a
+x d
+#2a
+xb
+b
+#2    d
+xa
+#2b
+xa
+#2 d
+x b
+b
+#2 d   d
+x b
+#2 a
+x b
+#2 d
+x a
+b
+1 bb   /a
+1   c
+1    d
+b
+
+b
+#2a
+xb
+1d
+1b  a
+b
+#2a   d
+x b
+#2 d
+xa
+#2 d  c
+x a
+b
+#2 b
+x d
+#2 b  a
+x  d
+#2 a
+x b
+b
+#2 a c
+xa
+#2 d
+x b
+#2 a
+x b
+b
+#2  d
+x b
+1. a   a
+#3  d
+x  c
+b
+
+b
+1  d
+1    a
+1      ///a
+b
+b
+
+e

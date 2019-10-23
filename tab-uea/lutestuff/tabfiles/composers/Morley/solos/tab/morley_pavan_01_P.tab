@@ -1,0 +1,310 @@
+-C
+-t
+-f
+{Pavane/Pavane}
+b
+C
+2.aa\1bc\2ca
+3   \3c
+#2   \1b
+x   \2c&{
+b
+1 \3e\4fe\1c
+#2aa\1b  \3d
+x \2c&{
+b
+#2cd   c
+x c c
+x a    b
+x  \4d
+b
+#2 a\1b\2c a
+x  a
+#3a\1bb  a
+x     \2c
+x     \3d
+x    a
+b
+2aa\1b \2c
+#3 \4e&{
+xa}
+#2 ea
+x \3c&{ \2c&(
+b
+1 e\4fe\1c
+#2\4h
+x    \1e
+2h   \2g
+#3f  \1c
+x\2d
+#2c
+x\4h   \2g
+b
+
+b
+#2\4da \1c a
+xa
+x\4d
+x a   \3d
+b
+2\2c  a
+#3  \3d
+x  \1b
+x  a
+x  \1b
+2  \3d \4e
+b
+#2aa\1b&{cca
+x   c
+x ab&}
+x \2c
+b
+2 \3da \1c&{
+#3a
+x\2c
+2\3d
+#3    c&}
+x    \4e
+b
+2c  ac
+#3   c
+x  a
+1a b
+b
+#2aaa c
+x   c
+3aaa   /a
+#4 \3e
+x \1c
+#4 e
+x a
+x c
+x e
+b
+
+b
+#3aa\1c  a
+x  \2d
+x a
+x   a
+#3    \1c
+x   a
+2  \2d \3e
+b
+0aa\1c  a
+.
+b
+b
+.
+#2 a\1ba \3d
+x \4d
+xa
+x a a
+b
+#3   \2c
+x \3c&{
+2 d&}  \1c\2d
+#3a
+x    \4eU
+xc    c
+x  d  X
+b
+2\4d\1b \2c a
+#3 a
+x   a
+#3    \2c
+x a
+x  \3d \4e
+x  \1b
+b
+2\2ca a  a
+#3  \3d
+x  \1b
+#3  a
+x  \1b
+x  \3d \4e
+x  a
+b
+#2aa\1b\2cca
+x\4d  c
+#3  \1b
+x\3c
+2a
+b
+
+b
+#2 \3e\4f\2e\1c
+x a\1b
+x \4ea
+x\3d  \1c
+b
+#2\3c  \1b\2c
+xa b
+x  a
+x \3e\4f&{\2e\1c
+b
+2a dc\3d
+#3  \1b
+x  a
+x   c
+x  a
+2  \1ba\2c
+b
+2 \1ba a
+#3   \2c
+x   a
+2   \2c \3d
+#3aa
+x \1c
+b
+#2\2c\3d&{a  \1c
+x c&}
+x a \1b
+x  \3d
+b
+2\4da \1c a
+#3a
+x\2c
+2\3d
+#3    \1c
+x    \4e
+b
+2\2ca a  a
+#3  \3d
+x  \1b
+2  \3d&{
+#3    a
+x    \2c&(
+b
+
+b
+#2a d d
+x   \1c
+2 d\1b c
+#3  a
+xa \1b
+b
+2\1b \3d a
+#3a
+x  \1b
+#3   \2c
+xa
+x \4da
+x \1b
+b
+#2 a \2c \3d
+x   a
+2  \1b
+#3  a
+x   \2c
+b
+0\4da\1b&{a\2c\3d&(
+.
+b
+b
+.
+#2 aba d
+x \4d
+xa
+x\2c  a \1c
+b
+#2\4d  \2c a
+x  a
+2  \1b
+#3\3c
+xa
+b
+2 \4e  \1c
+#3a a
+x   \2c
+#2\3c  \1b\2c
+x   c
+b
+
+b
+#3 \3da \1c
+x \2c
+x \3d&{
+xa
+#3\2cd&} a
+x    \4e
+x   a
+x   \1c
+b
+2  a a
+#3a
+x \3d
+#3a    \2d
+x\1c
+x \3d  \1c
+xa   \4e
+b
+2\2ca a \1c
+#3  \4e \1c
+x  \2c
+#3  \4e&{ \3e
+x a
+xa
+x  e&}
+b
+#2 \3ef\2e\1c
+xc
+x\2d
+x\4f a a
+b
+#2hd \2f d
+x  d
+2  \2f
+#3\3f
+xd
+b
+2\2ca    a
+#3\4d \3d
+x  \1b
+#2  \3d
+x\2c
+b
+#2\4da\1b  \3d
+x \4d
+xa
+x\3c  a \2c
+b
+
+b
+#2\4d  \2c a
+x  a
+2  \1b
+#3\2c
+xa
+b
+2 \4e  \1c
+#3a a
+x   \2c
+#2\4c  \1b\2c
+x   \2c
+b
+#2\1cca a
+xa
+xaa\1b  \3d
+x     a
+b
+#3a   a
+x  a
+x \4e   \1c
+x \2c
+#3 \4e&{  \1c
+xa
+x  a
+x e&}
+b
+#2aa\2c&{  a
+x   \1c(
+xaac&}
+x  \3d
+b
+Yaa\2ccca
+.
+b
+b
+
+e

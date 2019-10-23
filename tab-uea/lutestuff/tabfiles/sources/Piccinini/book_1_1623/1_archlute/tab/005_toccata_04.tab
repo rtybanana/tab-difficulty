@@ -1,0 +1,486 @@
+-C
+-t
+-f
+{5. Toccata 4/5. Toccata 4}
+b
+x    d /a
+b
+b
+c
+wbdda
+b
+#2bdda
+xf
+xb
+x d
+1f
+1 d
+b
+#2  d
+x   d
+x   c
+x   a
+0a d e
+b
+0bdda
+0 dbab
+b
+0 cdca
+0      ///a
+b
+#2 bdca
+x f
+x b
+x  d
+1 f
+1  d
+b
+#2   c
+x    d
+x    c
+x    a
+0 a c e
+b
+0 bdca
+0  da b
+b
+
+b
+0adb  a
+1. c
+3 a
+3 c
+b
+0bdd   a
+2.a b  a
+3b
+2.a
+3 d
+b
+1 b   b
+1  d
+2. ab  d
+3  d
+2.  b
+3   d
+b
+1 b ca
+1f
+2.d  ac
+3f
+2.d
+3b
+b
+1a b d
+1 b c  /a
+2. a a  a
+3 b
+2.  d d
+3 a
+b
+1  c ca
+1   c
+2.  da b
+3   c
+2.    d
+3   a
+b
+
+b
+1  b cd
+#2   dd
+x   c
+#2   a  4
+x    c
+#3    d
+x    c
+x    a
+x    c
+b
+1   cd /a
+#2 b
+x d
+#2a   d
+xb  a
+xd  c
+x   d
+b
+2  b
+#3b
+xa
+#2 d
+xa
+#2b  a
+x   c
+2   d
+#3a b
+x d
+b
+#2 bd
+x   d
+x de
+xa
+#2b
+xd
+xf d
+x g
+b
+#2g  f
+xf d
+x  e
+xd
+1f d
+#2    a
+x    c
+b
+
+b
+#2  b d
+x   a
+x   c
+x    d
+1   d
+#2  d
+x a
+b
+#2 b
+x d
+xa  c
+x b
+1b  a
+1  d&_
+b
+#2a
+x  b
+1 d d
+#2a  c
+x d
+#3a
+x d
+x b
+x a
+b
+#2  dd  a
+x   c
+#3   d
+x   c
+x   a
+x    d
+#2   a
+x     a
+x    ab
+x    cd
+b
+#2    df
+x   a b
+x   c d
+x    df
+#2   d  a
+x  b  a
+2  d  b
+#3  b  d
+x   d
+b
+
+b
+1   ca
+#2  d
+x a   d
+#2 bd  b
+x d
+xa b  a
+x b
+b
+#2b d   a
+x a
+xab    /a
+x  d
+#2 df   a
+x  d  a
+2 bd  b
+#3 d    a
+x b
+b
+2 ac  a
+#3     c
+x     e
+#3    a
+x    c
+x    e
+x   a
+2   c
+#3  a
+x  c
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+1 bd a
+#2ff h
+xh
+#2i
+xdfg
+xfg d
+xbde
+b
+
+b
+#2gd f
+xf d
+x  e
+xd
+#2b d   a
+xd    a
+2f    b
+#3da   d
+xb
+b
+#3ab  a
+x a
+xb d  b
+x  b
+2   db&_
+#3 d
+x    a
+#2  e  d
+xd
+#3  bcd
+xb
+xa
+x d  c
+b
+#2 b  a
+xf
+#3  da
+xb
+xd
+xf
+#2gd   d
+xf g a
+xd e b
+xb d  b
+b
+1 fg d
+#3 ge
+x  d
+x   f
+x   d
+2 f f
+#3 g
+x f
+#3 g
+x f
+x d
+x f
+b
+
+b
+#2bbdd
+x  b
+#3  d
+x  b
+x  d
+x  e
+#2 b
+x     b
+#3     d
+x     b
+x     d
+x    a
+b
+#2    b&_
+x d
+#3a
+x d
+xa
+xb
+#2d
+x     d
+#3    a
+x     d
+x    a
+x    c
+b
+#2    d&_
+xa
+#3b
+xa
+xb
+xd
+#2f
+x    a
+#3    c
+x    a
+x    c
+x    e
+b
+#2   a
+xb
+#3d
+xb
+xd
+xf
+#2g
+x    d
+#3   a
+x    d
+x   a
+x   c
+b
+
+b
+2 ggd
+#3  e
+x  g
+#3 d
+x f
+x g
+xd
+1f
+#3   f
+x   d
+x   c
+x   a
+b
+2 fg d
+#3  d
+x  f
+#3  g
+x d
+x f
+x g
+1d
+#3  d
+x  b
+x   d
+x   c
+b
+2 dda
+#3  b
+x  d
+#3 a
+x c
+x d
+xa
+1b
+#3   c
+x   a
+x    d
+x    c
+b
+2 bd a
+#3   d
+x  b
+#3  d
+x a
+x b
+x d
+1a
+#3    d
+x    c
+x    a
+x     d
+b
+
+b
+2  dd b
+#3   c
+x   d
+#3  b
+x  d
+x a
+x c
+1 d
+#3     d
+x    a
+x    b
+x     d
+b
+2 cdca
+#3    c
+x    e
+#3   a
+x   c
+x  a
+x  c
+1  d
+#3 db
+x   d
+x   c
+x   a
+b
+1f   e
+#3d  a
+xb
+xa
+x d
+2 cdca
+#3 d
+x c
+#3 d
+x c
+x a
+x c
+b
+2 dde  a
+#3   c
+x  a
+#3  b
+x  d
+x a
+x c
+#3 d
+x a
+x c
+x d
+#3  d
+x  a
+x  b
+x  d
+b
+
+b
+#3   e
+x   a
+x   c
+x   e
+#3   a
+x    c
+x    e
+x   a
+#3    a
+x     d
+x     c
+x     a
+#3      a
+x     a
+x     c
+x     d
+b
+#3    a
+x    c
+x    e
+x   a
+#3   c
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+#3c
+xa
+xc
+xd
+b
+wfda   a
+b
+wcdda
+b
+b
+
+e

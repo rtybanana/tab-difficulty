@@ -1,0 +1,310 @@
+-C
+-t
+-f
+{26. Corrente 10/26. Corrente 10}
+b
+1    a
+b
+.
+1. d a
+2a
+1 d  c
+b
+1a   e
+1 d
+1a
+b
+0cdda
+1      a
+b
+0cdd
+1  d  c
+b
+1.d f  d
+2  d
+1  f
+b
+1a h a
+1  f
+1  h
+b
+0 hi   a
+1    a
+b
+0   a
+1ddf   4
+b
+1c d   ///a
+1      4
+1      ///a
+b
+1 db   //a
+1      ///a
+1      //a
+b
+0a b   /a
+1    d
+b
+
+b
+1a b
+1      //a
+1      /a
+b
+1. daa  a
+2      /a
+1      //a
+b
+1. c c  ///a
+2 a a
+1 c c
+b
+0 daa  a
+1    a
+b
+1   a
+#2  dU
+x  b
+#2  aX
+x   c
+b
+1. d a
+2a
+1 d  c
+b
+#2a   e
+x d
+#2a
+xc
+1a
+b
+0cdda
+1      a
+b
+0cdd
+1  d  c
+b
+#2  f  d
+x  d
+#2  f
+x  g
+1  f
+b
+
+b
+#2  h a
+x  f
+#2  h
+x  i
+1  h
+b
+0  i   a
+1    a
+b
+0   a
+1ddf  d
+b
+1c d a
+1     d
+1    a
+b
+1 d  c
+#2  bU
+x  a
+#2  Xc
+x   a
+b
+1a b d
+#2    aU
+x    c
+#2    dX
+x   a
+b
+1   c
+#2    cU
+x    a
+#2    cX
+x    d
+b
+1 daa
+#2  bU
+x  a
+#2  Xc
+x   a
+b
+#2    d
+x    c
+#2    a
+x     d
+1 c ca
+b
+
+b
+0 daa  a
+1    a
+b
+1   a
+1f
+1d
+b
+1c
+1  d
+1a b
+b
+1 da
+1   c
+1   a
+b
+1 cd
+1    a
+1     d
+b
+1 d   c
+1     a
+1     c
+b
+1     e
+1a
+1 d
+b
+1. c  a
+2c
+1a
+b
+1 d  c
+1d
+1c
+b
+1a   e
+1 d
+1a
+b
+1.c  a
+2  f
+1  d
+b
+
+b
+1  cc
+1  a
+1  c
+b
+1 cd
+1    a
+1     d
+b
+1 d   c
+1     a
+1     c
+b
+1     d
+1a b
+1 da
+b
+1 c ca
+#2   a
+x a
+1 c c
+b
+0 d a  a
+1    a
+b
+1   a
+#2fU
+xdX
+#2fU
+xdX
+b
+1c
+1  d
+1a b
+b
+1 da
+1   c
+1   a
+b
+1 c c
+#2     fU
+x     dX
+#2     fU
+x     dX
+b
+
+b
+1 d   c
+1     a
+1     c
+b
+1     e
+#2a
+x d
+#2a
+x d
+b
+1 c  a
+#2c     ///a
+xa
+#2c
+xa
+b
+1 d    //a
+#2d
+xc
+#2d
+xc
+b
+1a     7
+#2  d
+x  b
+#2  d
+x  b
+b
+1  a   a
+#2  f
+x  d
+#2  f
+x  d
+b
+1  c  a
+#2  h
+x  f
+#2  h
+x  f
+b
+1  d   ///a
+#2     fU
+x     dX
+#2     fU
+x     dX
+b
+
+b
+1 d   c
+1     a
+1     c
+b
+1     d
+#2a     4
+x d
+#2a
+x d
+b
+1 c c  ///a
+1 a a
+1 c c
+b
+0 d a  a
+1    a
+b
+A1
+0   a
+1    a
+.
+b
+b
+A2
+0.   a
+b
+b
+
+e

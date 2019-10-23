@@ -1,0 +1,107 @@
+-C
+-t
+-f
+{Mag ich unglück nit widerston/Mag ich unglück nit widerston}
+b
+c
+0   c
+1   c
+1  a
+b
+0  bc
+0  bc
+b
+0  d a
+0 bd
+b
+0 a c
+0 a c
+b
+0  dd
+0  dd
+b
+0
+0a   d
+b
+0 d a
+0 b  a
+b
+0 a c
+0 a c
+b
+0
+0 b  d
+b
+0 ab
+0  da
+b
+0  bc
+1   cd
+#2   cd
+x  aa
+b
+1  bc
+1  d d
+0   df
+b
+w   ca
+.
+b
+b
+
+b
+0
+0  bc
+b
+1  d a
+1 b
+1   a
+1 a
+b
+0 b  d
+0a   d
+b
+0 db
+0 db
+b
+0 bd
+0 bd
+b
+0   c
+0a  c
+b
+0 bd
+0 b d
+b
+0  dd
+0 d a
+b
+0 ab
+0 a c
+b
+0  bc
+0  b d
+b
+1
+1    d
+1  bc
+#2   c
+x  a
+b
+0 ab
+0 bd
+b
+0 db
+0  dd
+b
+
+b
+1 a c
+1   a
+0 a c
+b
+w  d a
+b
+b
+
+e

@@ -1,0 +1,137 @@
+-C
+-t
+-f
+{Le tableau de l'operation de la taille/Le tableau de l'operation de la taille}
+b
+x   b  a
+x    e /a
+x    d //a
+x    b ///a
+x     e4
+b
+b
+0 ccc  /a
+0 cde
+b
+w ede  //a
+b
+0acc   /a
+1
+1acc   /a
+b
+0 ccc a
+1
+1 ccc a
+b
+wacc e
+b
+w cc&Uc  /a
+b
+0 ccc  /a
+1 ccc
+1 bab
+b
+
+b
+1 ccc\3e
+1 \4ec c
+1 \1ca a
+1 a \2d \3e
+b
+1  \2d&{ \3ec
+1  c&} \4ea
+1  a \3d a
+1   \2c \4e/a
+b
+0   \1b\3d\4e
+0 efg e
+b
+0 eeg  a
+0   f
+b
+0  hhh 4
+0
+b
+w
+b
+w
+b
+2.a \2c \4e
+3   \1b
+2.\2c \4d \3d&{
+3   \1b&(
+0\4ec c&)e
+b
+0 dcdc
+0 cdea
+b
+0  f fe
+0   d
+b
+
+b
+w  deec
+b
+w  de&Uec5
+b
+w  deec5
+b
+w  de&Uec5
+b
+x  deec5
+b
+w
+b
+2.eegg
+3   e
+2.   g
+3   e
+1eccc
+1cbcb
+b
+1a c e
+1  b
+1  a
+1 ccc
+b
+0 eded
+0 ccdc
+b
+1 ca a
+1
+1 a d e
+1
+b
+
+b
+0 cde c
+0 ede c
+b
+2. bc  e
+3      d
+2.     e
+3      d
+1 cc  a
+1 ba   a
+b
+1 ccc  /a
+1  ggge
+1 ccce
+1 ec c
+b
+0 ccca
+1
+1 ca a
+b
+0c c \2d\3e
+1
+1a \4d  \1c
+b
+0 e\4h\2g e
+0 \4hg
+b
+wa\2fhg  /a
+b
+b
+
+e

@@ -1,0 +1,276 @@
+-C
+-t
+-f
+{Allmayne/Allmayne}
+b
+x   a  a
+x    a /a
+b
+b
+C
+1   c
+b
+2.  d"xca
+3 a
+1 b"#
+2. a a d
+3 b
+1 d
+b
+2. bb d
+3 a
+#2 b"#
+x d
+1a"#
+#2 b
+x d
+b
+2.a   d
+3c
+1d   c
+2.f"#   a
+3h
+1i
+b
+1h    e
+1f"x   a
+1e"#a   a
+#2a
+xc
+b
+#2d    a
+xf
+xd"#
+xb
+1ab"x  d
+#2 d
+xa
+b
+
+b
+#2b  a
+xd
+xb
+xa
+1 d"xff
+#2a  c
+x d
+b
+1 b"xdd
+#2 d a
+x b
+#2 a c
+x  d
+1 ac"#  a
+b
+1  d"x a
+1   c
+1      /a
+1   c
+b
+b
+#2  d"x
+x a
+x b"#
+x  d
+#2 a a d
+x b
+x d
+x a
+b
+#2 bb d
+x a
+x b
+x d
+1a"#
+#2 b
+x d
+b
+2.a   d
+3c
+1d   c
+2.f"#   a
+3h
+1i
+b
+1h    e
+1f"x   a
+1e"#a   a
+#2a
+xc
+b
+
+b
+#2d    a
+xf
+xd
+xb
+#2a   d
+x b
+x d
+xa
+b
+#2b  a
+xd
+xb"#
+xa
+#2 d   d
+x a
+xa  c
+x d
+b
+#2 b d
+x  d
+x d a
+x b
+#2 a c
+x  d
+x a   a
+x  c"#
+b
+1  d"x a
+1   c
+1      /a
+#2 a"#
+x  d
+b
+b
+1  c"#c
+#2a
+x d
+1 b"xd
+#2b"#
+xa
+b
+1 d"#f
+#2d
+xb
+1ab
+#2f
+x a
+b
+
+b
+#2  d
+xd
+xb"#
+xa
+1 d"#f
+#2d
+x  d
+b
+#2 ab
+xb
+xa"#
+x d
+1 b"xd
+#2a
+x  b
+b
+#2   d
+x  d
+x d
+x   c
+#2   a
+x b
+x a"#
+x  d
+b
+#2  c"#c
+x a
+x b"#
+x d
+#2a"#
+x   c
+x   a"#
+x    d
+b
+#2 d  c
+xa
+x b"#  a
+x d
+#2 a c
+x  d
+1 ac"#  a
+b
+1  d"x a
+1   c
+1      /a
+#2 a"#
+x  d
+b
+b
+
+b
+#2  c"#
+x   c
+xa
+x d
+#2 b"#
+x  d
+xb"#
+xa
+b
+#2 d"#
+x  f
+xd
+xb
+#2a"#
+x b
+xf
+x a
+b
+#2  d
+xd
+xb"#
+xa
+#2 d"#
+x  f
+xd
+x  d
+b
+#2 ab
+xb
+xa"#
+x d
+#2 b"#
+x  d
+xa
+x  b
+b
+#2   d
+x  d
+x d
+x   c
+#2   a
+x b
+x a"#
+x  d
+b
+
+b
+#2  cc
+x a
+x b
+x d
+#2a"#
+x   c
+x   a"#
+x    d
+b
+#2 d  c
+xa
+x b"#  a
+x d
+#2 a c
+x  d
+x a   a
+x  c"#
+b
+1  d"xca
+1   c
+Y      /a
+b
+b
+
+e

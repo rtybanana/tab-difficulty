@@ -1,0 +1,261 @@
+-C
+-t
+-f
+{79. What if a day/79. What if a day}
+b
+c
+1  dca
+#2  c
+x  d
+1 ac  a
+#2  d
+x a
+b
+1 bd a
+#2 d
+x b
+0 ac  a
+b
+1 bd a
+#2 a
+x b
+1 db  d
+#2 b
+x d
+b
+1.ab  d
+2a
+2. db  d
+3a
+#2 b  a
+x d
+b
+2. adc a
+3  d
+#2  c
+x a
+0  dca
+b
+b
+
+b
+2  dca
+#3a
+x d
+2 b
+#3 d
+x b
+#3 a   a
+x  d
+x  c
+x  d
+#3 a
+x b
+x d
+x a
+b
+#3 b  a
+x d
+xa
+x b
+#3 d
+xa
+x b
+x d
+1. ac  a
+2 a
+b
+#3 b  a
+x a
+x  d
+x a
+#3 b
+x d
+xa
+x b
+2dab  d
+#3b
+xa
+#3 d
+x b
+2 d
+b
+2.a"+   d
+3 d
+#3 b
+x a
+2 b
+2 db  d
+#3a
+x d
+2 b  a
+#3 d
+x b
+b
+
+b
+#3 a   a
+x b
+x d
+x b
+#3 a
+x  d
+2 a
+0  dca
+b
+b
+1.abb d
+2a
+1 db  d
+#2 b
+x a
+b
+1 bdca
+#2 d
+x b
+1. ac  a
+2 a
+b
+1 bd a
+#2 db c
+x  a
+#2a  c d
+xc
+xda   a
+xf
+b
+#2caa c
+xa
+1c
+0aac  a
+b
+b
+2.a   d
+#4c
+xd
+#2c"+
+xa
+2. d"+b  d
+3 b
+#3 a
+x b
+x d
+x a
+b
+
+b
+2. b"+d a
+#4 a
+x b
+#3 d
+x b
+x d
+x b
+1. ac  a
+2 a
+b
+#3 b  a
+x  d
+x a
+x b
+#3 d  c
+x a
+x b
+x d
+#3a    d
+x d
+xa
+xc
+#3d    a
+xa
+xc
+xd
+b
+#3c   c
+xd
+xf   a
+xd
+#3c   c
+xa
+2c
+0aac  a
+b
+b
+1 bdca
+1 db  d
+0ab  d
+b
+1 db  d
+1 b  a
+1 db  d
+#2a    a
+x d
+b
+
+b
+1 b  a
+1 a   a
+#2  d  b
+x a
+x b
+x d
+b
+#2 a   a
+x  d
+x  c
+x a
+1.  dca
+2 a
+b
+#3 b  a
+x d
+xa
+x b
+#3 d   d
+xa
+xb
+x d
+1.ab  d
+2a
+b
+#3 d   d
+x a
+x b
+x d
+#3 b  a
+x  d
+x a
+x b
+1 db  d
+#2a    a
+x d
+b
+
+b
+2 b  a
+#3 d
+x b
+2 a   d
+#3 b
+x a
+#3  d  b
+x  b
+x  d
+x a
+#3 b
+x a
+x b
+x d
+b
+#3 a   a
+x b
+x d
+x b
+#3 a
+x  d
+2 a
+0  dca
+b
+b
+P
+e

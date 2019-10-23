@@ -1,0 +1,155 @@
+-C
+-t
+-f
+{La Volta/La Volta}
+b
+1cdd   a
+1a
+1 d
+b
+0cdd   a
+1cdd
+b
+1cdd   a
+1a
+1 d
+b
+0ffh a
+1ffh
+b
+1cdd-  a
+1a
+1 d
+b
+1.fc  a
+2.d
+1c- a
+b
+
+b
+1da-  d
+1add a
+1 c
+b
+0 d"+da
+1      a
+b
+#2   a
+xc
+#1a
+x d
+b
+0cdd-  a
+1cdd
+b
+#2   a
+xc
+#1a
+x d
+b
+1.ffh a
+2h
+1f
+b
+
+b
+#2c-  --a
+xa
+#2 d
+xa
+#2c
+xd
+b
+1.fc- a
+2d
+1c- a
+b
+#2d--  d
+xc
+#2a-- a
+x d
+1ac
+b
+0 d"+da
+1      a
+b
+1. daa
+2a
+#2c
+xd
+b
+0fh a
+1h  f
+b
+
+b
+1da c
+1a
+1acd
+b
+1.cdd-  a
+2a
+1 d
+b
+1. da-  a
+2a
+#2c
+xd
+b
+1.fc- a
+2d
+1c- a
+b
+1da-  d
+1ac"+dca
+1 c
+b
+0 d"+da
+1      a
+b
+
+b
+#2 d a
+x c
+#2 d
+xa
+#2c
+xd
+b
+1fh
+1   a
+1h  f
+b
+1d- c
+1a
+1acd
+b
+1.cdd-  a
+2a
+1 d
+b
+#2 d a
+x c
+#2 d
+xa
+#2c
+xd
+b
+1.fc- a
+2d
+1c- a
+b
+
+b
+#2d--  d
+xc
+#2a-- a
+x d
+1ac
+b
+0 d"+da
+1      a
+b
+b
+
+e

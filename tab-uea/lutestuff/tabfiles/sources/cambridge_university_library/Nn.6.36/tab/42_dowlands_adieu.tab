@@ -1,0 +1,514 @@
+-C
+-t
+-f
+{42. Dowland's adieu/John Dowland?}
+b
+c
+#2 aa c a
+x    e
+x   b
+x c c
+#2 ea c a
+xa
+xcaa
+x    a
+b
+#2da a d
+x     c
+x abc a
+xd
+2caa c
+1      a
+#3d   a
+x     d
+b
+#2f    c
+xhaa   e
+xda c a
+x c
+#2 efec a
+xc
+xd
+xf   a
+b
+#2hd f d
+x  d
+x  f
+xffg a
+2da ac
+#3c d d
+xa
+#2c  a
+xffg a
+b
+
+b
+#2da ac
+xc
+#3  d
+xa
+2a b
+#3      a
+x f e
+x e
+x c
+#3 e
+x f
+x  d
+x e
+b
+#3     a
+xaac
+x   c
+#4 d
+x b
+#4 a
+x b
+x d
+x b
+#4 a
+x  d
+x  c
+x  a
+#3aac  a
+x   c
+x     a
+x  d
+1aac
+b
+b
+#2 aa c
+x    e
+x   b
+x c c
+#3 e  c
+x c
+x a
+x c
+#3 e
+xa
+xc
+x    a
+b
+
+b
+#2da a d
+x     c
+#3 ab  a
+xd
+xc
+xa
+2ca  c
+2.      a
+#4a
+xc
+#3d   a
+x     d
+b
+#2f    c
+xhaa   e
+#4d    a
+xc
+xa
+x e
+#4a
+xc
+xd
+xa
+2 ea c
+3c
+#4a
+xc
+#4d
+xa
+xc
+xd
+#4f   a
+xc
+xd
+xf
+b
+#2hd f d
+x  d
+x  f
+xffg a
+3da ac
+#4c
+xd
+#3c d d
+xa
+#3c  a
+xd
+2ffg a
+b
+
+b
+#4 a  c
+xd
+xc
+xa
+#4c
+x  d
+x  b
+x  a
+#4  b
+xc
+xa
+x e
+#4a
+x  b
+x  a
+x   c
+#4 e    a
+x c
+x a
+x c
+#4 e
+xa
+xc
+xd
+#4c
+xd
+xf
+xd
+#4c
+xa
+xc
+x e
+b
+#4a    a
+x d
+x a
+x c
+#4 d
+x c
+x  d
+x a
+#4 c
+x a
+x  c
+x  d
+#4 a
+x  d
+x  c
+x  a
+#3aac  a
+x   c
+x     a
+x  d
+1aac
+b
+b
+2caa c
+#3a
+xc
+1da a
+2abb d
+#3c
+xd
+#2f
+x    a
+b
+#2 e  c
+xd
+xcf
+xa
+2      a
+1.caabc
+b
+
+b
+#2 a a d
+x   c
+x c  a
+x da c
+#3 a c d
+x   a
+#2a d d
+x  b c
+x ea
+b
+2aabc
+2.cdda
+3    d
+2da ac
+#2 fg a
+xf
+#3 a ac
+xd
+2d
+b
+#3  d d
+xa
+2c  a
+#2ddff d
+xh
+#3  aa
+xc
+2f
+2da c
+#3c  a
+x aa
+b
+#2  d
+xa b  d
+2  a c
+#3 d
+x     c
+#2 c  a
+x dd  c
+2 a a d
+#3a b  c
+x     a
+b
+
+b
+3cefecca
+#4  f
+x c
+#4 e
+x c
+x e
+x f
+#4c
+xd
+xf
+xd
+#4c
+x f
+x e
+x c
+#3 ef
+x   e
+x      a
+x f
+1 efe
+b
+b
+3ca ac
+#4a
+xc
+#4d
+xc
+xa
+xc
+#2da ac
+xc
+#4a   d
+x d
+x b
+x a
+#4  d
+x a
+x b
+x d
+#4a
+xc
+xd
+xa
+#3f
+x    a
+b
+#2 e  c
+xd
+xcf
+xa
+2caabc
+1.      a
+b
+
+b
+2 a a d
+#3   c
+x a
+#2 c  a
+x da c
+#3 a c d
+x   a
+2a d d
+#3    c
+x  b
+x  a
+x e
+b
+2aabc
+#4c  a
+xa
+xc
+xd
+#3c
+x    d
+2da ac
+#4f   a
+x   a
+x   c
+x  a
+#4  b
+x  d
+x a
+x b
+#4 d
+xa
+xc
+x d
+2dd  c
+b
+
+b
+#4    d
+xd
+xc
+xa
+#4c
+xd
+xa
+xc
+#2ddfffd
+xh
+3   a
+#4f
+xd
+#4c
+xd
+xf
+xc
+2d   c
+3c  a
+#4  d
+x  b
+b
+#3  a
+x  b
+x  d
+x  a
+2a b  d
+3  a c
+#4 d
+x    c
+3 c  a
+#4 a
+x c
+#3 dd  c
+x c
+#3 d
+x     d
+#4a    a
+xc
+xd
+xa
+b
+#4c
+xh
+x d
+xf
+#4 b
+xd
+x a
+xc
+#4  d
+xd
+3a b
+#4 a
+x  a
+3a  c
+0caabcca
+b
+b
+
+b
+#2 aa   a
+x d
+xd
+xf
+#2h     a
+x   a
+x   f
+xf d
+b
+#2da a  a
+xc
+#3  d
+xa
+2a b
+#3      a
+x f e
+x e c
+x c
+#3 e e
+x f
+x cd
+x e
+b
+1.aac  a
+2da c
+#2f aa
+xh  f h
+xi g  f
+x   e
+b
+2hd f d
+2.l
+3k
+2h
+#2f aa
+xc
+#3      d
+xd
+2f
+b
+
+b
+2da   a
+#3h
+x c
+#3 d
+xh
+xf
+xd
+#2c  a
+xf
+#3    a
+xf
+xd
+xc
+b
+2abb d
+#3ca
+x  d
+#3d b
+x    d
+xf a c
+x    a
+2h  f d
+#3  a a
+x   c
+#3   a h
+xh
+xf   d
+xd
+b
+#2c  a
+xf
+#3    a
+xd
+xc
+xa
+#2 ea c
+xa  cd
+x  b c
+x ea
+b
+2.aaccca
+#4 d
+x b
+#3 a
+x  d
+x  c
+x  a
+#2aac  a
+x   c
+Y     a
+b
+b
+
+e

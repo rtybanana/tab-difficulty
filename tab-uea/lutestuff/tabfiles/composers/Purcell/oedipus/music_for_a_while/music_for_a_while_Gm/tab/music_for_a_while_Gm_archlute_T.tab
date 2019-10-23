@@ -1,0 +1,362 @@
+-C
+-t
+-f
+{/Henry Purcell}
+b
+0      a
+x    e /a
+b
+b
+c
+2     a
+x    c
+x    d
+x     a
+x     c
+x    e
+x   a
+x     c
+b
+x     d
+x   b
+x   c
+x     e
+x    a
+x   c
+x  a
+x    a
+b
+x    c
+x   b
+x   c
+x     d
+x    a
+x    d
+x    c
+x      //a
+b
+
+b
+x  b  a
+x    c
+x    d
+x  b  a
+x  d  c
+x    e
+x   a
+x  d  c
+b
+x a   d
+x   b
+x   c
+x a   e
+x b  a
+x   c
+x  a
+x b  a
+b
+x aa c
+x   b
+xaa c
+x     d
+x ba a
+x    d
+x a bc
+x      //a
+b
+x a   a
+x    c
+x    d
+x  b  a
+x  d  c
+x    e
+x   a
+x  d  c
+b
+x a   d
+x   b
+x   c
+x a   e
+x b  a
+x   c
+x  a
+x b  a
+b
+
+b
+x aa c
+x   b
+xaa c
+x     d
+xaba a
+x    d
+xc abc
+x      //a
+b
+xda   a
+x    c
+x    d
+x  b  a
+x  d  c
+x    e
+x   a
+x  d  c
+b
+x a   d
+x   b
+x   c
+x a   e
+x b  a
+x   c
+x  a
+x b  a
+b
+x ad c
+x   b
+x abc
+x     d
+x baca
+x    d
+x  abc
+x a    //a
+b
+x a   a
+x    c
+x    d
+x     a
+x  d  c
+x    e
+x   a
+x dd  c
+b
+
+b
+x a   d
+x   b
+x cbc
+x     a
+x c   c
+x    b
+x aaac
+x      a
+b
+x ab ea
+x     d
+x ca bc
+x      5
+x da   //a
+x     c
+x     d
+x d    //a
+b
+xa d   /a
+x     e
+x    a
+xa     /a
+xc d   a
+x    a
+x    c
+xc     a
+b
+xda   a
+x    c
+x   cd
+x     a
+x dd  c
+x    e
+x  da
+x     c
+b
+x df  d
+x    c
+x cd a
+x      ///a
+x dde  a
+x    a
+x    c
+x  a   a
+b
+
+b
+x  b  a
+x    c
+x  b d
+x     a
+x  d  c
+x    e
+x   a
+x  d  c
+b
+x a   d
+x   b
+x   c
+xaa   e
+x b  a
+x   c
+x ba
+x    a
+b
+x e  c
+x  a
+xa b
+x    c
+xa b d
+x   c
+x ddff
+x   e  a
+b
+x ab  d
+x   a
+x abc
+x    c
+xa dfd
+x   c
+x ddff
+x   e  a
+b
+x aba d
+x    a
+x aabc
+x      //a
+x ac  a
+x    c
+x  d d
+x     a
+b
+
+b
+x dd  c
+x    e
+x   a
+x  da c
+x a\1b  d
+x   b
+x   \2c&{
+x a c&} \4e
+b
+x \1b  a
+x   c
+x ba
+x    a
+x aa \2c
+x   \1b
+x  \1b\2c
+xa    \3d
+b
+xaba a
+x    d
+xa a c
+x e    //a
+xaab  a
+x    c
+x   c
+x     a
+b
+x c   c
+x    b
+x d  c
+x      a
+x ab  a
+x     d
+x  e ec
+x      5
+b
+x aaa  //a
+x    c
+x a c d
+x     a
+x \1ba\3c&{a
+x     \2c
+x aac&}\2c
+x   \1b  //a
+b
+
+b
+x  b  a
+x    c
+x    d
+x  b  a
+x  d  c
+x    e
+x   a
+x  d  c
+b
+x a   d
+x   b
+x   c
+x a   e
+x b  a
+x   c
+x  a
+x b  a
+b
+x aa c
+x   b
+xaa c
+x     d
+x ba a
+x    d
+x a bc
+x      //a
+b
+x ab  a
+x    c
+x    d
+x  b  a
+x  d  c
+x    e
+x   a
+x  d  c
+b
+x a   d
+x   b
+x   c
+x a   e
+x b  a
+x   c
+x  a
+x b  a
+b
+
+b
+x aa c
+x   b
+x   c
+xa    d
+xaba a
+x    d
+xc abc
+x      //a
+b
+xda   a
+x    c
+x    d
+x a   a
+x d   c
+x    e
+x   a
+x  d  c
+b
+x \4d\1b  \3d
+x   b
+x a\1b\2c
+x     \4e
+x b  a
+x   c
+x  a
+xab  a
+b
+xca  c
+x   b
+xda c
+x     d
+xcb  a
+x    d
+xa a c
+x e    //a
+b
+waabcca
+b
+b
+
+e

@@ -1,0 +1,80 @@
+-C
+-t
+-f
+{124. Mr. Chidley's farewell/Anonymous}
+b
+#2
+x a
+#2a
+xc
+b
+b
+.
+1ea   a
+#2c
+xa
+#2c
+xe
+b
+1fc  a
+#2e
+xc
+#2e
+xf
+b
+1.ha g a
+2f
+1ea   a
+b
+A1
+1caa c
+#2ca  c
+x a
+#2a
+xc
+.
+b
+b
+A2
+1caa c
+1.ca  c
+2
+b
+.
+2.ca  c
+3c
+#2h
+xc
+#2ea   a
+xa
+b
+
+b
+1caa c
+2ea c
+1caa c
+2ea c
+b
+1fc  a
+2ea   a
+#3c
+xa
+#2    c
+xcaa
+b
+A1
+1aac  a
+2 cd a
+1aaccca
+2
+.
+b
+b
+A2
+1aac  a
+2 cd a
+Y.aaccca
+b
+b
+
+e

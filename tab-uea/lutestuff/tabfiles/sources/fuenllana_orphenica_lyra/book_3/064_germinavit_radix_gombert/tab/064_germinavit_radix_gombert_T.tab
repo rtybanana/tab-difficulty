@@ -1,0 +1,635 @@
+-C
+-t
+-f
+{64. Germinavit radix/Miguel de Fuenllana}
+b
+c
+w d
+b
+0 d
+0  e
+b
+w e
+b
+w d
+b
+0  b
+0 d
+b
+1 db
+#2a
+xc
+0d  c
+b
+0b d
+0a
+b
+0d  f
+0 d
+b
+0dfg
+0df
+b
+0fig
+0 gi
+b
+0dge
+0 fg
+b
+1bd
+1ab
+1 de
+1 bd
+b
+0 def
+0 d
+b
+
+b
+0deg d
+1f
+1  e
+b
+1bdda
+1  b
+1   d
+1df c
+b
+0fd df
+0gd  fg
+b
+1  efg
+1f
+0dbbb
+b
+1 dda
+1d
+0c
+b
+0ddef
+1     d
+1   d
+b
+0dbbcd
+0af
+b
+1fd  f
+1   f
+0   e
+b
+1ddef d
+1   d
+1   c
+1   a
+b
+1 bdca
+1 d
+1a
+1 c
+b
+0.bdda
+1 b
+b
+
+b
+0d eb
+1  b
+1b  a
+b
+0abd d
+0    a
+b
+0 dedb
+0  ba
+b
+1  dca
+1 d
+0 c
+b
+1 ddef
+1   f
+0  de
+b
+0  effd
+0   f
+b
+1deg  d
+1   d
+1  bc
+1   a
+b
+1abd d
+1  b
+1 dddf
+1   c
+b
+1 dedb
+1   a
+1 def d
+1   d
+b
+1 ddca
+1   a
+0 cdca
+b
+0 dddf
+1bd a
+1  b
+b
+
+b
+0bdda
+0bdda
+b
+1gd f
+1  g
+1 de
+1  d
+b
+0gf f
+0fggd
+b
+0ddgf
+1  f
+1 g
+b
+0 fgfd
+0   f
+b
+0dfg d
+1d g
+1  e
+b
+0i gh
+1   fh
+1g
+b
+0fgdd
+0dde
+b
+0ffih
+0  h
+b
+0f ihf
+0 g
+b
+1f da
+1 f
+1 d
+1 b
+b
+1 def d
+1   d
+1 bdcd
+1  ea
+b
+
+b
+0 bdcd
+0 deab
+b
+0 bdda
+0 def d
+b
+1 d  b
+1  dd
+1  bcd
+1   a
+b
+1f  ca
+1  b
+0f a d
+b
+0 deffd
+0d bc
+b
+0ddda
+1b
+1 a
+b
+0abb d
+0 dddf
+b
+1b
+1    d
+1 de b
+1d
+b
+0fba a
+0gd ffd
+b
+1ggi  g
+1f
+1deg d
+1  e
+b
+0ddddf
+0c  a
+b
+
+b
+1dde fd
+1   f
+1 ddff
+1fd e
+b
+0dd ffd
+1  e
+1 f
+b
+0 gih
+0ffh
+b
+0fgia
+0 dddf
+b
+0ddef
+0dfg d
+b
+0bbdd
+1b
+1  bc
+b
+0fgea
+0df c
+b
+0i ghi
+1gd f
+1  e
+b
+1dbbb
+1  e
+1 dd
+1  b
+b
+0 ddff
+0   e
+b
+0ddef
+0   f
+b
+0ddda
+0c
+b
+0.gd f
+1f d
+b
+
+b
+0dfef
+0fggd
+b
+0 gii
+0df
+b
+0ffih
+1  h
+1   f
+b
+0 gdd
+0 gddf
+b
+0ddbc
+0 c
+b
+0ddddf
+0b ea
+b
+1gd ffd
+1  d
+0   f
+b
+1fb  a
+1  b
+0  de
+b
+0. deffd
+1  g
+b
+0 de f
+1     d
+1 b
+b
+0 de b
+1   a
+1  d d
+b
+0  edf
+0  b b
+b
+0  dfd
+0 dedf
+b
+
+b
+0  efg
+1 bd
+1  b
+b
+0 deff
+1   d
+1 b
+b
+0bd a
+1ddef
+1 f
+b
+0fggd
+0 gia
+b
+1df c
+1  g
+1dfg d
+1f
+b
+0gdef d
+1  d
+1   f
+b
+0gd dfg
+1f g d
+1d e
+b
+1 gddf
+1 f
+0gd dfg
+b
+0fbd d
+0gg df
+b
+1  efg
+1f
+0dbbb
+b
+0ddddf
+1c  a
+#2  b
+x  d
+b
+
+b
+0ddef d
+0   f
+b
+0dde  d
+0 de
+b
+0bdd
+1a
+1  b
+b
+0 ddd
+0 def d
+b
+1 de b
+1   d
+0 dbab
+b
+1  dca
+1 d
+0 c
+b
+0 dda b
+0d ea d
+b
+1gd f
+1    a
+1gd f g
+1    d
+b
+0.fgda
+1df
+b
+1bd
+1ab
+1ddef
+1 bd
+b
+1ddef
+1b d
+0 de
+b
+
+b
+1a d
+1 d
+1 c
+1  b
+b
+0 ddd
+0 def
+b
+0 de f
+0 de
+b
+0bbd
+1a
+1  b
+b
+0 ddd
+0ddef
+b
+1giif
+1   h
+1giii
+1   f
+b
+0fgih
+1 fh
+1d
+b
+0bdda
+0 ddd
+b
+0abbc
+0bdea
+b
+0.ddef
+1   d
+b
+0bdda
+1abd
+1c
+b
+1ddef
+1 f
+0fgdd
+b
+0 gii
+0df
+b
+
+b
+0fgihf
+1 ddd
+#2  b
+x   d
+b
+1abdcd
+1  b
+0bde b
+b
+0dbbb
+1a d
+1  b
+b
+0bdda
+0 ddd
+b
+0 bbc
+0  edf
+b
+0a ef d
+1 d
+1   d
+b
+0 dbcd
+0 bd d
+b
+0 dbab
+0ddb  d
+b
+1i g a
+1   f
+0i ah
+b
+0gdef d
+0f
+b
+0.f gh
+1d
+b
+0bde
+1df
+1 d
+b
+0ffgha
+0 fgh
+b
+
+b
+0 gddf
+0 df f
+b
+1abd d
+1  b
+0 bdda
+b
+0 d  b
+1gd f
+1    a
+b
+1fb d b
+1  d
+0dde fd
+b
+1ddddf
+1   c
+1cdda
+1    e
+b
+0.d effd
+1 bd
+b
+1dde  d
+1  d
+1  e
+1 bd
+b
+0 de  d
+1g
+1 bd
+b
+0g ef d
+1 d
+1f
+b
+0dfg
+0bd
+b
+0ddb
+0acd
+b
+
+b
+1 de
+1a
+1b
+1d
+b
+0fgih
+0 fh
+b
+0.fgihf
+1d
+b
+1 gddf
+1 a
+0abdcd
+b
+1 dedb
+1a
+1b  a
+1 d
+b
+0ab cd
+0 dddf
+b
+0 def d
+0 cdca
+b
+1 d db
+1a
+1b  a
+1d
+b
+1ffg a
+1h
+0i gh
+b
+0 g hi
+0gd f
+b
+0fggh
+0dde
+b
+1ff h
+1  i
+1  h
+1 i
+b
+
+b
+0. gihf
+1  g
+b
+1 dddf
+1 a
+0abdcd
+b
+0bde b
+0d
+b
+0  dcd
+0cdda
+b
+1.d fffd
+2  d
+1  g
+1  f
+b
+0dbbb
+1  e
+1   df
+b
+0dbbbd
+0 d ac
+b
+0.d bbd
+1  d
+b
+Yd fffd
+b
+b
+
+e

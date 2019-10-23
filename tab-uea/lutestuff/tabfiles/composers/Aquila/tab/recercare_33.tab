@@ -1,0 +1,245 @@
+-C
+-t
+-f
+{Recercar 33/Recercar 33}
+b
+c
+1 d a
+#2  d
+x c
+#2 d
+xa
+xc
+x  d
+b
+#2   a
+xa
+x d
+x  a
+#2    c
+x d
+x c
+x a
+b
+#2 c  a
+x  d
+xf
+x  a
+#2   a
+xd
+xc
+x  d
+b
+#2   a
+xa
+x d
+x  a
+#2    c
+xc
+#3a
+x d
+x c
+x a
+b
+
+b
+#2 cd a
+x a
+x  d
+x  b
+#2  a
+x   a
+1 ab  d
+b
+#2    a
+x  a
+x d c
+x   a
+#2   c
+x a
+xdc
+x   c
+b
+#2 d a
+xc
+x c
+x a
+1ac  a
+1da a d
+b
+#2 c  a
+xc
+xa
+x d
+#2 c ca
+x da
+1a b  d
+b
+#2    a
+x  a
+x d c
+x   a
+2 d ca
+#3 c
+x a
+#2 c ca
+x d
+b
+
+b
+#2 dda
+x  a
+x  d
+x d
+#2   a
+x  c
+x  d
+x a
+b
+#2ac  a
+x a
+x c
+xa
+#3    a
+x a
+x c
+x d
+#3a
+x d
+xa
+xc
+b
+#2da c
+xa
+xd
+x a
+#3   c
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a
+x c
+b
+#2cd a
+x a
+1cd
+#2   a
+x c
+x a
+x  d
+b
+
+b
+#2a cc
+x a
+xa
+x  c
+#2   c
+x d
+x c
+x a
+b
+#2 cd a
+x a
+x c
+x  d
+#2    a
+x  b
+x  a
+x   c
+b
+#2   a
+x  a
+xf
+x  a
+#2   a
+xd
+xc
+x  d
+b
+#2   a
+xa
+x d
+x  a
+#2    c
+x c
+x a
+x  d
+b
+#2 ab  d
+x  a
+x  b
+x a
+#2     a
+x d
+x c
+x a
+b
+
+b
+#2 da  c
+xa
+xc
+x  a
+#2     c
+xa
+x d
+x  a
+b
+#2     c
+x da
+x c
+x a
+#2     c
+x  e
+x   e
+x     c
+b
+#2 a a d
+x  b
+xd
+x    a
+#2 a  c
+xd
+xc   e
+xa
+b
+#2c da
+x  a
+xc d
+x   a
+#2   c
+xa
+x  b
+x   c
+b
+#2  a c
+x a
+x d
+x  a
+#2    c
+xc
+#3a
+x d
+x c
+x a
+b
+
+b
+#2 c  a
+x  d
+x db
+x  a
+2 d ca
+#3 c
+x a
+#2 c ca
+x d
+b
+Y dda
+b
+b
+
+e

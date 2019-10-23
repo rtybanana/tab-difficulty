@@ -1,0 +1,184 @@
+-C
+-t
+-f
+{26. Corrente 6/Giovanni G. Kapsberger}
+b
+1f
+1 d
+1f
+b
+1.f     a
+2d
+1b
+b
+1l
+1 l
+1l
+b
+1.l i   a
+2i
+1g
+b
+#2i
+xg
+#2f
+x i
+1fh a
+b
+1.ddf  d
+2f
+1g
+b
+1d
+1 f
+1f
+b
+1.fg    a
+2d
+1b
+b
+#2 cU a
+x dX
+1 a   e
+1a    a
+b
+
+b
+1.a   a
+2 d
+1 b
+b
+1b  a
+1d  c
+1a   e
+b
+1.b  a
+2a
+1 d
+b
+1f
+#2f
+xd
+#2 g
+x f
+b
+1.b  a
+2d
+1b  a
+b
+1a  d
+#2b  d
+xa
+#2 d
+x b
+b
+1. a a d
+2 c c
+1 d d
+b
+1 d d d
+1add a
+1 c
+b
+1. d a  a
+2a
+1 d
+.
+b
+b
+.
+1 b  a
+1 d a
+1a   e
+b
+
+b
+1.b  a
+2d
+1b  a
+b
+1 a   d
+1a   d
+1 d  c
+b
+1. b  a
+2 d
+1 bb  a
+b
+1 b   b
+1 b a d
+1 a a
+b
+1.a bcd
+2b
+1a
+b
+1 b
+1i
+1 g
+b
+1i
+#2l
+xi
+#2g
+x l
+b
+1.g  f
+2i
+1g
+b
+1f
+#2g
+xf
+#2d
+x g
+b
+1.d  c
+2f
+1d  c
+b
+
+b
+1b  a
+#2d
+xb
+#2a
+x d
+b
+1.ac  a
+2f
+1a
+b
+1f
+#2f
+xd
+#2 g
+x f
+b
+1.b  a
+2d
+1b  a
+b
+1a   d
+#2b  d
+xa
+#2 d
+x b
+b
+1. a a d
+2 c c
+1 d d
+b
+1 d d d
+1add a
+1 c
+b
+1 d a  a
+#2 c
+x a
+1  d
+.
+b
+b
+
+e

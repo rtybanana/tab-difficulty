@@ -1,0 +1,409 @@
+-C
+-t
+-f
+{4. Gigue/4. Gigue}
+b
+2 c
+b
+#2 aU  a
+x Xd
+x c
+#2  dU  a
+x  cX
+x c
+b
+2.  c   /a
+3   d
+2  a
+1e     4
+2 c
+b
+#tx d
+x f
+2 d    ///a
+3 c
+2  f
+2.  d&'   //a
+3 a
+2  c
+b
+
+b
+#tx  d
+x  f
+2  d   6
+3  c
+2  a   5
+#2  a   4
+x      5
+x c    6
+b
+#2  aU  //a
+x  Xd
+x c
+#2  cU  /b
+x  aX
+x c
+b
+#2  dU  b
+x  cX
+x c
+#2 aU  a
+x Xd
+x c
+b
+2. h    /a
+3 g
+2 h
+2.g     ///a
+3h
+2 h
+b
+
+b
+2. g&U    //a
+3      b
+2     c
+2.    c
+3    e
+2gX  g
+b
+#2gU   a
+xhX
+x g    e
+#2 gU   f
+x hX
+x  h   g
+b
+#2  h&U a
+xa  X
+x  e c
+#2  eUd
+x a  X
+xe   e
+b
+#2eU  f
+xgX
+x e   a
+#2 eU  c
+xc  X
+x b   a
+b
+
+b
+#2 bU   a
+x cX
+x  c   /a
+#2  cU  //a
+x  dX
+xd     ///a
+b
+#2dU    4
+xeX
+x c
+#2 cU   /d
+xa  X
+xg
+b
+#2gU   a
+xhX
+x c
+#2 cU   /b
+x bX
+#4eU
+xg
+3hX
+b
+2.g   f
+3  g
+2 c    //a
+#3 e   c
+xc
+#3eU
+xcX
+2 e    5
+b
+
+b
+2. c    //a
+3      b
+2     c
+1    c
+.
+b
+b
+.
+2g
+b
+#2eU    ///a
+x g
+xg
+#2aU    //e
+x  h
+xg
+b
+#2 aU  a
+x Xe
+xc
+#2  bU e
+x  aX
+#4cU
+xe
+3fX
+b
+
+b
+2.e   a
+3  e
+2 a    d
+#3 cU   a
+x dX
+xc
+x d
+2 c   a
+b
+2.a&'     ///a
+3 c
+2 d    //a
+#2 a    /a
+x      //a
+xa     ///a
+b
+#2  d   a
+x  c
+xa
+#2  a  c
+x   c
+xa
+b
+#2 d   d
+x c
+xf
+#2fU a
+xeX
+x  d c
+b
+
+b
+#3  cUa
+x  dX
+x aU
+x cX
+2aU   c
+#3 X   d
+x cU
+x aX
+x  d
+2 e   a
+b
+#2 e    a
+xcU    e
+x    a
+#2   a
+x    c
+x X cd
+b
+#2 aU c
+x Xd
+x   c
+#2 cU  c
+x aX
+x   c
+b
+#2aU   d
+x c
+x   c
+#2cU  a
+xaX
+x   c
+b
+
+b
+#3cU  c
+xaX
+x cU
+x dX
+2c
+#2  ba
+x  a
+xe
+b
+#3gU d
+xeX
+xdU
+xeX
+2g
+#2 aU  a
+x   h
+xh
+b
+#2cU    ///a
+xbX
+xe
+#2 bU   /b
+x aX
+xe
+b
+#2  dU  a
+x  cX
+xa
+#2   dUc
+x   cX
+#4 aU   a
+x c
+3 dX
+b
+
+b
+2. c   d
+3e
+2c   c
+2. c c
+3 a
+2  d   a
+b
+2.  dU d
+3    c
+2    a
+2.     d
+3   X c
+2h    a
+b
+#2dU   c
+xeX
+x c   e
+#2 cU a
+x dX
+xc   c
+b
+#2  ea&U
+x a  X
+x  a c
+#2  aUa
+x  bX
+x a   d
+b
+
+b
+#3   dUc
+x   eX
+x  c
+x a
+#3  d   //a
+x  c
+x  d  a
+xa
+#3 c
+x a
+x  d   /a
+x  c
+b
+2  a   //a
+#3   d
+x  a
+2  c
+2.    c
+3      /b
+2 c    b
+b
+#2 aU  a
+x Xd
+x c
+#2  dU  a
+x  cX
+x c
+b
+2.  c   /a
+3   d
+2  a
+1e     4
+2 c
+b
+
+b
+#tx d
+x f
+2 d    ///a
+3 c
+2  f
+2.  d&'   //a
+3 a
+2  c
+b
+#tx  d
+x  f
+2  d  a
+3  c
+2  a  c
+1c    e
+#4eU   a
+xc
+xa
+x c
+b
+#2 cU   ///a
+x dX
+x  e   //a
+#2  eU  /a
+x a  X
+x  a   /b
+b
+#2  aU  a
+x  bX
+x   b a
+#2   bUb
+x   cX
+x a   c
+b
+
+b
+#2 aU  d
+x cX
+x  c a
+#2  cUc
+x  dX
+x   da
+b
+#2   dUd
+x  a  X
+x    cb
+#2    ca&U
+x   a  X
+x  e   a
+b
+#2  eU  /a
+x a  X
+x  a
+#2  aU e
+x  bX
+x c
+b
+#2 cU a
+xa  X
+x  a
+#2  aU c
+x  Xd
+#4 aU
+x c
+3 dX
+b
+
+b
+2. c   d
+3   d
+2  a  a
+#3  cUc
+x  dX
+#3  fU
+x  dX
+2  c   //a
+b
+2.  a&'  a
+3      4
+2      //a
+1      6
+.
+b
+b
+
+e

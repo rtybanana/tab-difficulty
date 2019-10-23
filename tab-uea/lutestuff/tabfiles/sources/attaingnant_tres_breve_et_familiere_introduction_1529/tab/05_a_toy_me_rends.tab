@@ -1,0 +1,321 @@
+-C
+-t
+-f
+{5. Also verdémont/5. Also verdémont}
+b
+c
+0fd a
+1fd
+1   a
+b
+1.f gd
+2   c
+2fd d
+#3   c
+x   d
+#2   c
+x   a
+b
+1df  d
+#3g
+xf
+xd
+xf
+#3g
+xf
+xd
+x g
+#3d
+x g
+x f
+x d
+b
+Ydf  d
+b
+1df  d
+#2 f
+x d
+#2df  d
+x d
+x f
+x g
+b
+
+b
+#2df  d
+xf
+xg
+xd
+#2fg d
+xd
+xf
+xg
+b
+1fg d
+1   a
+#2bd d
+x   c
+#3   d
+x   c
+x   d
+x   a
+b
+#2df c
+x   a
+x   c
+x   e
+1df c
+1bd
+b
+1abd
+1 df
+1abd
+1  b
+b
+#2   d
+xfd
+x   c
+x   a
+1fa c
+#2e
+xc
+2ea c
+1f
+2e
+b
+
+b
+c
+1f d a
+#3d
+xb
+xa
+xb
+#3d
+xb
+xa
+x d
+#3a
+x d
+x b
+x a
+b
+Yfcd
+b
+#2b da
+xa
+xb
+xd
+#2b da
+xa
+x d
+x b
+b
+2b da
+#3a
+xb
+#3a
+xb
+2 d
+#2ab  a
+x     d
+x    a
+x    c
+b
+1ab  a
+1 df c
+1 bd d
+1   a
+b
+2 acc
+#3  a
+x  c
+#3  d
+x  c
+x  a
+x  c
+#2 cd a
+x a
+x c
+x d
+b
+
+b
+1    a
+1 cd
+1    f
+1 d d
+b
+#2a b d
+x d
+xa
+xb
+1a b d
+1 d df
+b
+1 c ca
+1 d ab
+1 d ca
+#2 c
+x a
+b
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+1   a
+1 d
+b
+Y ddef
+b
+#2 cdca
+x d
+xa
+x c
+#2 d db
+x    a
+x     d
+x     b
+b
+#2 d  b
+x  b
+#3  d
+x  b
+x  a
+x  b
+1    a
+1 cd
+b
+
+b
+Y cdca
+b
+1    f
+1 d d
+#2a b d
+x b
+x d
+xa
+b
+1    f
+1 g d
+#2d e  d
+x  d
+x  e
+x  g
+b
+1d e  d
+1b d
+#2a b d
+x d
+xa
+x b
+b
+1    f
+1 d d
+#2a b d
+xb
+xd
+xb
+b
+#2a b d
+x d
+xb
+xa
+1     b
+1b  d
+b
+Yb dd b
+b
+
+b
+#2fb d
+x   c
+x   d
+x  b
+#2f gd
+x   c
+x   a
+x    d
+b
+#2bd  b
+x    a
+x    b
+x    d
+#2bd  b
+x     d
+x    a
+x    b
+b
+#2df  d
+x g
+x f
+x d
+#2df  d
+xg
+xf
+xd
+b
+#2fg d
+xd
+xf
+xg
+#2fg d
+xd
+x g
+x f
+b
+#2bd
+xa
+xb
+x d
+#2df  d
+x d
+x f
+x g
+b
+1df  d
+1bd a
+1ab c
+1 df
+b
+
+b
+#2 bdd
+x a
+x  d
+x  b
+1 bdd
+1   c
+b
+1    f
+1 d d
+#2a b d
+xb
+xd
+xa
+b
+#2b d  b
+x     a
+x     b
+x     d
+1b d  b
+#2a b  d
+x d d
+b
+1 c ca
+1 d ab
+#2 d ca
+x c
+#3 d
+x c
+x a
+x c
+b
+Y ddef
+b
+b
+P
+e

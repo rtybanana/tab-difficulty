@@ -1,0 +1,170 @@
+-C
+-t
+-f
+{Crazy/Crazy}
+b
+2   d  a
+b
+1   e
+0    a
+0   a
+1
+2  e  d
+b
+1  f
+0    f
+0.   f
+b
+1c    d
+1 d
+1 a
+1a    c
+1 c
+1  d
+b
+1 d   a
+1 a
+1  b
+1f     /a
+1c
+1 e
+b
+1da   d
+1  e
+1 a
+0ccd a
+1ccb
+b
+0. da a a
+0.  ddef
+b
+0. da a a
+0. daa
+b
+0. aabc
+0. adb  /a
+b
+
+b
+0. ab  a
+0. abc
+b
+0. aba
+0. ab
+b
+0. abce
+0. abc
+b
+0. cdca
+0.bcd a
+b
+0.cdd   a
+0.fege
+b
+0.dd c a
+0.bcd a
+b
+0.cdd   a
+0. daa
+b
+0. aabc
+0. adb  /a
+b
+0. ab  a
+0. abc
+b
+0. aba
+0. ab
+b
+0. abce
+0. abc
+b
+0. cdca
+0. cbca
+b
+0. da a a
+0. aba d
+b
+0. daa
+0. baa  a
+b
+.
+0. aba d
+0. aba
+b
+
+b
+0. aba d
+0. aba
+b
+0. daa
+0. da a a
+b
+0. daa
+0. ba a a
+b
+0.aac  a
+0.aacc
+b
+0.adc  a
+0.adcc
+b
+0.acd a
+0.adc c
+b
+0.acb a
+0.bcd
+b
+0.cdd   a
+0. daa
+b
+0. aabc
+0. adb  /a
+b
+0. ab  a
+0. abc
+b
+0. aba
+0. ab   a
+b
+0. db  a
+0. ca   a
+b
+0. a c d
+0. adb  /a
+b
+0.aa c d
+0.ccbca
+b
+A1
+0. da a a
+0. baa
+.
+b
+b
+
+b
+A2
+0. daa
+0. da a a
+b
+0. db  a
+0. ca   a
+b
+0. a c d
+0. adb  /a
+b
+0.aa c d
+0.ccbca
+b
+0. da a a
+0. daa
+b
+0. dff d
+0. def d
+b
+Y.aafeffa
+b
+b
+
+e

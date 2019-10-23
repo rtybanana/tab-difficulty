@@ -1,0 +1,75 @@
+-C
+-t
+-f
+{11. Le forze derculle/11. Le forze derculle}
+b
+c
+#2abd a
+x a "+
+x b
+x d
+1abd a
+1abd a
+b
+1 ab  d
+#2   a  "+
+x  a
+#2  b
+x  d
+1 a a d
+b
+1 b ca
+#2 a a d
+x     a
+#2     b
+x  d   "+
+x  c
+x  a
+b
+#2aac  a
+x   c
+xaac
+x  d
+#2  c
+x  a
+1aac  a
+b
+#2abd a
+x a "+
+x b
+x d
+1abd a
+1abd a
+b
+
+b
+1 ab  d
+#2   a  "+
+x  a
+#2  b
+x  d
+1 a a d
+b
+#2abd a
+x a
+1  d  b
+2aad  a
+#3  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+1 "+ d a
+#2   c
+x d  "+
+#2 c
+2 a
+Y cdca
+b
+b
+
+e

@@ -1,0 +1,360 @@
+-C
+-t
+-f
+{Galliard/Galliard}
+b
+#2  d-a
+x a
+1 cd
+1    a
+b
+#2 cd-a
+x d
+1ac
+1    a
+b
+2acd-a
+#3c
+xe
+#2f
+x c
+#2    a
+x e
+b
+1ef   a
+1  f
+1     a
+b
+1acd-a
+2cd
+1ac
+2 df
+b
+1 cd-a
+2cd
+1ac
+2df
+b
+1 cd-a
+#2 a-a
+x  d
+#2 adc
+x  c
+b
+1  dca
+1   c
+1    a
+b
+
+b
+2  d-a
+#3  d
+x a
+#3 c
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+b
+2 c--a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#3 c
+x a
+x c
+x d
+b
+2a-- a
+#3c
+xe
+2f
+#3e
+xf
+#2h
+xf
+b
+2e--  a
+#3a
+xc
+#3e
+xc
+xe
+xf
+1e
+b
+#2a-- a
+x c
+xc
+#2a-- a
+x c
+x df
+b
+
+b
+#2 c--a
+x  d
+xc
+#2a --a
+x c
+x df
+b
+2 c--a
+#3 a
+x c
+#3 d-a
+x c
+x a
+x  d
+#3  c--a
+x  d
+x a
+x  c
+b
+2  d-a
+#3  a
+x  c
+#3  d
+x a
+x c
+x d
+1 cdca
+b
+b
+#2cd-a
+xd
+1fh
+1   a
+b
+#2 d-a
+xa
+1cd
+1    a
+b
+2 acc
+#3 c
+x d
+1a
+1     a
+b
+#2a--c
+xc
+1ef
+1     a
+b
+
+b
+#2e--  a
+xf
+1h
+#2f--  a
+xe
+b
+1cdf-c
+2cdf
+1cdda
+2cd
+b
+1fh a
+#2h
+xf
+#2e--a
+xc
+b
+1.ea-c
+2    c
+#2c--a
+xa
+b
+1aacc
+1aaa-c
+1 ea-c
+b
+1aacc
+2     a
+#3  a
+x  c
+2  d
+#3 a
+x c
+b
+#3 d a
+x c
+x d
+xa
+#3c
+xa
+xc
+xd
+#2f
+x  a
+b
+
+b
+#3 d-a
+x c
+x d
+xa
+#3c
+xa
+xc
+xd
+#2c
+x d
+b
+2 a-- a
+#3 c
+x d
+#3a
+x d
+x c
+x a
+#3 c
+x a
+x c
+x d
+b
+#3a--  a
+x d
+xa
+xc
+#3e
+xc
+xe
+xf
+#2e
+xa
+b
+#2e--  a
+xf
+2h
+#3f
+xh
+#2f
+xe
+b
+1cdf-c
+2cd
+#3c--a
+xa
+#3c
+xd
+2c
+b
+
+b
+2f  a
+#3e
+xf
+#2h
+xf
+#2e--a
+xc
+b
+2ea-c
+#3a
+xc
+#2e
+x    c
+#2c--a
+xa
+b
+#3a--  a
+xc
+xe
+xa
+#3c-- c
+x f
+x e
+x c
+#3 e
+x f
+xc
+x e
+b
+2a -- a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+1   c
+b
+2.acd a
+3 d
+#2a
+xc
+2.da-- d
+3a
+b
+
+b
+#2c
+xd
+2.c--a
+3 d
+#2a
+xc
+b
+2.a--c
+3c
+#2d
+xc
+#2a -- a
+x d
+b
+1    a
+1 cd
+1    a
+b
+2a-- a
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+2d -- d
+#3a
+xc
+b
+#3d
+xa
+xc
+xd
+2c--a
+#3 d
+xa
+#3c
+x d
+xa
+xc
+b
+
+b
+#3a -- a
+xc
+xd
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+b
+1    a
+0 cd
+b
+b
+
+e

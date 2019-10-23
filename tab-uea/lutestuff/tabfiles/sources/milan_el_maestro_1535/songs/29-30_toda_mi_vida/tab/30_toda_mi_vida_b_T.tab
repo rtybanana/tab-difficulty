@@ -1,0 +1,193 @@
+-C
+-t
+-f
+{30. Toda mi vida/30. Toda mi vida}
+b
+c
+1 bb d
+1   a
+1 bbc
+1    d
+b
+1 dba d
+1    a
+1 db c
+1     d
+b
+#2ab  d
+x d
+xa
+xb
+#2d
+xf
+1d
+b
+#2 b cd
+x   a
+x   c
+x   d
+#2  b
+x  d
+1  b
+b
+0 dedb
+0 bbcd
+b
+0  ba d
+0 a
+b
+w bb d
+b
+w
+b
+
+b
+#2df  d
+x   f
+x  d
+x  f
+#2  g
+x d
+x f
+x g
+b
+0df  d
+0ddff
+b
+#2fg d
+x   f
+x  d
+x  f
+#2  g
+x d
+x f
+x g
+b
+#2df  d
+x g
+x f
+x d
+#2  g
+x  f
+x  d
+x  b
+b
+#2bd a
+x   c
+x   d
+x  b
+#2  d
+x  e
+1  d
+b
+#2ab  d
+x   a
+x   c
+x  a
+#2  b
+x  d
+1  b
+b
+0 dedb
+0 bbcd
+b
+
+b
+0  ba d
+0 a
+b
+w bb d
+b
+Y
+b
+b
+#2ab  d
+x  b
+x  d
+x a
+#2 b
+x d
+1 b
+b
+#2c  a
+x  d
+x a
+x c
+#2 d
+x f
+1 d
+b
+#2da   d
+x b
+x a
+x  d
+#2  b
+x  a
+x   c
+x   a
+b
+0fb d
+0dbbc
+b
+0 dda
+0c
+b
+
+b
+1ddb  d
+#2 b
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+#2   a
+x    d
+x    c
+x    a
+0     d
+b
+1ddff
+#2b
+xa
+#2 d
+x b
+x a
+x  d
+b
+#2a b d
+x   c
+x  a
+x  b
+#2  d
+x a
+1 b
+b
+#2b d  b
+x    d
+x   a
+x   c
+#2   d
+x  b
+1  d
+b
+0abb d
+0  d
+b
+0 dedb
+0 bbcd
+b
+0  ba d
+0 a
+b
+w bb d
+b
+
+b
+Y
+.
+b
+b
+
+e

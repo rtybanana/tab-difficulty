@@ -1,0 +1,185 @@
+-C
+-t
+-f
+{Chi nel servir antico/Johannes Ciconia}
+b
+1. a c
+1.  c
+b
+0. a
+b
+1. a  c
+1.  e e
+b
+#2 a  c
+x c
+x  d
+1  c
+2  a
+b
+#2 a c
+x  d
+x   e
+#2  c
+x   a
+x  a
+b
+2  c e
+1  e
+1 a
+2  e
+b
+1 a  c
+2  d
+1  d
+2  b
+b
+1.  a a
+1.  d
+b
+1  c e
+2  aa
+#2  a
+x    e
+x   d
+b
+0.  a c
+b
+
+b
+1 a
+2  d
+2  b
+1  a
+b
+1. a  c
+1.  e e
+b
+0. a  c
+b
+1  b
+2    e
+1.   c
+b
+#2  ae
+x  b
+x  d
+1 a  c
+2  a
+b
+2   e
+1  d
+1  cc
+2  d
+b
+1.  ae
+1.   a
+b
+#2  c e
+x  d
+1 a
+1  e
+b
+1 a  c
+1  d
+1  b
+b
+1  ae
+2  d
+1  cc
+2  d
+b
+1.  ae
+1.   de
+b
+0.  a c
+b
+
+b
+0.  a c
+.
+b
+b
+.
+1.   c
+1.  aa
+b
+1.  c e
+1.   c
+b
+#2  ae
+x  d
+x  ca
+#2  a
+x    e
+x   d
+b
+1  a c
+2    e
+2  ca
+1   c
+b
+1.  ae
+1.  bc
+b
+1  ae
+2    f
+2   d
+1    e
+b
+0.  a c
+b
+0. a  c
+b
+1.  ae
+1.  e e
+b
+0. a  c
+b
+1  ae
+2   c
+1  bc
+2   a
+b
+
+b
+1.  ae
+1.    c
+b
+0.  e e
+b
+1 a  c
+2 c
+1 d
+2a
+b
+0. ca
+b
+1 af
+1  d
+1  b
+b
+2  ae
+1  d
+1  ca
+2  a
+b
+A1
+w.  c e
+.
+b
+b
+A2
+#2  ae
+x  d
+x  c
+1  a e
+2   d
+b
+A1
+A2
+w.  a c
+b
+b
+
+e

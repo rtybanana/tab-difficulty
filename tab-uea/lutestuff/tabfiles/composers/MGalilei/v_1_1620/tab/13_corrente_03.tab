@@ -1,0 +1,353 @@
+-C
+-t
+-f
+{13. Corrente 3/13. Corrente 3}
+b
+1  d
+b
+1  daa a
+1    a
+1  f  d
+b
+1.  d  c
+2  f
+#2  d  a
+x  b
+b
+1  aa  a
+1    a
+1   a
+b
+1  a
+1   a
+1   ca /a
+b
+1.   ac //a
+2   c
+#2  a
+x  b
+b
+1  a
+#2     c
+x  d
+#2  b  d
+x  a
+b
+1   c
+1    a
+1      ///a
+b
+1.    aa
+2    c
+#2    e
+x   a
+b
+
+b
+1   c  /a
+1    a
+1   e  a
+b
+1.   fca
+2   f
+#2   e c
+x   c
+b
+1.   acd
+2     c
+1   cea
+b
+1.   ea a
+2  d
+1  b ca
+b
+2  aa c
+1   ccd
+2   ea
+#2   c
+x    e
+b
+1   af
+1      a
+1    a
+b
+0  aa
+1  d
+b
+b
+#2      a
+x  d
+#2   a
+x    a
+#2  f
+x     d
+b
+#2     c
+x  d
+#2   a
+x  f
+#2  d  a
+x  b
+b
+
+b
+#2  a   a
+x    a
+#2    c
+x    e
+#2   a
+x   c
+b
+#2  a
+x   a
+#2      /a
+x   c
+#2    a
+x   e
+b
+#2      //a
+x  a
+#2   a
+x   c
+#2  a
+x  b
+b
+#2  a
+x     c
+#2   a
+x  d
+#2  b  d
+x  a
+b
+#2   c
+x    a
+#2      ///a
+x   a
+#2    e
+x    c
+b
+#2    a
+x      ///a
+#2     a
+x    c
+#2    e
+x   a
+b
+#2   c
+x      /a
+#2    a
+x  d
+#2   e
+x      a
+b
+
+b
+#2     a
+x   f
+#2    c
+x   f
+#2   e c
+x   c
+b
+#2     d
+x   a
+#2    c
+x     c
+#2    ea
+x   c
+b
+#2      a
+x   e
+#2    a
+x  d
+#2  b
+x     a
+b
+2  a  c
+1   c d
+2   ea
+#2   c
+x    e
+b
+1   af
+1      a
+1    a
+b
+0  aa
+1   c
+b
+b
+1   ca
+#2      ///a
+x   e
+1   c
+b
+1   a  //a
+#2   c  /a
+x  a
+#2  b
+x  d
+b
+1.  aa  a
+2  c
+1  dc  /a
+b
+
+b
+1      //a
+1  cc
+1   a
+b
+1.  dce ///a
+2   c
+1  a
+b
+1  b  a
+1    c
+1    e
+b
+1  aa f
+1   ccd
+1   a
+b
+1.   ce ///a
+2   a
+#2    e
+x    c
+b
+1.    ac
+2   a
+#2    e
+x   a
+b
+1.    cd
+2   c
+#2   a
+x   c
+b
+1.    ef
+2  d
+1  b  a
+b
+1  a  c
+1   ccd
+1   a
+b
+1.   ce ///a
+2   ea
+#2   c
+x    e
+b
+
+b
+1   af
+1      a
+1    a
+b
+0  aa
+1   c
+b
+b
+#2    a
+x   c
+#2      ///a
+x   e
+1   c
+b
+#2      //a
+x   a
+#2   c  /a
+x  a
+#2  b
+x  d
+b
+#2      a
+x  a
+#2   a
+x  c
+#2  d
+x      /a
+b
+#2      //a
+x  d
+#2  c
+x  a
+#2  cc
+x   a
+b
+#2      ///a
+x  d
+#2   c
+x   e
+#2   c
+x  a
+b
+
+b
+#2     a
+x  b
+#2   c
+x    a
+#2    c
+x    e
+b
+#2     c
+x  a
+#2   a
+x   e
+#2   c d
+x   a
+b
+#2      ///a
+x   c
+#2    a
+x   a
+#2    e
+x    c
+b
+#2     c
+x   a
+#2    a
+x   c
+#2   a
+x    e
+b
+#2     d
+x   c
+#2    c
+x   e
+#2   c
+x   a
+b
+#2     f
+x    e
+#2  d
+x  f
+#2  b  a
+x  d
+b
+#2     c
+x  a
+#2  b
+x  a
+#2   c d
+x   a
+b
+
+b
+#2      ///a
+x   c
+#2    a
+x   e
+#2   c
+x    e
+b
+1   af
+1      a
+1    a
+b
+Y.  aa
+b
+b
+
+e

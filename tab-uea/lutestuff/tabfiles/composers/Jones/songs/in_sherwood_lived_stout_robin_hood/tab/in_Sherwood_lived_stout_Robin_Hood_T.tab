@@ -1,0 +1,225 @@
+-C
+-t
+-f
+{In Sherwood lived stout Robin Hood/In Sherwood lived stout Robin Hood}
+b
+1fc   c
+b
+1ea   e
+#2     c
+xf
+1ha   a
+b
+1.ca  c
+2a
+1ca    /a
+b
+0.a cc
+b
+0.     a
+b
+.
+1a cc
+#2a cc
+x  d
+1a cc
+b
+1.a c  a
+2  d
+1a c  a
+b
+1.ac  a
+2aa   e
+#2 cd  c
+x e
+b
+
+b
+1.a c  a
+2c d
+1ea   a
+b
+#2 ef c
+xa
+#1c
+xc d  c
+b
+1. cd a
+2 e
+1a c  a
+b
+0 ef c
+1 ef   /a
+b
+#1ac  a
+xcd a
+xcd a
+b
+0c da
+1cd a
+b
+1.c da
+2a d e
+1 df c
+b
+0ac  a
+1ac  a
+b
+#1aa   e
+x  d  c
+xa c  a
+b
+
+b
+#1 cd a
+xcef c
+x      /a
+b
+0.aac  a
+b
+#1aacc
+x   c
+xa e e
+b
+0cd  c
+1ac  e
+b
+1. ea c
+2 c
+#2 ea c
+xa
+b
+1.cea c
+2    a
+1aa   e
+b
+0 ce  c
+1c e  c
+b
+1. da c
+2 c c
+1 da c
+b
+#1c aa
+xa   e
+x da c
+b
+
+b
+0fc  a
+1cdf c
+b
+0ccfe
+1cce
+b
+0 ef c
+1      /a
+b
+1.c \4e  c
+2aa   \3e
+1\2c\2c  \1b
+b
+#1cef c
+x
+x
+b
+1. ef c
+2a   \4e
+1\2ca \1b
+b
+1.ea c
+2c d
+1a c  a
+b
+1.aa   e
+2a d a
+1 ea c
+b
+1.a c  a
+2  d
+1a c  a
+b
+
+b
+1.aac  a
+2c d  c
+1aa   e
+b
+1ac  a
+0ea   a
+b
+1 ea c
+#2 e
+xa
+1ce    /a
+b
+#1ac  a
+xaa   e
+#2 cd  c
+x e
+b
+#1ef   a
+x a
+xa    a
+b
+1.ea c
+2c  a
+1ff  e
+b
+0ce  c
+1aa   e
+b
+#1ce  c
+xaa   e
+xa c  a
+b
+
+b
+0aac  a
+1aa   \3e
+b
+1c\4e  c
+#2aa   \3e
+x\1c
+1\4ea   a
+b
+#1ea   a
+xa c
+xea   a
+b
+#1a c  a
+xea
+x     a
+b
+#0ac ca
+1c da
+b
+#1a d e
+xac  a
+xc d  c
+b
+#2aa   \2e
+x \1c
+#1ce   c
+x\3e\4f&{   a
+b
+
+b
+1\2cea \1c
+#2 a
+xa
+x\2c
+x \4e
+b
+1.aacc
+2  d
+#2  c
+x  a
+b
+0aacc
+1
+.
+b
+b
+
+e

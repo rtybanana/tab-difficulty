@@ -1,0 +1,129 @@
+-C
+-t
+-f
+{Branle de Village - 3/Branle de Village - 3}
+b
+c
+1a   a
+1f  c
+b
+1a   a
+1c  c
+1d   a
+1c  c
+b
+1a   a
+#2   c
+xc
+1d   a
+1d  c
+b
+1c   a
+1a  c
+1f   a
+1d  c
+b
+
+b
+1c   a
+1a  c
+1a   a
+1f  c
+b
+1a   a
+#2   c
+xc
+1d   a
+1c  c
+b
+1a   a
+#2   c
+xc
+1d   a
+1d  c
+b
+1c   a
+1a  c
+1f   a
+1d  c
+b
+
+b
+1c   a
+1a  c
+#2a   a
+xc
+1d  c
+b
+1c   a
+1a  c
+#2 d  a
+xa
+1 b c
+b
+1 a  a
+1  dc
+1 b  a
+1 a c
+b
+1 b  a
+1 b c
+#2 d  a
+xa
+xb  c
+x d
+b
+
+b
+1a   a
+#2   c
+x b
+#2 d  a
+xa
+xb  c
+x d
+b
+1a   a
+#2 d c
+x b
+#2 a  a
+x  d
+x a c
+x b
+b
+1  d a
+1   c
+1 b  a
+1 b c
+b
+1 b  a
+1 b c
+#2 d  a
+xa
+xb  c
+x d
+b
+
+b
+1a   a
+#2   c
+x b
+#2 d  a
+xa
+xb  c
+x d
+b
+1a   a
+#2 d c
+x b
+#2 a  a
+x  d
+x a c
+x b
+b
+1  d a
+1   c
+b
+b
+
+e

@@ -1,0 +1,197 @@
+-C
+-t
+-f
+{48. Volta 16/48. Volta 16}
+b
+1 b
+b
+.
+1. bd
+2  b
+#2  d
+x   d
+b
+1 dff
+1 fg
+1 df
+b
+1. fg
+2d
+#2f
+xh
+b
+1i  h
+1 h
+1hif
+b
+1  g
+1.f i
+#3 i
+xf
+b
+1 i
+#2     d
+x f
+#2 d
+x  g
+b
+1  ff
+1   d
+1 bbc
+b
+1  dd
+1   c
+1 dfa
+b
+
+b
+1a d d
+1  b
+1   d
+b
+1d  c  /a
+1   a
+1    d
+b
+1da a  //a
+1 ba a
+1 d
+b
+1 fg  d
+#2 d
+x f
+#2  g
+x d
+b
+1  ff d
+1     b
+1 bbc a
+b
+#2   d  a
+x  b
+#2  d
+x a
+#2 b
+x d
+b
+1 f  d
+1. d   d
+#3  g
+x d
+b
+1  g
+1    d
+1      /a
+b
+A1
+0 fgf
+1 b
+.
+b
+b
+A2
+0 fgf
+1d
+b
+
+b
+.
+1 fg
+1  f
+1f  d
+b
+1b  a
+1 a
+#2da
+xb
+b
+#2a   d
+x b
+#2 a
+x  d
+1  b
+b
+1i   a
+1 f
+1 h
+b
+1 i    //a
+#2f
+xh
+1f     /a
+b
+1 i
+1.c d   a
+#3a
+xc
+b
+1d
+#2  b  d
+x  d
+#2 a
+x b
+b
+1 d
+1     b
+1ab   a
+b
+#2 bd  b
+x     d
+#2     b
+x     a
+1 df   a
+b
+
+b
+#2a     /a
+xb
+#2a
+x d
+1 b  a
+b
+#2b  a
+x   c
+#2   a
+x    d
+1 d  c
+b
+#2d    a
+xf
+#2d
+xb
+1a   d
+b
+#2 d  c
+xa
+#2 b  a
+x d
+1 a   d
+b
+#2  b  a
+x   c
+#2   d
+x  b
+#2  d
+x a
+b
+1 b  a
+1. d   d
+#3  g
+x d
+b
+1  g
+1    d
+1      /a
+b
+A1
+0 fgf
+1d
+.
+b
+b
+A2
+0. fgf
+b
+b
+
+e

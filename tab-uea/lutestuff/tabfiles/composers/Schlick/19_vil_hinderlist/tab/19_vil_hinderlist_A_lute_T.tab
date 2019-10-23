@@ -1,0 +1,143 @@
+-C
+-t
+-f
+{19. Vil hinderlist/19. Vil hinderlist}
+b
+c
+0  b  d
+1     d
+1    a
+b
+0  a c
+0   cd
+b
+0  aa
+0  b  d
+b
+1   ca
+1   a
+1   c
+1    a
+b
+1   ac
+1.     d
+2    a
+#2  b c
+x     d
+b
+0  da
+0 b
+b
+0 a c
+1  de
+1 db
+b
+#2  b
+x bd
+x a c
+x   a
+1    d
+1  d
+b
+1 a  c
+1     d
+0 b  d
+b
+
+b
+1  da
+1  bc
+0  da
+b
+w  b  d
+b
+0
+0 ab
+b
+0 a c
+0  de
+b
+w d a
+b
+0
+0 a   d
+b
+1. b  a
+2 a
+#2    a
+x a
+1 b
+b
+w a   d
+b
+0
+0  b
+b
+0  da
+1  d d
+1   a
+b
+1.  bc
+2   a
+1  b c
+1    d
+b
+0  aa
+0  b  d
+b
+1   ca
+1   ac
+0   ca
+b
+
+b
+1   ac
+#2     d
+x     c
+#2     d
+x    a
+x    c
+x    d
+b
+#2   a
+x    d
+x    c
+x    a
+1   ac
+1   a
+b
+1   cd
+#2  b
+x    c
+1    a
+1  a
+b
+w  b  d
+b
+0
+0 ab
+b
+0 ab
+0  da
+b
+0 d   d
+1 b
+1 d
+b
+#2a
+x d
+x b
+x a
+1  da
+1 b  a
+b
+#2
+x    c
+1 b  d
+0  da
+b
+w  b  d
+b
+b
+
+e

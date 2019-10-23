@@ -1,0 +1,234 @@
+-C
+-t
+-f
+{5. Saltarello 5/Simone Molinaro}
+b
+1d bc
+1c da
+1a d e
+b
+#2 df c
+x c
+#2 d
+xac
+1cd
+b
+1ac c
+#2 df
+x f
+1 cee
+b
+#2 af c
+x   f
+#2   e
+x   c
+1   e
+b
+#3d bc
+x  a
+2  b
+#3c da
+xa
+2c
+#3a d e
+xc
+2a
+b
+#2 df c
+x c
+#2 d
+xac
+#3cd
+xa
+2c
+b
+
+b
+#3ac   a
+xc
+2a
+#3 df
+x f
+2 d
+1 ce  c
+b
+2 a  c
+#3  d
+x  b
+#3  a
+x  b
+x  a
+x   c
+1   b
+b
+2.dd f d
+3f
+1h
+1f d
+b
+2.ddf  d
+3f
+1d
+1ccd a
+b
+#2a
+x  b
+#2aaa c
+x   c
+1 ea
+b
+1.aacc a
+2  d
+1  c
+b
+2.dd f d
+3f
+1h
+2f d
+#3h
+xf
+b
+
+b
+#2ddf  d
+xf
+2d
+#3f
+xd
+#2ccd a
+xd
+b
+#2c
+xa b
+#2aaa c
+x   c
+#3 ea
+x a
+x c
+x e
+b
+1.aacc a
+2  d
+1  c
+b
+#2aa c
+x  de
+#2aab
+x cd
+1 ede
+b
+1aa c
+#2     a
+x   e
+1   c
+b
+#2 aa c
+x   ce
+#2 aaa
+x  cc
+1  ece
+b
+#2 aa c
+x      /a
+#2    c
+x c
+#2 e
+xa   e
+b
+
+b
+#2ca b
+xd  c
+#2fb  a
+xd
+#2c d d
+xa
+b
+#2 ef c
+xac
+#2ce
+x    a
+#2af   e
+x a
+b
+#2 cd a
+x e
+#2a b  a
+xc
+1 ea c
+b
+1.aacc a
+2  d
+1  c
+b
+#2aa c
+x  de
+#2aab
+x cd
+2 ede
+#3 c
+x e
+b
+2aa c
+#3    f
+x    e
+#3    c
+x    a
+x     e
+x     c
+1     a
+b
+#2 aa c
+x   ce
+#2 aaa
+x  cc
+2  ece
+#3  c
+x  e
+b
+
+b
+#2 aa c
+x  bc
+#2  aa
+x c ce
+#2 ea c
+xa   e
+b
+#2ca b
+xd  c
+#2fb  a
+xd
+#2c d d
+xa
+b
+#3 ef c
+x    a
+x    c
+x    e
+#3    c
+x    a
+x     e
+x     c
+#3a    e
+xc
+xa
+x d
+b
+#3 cd a
+x a
+x c
+x e
+#3a b  a
+xc
+xa
+x c
+2 ea c
+#3 c
+x e
+b
+Y.aacc a
+b
+b
+
+e

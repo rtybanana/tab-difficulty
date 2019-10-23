@@ -1,0 +1,334 @@
+-C
+-t
+-f
+{Branle simple 4/Branle simple 4}
+b
+W    a ///a
+b
+b
+c
+1a
+b
+1 bd
+1 d
+1 a c
+1 b
+b
+1.  dd
+2   c
+1   a
+1 a
+b
+1. b  d
+2 d
+1a
+1   a
+b
+1 a c
+1 b
+1 d  c
+1    d
+b
+1  da
+1 a
+1 b  a
+1 d
+b
+1 acc
+#2  a
+x  c
+1  d
+1    a
+b
+1a d
+1b
+1a c
+1 d
+b
+
+b
+1. bd
+2  e
+1  d
+1  b
+b
+1 d d
+1a b
+1 d d
+1 b c
+b
+1 a a
+1 b c
+1  d d
+1 a a
+b
+1   c
+#2  c
+x  a
+1  c  a
+1 d
+b
+1 cdca
+1      ///a
+0acd
+b
+#2 bd
+xa
+x d
+x b
+#2 a c
+x d
+x b
+x a
+b
+1.  dd
+2  b
+1  da
+1 a
+b
+
+b
+#2 b  d
+x a
+x b
+x d
+#2a
+x    c
+x    d
+x   a
+b
+#2 a c
+x  d
+x a
+x b
+#2 d  c
+x    a
+x    c
+x    d
+b
+#2  da
+x  b
+x  d
+x a
+#2 b  a
+x    c
+x    d
+x   a
+b
+1 acc
+1     a
+#2  d a
+x a
+x b
+x d
+b
+#2a
+x    c
+x    d
+x   a
+#2   c
+x  a
+x  b
+x   c
+b
+
+b
+#2 bd
+x a
+x b
+x d
+#2 b
+x d
+xa
+x b
+b
+#2 d a
+xa
+xb
+xa
+#2b
+xa
+x d
+x b
+b
+#2 a c
+x   d
+x   c
+x   a
+#2  d d
+x    c
+x    d
+x    a
+b
+#2    ca
+x  d
+x  c
+x  a
+#2  c
+x  d
+x   c
+x  c
+b
+1  dca
+1      ///a
+1acd
+1 d
+b
+1 bd
+1 ab
+1  dd
+1 a
+b
+1 b c
+1 d
+1a
+1    d
+b
+
+b
+1 db
+1a  c
+1 b d
+1 d a
+b
+1 a c
+1 b  d
+1  da
+1 a  c
+b
+1  b d
+1  d a
+1 a c
+1  c
+b
+1  dca
+1      ///a
+1a
+1 d
+b
+#2 b  a
+x a
+x  d
+x  b
+#2  d
+x a
+x b
+x d
+b
+#2 b c
+x a
+x b
+x d
+1a
+1    d
+b
+1 db
+#2a  c
+x d
+1 b d
+#2 d a
+x b
+b
+
+b
+1 a c
+#2 b  d
+x a
+1  da
+#2 a  c
+x  d
+b
+1  b d
+1  d a
+1 a c
+1  c  a
+b
+1  dca
+#2      ///a
+x a
+#2 c
+x d
+1a
+b
+#2  d a
+x  c
+x  d
+x a
+#2  d
+x a
+x b
+x d
+b
+1a   d
+1 b  a
+1 d  c
+1a   d
+b
+1b  a
+1 a
+1a   d
+1  d
+b
+1 d  c
+1  b
+1 b  a
+1  a
+b
+1 a   e
+1   c
+1  d a
+1   a
+b
+
+b
+1.  ccca
+#3  a
+x  c
+1   c
+1a
+b
+#2  d a
+x  c
+x  d
+x a
+#2  d
+x a
+x b
+x d
+b
+#2a   d
+x d
+x b
+x a
+#2 b
+x d
+xa
+x b
+b
+#2b  a
+x a
+xd
+xb
+1a   d
+1  d
+b
+#2 d  c
+x  b
+xa
+x d
+1 b  a
+1  a
+b
+1 a   e
+1   c
+1  d a
+1 a a
+b
+1.  ccca
+#3  a
+x  c
+1   c
+b
+b
+
+e

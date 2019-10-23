@@ -1,0 +1,75 @@
+-C
+-t
+-f
+{Thrice toss these oaken ashes/Thrice toss these oaken ashes}
+b
+c
+0  aa  /a
+b
+1 aaa  /a
+#2  \4d\2c  /c
+x  c
+0  aa  a
+b
+#2   a  a
+x    \3e
+1    \1ca
+1  a \3c\2c
+1    \1b
+b
+0  a\1b  /a
+0  a"=a  /a
+b
+1 aaa  /a
+#2  \4d\2c  /c
+x  c
+0  aa  a
+b
+#2   a  a
+x    \3e
+1    \1ca
+1  a \3c\2c
+1    \1b
+b
+0  a\1b  /a
+0  \1d\2e\3f&{
+b
+.
+1  \2d\1ce&{
+1 \4daa
+1 \2c\3d\1ca
+1 a\1b\2c a
+b
+1  \2d \3e\1c
+1 \2da a a
+1 \4d\3d\1ca
+1 \2c
+b
+
+b
+0 \4d&{a a a
+0 d&}a a a
+b
+1 d&{a   /a
+1 ccc  /c
+1 \2c\3d\1ca
+1  aa  /a
+b
+1  a \3e&{\1c
+1  a c a
+1  aa  /a
+#2  a c&}\2c
+x    \1b
+b
+A1
+0  ab  /a
+0  \1d&=\2e\3f
+.
+b
+b
+A2
+Y  a\1b\2c /a
+b
+b
+
+e

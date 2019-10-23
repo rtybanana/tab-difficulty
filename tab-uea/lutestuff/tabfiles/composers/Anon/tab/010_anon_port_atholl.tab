@@ -1,0 +1,237 @@
+-C
+-t
+-f
+{Port Atholl/Port Atholl}
+b
+S3
+#2   c  a
+x  a
+1  c
+1  c
+1.  c&,
+2  a
+#3  c U
+x  a
+2   cX
+b
+0    c 4
+1    c
+1.    c&,
+2  c
+#2  a
+x   c
+b
+1. a&,  a
+2     c
+#2     a
+x      a
+1.    a&, ///a
+2  c
+#2  a&,
+x   c
+b
+0   c  a
+1   c
+b
+
+b
+#2   c  4
+x    c
+#2    a
+x    c
+#2   c
+x  a
+b
+0  c&,   a
+1  c
+1.  c&,
+2  a
+#3  c U
+x  a
+2   cX
+b
+1.  a&,   ///a
+2   c
+#2  a
+x  c
+0  a&, a
+1   c
+b
+1  cc
+1 a
+1 c
+1.ca c
+2 c
+#2 a
+x  c
+b
+1.  a&, a
+2 c
+#2 a
+x  c
+0  a&,   ///a
+1   c  a
+b
+
+b
+1.    c&, 4
+2    a
+#2    c
+x   c
+1  c   a
+#2 a
+x  c
+#2  a
+x   c
+b
+#2 c   d
+xa
+1c
+1c
+1.ca   c
+2a
+#2 c
+x a
+b
+1.  c&,   a
+2  a
+#2  c
+x a
+#2c    c
+xa
+#2 c   d
+x  c
+#2  a
+x   c
+b
+1.  a&, a
+2   c
+#2  a
+x  c
+0 c&,   d
+1 a
+b
+
+b
+#2 f    a
+xe
+1g
+1g
+1.g
+2e
+#4g U
+xe
+2 fX
+b
+1 c   d
+1    c
+1 c
+1. cd  d
+2g
+#2e   a
+x f
+b
+1a&,
+1      a
+1 a
+b
+#2 c   d
+x a
+#2 c
+xc
+#2e   a
+xg
+0ca    a
+1c
+b
+#2c    d
+x c
+#2 a
+x c
+#2c
+xe
+b
+
+b
+0g     a
+1g
+1.g
+2e
+#4g U
+xe
+2 fX
+b
+1.e&,     4
+2 f
+#2e
+xg
+0e&,     ///a
+1 f
+b
+1  c   a
+1 a
+#2 c    /a
+x d
+#2c     //a
+x c
+#2 a
+x  c
+#2  a
+x   c
+b
+#2  a
+x  c
+#2c     a
+x c
+#2 a
+x  c
+0  a&,   ///a
+1   c
+b
+
+b
+1.    cd
+2    a
+#2    c
+x   c
+1.  c&,   a
+2  a
+3  c U
+#2  a
+x   cX
+b
+#2 c   d
+x d
+#2c
+x   c
+#2c
+xe
+#2g     a
+xe
+#2 f   a
+xa
+#2 c   c
+x a
+b
+1.  c&,
+2  a
+#2  c
+x a
+#2c    c
+xe
+#2c    d
+x c
+#2 a    a
+x  c
+b
+1  a&, a
+#2g U
+xe X
+1 f
+0 e&,   d
+1 a    a
+.
+b
+b
+
+e

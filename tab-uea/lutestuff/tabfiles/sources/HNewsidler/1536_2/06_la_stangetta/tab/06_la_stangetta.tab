@@ -1,0 +1,440 @@
+-C
+-t
+-f
+{6. La Stangetta/6. La Stangetta}
+b
+c
+0   c
+0   c
+b
+0  a
+#2  a
+x  b
+x  d
+x  a
+b
+1a b
+1  b
+1a b
+#3  d
+x  b
+x  a
+x   c
+b
+0c  a
+0c  a
+b
+1d  c
+1d
+#2   c
+xd
+xc  a
+xa   d
+b
+0 da c
+0 da c
+b
+1a b  d
+1     a
+1a b  a
+#3c
+xa
+x d
+x c
+b
+
+b
+#2 a a d
+x    a
+1h    h
+#2h  a
+xf
+xd
+xc
+b
+1d  c a
+1d  c a
+#2   c
+xd
+xc  a
+xa   d
+b
+#2 d ac
+x   c
+1  a
+1    c
+1 a a
+b
+#2 df
+x  d
+x  b d
+x  a
+1a bc
+1  b
+b
+#2a  a
+x    e
+x  a c
+x   c
+1c  ac
+1   a
+b
+#2cd a
+x    e
+xh    h
+x    a
+#2ha
+xf
+xd
+xc
+b
+1a   e
+1c da
+1 a a
+1a bc
+b
+
+b
+#3   e
+xa
+x e
+x c
+#2a
+x e
+1a  c
+1     a
+b
+1     a
+#2   c a
+x     c
+#2   c d
+x  a
+1  b  a
+b
+1   c d
+#2  b  d
+x    a
+#2  b c
+x  d
+1 a   d
+b
+#2 a   a
+x  d
+x  b  a
+x  a  c
+1   c d
+1  a a
+b
+1    c
+1   c a
+1     c
+1   b
+b
+1   c a
+#2a  c
+x  a
+#2a b
+xc
+1d  c
+b
+1a bc
+#2d b
+x  d
+#2da  c
+xf
+1h  f
+b
+
+b
+#2h
+xf
+xd
+xc
+1a b  d
+1c d  c
+b
+1 a  c
+1a  cd
+#2a a c
+x e
+#3a
+x e
+x c
+x e
+b
+0a  cd
+1h
+1h    h
+b
+#2h
+xf
+xd
+xc
+1h    d
+1f   d
+b
+#2f   d
+xd   c
+1d    d
+1    a
+1c
+b
+0d    d
+1 a   a
+1 a c
+b
+#2   c
+x   a
+x  d d
+x  b c
+1 a a
+1  d d
+b
+
+b
+#2  d d
+x  b c
+x  b a
+x     d
+1    a
+1  a
+b
+1d b  d
+1h    a
+1   f
+#2f a
+xd
+b
+#2c da
+xa   e
+x d  c
+x c  a
+1 a   d
+1c d  c
+b
+#2c a
+xa
+x d   d
+#3 c
+x a
+1 c   c
+1  d
+b
+1 d  c
+1d bc
+#2d  c
+xc  a
+xa   e
+x d  c
+b
+1 cd a
+1c  a
+#2c  a
+xa   e
+x d  c
+x c  a
+b
+1 ab  d
+1a    a
+#2   c a
+x     c
+x     d
+x    a
+b
+
+b
+1c a c
+1a   d
+1  a c
+1 e
+b
+1a  c a
+#2a
+xc
+#2d
+xf
+1d    a
+b
+#2d  c
+xc
+1d    a
+#2   c
+xd
+xc  a
+xa   d
+b
+1 da c
+#2 d  c
+xa   e
+#2c aa
+xd
+1c a
+b
+#2c a c
+xa
+#3c  a
+xa
+xc
+xd
+#2c aa
+xa   e
+x d  c
+x c  a
+b
+1 ab  d
+#2 a   d
+x c  a
+1 db c
+1a   d
+b
+
+b
+1 db c
+1a   d
+#2a b
+x d
+x c  c
+x a
+b
+#3 cd a
+x a
+x c
+x d
+#2 c  a
+x d  c
+1a d e
+1c  a
+b
+1a d e
+1c  a
+#2c d
+xa
+x d
+x c
+b
+1 d  c
+#2 d  c
+xa   e
+1ca a
+1d  c
+b
+1ca a
+1d    d
+#2da
+xc
+xd
+xf
+b
+1h  f a
+1 a   d
+#2 a c d
+x c  a
+x d  c
+x c  a
+b
+
+b
+1  de c
+#3 c  a
+x a
+x c
+x d
+#2 c
+x d
+xa   e
+x d  c
+b
+1 ab  d
+1 d  c
+#2 db c
+xa   d
+xc  a
+xa   d
+b
+1 cd a
+1a   e
+#2a   e
+xc  a
+xd  c
+xc  a
+b
+1 d  c
+#2 d  c
+xa   d
+1ca a
+1d  c
+b
+#2   c
+xd
+xc  a
+xa   d
+0 da c
+b
+1 ab  d
+1a   d
+#2  d
+xa
+x d  c
+x b  a
+b
+1 a   d
+1a   d
+1   c
+#2 da c
+x b  a
+b
+
+b
+1 ab  d
+1 cd  c
+1 a   d
+1h   ha
+b
+#2   c
+x  a
+xf a
+xd  c
+1ca a
+1d  c
+b
+1c de
+1da  c
+#2d  a
+xc
+xa bc
+x  d
+#3  a c
+xa
+x e
+x c
+#3a
+x e
+x c
+x e
+b
+Ya  c a
+b
+1a  c a
+1ab  a
+1 ab  a
+1ab  a
+b
+#3 d
+x b
+x a
+x  d
+1. ab  a
+2     c
+1 a   d
+b
+1. b  a
+2 a   d
+0 b  a
+b
+
+b
+Y ab  a
+b
+b
+
+e

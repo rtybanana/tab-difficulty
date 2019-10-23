@@ -1,0 +1,68 @@
+-C
+-t
+-f
+{Trenchmore/Anonymous}
+b
+0 c  "# a
+1 a
+0 c
+1 e"+
+b
+0 c  "# a
+1 \4e
+1. \2c   a
+2 a
+1 c
+b
+1.a  "# a
+2b
+1\2d
+1.d  "# a
+2\4f
+1d
+b
+1.\2d  "# a
+2\4f
+1d
+1.a  "# a
+2 \2c
+1 a
+.
+b
+b
+.
+#2     a
+x\4d
+xd
+xd
+xd
+xd
+#2     a
+x\4d
+xd
+xd
+xd
+xd
+b
+
+b
+#2    a
+x\4d
+xd
+xd
+xd
+xd
+#2      ///a
+xd
+xb
+xa
+x c
+x a
+.
+b
+b
+w.  dca
+b
+b
+
+e

@@ -1,0 +1,201 @@
+-C
+-t
+-f
+{Qui deh meco t'arresta/Qui deh meco t'arresta}
+b
+0   a  a
+1    d /a
+1     d4
+b
+w\4hd \2f d
+b
+b
+0\4hd \2f d
+w\1f\4hf \2g
+b
+0\4da \2c
+w\3ca \1b
+b
+0a \1b\2c
+0\3ca \3b
+0  \4d
+b
+0a \1b\2c
+w \4da \2c
+b
+0a \1b \3d
+wa\1d&{\4f  \2e
+b
+0ab  a
+w\2da   a
+b
+0\4f\2d&{   \1c&(
+whf&}   d&)
+b
+0i\1f  a
+wh\3h   \2h
+b
+0\2da \1c
+w\4f\3f  \1d
+b
+0\1c\3d\2da
+w\4dd  \1c&{
+b
+0\2d\4f  d
+wc\1b  a
+b
+
+b
+0c\3d  \1c
+w\4hd \2f d
+b
+0f\1c\2d a
+wf\2d&{   \1c
+b
+0\3dd   \1d
+wda   a
+b
+0cc\2d&{  c
+w\1c\3dd&}   a
+b
+0aa\1b  a
+wa \3d   /a
+b
+0 \4d&{a   a
+w da \1c&(
+b
+0\2df  d
+wf \3g a
+b
+0c\3d  \1c
+w\4hd   d
+b
+0a\1c\2d a
+w\4f\2da   a
+b
+0f\1c\2d a
+1c\2d&{  c
+0\4fd&}a  c
+1hd   d
+b
+0f\1c\2d a
+1f\2daa
+0 \4d\1b&{ \2c
+1a b&} \3d
+b
+0\1c \3da
+1\4da   \2d
+0\2da   a
+1d\4f   a
+b
+
+b
+0\3ca \1b&{\2c
+1\4da c&}
+0a \3d&{ \2d
+1\2c\1bd&}a
+b
+0\4ea \1c
+1f\1b  a
+0f\2daa
+1    \1d&{
+b
+0f\3f&{  e
+1f aa
+0dd&}  \2c
+1a \1b \3d
+b
+0\2c\4d\3da
+1a \1b&{
+0aab&}\2c
+1   a
+b
+0\2ca \1b
+1\4da \2c
+0f\1b&{  a
+1\2cb&}\3d a
+b
+0\4ea \1c
+1a\1b&{\3d a
+0 b \2c&(a
+1ab&}d a
+b
+0aacc
+0a\1b  a
+0\2c
+b
+0d \4f  \1d
+w\4f\2d   \1c
+b
+0hf f a
+0f\2da   a
+0   a
+b
+0\2d\4f  \1d&{
+w\4d\3d  c&}
+b
+
+b
+0f\1b  a
+0hd   d
+0   \2f
+b
+0f\3f&{  \1d&(
+0dd&}  c&)
+0     \2d
+b
+0\1c\3d&{\2da
+1\4dd&}   \2d
+0da \2c
+1aa\1b  a
+b
+1 \4ea \1c
+1\2c
+1\3da \1c
+0\1ff&{  a
+1ff&}  a
+b
+0h\1f&{ \2g a
+1if&}  a
+0\1ff\2g a
+1a\1b\3d&{
+b
+0aac\2c
+wa\1bd a
+b
+0\4da   \3d
+wf\2d   c
+b
+0hf f a
+wf\2da   a
+b
+0da   \3d
+w\2c\4d\3d   a
+b
+0a\1bb   /a
+w\2c\3d    //a
+b
+0f \3g&{   ///a
+wh i   4
+b
+0a d   /a
+w df&}  d
+b
+
+b
+C
+1\2c\4dd   a|
+1aa\1b  a
+1a\1b\3d   /a|
+1  b
+b
+1\2c\4d\3d   a
+1\4da
+1f\1d a
+1      a
+b
+Yhd \2f d4
+b
+b
+
+e

@@ -1,0 +1,44 @@
+-C
+-t
+-f
+{20. Tordiglione nuovo/20. Tordiglione nuovo}
+b
+c
+1.ab  d
+2 d
+#2 b
+x d
+1a
+b
+1 db  d
+1 a
+1. bd a
+2 a
+b
+#2  d
+x b
+x a
+x  d
+1aac  a
+1   c
+b
+1.ab  d
+2 d
+#2 b
+x d
+1a
+b
+1 db  d
+1 a
+1 bd a
+#2 a
+x  d
+b
+1  cc a
+1 a
+0  dca
+.
+b
+b
+
+e

@@ -1,0 +1,556 @@
+-C
+-t
+-f
+{O passi sparsi - 2/O passi sparsi - 2}
+b
+Y a\1b&{\3cca
+b
+#2 abc a
+x     \2c
+x     \4d
+x    a
+b
+#2 \2da \1c
+x    \3e
+x \4daa
+x    c
+b
+#2    d
+xa b
+xda
+x     d
+b
+#2    a
+xc d
+xaab
+x   c
+b
+#2    c
+x cb
+x ea
+xa  c
+b
+#2 ea c
+xa    d
+#3    a
+x c
+2 ea c
+b
+
+b
+#2     a
+xaab
+x   c
+x     a
+b
+2aab  a
+2 \4ea \1c
+#2a \1b
+xc d c
+b
+#2da
+x     a
+xda
+xdc c
+b
+#2\2c\3d a
+x a  \1c
+xaa  \2d
+x  \3d&{\1c
+b
+#2 da c
+x    a
+x    c
+x    \4e
+b
+#2 baa
+x a
+x bbc
+x aa
+b
+2 a cd
+#3  d
+x  b
+#3  dcd
+x  a
+x  b
+x  d
+b
+
+b
+#2 aab
+x    c
+x aab
+x   c
+b
+#2 aab  /a
+x ea c
+xa b
+xc d
+b
+2da
+#3   c
+x  a
+#3  b
+x  d
+xda c
+x c
+b
+#2cd a
+x a  \1c
+xaa  \2d
+x  \3d\1c
+b
+#2 \3da \1c
+x    a
+x    c
+x d  e
+b
+#2 baa
+x a
+x bbc
+x a
+b
+#2  \4d \3d
+x  b
+x a cd
+x  d
+b
+
+b
+#2 aabc
+x  \1b\2c a
+x aac  /a
+x   b
+b
+#2   c
+x     a
+x ab
+x   c
+b
+#2 aabc
+x   c d
+x aa a
+x   bc
+b
+#2 ab  d
+x     c
+x a   d
+x    a
+b
+#2 aaa\1c
+x   \1c\3e
+x  aa
+x  c c
+b
+#2 cdca
+x e
+xa d a
+x  b
+b
+#2aaa c
+x   c
+x ea   /a
+xa
+b
+
+b
+#2     a
+xaab
+x   c
+x     a
+b
+1aab  a
+1     a
+b
+b
+1hd f d
+#2   f
+xh
+b
+1hd f d
+1fd ef
+b
+#2dabc
+x  d
+x a
+x\4d\3c c
+b
+#2\1c\3d a
+x a
+xaa  d
+x  dc
+b
+1 daac
+1 db  d
+b
+1 bdca
+#2 ab c
+x  a
+b
+
+b
+2 a cd
+#3  d
+x  b
+#3a d
+x  a
+x  b
+x  d
+b
+#2 aa\1b\2c
+x  b\3c
+x aac  /a
+x   b
+b
+#2   c
+x     a
+x ab
+x   c
+b
+1 da c
+1 db  d
+b
+1 bdca
+#2b
+xa
+b
+#2 d  a
+x b
+x a  a
+x  d
+b
+#2 ac
+x   c
+x     a
+x acc
+b
+#2abd
+x    a
+xabd
+x  b
+b
+
+b
+#2 ea
+x    c
+1a  cd
+b
+2aaa c
+#3 e
+x c
+#3 e
+x a
+x c  c
+x e
+b
+1a \1b \3d
+1a \4d a
+b
+#2  aac
+x d
+x db  d
+x  a
+b
+#2 d ca
+x   a
+1 c ca
+b
+#2 dd\2e\3f
+x   \4f
+x dd   a
+x   \2e
+b
+#2   \3f&{
+x     d
+x d\4f
+x   f&}
+b
+
+b
+#2abb d
+x d
+xab
+x a
+b
+#2cdd
+x   a
+xd  c
+x cb
+b
+2 dda
+#3c
+xa
+b
+#2\3dd\2d   a
+x\2c
+b
+#2\3d
+x     \1d
+xdd\3f
+x     d
+b
+1ddf  d
+1cdda
+b
+1.cdd   a
+2cdda
+b
+#2c d   a
+x d
+xa ba
+xc d
+b
+#2da c
+x     a
+xda c
+xc d  c
+b
+
+b
+#2a    d
+xd
+xc   a
+xa
+b
+2 ea c
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+#2 aab  /a
+x    c
+x ea c
+x c
+b
+#2 ea c
+x a
+x ca c
+x e
+b
+#2a \2b\1c
+x\3c \4d
+x\4da
+xa\3c&{
+b
+#2\1cd
+x  \2d \4e
+x   a
+xd  c
+b
+1cdda
+1cdd   a
+b
+
+b
+#2ab c
+x a
+1 a a
+b
+2aa cd
+#3  d
+x  b
+#2aa  d
+x  d
+b
+#2 ea c
+x    a
+x    c
+x    d
+b
+#2 ea c
+x    a
+x     d
+x     c
+b
+#2     \2d
+x\3da a
+x     a
+x     c
+b
+#2da a d
+x    a
+x\3da  \1c
+x    \4e
+b
+#2\2c \3da
+x    c
+xc d \4e
+x   a
+b
+
+b
+#2aabc
+x  d
+xaab  a
+x c
+b
+#2 ea c
+x    a
+x    c
+x    d
+b
+#2 ea c
+x     d
+x    a
+x    c
+b
+#2    d
+xabb
+xa d a
+x  b
+b
+#2aaa c
+x   c
+x ea   /a
+xa
+b
+#2     a
+xaab
+x   c
+x     a
+b
+Yaab  a
+b
+b
+#2abb d
+x a
+x b
+x d
+b
+
+b
+#2abb d
+xd
+xc   d
+xa
+b
+1 dda
+#2 db
+x   c
+b
+#2  aa
+x db
+x db   a
+x ba
+b
+#2 aba
+x     d
+x d
+x  bcc
+b
+#2 b ca
+x  a
+1 aba d
+b
+2 dda
+#3 b
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+
+b
+#3   a  a
+x   c
+x   d
+x   c
+#3   a
+x    d
+x    c
+x    a
+b
+#2     d
+x ab
+x   a
+x     d
+b
+1ha a \1d
+#2     a
+x     \1c
+b
+#2ha a \1d
+x    a
+x    \1c
+x    \2e
+b
+1fdaa
+1fda   a
+b
+#2dab  a
+x  d
+xdabc
+x c
+b
+#2cd
+x  d
+x   a
+xd
+b
+
+b
+2cdda
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+0cdd   a
+b
+1
+1da c a
+b
+#2da c a
+xc
+xa   cd
+x    a
+b
+#2aaa c
+x     d
+x e  a
+x    c
+b
+#2     a
+xaac
+x   c
+x  d
+b
+#2aa   a
+x  c
+xa d  a
+x a
+b
+#2ab c
+x    a
+xaa c
+x     e
+b
+
+b
+#2    a
+xa d
+x  c
+x   c
+b
+#2a \3d a
+x    c
+xa \1c \2d
+x  aa
+b
+#2aa\2c
+x   \1c
+x     a
+x  d
+b
+Yaaccca
+b
+b
+
+e

@@ -1,0 +1,613 @@
+-C
+-t
+-f
+{22. Tenore - Il Mercatello/22. Tenore - Il Mercatello}
+b
+x    e /a
+b
+b
+c
+wcdda
+b
+0cdda
+0a d e
+b
+0cdda
+0 dcac
+b
+0acd a
+0      ///a
+b
+0acd a
+0 daa  a
+b
+0 aba d
+0      4
+b
+0 aba d
+0cdd   a
+b
+0aab  a
+0 daa c
+b
+0ad   d
+0 c ca
+b
+0 daa  a
+0    a
+b
+0   a
+1 da
+1a b
+b
+
+b
+0cdda
+1a d e
+1   a
+b
+1aacc
+1  d
+1  c  a
+1 d
+b
+0acd a
+0      ///a
+b
+0acd a
+1 d a c
+1 c
+b
+0 aba d
+1a b  c
+1     a
+b
+0 aacc
+0   b  //a
+b
+0aab  a
+0   c
+b
+0aab
+1a d   /a
+1  b
+b
+0  aa  a
+1  d&_
+1     a
+b
+0     c
+1a b  d
+1 da
+b
+
+b
+0 cdca
+0 d ac
+b
+0add a
+0 c    ///a
+b
+0 daa  a
+0    a
+b
+b
+0 daa
+1 d  c
+1a   e
+b
+1cdda
+#2   cU
+x   aX
+1  d e
+1d
+b
+1cdda
+1a
+0 dc c
+b
+1acd a
+1   c
+1acd
+1 d
+b
+0acd a
+1 daa  a
+#2     aU
+x     cX
+b
+0 aba d
+0      4
+b
+
+b
+1 aba d
+#2     cU
+x     aX
+0cdd   a
+b
+1aab  a
+#2     cU
+x     dX
+1  aa c
+#2     d
+x    a
+b
+1ad   d
+#2    aU
+x    cX
+1 c  a
+1  b
+b
+0 daa  a
+0    a
+b
+1 d a
+1   c
+1  a
+1a b
+b
+0c da
+1a   e
+1c  a
+b
+1aacc
+#2 dd
+x c
+1 a   a
+1  c
+b
+0acd a
+1      ///a
+1 d
+b
+
+b
+1acd a
+1     d
+1 d   c
+1 c
+b
+1 aba d
+1     c
+1aab  a
+#2      a
+x      /a
+b
+1      //a
+1      ///a
+0  ab  //a
+b
+1aab  a
+1    c
+1   c
+1  a
+b
+0aab
+1a d   /a
+1  b
+b
+0  aa  a
+1  d
+1     a
+b
+0     c
+#2  b  d
+x  a
+x   c
+x   a
+b
+1 c ca
+1a
+1 d   c
+1 c
+b
+
+b
+#2 a   d
+x c
+1 d  c
+1a   a
+1 c c
+b
+1 da   a
+1  d   /a
+1  f   //a
+1  h   ///a
+b
+#2  i   4
+x      ///a
+x      //a
+x      4
+1  hh  ///a
+1 i
+b
+1 hih  a
+1   a
+1a
+1    e
+b
+1  aa
+1      a
+1     c
+#2a    d
+x d
+b
+1 c  a
+1   c
+1  a
+1  b   //a
+b
+1  d   /a
+1   c
+1  a   a
+1    ac
+b
+
+b
+1 a   d
+1 d
+1a
+1c   a
+b
+1d   c
+1    e
+1c  a
+1  d&_   a
+b
+1a    a
+1  b&_
+1     c
+1 da
+b
+1   c d
+1 d ac
+1   ca
+1 c
+b
+1 daa
+#2    e
+x    c
+#2    a
+x     d
+x     c
+x     a
+b
+0      a
+#2 d  c
+x    a
+xa   c
+x    e
+b
+
+b
+#2  aa
+x   c
+x   a
+x    e
+#2  a c
+x    a
+x     d
+x     c
+b
+1 ac  a
+1  d   a
+1 a   a
+1  c
+b
+#2 cd a
+x   c
+x   a
+x   c
+#2    e&_
+xa
+x d
+xa
+b
+#2 c&_
+x    a
+x     d
+x    a
+#2     c
+x d
+x c
+x d
+b
+#2 a   d
+x  b
+x  a
+x  b
+#2   c&_
+x     a
+x      a
+x     a
+b
+
+b
+#2      //a
+xc
+xa
+xc
+#2 e
+x    c
+x    a
+x    c
+b
+#2aa   a
+x  f
+x  d
+x  f
+#2   f
+xa
+x e
+xa
+b
+#2 a
+x     a
+x      a
+x     a
+#2      /a
+x  d
+x  b
+x  d
+b
+#2  a   a
+x   a
+x   c
+x  a
+#2  b
+x  d
+x  f
+x  h
+b
+#2  i&_
+x      /a
+x      //a
+x      ///a
+#2      4
+x  h
+x  i
+x  f
+b
+
+b
+1  h   ///a
+1a d&_
+1 d    //a
+1 ab&_
+b
+1 c    ///a
+1 da
+1   ca
+1 c
+b
+1 da   a
+#2     a
+x     c
+#2     d
+x    a
+x    c
+x    e
+b
+b
+1   a
+1    a
+0      a
+b
+1cdda
+#2  a
+x  b
+#2  d
+x  a
+xa b
+x   c
+b
+#2 da
+x   c
+x   a
+x    e
+#2  c c
+x  d
+x  a
+x  c
+b
+
+b
+1acd a
+#2    e
+x   a
+#2   c
+x    e
+x   a
+x    c
+b
+#2a   a
+x     d
+x     c
+x     a
+#2cdd   a
+x      /a
+x      //a
+x      ///a
+b
+1 aba  4
+#2    c
+x    e
+#2   a
+x    e
+x    c
+x    a
+b
+#2 a   d
+x    a
+x    c
+x     d
+#2cdd   a
+x     a
+x     c
+x      a
+b
+#2a b  a
+x     c
+x     d
+x    a
+#2 da  c
+x     d
+x    a
+x    c
+b
+
+b
+#2aa   d
+x    a
+x d  c
+x     d
+#2 c  a
+x d
+xa
+x c
+b
+0 daa  a
+0    a
+b
+0   a
+#2 d  c
+x    a
+xa   c
+x    e
+b
+1cdda
+#2d  c
+xc  a
+#2a   e
+x d  c
+xa   e
+xc  a
+b
+1aacc
+#2 dd
+x c
+1 a   a
+1  c
+b
+1acd a
+#2    e
+x   a
+#2   c
+x     a
+x     c
+x     e
+b
+
+b
+1a   a
+#2     d
+x    a
+#2 d   c
+x     d
+x    a
+x     c
+b
+#2     d
+x a
+x c  a
+x d   d
+#2a    c
+x  a  a
+x  b   a
+x  d   /a
+b
+1  f   //a
+1a
+#3  dU
+x  b
+x  aX
+x   c
+1   b
+b
+1aab  a
+#2      a
+x      /a
+#2      //a
+x      ///a
+x      4
+x      5
+b
+1      6
+#2  a
+x  b
+1a d   /a
+1  b
+b
+
+b
+1  aa  a
+#2     a
+x     c
+#2     d
+x    a
+#3    cU
+x    a
+x    cX
+x    e
+b
+1   a
+#2     a
+x     c
+1a b  d
+1 da
+b
+1 c ca
+#2    c
+x    e
+#2   a
+x c c
+x d d
+xa b
+b
+1b d   ///a
+#2a b
+x d d
+#2 c c
+x a a
+x c c
+x  b
+b
+1 daa  a
+#3     aU
+x     c
+x     dX
+x     a
+#3     c
+x     d
+x    a
+x    c
+#3    e
+x    a
+x    c
+x    e
+b
+
+b
+#3   a
+x   c
+x   e
+x   a
+#3  d
+x  b
+x  a
+x   c
+#3   a
+x    e
+x    c
+x    a
+#3     d
+x     c
+x     a
+x     c
+b
+wcdd   a
+b
+b
+
+e

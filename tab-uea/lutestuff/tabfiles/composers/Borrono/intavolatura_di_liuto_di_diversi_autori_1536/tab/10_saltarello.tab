@@ -1,0 +1,376 @@
+-C
+-t
+-f
+{Saltarello/Saltarello}
+b
+S3
+0
+1ea   a
+b
+0fc  a
+1fc  a
+b
+1
+1ca  c
+1ce  c
+b
+1.     a
+2ea
+1   c
+b
+0     a
+1ha   a
+b
+0fh a
+1ef
+b
+1ca
+1a   e
+1a e
+b
+1.    c
+2 e
+1  a
+b
+0    c
+1ea   a
+b
+1.fc  a
+2e
+1fc  a
+b
+#2ca  c
+xa
+#2c
+xe
+#2f
+xc
+b
+
+b
+1     a
+1ea
+1   c
+b
+1.fc  a
+2e
+#2c
+xa
+b
+1 e  c
+1  a
+1a d a
+b
+1  c
+1aa  c
+1 ea c
+b
+1.aa   a
+2aa
+1   c
+b
+0aa   a
+1ca  c
+b
+1.ce  c
+2ce
+1    c
+b
+1ca  c
+1a   e
+1a e
+b
+1ca  c
+#2  a
+x c
+#2 e
+xa
+b
+1ce  c
+1  a
+1e  c
+b
+1.fca
+2e
+1fca
+b
+
+b
+#2ca  c
+xa
+#2c
+xe
+#2f
+xc
+b
+1ea   a
+#2a
+xc
+#2e
+xf
+b
+1ea   a
+1   c
+1ca  c
+b
+1.ce  c
+2a
+1 e  c
+b
+1ca  c
+1a   e
+1a e
+b
+1 e  c
+#2  a
+x c
+#2 e
+xa
+b
+1ca  c
+#2a
+x e
+#2 c
+x a
+b
+#2 c  a
+x a
+#2 c
+x e
+#2a
+xc
+b
+
+b
+#2 a  c
+x c
+#2 e
+xa
+#2 c
+x e
+b
+1.aa   a
+2aa
+1   c
+b
+0aa   a
+#2e
+xc
+b
+1ac  a
+1  d
+#2f
+xe
+b
+1ca  c
+1  a
+#2h
+xf
+b
+1ea   a
+1 f
+#2 a   a
+x  d
+b
+1  cc
+1     a
+1ha   a
+b
+1.fh a
+2h
+1fh a
+b
+1ef
+1ce
+1ac
+b
+1 e  c
+#2  a
+x c
+#2 e
+xa
+b
+
+b
+1 e  c
+1  a
+#2e
+xc
+b
+#2ac  a
+xe
+#2f
+xe
+#2c
+xa
+b
+#2ca  c
+xf
+#2h
+xf
+#2e
+xc
+b
+#2ea   a
+x c
+#2 a
+x  d
+#2  c
+x  a
+b
+#2  cc a
+x  d
+#2 a
+x c
+#2 d
+xa
+b
+#2cd a
+xe
+#2f
+xe
+#2c
+xa
+b
+#2ca  c
+xa
+#2 e
+xa
+#2 c
+x e
+b
+
+b
+1.aa   a
+2c
+#2e
+xf
+b
+1ea   a
+#2c
+xa
+#2 e
+x c
+b
+1ca  c
+1 a
+1  a
+b
+#2 aa c
+x c
+#2 e
+xa
+#2 c
+x e
+b
+1ea   a
+1   c
+1     a
+b
+#2c
+xe
+1fc  a
+1ea   a
+b
+1ca  c
+1 a
+1  a
+b
+#2e
+xf
+1ha   a
+1f   a
+b
+1ea   a
+1 f
+1     a
+b
+
+b
+#2c
+xe
+1fc  a
+#2f
+xe
+b
+1ca  c
+1 a
+1  a
+b
+#2e
+xf
+1ha   a
+#2h
+xf
+b
+#2ea   a
+xf
+#2e
+xc
+#2a
+x d
+b
+#2f   a
+xh
+#2f
+xe
+#2c
+xa
+b
+1ca  c
+1 a
+1  a
+b
+#2e
+xf
+1ha   a
+1f   a
+b
+0ea   a
+1     a
+b
+0fc  a
+1ea   a
+b
+0ca  c
+1    c
+b
+
+b
+1 ea c
+1ac
+1ce
+b
+#2ea   a
+xc
+#2e
+xa
+#2c
+xe
+b
+#2fc  a
+xe
+#2f
+xe
+#2c
+xa
+b
+#2ca  c
+xe
+#2c
+xa
+#2 e
+x c
+b
+#2 a  c
+x c
+#2 e
+xa
+#2 c
+x e
+b
+Yaa   a
+b
+b
+
+e

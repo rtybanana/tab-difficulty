@@ -1,0 +1,71 @@
+-C
+-t
+-f
+{Se amor non è/Se amor non è}
+b
+c
+0 d a
+1 d a
+1a   d
+b
+1b  d
+1 d  b
+1 b d
+1  ef
+b
+1  da
+#2   a
+x d
+2   c
+#3 c
+x a
+1 c
+b
+0 dda
+b
+.
+0 d a
+b
+1  ef
+1  b d
+1 d a
+1 db
+b
+#2 b  d
+x    c
+x    d
+x a
+1  da
+1  bc
+b
+0  da
+0  b  d
+b
+0b  a
+1 d a
+1 c  a
+b
+
+b
+1 d a
+1a   d
+1 b d
+#2b
+x   c
+b
+#2   a
+xa
+x d
+x b
+1 a   d
+1 d
+b
+#2    a
+x a
+1 c
+0 dda
+.
+b
+b
+
+e

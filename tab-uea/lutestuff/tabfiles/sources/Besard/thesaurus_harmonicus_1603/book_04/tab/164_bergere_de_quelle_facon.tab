@@ -1,0 +1,98 @@
+-t
+-f
+{164. Bergère, de quelle façon/164. Bergère, de quelle façon}
+b
+1bdda
+1ac
+1    a
+0bdda
+1 abc
+0 bdd
+1 aaa
+0. bbcd
+b
+1bdda
+1 abc
+1 dff
+0bbdd
+1 cbc
+1bdda
+1    d
+1 dd b
+0. cdca
+b
+1 dda
+1      a
+1 bdca
+0 bbcd
+1 dff d
+1 bd a
+1     d
+1 bbcd
+0. bdd b
+b
+1      a
+1bdda
+#2    d
+x    b
+0 bdca
+1     b
+1  ef d
+1bdd   a
+#2add a
+x c
+0. dda  a
+b
+
+b
+0bdda
+#2    d
+x    b
+0 bdd
+1   c
+1 bdd
+0 bbcd
+0. bdd b
+b
+#2 bbcd
+x   a
+x   c
+2   d
+1 def
+#2bdd   a
+x     a
+x     b
+2     d
+1 cd a
+1     b
+1     d
+1 cd a
+0. dda  a
+b
+0bdda
+#2    d
+x    b
+0 bdd
+1   c
+1 bdd
+0 bbcd
+0. bdd b
+b
+#2 bbcd
+x   a
+x   c
+2   d
+1 def
+#2bdd   a
+x     a
+x     b
+2     d
+1 cd a
+1     b
+1     d
+1 cd a
+Y. dda  a
+b
+b
+
+e

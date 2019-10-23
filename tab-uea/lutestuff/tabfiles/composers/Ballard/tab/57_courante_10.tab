@@ -1,0 +1,616 @@
+-C
+-t
+-f
+{Courante 10/Courante 10}
+b
+W   a  a
+W    e /a
+W    c //a
+W    a ///a
+b
+b
+1 c
+b
+1. cdca
+2 d
+1a   e
+b
+1  def
+1    e
+1 dc c
+b
+1. cdca
+#3 a
+x c
+1  d
+b
+1 a   e
+#2   c
+x c
+#2  d  c
+x a
+b
+1  c  a
+1a  c
+1ca b
+b
+#2e  c
+x c
+1ce  c
+1    a
+b
+1a    e
+#2   c
+xc
+#2a
+x d
+b
+
+b
+1 cdca
+#2 da
+x c
+#2 a
+x  d
+b
+1  c  a
+1 a c
+1 c
+b
+1  de
+1 ac
+1a
+b
+1  d
+1 c
+1a
+b
+1 ac
+1ccde
+#2 a
+x  d
+b
+#2ea c
+x f  e
+2f
+b
+#2  aa
+xh
+2   gh
+b
+#2k  ha
+x      ///a
+#2h
+xf     /a
+2h
+b
+1k
+1ha    a
+1     a
+b
+1ffhha
+1      ///a
+1    a
+b
+0ffhh
+1 c
+b
+
+b
+1 cdca
+#2    c
+x d
+#2a   e
+x   c
+b
+#2  aa
+x  c
+#2  d
+x    e
+#2 a  c
+x  c
+b
+#2    a
+x c c
+#2 a
+x c
+#2  d
+x c
+b
+#2 a   e
+x  d
+#2 a
+x c
+#2  d  c
+x a
+b
+#2  c  a
+x a
+#2a
+x   c
+#2c
+x   b
+b
+#2e  c
+x c
+#2    c
+xc
+#2 e
+x    a
+b
+#2     e
+xa
+#2 a c
+xc
+#2a
+x d
+b
+
+b
+#2    a
+x c c
+#2 da
+x c
+#2 a
+x  d
+b
+#2  c  a
+x  a
+#2  c
+x  d
+#2 a c
+x c
+b
+#2   e
+x  d
+#2 ac
+xa
+#2   c
+x d
+b
+#2 cd
+x a
+#2 c
+x d
+#2a
+xc
+b
+#2 ac
+xa
+#2c a
+xe
+#2f
+x e
+b
+#2   c
+xe
+#2 a
+x   a
+#2 f  e
+xf
+b
+#2   a
+x  c
+#2  a
+x a
+#2   c
+x  c
+b
+
+b
+#2 c  a
+x d
+#2a     ///a
+x  d
+#2c     a
+x  c
+b
+#2  d
+x c
+1aad  a
+#2  c
+x d
+b
+1 cdca
+1      ///a
+1    a
+b
+0  dc
+1   c
+b
+1.   c  ///a
+#3   a
+x   c
+1    e
+b
+1   e  a
+#2   a
+x   c
+#2   e
+x   a
+b
+1   c
+#2      ///a
+x   a
+#2    e
+x    c
+b
+1    a
+1   c
+1     e
+b
+1  d  c
+1     a
+1  c
+b
+1  d   a
+1 a    /a
+1      //a
+b
+
+b
+1 cdc  ///a
+1      /a
+1 d
+b
+1a
+1 daa  a
+1 c
+b
+1 acc a
+1   c
+1  a
+b
+1  c
+1acd
+1cd
+b
+1ef
+1 a c
+1   a
+b
+1 f  e
+1f d
+1e
+b
+1   a
+1cd
+1ac
+b
+1    c
+1 df
+1 cd
+b
+1 acc
+1     a
+1      a
+b
+1      /a
+1a  ce
+#2 da c
+x  c
+b
+1 cd a
+1  d
+1  c
+b
+
+b
+1  aa  a
+1  f f
+1  d e
+b
+1  ccca
+#2a
+x  c
+1c d
+b
+1ea c
+1   a
+1f   e
+b
+1ha   a
+1a d   /a
+#2 daa  a
+xa
+b
+1 cd a
+1. ac  a
+#3  d
+x a
+b
+1  d a
+1 c
+1 df
+b
+1acd
+1    a
+1     e
+b
+1     c
+1ccd
+#2     a
+x      a
+b
+1      /a
+1acd
+1  c
+b
+1      a
+1 daa
+1  c
+b
+
+b
+1      ///a
+1 cdc
+1  a
+b
+1     a
+1 acc
+1      a
+b
+1  d   /a
+1      //a
+1      ///a
+b
+1  cc a
+#2  a   a
+x  c
+#2  d   /a
+x a
+b
+#2 c    a
+x  d
+1 c   a
+#2 a
+x   c
+b
+1  dca
+1      ///a
+1    a
+b
+0  dc
+1   c
+b
+#2      ///a
+x   c
+#2   a
+x   c
+#2    e
+x    a
+b
+#2      a
+x   e
+#2   a
+x   c
+#2   e
+x   a
+b
+
+b
+1   c
+#2      ///a
+x   a
+#2    e
+x    c
+b
+#2    a
+x    c
+#2    e
+x   a
+#2   c
+x     e
+b
+#2     c
+x  d
+#2     a
+x  c
+#2  d
+x  c
+b
+#2  aa  a
+x  c
+#2  d
+x    e
+#2 a  c
+x  c
+b
+#2 c  a
+x a
+#2  d
+x a
+#2 c  c
+x d
+b
+#2     e
+xa
+#2 d a
+xa
+#2 c  a
+x d
+b
+#2 a
+x     a
+#2 c
+x a
+#2 c
+x  d
+b
+
+b
+#2 a
+x   c
+#2  c
+xa
+#2  d
+xc
+b
+#2   c
+xe
+#2 a
+x   e
+#2   c
+x   a
+b
+#2    e
+xa
+#2  d
+xf
+#2e
+xf
+b
+#2      a
+xc
+#2  a
+xa
+#2 d
+x c
+b
+#2      ///a
+x d
+#2  f
+x c
+#2 a
+x  d
+b
+#2     a
+x  c
+#2   c
+x  d
+#2 a
+x   a
+b
+#2    e
+xa
+#2  d
+x   c
+#2 da c
+x  c
+b
+
+b
+#2    a
+x cd
+#2   c
+x a
+#2  d
+x  c
+b
+#2      a
+x  aa
+#2  f
+x  a
+#2  d
+x    e
+b
+#2  cc a
+x a
+#2 c
+x e
+#2a
+xc
+b
+#2e
+x   c
+#2 a
+x   a
+#2    e
+xf
+b
+#2     a
+xh
+#2    e
+xa
+#2 d a
+xa
+b
+#2 c  a
+x  d
+#2 c
+x     a
+#2 a
+x   c
+b
+#2  d a
+x  c
+#2  d
+x a
+#2 c
+x d
+b
+
+b
+#2a
+x c
+#2  d
+x    c
+#2    a
+x     e
+b
+#2     c
+xc
+#2 c
+x     c
+#2     a
+x      a
+b
+#2      /a
+xa
+#2  d
+x  c
+#2   c
+x  d
+b
+#2      a
+x  aa
+#2 d
+x   c
+#2  a
+x  c
+b
+#2      ///a
+x cd
+#2   c
+x  a
+#2  c
+x  d
+b
+#2     a
+x a
+#2  c
+x   e
+#2   c
+x   a
+b
+#2    e
+x  d
+#2    c
+x    e
+#2    c
+x    a
+b
+
+b
+#2  c  a
+x  d
+#2 a
+x  c   a
+#2  d   /a
+x a    //a
+b
+#2 c c  ///a
+x  a
+1. ac  a
+#3  d
+x a
+b
+1  d a
+1      ///a
+1    a
+b
+0.  dc
+b
+b
+
+e

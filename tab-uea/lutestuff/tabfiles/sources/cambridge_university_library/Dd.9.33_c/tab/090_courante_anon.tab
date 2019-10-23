@@ -1,0 +1,142 @@
+-C
+-t
+-f
+{90. Courante/Anonymous}
+b
+1 d
+b
+.
+0f  a
+1d  c
+b
+0c  e
+1h  f
+b
+0.ff h
+b
+1.ca
+2d
+1f a
+b
+0d b
+1c  a
+b
+0a   e
+1 d  c
+b
+#2a   a
+x d
+#2 c
+x a
+1  d
+b
+1 d   d
+1     c
+1a    a
+b
+1c     a
+#2 d
+xa
+#2c
+xe
+b
+1f a
+1.e  c
+#3c
+xe
+b
+
+b
+A1
+1f   a
+1      //a
+1 d
+.
+b
+b
+A2
+1f   a
+1      //a
+1f
+b
+.
+0f dca
+1f
+b
+1.c  a
+2d
+1f  e
+b
+1. d f
+2a
+1c  a
+b
+1. c e
+2 d
+1a   e
+b
+1 dd f
+1    e
+1 a  c
+b
+1. c  a
+#3 a
+x c
+#2 d   c
+xa
+b
+1c     a
+1.a   a
+#3 d
+x c
+b
+0 dda  a
+1   a
+b
+0      a
+1f
+b
+
+b
+1cd
+1   a
+1f  e
+b
+1 d
+1   f
+1c  a
+b
+1 c
+1   e
+1a   e
+b
+1  d f
+1    e
+1 a  c
+b
+1. c  a
+#3 a
+x c
+#2 d   c
+xa
+b
+1c     a
+1.a   a
+#3 d
+x c
+b
+0 dda  a
+1   a
+b
+A1
+0      a
+1f
+.
+b
+b
+A2
+0.      a
+b
+b
+
+e

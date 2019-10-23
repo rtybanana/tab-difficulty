@@ -1,0 +1,92 @@
+-C
+-t
+-f
+{Branle de la Cornemuse - 1/Branle de la Cornemuse - 1}
+b
+c
+1  d
+1      a
+1  a
+1   a
+b
+1  d   a
+1    a
+1   a
+#2 a
+x c
+b
+
+b
+1 d    a
+#2 c a
+x d
+1a   a
+#2 dd
+xa
+b
+1cdd   a
+#2   a
+xa
+1 d
+#2c
+xd
+b
+1f     a
+1c  a
+1d   a
+1a d
+b
+
+b
+1cdd   a
+#2   a
+xa
+1 d
+#2  a
+x  b
+b
+1  d   a
+#2   a
+x  b
+#2  a
+x   c
+1   a
+b
+1  d   a
+1    a
+1   a
+#2 a
+x c
+b
+
+b
+1 dff
+1  de
+1aa c
+1 c
+b
+1cdda
+#2      a
+xd
+1f
+#2d  a
+xc
+b
+#2a     a
+xc
+xd  a
+xc
+#2a
+x    a
+x dd
+x c
+b
+
+b
+1 d a
+1      a
+0   a
+b
+b
+
+e

@@ -1,0 +1,206 @@
+-C
+-t
+-f
+{Entrée 1/Entrée 1}
+b
+W   a  a
+W    d /a
+W    c //a
+b
+b
+c
+1 aaac
+1      //a
+1 a a
+1 c c
+b
+1 da c
+1   a
+1 c ca
+1  a
+b
+1 aa  d
+#2   c
+x   a
+1   c
+1    c
+b
+1 a a c
+#2   c
+x   a
+1  eeec
+1     a
+b
+
+b
+1 aa   b
+1    c
+#2  a
+x  b
+x  d
+x  a
+b
+1  bc a
+#2  a  c
+x   c
+#2   a d
+x    c
+1   c
+b
+1  d  c
+#2   b
+x a
+1 bb  a
+#2 a
+x      a
+b
+1aa    /a
+#2   c
+x  a
+#2  b
+x   c
+1  d
+b
+1 ea   //a
+1c
+1h
+#2  a
+xf
+b
+
+b
+#2 a
+xd
+xc
+x  d
+#2  b
+x a
+xa d
+x  b
+b
+#2  de
+xa
+x e
+x a
+1ab c
+#2 a
+x  d
+b
+#2  bc
+x  d
+x a
+x   a
+1  d d
+1 a c e
+b
+#2 bdca
+x    c
+x   cd
+x  aa
+#2 abc
+x  a
+1  b
+b
+1  d
+1 d e
+1  bc
+1db
+b
+
+b
+1cb a
+1da
+1aa  d
+1c d
+b
+1 ed c
+1a b
+1  a   //a
+#2 e
+x    a
+b
+1a  c e
+1 a
+1 bdca
+1 c
+b
+1  ee c
+1 a a c
+1ccf  c
+#2  e
+xa
+b
+#2 efec
+x      //a
+x a
+x c
+#2 e
+xa
+xc   c
+x    a
+b
+
+b
+#2 aba d
+x     c
+x     a
+xd
+#2   c
+x a
+x  b  a
+x c
+b
+#2    c
+x d
+x  a
+x   a
+#2    a
+x bd
+x   c
+x  a
+b
+1 abc a
+1a
+1  a   //a
+#2 e
+x    a
+b
+#2aab  d
+x     c
+1da c a
+#2ca    b
+x  d
+1aab  a
+b
+1      //a
+1 f f
+2. e e
+3a
+2. c c
+#4 a
+x c
+b
+
+b
+#2 e  c
+x      //a
+x  f
+x  d
+#2a b  a
+x  a
+x  b
+x   c
+b
+1cef c
+1      //a
+#2     a
+x   c
+xda
+x c
+b
+0cef c
+0      //a
+b
+b
+
+e

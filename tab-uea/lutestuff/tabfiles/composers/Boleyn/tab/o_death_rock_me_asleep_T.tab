@@ -1,0 +1,262 @@
+-C
+-t
+-f
+{O Death, rock me asleep/O Death, rock me asleep}
+b
+1   c
+1  b
+1  a
+b
+1   c a
+1     d
+1   b c
+b
+1aa c a
+1d   c
+1c  b
+b
+1aa c
+1  b
+1 ea c
+b
+1aab  a
+1     d
+1f  a c
+b
+1da c a
+#2a
+x    e
+1c db c
+b
+#2aab  d
+x    a
+1aaa c
+1 ea   /a
+b
+1aab  a
+1h    d
+1f  a c
+b
+1da c a
+1 abc d
+#2 cd  c
+x e
+b
+
+b
+1aab  a
+1aaa c
+#2 ef   /a
+x  d
+b
+1aab  a
+1h    d
+1f  a c
+b
+1d  c a
+#2     d
+x a
+#2cc   c
+x e
+b
+1aa c d
+1 ea c
+1aab  a
+b
+1 ea   /a
+1 d  c
+1 ca b
+b
+1 aa   /a
+1 a a
+1  e ec
+b
+1 aa   /a
+1 ca bc
+1 daac
+b
+1  aa  /a
+1  ee c
+1 aaa
+b
+1 da   /a
+1 ce  c
+#2 aa c
+x d
+b
+0.cceeec
+b
+
+b
+1da c a
+#2a    d
+x a
+#2 c   c
+x e
+b
+1aa   a
+#2a    d
+x c
+1 ed  c
+b
+1aa c d
+1aaa c
+1 e    /a
+b
+1aa c a
+1 a   d
+1  db c
+b
+1aac  a
+#2d  c
+x    e
+1c da
+b
+1aabc
+#2aa
+x   c
+1 ea c
+b
+1aa c a
+#2     d
+x d
+1fd a c
+b
+1da c a
+#2    cd
+xa
+1c db c
+b
+1 abc a
+#2     d
+xh
+1fd a c
+b
+
+b
+1da c a
+#2    cd
+x a
+1 dda c
+b
+1aab  a
+#2h  a d
+x a
+#2fc   c
+x e
+b
+1da c a
+#2     d
+xa
+1c  b c
+b
+1da c a
+1 a c d
+1  db c
+b
+1  bc a
+1h  a d
+1f a  c
+b
+1da c a
+#2 a   d
+xa
+#2ccd  c
+x e
+b
+1df   a
+#2    cd
+xa
+1c  b c
+b
+1aabc a
+1 a c d
+1  db c
+b
+1  bc a
+#2h    d
+x a
+#2fc   c
+x d
+b
+
+b
+1df   a
+#2    cd
+xa
+1c db c
+b
+1 abc a
+1    cd
+#2  d ec
+x   b
+b
+1da c a
+#2    cd
+xa
+1c db c
+b
+1aa c a
+#2     d
+x c
+1 ed  c
+b
+1aa c a
+1aaa c
+1 e    /a
+b
+1aa c
+1  b
+1 ea c
+b
+1a b d
+1 bd a
+1 ac  a
+b
+1  dca
+1    d
+1 ac c
+b
+1  dca
+1    a
+1 acc
+b
+1  dca
+1    a
+1 acc
+b
+
+b
+1  dcd
+1 b  a
+1 acc
+b
+1  dca
+1    a
+1 acc
+b
+1  dcd
+1    a
+1 acc
+b
+1   ca
+1 bd
+1 acc
+b
+1  dca
+1 bd
+1 acc
+b
+1  dca
+1 bd
+1 ac  a
+b
+1  dca
+1 bd
+1  dca
+b
+0.aaccca
+b
+b
+
+e

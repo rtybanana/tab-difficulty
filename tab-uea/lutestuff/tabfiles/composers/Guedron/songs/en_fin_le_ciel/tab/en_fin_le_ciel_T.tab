@@ -1,0 +1,84 @@
+-t
+-f
+{En fin le ciel/En fin le ciel}
+b
+0 c\1d  c
+0 cde
+b
+0 ccde
+0      /c
+b
+1 \4da   /a
+1    \1c
+1 \2c\3d a
+1 \4d
+b
+0aac  a
+1 cdc
+#2 a"#
+x  d
+b
+
+b
+0aac  a
+0   c
+b
+0acd a
+1    a
+1ac
+b
+1cdda
+1ca a
+1a c e
+1a d a
+b
+0 da c
+1      /a
+1 da
+b
+0 cde c
+1c
+1     c
+b
+
+b
+wa\2c\1c \4e
+.
+b
+b
+.
+0a\2c&{\1c \4e
+1ac  a
+0ac&}\3d a
+1\2c\4d\3da
+b
+1cdd   a
+#2a
+x d
+0acd a
+1aacc
+#2     a
+x \4d
+b
+0 cdca
+1 a\2c&{\1c
+0aacc
+1a c&} \4e
+b
+
+b
+1 \1cd\3e
+#2 \2d
+xa
+1\2ca  \1c
+1  \3d
+1 \4g \3ge
+#2 \1e
+x \4g
+b
+wcc \1e c
+.
+b
+b
+
+e

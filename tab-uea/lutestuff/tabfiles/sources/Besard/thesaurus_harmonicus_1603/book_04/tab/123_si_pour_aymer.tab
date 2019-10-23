@@ -1,0 +1,441 @@
+-C
+-t
+-f
+{123. Si pour aymer/123. Si pour aymer}
+b
+c
+1 a
+#2 d
+xa
+#3cd  c
+x c
+x  f
+x c
+#3cd  c
+x f
+xc
+xe
+b
+#3fc e
+x  c
+x  d
+x a
+#3fc e
+x a
+x c
+x e
+#3ef c
+xf
+xe
+xc
+#3a   e
+xc
+xe
+xa
+b
+
+b
+#3c  a
+xe
+xf
+xc
+#3e  c
+xc
+x f
+x d
+#3 cde
+x a
+x  d
+x  c
+#3c aa
+x  c
+x  d
+x  a
+b
+#3    e
+x h
+x g
+x e
+#3 g
+x h
+x   ge
+x g
+#3c de c
+x  f
+x  d
+x  c
+#3   e
+x  c
+x  d
+x     c
+b
+#3 daac
+x   c
+x   a
+x   c
+#3 daac
+x   c
+x  a
+x  c
+#3acd a
+x a
+x  d
+x a
+#3acd a
+x d
+xa
+x c
+b
+
+b
+#3cdda
+xa
+x d
+x c
+#3 d
+xa
+xc
+xe
+#3f  a
+x   c
+x  a
+x  c
+#3acd a
+x    c
+x    e
+x    a
+b
+#3 df c
+x f
+xc
+x d
+#3aab  a
+x     c
+x     d
+x     a
+#3  ee c
+x  f
+x  e
+x  c
+#3  e
+x  f
+x   e
+x  e
+b
+2 aa c
+#3  d
+x  b
+#3  a
+x   c
+x   a
+x    e
+#3 aa c
+xc
+x a
+x c
+#3 d
+xa
+xc
+xe
+b
+
+b
+#3f  e
+x  d
+x   e
+x  c
+#3  d
+x a
+x c
+x e
+#2ef c
+x  c
+xa  ce
+x  d
+b
+#2c  a
+x  a
+2ea c
+#3f
+xe
+#2 cde
+xc
+xc ca
+x  a
+b
+#3    e
+x h
+x g
+x e
+#3 g
+x h
+x   ge
+x g
+#2ccd  c
+x  c
+x  de c
+xa c
+b
+#2 da c
+x   c
+x da c
+x  c
+#2 cd a
+x df
+x ddca
+x c
+b
+
+b
+3cdd   a
+#4d
+xc
+#4d
+xc
+xa
+x d
+3acd a
+#4 d
+x c
+#4 d
+x c
+x a
+x  d
+#2    c
+x df
+x     c
+x cde
+b
+#2  bacd
+x a
+x a cea
+x    c
+#2  eeec
+x  f
+x   e
+x  e
+b
+#2 aa c
+x   c
+x   a
+xa   e
+#2 da c
+xc  a
+xa   e
+x d  c
+b
+#2 c  a
+x a
+x  de c
+xh    e
+#2fc e c
+xeac
+xccd
+xf    c
+b
+#2ea c e
+xccd  c
+xcdf c
+xbc  e
+3ccd  c
+#4a
+x d
+#4 c
+x a
+x  d
+x  c
+#2f aa
+xd
+b
+
+b
+#2c  a
+xa
+xa   e
+x  d
+#2 dda
+x      a
+#3 a   d
+x c
+x d
+x a
+b
+#3  dca
+x d
+x c
+x a
+#4 d
+x c
+x d
+x c
+#4 d
+x c
+x a
+x c
+2 dda  a
+#3 c
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+2 daa
+#3    e
+x    c
+#3    a
+x     d
+x     c
+x     a
+#2      a
+x   a
+xcdd
+xcdd   a
+b
+
+b
+#2cdda
+xcdda
+#3cdda
+xd
+xf
+xc
+#2ea c
+xc  a
+xac  e
+xa c
+b
+#2cdda
+xa   e
+x df c
+xa dce
+#2  def
+x d
+x dff d
+x   e
+b
+#3  dca
+x d
+x c
+x a
+#4 d
+x c
+x d
+x c
+#4 d
+x c
+x a
+x c
+#2 dda
+xa
+xc  a
+xd  c
+b
+#2c da
+xa  ce
+x da c
+x c  a
+#2 da c
+x c ca
+x a   e
+x  d  c
+b
+
+b
+#2  cc a
+x   a
+xac ca
+x d a
+#2 c ca
+x a   e
+x  de c
+x     a
+b
+#2f aa  a
+xd  c
+xc  a
+xa   e
+#2 d  c
+x c  a
+x a   e
+x     c
+b
+#2h    a
+xf a
+xe  c
+xc  a
+#2a   e
+x da c
+x cd a
+x a   e
+b
+#2  de c
+x     a
+xf aa  a
+xe  c
+#2c  a
+xa   e
+x da c
+x c ce
+b
+#2 daa
+x    c
+1 cdca
+#2    c
+x a a
+x a ce
+x    c
+b
+
+b
+#3  ee c
+x  f
+x  e
+x  c
+#4  f
+x  e
+x  f
+x  e
+#4  f
+x  e
+x  c
+x  e
+1 aa c
+#3c
+x   c
+x   a
+xa   e
+b
+#2 d  c
+x    a
+xdab  d
+x     c
+#2dab  a
+x   c
+1ca b
+b
+2 abc
+#3a
+x e
+#3a
+x     c
+x     d
+x    a
+#3    c
+x f
+x e
+x c
+#4 f
+x e
+x f
+x e
+#4 f
+x e
+x c
+x e
+b
+Yaacc a
+b
+b
+
+e

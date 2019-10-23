@@ -1,0 +1,529 @@
+-C
+-t
+-f
+{Ricercar/Francesco da Milano}
+b
+0abd a
+b
+1abd a
+1  b
+b
+1   da
+1   c d
+b
+#2     b
+x   c
+#2   a
+x    d
+b
+1   a b
+1   c
+b
+1.d  c a
+2b
+b
+#2a
+x d
+1a bc
+b
+1b da
+1a bc
+b
+
+b
+1  dd
+1f
+b
+1d bc
+1a   d
+b
+1b da
+1a bc
+b
+1  dd
+#2 d
+x b
+b
+#2 ddd
+x a
+#2 b
+x d
+b
+#2   c
+xaad
+#2  c
+x  a
+b
+2aacc
+1  d
+2  c
+b
+0abd a
+b
+
+b
+2abd a
+#3c
+xa
+#3 d
+x b
+x a
+x  d
+b
+2aabc
+#3  d
+x a
+1 b
+b
+#2  dd
+xa
+#2 d
+x b
+b
+0 ddd
+b
+1 dbc
+1 b
+b
+0 bbc
+b
+1bb a
+#2 a
+x  d
+b
+1bb a
+1 a
+b
+
+b
+2abb d
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+b
+#2db
+x a
+#2  d
+x  b
+b
+#2 dda
+xa
+#2c
+xd
+b
+2cdda
+#3d
+xc
+#3d
+xc
+xa
+xc
+b
+1dabc
+1a   d
+b
+1bdda
+1 d  c
+b
+
+b
+1abb d
+1 bd a
+b
+2 db c
+#3     a
+x     c
+#3     d
+x    a
+x    c
+x    d
+b
+#3   a
+x   c
+x   d
+x   c
+#3   a
+x    d
+x    c
+x    a
+b
+#2 db c
+x     d
+#2    a
+x    c
+b
+
+b
+#2abd a
+x    c
+#2    d
+x   a
+b
+#2   c
+x  a
+#2  c
+x  d
+b
+#2aa
+x  c
+1abd
+b
+#2aad
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+0abd
+b
+1abd
+#2  c
+x  a
+b
+0aac
+b
+0if ha
+b
+
+b
+1if ha
+#2h
+xf
+b
+1ha g a
+1   h
+b
+1h
+1   g
+b
+1   h
+1dabc
+b
+1b da
+1a bc
+b
+#2 ddd
+x b
+#3 d
+x b
+x a
+x  d
+b
+
+b
+#3 a c
+x  a
+x  c
+x  d
+#3 a
+x  d
+x  c
+x  a
+b
+1aadc
+#3  c
+x  a
+x  d
+x  c
+b
+1abd
+1    a
+b
+#2abd
+x    c
+#2    d
+x   a
+b
+#2aa c
+x   a
+#2    d
+x    c
+b
+#2abd a
+x    c
+#2    d
+x   a
+b
+
+b
+1aa c
+1    a
+b
+#2abd
+x    c
+#2    d
+x   a
+b
+#2aa c
+x   a
+#2    d
+x    c
+b
+#2abd a
+x    c
+#2    d
+x   a
+b
+1aa c
+1    a
+b
+#2abd
+x    c
+#2    d
+x   a
+b
+
+b
+#2aa c
+x   a
+#2    d
+x    c
+b
+#2abd a
+x    d
+#2    c
+x    a
+b
+1 db c
+1     d
+b
+#2 db
+x    a
+#2    c
+x    d
+b
+#2 dba
+x    d
+#2    c
+x    a
+b
+#2 db  d
+x    a
+#2    c
+x    d
+b
+1 db c
+1    d
+b
+
+b
+1 db
+1    c
+b
+1 bd
+1    a
+b
+#2 bd
+x    c
+1    d
+b
+1 bd
+1   a
+b
+1 bdc
+1   d
+b
+1 bd
+1   c
+b
+1 bd
+1   a
+b
+1 bdc
+1    a
+b
+#2 bd
+x    c
+1    d
+b
+
+b
+1 bd
+1   a
+b
+1 bdc
+1    a
+b
+#2 aba d
+x    a
+#2    c
+x    d
+b
+1   a
+1     d
+b
+#2abd a
+x    c
+#2    d
+x   a
+b
+#2   c
+x  a
+#2  c
+x  d
+b
+1 acc
+1 bd d
+b
+
+b
+1 d  c
+1  c
+b
+1 bd a
+1a
+b
+1a
+1ab
+b
+1.bd
+2a
+b
+#2 d
+x  c
+1 bd
+b
+1 ad
+1 acc
+b
+1.  dd
+2   c
+b
+#2  da
+x    d
+1    a
+b
+1 d  c
+1  c
+b
+
+b
+1 bd a
+1 a c d
+b
+1   a
+1  d  b
+b
+#2    ca
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+1  d a
+1 b
+b
+1 aba d
+1 d
+b
+1 bd a
+1a
+b
+1 daac
+1c
+b
+
+b
+#2abb d
+xc
+#2d
+xa
+b
+#2c da
+xd
+1f dd
+b
+1 a c
+1e
+b
+1ffg a
+1i
+b
+#2    a
+xh
+#2f
+x i
+b
+1 hi
+1h f
+b
+#2 f
+xf
+#2 i
+x h
+b
+1 f g
+1i  h
+b
+
+b
+1h i
+#2f
+x  g
+b
+1  f
+1d  c
+b
+1c d
+#2a
+x  b
+b
+1  a
+1 d  c
+b
+1 b c
+#2 a
+x   a
+b
+1   c
+1  d df
+b
+1 a a d
+1   c a
+b
+#2   a b
+x    d
+#2  d c
+x    a
+b
+
+b
+#2   cca
+x  c
+#2  d
+x  c
+b
+#2  d a
+x  c
+#2  d
+x a
+b
+#2ab  a
+xd
+#2b
+xa
+b
+1b da
+1a  cd
+b
+#2 d df
+x    d
+1 d df
+b
+1  dca
+1 c
+b
+1 cdca
+1f
+b
+1fc ca
+b
+b
+Q
+
+e

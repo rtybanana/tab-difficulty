@@ -1,0 +1,955 @@
+-C
+-t
+-f
+{Es Steht Gott auf/Es Steht Gott auf}
+b
+0    d /a
+0     d4
+b
+b
+C
+0.  aaa a
+1  aaa
+b
+1   aa a
+1  aaa
+0  aaa
+b
+0   aac
+0  aaa
+b
+1      a
+0  aaa
+1  aaa
+b
+0  aaa a
+0   aac
+b
+0.  aaa a
+1  def
+b
+1  de  a
+0 dde
+1cdd
+b
+2 d    a
+#3      a
+x      a
+#2fda   a
+x      a
+2      a
+#3      a
+x      a
+#2cdd   a
+x      a
+b
+
+b
+2 d    a
+#3      a
+x      a
+#2 dde  a
+x      a
+2      a
+#3      a
+x      a
+#2  def a
+x      a
+b
+1      a
+1 dde
+1    f
+1  def
+b
+0 aba d
+0  da c
+b
+0  dca
+0      ///a
+b
+w  def a
+b
+b
+0  aaa a
+0  aaa a
+0  aaa a
+b
+0  def a
+w
+b
+0  def a
+0  def a
+0  def a
+b
+0 dde  a
+w
+b
+0 dde  a
+0 dde  a
+0 dde  a
+b
+0cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+b
+
+b
+0fda   a
+1cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+b
+0fda   a
+1cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+b
+1 dde  a
+1      a
+1      a
+1  def a
+1  def a
+1      a
+b
+0  def a
+0 dde
+0 dde  a
+b
+0cdd   a
+wacd a
+b
+0cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+b
+0fda   a
+1cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+b
+1 dde  a
+1      a
+1      a
+1  def a
+1  def a
+1      a
+b
+
+b
+0  def a
+0 dde
+0 dde  a
+b
+0  def a
+w cdca
+b
+w. da   a
+b
+0  aaa a
+0  aaa a
+0  aaa a
+b
+0  def a
+w
+b
+0  def a
+0  def a
+0  def a
+b
+0 dde  a
+w
+b
+0 dde  a
+0 dde  a
+0 dde  a
+b
+0cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+b
+0fda   a
+1cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+b
+0fda   a
+1cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+b
+
+b
+1 dde  a
+1      a
+1      a
+1  def a
+1  def a
+1      a
+b
+0  def a
+0 dde
+0 dde  a
+b
+0cdd   a
+wacd a
+b
+0cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+b
+0fda   a
+1cdd   a
+1cdd   a
+1cdd   a
+1cdd   a
+b
+1 dde  a
+1      a
+1      a
+1  def a
+1  def a
+1      a
+b
+0  def a
+0 dde
+0 dde  a
+b
+0 dde  a
+w cdca
+b
+b
+C
+w dde  a
+b
+0 aaac
+1 aaa  //a
+1 aaac
+b
+waa c d
+b
+
+b
+0 ce  c
+0   e
+b
+0 da c
+0acd a
+b
+0.aab  a
+1aab
+b
+0da   a
+0aab
+b
+1 ea c
+1a b
+0caa   //a
+b
+0aab  a
+0da   a
+b
+0fda   a
+0ffg a
+b
+0hd f d
+0fda   a
+b
+0ffg a
+1da a d
+1     a
+b
+1ce  c
+1df
+0caa   //a
+b
+0aac  a
+0 bd
+b
+0aa   a
+0 bd
+b
+1e f  a
+1f g
+0hff   6
+b
+
+b
+0fcd   ///a
+0acd a
+b
+1fcd a
+1    e
+1cdda
+1ed  c
+b
+1fcd a
+1 dd  c
+1 df  d
+#2 dd  c
+xacb  a
+b
+1cdd   a
+1aab  a
+1 dd  c
+#2adf  d
+xacd a
+b
+1cdd   a
+1 da c
+1acd a
+#2aa   d
+xc d  c
+b
+1da   a
+1c d  c
+1aab  d
+#2aba a
+x ea c
+b
+1aab  a
+1ca    b
+1da   a
+1cd  c
+b
+1a b d
+1 bd a
+1 aba d
+1 bbc  /a
+b
+
+b
+#2 df   a
+x bd
+#2 ad  a
+xa c
+1 cdca
+1 dd  c
+b
+1aab  a
+1ca    b
+1da   a
+1abb   /a
+b
+1 df  d
+1 bd a
+#2hd a
+xf
+#2aa c
+xe
+b
+1ffg a
+1 bdd b
+1aab  a
+1bdd   a
+b
+1dfg   /a
+1dff  a
+1bbd  b
+1 df  d
+b
+#2abb   /a
+xff
+1fda   a
+1ddf  d
+1acd a
+b
+1cdd   a
+1aac  a
+1acd a
+1 efec
+b
+1aab  a
+1cdd   a
+#2ddf  d
+x      4
+#2 dd   a
+xc
+b
+
+b
+1ddf  d
+1ddff
+1hh  g
+1da c
+b
+1ce  c
+1a b d
+1aa   e
+1ffg a
+b
+1eff  a
+1ddff
+1hh  g
+1da c
+b
+1ce  c
+1aab  a
+1ca    b
+1aab  a
+b
+1 ea c
+1aacc
+1abd a
+1cdda
+b
+1ddf  d
+1cbd a
+1 ea c
+1a b d
+b
+1aba a
+1caa c
+1da   a
+1ddf  d
+b
+1ca    b
+1aab  a
+1 ea c
+1aab  a
+b
+1ca    b
+1dff  a
+1ce  c
+1aacc
+b
+
+b
+1abd a
+1cdda
+1ddf  d
+1cbd a
+b
+1 ea c
+1a b d
+1aba a
+1caa c
+b
+1da   a
+1acd
+1bdda
+1ddb
+b
+1dfg d
+1ba a
+1aacc
+1 bdd
+b
+1bada
+1aa c
+1abd a
+1 daa
+b
+1 df  d
+1 ea c
+1aab  a
+1 cdca
+b
+1 da a a
+1 cbc a
+1  eeec
+1 a a d
+b
+1 ab ea
+1cc e c
+1ca ac
+1aab  a
+b
+1 cdca
+1 da a a
+1 df  d
+1aac  a
+b
+
+b
+1acd a
+1cdd   a
+1 df  d
+1aac  a
+b
+1acd a
+1ccd  c
+1ce  c
+1ea c e
+b
+1ef  e
+1fc   c
+1cd  c
+1ea   a
+b
+1ffh a
+1fhi   a
+1ddf  d
+1dfg   /a
+b
+1bbd  b
+1fda   a
+1da   a
+1ffg   /a
+b
+1cdd   a
+1dab  a
+1dfd   /a
+1fdd   a
+b
+1ddf  d
+1ea   a
+1ffg a
+1fdaa
+b
+1dd  c
+1dfg d
+1cb  a
+1cd  c
+b
+1aa   d
+1acd a
+1fd e c
+1ddf  d
+b
+
+b
+1edf  a
+#2fc   c
+xe
+1cdd   a
+1aa c a
+b
+0acd   ///a
+0    a
+b
+b
+0.cd    a
+1      a
+0ac  a
+b
+1 da c
+0     c
+1     d
+0 c ca
+b
+1cd    a
+1      a
+1df
+1cd    a
+0ac  a
+b
+1 da c
+1     c
+1a b
+1 da  d
+0 c ca
+b
+1 da   a
+1      a
+1cd
+1      a
+0ac  a
+b
+1 da c
+0     c
+1 d c d
+0 c ca
+b
+1 da   a
+1      a
+1cd
+1      a
+0ac  a
+b
+
+b
+1 da c
+0     c
+1 d c d
+0 c ca
+b
+1 da   a
+1      a
+1 ab
+1 da   a
+0 c ca
+b
+1 d ac
+1     c
+1 ab
+1 da  d
+1 d ca
+1 c
+b
+1 da   a
+1      a
+1 ab
+1 da   a
+0 c ca
+b
+1 d ac
+1     c
+1 ab
+1 da  d
+1 d ca
+1 c
+b
+1 da   a
+0      a
+1 aa   a
+0 c ca
+b
+1 d ac
+0     c
+1ca   d
+0ac  a
+b
+1cd    a
+0      a
+1      a
+0ac  a
+b
+
+b
+1  a c
+0     c
+1 aa  d
+0 c ca
+b
+1 da   a
+0      a
+1ca    a
+0ac  a
+b
+1 d  c
+1     c
+1c
+1     d
+0ac  a
+b
+1cd    a
+0      a
+1      a
+0fc  a
+b
+1cd  c
+0     c
+1     d
+0ac  a
+b
+1cd    a
+0      a
+1      a
+0fc  a
+b
+1cd  c
+0     c
+1aa   d
+0ac  a
+b
+1cdd   a
+0      a
+1      a
+0acd a
+b
+1 da c
+0fc   c
+1d    d
+0a d a
+b
+
+b
+1cdd   a
+0      a
+1      a
+0acd a
+b
+1 d  c
+0f    c
+1da   d
+0ac  a
+b
+1cd    a
+0      a
+1da    a
+0ac  a
+b
+1 d  c
+0f    c
+1hd   d
+0fc  a
+b
+1fda   a
+0      a
+1      a
+0 c  a
+b
+1 d  c
+1     c
+1d
+1c    d
+0ac  a
+b
+1cd    a
+0      a
+1      a
+0 c  a
+b
+1 d  c
+1     c
+1a d
+1 d   d
+1 d ca
+1 c
+b
+
+b
+1 d    a
+1      a
+1c d
+1      a
+0 c  a
+b
+1 d  c
+1     c
+1d
+1c    d
+0ac  a
+b
+1cd    a
+0      a
+1      a
+0 c  a
+b
+1 d  c
+1     c
+1a d
+1 d   d
+1 d ca
+1 c
+b
+1 da   a
+0      a
+1      a
+0ac  a
+b
+1 d  c
+1fd   c
+1
+1c    d
+1ac  a
+1d
+b
+1cd    a
+0      a
+1      a
+0ac  a
+b
+1 d  c
+1fd   c
+1
+1c    d
+1ac  a
+1d
+b
+
+b
+1cd    a
+1      a
+1cd
+1      a
+0acd a
+b
+1 da c
+1f    c
+1d
+1c    d
+0ac  a
+b
+1cd    a
+0      a
+1da    a
+1cc  a
+1a
+b
+1 d  c
+0     c
+1 aba d
+0 cdca
+b
+1fda   a
+0      a
+1      a
+0 c  a
+b
+1cd  c
+0     c
+1aa   d
+0ac  a
+b
+1cd    a
+1      a
+1fda
+1      a
+0 c  a
+b
+1cd  c
+0     c
+1 a   d
+0ac  a
+b
+
+b
+1cd    a
+0      //a
+1      //a
+0  e  c
+b
+1 df  d
+1      a
+1ac
+1 df  a
+0cc e c
+b
+1cdf   //a
+1      //a
+1 da
+1      //a
+0  e  c
+b
+1 df  d
+1      a
+1ac
+1 df  a
+0cc e c
+b
+1 df   //a
+1      //a
+1hda
+1      //a
+0fc   c
+b
+1 df  d
+0      a
+1dcf  a
+0cce  c
+b
+1cdf   //a
+1      //a
+1hda
+1      //a
+0fc   c
+b
+1ddf  d
+0      a
+1dcf  a
+0cce  c
+b
+
+b
+1cdf   //a
+1      //a
+1 dfe
+1      //a
+0 ce  c
+b
+1 a a d
+1      a
+1 dfe
+1     a
+0  e  c
+b
+1 a    //a
+1      //a
+1cdf
+1      //a
+0  e  c
+b
+1 df  d
+0      a
+1ddf  a
+1ccf  c
+1  e
+b
+1cdf   //a
+1      //a
+1 dfe
+1      //a
+0 ce  c
+b
+1 a a d
+1      a
+1cdf
+1     a
+0  e  c
+b
+1 a    //a
+1      //a
+1 aaa
+1      //a
+0  e  c
+b
+1 aa  d
+0      a
+1ddd  a
+0cc e c
+b
+
+b
+1 aaa  //a
+1      //a
+1cdf
+1      //a
+0cce  c
+b
+1 df  d
+0      a
+1 dfg a
+0 ce  c
+b
+1 dfe  //a
+1      //a
+1 dda
+1  c   //a
+1 ce  c
+1c
+b
+1hd f d
+1      a
+1cdf
+1     a
+0cce  c
+b
+b
+C
+0cdf   //a
+0cd  c
+b
+0ddf  d
+0ddf   4
+b
+0ddf  d
+0ddf   4
+b
+0ddf  d
+0hf   a
+b
+0fcd a
+0cd
+b
+0add a
+0acd   ///a
+b
+Ycdd   7
+b
+b
+
+e

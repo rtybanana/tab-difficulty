@@ -1,0 +1,171 @@
+-C
+-t
+-f
+{29b. Las, il faudra/29b. Las, il faudra}
+b
+c
+0  def
+#2  def
+x    e
+x    c
+x    a
+b
+#2 ab  d
+x  a
+x  b
+x  d
+1  bcd
+1  d
+b
+#2 aa c
+x    a
+x    c
+x    e
+#2 df c
+x    e
+x   a
+x   c
+b
+#2 dda
+x c
+x d
+xa
+1 dda
+1 cd a
+b
+1 aa c
+1   a
+#2 a ac
+x   c
+x  a
+x  b
+b
+
+b
+#2  dca
+x  a
+1 ab  d
+#2    c
+x  a
+x  bc
+x   a
+b
+1  dca
+1  dca
+1  aa
+1  d
+b
+1   a
+1  de
+0 a ac
+b
+1 abc
+1 c
+1 dda
+1   a
+b
+#2 df c
+x     e
+x    a
+x    c
+1ac  a
+1 cd a
+b
+1 dda
+1 a   d
+#2 d a
+x  d
+x  b
+x  a
+b
+#2 abc
+x  a
+x  b
+x  d
+#2 aa c
+x    a
+x    c
+x    e
+b
+1 df c
+1    e
+1 dda
+1 d a
+b
+
+b
+1 cd a
+1  b a
+1 aa c
+1 df  d
+b
+1  da
+1 abc
+1 aa c
+#2  da
+x  b
+b
+#2  de
+x a   d
+x  d c
+x    a
+1   ac
+1  c
+b
+Y  dca
+b
+.
+0  def
+#2  def
+x    e
+x    c
+x    a
+b
+#2 ab  d
+x  a
+x  b
+x  d
+1  bcd
+1  d
+b
+#2 aa c
+x    a
+x    c
+x    e
+#2 df c
+x    e
+x   a
+x   c
+b
+
+b
+#2 dda
+x c
+x d
+xa
+1 dda
+1 cd a
+b
+1 aa c
+1   a
+#2 aa c
+x   c
+x  a
+x  b
+b
+#2  dca
+x  a
+1 ab  d
+#2    c
+x  a
+x  bc
+x   a
+b
+1  dca
+1  dca
+Y  aa
+.
+b
+b
+
+e

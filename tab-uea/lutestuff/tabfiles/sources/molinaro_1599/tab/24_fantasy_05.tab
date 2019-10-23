@@ -1,0 +1,664 @@
+-C
+-t
+-f
+{24. Fantasy 5/Simone Molinaro}
+b
+c
+0 a
+0 a
+b
+0 c
+0 a
+b
+0 c
+0 d
+b
+0a  c
+0   c
+b
+0 da
+#1 c c
+x a
+b
+0  de
+0 ac
+b
+0 cd
+#1f c
+x  a
+b
+#1  d
+xe
+0ca
+b
+#1  c
+xa
+0a d
+b
+0  a c
+0 e  c
+b
+0a  ce
+#1 da c
+x  c
+b
+
+b
+0 cd e
+1   a
+#2  c
+x  a
+b
+0 acc a
+#1     a
+x   a
+b
+0  d ec
+0  cc a
+b
+0  da c
+0 a   e
+b
+0a  cef
+0a d e
+b
+#1c  a
+x a
+0ac  e
+b
+0ca a
+0e  c
+b
+1f de
+#2 a
+x c
+1 d
+#2e c
+xc
+b
+0acd
+0fh e
+b
+#1e  g
+x f
+#1 f
+x   h
+b
+
+b
+1c f c
+#2 e
+x c
+#2 f
+x e
+#3 fd
+x e
+x c
+x e
+b
+#2a c e
+x  a
+x  c
+x  d
+#2 df c
+x   e
+x   e
+x  c
+b
+#1 cd ec
+x  a
+#2   a c
+x  c
+1  d
+b
+#1  cc e
+x    c
+#1  da c
+x    e
+b
+#1 a  ce
+x   c
+#1 c  a
+x  de
+b
+#1   bc
+x  cc
+#1  a   /a
+x   b
+b
+0  cc a
+#1 a c
+x   c
+b
+#1 a a
+x    c
+#2 c  a
+x    c
+x    e
+x   a
+b
+
+b
+1 a c
+#2  a
+x  c
+#1 cd
+x  a
+b
+#1 d
+x  f
+#1a c
+x  d
+b
+#2f
+x  c
+x  a
+x   c
+#2f  a
+x   c
+x   e
+x   a
+b
+#1e  c
+x f
+#1fc
+x d
+b
+#1ea
+x c
+#1c d
+x a
+b
+#2a cc
+x  a
+x  c
+x  d
+#1 a c
+x c
+b
+#1 da
+x c
+2   c
+#3 a
+x  d
+1  c
+b
+
+b
+#2  de
+x  a
+#3  c
+x  a
+x  c
+x  d
+#2 ac
+x c
+x d
+x a
+b
+#3 cd
+x a
+x c
+x d
+#2ac
+xa
+#2ca
+xa
+xc
+xe
+b
+#1f d
+x  d
+#2ea c
+x  d
+x a
+x c
+b
+1cda
+#2 c c
+x a
+#1  de
+x ac
+b
+#1acd a
+x    a
+#1  c c
+x  a a
+b
+#1    c
+x   ce
+#2  aa
+x  c
+x  de
+x  a
+b
+#1 acc
+x a
+#1 c ca
+x a   e
+b
+
+b
+#1 cd  c
+x e
+1aac  a
+#2  c
+x  c
+b
+#1  aa
+x  d e
+#1   a
+x  c c
+b
+1  d a
+#2a d
+xa
+#1cd
+xac
+b
+#1cd
+xea
+1f d
+#2ea c
+x a
+b
+#1acd
+x ac
+#1acd
+xcea
+b
+1ef c
+#2h
+xh
+1e
+#2 f
+x f
+b
+1fc
+#2cd
+x d
+1ea
+#2acd
+x  d
+b
+
+b
+1cda
+#2 dff
+x   f
+1ac c
+#2 cde
+x   e
+b
+1 dfa
+#2 acc
+x   c
+1 cd e
+#2  def
+x    f
+b
+1 ac c
+#2  cce
+x    e
+1  dea
+#2  abc
+x    c
+b
+1  cc a
+#2 a
+x a
+1  c
+#2   c
+x   c
+b
+1  d e
+2   a
+#3  a
+x  c
+#2  d
+x a
+x c  e
+x   c
+b
+#2 a a
+x  c
+x  d e
+x   a
+1  cc
+#2a
+xa
+b
+
+b
+1 cd a
+#2   c
+x   c
+#2  def
+x  a
+x  d
+x a
+b
+#2 cd e
+x    a
+x    e
+x   a
+#2 acc
+x     a
+xa    e
+x    a
+b
+#2 da c
+x    e
+x   a
+x   c
+#2 cde
+x    e
+x    e
+x   a
+b
+#2 acc
+x    c
+x    c
+x    e
+#2  def
+x  a
+x  dce
+x a ac
+b
+#2 c ca
+xa
+xa d
+xa
+#2 c
+x  c
+x da
+x  c
+b
+
+b
+#2 cd
+x    a
+x  d a
+x    a
+#2  c e
+x  d
+x a a
+x c c
+b
+#2 da
+x    c
+x  a c
+x  c c
+#2 cde
+x     c
+xc    c
+x     c
+b
+#2a c e
+x  d
+x daa
+x  c c
+#2 cd a
+xf
+xf
+xf
+b
+#2e    a
+x f
+x f
+x f
+#2cd  c
+x  f
+x  f
+x  f
+b
+#2 cde
+xc
+xc
+xc
+#2a c e
+x c
+x cd a
+x c
+b
+
+b
+#2 acc
+xh
+xh
+xh
+#2f    c
+x   e
+x   e
+x   e
+b
+#2e  c
+x    e
+xa   e
+x    e
+#2c  a
+x d
+x d  c
+x d
+b
+#2 c  e
+x    a
+x    a
+x    a
+#2  cc
+x    e
+x  aa
+x    c
+b
+#2   ce
+x  a
+x  c c
+x  d e
+#2 a a
+x c c
+x da
+x ac
+b
+#2 cd
+xa
+xc
+xea
+#2fc
+xcd
+xef
+x c
+b
+
+b
+#2cd
+x a
+xac
+x  d
+#2 df
+x  c
+x cd
+x  a
+b
+#2 ac
+x   c
+x  d e
+x   a
+#2  cc
+xa
+x ca
+x d
+b
+#2a c
+x  d
+x da
+x  c
+#2 cd
+xa
+xc
+xa c
+b
+#2 da
+x c c
+x da
+x c c
+#2 a a
+x  d e
+x a a
+x  d e
+b
+#1  c c
+x  d a
+#1  d c
+x  c
+b
+1  d a
+#2f
+x    c
+#2f   e
+x    a
+xf   e
+x   a
+b
+
+b
+1e  c
+#2 f   a
+x     c
+#2 f   e
+x     a
+xef   e
+x    a
+b
+1cd  c
+#2  f
+x    e
+#2  fa
+x    c
+x  fa
+x   c
+b
+1  de
+#2c    c
+x     e
+#2c   a
+x     c
+xc d a
+x    c
+b
+1a c e
+#2 cd a
+x    c
+#2 cd e
+x    a
+x cd e
+x   a
+b
+1 acc
+#2h a  h
+x    e
+#2h   f
+x     h
+xh a f
+x    h
+b
+1f de
+#2ea c
+xc
+#2ac  e
+xc
+xa   e
+x d  c
+b
+
+b
+1 c  a
+#2  d
+x    c
+#2  d e
+x    c
+x cd e
+x   a
+b
+1 acc
+#2a
+x  aa
+#2a c e
+x  d
+x da c
+x  c
+b
+#2 cde
+xc
+xf
+x     c
+#2    e
+x c
+xef
+x    e
+b
+#2cd a
+x  a
+x  d
+x a
+#2ac  a
+x   c
+x  d
+x    e
+b
+#2   c
+x a
+xa c
+x d
+#2 cd a
+xa
+xf
+x     c
+b
+
+b
+#2    a
+x c
+xef   a
+x  c
+#2cdf c
+x   e
+x cd  c
+xc
+b
+#2 ac  e
+xa
+xa
+x    a
+#2  fec
+x e
+#3 f
+x e
+x c
+x e
+b
+#2aa c a
+xh
+xe
+x  f h
+#2  h e
+x h
+x f g
+x    c
+b
+#2  d a
+x d
+x c c
+x a   e
+2 cd a
+#3  a
+x  c
+#3  d
+x a
+x c
+x e
+b
+Yaacc a
+b
+b
+
+e

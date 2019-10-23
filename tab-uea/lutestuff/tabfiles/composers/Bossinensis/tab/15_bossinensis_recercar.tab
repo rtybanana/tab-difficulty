@@ -1,0 +1,281 @@
+-C
+-t
+-f
+{Ricercar 15/Ricercar 15}
+b
+c
+1 d a
+1     d
+#2 d a
+x    d
+#3   a
+x    d
+x    c
+x    a
+b
+1 d   d
+1  b
+1 bdca
+#2 d
+xa
+b
+#2 d
+x b
+#3 d
+x b
+x a
+x  d
+#2 ab  d
+x  d
+x  b
+x  a
+b
+#2  b
+x  d
+x a
+x c
+#2 df  d
+x c
+x d
+x f
+b
+
+b
+#2c  a
+xa
+xc
+xd
+#2f  a
+xd
+xc
+xaU
+b
+#2a
+xc
+#3d
+xc
+xa
+xc
+#2d bc
+xc
+#3d
+xc
+xa
+x d
+b
+#2a b d
+x d
+x b
+x a
+1 b ca
+#3 d
+x b
+x a
+x b
+b
+#2 d
+x b
+#3 d
+x b
+x a
+x  d
+#2 ab  d
+x     c
+x     d
+x    a
+b
+
+b
+#2  b c
+x    a
+x    c
+x    d
+1  aa
+#3   c
+x   a
+x    e
+x    c
+b
+#2    a
+x    c
+x    d
+x   a
+#2   c
+x   a
+#3   c
+x   a
+x    d
+x    c
+b
+#2  a a
+x  b
+x  d
+x a
+#2  d d
+x  b
+x  a
+x   c
+b
+#2  ba
+x  a
+#3  b
+x  a
+x   c
+x  a
+#2  b  d
+x  d
+x a
+x c
+b
+
+b
+#2 db
+x c
+x d
+xa
+#2cd a
+xa
+xc
+xd
+b
+#2f  a
+xc
+#3d
+xc
+xa
+xc
+#2d bc
+xc
+xd
+xa
+b
+#2 ea c
+x c
+x e
+xa
+#2c
+xa
+xc
+x e
+b
+#2abbcd
+xc
+xd
+xf
+1h
+#3f
+xd
+xc
+xa
+b
+
+b
+#2c  a
+xa
+x d
+x b
+#2 ab  d
+x c
+x d
+xa
+b
+#2 d
+xa
+#3c
+xa
+x d
+xa
+1cdda
+#3a
+x d
+x b
+x a
+b
+#2c d
+x a
+x c
+x d
+#2a
+x d
+x b
+x a
+b
+#2ab
+x a
+#3 b
+x a
+x  d
+x  b
+#2cd a
+xd
+xf
+xd
+b
+
+b
+#2   a
+xc
+#3d
+xc
+xa
+xc
+#2d bc
+xc
+xd
+xaU
+b
+#2a   c
+x e
+#3a
+x e
+x c
+x e
+1abbcd
+1 dbac
+b
+2 b ca
+#3 d
+x b
+#3 d
+x b
+x a
+x  d
+1 ab  d
+1d
+b
+#2  da
+xc
+#3d
+xc
+xa
+xc
+#2da   d
+xc d
+xa b
+x  d
+b
+
+b
+#2    c
+x e
+#3a
+x e
+x c
+x e
+2aaccca
+#3 d
+x b
+#3 d
+x b
+x a
+x  d
+b
+waaccca
+b
+wab ca
+b
+Yaaccca
+b
+b
+
+e

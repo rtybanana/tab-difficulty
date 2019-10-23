@@ -1,0 +1,277 @@
+-C
+-t
+-f
+{42. Preambl in sol/Anonymous}
+b
+c
+w daa
+b
+#3   a
+x   c
+x  a
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+w daa
+b
+#3c
+xa
+x d
+x c
+#3 a
+x  d
+x  b
+x  a
+#3   c
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+wcaa c
+b
+
+b
+#3f
+xd
+xc
+xa
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+#3 c
+x a
+x  d
+x  b
+b
+#3  d
+x  b
+x  a
+x   c
+1c da
+#2da c
+xc
+xa b d
+xd
+b
+#2c da
+xa
+#3 da c
+xa
+xc
+x d
+#3   ca
+x d
+x c
+x a
+#2 d
+x c
+b
+#3 daa
+x c
+x d
+xa
+#3c da
+xa
+xc
+x d
+#3ac  a
+x d
+xa
+xc
+#3da c
+xc
+xd
+xa
+b
+
+b
+#3c da
+xa
+xc
+xd
+#3f de
+xd
+xf
+xc
+#3da c
+xc
+xd
+xa
+#3c da
+xa
+xc
+x d
+b
+#3ac  a
+x d
+xa
+x c
+#3 da c
+x c
+x d
+x a
+#3 c ca
+x a
+x c
+x  d
+#3 ab  d
+x  d
+x a
+x  c
+b
+#2  da c
+x ab  d
+x c ca
+x  da c
+#2 ab  d
+x c ca
+x da c
+x ab  d
+b
+#2 c ca
+x da c
+xa  ce
+x cd a
+#2 da c
+xa  ce
+xc da
+x da c
+b
+
+b
+#2a  ce
+xc da
+xda c
+xa d e
+#2c aa
+xda c
+xf de
+xc aa
+b
+#2d bc
+xf de
+xha f
+xd bc
+#3f de
+xd
+xc
+xa
+#3d
+xc
+xa
+x d
+b
+#3a
+x d
+x c
+x a
+#3 c
+x a
+x  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+1c da
+b
+1.da c
+2    d
+1da c
+b
+1.c da
+2    c
+1c da
+b
+1.a b d
+2    a
+1a b d
+b
+
+b
+1. da c
+2     d
+1 da c
+b
+1. c ca
+2     c
+1 c ca
+b
+1. ab  d
+2     a
+1 ab  d
+b
+1.  da c
+2     a
+1  da c
+b
+1 da c
+#3   ca
+x d
+x c
+x a
+#2 d
+x c
+b
+c
+#3 daa
+x   c
+x  a
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+xc
+xd
+xa
+#3f
+xd
+xc
+xa
+b
+
+b
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+#3 c
+x a
+x  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+w daa
+b
+b
+
+e

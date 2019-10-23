@@ -1,0 +1,62 @@
+-C
+-t
+-f
+{104. Ahi, chi tien lo mio cuore/104. Ahi, chi tien lo mio cuore}
+b
+1 d
+1  a
+2 abc
+#3   a
+x    e
+2    c
+#3a d
+x  b
+#2a a c
+x e
+1aac  a
+b
+#2aa c
+xcdda
+1ddff
+#2cdda
+xaabc
+1 ea c
+b
+2 aa c
+1  bcd
+2  bcd
+#2  dff
+x   e
+1ddf  d
+b
+#2
+xa bc
+x a
+x    c
+#2   a
+x  a
+xabb d
+xabd a
+1 ef c
+1aacc a
+b
+
+b
+#3   c
+x   a
+2ab  d
+#2 d  c
+x b  a
+#2  bc
+x  de
+1ddff
+1f  e
+#2fd  f
+xdf c
+b
+0cef c
+waac  a
+b
+b
+
+e

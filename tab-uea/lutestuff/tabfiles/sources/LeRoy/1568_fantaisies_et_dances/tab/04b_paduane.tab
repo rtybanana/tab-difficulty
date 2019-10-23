@@ -1,0 +1,121 @@
+-C
+-t
+-f
+{4b. Paduane (otherwise)/4b. Paduane (otherwise)}
+b
+1acd a
+b
+.
+1.acd a
+2acd {}
+1   c
+b
+1.acd a&{
+2acd
+1   c }
+b
+0.acd a
+b
+0   c
+1acd a
+b
+#2 cd a
+x a
+#2 c
+x d
+1a   a
+b
+1 c
+1 d  a
+1a
+b
+#2   a
+xa
+#2c
+xd
+#2f
+xd
+b
+#2c
+xa
+#2 d
+x c
+#2 a
+x  d
+b
+
+b
+1. ab  d
+2 ab  {
+1   a  }
+b
+1. ab  d&{
+2 ab
+1   a  }
+b
+0. ab  d
+b
+1.   a
+2a
+1 d
+b
+1. cd a
+2 a
+1  d
+b
+1.aac  a
+2  d
+1aac  a
+b
+0acd a
+1   c
+b
+1. cd a
+2 d
+1 c  a
+b
+1. ab  d
+2 ab  {
+1   a  }
+b
+1. ab  d
+2 ab  {
+1   a  }
+b
+0 ab  d
+1   a
+b
+
+b
+#2     d
+x  a  {
+#2  b
+x  d
+1 a a
+b
+#2 cd a
+x a  {
+#2 c
+x d   }
+1 cd a
+b
+#2aac  a
+x  a  {
+#2  c
+x  d   }
+1aac  a
+b
+0.acd a
+b
+A1
+0   c
+1acd a
+.
+b
+b
+A2
+Y.   c
+b
+b
+
+e

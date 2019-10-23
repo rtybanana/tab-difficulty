@@ -1,0 +1,473 @@
+-C
+-t
+-f
+{8. Ne doibt on prendre/8. Ne doibt on prendre}
+b
+c
+0    c
+1    e
+1    c
+b
+0   c
+0   ac
+b
+1   ce
+1  b c
+1   c
+#2  a
+x   c
+b
+0 aaa
+1 c c
+1 abc
+b
+1a
+#3  d
+x  b
+x  a
+x   c
+0 da c
+b
+1a  c
+1d
+#2   c
+xd
+xc  a
+xa   e
+b
+1c  ac
+#2   a
+x   c
+1  aa
+1a bc
+b
+
+b
+#2  bc
+xa
+x d
+x c
+#2  bc
+x a
+x  aa
+x   cd
+b
+#2 da c
+xa
+1c  a
+1d  c
+1c da
+b
+#2c bc
+xa
+#3c
+xa
+x e
+xa
+#3  a c
+xa
+x e
+x c
+#2a
+x e
+b
+1a  c
+1   c
+1a
+#2   a
+x    e
+b
+1  b c
+1 a c
+1 cd a
+#3 d
+x c
+x a
+x c
+b
+0 df  d
+1a b
+1  d a
+b
+1 c
+1 da c
+1  b
+1 a   a
+b
+
+b
+1 c ca
+1  a
+1  da
+1 d
+b
+1  b c
+1 a c
+#2a  c
+x   a
+x  d e
+x    c
+b
+1 c  a
+1c a c
+1  b
+1a   e
+b
+1c aa
+#2  a c
+x  b
+1c d
+#2aa  c
+x d
+b
+#3 c e
+x a
+x  e
+x  c
+#3 a
+x  e
+x  c
+x  e
+1 ab
+#2 a c
+x c
+b
+1 daa
+1a bc
+#2a d
+x d
+x cd a
+x ab
+b
+
+b
+#2  def
+x   c
+x  da
+x a
+1 c ca
+1 da
+b
+#2 d ac
+x c
+1 a a
+#3    e
+x a
+x  e
+x  c
+#2 a
+x  e
+b
+1 ab c
+#2  a c
+x    e
+#2  aa
+x   c
+x  aa
+x    e
+b
+#2c aa
+x  b
+1  d
+1a bc
+#3  d
+x  b
+x  a
+x   c
+b
+1c  ac
+1d  c
+#2  b
+xd
+xc  a
+xa   e
+b
+#2 da c
+x c
+x d  c
+xa   e
+1c  a
+1d bc
+b
+
+b
+#3  da
+xd
+xc
+xa
+#3d
+xc
+xa
+xc
+1d bc
+#2c  a
+xa   e
+b
+#2 db c
+x  d
+x df
+xac
+1cd
+#3ac  a
+x a
+x c
+x d
+b
+#2 c
+x a
+#3 a  c
+x c
+x d
+x a
+#3    e
+x a
+x  e
+x  c
+#3 a
+x  e
+x  c
+x  e
+b
+#2 a  c
+x    a
+x    c
+x    e
+#2  aa
+x   c
+1  a c
+b
+#2    c
+x    e
+x a a
+x   c
+1 da c
+1a bc
+b
+
+b
+1c aa
+#2c d
+xa
+#2c d
+xd b
+xf aa
+x   c
+b
+#2f  a
+xd  c
+xc aa
+xa
+1 da c
+#2 db
+xa
+b
+1c d
+1da c
+#3f
+xd
+xc
+xa
+1c da
+b
+1 a  c
+#2 a c
+x  d
+#3 a
+x  d
+x  b
+x  a
+1 c ca
+b
+1 abc
+#3a d a
+x  b
+x  a
+x   c
+#3  a c
+xa
+x e
+x c
+#3a
+x e
+x c
+x e
+b
+Ya  c a
+b
+b
+
+b
+0da c
+0da c
+b
+0da c
+1dc c
+#3 d
+x c
+x a
+x c
+b
+1cd a
+#3d
+xc
+xa
+xc
+1da c
+1c   c
+b
+#3a b d
+x  a
+x  b
+x  d
+#2  b
+x  d
+1 d  c
+1c da
+b
+#3d
+xc
+xa
+xc
+1a bc
+#3   e
+xa
+x e
+x c
+#3a
+x e
+x c
+x e
+b
+
+b
+0a  c
+1d  c a
+#3f
+xd
+xc
+xa
+b
+#2c   c
+xa
+x d
+xc
+1a bc
+#3  d
+x  b
+x  a
+x   c
+b
+0 da c
+#3d  c a
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+1c   c
+1   a
+1a bc
+#3  d
+x  b
+x  a
+x   c
+b
+1 da c
+#2c aa
+x  b
+1  d
+#2a   e
+x d  c
+b
+
+b
+#3 c e
+x a
+x  e
+x  c
+#2 a
+x  e
+0 a  c
+b
+1   ce
+1   c
+1 daa
+1    c
+b
+1a bc
+#3a
+x d
+xa
+xc
+1d  c
+1 a
+b
+1c   c
+1  da
+1ab  a
+1 d  c
+b
+1  bc
+1d
+#3  da
+xd
+xc
+xa
+#2d
+xc
+b
+1d bc
+#3c da
+xa
+xc
+xd
+#2ca
+xd
+1a bc
+b
+0 da c
+1d  c
+1c da
+b
+
+b
+#2c   c
+xa
+1a bc
+1  a c
+1 e
+b
+1a  c
+1d  c
+1ca  c
+1ac c
+b
+1fd a
+#2 d
+x c
+1da c
+1c de
+b
+#2cab
+xa
+#3c
+xa
+x e
+xa
+#3  a c
+xa
+x e
+x c
+#3a
+x e
+x c
+x e
+b
+Ya  c a
+b
+b
+
+e

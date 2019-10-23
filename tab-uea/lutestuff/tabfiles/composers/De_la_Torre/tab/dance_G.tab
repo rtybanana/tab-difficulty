@@ -1,0 +1,300 @@
+-C
+-t
+-f
+{Danza/Danza}
+b
+S3
+#2    d
+x   a
+b
+1.a  c a
+#3 d
+x b
+2 b
+#3 a
+x  d
+b
+1. a c a
+2 b
+#2 a
+x  d
+b
+#2  b ca
+x   c
+2  a
+1  d
+2  c
+b
+1.  dca
+2. b
+3 a
+#3 b
+x d
+b
+2.ab  a
+3 d
+2 b
+#3 a
+x  d
+#3 a a d
+x  d
+x  b
+x  a
+b
+
+b
+#2   ca
+x  d
+2    ca
+#3  c
+x  a
+1  c
+b
+1.  dca
+1 b
+2 a
+b
+2  dca
+#3  b
+x  a
+#3   c
+x  a
+x  b
+x  d
+#3   c
+x  a
+x  b
+x  d
+b
+1.  aac
+2 a
+#2     c
+x  d
+b
+#2  bc a
+x b
+#2 a
+xa
+2    a
+#3 \3d
+x \1b
+b
+#2 a\1b  \2d
+xa
+#2 \3d
+x\4d
+2  \2d   a
+#3\1c
+xa
+b
+
+b
+#2\2c \1b  a
+xa
+2  a   /a
+#3 e
+x c
+1 e
+b
+1.aa c a
+1d
+#3c
+xa
+b
+2a bc
+#3 d
+x b
+#2 a
+xa
+#2    c
+x d
+b
+#3 bd a
+x a
+x b
+x d
+2a
+2.f
+3d
+#3c
+xa
+b
+1c  a
+#2 d  c
+xd
+2c
+#3a
+x d
+b
+#2 b ca
+x  d
+#2 a   a
+x d   c
+#2     d
+x c  a
+b
+
+b
+1. d a  a
+2f
+2c  a
+#3a
+x d
+b
+2 b\2d  b
+#3 \3d
+x \4f&{
+#2b
+x f
+#3b
+x f&}
+x \3d
+x b
+b
+1 a\2c\1c
+#2     a
+xa
+#2    c
+x d
+b
+#3 b  a
+x  d
+x b
+x d
+2a
+2.f
+3d
+#3b
+xa
+b
+#2b  a
+xd
+2h     a
+1f
+#3d
+xb
+b
+
+b
+2ab  a
+2.d
+3b
+#3a
+x d
+#3a   d
+x d
+x b
+x a
+b
+#3  \4d  b
+x a
+x \2b
+x \4d
+#2  d
+x d
+2 b
+#3 a
+x  d
+b
+1.  bcd
+2. b
+3 a
+#3 b
+x d
+b
+2a  ca
+1 b
+1a
+#3 d
+x b
+b
+2 d ac
+1 a
+1 d
+#3 b
+x a
+b
+2 a ac
+#3  d
+x  b
+#2   d
+x   c
+#2   d b
+x  d
+b
+
+b
+#3  bc a
+x  d
+x a
+x b
+#2  b
+x b
+#2 a
+xa
+b
+#3  bc
+x d
+xa
+xc
+2d
+#3c
+xa
+#3c da
+xa
+x d
+x b
+b
+#2 abc
+xa
+2  a c
+#3 e
+x c
+1 e
+b
+1.aa c a
+1 b
+#3 a
+x  d
+b
+#3 a a \3d
+x  \1b
+x  \4d&{
+x a
+2 bd a
+#3 a
+x  d&}
+1  b ca
+b
+#2   ca
+x b
+#2 a a d
+x  d
+#2  bc a
+x b
+b
+
+b
+#3   ca
+x d
+2a
+2   c a
+#3 d
+x b
+#3 a a d
+x  d
+x  b
+x   d
+b
+#2   ca
+x  d
+2    ca
+#3  c
+x  a
+1  c
+b
+Y  dca
+b
+b
+
+e

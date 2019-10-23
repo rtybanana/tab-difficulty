@@ -1,0 +1,199 @@
+-C
+-t
+-f
+{17. Volte/Daniel Bacheler}
+b
+1.fh a  a
+2h
+1f
+b
+1.c da
+#3a
+xc
+1 d
+b
+1.hi f
+2i
+1h
+b
+0fh a
+1cd
+b
+0fc  a
+1cd  c
+b
+1.ff  e
+2d
+1c  a
+b
+#2d
+xc
+#2a   a
+x d
+1a d
+b
+1 d a
+0      a
+b
+b
+1.f da  a
+2  f
+1  d
+b
+1.   e
+#3   c
+x   e
+1   a
+b
+
+b
+1.h  f
+#3d
+xf
+#2h
+xd
+b
+1f  a
+1c
+1 d
+b
+0fc  a
+1cd  c
+b
+1.ff  e
+2d
+1cd a
+b
+#2d
+xc
+#2a   a
+x d
+#2a
+x c
+b
+1 dda
+1      a
+1d
+b
+b
+0ddef
+1f  e
+b
+1.g  f
+2i
+1g
+b
+0.f  a
+b
+1. d
+2a
+1b
+b
+0.dbb d
+b
+0.bdd   a
+b
+0.acd a
+b
+
+b
+0      //a
+1f
+b
+1.f   a
+2d
+1b   c
+b
+0a   e
+1 d a
+b
+1. c  a
+#3 a
+x c
+#2 d   d
+xa
+b
+1b
+1.ad ca
+#3 d
+x c
+b
+1 d a
+1      a
+1 d
+b
+0 dda
+1d
+b
+b
+0ddef
+1f  e
+b
+1.g  f
+#3f
+xg
+#2i
+xg
+b
+1.fd a  a
+2d
+#2b
+xa
+b
+
+b
+#2 d
+x c
+#2 d
+xa
+#2b
+x d
+b
+1d   d
+1f
+1d
+b
+1b  a  a
+1a
+1 d
+b
+0acd a
+1      //a
+b
+1.  d
+#3 a
+x c
+#3 d
+xa
+xb
+xd
+b
+1.f
+2d
+1b   c
+b
+0a   e
+1 d a
+b
+1. c "# a
+#3 a
+x c
+#2 d   d
+xa
+b
+1b  a
+1.ad ca
+#3 d
+x c
+b
+1 d a
+1      a
+1 d
+b
+
+b
+0. dda
+b
+b
+
+e

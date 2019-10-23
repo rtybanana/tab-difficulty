@@ -1,0 +1,178 @@
+-C
+-t
+-f
+{3. Can she disdain/3. Can she disdain}
+b
+C
+1 ea c
+#2 ea c
+x    a
+1     e
+1aac
+b
+1 a
+1ea   a
+1fcd a
+1a
+b
+1.aa   e
+2 ac
+#2 cd  c
+x  f
+#2 cd
+x e e
+b
+1aac  a
+1   c
+0     a
+b
+1 efec
+#2 ef
+x ef
+1 ef c
+1 ac  a
+b
+1. ce  c
+2  f
+1  feec
+1  e
+b
+0 aa c
+0 aa
+0      /a
+b
+
+b
+0 ac  a
+1. ac  a
+2a
+1 ef c
+1      /a
+b
+0aac  a
+0   c
+0     a
+b
+0.acdca
+1acd
+0aa c a
+b
+1 cd  c
+1     e
+1 cd a
+1 d  c
+1 cc
+1    e
+b
+0 ce  c
+0  a
+0     c
+b
+1 ac
+1     e
+1 cd  c
+1 e
+1aa c
+1     a
+b
+1    c
+1aa
+1 ef   /a
+1  d
+0aaccca
+b
+0acd a
+0ac
+1 cc e
+1  e
+b
+
+b
+1 ef c
+1 c
+1 ef
+1a
+1    c
+1 ed
+b
+1     a
+1aac
+1   c
+1  d
+0aaccca
+b
+c
+0
+0 cd a
+b
+.
+1 cd  c
+1 e
+1aa c
+1     a
+b
+1 ef c
+1   e
+0    c
+b
+1aac  e
+1aac  a
+0aa c
+b
+1ea c
+1c ab
+1a cc
+1     a
+b
+1 e ec
+1  f
+1aa   e
+1aa   a
+b
+1. ef c
+2 ef
+#2 a    /a
+x  a
+#2   b
+x   c
+b
+
+b
+1 aab
+1    c
+1 a c
+1 acc
+b
+1a c e
+1a  ce
+1 c ca
+1 cd
+b
+1 cd
+1     c
+1   ce
+1ef  e
+b
+1a    e
+1aa   e
+1 ef c
+1 ef
+b
+1aa c
+1a  ce
+1aa  c
+#2 ef   /a
+x  d
+b
+A1
+0aaccca
+0 cd a
+.
+b
+b
+A2
+waaccca
+b
+b
+
+e

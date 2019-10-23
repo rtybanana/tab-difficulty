@@ -1,0 +1,638 @@
+-C
+-t
+-f
+{/}
+b
+0 cdc  ///a
+1    a
+b
+1 a c e
+0 cdca
+b
+1 cd  c
+0aac  a
+b
+0. cdc  ///a
+b
+0.
+b
+0.
+b
+0.
+b
+0
+1 cdc  ///a
+b
+1aac  a
+1 ac  a
+1 ac  a
+b
+0 ac  a
+#2aac  a
+x     c
+b
+0aa   e
+1aa   e
+b
+0 cdca
+1ac  a
+b
+1aaa c
+1 e
+1ce  c
+b
+0ea c
+1ea c
+b
+
+b
+0aacc
+1aac  a
+b
+0aa\2c&{\1c
+1 \4ed&}\3e
+b
+0aac\1c&{
+1aacc
+b
+0a\2c&{\3dc
+1ac&}d a
+b
+1 \4daa
+1 acc
+1aac  a
+b
+0. cdca
+b
+0 cdc  ///a
+1ac  a
+b
+0aa   e
+1fc  a
+b
+1fc   c
+1ea   a
+1   c
+b
+#2\4f\1c  a
+x  a
+#2   \1c
+x   a
+#2    \3e
+x    \1c
+b
+0ac  a
+1  d
+b
+0aac
+1acd
+b
+1 dde
+1aa\2c\1c
+1     a
+b
+
+b
+0 cdca
+1 cd a
+b
+1aacc
+1aacc
+1aacc
+b
+0aacc
+1 ede
+b
+0aacc
+1 aab
+b
+1 a\2cc
+#2  {  a
+x  d&}  \1c
+1 a \1c&{ \3e&(
+b
+#2aa c e
+x    a
+1 \3e\4f \1c
+1  \2d
+b
+#2aacc
+x  a
+#2   c
+x   a
+#2    e
+x    c
+b
+b
+0 cdca
+1    a
+b
+0aa   e
+1acd a
+b
+1 cd  c
+1aac  a
+1   c
+b
+
+b
+#2ac  a
+x  a
+#2   c
+x   a
+#2    e
+x    c
+b
+0 cdca
+1 cdca
+b
+0 a c e
+1 cdca
+b
+1 dd  c
+0aac  a
+b
+0 cdc  ///a
+1ac  a
+b
+0aac  a
+1 acc
+b
+0 acc
+#2aacc
+x  a
+b
+1aac
+1   c
+1ca b
+b
+1.\4e\2c \1c
+2\1c\4e\2d\3e
+1aa\1c
+b
+#2aa   e
+x    a
+1 ea c
+1      //a
+b
+0aac  a
+1   c
+b
+1.\4e\2c \3d
+2   \1b
+1e  \2d\3e
+b
+
+b
+1.fca
+2   c
+1c da
+b
+1.a d e
+2    c
+1dc  a
+b
+1.c da
+2   c
+#2 daa
+x    e
+b
+0 db c
+1 ce  c
+b
+1. da c
+2    a
+1 a c d
+b
+0 a e c
+1  e
+b
+0 aab  //a
+1    c
+b
+2 a c e
+1.     a
+1aa   e
+b
+0a\2c\3d&{ a
+1a d \4e
+b
+2\2c d&}a
+1.a\2c \1c
+1 \4d\2c  a
+b
+0 cdc  ///a
+1ac  a
+b
+2 a c e
+1.     a
+1aa   e
+b
+
+b
+0a\2c\3d&{ a
+1a d \4e
+b
+2\2c d&}a
+1.a\2c \1c
+1 \4d\2c  a
+b
+0 \2c\3d&{\1ca
+1 acc
+b
+1. \4ccd
+2  ab
+1\3ba\2c&{ e
+b
+1.c de
+2   c
+1ca a
+b
+1.a d e
+2 \4d  c
+1 cdca
+b
+1. \2daa
+2   \1c
+#2\1c \2da
+x    \3e
+b
+0 \2d&{a \1c
+1 c&}\4e  \1c
+b
+1. aaac
+2    a
+1aa   d
+b
+1. dfe c
+2 ccc
+1 ae ec
+b
+0 aab  //a
+1 ea c
+b
+2aa   e
+1.     a
+1aa   e
+b
+
+b
+0 \2c\3d&{\1ca
+1a d \4e
+b
+2ca}a
+1.aadc
+1 \4d\2c  a
+b
+0 cdc  ///a
+1ac  a
+b
+2aa   e
+1.     a
+1aa   e
+b
+0 \2c\3d&{\1ca
+1a d \4e
+b
+2ca}a
+1.aadc
+1 \4d\2c  a
+b
+0 cdc  ///a
+1
+b
+0.
+b
+0.
+b
+0.
+b
+0 \3c&{\4d\2c&(  ///a
+1 c&}\1bc&)  ///a
+b
+1 a\4d&{   a
+1 \2cd  a
+1 ad  \3d
+b
+1 ad  a
+1 \2c
+1 \4d\2c  a
+b
+0 \2c\3d&{\1ca
+1a d \4e
+b
+
+b
+1 \2c&{dca
+1 d&}a \1c
+1\1c \2da
+b
+1\4ea \1cc&{
+1\2c\4e  c&}
+1      //a
+b
+0aa\2c  a
+1a\2c&{  a
+b
+1 c\3d  \1c
+1aa   \4e
+1 \2da \1c
+b
+1aa   e
+1acd a
+1a d e
+b
+1 \2c&{\3d\1ca
+1 d\4f
+1 c&}\3d a
+b
+1aa
+0ac   e
+b
+1 cdca
+0a d e
+b
+1a d e
+0 cdca
+b
+1 cdca
+0 cdca
+b
+1 cdca
+0aa   e
+b
+1aa   e
+0 cdca
+b
+1 cdca
+1a d   /a
+1 ac  a
+b
+
+b
+0 cdc  ///a
+1aa   e
+b
+0ccd  c
+1ca a
+b
+0a d e
+1 dc c
+b
+1 cdca
+1aa   e
+1 dc  a
+b
+1 cdca
+1aa   e
+1 cdca
+b
+0aac  a
+1a d   /a
+b
+1cad   a
+0aac  a
+b
+1acd   ///a
+1    a
+1aa   e
+b
+1ccd  c
+1     a
+1aac   a
+b
+1a d   /a
+1    e
+1 da c
+b
+1 cdca
+1 a c e
+1 dc  a
+b
+1 cdca
+1aa   e
+1ac  a
+b
+
+b
+0aac  a
+1a d   /a
+b
+1cad   a
+0aac  a
+b
+0. cdc  ///a
+b
+0ac  a
+1  d
+b
+0aac
+1acd
+b
+1 dde
+1aacc
+1     a
+b
+0 cdca
+1ac  a
+b
+0ac  a
+1acd
+b
+0aac
+1acd
+b
+1 dde
+1aacc
+1     a
+b
+0 cdca
+1      ///a
+b
+0aac  a
+1aac  a
+b
+0aac  a
+1 \4e\2d  \1c
+b
+0aa   e
+1 ac  a
+b
+
+b
+0 cdca
+1ac    ///a
+b
+0aac   //a
+1 ea c
+b
+#2aacc
+x  a
+#2   c
+x   a
+#2a d e
+x    c
+b
+0 cdca
+1ac    ///a
+b
+0aa   e
+1 cdca
+b
+1 dde
+1aacc
+1     a
+b
+0 cdca
+1ac    ///a
+b
+0ac  a
+1acd
+b
+0aac
+1acd
+b
+1 dde
+0aacc
+b
+0 cdca
+1      ///a
+b
+0.aac   ///a
+b
+0.aac  a
+b
+0.aa c e
+b
+
+b
+0. cdca
+b
+0aac c
+1 ea   //a
+b
+0aac  a
+1ea c
+b
+1.ec d
+2   b
+1b c e
+b
+1.ccde
+2   c
+1ca a
+b
+1.a d e
+2    c
+1acb a
+b
+0cdda
+#2 daa
+x    e
+b
+0 da c
+1 cee
+b
+1. df
+2  d
+1aab
+b
+0 cfe
+1  e  c
+b
+0 ea c
+1 aa   //a
+b
+2aa   e
+1.     a
+1aa   e
+b
+0 cdca
+1a d e
+b
+
+b
+2ca a
+1.acdc
+1 dc  a
+b
+0 cdca
+1ac  a
+b
+2aa   e
+1.     a
+1     e
+b
+0 cdca
+1a d e
+b
+2 aaa
+1. cdc
+1 dc  a
+b
+0acd a
+1\4ea \1c
+b
+1.\4e\2c \3d
+2   \1b
+1b \2c \4e
+b
+1.ccde
+2   c
+1ca a
+b
+1.a d e
+2 d  c
+1 cdca
+b
+1. daa
+2   c
+#2 daa
+x    e
+b
+0 da c
+1 ce  c
+b
+1. da c
+2 c  a
+1 a c d
+b
+
+b
+1 df  c
+1 cee
+1     c
+b
+0 aab  //a
+1 ea c
+b
+2aa   e
+1.     a
+1aa   e
+b
+0 \2c\3d&{\1ca
+1a d \4e
+b
+2\2cad&}a
+1.a\2c c
+1 \4d\2c  a
+b
+0 cdca
+1ac  a
+b
+2aa   e
+1.     a
+1aa   e
+b
+0 \2c\3d&{\1ca
+1a d \4e
+b
+2\2cad&}a
+1.a\2c c
+1 \4d\2c  a
+b
+0. cdc  ///a
+b
+b
+
+e

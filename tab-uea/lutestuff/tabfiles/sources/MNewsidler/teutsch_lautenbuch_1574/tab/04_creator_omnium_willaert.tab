@@ -1,0 +1,683 @@
+-C
+-t
+-f
+{4. Creator omnium/Melchior Newsidler}
+b
+c
+0  d
+2.  d a
+3  c
+#3  d
+x  c
+#4  d
+x  c
+x  d
+x a
+b
+2.ab  a
+3 a
+#3 b
+x a
+#4 b
+x a
+x b
+x d
+#3ab  a
+x    c
+x    d
+x    c
+#3    a
+x    c
+x    d
+x   a
+b
+
+b
+2.db c
+#4 a
+x b
+#2 a
+x  d
+2da c
+#3   c
+x  d
+#3 a
+x c
+x d
+xa
+b
+2.cd a
+3a
+#3c
+xa
+#4c
+xa
+xc
+xd
+1fd a
+1  d
+b
+1f dca
+#2f
+x    c
+1db cd
+#2 b
+x   a
+b
+#2dabc
+xc
+xd b
+xf
+#3h if h
+xf
+x i
+xf
+#3h
+xf
+#4h
+x i
+xf
+xh
+b
+
+b
+#2fddef
+xh
+xf
+xd
+#3cd a
+xa
+xd
+xc
+#3d  a
+xc
+#4d
+xc
+xa
+x d
+b
+1abd a
+#2  d
+x    c
+#2abb d
+x d
+xa
+x   a
+b
+#3dabc
+x  a
+x   c
+x  a
+#3  b
+x  d
+x a
+x c
+1cdf c
+#2c
+x    e
+b
+1 dda
+#2cd a
+xd
+1f gh f
+#2    h
+x   f
+b
+2fbdd
+#3 d
+x b
+1 ddd
+1df c
+#2  fc
+x   e
+b
+
+b
+#2ddff
+x  g
+xd f
+x  d
+#2ddff
+x  g
+x df
+x f
+b
+1bdda
+#2b da
+xa
+#2 dda
+x    d
+xab ca
+x    c
+b
+#2abb d
+x d
+xab  d
+xc
+#2dfgfd
+x    f
+xd fc
+x   e
+b
+2ddff
+#3     d
+x  d
+#3  f
+x   h
+x d f
+x f
+#3cdda
+xa
+x d
+xa
+#3c
+xa
+#4c
+x d
+xa
+xc
+b
+
+b
+1abd a
+#2d  c
+x    c
+#2db cd
+x   e
+xabb d
+x  d
+b
+#2a b c
+x da
+x da c
+x  b
+2.  dca
+3 c
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+1 dff d
+#2     d
+x  d
+#2  ff d
+x     f
+x dfec
+x    e
+b
+#2 ddef
+x f
+xc d
+xd
+1fddef
+2c aa
+#3a
+xc
+b
+
+b
+1db cd
+#2  b d
+x   e
+#3dbb d
+x    c
+x    d
+x   a
+2d   d
+#3    c
+x    a
+b
+2ddf fd
+#3c
+x f
+#2 dff d
+x  d
+#2 dff d
+x     f
+x df c
+x    e
+b
+1  ddf
+#2f   f
+xh
+1i  hhf
+#2 f   f
+x     h
+b
+1if f i
+#2i    i
+x    f
+1hf fh
+#2 f
+x   e
+b
+1hd f
+1if   i
+2f ghi
+#3  f
+x  g
+1  i
+b
+1 if h
+#2   f
+x    f
+1 fgf i
+#2i    f
+x  f
+b
+
+b
+#3 fgh
+x  i
+x  g
+x  f
+#3  g
+x  i
+#4 f
+x  i
+x f
+x h
+2.ddgf
+3  f
+#3  g
+x  f
+#4  g
+x  f
+x  d
+x  f
+b
+1dfgfd
+#2 fg
+x  f
+1 gd f
+#2f   f
+x f
+b
+#3hd f d
+xf
+xd
+xf
+#3h  f
+xf
+#4h
+xd
+xf
+xh
+1if fhi
+#2  g
+xh
+b
+2fbdd
+#3 a
+x b
+1 d
+2.da c
+3b
+#3d
+xb
+#4d
+xb
+xa
+x d
+b
+
+b
+#3abd
+x a
+#4 b
+x a
+x b
+x d
+#2 b
+x ab
+1 bdd
+#2f
+x   c
+b
+#3hd ffd
+xf
+xd
+xf
+#3h  f
+xf
+#4h
+xi
+xf
+xh
+1if   i
+#2  g
+xh
+b
+1fgd f
+#2b da
+xa   e
+2. ddac
+3  c
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+
+b
+#3 cdca
+x a
+x c
+x d
+#3 c
+x a
+#4 c
+x  d
+x a
+x c
+2 ddef
+#3   f
+x   e
+#3   f
+x   e
+#4   f
+x   e
+x   c
+x   e
+b
+#3 dff
+x  d
+#4  f
+x  d
+x  f
+x c
+#2 df
+x   e
+#3aabc
+x d
+x c
+x a
+#3 c c
+x d
+#4a
+x c
+x d
+xa
+b
+#3cdda
+xa
+xc
+xd
+#3c
+xa
+#4c
+x d
+xa
+xc
+1ddf fd
+#2   f
+xc
+b
+
+b
+1abbcd
+#2abd a
+x a
+1 ddef
+#2fdd
+x    d
+b
+1h if h
+#2df  d
+x   e
+#2a bc
+x   a
+xi  fhi
+x     h
+b
+#2if hhf
+xh    h
+xf  h i
+x    f
+2h fgh
+#3   h
+x   g
+#3   h
+x   g
+#4   h
+x   g
+x   e
+x   g
+b
+1  ghhf
+#2f g
+x  f
+#2i  hhf
+x   f
+x   hh
+xh
+b
+
+b
+#2f def
+x   f
+2fd e
+#3    e
+x    c
+2fc ca
+#3d
+xc
+#3acd
+xd
+xc
+xa
+b
+2.cdda
+3a
+#3c
+xa
+#4c
+xa
+xc
+xd
+1f def
+#2 d ef
+x  f
+b
+#2abb d
+x d
+xab
+x   a
+#2 bbc
+x   e
+1 dff
+b
+2. d ff
+3   e
+#3   f
+x   e
+#4   f
+x   e
+x   c
+x   e
+1 dff
+1d f
+b
+
+b
+2.fgi f
+3 f
+#4 g
+x f
+x  i
+x  g
+#4  i
+x f
+x g
+x i
+1fgi
+1ffg
+b
+2 if
+#3 h
+x f
+#3 hi
+x f
+#4 h
+x f
+x h
+x i
+2ffi  f
+#3  g
+x  f
+#2 fg
+x h
+b
+1ddf  d
+2d
+#3c
+xa
+1 dfa
+1fg
+b
+1f g hf
+1d   d
+1ddff d
+#2  f  d
+x  g
+b
+#2  ff
+x  d
+1 df fd
+1 dfdf
+1f ddf
+b
+
+b
+1fgddf
+2fdd f
+#3  g
+x  f
+1ffgh f
+2ffgh
+#3 i
+x g
+b
+#2 fgh
+x h
+1dffc
+#2 dff
+x  g
+x df
+x f
+b
+2.bdda
+3a
+#4b
+xa
+x d
+x b
+#4 d
+xa
+xb
+xd
+1bdda
+#2 dd
+x    d
+b
+1bbd a
+2abb d
+#3 a
+x  d
+#2abb d
+x   e
+x  bcd
+x  d
+b
+1 dff d
+#2    fd
+x    a
+#2 daac
+x    e
+x  def
+x   f
+b
+
+b
+#2  de
+x   c
+x  def
+x  f
+1 bdca
+#2  d a
+x     d
+b
+#2 bd a
+x    c
+1abbcd
+1 dff d
+#2  fff
+x    a
+b
+#2 dbac
+xa
+xcdfec
+x    e
+#2c def
+x    f
+2fdd f
+#3    d
+x    c
+b
+2  g hf
+#3 i
+xf
+#2 ighhf
+x h
+#2 fgh
+x  i
+1 fgh f
+b
+
+b
+#2 fgfh
+x h
+x if h
+xf
+#3hff h
+xf
+x i
+xf
+#3h  f
+xf
+#4h
+x i
+xf
+xh
+b
+#2if hhf
+x  i
+xf g hf
+x  f
+1i  h
+#2 f  hf
+xh
+b
+#2fdddf
+xd
+2fd df
+#3    e
+x    c
+2  dca
+#3d
+xc
+#3acd
+xd
+xc
+xa
+b
+Ycdda  a
+b
+b
+
+e

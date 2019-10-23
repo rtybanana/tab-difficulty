@@ -1,0 +1,159 @@
+-C
+-t
+-f
+{Gigue - La Levrette/Gigue - La Levrette}
+b
+W   a  a
+W    e /a
+W    c //a
+W    a ///a
+b
+b
+c
+1 c
+#2c
+xb
+#2c
+x     c
+x  d
+x a
+b
+#2 c
+x     e
+x  de
+x  cd
+#2  de
+x      c
+x  a a
+x    c
+b
+
+b
+#2 c  e
+x  d
+x  c
+x  a
+#2   d  /a
+x    c
+x  a a
+x   d e
+b
+#2  a  c
+x  c
+x  d
+x a
+#2  c  a
+x   c
+x   a
+x    e
+b
+#2 d  c
+x  a
+x d
+x  c
+#2 cd  c
+x     a
+x ca   a
+x a
+b
+
+b
+#2a     /a
+x  d
+x a    a
+x c    /a
+#2 da   //a
+x cd
+x ac
+x  de
+b
+#2  c  a
+x   c
+x a
+x   a
+#2    e
+x  dc
+x  d ca
+x  c
+b
+#2  d
+x      ///a
+x    a
+x   c
+0  dc
+b
+1a
+#2      ///a
+x d
+#2 c
+x  d
+xa
+x  c
+b
+
+b
+#2   e
+x dd
+x c c
+x d a
+#2a   e
+x  d
+x a a
+x c  e
+b
+#2 da c
+x c  e
+x a b
+x    a
+#2 a c e
+x  db c
+x  cc a
+x      a
+b
+#2  dc  /a
+x  d
+x    a
+x  b c
+1  aa  a
+#2   cf ///a
+x    e
+b
+
+b
+#2   a  //a
+x    e
+x   a
+x  a
+#2 a b
+x  d
+x  cc
+x c
+b
+#2  cd
+x      /a
+x  de
+x ac
+#2 cd
+x e
+xa  c
+xc  a
+b
+#2b   e
+x c
+xc
+x   b
+#2e  d
+xf a
+xe     /a
+x c
+b
+#2c
+x     c
+x   e
+x  d
+0cc
+.
+b
+b
+
+e

@@ -1,0 +1,134 @@
+-C
+-t
+-f
+{277. Polish dance 4/277. Polish dance 4}
+b
+c
+1cdda
+#2h ff
+x f
+b
+.
+2gh e
+#3  h
+xh
+#3g
+xe
+2ghhe
+#2hd f d
+xfd e c
+xda c a
+x c
+b
+2cd a  a
+#3  d
+xd
+#3c
+xa
+2lhaa
+#2k  ha
+xhhi  h
+xfdde
+xddff
+b
+2cdda
+#3a
+xc
+#3d    c
+xc
+xa    d
+x d
+#2 cdca
+x dde
+#3 cdca
+x d a
+x   c
+x c
+b
+
+b
+A1
+2 da   a
+#3   a
+x  b
+#3  a
+x   c
+2 daa
+1cdda
+#2h ff
+x f
+.
+b
+b
+A2
+2 da   a
+#3   a
+x  b
+#3  a
+x   c
+2 daa
+2cdda
+#3d
+xf
+#2hd f
+x     d
+b
+.
+2fd a
+#3      a
+xd
+#2cdda
+xhhi  h
+#2if h f
+xhd f d
+xfhi f
+xl
+b
+2if h f
+#3h
+xf
+#2h  f
+x    h
+#2fdde
+xddff
+#3cdda
+xd b
+x  d
+xc
+b
+
+b
+2ddf  d
+#3   f
+xf
+#2h
+xda   a
+2fc e c
+#3cd
+x     d
+#3acd a
+x d
+x   c
+x c
+b
+A1
+1cdd   a
+#2  d
+xd
+2cdda
+#3d
+xf
+#2hd f
+x     d
+.
+b
+b
+A2
+1cdd   a
+#2  d
+xd
+Ycdda
+b
+b
+
+e

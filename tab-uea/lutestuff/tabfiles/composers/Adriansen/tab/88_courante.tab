@@ -1,0 +1,116 @@
+-C
+-t
+-f
+{88. Courante/88. Courante}
+b
+c
+2  d
+#3 bd a
+x a
+2 b
+#3 dba d
+x b
+2 d
+#3ab  d
+xb
+2d
+b
+#2b  a
+xab  d
+1 dba d
+#2 bb d
+x  d
+#3 bd a
+x a
+2 b
+b
+#3 db  d
+x b
+2 d
+#3a   d
+xb
+2d
+#2b  a
+xa   d
+1 db  d
+b
+#2 bb d
+xa
+#3ab  d
+x d
+2a
+#3 db  d
+x b
+2 d
+#2abb d
+x bb
+b
+
+b
+#2 dda
+x b
+1 acc a
+#2  d a
+x  d
+#3 bd a
+x a
+2 b
+b
+#3 acc a
+x  d
+2 a
+#3 b  a
+x a
+2 b
+#3 acc a
+x  d
+2 a
+#3 b  a
+x a
+2 b
+b
+#3 db  d
+x b
+2 d
+#2a   d
+x b
+b
+#2 dda  a
+x b
+1 acc a
+b
+#2  d a
+x  d
+#3 b  a
+x a
+2 b
+#3 acc a
+x  d
+2 a
+#3 bd a
+x a
+2 b
+b
+
+b
+#3 acc a
+x  d
+2 a
+#3 b  a
+x a
+2 b
+#3 db  d
+x b
+2 d
+#2a   d
+x b
+b
+#2 dda  a
+x b
+1 acc a
+Y  d a
+.
+b
+b
+
+e

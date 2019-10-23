@@ -1,0 +1,165 @@
+-C
+-t
+-f
+{5. La fanciuletta semplice/5. La fanciuletta semplice}
+b
+C
+1.da a d
+2cd  c
+#2db cd
+x    c
+1 ba a
+b
+1 aba d
+1dd  c
+#2db cd
+x   a
+x   c
+x    d
+b
+#2ddda
+x    d
+xcdda
+x      a
+1.da   d
+2    a
+b
+#2dd  c
+x    e
+xcdda
+x    c
+#2abb d
+x    c
+x    d
+x    a
+b
+#2 df  d
+x     c
+x     d
+x    a
+0 da   a
+b
+1 df  d
+1 ab  a
+0 cdca
+b
+
+b
+2 dd
+#3     d
+x    a
+#2 dd  c
+x      a
+1 aba d
+#2 ab   a
+x  de
+b
+1 a c d
+#2 cdca
+xa
+#2cdda
+x   c
+x   a
+x    d
+b
+#2 db c
+x    d
+x    c
+x     d
+#2 dde
+x   c
+x   e
+x   a
+b
+#2a d d
+x    c
+x    d
+x   a
+0 df  d
+b
+1abb d
+1 bd a
+0 daa
+b
+2 ab
+#3    d
+x   a
+#2 db c
+x     d
+1a d d
+#2 bd  d
+x ab
+b
+1 fdfd
+#2 ddff
+x   e  a
+0 aba d
+.
+b
+b
+
+b
+.
+0.da a d
+1     d
+b
+1 dd  c
+1 cb  a
+0 ddd  a
+b
+0 de  d
+0 cdca
+b
+0. cdc  ///a
+1ba    a
+b
+2acd  a
+1 a
+2a c
+0 cdca
+b
+1.
+2 dd  c
+#2 df  d
+x    a
+x    c
+xa d e
+b
+2. daa
+3    e
+#2 aaac
+x cd  c
+#2 aba d
+x da   a
+1acd a
+b
+1cdd   a
+#2
+xcd  c
+#2ab  d
+x   a
+xda c
+x  a
+b
+
+b
+2.dab
+3  a
+#2da c
+x db c
+#2 fdfd
+x df  d
+1 da   a
+b
+1 aba d
+#2
+x db c
+#2 fdfd
+x df  d
+1 da   a
+b
+0 df  d
+b
+b
+
+e

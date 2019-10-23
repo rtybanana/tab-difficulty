@@ -1,0 +1,135 @@
+-t
+-f
+{Almain 12/Almain 12}
+b
+1a
+b
+.
+1acd
+#2 d
+x c
+#2 da
+xa
+1c"#
+b
+1a c
+#2 dd
+x c"#
+1 acc
+#2a
+x d
+b
+
+b
+1 c"#d
+1 acc
+1  dca
+#2acd
+x  c
+b
+#2cca
+xe
+1f
+1e"#--c
+#2c
+x f
+b
+1f--e
+#2    e
+x   a
+1e"'  c
+#2    c
+x    e
+b
+
+b
+1c"#  a
+#2    a
+x    c
+1a-- e
+#2     e
+x    a
+b
+#2 d- c
+x f
+#2c
+xe
+#2f--  c
+x     e
+1 c"#  a
+b
+A1
+1 adc a
+1  "#c
+1  dca /a
+1a
+.
+b
+b
+A2
+1 adc a
+1  "#c
+0  dca /a
+b
+
+b
+.
+1 acc&{
+#2a   }
+x  a
+1aac
+#2  "#a
+x   c
+b
+1 cdU
+#2 d"'
+xa  X
+1c-a
+#2   c
+x   "#a
+b
+1a d-eU
+#2c"#
+xe
+1f    X
+#2    c"'
+x    a
+b
+
+b
+1 a-- eU
+#2  "#c
+x  d
+1 a    X
+#2     c"'
+x     a
+b
+1    a
+#2f"#
+xh
+1k
+#2h"' --  /a
+xf
+b
+1      a
+#2 a
+x "#c
+1 d&{
+#2 }a
+x "#c
+b
+
+b
+1 ac--a
+1 cd
+1 adc
+1  "#c
+b
+1  dca
+1      /a
+0  dc
+.
+b
+b
+
+e

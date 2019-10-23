@@ -1,0 +1,239 @@
+-C
+-t
+-f
+{Si par souffrir/Si par souffrir}
+b
+C
+0ca
+1ca
+1 d
+b
+0a b
+1 cd
+1  d
+b
+0 da c
+1 d  c
+1  a
+b
+0 ab  d
+0 c ca
+b
+1  a  c
+1  d
+1 ca
+1  d  c
+b
+0 aba d
+0 abc a
+b
+1  deec
+1   e
+1 cd
+1    ec
+b
+
+b
+1  bac
+#2c a
+x    a
+1h  a d
+1h   h
+b
+1f  eec
+#2   eec
+xd
+1c def
+#2  def
+xa
+b
+#2 cdca
+x a
+x  def
+x a a
+#2 c cef
+x d  c
+xa b  d
+x d a c
+b
+#2 cbc a
+x a a
+x a ced
+x    c
+1  a ec
+1  e
+b
+0 aa c
+1 a
+1  aac
+b
+0  aac
+0  bc a
+b
+
+b
+1  aac
+1c
+1c
+1 a ac
+b
+1a bcd
+#2  d d
+x  a
+1 dffc
+1   e
+b
+1    c
+1 dfec
+1a bcd
+#2  dcd
+xc
+b
+1da cc
+1c  b
+1 a c
+1caa c
+b
+1cabc
+1abd a
+1aaa c
+1 efec
+b
+1.a bc a
+2  d  c
+#2 a   d
+x c  a
+1 d  c
+b
+
+b
+#2    c
+x c  e
+x a a
+x    c
+1    e
+#2  e
+x    c
+b
+1 ab  d
+1 d
+1  a
+1 c c
+b
+1 a
+2c
+#3  d
+x  b
+1  a
+#2aa
+x d
+b
+1 cd
+1c aa
+#2a b e
+x  d
+1 df c
+b
+1 cfe
+1  d
+1 a
+1 abc
+b
+1  aa
+1   ce
+1. a  c
+2  d e
+b
+
+b
+#2  aa
+x    e
+x  da
+x   c
+1  de
+1  bc
+b
+1  a
+1  ab
+1   c
+1 dfec
+b
+1aabc
+1da
+#2 abc
+xc
+1ac
+b
+0cdda
+1
+1cdda
+b
+1cdda
+#2ac  a
+x  b
+1 dfec
+#2 cd  c
+x   c
+b
+
+b
+#2 aba d
+x  d e
+x aaa
+x c c
+#2 dde c
+x c c
+xaab  a
+x da
+b
+#2 cbc d
+x a a
+x aa e
+x    c
+1   eec
+1  e
+b
+0 aa c
+1
+1 dfec
+b
+1 dbc
+1da
+1 abc
+#2c
+xac
+b
+0cdda
+1
+1cdda
+b
+1cdda
+#2ac  a
+x  b
+1 dfec
+#2 cd  c
+x   c
+b
+
+b
+#2 aba d
+x  d e
+x aaa
+x c c
+#2 dde c
+x c c
+xaab  a
+x da
+b
+#2 cbc d
+x a a
+x aa e
+x    c
+1   eec
+1  e
+b
+1 aa c
+b
+b
+
+e

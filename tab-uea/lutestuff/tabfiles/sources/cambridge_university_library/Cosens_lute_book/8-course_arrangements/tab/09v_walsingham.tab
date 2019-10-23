@@ -1,0 +1,342 @@
+-C
+-t
+-f
+{Walsingham/Walsingham}
+b
+#2b
+xd
+1fg d
+1df  d
+b
+1bbdd
+1 de
+1 bd
+b
+#2 gdd
+xd e
+#2f g
+x  d
+#2  b d
+xa
+b
+1bbd  b
+#2   d
+x  e
+#2 b
+x d
+b
+2.ab  d
+3b
+1d
+#2fc  a
+xd
+b
+1bd a
+#2 dd
+x   c
+#2  dd
+x ab
+b
+#2acd
+xcd
+1df c
+#2ccd
+xa
+b
+
+b
+1cdda
+0 dd
+b
+b
+2. gdd
+3d
+#2f
+x g
+#2d   d
+x f
+b
+2.bb d b
+3  b
+#2  d
+x   d
+#2 de
+x  b
+b
+2 gdd
+#3  e
+xd
+#2f g
+x gd
+#3  e
+xd
+2 fg
+b
+#2bb d b
+x d
+#2 b
+x  e
+1bbd  b
+b
+2.ab  d
+3b
+#2d
+xa
+#2    a
+xf
+b
+
+b
+#2   a
+xb
+#2 d
+x   c
+#2  dd
+x a a
+b
+#2 c  a
+xcd
+#2df
+xa
+#2 c  a
+xf
+b
+2cd a
+#3 a
+x c
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+1 d
+b
+2.ab  d
+3b
+1d
+1if  a
+b
+1fg a
+#2f
+x d
+#2   a
+x  d
+b
+
+b
+#3    a
+x a
+x c
+x d
+#3a
+xc
+xd
+xa
+#3f   a
+xd
+xc
+xa
+b
+2.cd a
+#4a
+xc
+#2 d
+x  d
+1   a
+b
+b
+#2b
+xd
+#2fg d
+x   f
+#2 cd
+xa
+b
+2.bd a
+3a
+2 d
+#3 b c
+x a
+#2  dd
+x b
+b
+#2b
+xdf  d
+#2fg d
+xgd ff
+#2dfg
+x    d
+b
+#2bbdd
+x b
+#2 de
+xab
+1bbdd
+b
+
+b
+2.ab  d
+3b
+2d
+#3b
+xa
+#2f
+x  d
+b
+2.bd a
+3   c
+2 d d
+#3   c
+x   a
+#2  d d
+x    c
+b
+2a   d
+#3c   c
+x    a
+#2d  c
+x   a
+#2c
+xa   e
+b
+2. dda
+#4  a
+x  b
+#2  d
+x  a
+1   a
+b
+#2abb d
+xb
+2d
+#3f
+xh
+#2if  a
+xh
+b
+#2fg a
+x   c
+2 d d
+#3   f
+x  d
+#2 de
+x  d
+b
+
+b
+#2a b
+xb  d
+#2d  c
+xa d
+#3f
+x  b
+x  a
+x   c
+b
+#3   a
+xd
+xc
+xa
+1cdd
+1 dda
+b
+b
+2 g
+#3   d
+xd
+2f
+#3   f
+x  d
+#2d e
+x   f
+b
+#2bbd
+x   d
+#2 de
+x    b
+#2 bdd
+x     b
+b
+#2  da
+x g
+#3   d
+xd
+2fg
+#2d   d
+x f
+b
+2.bbd  b
+3     a
+#2     b
+x     d
+#2bbd a
+x    c
+b
+
+b
+2ab  d
+#3b
+x   a
+#2d  c
+x   d
+#2aab
+x   c
+b
+#2f  d
+x   a
+#2 d f
+x   d
+2  d
+#3   c
+x   a
+b
+#2a d e
+xc  a
+#2da c
+x d   d
+#2c   a
+xac
+b
+2.cd a
+3c
+#2 d
+x  d
+1cdda
+b
+2.ab  d
+3b
+#2d
+x a
+#2i  h
+x   f
+b
+#2   d
+xh
+#2fg
+xdf
+#2bd a
+xab
+b
+
+b
+2 dff
+#3a
+xc
+#2d  c
+xacd
+#3c
+xd
+2f
+b
+2.c  a
+3 d
+#3 a
+x c
+2 d
+2  d
+Y   a
+b
+b
+
+e

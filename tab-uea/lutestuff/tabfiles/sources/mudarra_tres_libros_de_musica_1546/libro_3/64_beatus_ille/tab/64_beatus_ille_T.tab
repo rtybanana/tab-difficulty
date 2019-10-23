@@ -1,0 +1,59 @@
+-C
+-t
+-f
+{64. Beatus ille/64. Beatus ille}
+b
+c
+0  def
+0 aa c
+b
+0
+0 cbc
+b
+w dda
+b
+0 dda
+0 dda
+b
+0
+0 df  d
+b
+w dda
+b
+0 acc
+0 aa c
+b
+0
+0 acc
+b
+w cd a
+b
+1 dda
+x   c
+x  a
+x   a
+b
+x abc
+x   a
+x    d
+x    c
+b
+0  dcd
+0 aa c
+b
+
+b
+0
+0 ab  d
+b
+0
+0  dca
+b
+0
+0  dca
+b
+Y dda
+b
+b
+
+e

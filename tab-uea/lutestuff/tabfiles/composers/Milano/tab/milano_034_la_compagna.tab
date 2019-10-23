@@ -1,0 +1,819 @@
+-C
+-t
+-f
+{Ricercar "La Compagna"/Ricercar "La Compagna"}
+b
+c
+wh
+b
+0i
+0h
+b
+#2a
+xc
+xd
+xf
+0h
+b
+0f
+0d
+b
+0ca
+0d
+b
+0ab
+0da
+b
+#2   c
+x  a
+x  b
+x  d
+0ca
+b
+0  d
+0a b
+b
+1 da c
+1 c
+1 a
+1  d
+b
+0  bcd
+0 ab c
+b
+#2     a
+x     c
+x     d
+x    a
+0  a c
+b
+1
+1    a
+0 a c d
+b
+0 b  a
+0 a bc
+b
+
+b
+1   cd
+1  a
+1  b
+1  d
+b
+1 a  c
+1 c
+0 da
+b
+1 ab
+1 c
+1 da
+1a
+b
+0c   c
+#2  a
+xa
+x d
+x c
+b
+1 ab
+1 c
+1 da
+1a
+b
+0c  bc
+0a  cd
+b
+0 ea c
+0a b  d
+b
+0  a a
+0 ef c
+b
+0ab   a
+0ha
+b
+0i   h
+0ha
+b
+1ab
+1c
+1da
+1f
+b
+1h   h
+1  a
+1   f
+1   h
+b
+1 a   a
+1     c
+1    cd
+1    ef
+b
+
+b
+1 a ac
+1 c c
+1 da
+1a b
+b
+1c d
+1da
+0f g a
+b
+1da   a
+1     c
+1     d
+1    a
+b
+1    c
+1    e
+0c da
+b
+1    a
+1a b
+1f a
+1d  c
+b
+1c d
+1a b
+1c a
+1   c
+b
+0   bc
+0a  c
+b
+0  a
+1 e  c
+1    a
+b
+1a  c d
+1     c
+1h    a
+1f
+b
+1da
+1c d
+1a bc
+1  aa
+b
+1   ce
+1 d  c
+1fc  a
+1da
+b
+1c da
+1a b
+1 da
+1   cd
+b
+
+b
+1   bc
+1    a
+0dab  d
+b
+1c d a
+1  b
+1a a
+1   c
+b
+0  a
+1 e  c
+1    a
+b
+1a  c d
+1     c
+1h    a
+1f
+b
+1da
+1c d
+1a bc
+1  aa
+b
+1   ce
+1 d  c
+1fc  a
+1da
+b
+1c da
+1a b
+1 da
+1    d
+b
+1  b c
+1    a
+1dab  d
+1c
+b
+1a   a
+1 d
+1a d
+1  b
+b
+1  a c
+1   c
+0 ea
+b
+1a  c a
+1 a
+1 b
+1 a
+b
+
+b
+#2   c
+x  a
+x  b
+x  d
+#2 a
+x b
+1 a
+b
+1    c
+1c
+1d
+1c
+b
+#2 a
+x c
+x d
+xa
+#2c
+xd
+1c
+b
+1   e
+1 c
+1 d
+1 c
+b
+#2  a
+x  c
+x  d
+x a
+#2 c
+x d
+1 c
+b
+1    a
+1a
+1c
+1a
+b
+#2  d
+x a
+x c
+x d
+#2a
+xc
+1a
+b
+1     a
+1h
+1i
+1h
+b
+
+b
+#2a
+xc
+xd
+xf
+#2h
+xi
+1h
+b
+#2   c
+x  a
+x  b
+x  d
+#2 a
+x b
+1 a
+b
+#2    c
+x c
+x d
+xa
+#2c
+xd
+1c
+b
+#2   e
+x  c
+x  d
+x a
+#2 c
+x d
+1 c
+b
+#2    a
+x a
+x c
+x d
+#2a
+xc
+1a
+b
+#2   c
+x  a
+x  b
+x  d
+#2 a
+x b
+1 a
+b
+1   b
+#2  d
+x  b
+1  a
+1  d
+b
+1  bc
+1a
+1d
+1a
+b
+
+b
+1f  a
+1  a
+1  b
+1  a
+b
+1d  c
+1     a
+1a    d
+1     a
+b
+1 e  c
+1  a
+1  b
+1  a
+b
+1   cd
+1a
+1d
+1a
+b
+1 e  c
+1  a
+1  b
+1  a
+b
+1     d
+1   ca
+1c    c
+1   b
+b
+0d  c a
+0c  bc
+b
+0  bc
+0a d a
+b
+1 ea c
+1 c
+1a
+1 e
+b
+1a b  a
+#2   c
+xc
+#2d
+xc
+xa
+x d
+b
+
+b
+#2 c
+x a
+x  d
+x  b
+#2  a
+x   c
+1c  bc
+b
+#2  a
+xd
+xf
+xd
+#2c
+xa
+x d
+x c
+b
+#2 a
+x  d
+x  b
+x  a
+0a b  a
+b
+#2   c
+xc
+xd
+xc
+#2a
+x d
+x c
+x a
+b
+#2  d
+x  b
+x  a
+x   c
+0 a b
+b
+#2    c
+x c
+x d
+x c
+#2 a
+x  d
+x  b
+x  a
+b
+#2   c
+x   a
+x    e
+x    c
+0    ef
+b
+#2    a
+x    c
+x    e
+x   a
+0   c
+b
+
+b
+#2     a
+x  a
+x  b
+x  d
+#2 a
+x  b
+x  d
+x a
+b
+#2 c
+x e
+xa
+xc
+#2d
+xf
+1h
+b
+#2 a
+xk
+xl
+xk
+#2h
+xf
+xd
+xc
+b
+#2a
+x d
+x c
+x a
+#2  d
+x  b
+x  a
+x   c
+b
+1   bc
+1  a
+#2  b
+x  d
+1 a
+b
+1   cd
+1  b
+#2  d
+x a
+1 b
+b
+1 a a
+1  d
+#2 d
+x b
+x a
+x  d
+b
+1  bc
+1 a
+#2 c
+x e
+1a
+b
+
+b
+1  de
+1 c
+#2 d
+xa
+1c
+b
+1a b
+1 d
+#2d
+xc
+xa
+x d
+b
+1 cd
+1a
+#2c
+xd
+1f
+b
+1da
+1c
+#2h
+xf
+xd
+xc
+b
+1ac
+#2  d
+x a
+#2 c
+x d
+1 f
+b
+1ce
+1df
+1c
+1 e
+b
+1af
+1h
+1i
+1h
+b
+1d
+1 a
+1 b
+1 a
+b
+1  b
+1    c
+1    d
+1    c
+b
+
+b
+1     d
+1 a
+1 b  a
+1 a  c
+b
+1  d d
+#2  b
+x    c
+1  a a
+1   c d
+b
+1   b c
+1   c a
+1     c
+1   b
+b
+1   c a
+1 a
+1 b
+1 a
+b
+1   f
+1h
+1i  h
+1h f
+b
+1f g
+1    a
+1da  c
+1     d
+b
+1c da
+1a bc
+1  a a
+1 e  c
+b
+1a b  a
+1 a
+1 b
+1 a
+b
+#2   c
+x  a
+x  b
+x  d
+#2 a
+x b
+1 a
+b
+
+b
+#2a  c
+x  a
+x  b
+x  d
+#2 a
+x  d
+x  b
+x  a
+b
+#2   c
+x  a
+x  b
+x  a
+#2   c
+x   a
+x    d
+x    c
+b
+#2    a
+x    c
+x    d
+x    a
+#2    c
+x    a
+x     d
+x     c
+b
+1     a
+1h
+1i
+1h
+b
+#2a
+xc
+xd
+xf
+#2h
+xf
+xd
+xc
+b
+#2a
+xc
+xd
+xc
+#2a
+x d
+1a
+b
+#2    a
+x d
+x b
+x a
+#2  d
+x  c
+1  d
+b
+
+b
+1  c  a
+1 a
+1 b
+1 a
+b
+#2   c
+x  a
+x  c
+x  d
+#2 a
+x  c
+x  d
+x a
+b
+1 b  a
+1 a   d
+1  d a
+1 b
+b
+1a  g a
+1h
+1i
+1h
+b
+#2a
+xc
+xd
+xf
+#2h
+xf
+xd
+xc
+b
+#2a   a
+x d
+x b
+x a
+#2  d
+x a
+x b
+x d
+b
+#2a
+xc
+1d    d
+1ab  a
+1c
+b
+1ea   a
+1a
+#2h
+xf
+xd
+xc
+b
+
+b
+1a
+1n
+#2l
+xk
+xh
+x l
+b
+1 k
+1a
+#2 d
+x b
+x a
+x  d
+b
+1  c
+1   c
+#2   a
+x    d
+x    c
+x    a
+b
+1     e
+1a
+1 d
+1a
+b
+1 b  a
+#2  d
+x a
+#2 b
+x d
+1a
+b
+#2     a
+x a
+x c
+x e
+#2a
+xc
+xe
+xf
+b
+#2h
+xa
+xc
+xe
+#2f
+xh
+xk
+xl
+b
+
+b
+#2n
+x a
+x c
+x e
+#2a
+xc
+xe
+xf
+b
+#2h
+xf
+xd
+xc
+#2a
+x d
+x b
+x a
+b
+0 b  a
+0a
+b
+0 a   e
+0  d a
+b
+Yaaccca
+b
+b
+
+e

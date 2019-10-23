@@ -1,0 +1,411 @@
+-C
+-t
+-f
+{O combien est/O combien est}
+b
+c
+waabc
+b
+waabc
+b
+wcdda
+b
+0cdda
+0aabc
+b
+0 efec
+0  f
+b
+0 e
+0 efec
+b
+0aacc
+0aacc
+b
+0 cd a
+0a   a
+b
+0.cdda
+1    e
+b
+1cdf c
+1    a
+0ddf  d
+b
+0d
+0ddf  d
+b
+0cbd a
+1a   a
+1  b
+b
+0 dfec
+0a bc a
+b
+
+b
+1 aba d
+1  d e
+1 aba d
+1 c c
+b
+0 dde c
+1aab  a
+1     c
+b
+1 a   d
+1 c  a
+1 dfec
+1a
+b
+1cbd a
+1  b
+1a ded
+1   c
+b
+1 aa c
+#2 e
+x c
+#2 f
+x e
+#3 f
+x e
+x c
+x e
+b
+1a bc a
+#2 d
+x b
+#2 a
+x  d
+x  b
+x  a
+b
+#2   c
+x  a
+x  b
+x  d
+#2 a
+x  d
+x  b
+x  a
+b
+
+b
+#2aabc
+x  a
+x  b
+x  d
+#2 a
+x  d
+x  b
+x  a
+b
+#2aabc
+x  a
+x  b
+x  d
+#2 a
+x  d
+x a
+x c
+b
+#2cdda
+xa
+xc
+xd
+1c
+1a
+b
+0cdda
+0aabc
+b
+0 efec
+0  f
+b
+0 e
+0 efec
+b
+0aacc
+0aacc
+b
+0acd a
+0acd a
+b
+1.cdda
+2   c
+1   a
+1    e
+b
+1cdf c
+1    a
+0ddf  d
+b
+
+b
+0d
+0ddf  d
+b
+0cbd a
+1a   a
+1  b
+b
+0 dfec
+0aab  a
+b
+1 aba d
+1  d e
+1 aba d
+1 c c
+b
+0 dde c
+1aab  a
+1 d   c
+b
+1 ab  d
+1 c  a
+1 dfec
+1a
+b
+1cbd a
+1  b
+1a ded
+1   c
+b
+1.  fec
+2 e
+#2 f
+x e
+x c
+x e
+b
+1a cc a
+1  a
+1  c
+1  d
+b
+0 a
+0aacc
+b
+
+b
+0abd a
+0abd a
+b
+0 dfec
+0 dff d
+b
+1a bcd
+1  a
+1  bc
+1 d
+b
+1. bd a
+2  a
+#2  b
+x  a
+#3  b
+x  a
+x   c
+x  a
+b
+0 aba d
+0 df
+b
+0 df
+0 dfec
+b
+0aab  a
+0aab  a
+b
+0 cd a
+0a
+b
+0a
+0 cd a
+b
+0cdda
+0 dda
+b
+1ddf  d
+1    a
+1 df c
+1    e
+b
+
+b
+0cdfa
+0cdda
+b
+1.aadc
+2  c
+#2  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+#2acd a
+x a
+x  d
+x  c
+#2  d
+x a
+x c
+x d
+b
+1a
+#2  d
+x  c
+#2  d
+x a
+x c
+x d
+b
+#2aa c
+x d
+xa
+xc
+#2d
+xc
+xa
+x d
+b
+
+b
+1aabc
+#2 c
+x d
+#2a
+x c
+x d
+xa
+b
+#2cdda
+xa
+xc
+xd
+1c
+1a
+b
+0cdda
+0aabc
+b
+0 efec
+0  f
+b
+0 e
+0 efec
+b
+1aadc
+#2  c
+x  a
+#2aad
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+0acd a
+0acd a
+b
+0.cdda
+1    e
+b
+1cdf c
+1    a
+0ddf  d
+b
+0d
+0 df  d
+b
+0 df  d
+0d
+b
+
+b
+0d
+0 dff
+b
+0ddff
+0cdda
+b
+0aabc
+0aab  a
+b
+0 da c
+0 dff d
+b
+0 cdca
+0 cdca
+b
+1 aaac
+1 c c
+1 da
+1a b
+b
+1cbd a
+1  b
+1a ded
+1   c
+b
+1.aaa c
+2 e
+#2a
+x e
+x c
+x e
+b
+0aabc a
+0d
+b
+0d
+0 df  d
+b
+0 df  d
+0d
+b
+0d
+0 dff
+b
+
+b
+0ddff
+0cdda
+b
+0aabc
+0aab  a
+b
+0 da c
+0 dff d
+b
+0 cdca
+0 cdca
+b
+1 aaac
+1 c c
+1 da
+1a b
+b
+1cbd a
+1  b
+1a ded
+1   c
+b
+1  fec
+#2 e
+x c
+#2 f
+x e
+#3 f
+x e
+x c
+x e
+b
+Yaacc a
+b
+b
+
+e

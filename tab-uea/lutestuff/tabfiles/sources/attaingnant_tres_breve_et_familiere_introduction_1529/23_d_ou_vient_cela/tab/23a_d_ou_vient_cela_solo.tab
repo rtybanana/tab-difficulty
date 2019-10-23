@@ -1,0 +1,277 @@
+-C
+-t
+-f
+{23a. D'où vient cela?/23a. D'où vient cela?}
+b
+c
+1
+1 a  c
+1 a ac
+1 a a
+b
+#2 a c a
+x d
+x c
+x a
+1.  e ec
+2     e
+b
+#2    b
+x    c
+1  e ec
+1 a ac
+#2 c ca
+x     e
+b
+1 da  c
+1a b  a
+#2    c
+x da
+x d cc
+x   a
+b
+#2 d ca
+x c
+#3 d
+x c
+x a
+x c
+1. d a
+2 c
+b
+
+b
+#2 d
+xa
+1 da c
+#2 da c
+x a
+x c
+x d
+b
+1a b  a
+#2  b  a
+x d
+1 c ca
+#2 c c
+x     e
+b
+1 da  c
+1a b  a
+1.c da
+2a b
+b
+1 daa
+1 c ca
+#2   ac
+x a
+1 a  cd
+b
+1 a  ec
+1  e
+1. aa c
+2  d
+b
+#2 a
+x c
+1 a  c
+1 a ac
+1 a a
+b
+#2 a c a
+x d
+x c
+x a
+1.  e ec
+2     e
+b
+
+b
+#2    b
+x    c
+1  e ec
+1 a ac
+#2 c ca
+x     e
+b
+1 da  c
+1a b  a
+#2    c
+x da
+x d cc
+x   a
+b
+#2 d ca
+x c
+#3 d
+x c
+x a
+x c
+1. d a
+2 c
+b
+#2 d
+xa
+1 da c
+#2 da c
+x a
+x c
+x d
+b
+1a b  a
+#2  b  a
+x d
+1 c ca
+#2 c c
+x     e
+b
+1 da  c
+1a b  a
+1.c da
+2a b
+b
+1 daa
+1 c ca
+#2   ac
+x a
+1 a  cd
+b
+
+b
+1 a  ec
+1  e
+0 a  c
+b
+1 d  c
+1 d a
+1  a
+#2a c e
+x c
+b
+#2 d
+xa
+xc d  c
+x  c
+#2  d
+x a
+x c
+x  d
+b
+1 da c
+1 da c
+1 da c
+1 ca  c
+b
+#2
+x a   e
+1 c ca
+1a b  a
+#2    c
+x  a
+b
+1 d a
+#2 d ca
+x c
+#3 d
+x c
+x a
+x c
+#2 daa
+x c
+b
+
+b
+#2 d
+x c
+#3 d
+x c
+x a
+x  d
+1 a a d
+#2 a a d
+x  d
+b
+#2 a
+x c
+x a c a
+x d
+#2 c
+x a
+x  e ec
+x     a
+b
+#2     c
+x     e
+x    a
+x    c
+1  e ec
+1 a ac
+b
+1 c ca
+1 daa
+#2 c ca
+x a
+x c
+x d
+b
+1 a ac
+2 a  ec
+#3  e
+x a
+#2  f
+x a
+1 aa c
+b
+#2
+x c
+x d
+x a
+1 da c
+#2 da c
+x a
+b
+
+b
+.
+#2 c
+x d
+1a b  a
+#2  b  a
+x d
+1 c ca
+b
+#2 c c
+x     e
+1 da  c
+1a b  a
+1c da
+b
+#2
+xa b
+1 daa
+1 c ca
+#2   ac
+x a
+b
+1 a  cd
+2 a  ec
+#3  e
+x a
+#2  e
+x a
+b
+A1
+1. aa c
+2 c
+#2 d
+x a
+1 da c
+.
+b
+b
+A2
+Y aa c
+b
+b
+
+e

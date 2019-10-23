@@ -1,0 +1,617 @@
+-C
+-t
+-f
+{10. Si comme espoir/10. Si comme espoir}
+b
+c
+w aaac
+b
+#2 aaac
+x    a
+x    c
+x    d
+#2    c
+x    a
+#3    c
+x    a
+x     d
+x     c
+b
+1.aab  a
+2 e
+1a
+1c
+b
+1     a
+1dab
+1c
+1a
+b
+1 da c
+1 c
+1 a
+1  d
+b
+1 ab
+1   c
+1     a
+1dabc
+b
+1da c a
+1  d
+1da c a
+1 c
+b
+
+b
+1cd ac
+1    df
+1 a ac
+1a  cd
+b
+1 dda
+1 a
+1 bbc
+1 a
+b
+1  dcd
+1  b
+1 a cd
+1  d
+b
+1 aabc
+1  bc
+1 aacc
+1   b
+b
+1   c
+1     a
+0 abc a
+b
+#2 aaac
+x    a
+x    c
+x    d
+#2 aaac
+x    a
+x     d
+x     c
+b
+#2     a
+x dba
+x     c
+x     a
+#2 dda c&{
+x a
+x c
+x d    }
+b
+
+b
+#2aab  a
+x  a
+x  b
+x  d
+#2a b c
+x  d
+x a
+x c
+b
+1cd a
+1  d
+1  a
+1  b
+b
+1cdda
+#2 c
+x a
+#2  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+b
+0 ddef
+0 dff d
+b
+1 ddef
+1   f
+1 ddff
+1   e
+b
+1abb d
+1 da
+1a b
+#2c d c
+x    a
+b
+1ddf  d
+1  d
+1c aa
+1  b
+b
+1 bd a
+1a b
+1a d d
+1   c
+b
+
+b
+1 ffec&{
+#2 e
+x c   }
+#2 ffec
+x e  {
+#3 f
+x e
+x c
+x e    }
+b
+1 f
+1     a
+1aab
+1   c
+b
+0aab  a
+1aab
+1     a
+b
+b
+1aab  a
+1d
+1cab  a
+1a
+b
+1 da c
+1 a
+1 b a
+1 d
+b
+1 bbcd&{
+1a    }
+1 dbcd
+1 b  {
+b
+1     d
+1 bba {
+1 a
+1  d   }
+b
+1 aba d
+1 c
+1 dba
+1    c
+b
+1     d
+1 b
+1 aba d
+1 c
+b
+
+b
+1 daac
+1   c
+1 daac
+1  c
+b
+1 bdca
+1   c
+1    a
+1 bdc
+b
+1 aacc
+#2   b
+x    e
+1 aacc
+1   b
+b
+1 ab
+1   c
+0da c a
+b
+1    c
+1da
+1caa
+1   a
+b
+1aab  a
+1  d  c
+1 dff d
+1 b  a
+b
+1 d  c
+1a   d
+1 da
+1   a
+b
+1 ddca
+#2 c
+x a
+#2 ddca
+x c
+#3 d
+x c
+x a
+x c
+b
+
+b
+1 da
+1   a
+0dab  d
+b
+0dab  d
+1  b
+1c
+b
+0aab  d
+1 dba d
+1  a
+b
+1    a
+1 bd
+1   c
+1    a
+b
+1 aaac
+1 bbc
+1 dff
+1a b
+b
+1cbd a
+1d
+1fda
+1   a
+b
+#2 abc
+x  a
+x  b
+x  d
+#2dabc
+x  d
+x a
+x c
+b
+
+b
+#2   a
+xddd
+xc
+xa
+#2d da
+xc
+#3d
+xc
+xa
+xc
+b
+1dab
+1     d
+0abb d
+b
+0.abb d
+1abb d
+b
+1abb d
+1d
+1cbb d
+1a
+b
+1 dba d
+1 b   {
+1 a
+1  d
+b
+0dab  d
+1dab
+1     d
+b
+1   a
+1cd
+1  d
+1   a
+b
+1aabc
+1  b
+1  dc
+1 a
+b
+1abb d
+1d
+1cbb d
+1a
+b
+1 daa
+1  b
+1 dba
+1  a
+b
+
+b
+1 aba
+1     d
+0 dba d
+b
+0 dba d
+1 aba
+1     d
+b
+1 dba
+#2  a
+x   c
+#2 daa
+x   c
+x  a
+x  b
+b
+1 da
+1   a
+1 daa
+1  bc
+b
+1 dda
+1  b
+1  da
+1 a
+b
+1abd a
+1d
+1cdda
+1a
+b
+1cabc
+1a
+1abd
+1    a
+b
+1    c
+1aaa
+1 e
+1 c
+b
+1 ef
+1    c
+1cef
+1   e
+b
+
+b
+wcef c
+b
+1abd a
+1  b
+1  d
+1 a
+b
+1abd a
+1 a
+1 bd
+1 d
+b
+1abd d
+1d
+1cbb d
+1a
+b
+1 ddef
+1 a
+1 b a
+1 d
+b
+1 bdca
+1  b
+1  d
+1 a
+b
+1 bdca
+1a
+1 d  a
+1 b
+b
+1 aaac
+1 d
+1 bba d
+1 a
+b
+1  dc
+1    a
+1  a
+1  c
+b
+
+b
+1  dca
+1 b
+1 a  a
+1  d
+b
+1 abc
+1     a
+0da
+b
+1da
+1c
+1aabc
+1 d
+b
+1aabc
+1d
+1cabc
+1a
+b
+1 dfe
+1    c
+1 a
+1 c
+b
+1 dfec
+1 c
+1 d
+1a   e
+b
+1cdd
+1   a
+1dd ac
+1   c
+b
+1fdaa
+1c
+#2   c
+xdaa{
+xc
+xa   }
+b
+1cbd a
+1a b
+1a d d
+1   c
+b
+
+b
+1 ffec&{
+#2 e
+x c   }
+#2 ffec&{
+x e
+#3 f
+x e
+x c
+x e    }
+b
+1 f
+1     a
+1aab
+1   c
+b
+1aab  a
+1 d
+1 b
+1 a
+b
+#2abd a
+x  c
+x  a
+x  c
+#2  d
+x  c
+x  d a
+x a
+b
+#2abd a
+x a
+x  d
+x a
+#2 b
+x a
+xabd
+x d
+b
+#2abb d
+x d  {
+x b
+x d
+#2a
+xd     }
+xcbb d
+xa
+b
+
+b
+#2 dda
+x b
+x a
+x b
+#2 d
+x a
+x b a
+x d
+b
+#2 bdca
+x  b
+x  d
+x a
+#2 b
+x a
+x b  a
+x d
+b
+1 bdca
+1a
+1 ddca
+1 b
+b
+1 aaac
+1 d
+1 bba d
+1 a
+b
+0  dca
+1  a
+1  c
+b
+#2  d a
+x  a
+x  c
+x  d
+#2  c
+x  a
+x  c a
+x  d
+b
+1 acc
+1     a
+0da
+b
+1da
+1c
+1aa c
+1 e
+b
+
+b
+1aa c
+1d
+1ca c
+1a
+b
+1    c
+1 da {
+1 a
+1 c   }
+b
+1 da c&{
+1 c
+1 d   }
+1a   e
+b
+0cdda
+1da ac
+1   c
+b
+1fdaa
+1c
+1dabc
+1a
+b
+1cbd a
+1a b
+1a a d
+1   c
+b
+1 ffec
+#2 e
+x c
+1 ffec
+1 e
+b
+1 f
+1     a
+1aab
+1   c
+b
+Yaabc a
+b
+b
+
+e

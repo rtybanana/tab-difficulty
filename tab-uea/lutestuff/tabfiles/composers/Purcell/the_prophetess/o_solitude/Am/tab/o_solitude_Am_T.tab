@@ -1,0 +1,677 @@
+-C
+-t
+-f
+{O Solitude/O Solitude}
+b
+2   a  a
+x    e /a
+b
+b
+c
+0
+0     c
+b
+0     e
+0    a
+b
+0 d  c
+0a   e
+b
+1c aa
+1e
+0ff  e
+b
+1ed  c
+1c
+0b c e
+b
+1      /a
+1  d
+0 a
+b
+0ccd  c
+0   e
+b
+0 ac
+0 cd
+b
+1ca
+1e
+0fc
+b
+0ca a
+0a c e
+b
+0 dc c
+0 cc e
+b
+
+b
+0ecc   /a
+0ec de
+b
+0fc   c
+0cc   c
+b
+0ad   e
+1ac  a
+1f
+b
+1e   c
+1c
+1b   e
+1e
+b
+0ca a
+0  d e
+b
+0 dc c
+1 cc e
+1 a
+b
+0  de  /a
+1  c
+1   d
+b
+0  de c
+1     c
+1  d
+b
+1a    e
+1 a
+0ac  a
+b
+2 df c
+1.  d
+0a c e
+b
+0 a a
+0c d e
+b
+1    c
+1 a
+0  c e
+b
+
+b
+1   d  /a
+1   a
+1    e
+1    c
+b
+0  a ac
+0     c
+b
+0 ac  e
+0  dea
+b
+0    c
+1    e
+1  cd
+b
+1  aa
+1c
+0a c e
+b
+0 d  c
+0 ccee
+b
+0   c  /a
+0
+b
+0acd  c
+0c d  c
+b
+0 hg  e
+0ac  a
+b
+1 da c
+1c
+0a d e
+b
+0ca a
+1    e
+1  d
+b
+0ed  c
+0c c e
+b
+1b     /a
+1  d
+0 a
+b
+
+b
+0c d  c
+0     c
+b
+0 a   e
+0 ca a
+b
+1  c c
+1  a
+1   de
+1  c
+b
+0 aaa
+0  d e
+b
+0  c c
+0   de
+b
+0  de  /a
+1  c
+1   d
+b
+0  de c
+0     c
+b
+0ea   e
+0 c  a
+b
+0cd  c
+1bc  e
+#2c
+xe
+b
+0c da
+0a   e
+b
+0 df c
+1 c de
+1 a
+b
+1  de  /a
+1 d
+1 ccde
+1 a
+b
+
+b
+1  de c
+1  f
+0 cd  c
+b
+0 a d e
+0 ca a
+b
+0ca  c
+0a e e
+b
+0ca a
+0a a e
+b
+0c a c
+0cUd e
+b
+0c d   /a
+1b c
+1 a
+b
+1ccd  c
+1  c
+0  d  c
+b
+1     e
+1 a
+0 c ca
+b
+0 dc c
+1    e
+1 c
+b
+1 aaa
+1  c
+0 cd e
+b
+0 df c
+0c d e
+b
+0cac   /a
+1.b
+2  d
+b
+
+b
+1.c d  c
+2  c
+1.  d  c
+2 a
+b
+1. c   e
+2 d
+0cc  a
+b
+1ed  c
+1c
+0bc  e
+b
+1ca a
+1  a
+0a c e
+b
+0 d  c
+0 c de
+b
+0   e  /a
+1  c
+1 a
+b
+1  de c
+1  c
+1c d  c
+1 c
+b
+1 a   e
+1 d
+1 c  a
+1   d
+b
+1  aac
+1  c
+1  dde
+1  c
+b
+0 aaa
+1    e
+1 c
+b
+0 d  c
+1 ca e
+1 d
+b
+
+b
+1 c d  /a
+1 a
+1  d
+1  c
+b
+0 cd  c
+1c
+1 f
+b
+0 df  e
+0 ca a
+b
+0 ac c
+1    e
+1  d
+b
+0 aca
+0 cd e
+b
+1 dc c
+1  a
+1   de
+1  c
+b
+1 c    /a
+1 a
+1  d
+1  c
+b
+0  de c
+0  dc c
+b
+0 a c e
+1 cdca
+1 d
+b
+1 cc c
+1 a
+1  dce
+1  c
+b
+1.  aa
+2  c
+0  dce
+b
+
+b
+1.  cac
+2  a
+0   de
+b
+0      /a
+0bac e
+b
+0cca
+0     c
+b
+0     e
+0cca a
+b
+0aa  c
+0  d e
+b
+0 daa
+0 a  e
+b
+0cd  c
+0c d e
+b
+0cc    /a
+0ba
+b
+1c d  c
+1a
+1 d   c
+1 c
+b
+1 ac  e
+1  a
+1 ca a
+1 a
+b
+1  d c
+1  c
+0  dee
+b
+1  cdf
+1  d
+1 a  e
+1 c
+b
+
+b
+0 dfec
+0 cd e
+b
+0 cdd  /a
+0 ac
+b
+0  de c
+0     c
+b
+0     e
+0    a
+b
+0 d  c
+0ac  e
+b
+0ca a
+0 cd e
+b
+0 df c
+0bUc e
+b
+1      /a
+1c d
+0c d
+b
+0fc   c
+0     c
+b
+0hg   e
+0    a
+b
+0fd  c
+0eg  e
+b
+0ca a
+0bc  e
+b
+0 da c
+0 c de
+b
+0      /a
+0 ac
+b
+
+b
+0 cd  c
+0     c
+b
+1ad   e
+1 c
+0 c  a
+b
+0cd  c
+1a e e
+#2 d
+x c
+b
+0 aaa
+0a   e
+b
+0 dd c
+0a d e
+b
+1c d   /a
+1  c
+1b d
+1 a
+b
+1ccd  c
+1  f
+1 c   c
+1 d
+b
+1aa   e
+1c
+0ac  a
+b
+1    c
+1 d
+1 c de
+1 a
+b
+1  def
+1 a
+1 c de
+#2 a
+x  d
+b
+
+b
+1  c c
+1  a
+0   de
+b
+1      /a
+1   b
+1   d
+1  c
+b
+0  a ec
+1     c
+1  d
+b
+1 a   e
+1  c
+1 c  a
+1  a
+b
+1 dc c
+1   c
+1a d e
+1  b
+b
+1cd a
+1  c
+1a d e
+1  c
+b
+1c d c
+1 df
+0a c e
+b
+1      /a
+1 e
+1a
+1e
+b
+1ce   c
+1ac
+1 e   c
+1  d
+b
+1 eg  e
+1   e
+0 c ca
+b
+
+b
+0    c
+1    e
+1bc
+b
+0c da
+0b c e
+b
+0cd  c
+0ec de
+b
+1      /a
+1  a
+1  c
+1 a
+b
+0 cd  c
+1  a  c
+1 d
+b
+0 a   e
+0 c ca
+b
+1    c
+1 d
+0a d e
+b
+1 daa
+1 c
+1 d  e
+1a
+b
+0cd  c
+1ba  e
+1  d
+b
+1  c   /a
+1  d
+1 a
+1  d
+b
+0c d  c
+1     c
+1a
+b
+
+b
+1aa   e
+1 d
+1 cf a
+1  d
+b
+1  d c
+1 d
+1 c de
+1 ac
+b
+0  def
+0    e
+b
+0 dcec
+0 ccde
+b
+0 c&Ucd  /a
+1. X
+2bac
+b
+0ccd  c
+0 cde c
+b
+0aa c e
+0ac ca
+b
+0 abac
+0a dfe
+b
+0 ddef
+1    e
+1a
+b
+0cdf c
+0ccd e
+b
+0ccc   /a
+0b
+b
+0ccd  c
+1     c
+1  c
+b
+1  d  e
+1 a
+0 c  a
+b
+
+b
+0 dc c
+1   de
+1 c
+b
+0 acdf
+0 c  e
+b
+0 dfec
+0 cd e
+b
+0 ac   /a
+0    e
+b
+0  de c
+0     c
+b
+0 a c e
+0 c ca
+b
+0    c
+0  d e
+b
+0 aaa
+1    e
+1 c
+b
+0 da c
+0 c de
+b
+1      /a
+1 e
+0b c
+b
+0c d  c
+0  d  c
+b
+0 a   e
+0 c  a
+b
+0ee  c
+0bc  e
+b
+0cc a
+0ba  e
+b
+
+b
+1cd  c
+#2 c
+x a
+0c d e
+b
+0ecc   /a
+0    e
+b
+1     c
+1    e
+1   e
+1  d
+b
+1 c
+1 g
+0ccd  c
+b
+b
+
+e

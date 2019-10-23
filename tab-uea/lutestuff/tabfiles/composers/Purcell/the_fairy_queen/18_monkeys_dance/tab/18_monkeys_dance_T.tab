@@ -1,0 +1,136 @@
+-C
+-t
+-f
+{/}
+b
+0.
+b
+.
+0aac  a
+#2
+x     a
+b
+1.aa   e
+2     e
+1     a
+b
+1.acd a
+1 ea c
+2    c
+b
+1.ac\1c \3e
+2    e
+1ac  a
+b
+1.\2c\4e  \1c
+1.a d e
+b
+1.ca b
+1.aa c
+b
+1.ccee
+1.     c
+b
+A1
+0.ca b  //a
+.
+b
+b
+A2
+1.ca b  //a
+1
+2ccee
+b
+.
+1cef
+2aac
+1c d
+2  a
+b
+1.eec
+1
+2eba
+b
+
+b
+1.ec c
+1ccde
+2     c
+b
+1. ccd  /a
+1. ca a
+b
+1 ea c
+2aa   e
+1ac  a
+2a c
+b
+1.\4f\3ea
+1.\3e\4f\1c
+b
+2ca b
+1aacc
+1acd a
+2aa   e
+b
+A1
+2ccd  c
+1 ea   //a
+1aac  a
+2ccee
+.
+b
+b
+A2
+2ccd  c
+1 ea   //a
+1aac  a
+2 ea c
+b
+c
+waacc
+b
+w ea c
+b
+w cd  c
+b
+w cdca
+b
+wa d e
+b
+wec c
+b
+wa e ec
+b
+w efec
+b
+
+b
+wcef
+b
+wacd
+b
+wea c
+b
+0a c e
+0 ea   //a
+b
+.
+waac  a
+b
+w ea c
+b
+wcad   //a
+b
+A1
+waac  a
+.
+b
+b
+A2
+0aac  a
+0
+b
+b
+
+e

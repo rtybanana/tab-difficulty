@@ -1,0 +1,138 @@
+-C
+-t
+-f
+b
+C
+2     a
+#3  a
+x   d
+#2  a
+x      a
+2      /a
+#3  a
+x   d
+#2  a
+x      //a
+b
+#3      ///a
+x  eU
+x  c
+x  aX
+#3  c-- //a
+x a
+x  eU
+x  cX
+2  e--a
+#3  cU
+x  eX
+1  a&#
+b
+
+b
+2  e--a
+#3 eU
+x cX
+#2 e
+x  a   /a
+2  c-- a
+#3 c
+x a
+#2 c
+x   d  //a
+b
+2  a   /a
+#3e
+xd
+#3 e -- ///a
+x c
+x a
+x  e
+0  c&#-- //a
+.
+b
+b
+.
+#2 c -- 4
+x  a
+#2  a-- 4
+x   c
+#2   cU ///a
+x   bX
+#3   cU
+x   bX
+x    cU
+x    aX
+b
+
+b
+#2 e--b
+x  c
+#2  c b
+x  a
+#2  a-- //a
+x   d
+#3  a
+x   d
+x    eU
+x    cX
+b
+#3      //a
+x  e
+x c
+xe
+#3      //a
+x  c
+x a
+xd
+#3      //a
+x  a
+x b
+xb
+#3      //a
+x   d
+x  c
+x c
+b
+
+b
+#3      //a
+x  e
+x c
+xe
+#3      //a
+x  c
+x a
+xd
+#3      //a
+x  a
+x b
+xb
+#3      //a
+x   d
+x  c
+x c
+b
+#3  a-- 4
+x  e
+x  c
+x  a
+#2  c-- ///a
+x   d  //a
+#2  a-- /a
+x a
+#2  e   //a
+x  c   ///a
+b
+#3 c -- 4
+x  e
+x  cU
+x  aX
+#2  c   ///a
+x   dU //a
+1  aeX
+1      6
+.
+b
+b
+P
+e

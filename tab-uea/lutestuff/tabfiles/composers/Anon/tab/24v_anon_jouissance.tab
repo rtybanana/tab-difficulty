@@ -1,0 +1,200 @@
+-C
+-t
+-f
+{Jouissance/Jouissance}
+b
+C
+0aa c
+1aa c
+1aabc
+b
+#2caaa
+xa
+1d  c
+#2 abc
+xc  a
+xa b d
+x d  c
+b
+#2a bcd
+x  a
+#3  b
+x  a
+x  b
+x  d
+1 aabc
+1da c
+b
+1d  c
+1ddf  d
+0ddf  d
+b
+
+b
+1ddf  d
+#2f a
+xd  c
+#2cd a
+xd
+1fca
+b
+1 dff
+1dbbc
+#2 dda
+xc
+#3d
+xc
+xa
+xc
+b
+1dabc
+#3  d
+x a
+x  d
+x  b
+#3  a
+x   c
+x   a
+x   c
+1caa c
+b
+
+b
+#2  aa
+x  b
+x cd a
+x d
+#2ab ca
+x     d
+x    a
+x   ac
+b
+1a bcd
+#2 dfec
+x    a
+1 ab  d
+1 cdca
+b
+#2 daac
+x c
+x d
+xa   e
+#2cd a
+x c
+xda c
+x  de
+b
+#2  bc
+xc
+xffg a
+xda
+#2cdda
+xa b
+xa a
+x   c
+b
+
+b
+#3 aa c
+xa
+x e
+x c
+#3 e
+xa
+xc
+x e
+#3aa c a
+x  d
+x  b
+x  a
+#3   c
+x  a
+x  b
+x  d
+b
+0da c
+1da c
+1da c
+b
+1.hdff
+2f
+1hdff
+1if h
+b
+1 da
+1h ff
+1 hhe
+1g
+b
+0h ik h
+1  ik h
+1cd  c
+b
+#2da c
+x  d
+xda c
+x c
+1cd a
+1h ia
+b
+
+b
+1 d  c
+1fc  e
+1 dfa
+1dbbc
+b
+#2 dda
+xc
+#3d
+xc
+xa
+xc
+1dab  d
+1a
+b
+1 a c
+1ca  c
+#2  aa
+x  bc
+x cd a
+x d
+b
+#2ab ca
+x d   d
+x    a
+x a  c
+1a bcd
+#2 dfec
+x c
+b
+
+b
+1 ab  d
+1 cdca
+#2 daac
+x c
+x d
+xa   e
+b
+#2cd a
+x c
+xda c
+x  de
+#2  bc
+xc
+xffg a
+xda
+b
+#2cdda
+xa b
+xa a
+x   c
+1 aa c
+1 e
+b
+1aabc a
+b
+b
+
+e

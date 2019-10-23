@@ -1,0 +1,144 @@
+-C
+-t
+-f
+{Courante/Anonymous}
+b
+1  d
+b
+.
+1. b"#dca
+2 d
+1a"#
+b
+1  d"x
+1      ///a
+1f
+b
+1.e"#a   a
+2f
+1h
+b
+1f"#
+1    a
+1 a
+b
+1 bd{
+1 d  }
+1a b
+b
+1f"#  d{
+1  g
+1f    }
+b
+1d"#  f{
+1  f
+1 g   }
+b
+1a"#   d{
+1  d&(
+1a  )
+b
+1 d  c{
+1  c
+2a
+2 d
+b
+
+b
+1 b"x  a
+1     d
+1 d   b
+b
+1a"#    a
+1  c
+1  d{
+b
+1 b
+1. a"#   a
+3  d
+3 a
+b
+1  d
+1    a
+1      ///a
+b
+A1
+0  dc
+1  d
+.
+b
+b
+A2
+0  dc
+1a
+b
+.
+1ab  d{
+1b
+1d
+b
+1d    d{
+1.a"#
+2 d
+b
+0. b"#bcd /a
+b
+0      /a
+1i
+b
+1h"#  f{
+1 f   }
+1i"x  h
+b
+1    h
+1f"#  d{
+1 d   }
+b
+
+b
+1d  c{
+1 b
+1d    }
+b
+1b  a
+1f
+2d   c
+2b
+b
+1a"#   d
+1     d{
+1 d
+b
+1 b  a
+1     a
+1 a
+b
+1  d  b
+1 a"#    a
+1  d
+b
+1  c"#c
+1      /a
+1f
+b
+1      a
+1.e"#a   a
+3c
+3e
+b
+1f"x
+1    a
+1      ///a
+b
+A1
+0fcd
+1a
+.
+b
+b
+A2
+Y.fcd
+b
+b
+
+e

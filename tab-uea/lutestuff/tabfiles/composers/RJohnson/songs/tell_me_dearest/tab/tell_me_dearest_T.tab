@@ -1,0 +1,69 @@
+-C
+-t
+-f
+{Tell me, dearest/Tell me, dearest}
+b
+C
+0aabc
+0 db c
+b
+0a dcd
+1 efec
+1      /a
+b
+0 dde  a
+1    f
+1 dde
+b
+1 abc
+1a    a
+0 ef c
+b
+
+b
+1.da   d
+2c
+1.a   d
+2 d  c
+b
+1.fb  a
+2d
+1.c  a
+2a   d
+b
+1 d  c
+#2ab  a
+xc
+1d f  d
+1 d
+b
+1  da
+1c     a
+0ddf  d
+b
+b
+
+b
+1.hd   d
+2f
+1.df  d
+2 d  c
+b
+1fb  a
+1a
+0da c
+b
+1a b  a
+#2   c
+xc
+1df  d
+#2    a
+xc
+b
+1cf  c
+1 e    /a
+0aab  a
+b
+b
+
+e

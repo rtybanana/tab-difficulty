@@ -1,0 +1,119 @@
+-C
+-t
+-f
+{288. Branle 6/288. Branle 6}
+b
+2  d   a
+#3   d
+x  b
+x  d
+x   d
+b
+.
+2  b   a
+#3   c
+x   d
+x  b
+x   c
+2   da a
+#3   a
+x   c
+x   d
+x   a
+b
+#3   ca
+x   a
+x   c
+x   d
+2   c
+#3  d   a
+x  b
+x  d
+x a
+x b
+x  d
+b
+#3 d    a
+x b
+x a
+x b
+2  d
+#3 a   a
+x  d
+x  c
+x  d
+x a
+x  c
+b
+
+b
+2  d a
+#3  a
+x  c
+2  d
+2  d   a
+#3   d
+x  b
+x  d
+x   d
+b
+2  b   a
+#3   c
+x   d
+x  b
+x   c
+2   d  a
+#3   a
+x   c
+x   d
+x   a
+b
+#3   ca
+x   a
+x   c
+x   d
+2   c
+2  b   a
+#3  d
+x  b
+x   d
+x   c
+b
+2   d  a
+#3    a
+x    c
+x    e
+x   a
+#3   c
+x   a
+x    e
+x   a
+x   c
+x    e
+b
+
+b
+A1
+#3   a  a
+x    e
+x   a
+x   c
+2   a
+2  d   a
+#3   d
+x  b
+x  d
+x   d
+.
+b
+b
+A2
+#3   a  a
+x    e
+x   a
+x   c
+Y   a
+b
+b
+
+e

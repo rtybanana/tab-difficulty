@@ -1,0 +1,128 @@
+-C
+-t
+-f
+{21. Mein Gemüd und Blüe/21. Mein Gemüd und Blüe}
+b
+c
+0 d a
+1 d a
+#2 b
+x a
+b
+0 bd a
+1 bd a
+#2 db c
+x  a
+b
+1a b d
+1 daa
+1   ca
+1 c
+b
+Y d a
+b
+0
+0 d a
+b
+1 da c
+#2  a
+x  b
+1c d a
+1da   d
+b
+1 a
+#2c d a
+xa
+1 d  c
+1  c
+b
+0 bd a
+1 daa
+1 abc
+b
+
+b
+#2  d
+x  b
+xa a
+x   c
+1  a c
+1 e
+b
+Ya  cd
+b
+0
+0a  cd
+b
+0 bd a
+0  def
+b
+0 d ac
+0 ab  d
+b
+1  bcd
+1 b
+1 b ca
+#2   a
+x    d
+b
+1 a a
+1  d d
+1    ca
+1  c
+b
+Y  d a
+b
+0
+0  d ac
+b
+1  b c
+1 a a
+1   c
+1    e
+b
+0  aa
+0  de
+b
+1 ab
+1 d
+1   ca
+1 c
+b
+Y d a
+b
+
+b
+0
+0c da
+b
+0da   d
+1da   d
+#2  d
+x  b
+b
+1c da
+1a bc
+1  a c
+1 e
+b
+0a  cd
+1 da c
+1  b
+b
+1 bd a
+1a
+1a d a
+1 ab
+b
+1  de
+#2 d c
+x   a
+1   ca
+1 c
+b
+Y dda
+b
+b
+
+e

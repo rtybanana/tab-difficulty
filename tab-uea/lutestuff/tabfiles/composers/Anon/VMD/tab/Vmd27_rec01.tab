@@ -1,0 +1,660 @@
+-C
+-t
+-f
+{Ricercar/Ricercar}
+b
+c
+#1a    a
+x d
+x b
+x a
+b
+#1 b  a
+x a
+x  d
+x  b
+b
+#1  d  b
+x b
+x d
+x b
+b
+#1 a   d
+x  d
+x  b
+x  a
+b
+#1  b  a
+x  a
+x   c
+x   a
+b
+#1    cd
+xc
+xd
+xf
+b
+#1d  c
+xc
+xa
+x d
+b
+#1a   d
+x d
+x b
+x a
+b
+
+b
+#1 b  a
+x a
+x  d
+x  b
+b
+#1  d  b
+x  b
+x  d
+x  a
+b
+#1  b  d
+x     c
+x     a
+x     c
+b
+#1     d
+x    c
+x    d
+x   a
+b
+#1 b c
+x   a
+x   c
+x    d
+b
+1 a a
+#2   c
+x   a
+#2   c
+x   a
+x    d
+x    c
+b
+1  d a
+#2c
+xd
+#2f
+xd
+xc
+xa
+b
+
+b
+#2c
+xa
+x d
+x b
+#2 d
+x b
+x a
+x  d
+b
+0 a c
+0  de
+b
+1 a c
+#2  d
+x  c
+#2  d
+x  c
+x  a
+x  c
+b
+#2  d a
+x  c
+x  d
+x a
+#2 b
+x d
+xa
+xc
+b
+1d    a
+#2c
+xa
+#2 d
+x b
+x a
+x  d
+b
+#2  b  a
+x  a
+x  b
+x  d
+#2 a
+x b
+x d
+xa
+b
+
+b
+1c  a
+#2a
+x d
+#2 b
+x a
+x  d
+x  b
+b
+#2  d  b
+x  b
+x  d
+x a
+#2 b
+x d
+xa
+xc
+b
+1a   d
+#2c
+xa
+#2 d
+x b
+x a
+x  d
+b
+#1 a   d
+x b
+x d
+x a
+b
+#1 b  a
+x a
+x  d
+x  b
+b
+#1  d  b
+x a
+x b
+x  d
+b
+#2 a   d
+x  d
+x a
+x b
+#2 a
+x b
+x d
+x a
+b
+
+b
+#1 b  a
+x d
+xa
+x b
+b
+#1 d  c
+x b
+x a
+x  d
+b
+#1 a   d
+x b
+x d
+x a
+b
+#1 b  a
+x a
+x b
+x d
+b
+#1 b  a
+x d
+xa
+x b
+b
+#1 d  c
+xa
+xc
+x d
+b
+#1a   d
+x d
+x b
+x a
+b
+#1 b  a
+x d
+xa
+x b
+b
+#1 d  c
+x b
+x d
+xa
+b
+
+b
+#1 d
+xa
+xc
+x d
+b
+#1a   d
+xc
+xd
+xa
+b
+#1c  a
+xa
+x d
+x b
+b
+#1 d  c
+xa
+xc
+x d
+b
+#2a   d
+x d
+xa
+xc
+#2a
+xc
+xd
+xa
+b
+#1c  a
+xd
+xf
+xc
+b
+#1d  c
+xc
+xa
+x d
+b
+#1a   d
+xc
+xd
+xa
+b
+
+b
+#2c  a
+xa
+xc
+xd
+#2c
+xa
+x d
+x b
+b
+0 d  c
+0 b  a
+b
+#1 d  c
+xa
+xc
+x d
+b
+#2a   d
+x d
+xa
+xc
+#2a
+x d
+x b
+x a
+b
+0 b  a
+0 a   d
+b
+#1 b  a
+x d
+xa
+x b
+b
+#2 d  c
+x b
+x d
+xa
+#2 d
+x b
+x a
+x  d
+b
+0 a   d
+0  d  c
+b
+
+b
+1 a   d
+#2 b
+x d
+#1 b
+x d
+b
+#2 b  a
+x a
+x b
+x d
+#2 b
+x a
+x  d
+x  b
+b
+0  d  b
+#2 a   d
+x  d
+x  b
+x  a
+b
+#2  b  a
+x  a
+x  b
+x  d
+#2  b
+x  a
+x   c
+x   a
+b
+#2    d
+x   a
+x   c
+x   d
+#2   c
+x   a
+x    d
+x    c
+b
+
+b
+#2  dca
+x    c
+x    d
+x    a
+#2    c
+x    a
+x     d
+x     c
+b
+0  ccca
+0  d  c
+b
+#1  dcca
+x  c
+0  dca
+b
+0if
+#1hd
+xf
+b
+#1d
+xc
+0ab
+b
+0f d
+0ea
+b
+0f d
+0 b c
+b
+#1 a   d
+x  d
+x  b
+x  a
+b
+0   cd
+0  d d
+b
+0  c c
+0  d a
+b
+1a b
+#2c
+xd
+#1c
+xa
+b
+0c d
+0a b
+b
+
+b
+0 ea
+0a  c
+b
+1   c d
+#2   e
+x   f
+#1   e
+x   c
+b
+0   ea
+0   c d
+b
+0   b c
+0   c a
+b
+#1da
+xc
+xd
+xa
+b
+0c
+0  d
+b
+#1a b
+x  a
+x  b
+x   c
+b
+0 ea
+0a  c
+b
+#1  b c
+x  a
+x  b
+x   c
+b
+0  a a
+0   c d
+b
+#1     c
+x     a
+0   b c
+b
+
+b
+#2a  c a
+x  a
+x  b
+x  d
+#2 a
+x b
+x d
+xa
+b
+#2c
+xa
+x d
+x b
+#2 a
+x  d
+x  b
+x  a
+b
+#1   c
+x  d d
+0  c c
+b
+#2  d a
+x  b
+x  d
+x a
+#2 b
+x d
+xa
+xc
+b
+0ab
+0f d
+b
+0ea
+0f d
+b
+0  d a
+0  c c
+b
+0  d a
+#2  d
+x a
+x  d
+x  c
+b
+0  d a
+0  c c
+b
+
+b
+0  d a
+0fb
+b
+0ea
+0f d
+b
+0i  h
+0h  g
+b
+#1f  h
+x  g
+x  f
+x d
+b
+#1a  c
+xd
+0b  a
+b
+#1   c
+xa b
+0 d d
+b
+#1a  c
+x d
+x b
+x a a
+b
+#1    d
+x    c
+0 b  a
+b
+#1 d  c
+x b
+x a
+x  d
+b
+#1    d
+x   a
+x a  d
+x    c
+b
+
+b
+#1 b  a
+x a
+x  d
+x  b
+b
+#1    c
+x    d
+x    c
+x    a
+b
+#2     d
+x  a
+x  b
+x  d
+#2 a
+x b
+x d
+xa
+b
+#1 b c
+x a
+x b
+x  d
+b
+#1 a a
+x    d
+0  d a
+b
+#1 a   d
+x b
+x a
+x  d
+b
+#1  b
+x  a
+0   c
+b
+0  d d
+0  c c
+b
+
+b
+#1  d a
+x  b
+#2  d
+x a
+x b
+x d
+b
+#1a   d
+xc
+0d
+b
+#1b  a
+xa
+x d d
+x c c
+b
+#2 d a
+x b
+x a
+x  d
+#2  b
+x   d
+x   c
+x   a
+b
+#2    d
+x   a
+x   c
+x    d
+#2   c
+x   a
+x    d
+x    c
+b
+#2  d a
+xd
+xc
+xa
+#2 d
+x b
+x a
+x  d
+b
+#1 a c
+x  de
+x a c
+x  c
+b
+
+b
+1  d a
+b
+b
+
+e

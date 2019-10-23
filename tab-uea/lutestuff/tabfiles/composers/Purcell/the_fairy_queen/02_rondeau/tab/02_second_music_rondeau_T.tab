@@ -1,0 +1,166 @@
+-C
+-t
+-f
+{/Henry Purcell}
+b
+#2 aba d
+x     c
+#2     d
+x    a
+#2 db c
+x    d
+b
+0 daa
+1 da   a
+b
+#2 bdca
+x     d
+#2    a
+x    c
+#2a d d
+x   a
+b
+0aabc
+1   a
+b
+#2abb d
+x    c
+#2    d
+x   a
+#2db c
+x  a
+b
+0dab
+1 da c
+b
+1aabc
+1ab  d
+1 daa
+b
+0. aba d
+.
+b
+b
+1 aba d
+1 db c
+1     d
+b
+
+b
+#2a b d
+x    c
+#2    d
+x   a
+1    d
+b
+1a \2d&{ \3e
+1    a
+1a d e
+b
+#2c da
+x    \3e
+#2   a
+x   c
+#2 daa
+x   c
+b
+1 dde
+1   a
+1fd e
+b
+#2dab
+x  d
+#2  b
+x  a
+#2da c
+x   a
+b
+#2a b d
+x    c
+#2    d
+x   a
+#2db c
+x    d
+b
+#2cdda
+x   c
+#2   a
+x    d
+#2    c
+x    a
+b
+
+b
+#2da a d
+x     c
+#2     d
+x    a
+#2 db c
+x    d
+b
+0 daa
+1 da   a
+b
+#2 bdca
+x     d
+#2    a
+x    c
+#2a d d
+x   a
+b
+0aabc
+1   a
+b
+#2 bbcd
+x    c
+#2    d
+x   a
+#2db c
+x  a
+b
+0dab
+1 da c
+b
+1aabc
+1a b d
+1c da
+b
+0.da a d
+b
+b
+1aab  d
+1acd  c
+1 e
+b
+0aab  a
+1db c
+b
+1ca a
+1aa  d
+1  d
+b
+
+b
+1 ea c
+1
+1 ab  d
+b
+0a\1bb d
+1\2cb\3d a
+b
+1ca bc
+1      b
+#2aab  a
+x
+b
+1aba a
+1aab c
+#2 ea   //a
+x
+b
+0aab  a
+1 dd  c
+b
+b
+
+e

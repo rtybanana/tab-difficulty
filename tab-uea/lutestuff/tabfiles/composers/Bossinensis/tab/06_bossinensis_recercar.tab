@@ -1,0 +1,118 @@
+-C
+-t
+-f
+{Ricercar 6/Ricercar 6}
+b
+#3 bdca
+x a
+x b
+x d
+#3a
+xc
+xe
+xf
+#2h    a
+xf
+#3h
+xf
+xe
+xc
+b
+#3d
+xc
+xa
+x d
+#3a
+x d
+x b
+x a
+#3  d ab
+x a
+x b
+x d
+#3a
+x d
+x b
+x a
+b
+
+b
+#3 d  a
+x b
+x a
+x  d
+#3c
+xa
+x d
+x b
+#3 a   a
+x  d
+x  c
+x  a
+#3   c
+x   a
+x    d
+x    c
+b
+#3  daab
+x  c
+x  d
+x a
+#3 b
+x a
+x b
+x d
+#3aa   a
+xc
+xe
+xf
+#3h
+xf
+xe
+xc
+b
+#2fa   a
+xe
+#3f
+xe
+xc
+xe
+2f d a
+#3d
+xc
+#3a
+x d
+x b
+x a
+b
+
+b
+1abdca
+1b da
+#2ab
+xc
+#3d
+xc
+xd
+xa
+b
+#2f   a
+xd
+#3f
+xd
+xc
+xa
+2b da
+#3d
+xb
+#3d
+xb
+xa
+x d
+b
+0b da
+Yac ca
+b
+b
+
+e

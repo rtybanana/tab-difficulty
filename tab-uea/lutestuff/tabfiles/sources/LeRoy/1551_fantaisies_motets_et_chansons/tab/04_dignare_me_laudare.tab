@@ -1,0 +1,497 @@
+-C
+-t
+-f
+{4. Dignare me laudare/4. Dignare me laudare}
+b
+c
+w   c
+b
+0   c
+0   c
+b
+wa d
+b
+0a  c
+0a b
+b
+1 d
+1  b
+1  a
+1   c
+b
+0 da
+0a b
+b
+1  dca
+1 d
+1 b
+1 a
+b
+1 bdca
+1   a
+1 bdca
+1  a
+b
+1 abc
+1  a
+1  b
+1  d
+b
+1aa c
+1  b
+1  d a
+1 a
+b
+
+b
+1a d d
+1  b
+1a a
+1   c
+b
+0 ddef
+0   e
+b
+1 bdca
+1  a
+1  b
+1  d
+b
+1 abc
+1   b
+1   c
+1  a
+b
+1 abc
+1  d
+1 ab
+1   c
+b
+1   a
+1   c
+1  dd
+1  bc
+b
+1  def
+1 a
+1 bbc
+1  dd
+b
+1a bc
+1 aaa
+1 a cd
+1   ac
+b
+1aa cd
+#2  d {
+x  b  }
+#2a d d
+x  a
+x  b
+x  d
+b
+
+b
+1 dfec
+1  d {
+1  f
+1 c   }
+b
+1 dfec
+1a
+1c d
+1d
+b
+1ca  c
+1a b
+1a a
+1   c
+b
+1 ffec
+#2 e
+x c
+#2 ffec
+x e  {
+#3 f
+x e
+x c
+x e   }
+b
+1ab c
+1   b
+1  bc
+1  a
+b
+1abbc
+1 a
+#2  d
+x  c
+x  d
+x a
+b
+1 b ca
+1    c
+1a   d
+1   a
+b
+
+b
+1 a c
+1 b
+1 d a
+#2 b
+x a
+b
+1  dd
+1 a
+1 bd
+1 d
+b
+1aa c
+1c
+1d b
+1a
+b
+1cbd
+1a
+0a b
+b
+1 b c
+#2 a
+x b
+1 df
+1 b
+b
+1aabc
+1 d
+1 b  d
+1 a
+b
+1 bdd
+#2 a
+x b
+1 dd
+1   d
+b
+1aadc
+#2  c {
+x  a
+#2  d
+x  c
+#3  d
+x  c
+x  a
+x  c  }
+b
+
+b
+0a d a
+0 bd
+b
+1 abc
+1  a
+1a bc
+1  d
+b
+1 df
+1   f
+1 a c
+#2  d
+x  b
+b
+0 ddef
+0 a  c
+b
+1 b cd
+#2  a
+x  b
+#2  d a
+x  a
+#3  b
+x  a
+x  b
+x  d
+b
+1 abc
+1  d
+1aa c
+1 c
+b
+1 db
+#2a  c
+xc
+1da
+#2  a
+x  b
+b
+1cdd
+1   a
+1    c
+1 df {
+b
+
+b
+1abb
+1    d
+1    f
+1c de
+b
+1    d
+1abb
+1a d
+1    a
+b
+1 efec
+1 f
+#2 ffec
+x e  {
+#3 f
+x e
+x c
+x e   }
+b
+0aa c
+0   c
+b
+0 a
+0   a
+b
+0  dd
+1 b c
+1   b
+b
+1 a c
+1  a
+1  bc
+1  d
+b
+1 dfa
+1   c
+1  dd
+1 a
+b
+1ab c
+1  de
+1 abc
+1 bd
+b
+
+b
+1 df
+1 bd
+1 d d
+1  d
+b
+1aadc
+#2  c {
+x  a
+#2  d
+x  c
+#3  d
+x  c
+x  a
+x  c  }
+b
+0a d a
+0 bd
+b
+0 abc
+0a bc
+b
+0 dff
+1 a c
+#2  d
+x  b
+b
+1 dde
+1    f
+1    c
+1 a
+b
+1 b cd
+#2  a
+x  b
+0  d a
+b
+0 abc
+0a  c
+b
+0 db
+1da c
+#2  a
+x  b
+b
+
+b
+1cdd
+1   a
+1    c
+1 df
+b
+#2abb d
+x c
+x d
+xa
+1cdd
+1   a
+b
+1    d
+1abb
+1abd
+1    a
+b
+1 efec
+1 f  a
+#2 ffec
+x e  {
+#3 f
+x e
+x c
+x e   }
+b
+0aa c
+0   c
+b
+0 a
+0   a
+b
+0  dd
+0 b c
+b
+1aa
+1   a
+#2 abc
+x  d
+x a
+x b
+b
+
+b
+#2 d  c
+x b  {
+x d
+xa    }
+1cdd
+1   a
+b
+1    d
+1abb
+1  d
+1    a
+b
+1aa c
+1c  {
+1d b
+1a   }
+b
+1c d
+1a
+1a d
+#2  b
+x  a
+b
+1   c
+1 d
+1 ab
+1 b
+b
+1 dfa
+1 b
+1 a d
+1  d
+b
+1 a c
+1  d
+1a b
+1   a
+b
+1    d
+1  d
+1 d a
+1  bc
+b
+1c da
+1 a
+1ab  d
+1    c
+b
+
+b
+1    a
+1 a  c
+1a d d
+1   a
+b
+1 a c
+1c
+1d b
+1a
+b
+1c d a
+1a
+1ab
+1  d
+b
+1 ffec
+#2 e  {
+x c   }
+1 ffec
+1 e
+b
+1a  c
+1  d
+1 a c
+1 b
+b
+1 d a
+1   c
+1  dd
+1   a
+b
+1 a c
+1  d
+0  bc
+b
+0 dfa
+1  dd
+1 a
+b
+1ab c
+1  de
+1 abc
+1 bd
+b
+
+b
+1 dfa
+1 bd
+1 a d
+1  d
+b
+0 a c
+1aab
+1   a
+b
+1  d d
+1  b
+1 daa
+1   c
+b
+0b da
+0a  cd
+b
+1  fef
+1 d  {
+1 c
+1 a   }
+b
+1 cd
+1   c
+1    a
+1 d
+b
+Y cdca
+b
+b
+
+e

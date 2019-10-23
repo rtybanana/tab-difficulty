@@ -1,0 +1,75 @@
+-C
+-t
+-f
+{Quelle pointe de jalousie/Quelle pointe de jalousie}
+b
+0. dba d
+b
+0 dda
+1 db c
+b
+1a b d
+1 d  c
+1 b  a
+b
+0 dba d
+1 dba
+b
+0a b d
+1abd a
+b
+
+b
+0aabc
+#2   a
+x    d
+b
+0 db c
+1a b d
+b
+0 dba d
+1 dba
+#2  a
+x b
+0 aba d
+b
+1 dda
+1    d
+1 d  c
+b
+0 bdca
+1 bdc
+b
+
+b
+0 abc
+1   c
+b
+0 ab
+1 dde
+b
+1 dff
+1d  c
+1  b
+b
+0cdda
+1cdd
+b
+0abd a
+1   c
+b
+0aab
+1 dde
+b
+
+b
+1 dff
+1 dba
+#2  a
+x b
+b
+0. aba d
+b
+b
+
+e

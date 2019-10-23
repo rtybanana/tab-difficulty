@@ -1,0 +1,745 @@
+-C
+-t
+-f
+{75. Passamezzo galliard/Anonymous}
+b
+#2 d
+x b
+#3 d
+x b
+x a
+x b
+1  d
+b
+#2b
+xa
+#2 d
+x b
+#2 a
+x  d
+b
+#2 a
+x  d
+#2  b
+x  a
+#2  b
+x   c
+b
+#2d
+xc
+#2a
+x d
+#2 b
+x a
+b
+#2 b
+x a
+#2  d
+x a
+#2 b
+x d
+b
+
+b
+2a
+#3c
+xe
+2f
+#3e
+xf
+#2e
+xc
+b
+1e
+#2c
+xa
+#2 d
+x b
+b
+#2 a
+x  d
+#2 a
+x  b
+#2d
+xb
+b
+2.a
+3c
+#2d
+xc
+#2a
+x d
+b
+#2b
+xa
+#2 d
+x b
+#2 a
+x  d
+b
+#2 a
+x  d
+#2  b
+x  a
+#2  b
+x  d
+b
+#2 a
+x c
+#2 d
+x a
+#2a
+x d
+b
+
+b
+#2 b
+x a
+#2  d
+x b
+#2 a
+x  d
+b
+#2  c
+x  a
+#2  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+#2  d
+xa
+#2a
+x d
+#2 c
+x a
+b
+#2 d
+x c
+#3 d
+x c
+x a
+x c
+#2  d
+x    a
+b
+b
+#3  d
+x  b
+x  d
+x a
+#3 b
+x a
+x b
+x d
+#3a
+x d
+x b
+x a
+b
+
+b
+#3 b
+x a
+x  d
+x  b
+#3  d
+x  b
+x  a
+x   c
+#3  a
+x  b
+x   c
+x  a
+b
+#3  b
+x  a
+x   c
+x  a
+#3  b
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a
+x b
+b
+#3 d
+x a
+x b
+x d
+#3a
+x d
+xa
+xc
+#3d
+xa
+xc
+xd
+b
+#3c
+xa
+xc
+xd
+#3f
+xh
+xi
+xh
+#3i
+xh
+xf
+xh
+b
+
+b
+2i
+#3 b
+x a
+#3 b
+x d
+xa
+xc
+#3a
+xc
+xe
+xf
+b
+2e
+#3 f
+x e
+#3 f
+x h
+xe
+xf
+#3h
+xf
+xe
+x h
+b
+#3e
+xf
+xh
+xi
+#3l
+xi
+xh
+x l
+#3i
+xh
+#4i
+xh
+xf
+xh
+b
+2i
+#3h
+xf
+#3 i
+xf
+xh
+xi
+#3h
+xf
+x i
+x h
+b
+
+b
+#3a
+xc
+xd
+xc
+#3a
+x d
+xb
+xa
+#3 d
+x b
+x a
+x  d
+b
+#3 a
+x b
+x d
+x b
+#3 a
+x  d
+x b
+x a
+#3  d
+x  b
+x  a
+x   c
+b
+#3   a
+x    d
+x    c
+x    a
+#3     d
+x    a
+x    c
+x    d
+#3   a
+x   c
+x  a
+x  b
+b
+#3  a
+x   c
+x  a
+x  c
+#3  d
+x  c
+x  d
+x a
+#3 b
+x a
+x b
+x d
+b
+
+b
+#3a
+x e
+xa
+xc
+#3e
+xa
+xc
+xe
+#3f
+xe
+#4f
+xe
+xc
+xe
+b
+#3f
+xd
+xa
+xc
+#3d
+xc
+xa
+x d
+#3a
+x d
+x c
+x a
+b
+#3 c
+x  d
+xa
+xc
+#3a
+x d
+x c
+x a
+#2 c
+x  d
+b
+b
+#3a
+x d
+x b
+x a
+#3  d
+x  c
+xf
+xd
+#3c
+xa
+x d
+x b
+b
+
+b
+#3i
+xh
+xf
+x i
+#3 h
+x f
+x d
+x b
+#3 a
+x  d
+x  b
+x  a
+b
+#3 a
+x  d
+x  b
+x  a
+#3   c
+x   a
+x d
+x b
+#3 a
+x  d
+x  b
+x  a
+b
+#3d
+xc
+xa
+x d
+#3 b
+x a
+xh
+xf
+#3 i
+x h
+x f
+x  i
+b
+#3c
+xa
+x d
+x b
+#3 a
+x  d
+x  c
+x  a
+#3   c
+x   a
+x    d
+x    c
+b
+
+b
+#3    a
+x     d
+x     c
+x     a
+#3     c
+x     d
+x    a
+x    c
+#3    d
+x   a
+x   c
+x  a
+b
+#3  c
+x  d
+x a
+x  c
+#3  d
+x a
+x b
+x d
+#3a
+xc
+xe
+xf
+b
+#3e
+xf
+2h
+#3a
+xc
+xe
+x b
+#3 b
+x d
+xa
+x  d
+b
+#3  d
+x b
+x a
+x  d
+#3 b
+xa
+x d
+x b
+#3a
+xd
+xc
+xa
+b
+
+b
+#3f
+xi
+xh
+xf
+#3i
+xn
+xl
+xi
+2i
+#3h
+xf
+b
+2h
+#3f
+x i
+#3 h
+x f
+x  i
+x  g
+#3 a
+x b
+x d
+x b
+b
+#3 d
+x b
+x a
+x  d
+#3 a
+x  d
+x  b
+x  a
+2  b
+#3a
+x d
+b
+#3 b
+x d
+xa
+x b
+#3 d
+xa
+xb
+xa
+#3 d
+x b
+x a
+x  d
+b
+
+b
+#3  c
+x  d
+x a
+x b
+#3 a
+x  d
+x  c
+x  a
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+b
+#3  d
+x   c
+x  a
+x  c
+#3  d
+x a
+x c
+x d
+#3a
+x d
+x c
+x a
+b
+2  d
+#3a
+x d
+#2    a
+x cd
+#2   c
+x    a
+b
+b
+#3    a
+x     e
+x    a
+x    c
+#3    d
+x    c
+x    d
+x   a
+#3   c
+x  d
+x  a
+x  c
+b
+
+b
+#3  d
+x a
+x b
+x d
+#3a
+xc
+xd
+xc
+#3d
+xc
+#4d
+xc
+xa
+xc
+b
+2d
+#4 d
+x b
+x a
+x b
+2 d
+#4  f
+x  d
+x  c
+x  d
+2  f
+#4   f
+x   e
+x   c
+x   e
+b
+2   f
+#3 a
+x  d
+#3 a
+x  d
+x  b
+x  a
+#3  b
+x  a
+x   c
+x   a
+b
+#3    d
+x    c
+x    d
+x   a
+#3   c
+x   a
+x   c
+x   d
+#3   c
+x   a
+x    d
+x    c
+b
+
+b
+2    a
+#4  d
+x  c
+x  a
+x  c
+#3  d
+x a
+x b
+x d
+#3a
+xc
+xe
+xf
+b
+#3e
+xf
+2h
+#3a
+xc
+2e
+#3 c
+x e
+2a
+b
+#3  c
+x  e
+2 a
+#3   c
+x  a
+2  c
+#3    e
+x   a
+2   c
+b
+#3    a
+x    c
+x    d
+x    c
+#3    a
+x    c
+x    d
+x   a
+#2   c
+x    a
+b
+#3  d
+x a
+x b
+x a
+#3  d
+x a
+x b
+x d
+#2a
+x  d
+b
+
+b
+#3 a
+x b
+x d
+x b
+#3 a
+x b
+x d
+xa
+#2 d
+x  b
+b
+#3h
+xi
+xl
+xi
+#3h
+x l
+xh
+xi
+#2l
+x i
+b
+#3c
+xe
+xf
+xe
+#3f
+xe
+#4f
+xe
+xc
+xe
+#3f
+xe
+xc
+xf
+b
+2e
+#4h
+xf
+xe
+xf
+#3h
+xf
+xe
+x h
+#3f
+xe
+#4f
+xe
+xc
+xe
+b
+
+b
+Y.fcd a
+b
+b
+
+e

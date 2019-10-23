@@ -1,0 +1,220 @@
+-C
+-t
+-f
+{23. Galliard Milanoise - 5/23. Galliard Milanoise - 5}
+b
+1aabc
+1aab
+1f de
+b
+1.dabc
+2dab
+1cdda
+b
+1abb d
+1 db c
+1 bd a
+b
+1. aba d
+2a
+1 db c
+b
+1 bd a
+1 aba d
+1  da c
+b
+1. acc a
+2 b
+1 aba d
+b
+1  da c
+1 adc a
+1aac  a
+b
+1.acd a
+2acd
+1   c
+b
+1aabc
+1aab
+1f de
+b
+
+b
+#2da c
+xa  {
+#2c
+xd   }
+#2c  a
+xd
+b
+#2c
+xa
+#2 db c
+xa
+#2 d  a
+x b
+b
+#2 ab  d
+x b
+#2 d
+xa
+#2 dda
+xa
+b
+#2b
+xa
+#2 d a
+x b
+#2 a
+x  d
+b
+#2  cc a
+x  d
+#2 a
+x b
+#2 a a
+x  d
+b
+#2  c
+x  a
+#2  cc a
+x  d
+#2 a
+x  c
+b
+#2    a&{
+x cd  }
+#2   c
+x d
+1 cd a
+b
+
+b
+#2 a
+x b
+1 dba d
+#2a
+x d
+b
+#2 bd a
+x a  {
+#2 b
+x d   }
+1 bd a
+b
+1 aba d
+1 aba
+1  da c
+b
+1aac  a
+#2   c{
+x  d  }
+1aac  a
+b
+#2  d a
+x  c
+#2  d
+x a
+#2 b
+x d
+b
+1abb d&{
+#2ab
+x  b  }
+1 db c
+b
+1 bd a
+1 bba d
+1 aba d
+b
+0 bbcd
+1abb d
+b
+#2abb
+xabb
+1 db c
+1abb d
+b
+
+b
+1 bd a
+1   c
+#2 dda
+x c
+b
+#2 d
+xa
+#2 dda
+x b
+#2 a
+x  d
+b
+#2 ac  a
+x  d
+#2 a
+x b
+#2 a a
+x  d
+b
+#2  c
+x  a
+#2 acc a&{
+x  d
+#2     a}
+x  c
+b
+#2  d a
+xf
+#2d
+xc
+#2ab  d&{
+xd
+b
+#2c
+xa
+#2 db c
+xb   {
+#2a
+x d   }
+b
+#2 bd a
+xa
+#2 d
+x b
+#2 ab  d
+x d   {}
+b
+
+b
+#2 b
+x a
+#2  da c
+x b   {
+#2 a
+x  d
+b
+#2  cc a
+xd
+#2c
+xa
+#2 d a
+x b
+b
+#2 a
+x  d
+#2  cc a
+x  d
+#2 a
+x  c
+b
+#2    a
+x cd {
+#2   c
+x d   }
+1 cd a
+.
+b
+b
+
+e

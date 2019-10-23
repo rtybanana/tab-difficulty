@@ -1,0 +1,179 @@
+-C
+-t
+-f
+{Pavana/Pavana}
+b
+c
+1   c
+1  a
+b
+0aabcca
+1   c
+#2  d
+x a
+b
+1 b c
+1 a
+1   b
+1  d
+b
+1. abc
+2a
+1d
+1c da
+b
+1aab
+#2 d
+x  a
+1d  c
+1 c
+b
+
+b
+1cd a
+#2 c
+x a
+#2  d
+x  b
+#2  a
+x   c
+b
+1   a
+1 d
+1da c
+1 c
+b
+0cdda
+0da  c
+b
+0a d e
+0ca b
+b
+1da c
+1c
+1a
+1  db
+b
+1 abc
+#2  d
+x a
+1 b a
+1 a
+b
+
+b
+1 a  d
+1    c
+1a   d
+1  d
+b
+0 ef c
+0cef
+b
+0dff  a
+1cce  c
+1a
+b
+0 ef c
+1 aa c
+1 c
+b
+1 d
+1 ab
+1 b  a
+1  a
+b
+1 ab  d
+#2   c
+x  a
+#2  b
+x  d
+#2 a
+x b
+b
+
+b
+1 d  c
+1 ab
+1 b  a
+1  a
+b
+1 ab  d
+1 c
+1 d
+1  a
+b
+1 cdca
+1 d a
+1   c
+1 c
+b
+1 daa
+1a
+1c
+1  b
+b
+1  d
+1 da
+1 abc
+1 c
+b
+
+b
+1 daa
+#2 a
+x c
+#2 d
+xa
+#2c
+xd
+b
+1c  a
+1 da c
+1a d e
+1ca b
+b
+1 abc
+#2 c
+x e
+1a
+1   a
+b
+1a   d
+1d
+1c   a
+1a
+b
+0 efec
+0aab  d
+b
+0 c
+1 e
+x    c
+b
+
+b
+1aab  a
+#2   c
+x  a
+#2  b
+x  d
+#2 a
+x b
+b
+1 a
+1a    d
+1  d  c
+1 e
+b
+0aac  a
+#2   c
+x  d
+#2  c
+x  a
+b
+Yaac  a
+b
+b
+
+e

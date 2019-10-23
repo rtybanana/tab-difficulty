@@ -1,0 +1,105 @@
+-C
+-t
+-f
+{19. Die Not sucht Weg/19. Die Not sucht Weg}
+b
+c
+0a d a
+1 b ca
+1 da  c
+b
+0a b  a
+1  de
+1 a c a
+b
+#2 b c
+x    d
+1  da
+1    c
+1  c
+b
+1  d a
+1    a
+1   a
+1  d a
+b
+1 a ac
+#2 d a
+x    d
+#2 d  c
+xa
+1c   a
+b
+1d  c a
+#2   c
+x  a
+1a b
+1c da
+b
+#2  d
+x  b
+xa a
+x   c
+1  a c
+1 e
+b
+
+b
+0a  c a
+1
+1a  ca
+b
+1a  c a
+#2 d
+x b
+1 ab  d
+#2 ba
+x   c
+b
+0 d ac
+1    c
+1 a c a
+b
+1 b
+1 a a
+1 a  d
+1  d
+b
+0 a  cd
+1    cd
+1a   d
+b
+1 d ac
+1 a c d
+1 b  a
+1 d ac
+b
+1  bcd
+#2    d
+x    c
+1    a
+1   c d
+b
+0  d  c
+1  b  a
+1 a c
+b
+1  b  a
+#2  da
+x    d
+1 a  cd
+1 b  a
+b
+
+b
+#2 b  d
+x a
+1  da
+1    ca
+1  c
+b
+Y  d a
+b
+b
+
+e

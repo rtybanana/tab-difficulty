@@ -1,0 +1,111 @@
+-C
+-t
+-f
+{Hark! Hark! The lark/Hark! Hark! The lark}
+b
+C
+w ddef
+b
+wa d e
+b
+0cdda
+1ddf  d
+1acd a
+b
+0cdd   a
+0fhi
+b
+0   a
+0a d e
+b
+0 ddef
+0 dff d
+b
+
+b
+1  da
+1  a
+0 cdca
+b
+1.acd a
+2c
+1da   d
+1cdd   a
+b
+1add a
+#2 c
+x d
+0 daa  a
+.
+b
+b
+.
+0      a
+0cdda
+b
+1   a
+1ddf  d
+0cd a
+b
+
+b
+0ac  a
+#2ac
+x df
+1 cd
+b
+1 acc
+1a d
+#2     a
+x d
+1 ac
+b
+0 cd a
+0fdd  c
+b
+1.da   d
+2    a
+#2c   c
+x    e
+1  da
+b
+
+b
+1. df  d
+2     c
+1a    a
+1cd    a
+b
+1a d   /c
+1 d    a
+1  d a
+1 c
+b
+0 \2da   a
+1\4f
+#2   ca
+xd
+b
+1c da
+1a   e
+1 d ac
+1  c
+b
+
+b
+1. \2c\4d\1ca
+2 a   \3d
+1  \2d\4e \1c
+1\1c\3d
+b
+1aab  d
+1 d
+1  dca
+1 c
+b
+w daa  a
+.
+b
+b
+
+e

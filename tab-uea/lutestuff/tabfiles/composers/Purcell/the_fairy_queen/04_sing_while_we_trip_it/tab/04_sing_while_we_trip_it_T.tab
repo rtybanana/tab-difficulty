@@ -1,0 +1,107 @@
+-C
+-t
+-f
+{/}
+b
+1.acd a
+1aa   e
+2     a
+b
+1ac  a
+2ca    a
+1aac  a
+2a d e
+b
+1c da
+2cd  c
+1ac  e
+2ca a
+b
+1.aacc
+1.     a
+b
+1.acd a
+1aa   e
+2     a
+b
+1ac  a
+2ca    a
+1aac  a
+2a d e
+b
+1c da
+2cd  c
+1ac  e
+2ca a
+b
+1.aacc
+1.     a
+b
+1a c e
+2 ce  c
+1. da c
+b
+1.dc   a
+1cce  c
+2   e
+b
+
+b
+1 da c
+2 acc
+1. cdca
+b
+1\3ca\2c&{a
+2    \1c
+1.\1b c&} \4e
+b
+1ccaa
+2cd  c
+1adcc
+2a c e
+b
+1\1cc\2d\3e
+2\2c\3d  \1c
+1\1b \2c \4e
+2\1cc  a
+b
+1.cdc c
+1\1b\2c\3d   /a
+2  c
+b
+1.ccd  c
+1.   e
+b
+1.a d e
+1.acd a
+b
+1 da c
+2  c
+1a d e
+2    a
+b
+1.cad   a
+1.aac  a
+b
+1. cdca
+1.      ///a
+b
+1. cdca
+1.a d e
+b
+
+b
+1ca a
+2 dc c
+1a d e
+2    a
+b
+1.cad   a
+1.aac  a
+b
+0. cdca
+.
+b
+b
+
+e

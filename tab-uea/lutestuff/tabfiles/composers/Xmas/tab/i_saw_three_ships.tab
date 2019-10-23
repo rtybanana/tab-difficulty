@@ -1,0 +1,54 @@
+-C
+-t
+-f
+{I Saw Three Ships/I Saw Three Ships}
+b
+2  d
+b
+1 daa
+2 d  c
+1acd a
+2cdda
+b
+1fc  a
+2cdda
+1acd a
+2d d e
+b
+1cdda
+2 da   a
+1 dd  c
+2c d   a
+b
+
+b
+1acd a
+2 c c
+1  dfed
+2  d e
+b
+1 dd  c
+2 da c
+1acd a
+2cdd   a
+b
+1fdaa
+2cd  c
+1acd a
+2d d e
+b
+1cdda
+2 d
+#2 db  d
+xa
+xc
+b
+
+b
+1acd a
+2  b
+1 da a a
+b
+b
+
+e

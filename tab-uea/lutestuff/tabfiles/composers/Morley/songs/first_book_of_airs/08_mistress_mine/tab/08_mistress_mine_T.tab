@@ -1,0 +1,76 @@
+-C
+-t
+-f
+{/Thomas Morley}
+b
+c
+1 abcca
+1   c
+1 aab
+1aa c
+b
+1ac  a
+#2 ef c
+x  d
+0aaccca
+b
+0aa c
+1ab  a
+1aa c
+b
+1aa  c
+#2 e    /a
+x  d
+0aaccca
+b
+0da c
+1ca  c
+1da c
+b
+1ccfe
+#2  e  c
+xa
+1cefec
+1      /a
+b
+0da c
+1ca  c
+1da c
+b
+1ccfe
+#2  e  c
+xa
+1cefec
+1      /a
+b
+
+b
+.
+1dd a d
+#2cd    a
+xaa   a
+1 ef c
+1aabc
+b
+1ab ca
+1aa c a
+0 efec
+b
+0 dfffd
+#2 b ca
+x a
+x  d
+x  b
+b
+1 aa c
+1a  cd
+1aa  c
+#2 e    /a
+x  d
+b
+waaccca
+.
+b
+b
+
+e

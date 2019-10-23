@@ -1,0 +1,212 @@
+-C
+-t
+-f
+b
+C
+2.   e&x
+3  c
+#2  d
+x   e
+#3   d
+x  c
+x c
+x d
+2. c&,
+3  f
+b
+2.  d&,e
+3  c
+#2   e
+xe
+2. c&,
+3 d
+#3    c
+xc
+x  d
+xe
+b
+#3    a
+x  d
+2a
+#3  c
+xe
+xc&, c
+x d
+#3     d
+x c
+2  d
+2e
+#3 c
+xc
+b
+
+b
+#3    a
+xa
+x h
+xg
+2h
+#3   h
+xh
+2.f&,   f
+3  f
+#3  h
+x f
+xh
+xf
+b
+#3   a
+xe
+2 d
+#3    c
+xc
+x  d
+xe
+#3    a
+xa
+x  a
+x  c
+#3   e
+x  d
+x c
+xa
+b
+#3  c
+x a
+x  c
+x  a
+#3   d
+x  c
+x c
+x  c
+2  de
+#3    c
+x  c
+#3      /a
+x  a
+2   a
+b
+2.a&,   a
+3a
+2.a cc
+3c
+2 cd  d
+#3      /a
+x a
+2. a&,c   a
+#4  d
+x a
+b
+
+b
+#2  d
+x      4
+2     d
+#3    c
+x  d
+0  dcc
+b
+2.c&,
+3c
+#2 cd
+x  c&,
+#3   e
+x  d
+x c
+x   e
+#3   d
+x  c
+x c
+x  f
+b
+2.  d&,e
+3  c
+#2   e
+x    d
+2. a&,
+3 c
+#3  a
+xa
+xc c
+x a
+b
+2. cd
+3c
+2e
+#3    g
+xg
+#2h   h
+x f&,
+#3 e&,    ///a
+x e
+x f
+xe
+b
+
+b
+2ea    a
+#3 f
+x e
+#3  d
+x c
+xb
+xc
+#3   b
+xe
+xb
+x c
+#3     c
+x b
+x c
+xb
+b
+2.ccc c
+3c
+2.b&, d  a
+3 c
+2 c b c
+#3 a&,
+x  d
+#3      a
+x   c
+x  c
+x    d
+b
+#3    c
+x   c
+x  d
+x a
+#3     d
+x c
+2   c
+#3    a
+x  d
+x      ///a
+x   a
+2.  c&,
+3  a
+b
+2      //a
+#3   d
+x    c
+2. cdc  4
+3 c
+2      ///a
+#3 a&,
+x  d
+2.  c&,d  //a
+#4  a
+x   d
+b
+
+b
+#2  ae
+x     a
+2    c
+#3   d&,
+xe
+0ecde
+b
+b
+P
+e

@@ -1,0 +1,258 @@
+-C
+-t
+-f
+{244. Galliard/Francis Cutting}
+b
+1. aa c a
+2 c
+1 ea c
+b
+1a   e
+1c  b
+1   c
+b
+#2 cee c
+x  c
+#2 cee c
+x a   e
+1 ca b
+b
+1 ea c
+1aa ce
+1  e
+b
+1 ea c a
+#2    c
+x c
+1 ea c
+b
+1      c
+#2  a c e
+x e
+#2 c   a
+x a
+b
+
+b
+#2  e ec
+x  c
+#2  e
+x a   e
+#2 ca b
+x a
+b
+#2a  cc
+x   b
+#2c f ec
+x    c
+#2c e e
+xa
+b
+1 aa gha
+#2     h
+x    h
+#2    g
+x    e
+b
+1 aa g
+1      a
+1     h
+.
+b
+b
+.
+1. ha gha
+2 g
+#2 h
+x g
+b
+2 ha g a
+#3e
+xg
+1h
+1f a g
+b
+
+b
+1.ea c a
+2  d
+#2 a
+x  d
+b
+2ea c a
+#3 c
+x e
+1ef
+1ce
+b
+1acd a
+#2  d
+xc
+#2a
+x e
+b
+#2a
+x c
+1 ea c
+1aa c e
+b
+#2cce  c
+x  c
+#2  e
+x a
+1 ce
+b
+1     e
+1 ca b
+1 ea c
+b
+1 gh e
+1e
+#2ec d
+xc
+b
+
+b
+#2c fe
+x  e
+#2 h ge
+x   e
+#2 g g
+x  f
+b
+1cce  c
+#2   e
+x  f
+#2  e
+x  c
+b
+1cce  c
+0   e
+.
+b
+b
+.
+1cce  c
+1   e
+1   c
+b
+1 aab
+1c
+1a e e
+b
+1 ea c
+1 ca bc
+1     a
+b
+1 aa c e
+1      a
+1  e ec
+b
+1 aa g a
+1h
+1f a g
+b
+
+b
+1ea c
+1ca bc
+1    a
+b
+1aa c e
+1     a
+1 ea c
+b
+1 a c e
+1a
+#2 ea a
+x c
+b
+#2 aa   a
+x c
+#2 ea
+x ac
+#2 cd  a
+x ac
+b
+#2 aa  e
+x   c
+#2c f ec
+x    c
+#2c e e
+xa
+b
+1 aa gha
+#2     h
+x    h
+#2    g
+x    e
+b
+
+b
+1 aa g a
+1      a
+1     h
+.
+b
+b
+.
+#2cce  c
+x   e
+#2cce
+x   c
+1 aab
+b
+1c
+#2c e e
+xa
+#2 ea c
+x      a
+b
+1 ca bc
+1     a
+1 aa c e
+b
+1      a
+1  e ec
+1  cc
+b
+1 aa g a
+1     h
+1ha  g
+b
+1f
+#2ea c a
+x    c
+1ca b
+b
+
+b
+1    a
+#2aa c e
+x     a
+1 ea c
+b
+1 a c e
+1a
+#2 ea a
+x c
+b
+#3 aa   a
+x c
+x ea
+x  c
+#3 cd  a
+x ac
+x aa  e
+x   c
+#2  f ec
+x    c
+b
+#2  e e
+xc
+Y aa g a
+.
+b
+b
+
+e

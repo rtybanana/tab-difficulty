@@ -1,0 +1,324 @@
+-C
+-t
+-f
+{Fantasia/Fantasia}
+b
+C
+0   c
+1   a
+1   a
+b
+1 a c
+1    c
+1  d d
+1  d
+b
+1 aa c
+1  a
+1  bc a
+1  dca
+b
+1  bc a
+1da c
+1c
+1ca  c
+b
+1da c a
+1aabc
+1cdda
+1 dd
+b
+#2 dda
+x    d
+x    c
+x b  a
+1 aba d
+1 ab ca
+b
+1. b ca
+2 ab  a
+1  dca
+1 bdca
+b
+
+b
+1 aabc
+1 abc a
+#2 aabc
+x    a
+1 aab  /a
+b
+1 abc a
+1   c
+1 ab
+#2   c
+x  b
+b
+1  d d
+#2 b
+x    d
+1 a a
+1  d
+b
+1  de
+1  de
+#2 b c
+x a
+x  dc
+x  b
+b
+1 dda
+#2    c
+x d
+1a   d
+1dabc
+b
+1cdda
+1 d  c
+1 ab  d
+1 abc a
+b
+1 ab  d
+#2 ab
+x     d
+1  a a
+1   cd
+b
+
+b
+1  b
+#2    c
+x  b
+1  d a
+1 b   a
+b
+1 aba d
+1     d
+1  da
+1  dca
+b
+1 abc a
+1 abc
+#2abd a
+xc
+xdab
+x     d
+b
+2\4d  a
+#3\2c
+xa
+#2\4d
+x\2c
+#2\4da
+x     \3d
+xc d a
+xa b
+b
+#2 da c
+xa   d
+1c  a
+#2     d
+x ab
+xaab  d
+x  d
+b
+#3    c
+xa
+x e
+x c
+#2a   c
+x e
+b
+
+b
+1aab  a
+1 ab
+#2aab  a
+x     c
+x     d
+x    a
+b
+1 aa c
+1 ab  d
+#2  d d
+x  b
+x  b
+x    c
+b
+1  b a
+1  aa
+1  b  d
+1 d
+b
+1d
+#2  b
+xd
+1cd
+1 d
+b
+1ab
+#2d
+x a
+#2c d
+xa
+1a b
+b
+1 d
+1 a   d
+#2  b
+x  d
+1 ab
+b
+1  da
+1 ab c
+1  bcd
+1    c
+b
+1  dca
+1 a   d
+1  de
+1  bc a
+b
+
+b
+1  abc
+1c
+1d    a
+#2c
+xa
+b
+1 ea c
+#2 aabc
+x  d
+#2  bc
+x  d
+1 ab  a
+b
+1 aabc
+1 \3h
+1\4h
+1\3d
+b
+1\2ca \1b
+#2 ea c
+x    a
+#2 ab  d
+x     c
+1aab  a
+b
+1 ea c
+#2 a
+x c
+#2 e
+xa
+1ca b
+b
+1da c
+1aab  a
+1 aabc
+1 aab
+b
+#2 ab  a
+x     c
+x     d
+x    a
+#2 e  c
+xa
+xc
+x e
+b
+
+b
+#2a b
+xc
+xd
+xa
+1ca bc
+1 aab  /a
+b
+1 abc a
+1 abc
+#2c  a
+xd
+xf
+xc
+b
+#2dd\3f\2f
+x\3f
+1\4h    d
+1 \4d\3da
+#2 dda
+x b
+b
+1 ab  d
+1 dba
+1f  a
+#2f
+xd
+b
+1cdda
+1acd a
+1 dda
+1acd
+b
+#2cd
+x d
+1f
+1 dda
+1acd a
+b
+1 dda
+#2aabc
+x     a
+#2 aabc
+x   c
+x aac  /a
+x   b
+b
+
+b
+1 acc a
+1ea c
+1fc
+#2    a
+xfc
+b
+1ea
+1aac
+1 cdca
+1acd
+b
+1aacc
+1ea
+#2f   a
+xe
+xc
+xf
+b
+#2e  c
+xc
+xa
+x d
+1 cdca
+1 ea c
+b
+1aacc
+1 acc a
+1.  dca
+2 a
+b
+#2 cd a
+x d
+1aa   e
+#2 cd a
+x    c
+x    e
+x   a
+b
+1aacc
+1     a
+Yaac  a
+b
+b
+
+e

@@ -1,0 +1,147 @@
+-C
+-t
+-f
+{Gaillard 15/Gaillard 15}
+b
+1   a
+b
+0c da
+1c da
+b
+1 da c
+1a bc
+1c da
+b
+0da   d
+1da
+b
+#2da   d
+x    a
+#2    c
+x    e
+1c da
+b
+
+b
+#2a bc
+x  a
+#2  b
+x  d
+1a b d
+b
+1 daa
+#2   ca
+x c
+#2 d
+x c
+b
+1 d a
+1  d
+1   a
+b
+1 dda
+#2 d
+x c
+#2 d
+xa
+b
+
+b
+#2c da
+x  c
+#2  d
+x a
+1c da
+b
+1 da c
+1a bc
+1c da
+b
+0da   d
+1da
+b
+#2da   d
+x    a
+#2    c
+x    e
+1c da
+b
+#2a bc
+x  a
+#2  b
+x  d
+1a b d
+b
+
+b
+1 daa
+#2   ca
+x c
+#2 d
+x c
+b
+1 daa
+#2  a
+x   c
+#2  a
+x  b
+b
+1 cd a
+#2 c
+x a
+#2 c
+x d
+b
+1acd a
+#2  d
+x a
+#2 c
+x d
+b
+
+b
+#2a   a
+x d
+#2 c
+x a
+#2 d
+x c
+b
+1 da c
+#2  a
+x   c
+#2  a
+x  b
+b
+1 cd a
+#2 c
+x a
+#2 c
+x d
+b
+1ac  a
+#2  d
+x a
+#2 c
+x d
+b
+
+b
+#2a   a
+x d
+#2 c
+x a
+#2 d
+x c
+b
+1 daa
+#2  a
+x   c
+#2  a
+x  b
+b
+Y. dda
+b
+b
+
+e

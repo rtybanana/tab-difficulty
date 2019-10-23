@@ -1,0 +1,248 @@
+-C
+-t
+-f
+{16. Zucht Ehr und Lob/16. Zucht Ehr und Lob}
+b
+c
+0  b  d
+#2  b"+  d
+x    a
+x    c
+x    d
+b
+0  da
+#2 b"+  d
+x   a
+x   c
+x  a
+b
+#2 ab
+x  a
+x  b
+x  d
+#2  b
+x a
+x  de
+x  bc
+b
+1  aa
+1   ac
+1   cd
+1  aa
+b
+1  b"+  d
+#2     d
+x    a
+1    c
+1  b d
+b
+1  aa
+1   c
+#2    d"+
+x a
+x  b
+x  d
+b
+Y a  c
+b
+
+b
+0
+#2 a  c
+x    d
+x    c
+x    a
+b
+#2 a   d"+
+x  d
+x a
+x  b
+#2  d d"+
+x a
+x  b
+x  d
+b
+#2 a  c"+
+x  d
+x a
+x b
+#2 d
+x a
+1a   a
+b
+1a   d
+#2 d a
+x b
+#2 a c
+x   a
+x   c
+x  a
+b
+#2  b
+x  d
+x a
+x  b
+1  d
+1 db"+
+b
+#2a
+x d
+x b  d
+x a
+1  da
+1  bc
+b
+
+b
+1 b  a
+1 a  c
+1  d"+ d
+1   a
+b
+Y  b  d
+b
+0
+#2 ab
+x  a
+x  b
+x  d
+b
+1 ab
+#2   c
+x  a
+#2 ab
+x  a
+x   c
+x   a
+b
+0a   d
+1
+1a   d
+b
+#2 d a
+x b
+x a
+x  d
+1 a c
+1 b  a
+b
+1 d"+ a
+#2   a
+x   c
+1 d"+a
+1  b
+b
+1  a
+1  b
+#2d"+ b
+x  a
+x   c
+x   a
+b
+
+b
+1d"+   d
+1   a
+1d"+
+1    e
+b
+1c  a
+#2a
+xc
+#2d
+xc
+xa
+x d
+b
+1 cd
+1 da
+1a b
+1a d
+b
+1 a
+0  b
+1  d
+b
+1 ab
+1 da
+1   c"+
+1 c
+b
+Y d a
+b
+0
+1   a
+#2    d
+x    c
+b
+1   cd
+1  b"+ c
+1    a
+1  a
+b
+0  b  d
+1
+1 d   d
+b
+
+b
+1 b  a
+1 a  c
+#2    d"+
+x a
+x  b
+x  d
+b
+Y a  c
+b
+0
+#2 a c"+
+x b
+x d
+x a
+b
+#2 b  a
+x d
+x b
+x a
+#2  d a
+x a
+x b
+x  d
+b
+1 a c
+#2   c
+x   a
+#2a   d
+x   a
+x   c
+x  a
+b
+1 d"+b
+#2  b
+x  d
+1 ab
+#2  bc
+x  d
+b
+#2 a c
+x   a
+x b  d
+x    c
+#2 b  a
+x a
+x  da
+x  b
+b
+
+b
+1  aa
+1  b c
+1  d"+ d
+1   a
+b
+Y  b  d
+b
+b
+
+e

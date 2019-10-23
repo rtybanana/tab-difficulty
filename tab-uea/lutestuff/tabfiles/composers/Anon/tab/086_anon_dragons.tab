@@ -1,0 +1,261 @@
+-C
+-t
+-f
+{Dragons/Dragons}
+b
+1  d  d
+1  c&,   a
+1  d  a
+1 a   c
+b
+#2 c   d
+x a
+#2 c   a
+xb
+1c"_     a
+#2c
+x      /a
+b
+1  d   //a
+1  c&,   ///a
+1  d"_   4
+1 a   c
+b
+
+b
+#2 c   d
+x a
+#2 c   a
+xb
+0c"_     a
+b
+b
+.
+1 c&,    4
+#2 a
+x c
+1 c&,   d
+#2 a   c
+x c
+b
+1 c&,    4
+2. a&,
+3  d
+1 a    a
+1 acc
+b
+1 c&,    4
+#2 a
+x c
+1 c&,   d
+#2 a  a
+x c
+b
+
+b
+#2 d    4
+x c
+#2 a&,
+x  d
+1 a    a
+1 c&,
+b
+1 c   d
+1  aa  /a
+1  c&,   a
+1  d  a
+b
+#2 a  e
+x  d
+#2 a
+x c
+1 a    a
+1 c&,
+b
+1 c   d
+1  aa  /a
+1  c&,   a
+1  d  a
+b
+
+b
+1 a&,    a
+1  d
+1  dcc 4
+1 c&,
+b
+1 c/   d
+1  a/   /a
+1  c/   a
+1  d/  a
+b
+#2 a  e
+x  d
+#2 a
+x c
+#2 a/   a
+x c&,
+1 c
+b
+1 c/   d
+1  a/   /a
+1  c/   a
+1  d/  a
+b
+
+b
+1. a&,    a
+#3  d
+x a
+1  d
+1      4
+.
+b
+b
+
+{Dragons/Dragons}
+b
+S3
+1e
+1 a
+#2  e
+x c
+b
+#2 a
+xa
+#2  a
+xc
+#2a&,
+x    a
+b
+#2    c
+x c
+#2   a
+x  a
+#2 a
+x   c
+b
+
+b
+#2   a&,
+x a
+#2     a
+x    c
+#2 a
+x  e
+b
+1 aaa  ///a
+0    a
+b
+#2     e
+x c
+#2    a
+x  a
+#2 a
+x    a
+b
+#2    c
+x  d
+1  b&,
+#2   a
+x  a
+b
+#2     d
+x   c
+1     b&,
+#2     a
+x  a
+b
+
+b
+#2      a
+x    a
+2  b
+#3    c
+x   a
+#2    c
+x  b
+b
+1  aa  /a
+1.   c&,  4
+#3   a
+x    c
+b
+1   a
+1      /a
+1  a
+b
+0a a
+b
+b
+1a
+b
+0ad"_d   /a
+#2 c&,
+x a
+b
+1  de
+#2  d
+x   e
+#2   f
+x a
+b
+
+b
+1  d&,a
+1 a
+#2    c&,
+x    a
+b
+1   c d
+1  d
+#2      4
+x  b
+b
+1  a&,aa ///a
+0    a
+b
+#2      a
+x  b
+#2     d
+x   c
+#2  a
+x     b
+b
+#2     a
+x   a
+#2  d
+x    c
+#2    d
+x  d
+b
+
+b
+#2     b
+x a
+1      a
+#2 c
+x a
+b
+#2     a
+x   e
+#2  e
+x   c
+#2    d
+x a
+b
+#2    c&,
+x    a
+1. c&,   a
+#3 a
+x  e
+b
+1 a
+1    a
+1      ///a
+b
+0 aaa
+b
+b
+P
+e

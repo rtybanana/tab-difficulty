@@ -1,0 +1,58 @@
+-C
+-t
+-f
+{Toy - 8/Anonymous}
+b
+1 ac  a
+2a
+1 ac  a
+2a
+b
+1 ac  a
+2a
+1 ac  a
+2 d
+b
+1 cd a
+2a
+1 cd a
+2a
+b
+1 cd a
+2a
+1 cd a
+2a
+b
+#2 a   a
+x  c
+xa
+#2 a   a
+x  c
+xa
+b
+#2 a   a
+x  c
+xa
+#2 a   a
+x  c
+x d
+b
+
+b
+#2 c  a
+x  d
+xa
+#2 c  a
+x  d
+xa
+b
+#2 c  a
+x  d
+xa
+#2 c  a
+x  d
+xa
+b
+b
+
+e

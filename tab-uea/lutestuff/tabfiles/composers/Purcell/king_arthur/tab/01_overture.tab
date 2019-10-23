@@ -1,0 +1,274 @@
+-C
+-t
+-f
+{King Arthur/King Arthur}
+b
+x   a  a
+x    e /a
+x     d4
+b
+b
+c
+1 \4da   //a
+2.    \2c
+3a \1b
+1 \2c\4e  \1c
+1
+b
+1 da   //a
+2.    c
+3a b
+1 ce  c
+#2
+xcc\4e  c
+b
+1aa   \3e
+1\2cc  \1b&{
+1 \3da c&}
+#2
+xcc\4e  c
+b
+1aa   e
+1cc  b
+1 da c
+#2
+x ca a
+b
+1 da c
+1a d e
+1cdda
+#2
+xcc  a
+b
+1 db c
+1 fdfe
+1cdda
+#2
+x da   a
+b
+
+b
+1 aa   b
+1ca    b
+1aac  a
+#2
+xaabc
+b
+1cadc
+1ca b
+1ea c
+#2
+x \2cc  a
+b
+1 cc  \1c
+1 \4d\2c  b
+1 c\3e  c
+#2
+xccd
+b
+1eace
+1eccd
+1gca
+#2
+xccee
+b
+1\2caaa
+1 \2c\4e  \1c
+1 \4da \1c
+1a\2c\3d&{ a
+b
+1\2c\4d&{d   a
+1ce&}a   //a
+1\3da \1c a
+#2a \1c \3e
+xc   c
+b
+1cc\3e  c
+#2
+x ce  c
+1 \2da   a
+#2
+xa\1c  a
+b
+
+b
+1cc\2d  c
+#2
+x \2d&{a \1c
+1 d&}\4f  \1d
+#2
+x\1dd\4f\3f
+b
+1da c
+#2
+xadb  a
+1 ce  c
+1ca    a
+b
+1 df  d
+#2aa c a
+x\4e
+1fcd a
+1fc e c
+b
+1cdf c
+1aab  d
+1.acd a
+2 cdca
+b
+1 da c
+#2
+x aaac
+1  eeec
+#2
+xcce  a
+b
+1ca    a
+#2
+xa e   /a
+1 da   //a
+#2
+x ab  a
+b
+1 cf  c
+1c e
+0 dfe  //a
+b
+b
+
+b
+2
+#3
+x
+#2
+x
+#2
+x
+x
+x
+b
+w
+b
+w
+b
+w
+b
+w
+b
+w
+b
+w
+b
+0cdf c
+1ccee
+1cdf
+b
+0ccee
+1caaa
+1a e e
+b
+1 da c
+1 cdca
+1 aba d
+1   c
+b
+1 \1c\4e&{\3e
+1 \2df&}  \1c
+1a\1cc e
+1\2c \4e  \1c
+b
+1 \4da   //a
+1aab \2c
+1\1cc\2d a
+1\4da \2c \3d
+b
+1fc   c
+1da   a
+1\2c\4d\3da
+1
+b
+
+b
+1cdd   a
+1fdaa
+1\4f\3f  \2e
+1\1d
+b
+1\2c\3d  \1c
+1\4d\2c  a
+1\2c\4d\3da
+1
+b
+w
+b
+w
+b
+0 \2d&{a   //a
+1 c&}\4e  \1c
+1 aaac
+b
+1 \2c\4e  \1c
+1a\2c \1c
+1\1ca a
+1a\1c\4e\3e
+b
+1. \2d&{a \1c
+2 c&}\3d  \1c
+0 \2cc   /a
+b
+1 ce  c
+1
+1cce   5
+1
+b
+1 dfe  //a
+1
+1acd   ///a
+1
+b
+1cdd   a
+1   a
+1 da   a
+1   a
+b
+1 cb  a
+1 dd  c
+1 ce  c
+1 a c d
+b
+
+b
+1 aaa d
+1   c
+1  eeec
+1 df
+b
+1ccf  c
+#2  de
+x   c
+1cadb
+1acbc
+b
+1a\1c\4e\3e
+1 df
+1 cec c
+1 \2d \3e
+b
+1 c\4f\3e
+1c e  c
+0 da   //a
+b
+0cd  c
+1cc  a
+1aa   d
+b
+1cc\3e  c
+1 \2d\4f&{
+1ccf&}   5
+1  \3e
+b
+w\2caa   //a
+b
+b
+
+e

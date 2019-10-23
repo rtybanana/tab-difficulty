@@ -1,0 +1,161 @@
+-C
+-t
+-f
+{Passeavese el rey Moro/Luis de Narváez}
+b
+c
+0a bc
+0d
+b
+1c da
+1  b
+1  a
+1  c
+b
+0  d
+0 dff
+b
+0a bc
+0 b  d
+b
+0c da
+0 d
+b
+0da c
+1  b
+1  d
+b
+1 a
+1 c
+0cd a
+b
+0ac  a
+0  d
+b
+0a   a
+0d bc
+b
+1c da
+1  b
+1  a
+1  c
+b
+
+b
+0  d
+0 dff
+b
+0a bc
+0 b  d
+b
+0c da
+0 d
+b
+0da c
+1  b
+1  d
+b
+1 a
+1 c
+0cd a
+b
+0ac  a
+0  d
+b
+0a   a
+1d
+1a
+b
+1c  a
+1d
+1c
+1a
+b
+1 d a
+1 b
+1 a a
+1  d
+b
+1 a   d
+1  d
+1  b
+1  a
+b
+
+b
+1 a c
+1   a
+1    d
+1    c
+b
+0 b  a
+0  d
+b
+0 b
+0 acc
+b
+0  de
+0   a
+b
+1  d
+1   c
+0  de
+b
+0 acc a
+0  d a
+b
+0 a   a
+0 ac
+b
+0 b  a
+0  d
+b
+0 da c
+0  b
+b
+0a  cd
+0  d
+b
+0a b
+0   cd
+b
+0 da c
+1  b  d
+1 b
+b
+
+b
+1 a
+1  d
+0 b ca
+b
+1    c
+1 a
+0 aaa
+b
+0  bc
+0  dcd
+b
+1 aa c
+1 c
+1 d
+1a
+b
+1c   c
+1a
+0da c a
+b
+1    c
+1c
+0c db
+b
+0 abc a
+0a
+b
+w efec
+b
+Y
+b
+b
+
+e

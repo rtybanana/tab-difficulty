@@ -1,0 +1,271 @@
+-C
+-t
+-f
+{4. Basics with single dots/4. Basics with single dots}
+b
+#2     d
+x     c
+x     d
+x    a
+#2    c
+x    a
+x    c
+x     d
+b
+#2    a
+x     d
+x    a
+x    c
+#2    d
+x    c
+x    d
+x    a
+b
+#2    c
+x    a
+x    c
+x    d
+#2   a
+x    d
+x   a
+x    c
+b
+#2    d
+x    c
+x    d
+x   a
+#2   c
+x   a
+x   c
+x    d
+b
+
+b
+#2   a
+x    d
+x   a
+x   c
+#2   d
+x   c
+x   d
+x   a
+b
+#2   c
+x   a
+x   c
+x  a
+#2  b
+x  a
+x  b
+x   c
+b
+#2  a
+x   c
+x  a
+x  b
+#2  d
+x  b
+x  d
+x  a
+b
+#2  b
+x  a
+x  b
+x  d
+#2 a
+x  d
+x a
+x  b
+b
+#2  d
+x  b
+x  d
+x a
+#2 b
+x a
+x b
+x  d
+b
+
+b
+#2 a
+x  d
+x a
+x b
+#2 d
+x b
+x d
+x a
+b
+#2 b
+x a
+x b
+x d
+#2a
+x d
+xa
+x b
+b
+#2 d
+x b
+x d
+xa
+#2b
+xa
+xb
+x d
+b
+#2a
+x d
+xa
+xb
+#2d
+xb
+xd
+xa
+b
+#2b
+xa
+xb
+xd
+#2f
+xd
+xb
+xa
+b
+
+b
+#2b
+xa
+x d
+x b
+#2 d
+x b
+x a
+x  d
+b
+#2  b
+x  d
+x a
+x b
+#2 d
+x b
+x a
+x  d
+b
+#2 a
+x b
+x  d
+x a
+#2 b
+x a
+x  d
+x  b
+b
+#2  d
+x  b
+x  a
+x   c
+#2   a
+x   c
+x  a
+x  b
+b
+#2  d
+x  b
+x  a
+x   c
+#2  a
+x  b
+x   c
+x  a
+b
+Y  b  d
+b
+b
+
+{4. Basics with single dots/4. Basics with single dots}
+b
+1  b"+  d
+#2     d
+x    a
+#2    c
+x    d
+b
+1  da
+#2  d
+x a
+#2 b
+x d
+b
+1a   d
+#2    d
+x   a
+#2   c
+x   d
+b
+1 d a
+#2 d
+x b
+#2 a
+x  d
+b
+1 ab
+#2  b
+x  a
+#2   c
+x   a
+b
+1 b  d"+
+#2 b
+x a
+#2  d
+x  b
+b
+1  da
+1  bc
+1  da
+b
+Y.  b  d
+b
+b
+
+{/}
+b
+c
+#2  b"+  d
+x    a
+x    c
+x    d
+#2  da
+x a
+x b
+x d
+b
+#2a   d
+x   a
+x   c
+x   d
+#2 d a
+x b
+x a
+x  d
+b
+#2 ab
+x  a
+x   c
+x   a
+#2 b  d"+
+x a
+x  d
+x  b
+b
+1  da
+1  bc
+0  da
+b
+Y  b  d
+b
+b
+
+e

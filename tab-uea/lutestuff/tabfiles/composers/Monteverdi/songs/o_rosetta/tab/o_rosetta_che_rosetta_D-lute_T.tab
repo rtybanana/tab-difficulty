@@ -1,0 +1,114 @@
+-C
+-t
+-f
+{O rosetta che rosetta/O rosetta che rosetta}
+b
+#2 d  c
+xa   e
+b
+2.c  a
+3a
+#2 d e
+x c c
+#2     a
+x ac
+b
+1 cdca
+1 cdca
+#2  d  c
+x a   e
+b
+2. cdca
+3 d
+2a
+2.c   c
+3e
+2f
+b
+1ea   a
+1h
+#2f   a
+xe
+b
+
+b
+2.c  a
+3a
+#2 d e
+x c c
+#2     a
+x ac
+b
+1acdca
+1acdca
+#2 d  c
+x c  e
+b
+2. a a
+3   c
+#2  de
+x a c
+#2     a
+x c
+b
+0  dca
+b
+b
+#2 cdca
+x cdca
+b
+1 daa
+1 da c
+#2 ac  a
+x ac  a
+b
+1 cdca
+1 cdca
+#2 aba d
+x aba d
+b
+
+b
+1 aba d
+1 abc a
+#2 cde c
+x cde c
+b
+1 acc a
+1 acc a
+#2 acc a
+x acc a
+b
+1 cdca
+1 aba d
+1 cde c
+b
+1 daa
+1 daa
+#2 a   a
+x     c
+b
+1 ab  d
+2 ab  d
+1 cde c
+2 cde c
+b
+1 acc a
+1 acc a
+#2 cd a
+x cd a
+b
+
+b
+2. daa
+3   c
+2   e
+1 ad  a
+2 ac  a
+b
+0 cdca
+.
+b
+b
+
+e

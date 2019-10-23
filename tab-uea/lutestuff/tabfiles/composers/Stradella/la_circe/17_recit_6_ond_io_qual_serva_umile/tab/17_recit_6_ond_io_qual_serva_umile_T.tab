@@ -1,0 +1,40 @@
+-C
+-t
+-f
+{/}
+b
+w cd  c
+b
+wccd   5
+b
+wccd  c
+b
+0 dfec
+1 cdee
+1  cd  /a
+b
+0 cd  c
+0 dfec
+b
+w dfe  //a
+b
+0 da c
+0 cd  c
+b
+w dd  c
+b
+0 dd  c
+0 df  d
+b
+w dff  4
+b
+0adf  d
+1cdd   ///a
+#2a
+x c
+b
+Y da a a
+b
+b
+
+e

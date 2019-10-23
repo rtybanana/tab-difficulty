@@ -1,0 +1,424 @@
+-C
+-t
+-f
+{Mrs. Anne Markham's Galliard/Mrs. Anne Markham's Galliard}
+b
+1 abc a
+#2a
+x     c
+#2     d
+x    a
+b
+1. da c
+2  d
+#2 bbc
+x a
+b
+1 aaa
+2a b d
+#3c
+xd
+#2c d
+xa
+b
+1. efec
+2c
+#2da   a
+xf
+b
+
+b
+1ca b
+#2    c
+x  a
+#2aabc
+x  d
+b
+1. efec
+2c
+#2d    a
+xf
+b
+#2h
+xaa   d
+#2fc  a
+x f
+#2cf  c
+x e
+b
+#2     a
+xaac
+#2   c
+x  d
+1aac  a
+b
+b
+2 abc a
+#3 c
+x d
+#3a
+xc
+2d
+#2c
+xa
+b
+
+b
+2 da c
+#3 a
+x c
+#3 d
+xa
+xc
+x d
+#3a  c
+xc
+xd
+xa
+b
+2c  a
+#3d
+xc
+2a   d
+#3f
+xd
+#3c
+xa
+x e
+x c
+b
+2 e  c
+#3  f
+x c
+#3 e
+x f
+2c
+2d  c
+#3f
+xd
+b
+
+b
+2ca b
+#3  d
+x  b
+#3  a c
+x  b
+x  d
+x  a
+#2aabc
+x  d
+b
+2 e  c
+#3 c
+x e
+#3 f
+xc
+xd
+xf
+#3h    a
+xf
+xh
+xi
+b
+#2h
+x a   d
+#2fc  a
+x f
+#2cf  c
+x e
+b
+2aac  a
+#3   c
+x  a
+#3  c
+x  d
+x a
+x  d
+1aac  a
+b
+b
+
+b
+1. dff
+#3a
+xc
+#2da   d
+xc
+b
+1.abb d
+#3c
+xd
+#2f   a
+xd
+b
+1.c da
+#3d
+xf
+#2h  a
+xf
+b
+1da c
+#2c
+x  aa
+#2a b d
+x  d
+b
+1. efec
+#3  b
+x  d
+#2 a  c
+x  d
+b
+
+b
+2 abc
+#3 c
+x d
+#2a
+x   a
+2    d
+#3c   c
+xd
+b
+#2f   a
+xda
+#2c da
+xa b
+#2c d
+x b
+b
+1dab  d
+#2   a
+x  d
+1dab  d
+b
+b
+2 dff
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+#2da   d
+xc
+b
+
+b
+2a   d
+#3 a
+x b
+#3 d
+xa
+xc
+xd
+#2f   a
+xd
+b
+2c da
+#3 c
+x d
+#3a
+xc
+xd
+xf
+#2h  a
+xf
+b
+1da c
+#2c
+x  aa
+#2a b d
+x  d
+b
+1. efec
+#3  b
+x  d
+#3 a  c
+x  d
+x  b
+x  a
+b
+
+b
+2 abc
+#3 c
+x d
+#2a
+x   a
+2    d
+#3c   c
+xd
+b
+#3f   a
+xd
+xc
+xa
+#3 d a
+xa
+xb
+xa
+#3 d
+x b
+x a
+x  d
+b
+2 aba d
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+1dab  d
+b
+b
+1. aa c
+2 c
+#2 ea c
+xa
+b
+
+b
+#2ca  c
+xa
+#2 e
+xda c
+#2ca b
+xaabc
+b
+2. ea c
+3 c
+#2 a
+xh    d
+#2fc  a
+xce  c
+b
+2.aa c
+#4c
+xd
+#2f  a
+x db c
+#2a   d
+xc  a
+b
+2.dab  d
+3  d
+#2 a
+x c  a
+#2 d  c
+xa   e
+b
+
+b
+2.c da
+3d
+#2f
+xc
+#2ha   h
+xf
+b
+2.da c
+3   a
+#2    d
+xf   a
+#2ca  c
+x   b
+b
+#2     a
+xaac
+#3   c
+x  d
+x  c
+x  a
+1aac  a
+b
+b
+2. aa c
+3  e
+#2 a
+x c
+#2 ea c
+xa
+b
+
+b
+#3c   c
+xa
+x e
+x c
+#2 e
+xda c
+#2ca b
+xaa c
+b
+#3 e  c
+x c
+x a
+x  e
+#2 a
+xh    d
+#2fc  a
+xce  c
+b
+2.aa c
+#4c
+xd
+2f  a
+#3    c
+x d
+#3    d
+xa
+x   a
+xc
+b
+
+b
+#3d    d
+x  a
+x  b
+x  d
+2 a
+#3    a
+x c
+#3    c
+x d
+x    e
+xa
+b
+#3c  a
+xa
+xc
+xd
+#3f
+xc
+xd
+xf
+#2ha   h
+xf
+b
+2.da c
+3   a
+#3    d
+x    c
+xf   a
+xd
+#3ca  c
+xa
+2c
+b
+
+b
+2aac  a
+#3   c
+x  a
+#3  c
+x  d
+x a
+x  d
+Yaac  a
+b
+b
+
+e

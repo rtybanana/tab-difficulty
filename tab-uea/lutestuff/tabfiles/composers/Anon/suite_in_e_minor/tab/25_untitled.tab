@@ -1,0 +1,505 @@
+-C
+-t
+-f
+b
+S6-8
+0  aadd/a
+1  aadd
+b
+0   ccd//a
+1   ccd
+b
+1.    d ///a
+2   c
+1  acda
+b
+1  acdb
+1      4
+1  aacd
+b
+0.  aadd/a
+b
+1.  aadd/a
+2  a
+1  b&,   a
+b
+b
+1.  d  a
+2 a
+1  d
+b
+1. aba  d
+2 a
+1 a
+b
+1  da a
+1.  b&, c a
+2  a
+b
+1.  aad /a
+2  a
+1  bcc
+b
+1.  da a
+2 a
+1  d
+b
+1. aba  d
+2 a
+1 a
+b
+
+b
+1  d  a
+1 ab   a
+1 c&,
+b
+0 da   /a
+1      a
+b
+1.add  a
+2a
+1  d
+b
+1. aba  d
+2 a
+1 a
+b
+1  da a
+1.  b&, c a
+2  a
+b
+0.  aadd/a
+b
+#2      /a
+x   a
+x  a
+x   a
+#2      a
+x  b
+b
+#2     a
+x   a
+x  d
+x   a
+#2    d
+x  d
+b
+#2     b
+x  a
+x a
+x  a
+#3     d
+x     b
+2     a
+b
+
+b
+#2      a
+x a
+1. c&,    4
+#3a
+x c
+b
+1a
+#2      /a
+xa
+#2c
+xe
+b
+#2      a
+x a
+xf
+x f
+#2e
+xf
+b
+1h    a
+#2 h
+xh
+#2f&,
+x h
+b
+#2      a
+xf
+1.f&,     //a
+#3 h
+xf
+b
+1h
+#2      /a
+xe
+#2c&,
+xa
+b
+#2      //a
+x a
+xc
+x  d
+#2e
+xc&,
+b
+
+b
+#2      ///a
+x a
+xa
+x  d
+#2  b&,
+x  a
+b
+#2  b
+xc
+1. c&,    4
+#3a
+x c
+b
+1a
+1      /a
+#2  d
+x  b&,
+b
+#2   c  //a
+x  b
+x  a&,
+x   c
+#2   a
+x    c
+b
+1.   a&,  ///a
+#3    c
+x   a
+1    a&,
+b
+#tx   c
+x   a
+1.    c&, 4
+#3   a
+x    c
+b
+1   a
+#2      /a
+xc
+1e
+b
+1.c&,     //a
+2  d
+1e
+b
+1.a&,     ///a
+2  b
+1c
+b
+
+b
+#2      4
+x c
+1. c&,
+#3a
+x c
+b
+1a
+#2      /a
+x  b
+1  d
+b
+1.   c  //a
+2  a
+1  b
+b
+1  a   ///a
+1   c
+1  a
+b
+1   c b
+1.   c&,  4
+#3   a
+x    c
+b
+1   a
+#2      /a
+x  b
+#2  d
+x  a
+b
+#2   c  //a
+x  b
+x  a&,
+x   c
+#2   a&,
+x    c
+b
+#2      ///a
+x    a
+x   a
+x   c
+#2  a
+x     b
+b
+#2     d
+x  a
+1.   c&,  4
+2   a
+b
+
+b
+0.   add/a
+b
+#2  a&,   /a
+x   c
+x  a
+x  b
+#2  d   a
+x  b
+b
+#2  d  a
+x  a
+x  b
+x  d
+#2 a
+x  d
+b
+#2 a    d
+x  d
+x a
+x c
+#2a
+x c
+b
+#2a    a
+x c
+xa
+x a
+#2 c
+xa
+b
+#2c     //a
+x c
+xa
+xc
+#2e
+xc
+b
+#2e     /a
+x d
+xc
+xe
+#2c
+xe
+b
+
+b
+#2f     a
+x f
+xe
+xf
+#2h
+xf
+b
+#2h    a
+x h
+xf
+xh
+#2f
+x h
+b
+#2f     a
+x f
+1f
+1e&,
+b
+#2e     /a
+x d
+xc
+xe
+#2c&,
+x d
+b
+#2c     //a
+x d
+x c&,
+x a
+#2  d
+xe
+b
+#2a     ///a
+x c
+x a
+x  d
+#2  b&,
+x  a
+b
+#2  b
+xc
+xa&,
+x c
+#2a
+x a
+b
+
+b
+1. c&,    4
+2  d
+#2     a
+x d
+b
+#2     b
+x d
+x      4
+x d
+#2   c
+x c
+b
+#2      /a
+x c
+xa
+x c
+#2      a
+x c
+b
+#2     a
+x c
+xa
+x c
+#2 a&,
+x  d
+b
+#2      d
+x  b
+x a
+x   c
+#2  a
+x  b
+b
+#2     a
+x  d
+x      a
+x  b
+#2    c
+x  b
+b
+#2      /a
+x   a
+x  a
+x    c
+#2   a
+x    a
+b
+
+b
+#2      //a
+x    c
+x   c
+x     c
+#2     d
+x  a
+b
+#2      ///a
+x    c
+x   a
+x  a
+#2     a
+x  a
+b
+#2     b
+x  a
+x      4
+x   c
+#2     d
+x  b
+b
+0.  aadd/a
+b
+#tx   a
+x  a
+t#2   a
+x  a
+tx   a
+2  a
+b
+#tx    d
+x   c
+t#2   a
+x  a
+tx   a
+2  a
+b
+
+b
+#tx    c
+x   a
+t#2   a
+x  a
+tx   a
+2  a
+b
+#tx   a
+x  a
+t#2    c
+x   a
+tx    c
+2  b
+b
+#tx   a
+x  a
+t#2   a
+x  a
+tx   a
+2  a
+b
+#tx   a
+x  b
+t#2   a
+x  b
+tx   a
+2  d
+b
+#tx  b
+x a
+t#2  b
+x a
+tx  b
+2 a
+b
+
+b
+#tx   a
+x  d
+t#2   a
+x  b
+tx  b
+2 c
+b
+#tx d
+xa
+t#2 d
+xa
+tx d
+2a
+b
+#tx c
+xa
+t#2 c
+xa
+tx c
+2a
+b
+#tx  b
+x a
+t#2  b
+x a
+tx  b
+2 a
+b
+#tx   a
+x  d
+t#2   a
+x  b
+tx   a
+2  b
+b
+0.  aadd/a
+b
+b
+P
+e

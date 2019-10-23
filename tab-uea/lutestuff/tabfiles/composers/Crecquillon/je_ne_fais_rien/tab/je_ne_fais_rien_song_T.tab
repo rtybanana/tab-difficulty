@@ -1,0 +1,255 @@
+-C
+-t
+-f
+{Je ne fais rien/Je ne fais rien}
+b
+0  da
+1 d ac
+1     d
+b
+#2 ab
+x    a
+x    c
+x    e
+1  da
+1  def
+b
+1a  cd
+1   c
+1  d
+1 d a
+b
+1 b c
+1 ac  a
+1 bd a
+1   c
+b
+1 bd
+#2 b  a
+x  b
+1 da   a
+#2  da
+x   c
+b
+#2  aa
+x  b
+1  dce
+1   ec
+1  cac
+b
+0  dca
+1
+1  dca
+b
+
+b
+1 ab  d
+1  dca
+1  aac
+1   a  /a
+b
+#2 d    /a
+x      /c
+x  a   a
+x  b  a
+1 dd  c
+1 df  d
+b
+1 a
+1 dd  c
+1     a
+1 cb
+b
+1 dd   a
+#2      a
+x  b
+#2  de  a
+x   c
+1  de  a
+b
+1  bc d
+#2   a
+x  a
+1   c f
+1    e
+b
+w  aa  a
+.
+b
+b
+0  d
+0 d a
+b
+1. cd a
+2 ab
+#2  def
+x   f
+x   e
+x   c
+b
+1   ac
+1 d a
+1  d a
+1 c
+b
+
+b
+1 d
+1 dd   a
+#2cd    a
+x     a
+x     c
+x     d
+b
+1ac  a
+#2 a   a
+x d
+#2 c   c
+x  d
+1 dd   a
+b
+1 ad  a
+1a b
+1  d d
+#2 d a
+x  f
+1  bc
+1 c
+b
+0 daa
+1
+1  de  a
+b
+0 ab  d
+1   ac
+1  a
+b
+0.  dca
+1  d
+b
+1. db  d
+2 c
+#2 ab  d
+x    a
+x  b c
+x    e
+1  def
+1 a ac
+b
+1 c ca
+1 abc
+1 dda
+1  a
+b
+
+b
+1aa c
+1 b  d
+1 dda
+1      a
+b
+1 ab
+1     d
+1 d   d
+1     d
+b
+1 d    a
+1 d
+1 dd
+1 d    a
+b
+1  d   a
+1  d   a
+1 a   d
+1 d
+b
+1 dda
+#2 d
+x  b
+1  def
+1  de  a
+b
+#2  dca
+x a
+x c
+x d  c
+1a   d
+1 daa
+b
+1 bbc
+#2  ded
+x   c
+0 aa c
+b
+1 cd
+1 c  a
+1 d   d
+1  d  c
+b
+
+b
+.
+1aa   a
+1 c
+1 dd   a
+1 d
+b
+1  d
+1 c  a
+1 d   c
+1 a   d
+b
+1  d   a
+1 d
+1 dd
+1 bb  a
+b
+1 aa c
+#2 a
+x    e
+1  da
+#2   ca
+x  b
+b
+#2  aac
+x   c
+x aa
+x  b
+1 cd a
+1 df  d
+b
+1  d f
+1 c  a
+1 a ac
+1  aa
+0  dca
+b
+A1
+1  a   a
+1cd
+1 d
+1ac  a
+1 a   d
+1 dd  c
+.
+b
+b
+
+b
+A2
+1  aa
+#2      a
+x   c
+1  aa
+1   c  /c
+b
+1  ac  a
+1   a
+1   c f
+1    e
+b
+w  aa  a
+b
+b
+
+e

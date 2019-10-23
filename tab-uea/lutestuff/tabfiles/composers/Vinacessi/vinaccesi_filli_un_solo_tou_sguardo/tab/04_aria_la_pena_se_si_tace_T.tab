@@ -1,0 +1,145 @@
+-C
+-t
+-f
+{/}
+b
+2
+b
+1. ab  a
+1.da c
+1.ca b
+1
+2da c
+b
+1db cd
+2dd  c
+1db  a
+2cd a
+1.da   d
+1
+2dab
+b
+1.fda
+1.ce  c
+1.da c d
+1da   a
+2ca    a
+b
+1.da   a
+1cd   c
+2ac
+1.cd  c
+1
+2dd  c
+b
+1db cd
+2    c
+1cbd a
+2   a
+1.ddf  d
+1cd  c
+2da   d
+b
+
+b
+1db cd
+2c   c
+1ab  a
+2c  a
+1.dd   d
+1
+2dd  c
+b
+1.dfd d
+1.cdda
+1aabc
+2 bd
+1. d\3f  d
+b
+1 a\4g a
+2  \1d&{
+1 db c
+2 ab&}d
+1. \1bbcd
+1
+2a d
+b
+1ca \1b\2c
+2a\1b  a
+1aa\1b \2c
+2 \4e\3d
+1.aa\1b  a
+1
+2 a\1b  a
+b
+1. bdca
+1.abb  d
+1. ede c
+1.aab  a
+b
+1a \4d \3d
+2 \1ba\2ca
+1 a\1bc\2c
+2 aab  //a
+1. ac  a
+1
+2\4f\3e  \1c
+b
+
+b
+1.da   a
+1.da c
+1a d  c
+2 e
+#2      //a
+x  d
+x a
+b
+1 bdca
+2    a
+#2abd a
+x     d
+x    a
+1 ed c
+2ca b
+1da c
+2aa   d
+b
+#2a d d
+x    c
+xaba a
+1aab c
+2 ea   //a
+Y.aab  a
+1. abc a
+b
+1.  da c
+1.cdd   a
+1.da a d
+1.
+b
+1.aa   e
+1.ed   a
+1.\4f\3fd d
+1.\3fd\4g&{d
+b
+1.\1bad   a|
+1a\1b\3d  a
+2 a\2c
+1. \1b\3d\2c  ///a
+1
+2 \4ea   //a
+b
+
+b
+1aab  a
+2   c
+1da   a
+2aabc
+1a d  c
+2 ea c
+1.
+b
+b
+
+e

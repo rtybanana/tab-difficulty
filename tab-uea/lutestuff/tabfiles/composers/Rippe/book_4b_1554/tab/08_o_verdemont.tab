@@ -1,0 +1,626 @@
+-C
+-t
+-f
+{8. O Verdémont/8. O Verdémont}
+b
+c
+wfg hf
+b
+1fg hf
+1    e
+1    f
+1    h
+b
+1fggd
+1 f {
+1 d
+1 f  }
+b
+1fggd
+1 d {
+1 f
+1 g  }
+b
+1dfg d
+#3g   {
+xf
+xd
+xf
+#3g
+xf
+xd
+x g
+#3d
+x g
+x f
+x d    }
+b
+wdfg d
+b
+1dfg d
+1  f {
+1  g
+1 d   }
+b
+
+b
+1dfg d
+1 g  {
+1d
+1f    }
+b
+1dgg d
+#2 f  {
+x d
+#2 g
+x f
+#3 g
+x f
+x d
+x f   }
+b
+1fggd
+1d  {
+1f
+1g   }
+b
+1fgg
+1   d
+0dbbc
+b
+1bdda
+#2a  {
+xb
+#2d
+xb
+#3d
+xb
+xa
+xb  }
+b
+1dbbc
+1   a
+1   c
+1   d
+b
+1   c
+1dbb
+1bd d
+1  b
+b
+
+b
+1a d
+1 a
+#2 b
+x a
+x b
+x d
+b
+1ab
+1  d
+0aab
+b
+1   d
+1fdd
+1   c
+1   a
+b
+1   c
+1fff
+1e
+1c  a
+b
+1effc
+1f   d
+1   a
+1effc
+b
+1    a
+1fd c
+1 c
+1 a
+b
+1acd
+1   c
+1    a
+1bd
+b
+Yacd a
+b
+1bdda
+1a
+1b
+1d
+b
+
+b
+1bdda
+1a
+1 d
+1 b
+b
+1bdda
+#2a
+xb
+#2d
+xb
+xa
+x d
+b
+1abd a
+1     d
+1    a
+1    c
+b
+1abd
+1    a
+0 db c
+b
+1 bdcd
+#2b
+xa
+#2 d a
+x b
+x a
+x  d
+b
+1 adc
+#2  c
+x  a
+#2  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+
+b
+1 bdca
+1 a
+1  d
+1 a
+b
+1 bdc
+1  d
+1 a  a
+1 b
+b
+1 dddf
+1 a
+#2 b
+x a
+x b
+x d
+b
+1abb d
+1b   {
+1d
+1b    }
+b
+1abb d
+1 d
+1 c a
+1 a
+b
+1 cdca
+1 d
+1a bab
+1 d
+b
+1 cdca
+1 a
+1 d
+1 c
+b
+1   a
+1 d
+1 b
+1  e
+b
+
+b
+1  d
+1  b
+1   d
+1   c
+b
+1 d a
+1   c
+1   d
+1  b
+b
+1 cd a
+1   c
+0  d
+b
+0 ddac
+1  c a
+1  a
+b
+1 dcac
+1  d a
+1 d ac
+1  ca
+b
+1 cdca
+#2  b
+x   d
+#2   c
+x   a
+x    d
+x    c
+b
+#2    a
+x    c
+x    d
+x   a
+#2   c
+x   a
+x   c
+x   d
+b
+
+b
+#2 cdca
+x    d
+x   a
+x   c
+#2   d
+x   c
+#3   d
+x   c
+x   a
+x   c
+b
+1 dddf
+1 a
+1 b
+1 d
+b
+1abb d
+1 b
+1 d
+1a
+b
+1bdda
+#2a
+xb
+#2d
+xb
+#3d
+xb
+xa
+xb
+b
+1dde  d
+1  d  {
+1  e
+1  g   }
+b
+1dde
+1     d
+0b dd
+b
+1abb d
+1 b  {
+1 d
+1a    }
+b
+1 gddf
+1 d  {
+1 f
+1 g   }
+b
+
+b
+1  gfd
+1 g  {
+1 f
+1 d   }
+b
+1 ggfd
+1 f  {
+#2 g
+x f
+x d
+x f   }
+b
+1     b
+1bbd  {
+1a
+1 d
+b
+1 b
+1  e
+1  d
+1  b
+b
+0bbdd
+0     b
+b
+Ybbdd b
+b
+1fb d
+1  b
+1  d
+1  b
+b
+1f  d
+1   c
+1f  a
+1    d
+b
+1bde b
+1    a
+1    b
+1    d
+b
+
+b
+1b  a
+1    b
+1b   d
+1   a
+b
+#2d   d
+x   a
+x   c
+x   d
+#2  b
+x   d
+x   c
+x   a
+b
+#2d  c
+x   a
+x    d
+x    b
+#2    d
+x    b
+x    a
+x     d
+b
+1     b
+1f dd
+1    d
+1     b
+b
+0fb ddb
+0fb ddb
+b
+1bdedb
+#2a   {
+xb
+#2d
+xb
+#3d
+xb
+xa
+xb     }
+b
+
+b
+1dfg d
+1 d  {
+#2 f
+x d
+x f
+x g   }
+b
+1dfg
+1    d
+1   a
+1bdd
+b
+#2aa c
+xb  {
+xd
+xb
+#2a
+x d
+x b
+x a  }
+b
+1 b d
+1 a {
+1 b
+1 d  }
+b
+#2 b d
+x  d{
+x a
+x b  }
+#2 d c
+x b {
+#3 d
+x b
+x a
+x b  }
+b
+1 dda
+1 a
+#2 b
+x a
+x b
+x d
+b
+
+b
+1abb d
+1 b  {
+1 d
+1a    }
+b
+1bbd  b
+1a    {
+1b
+1d
+b
+1bbd
+1     b
+1aab  d
+1 d
+b
+1 cdca
+1 d
+1a bab
+1 d
+b
+1 cdca
+1 a
+1 d
+1 c
+b
+1   a
+1 d
+1 b
+1  e
+b
+#2  d
+x  b
+x  d
+x  b
+#2  d
+x  b
+x   d
+x   c
+b
+1   a
+1  d
+1 a
+1 c
+b
+
+b
+1 dda
+1a
+1b
+1d
+b
+1fggd
+1g  {
+1i
+1g   }
+b
+1f  d
+1d
+1b  d
+1a
+b
+1bde b
+1a   {
+1 d
+1a
+b
+1b   b
+1 d
+1ade b
+1b
+b
+1dfg d
+1f   {
+1gg
+1f    }
+b
+1f
+1d
+1ff
+1g
+b
+1fggd
+1g  {
+0i   }
+b
+1   d
+1g  {
+1f
+1d   }
+b
+
+b
+1bdda
+1a
+1b
+1   a
+b
+1dfg d
+1     d
+1    a
+1    c
+b
+1d   d
+1    c
+1b   d
+1   a
+b
+1aa c
+1    d
+1 d a
+1   c
+b
+1 bdd
+1 a
+#2 b
+x a
+x  d
+x  b
+b
+1 bdd
+1   c
+#2 b d
+x   c
+x   a
+x    d
+b
+1   a
+1 dd
+1    d
+1    c
+b
+1abb d
+1    c
+1a   a
+1    d
+b
+
+b
+1bbd  b
+1     a
+1     b
+1     d
+b
+1     b
+1bbd
+1aab  d
+1 d
+b
+1 cdca
+1 d
+1a bab
+1 d
+b
+1 cdca
+1 a
+1 d
+1 c
+b
+1   a
+1 d
+1 b
+1 a
+b
+1  da
+1  b
+1  a
+1   c
+b
+0 dda c
+0c
+b
+Ycdda c
+b
+b
+
+e

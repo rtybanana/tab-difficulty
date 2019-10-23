@@ -1,0 +1,248 @@
+-C
+-t
+-f
+{Se glil dico, che dirà/Se glil dico, che dirà}
+b
+c
+0 a  c
+0 a  c
+b
+0  e  c
+0     c
+b
+0 a  c
+0 c  a
+b
+0    a
+1. a  c
+2  d
+b
+0  c  a
+0  c  a
+b
+0  a  c
+0  a  c
+b
+0   ac
+1   ca
+1    e
+b
+0  a c
+1   ac
+1   c
+b
+1    a
+1  a  c
+0   ac
+b
+1.   c a
+2   a
+0    ec
+b
+0  a c /a
+0  a c /a
+b
+
+b
+1.  a c
+2   ce
+1  a c
+1 cd
+b
+0  da
+1  cc
+1  a c
+b
+1
+1  cc
+1  da
+1  d e
+b
+#2    e
+x  d
+x  c
+x  a
+0  c e
+b
+1  a  c
+1    e
+#2     c
+x  a
+x   c
+x   a
+b
+1    ec
+1   a
+1     a
+1    e
+b
+0   a  a
+0   a
+b
+0 d a
+0 d a
+b
+0 d a
+1 c  a
+1  d
+b
+1 c
+1    a
+0 a  c
+b
+
+b
+0     c
+0  e
+b
+0 a  c
+0    c
+b
+0 a  c
+0 a  c
+b
+0  e  c
+0  e  c
+b
+0 a  c
+0 c  a
+b
+1    a
+1 c
+1 a  c
+1  d
+b
+0  c  a
+0  c  a
+b
+0  a  c
+0    e
+b
+0   ac
+1   ca
+1    e
+b
+0  a c
+1   ac
+1   ca
+b
+1.  a  c
+2   c
+#2   ac
+x    e
+x   a
+x    c
+b
+1.   c a
+2   a
+0    ec
+b
+
+b
+w  a c /a
+b
+b
+0  da
+0  da
+b
+0  da
+1  d e
+1    c
+b
+0  d a
+0   ac
+b
+0   ca
+0   ca
+b
+0   a  a
+0  a
+b
+1      a
+1  a
+1   c
+1   a
+b
+0    ef
+1    a
+1   a
+b
+0   ca
+1     e
+1     c
+b
+0.   c a
+1   a
+b
+1    ec
+1    c
+0    ec
+b
+0  a c /a
+0    c
+b
+0  a c /a
+0  a c /a
+.
+b
+b
+
+b
+1.  a c
+2   ce
+1  a c
+1  cc
+b
+0  da
+1  cc
+1  ae
+b
+1    c
+1  cc
+1  da
+1  d e
+b
+#2    e
+x  d
+x  c
+x  a
+0  c e
+b
+1  a  c
+1    e
+#2     c
+x  a
+x   c
+x   a
+b
+1    ec
+1   a
+1     a
+1    e
+b
+0   a  a
+0   a
+b
+0 d
+0   a
+b
+1 d
+1   a
+0 c  a
+b
+1 c
+1    a
+1    c
+1 a
+b
+
+b
+0     c
+0  e
+b
+0 a  c /a
+0 a  c /a
+b
+b
+
+e

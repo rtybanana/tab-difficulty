@@ -1,0 +1,446 @@
+-C
+-t
+-f
+{Chi per voi non sospiro/Chi per voi non sospiro}
+b
+c
+w
+b
+w
+b
+0c
+1c
+1e
+b
+1f  e
+1  d
+1  de
+1 ac
+b
+1 cd
+1a
+1cd
+1 d a
+b
+1 ab
+1a
+1c a
+1 ca
+b
+0cdf
+1 cd
+1cd a
+b
+0h ff
+0g he
+b
+0
+1
+1   eec
+b
+1    cd
+1   c
+0c  eec
+b
+
+b
+1c de
+1e
+1f de
+1 ac
+b
+0 cd
+1  d
+1aa c
+b
+1  de
+#2  c
+xc a
+2   ge
+#3 g
+x e
+1 g
+b
+1c a c
+1c
+1h    h
+1    e
+b
+0fdaa
+1 ca
+1 c ca
+b
+0 a ac
+1  aac
+#2    a
+x     e
+b
+1c  eec
+1  c
+1c d
+1a
+b
+1 d e
+1 a
+1 a e
+1 c c
+b
+0 d a
+1 d
+1 cd a
+b
+
+b
+0ca ac
+1ca ac
+1e
+b
+1f  e c
+1  d
+1  deec
+1 a   e
+b
+1fcdca
+1   a
+1e  c
+1 a   a
+b
+1ccd  c
+1   e
+0ccdeec
+b
+0 ghge
+1  h
+1    e
+b
+1 a c
+1   c
+1cd a
+1 d  c
+b
+1fc e
+1f d
+1ec  e
+1a
+b
+1ea c
+1   c
+1c   c
+1 aa c
+b
+1  deec
+1 cd
+1   ca
+1a   a
+b
+
+b
+1 a cca
+1aa c a
+1 df c
+1 df
+b
+1cc e c
+1cc e
+1ac
+1a   e
+b
+1 acc
+1 a c
+1 dfa
+1 df c
+b
+1c da
+1  d
+1fcd a
+1f
+b
+1aac  a
+1a
+1caa c
+1    c
+b
+1 cdca
+1 cde c
+1a c e
+1a c
+b
+1 dfec
+1  f
+1c de c
+1  d
+b
+1 cd a
+1    a
+1 a c d
+1 a c a
+b
+1 d ac
+1c
+0fc e c
+b
+
+b
+1    e
+1c
+1f  a
+1  a
+b
+1  da
+1c
+1c a
+1ca  c
+b
+1 dfec
+1 dff d
+2 cdca
+#3 d
+x c
+#3 d
+x c
+x a
+x c
+b
+1 ddef a
+1c
+1fd
+1  a
+b
+0 cd
+1c
+1 df
+b
+1hdf
+1hd f
+1fcd
+1    a
+b
+0fdda
+1 d
+1cdd   a
+b
+0fcd a
+1 c
+1ac  a
+b
+
+b
+1 dda
+1 df c
+0 cc e
+x
+x
+x
+b
+0 c e c
+0c ee
+b
+0ea c
+1fd a
+1fcd
+b
+1
+1ea c
+1c de
+1h i  h
+b
+1fd a
+1da c
+0c ee
+b
+2c ee
+#3 f
+x d
+#3 c
+x  f
+x  e
+x  c
+0   e
+b
+1   bc
+1  a
+0  dca
+x
+b
+1  def
+0  dca
+1 ab  a
+b
+1 aaac
+1 cd  c
+1 c  a
+1 aa c
+b
+
+b
+1  c e
+1e  d
+1f  e c
+#2 c
+xe
+b
+1c
+1fc e
+1ec
+1   d
+b
+1c de
+1c
+1f  e c
+1c
+b
+1 h  e
+1 g g
+1.c d  c
+2  c
+b
+1   e
+1  d
+1ecc e
+1 c
+b
+1  def
+#2  d
+x    e
+1 a  c
+1  aa
+b
+1 c ce
+1 c
+1. d ac
+2 c
+b
+1 a a
+#2cd
+x   c
+1fc e c
+#2   e
+xe
+b
+
+b
+1cc e
+#2 cd
+x   c
+1 d a
+1  de
+b
+0aa c
+1 cd a
+1    a
+b
+1c aa
+#2  a
+xa   e
+1 d  c
+1c aa
+b
+2 ghge
+#3 h
+x g
+#3 h
+x g
+x e
+x g
+1c de c
+1  d
+b
+1  a
+1   e
+1c aa
+1   a
+b
+1 aa  h
+1h
+1e c  a
+1eac
+b
+1a c
+1 ac
+1a
+1 a c
+b
+1    e
+1a   e
+1 c ca
+1fc
+b
+
+b
+1c de  a
+1c
+0 dda  a
+b
+1c
+1  def
+1 a ac
+1 a ac
+b
+#2 a  cd
+x     a
+x     c
+x     d
+0c d ec
+b
+1a d
+1 cd
+1 db
+#2a  c
+x d
+b
+#2 c
+x a
+1 c e
+1 d a
+1  aa
+b
+1    c
+1c  a
+1 d
+1 df c
+b
+1 ac  a
+1  c
+1 a c
+1a  c
+b
+1   ce
+1 c  a
+1 c   c
+1  d  c
+b
+
+b
+1   a  a
+1  de
+1      a
+1f  e
+b
+1c d
+1c  a
+1 daac
+1 da c
+b
+1 dba d
+1 d
+0f da  a
+b
+0  da  a
+0fc ca
+b
+0fcd a
+0fcdca
+b
+0da c a
+0caa c
+b
+1cc e c
+1   c
+1ccee
+1     c
+b
+wcaabc
+b
+b
+
+e

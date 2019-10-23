@@ -1,0 +1,165 @@
+-t
+-f
+{291. Branle 9/291. Branle 9}
+b
+#3  aaa a
+x   c
+x  a
+x  b
+2  a
+b
+.
+1   a  a
+2    a
+#3  aaa a
+x   c
+x  a
+x  b
+x  d
+x  a
+b
+#3  d a
+x  b
+x  a
+x  b
+2   c
+#3   ca
+x   a
+x   c
+x  a
+x  b
+x   c
+b
+
+b
+#3  bc  a
+x  a
+x   c
+x  a
+2   a
+2  aaa a
+#3  b
+x  a
+x   c
+x  a
+b
+#3   a  a
+x    e
+x    c
+x    e
+x   a
+x   c
+#3  aaa a
+x   c
+x  a
+x  b
+x  d
+x  a
+b
+#3  ba  a
+x  a
+x  b
+x  d
+x a
+x  b
+#3 b  a
+x a
+x  d
+x  b
+x  a
+x   c
+b
+
+b
+#3   a  a
+x    e
+x   a
+x   c
+2   a
+2.  aaa a
+3   c
+2   a
+b
+2.  d   a
+3  b
+2  a
+2 a a  a
+#3 b
+x a
+x  d
+x  b
+b
+2  d   a
+#3    a
+x    c
+x    e
+x   a
+#3   ca
+x   a
+x   c
+x  a
+x  b
+x   c
+b
+
+b
+#3  ba  a
+x  a
+x   c
+x  a
+2   a
+2  aaa a
+#3  b
+x  a
+x   c
+x   a
+b
+2  d   a
+#3  b
+x  a
+x   c
+x   a
+2 a    a
+#3 b
+x a
+x  d
+x  b
+b
+2 daa  a
+#3 b
+x a
+x  d
+x  b
+#3 b    a
+x a
+x  d
+x  b
+x  a
+x   c
+b
+
+b
+A1
+#3   a  a
+x    e
+x   a
+x   c
+2   a
+#3  aaa a
+x   c
+x  a
+x  b
+2  a
+.
+b
+b
+A2
+#3   a  a
+x    e
+x   a
+x   c
+Y   a
+b
+b
+
+e

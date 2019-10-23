@@ -1,0 +1,140 @@
+-C
+-t
+-f
+{1. O Griefe/1. O Griefe}
+b
+c
+0. abc a
+1  a
+b
+w abc a
+b
+0. abc
+#2   a
+x    d
+b
+w aabc
+b
+1 abc a
+0 abc
+1  da c
+b
+1 ab  d
+#2  a a
+x   c
+0 aabc
+b
+1
+1 aabc
+1  bcd
+1  d
+b
+w aabc
+b
+0
+0 dff d
+b
+0
+0 ddef
+b
+1 ddef
+#2 abc
+x   a
+#2  dcd
+x    c
+1 bdca
+b
+w aabc
+b
+
+b
+0
+0 abc a
+b
+0
+0  da c
+b
+1 ab  d
+1 bdca
+#2 aabc
+x    a
+1 dff d
+b
+1 ddef
+1   f
+1 dd f
+1   e
+b
+w dff d
+b
+1. ab  d
+2    a
+0 abac
+b
+0  bcd
+1 bbcd
+1  aa
+b
+1 bbc
+1  de
+0 dff
+b
+1 dff
+1 d a
+1 abc
+1  dcd
+b
+w aabc
+b
+0
+0 abc a
+b
+.
+0 aabc
+1 aabc
+1 abc
+b
+
+b
+1 ddef
+1 dff d
+0 ddef
+b
+0 ddef
+0 dff
+b
+1aa c
+1aab
+1 cfe
+1  e
+b
+1 aa c
+#2    a
+x     d
+1 ddef
+1   f
+b
+1 ddff
+1   e
+1 ab  d
+1  dca
+b
+1  dbc
+1 abc
+1 aacc
+1   b
+b
+w acc a
+b
+A1
+0     a
+0 abc a
+.
+b
+b
+A2
+w
+b
+b
+
+e

@@ -1,0 +1,262 @@
+-C
+-t
+-f
+{32. Mein Mann der ist in Krieg gezogen/Melchior Newsidler}
+b
+c
+0fd ef
+0fd ef
+b
+0hd f d
+0df fd
+b
+1f g hf
+1h    e
+#2if h f
+x     h
+x     i
+x    f
+b
+1h  hh
+1   g
+1ffhh
+1     f
+b
+1.fd ef
+2d
+1fd e
+1    f
+b
+1.hd f d
+2f
+1df fd
+1    c
+b
+1f g hf
+1h    e
+#2if h f
+x     h
+x     i
+x    f
+b
+
+b
+#2h  hh
+x   g
+#3   h
+x   g
+x   e
+x   g
+0f hh f
+b
+1.abb d
+2c
+1dbb
+#2   c
+xc
+b
+#2abb d
+x d
+#3a
+x d
+xa
+xc
+1dbb
+#2c   d
+xa
+b
+1cdda
+#2a
+xc
+1aab  d
+1 daac
+b
+#2 ddca
+x c
+#3 d
+x c
+x a
+x c
+1 ddef
+1   a
+b
+1.abb d
+2c
+1dbb
+#2   c
+xc
+b
+
+b
+#2abb d
+x d
+#3a
+x d
+xa
+xc
+1dbb
+#2c   d
+xa
+b
+#2cdda
+xd
+xf
+xc
+#2dab  d
+xc
+xa   c
+x d
+b
+#2 cdca
+x a
+1 c
+1 dde
+1    f
+b
+b
+0fd ef
+1fd ef
+b
+1.fd ef
+2d
+1fd ef
+b
+1.hd f d
+2f
+1hd f d
+b
+1.df fd
+2 h
+1df fd
+b
+0f g hf
+1h    e
+b
+1.i g hf
+2h
+1f gh f
+b
+1h  hh
+#2   g
+x   e
+1h  gh
+b
+
+b
+1.f hh f
+2  i
+1f hh f
+b
+1.fd ef
+2d
+1fd ef
+b
+1.fd ef
+2d
+1fd ef
+b
+1.hd f d
+2f
+1hd f d
+b
+1.df fd
+2 h
+1df fd
+b
+0f g hf
+1h    e
+b
+1.i g hf
+2h
+1f gh f
+b
+1h  hh
+#2   g
+x   e
+1h  gh
+b
+1.f hh f
+2  i
+1f hh f
+b
+#2abb d
+x d
+#2 b
+x d
+#2a
+xc
+b
+
+b
+1.dbb d
+2c
+1dbb d
+b
+1.abb d
+2 d
+#2a
+xc
+b
+1.dbb d
+2c
+1abb d
+b
+1.cdda
+2d
+1fd ef
+b
+1ddf  d
+1   f
+1cdda
+b
+1add a
+#2 c
+x a
+1acd a
+b
+1. ddef
+2   f
+1 ddef
+b
+#2abb d
+x d
+#2 b
+x d
+#2a
+xc
+b
+1.dbb d
+2c
+1dbb d
+b
+1.abb d
+2 d
+#2a
+xc
+b
+
+b
+1.dbb d
+2c
+1abb d
+b
+1.cdda
+2d
+1fd ef
+b
+1ddf  d
+1   f
+1cdda
+b
+1add a
+#2 c
+x a
+1acd a
+b
+1. ddef
+2   f
+1 ddef
+b
+b
+
+e

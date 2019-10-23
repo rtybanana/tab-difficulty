@@ -1,0 +1,112 @@
+-C
+-t
+-f
+{When Laura smiles/When Laura smiles}
+b
+1aacc
+1     a
+1acdca
+b
+0aacc
+#2 a
+x c
+b
+#2 dda
+xa
+1cd
+1aa c
+b
+#2 ef c
+x c
+#2 a
+x    a
+#2a \2c  \4e
+x     c
+b
+1aac  a
+1 f ec
+1 e
+b
+0.aaccca
+b
+1aacc
+1     a
+1acdca
+b
+0aacc
+#2 a
+x c
+b
+#2 dda
+xa
+1cd
+1aa c
+b
+
+b
+#2 ef c
+x c
+#2 a
+x    a
+#2a \2c  \4e
+x     \1c
+b
+1aac  a
+1 f ec
+1 e
+b
+0.aaccca
+b
+b
+0 \4d\3da
+1a\2c&{\3d a
+b
+0 d\4f \1c
+1  def
+b
+0 cc e
+1 cd&U a
+b
+1 cd a
+1 ec c
+1 gh e
+b
+0cc   c
+1 cde
+b
+1.aa c
+2   a
+1ac  e
+b
+1    c
+1ce
+1  f
+b
+1. \2d&{\1da
+2    \3e
+1 d&}\4f \1c
+b
+1    a
+1ac
+1  d
+b
+1. cc e
+2    c
+1 \1c\2d a
+b
+
+b
+1 \3e\4f  \2e
+1 f
+1ac&U  e
+b
+1ac  e
+1 f ec
+#2 e    /a
+x  d
+b
+0.aac  a
+b
+b
+
+e

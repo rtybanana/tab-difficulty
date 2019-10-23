@@ -1,0 +1,103 @@
+-C
+-t
+-f
+{Ricercar 1/Ricercar 1}
+b
+1 db
+#3a
+x d
+x b
+x a
+#2  d
+x  b
+x  d
+x a
+b
+1 bd
+#2 db
+x   d
+#2a  c
+x   a
+x   c
+x  a
+b
+
+b
+#2a b
+x  a
+x  b
+x  d
+#2 d a
+x b
+x d
+x a
+b
+#2 bd
+xa
+x d a
+x b
+#2 d
+x b
+x a d
+x  d
+b
+#2 a c
+x  d
+x a
+x b
+1 d a
+#2   c
+x   a
+b
+
+b
+#2   c
+x   a
+x    d
+x    c
+1 b  a
+#2 d
+x b
+b
+#2 d
+x b
+x a
+x  d
+#tx   a
+1   c
+b
+t#1 a
+x c
+1 d a
+#3   c
+x   a
+x    d
+x    c
+b
+
+b
+#2a   a
+x    c
+x    d
+x   a
+#2a  c
+x  a
+x  b
+x  d
+b
+#2  bc
+x   a
+#3   c
+x   a
+x    d
+x    b
+0  d a
+b
+0   ab
+0   ca
+b
+w dda
+b
+b
+
+e

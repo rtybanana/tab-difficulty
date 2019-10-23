@@ -1,0 +1,244 @@
+-C
+-t
+-f
+{Volte/Volte}
+b
+1  d
+b
+.
+1. c"#d{
+2 d
+1a   }
+b
+#2 d a
+x c
+1 adc{
+1  c"#
+b
+1    a
+1 c"#d
+1   c
+b
+0    a
+1      ///a
+b
+1. c"#    /a
+2      a
+1 c   a
+b
+#2  d a
+x  c
+1  acc{
+1   b"#
+b
+1     a
+1 ac"#
+1   c
+b
+0aac
+1   a
+b
+1    e{
+#2a d   }
+x   a
+1d  c
+b
+
+b
+1c"#  a
+1 a
+1a   e
+b
+1 d  c
+1  c
+1 c"#d a
+b
+1     a
+1 ac"#
+1      a
+b
+1      /a
+#2f
+xd
+1c"#     a
+b
+#2a
+x d
+#2     a
+x a
+#2a
+x d
+b
+1     a
+1 c"#d
+1   c
+b
+A1
+0      ///a
+1  d
+.
+b
+b
+A2
+0      ///a
+1a
+b
+.
+1. c"#d{
+2 d
+1a   }
+b
+1  c"#
+1  de{
+1 e   }
+b
+1.aa c{
+2c
+1e    }
+b
+
+b
+1   a
+1    e{
+1a     }
+b
+1.c"#  a
+2d
+1c"#
+b
+1a   e
+#2c   c{
+xe     }
+1f   a
+b
+1e"#a   a
+1a
+1f
+b
+1e"#
+1a
+1f"x
+b
+1c"#  a
+1 d {
+1d"x   }
+b
+1a"#   e{
+1  d(
+1c"#   )
+b
+1 da c{
+1 ac"#
+1a
+b
+1 cd a
+1 a"# a
+1  d
+b
+1     a
+1 ac"#
+1   c
+b
+1aac"#
+1     a
+1      a
+b
+
+b
+1a"#    a
+1      /a
+1a
+b
+1 d    a
+1      //a
+1 d
+b
+1 c"#    /a
+1      ///a
+1 c    /a
+b
+1c     a
+1.a    a
+2 d
+b
+1    a
+1 c"#d
+1   c
+b
+1      ///a
+#2c
+xd
+#2f
+xd
+b
+#2c  a
+x d
+#2a
+xc
+#2d   c{
+xc     }
+b
+#2a   e{
+x c
+#2 d
+xa
+#2c  a
+xa
+b
+
+b
+#2 d  c{
+x a
+#2 c
+x d
+#2a    e{
+x d
+b
+#2 c  a
+x  d
+#2 a
+x c
+#2 d a
+x c
+b
+1     a
+1 ac"#
+1   c
+b
+1 ac
+1     a
+1      a
+b
+1a"#    a
+1      /a
+1a
+b
+1 d    a
+1      //a
+1 d
+b
+1 c    /a
+1      ///a
+1 c    /a
+b
+1c     a
+1.e"#a   a
+#3c
+xe
+b
+1f
+1    a
+1      ///a
+b
+A1
+0fc
+1a
+.
+b
+b
+A2
+Y.fc
+b
+b
+
+e

@@ -1,0 +1,386 @@
+-C
+-t
+-f
+{319. Fantasy/John Marchant}
+b
+c
+1 abc
+#2a
+x  a
+#2a b
+x  d
+#3a
+x a
+2 b
+b
+2. df
+3  d
+#2  b
+x  a
+#2d  c
+x a
+x b
+x a a
+b
+#2f   d
+x    a
+x  def
+xf
+#2h    h
+x d
+x f
+x d
+b
+#2hi
+x     a
+xfh
+xdf
+#2ca b
+x    c
+xdb   a
+x a
+b
+
+b
+#2c d a
+x    c
+xa d d
+x    a
+#2 da c
+xa  c
+xca b
+x  d
+b
+#2d bc a
+x     c
+xa    d
+x    a
+#2 d  c
+x a
+x d
+xa
+b
+#2c
+x      d
+xcd
+x c
+#2da
+x   c
+xacd
+x  b
+b
+2f a
+#3   a
+xd
+#3cd
+x c
+x a
+x  d
+2db c
+#3 a
+x   a
+#3a   d
+x    c
+2  d d
+b
+
+b
+2 da
+#3    c
+x c
+#3 a
+x     d
+x  d
+x  b
+#2  a   e
+x e    a
+2c
+#3  a
+xa
+b
+#3 ef   a
+x c
+x a
+x  d
+#2aab
+x   c
+2da
+#3     a
+xc d
+#3aab
+x  a
+2  b
+b
+#3 da
+x    c
+x ab
+x     d
+#3 ba a
+x   c
+x aacc
+x   b
+#2 abc a
+x   c
+2a
+#3  b
+xa
+b
+#2c d
+x  a
+x a
+xc
+2d
+#3   c
+xc
+2aab
+#3 d
+x  a
+b
+
+b
+#3aabc
+x c
+2cdda
+#2dd c
+x c
+#2cdda
+x d
+2f
+#3  d
+xd
+b
+#3cd
+xa
+x d
+x c
+#3da
+x  d
+x  b
+x  a
+#3   c
+xc  a
+xa   d
+x d  c
+#3 b  a
+x a
+2  def
+b
+#2 aba d
+x d
+2d
+#3     a
+x     c
+#3d    d
+x     a
+x   c
+x   a
+#3d   d
+x    c
+x    a
+x     d
+b
+
+b
+#3d   c
+x     a
+x b
+x a
+#3f d
+x  b
+x  a
+x   c
+#3f  a
+x      d
+xc
+xa
+#3fd
+x b
+x a
+x  d
+b
+#3h  f
+x     a
+xd
+xc
+#3hf
+x d
+x  g
+x  f
+#3i  h
+x    a
+xf
+xd
+#3cd
+x b
+x a
+x  d
+b
+#3d b
+x  a
+x   c
+xc  a
+#3f   d
+xd
+xc   a
+xa
+#3 ea c
+x c
+x a
+x    a
+#3     d
+x     c
+2aab  a
+b
+
+b
+#2aaa   a
+x e
+xaac  a
+x   c
+2  b
+#3   c
+x  b
+#2  d d
+x a a
+b
+#2   c
+x  b
+x bd
+x    a
+#2 abc
+x     a
+2a
+#3  b
+xa
+b
+#2c d
+x  a
+x  f
+x d
+2d
+#3  b
+xd
+#2cd
+xfb
+b
+2da
+#3c
+x  d
+#3  b
+x  a
+2a b
+#2 ea
+x    c
+2    d
+#3   c
+xa
+b
+
+b
+2 daa
+#3   a
+x b
+#3 abc
+x  d
+x a
+x     d
+2  d a
+#3    a
+x  b
+#3  a c
+x   c
+2c  b
+b
+2d  c
+#3 a
+xd
+#2ffg
+xfhi
+2hi
+#3     a
+xhi
+#2fh  a
+xdf
+b
+2ca b
+#3      a
+xc
+#3a    a
+x d
+x c
+x a
+#3  e  c
+x  c
+x  e
+x     a
+#3 a    d
+x      c
+2 df   a
+b
+#3aab  a
+x c
+2cdd   d
+3dd   a
+#4 c
+x a
+2 c
+#2cdd
+x      d
+#3 ab  a
+x     c
+xa    d
+x    a
+b
+
+b
+2 d  c
+#3    e
+x c
+#3 a a
+x  d
+2 abc
+#2  a
+xc ab
+2da
+#3     a
+xc
+b
+2aa   d
+#3 d
+x     c
+#2aab  a
+xca b
+#2da c a
+xacd a
+#3cdda
+x  d
+2 c
+b
+2 a a
+#3      d
+x  d
+#2  b  a
+x  d  c
+#2 ab  d
+xaab  a
+x    c
+x ea
+b
+#2aab  a
+xd
+x   c
+xca b
+#2   c
+x ab
+#3a
+x     c
+x     d
+x    a
+b
+#2 ea c
+x      a
+Y aabcca
+b
+b
+
+e

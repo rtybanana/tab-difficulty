@@ -1,0 +1,170 @@
+-C
+-t
+-f
+{Vive ma dame/Vive ma dame}
+b
+0  d
+1  b
+b
+1  d
+1 b
+1 a c
+b
+#2  d a
+x a c
+#2  d a
+x  bc
+1  a c
+b
+#2   cd
+x  d a
+#2   a
+x a  c
+#2 b  a
+x d
+b
+
+b
+1a   d
+#2 db
+x bd a
+1 a c
+b
+1  d a
+1   a
+2. b  d
+3   a
+b
+#2 a c
+x  b
+1  d a
+1  bc
+b
+#2    d
+x b
+#2 db
+x b  d
+#2  d
+x a
+b
+
+b
+2  b
+2. d a
+3   c
+2 ab
+1  da
+b
+#2  b
+x   c
+1   c
+#2  d a
+x   a
+b
+#2 b  d
+x  bc
+#2  d d
+x a  c
+#2   a
+x b  a
+b
+#2 b  a
+x a  c
+#2  da
+x  bc
+1  a c
+b
+
+b
+1   c
+1 a
+1 a
+b
+b
+1  b
+1a  c
+1a
+b
+1 bd
+2. bd
+3 a
+2 bd
+#3 db
+x  a
+b
+2a  c
+#3  d
+x b
+#2  d
+x   e
+1 a c
+b
+
+b
+#2  de
+x d a
+#2 a c
+x  b
+1  d a
+b
+1  bc
+#2   e
+x  da
+#2 bd
+x b
+b
+#2 a c
+x  b
+#2 bd
+x  d
+1 a c
+b
+1a  c
+#2 db
+x a
+1 bd
+b
+
+b
+1 a c
+1  b
+#2
+x a
+b
+#2 d
+x d
+#2  d
+x  d
+2. b
+3 a
+b
+1  bc
+#2  d
+x bd
+1 ab
+b
+#2   c
+xa  c
+#2  f
+x d
+1a  c
+b
+
+b
+#2 d
+x bd
+#2  d
+x   e
+1 a c
+b
+#2  d
+x  bc
+#2  bc
+x  d a
+1 a c
+b
+0.  d a
+b
+b
+
+e

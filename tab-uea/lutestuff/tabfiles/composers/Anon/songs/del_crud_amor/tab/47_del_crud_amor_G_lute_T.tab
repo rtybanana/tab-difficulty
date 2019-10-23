@@ -1,0 +1,129 @@
+-C
+-t
+-f
+{Del crud' amor/Del crud' amor}
+b
+c
+1
+1 abc
+b
+1. abc
+2 bdd
+1 dff
+1 bdd
+0 abc
+1  def
+1 a
+b
+0  bcd
+1  bcd
+0  bcd
+1  bc
+1  d f
+1   e
+b
+A1
+0 ab  d
+.
+b
+b
+A2
+1 ab  d
+1  bcd
+b
+1  def
+1 abc
+1 bdd
+1 dff
+b
+0ab  d
+1ab  d
+0b dd
+1abd
+1 d f
+1  f
+b
+
+b
+1ab  d
+1 bdd
+1 bdd
+1 dda
+1 a c
+1  c
+b
+1  d a
+0 bdd
+1 dda
+1 acc
+1  dd
+1 a c
+1  c
+b
+1  d a
+1a
+1 c
+1 cd
+b
+.
+1  de
+1f de
+1cd a
+1c  a
+1 dff
+1 d
+b
+1d  c
+1 a
+1a b
+1  bc
+1   cd
+1a  cd
+1 bd a
+1 b  a
+b
+
+b
+1  def
+1  d
+1 d   d
+1  ff
+1 dff
+1  de
+1  ff
+1d
+b
+1d da
+1c
+1d
+1  bc
+1a bc
+1  ab
+1  bc
+1a
+b
+1a a c
+1 ea c
+1a  cd
+1 bd a
+#2 adc
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+A1
+1  d a
+1a
+1 c
+1 cd
+.
+b
+b
+A2
+w  d a
+b
+b
+
+e

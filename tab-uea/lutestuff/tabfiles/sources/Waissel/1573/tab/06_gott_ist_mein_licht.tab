@@ -1,0 +1,614 @@
+-C
+-t
+-f
+{6. Gott ist mein licht/6. Gott ist mein licht}
+b
+c
+2. a
+3  d
+#3 a
+x  d
+x a
+x c
+#3 df
+xa
+xc
+x d
+#3a  c
+x c
+x d
+xa
+b
+2.ca  c
+3    a
+#3    c
+x    a
+x    c
+x    e
+1ca ac
+1da c a
+b
+#2cda c
+xac
+x dfec
+x cd
+2 dfec
+#3 c
+x d
+1acbc
+b
+
+b
+#2c aa
+x a
+xda cd
+x   ac
+#3d  cd
+xa
+xc
+xd
+#2c d d
+xa
+b
+1 efec
+1c
+2d
+#3c
+xd
+1caa c
+b
+2aabc
+#3  a
+x  b
+1 efec
+1a dcd
+1c da
+b
+#2 abc
+xa
+xa d d
+x   c
+2aaa c
+#3 e
+x c
+#3 e
+x a
+#4 c
+x a
+x c
+x e
+b
+#2a bc a
+x  a
+2 ab
+#3  d
+x a
+2ab
+#3 a
+x b
+1 efec
+b
+
+b
+1da c
+1c  bc
+#2  bc
+xa
+1 efec
+b
+1a dcd
+1c da
+#2 abc
+xa
+xa d d
+x   c
+b
+2aaa c
+#3 e
+x c
+#3 e
+x a
+#4 c
+x a
+x c
+x e
+#3aa c a
+x   b
+x   c
+x  a
+#2  bc
+x a
+b
+2 abc
+#3  a
+x  b
+#2 bd a
+x  b
+1 aa c
+#3 a
+x  d
+x a
+x c
+b
+
+b
+#3 df
+x a
+x c
+x d
+#3a  c
+x c
+x d
+xa
+#3ca  c
+xa
+x d
+x c
+#3 a  c
+x c
+x d
+xa
+b
+1caa c
+2da c a
+#3   b
+x   c
+#2cda c
+xac
+x dfec
+x cd
+b
+2 df c
+#3 c
+x d
+2acbc
+#3c
+xa
+#3c aa
+x d
+xa
+xc
+#2da cd
+x a  c
+b
+2   cd
+#3c
+xd
+#2c d d
+xa
+#3 efec
+x c
+x e
+x f
+#3c
+x e
+x f
+xc
+b
+
+b
+#3d
+x f
+xc
+xd
+#3caa c
+x d
+xa
+xc
+#3aabc
+x c
+x e
+xa
+2 efec
+#3 c
+x e
+b
+#3a dcd
+x  b
+x  a
+x   c
+#3c da
+xa
+xc
+xd
+#2cabc
+xa
+xa d d
+x   c
+b
+2aaa c
+#3 e
+x c
+#3 e
+x a
+#4 c
+x a
+x c
+x e
+2a bc a
+#3 d
+x c
+2 ab
+#3 c
+x d
+b
+
+b
+2ab
+#3 a
+x b
+2 df c
+#3    e
+x   a
+#3da c
+xa
+xc
+xd
+2c  bc
+#4d
+xc
+xa
+xc
+b
+2a bc
+#4  d
+x  b
+x  a
+x  b
+2 efec
+#3 c
+x e
+2a dcd
+#3    c
+x    d
+2c da
+#3a
+xc
+b
+#2 abc
+xa
+xa d d
+x   c
+2aaa c
+#3 e
+x c
+#3 e
+x a
+#4 c
+x a
+x c
+x e
+b
+#3a bc a
+x  a
+x  b
+x  d
+1 abc
+2 aaa
+#3    d
+x    c
+1a dcd
+b
+
+b
+1 dfec
+1 cdca
+2  bc
+#3 a
+x c
+#2 a
+x  aa
+b
+2   cd
+#3  e
+x  c
+#3a e d
+x  a
+#4  c
+x  a
+x  c
+x  e
+2 dfec
+#3 c
+x d
+2 cdca
+#3 a
+x c
+b
+#2 ab c
+x    e
+x aaa
+x    c
+2 a ce
+#3  e
+x a
+#4 c
+x a
+x  e
+x  c
+#3 a
+x  e
+b
+
+b
+2 aabc
+#3   c
+x   b
+#3   c
+x   b
+#4   c
+x   b
+x    e
+x   b
+1 a c
+#2aabc
+x c
+b
+2cdda
+#3a
+xc
+1ddff
+#3 dff
+xa
+xc
+xd
+1cdda
+b
+#2aabc
+x  aa
+#3 abc
+x  a
+x  b
+x  d
+#2aa f
+x   e
+x   f
+x dde
+b
+#2 bbc
+x a a
+x aa
+x    c
+2a  cd
+#3  d
+x  b
+#3  d
+x  a
+#4  b
+x  a
+x  b
+x  d
+b
+
+b
+1da cc
+#3c da
+x d
+xa
+xc
+#3ac c
+xc
+xd
+xc
+#3aab
+x d
+x c
+x a
+b
+#3 cee
+x a
+x  e
+x  c
+#3  e
+x a
+x c
+x  e
+#3 aa c
+x  d
+x a
+x c
+1dabc
+b
+#3 abc
+xa
+xc
+xd
+1cdf c
+2abbc
+#3  a
+x  b
+1abd a
+b
+1 dfec
+1ddf  d
+2   a
+#3c
+xa
+1cdda
+b
+
+b
+#3aabc
+x  d
+x a
+x  b
+#3acd a
+x  b
+x  a
+x   c
+2. efec
+3 c
+#3 e
+x c
+x e
+x f
+b
+#3c
+x f
+x e
+x c
+1 efec
+#3aabc
+xc
+xd
+xa
+#3cdda
+xd
+xa
+xc
+b
+#2dab  d
+xc
+xabb d
+x da
+#3abb d
+x d
+xa
+xc
+1db cd
+b
+#2c da
+xa b
+xa a
+x   c
+2aaa c
+#3 e
+x c
+#3 e
+x a
+#4 c
+x a
+x c
+x e
+b
+
+b
+1aab  a
+1aabc
+1 efec
+#3aabc
+x c
+x e
+xa
+b
+#2cdda
+xd
+xf
+xddf  d
+1cdda
+1aabc
+b
+1 efec
+1c
+2d
+#3c
+xd
+2caa c
+#3a
+xc
+b
+1aabc
+#2 efec
+x e
+1a dcd
+1 efec
+b
+1da c
+#2ca ac
+x d
+#3aabc
+xc
+xd
+xa
+#2cdda
+xd
+b
+
+b
+#2c bc
+xa
+xa d d
+x   c
+2aaa c
+#3 e
+x c
+#3 e
+x a
+#4 c
+x a
+x c
+x e
+b
+1a bc a
+#3aabc
+x c
+x e
+xa
+1 efec
+1aabc
+b
+#3cdda
+xa
+xc
+xd
+#2f
+xddf  d
+1cdda
+1aabc
+b
+#3 efec
+x c
+x e
+x f
+#3c
+x e
+x f
+xc
+#3d
+x f
+xc
+xd
+#3caa c
+x d
+xa
+xc
+b
+1aabc
+#2 efec
+x e
+1a dcd
+1 efec
+b
+
+b
+1da c
+#2ca ac
+x d
+#3aabc
+xc
+xd
+xa
+#3cdda
+xa
+xc
+xd
+b
+#2c bc
+xa
+xa d d
+x   c
+2aaa c
+#3 e
+x c
+#3 e
+x a
+#4 c
+x a
+x c
+x e
+b
+Yaa c a
+b
+b
+
+e

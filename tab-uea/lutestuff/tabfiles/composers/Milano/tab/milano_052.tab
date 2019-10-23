@@ -1,0 +1,268 @@
+-C
+-t
+-f
+{Ricercar/Ricercar}
+b
+c
+0a  c a
+1   c
+1  a
+b
+1a b  a
+1   c
+0a b  a
+b
+0 a c a
+1     a
+1     c
+b
+1 a c d
+1     a
+1     d
+1    a
+b
+0 a bc
+0ca  c
+b
+0a b d
+1 db c
+1     d
+b
+1 b ca
+1  d
+1.ab  a
+2c
+b
+
+b
+1da   a
+1   c
+1da
+1     a
+b
+1c   c
+1   a
+1a d
+1    a
+b
+1a bc
+1     a
+1 da c
+1   a
+b
+1 bd
+1    a
+1 a c
+1   a d
+b
+1  da
+1 d
+1 bbc
+1 a
+b
+1   cd
+1d
+1c d a
+1a
+b
+
+b
+1  de
+1f
+1da c
+#2     a
+x     c
+b
+#2     d
+x    a
+1c   c
+1a   d
+#2    a
+x d  c
+b
+#2 b  d
+x   a
+1 a c
+1  de
+#2 d a
+x   c
+b
+#2  a
+x  b
+1 bd
+1 ab
+#2     d
+x    a
+b
+#2    c
+x    d
+1  def
+1  bc
+1  d a
+b
+
+b
+1  a c
+1 a b
+1  bcd
+1 bd a
+b
+1 abc
+1a d a
+1 da c
+1da   d
+b
+1a g a
+1f
+1c da
+1 dff
+b
+1ab  d
+1da   d
+1  d d
+1c  a
+b
+1 abc
+1a    d
+1  a a
+1 e  c
+b
+1.a  c a
+2     c
+1     d
+1     a
+b
+
+b
+1. da c
+2    d
+1 a a
+1    c
+b
+1. bd a
+2    c
+1    d
+1    a
+b
+1. ab  a
+2  d
+1 a
+1  b  a
+b
+1. da c
+2a
+1c
+1 d  c
+b
+1.f   a
+2    c
+1    d
+1 b  a
+b
+1.da c a
+2     c
+1     d
+1da   a
+b
+
+b
+1c d  c
+1a b  d
+1  a a
+1 e  c
+b
+1a  c a
+1 b  a
+1aa   e
+1  d a
+b
+1a    a
+1  c
+1 bd a
+1  def
+b
+1 ab  d
+1  bcd
+1  d
+1 ab  d
+b
+1 b  a
+#2    c
+x a
+1  d d
+#2  b
+x    c
+b
+
+b
+1  a a
+#2   c d
+x  a
+#2  b  a
+x  d
+x a
+x c
+b
+#2 d  c
+xa
+xc
+xd
+1f g a
+1da  c
+b
+1c da
+1a bc
+#2 da c
+x b
+x a
+x  d
+b
+#2  b  a
+x  a
+x   c
+x   a
+#2    d
+x    c
+x    a
+x     d
+b
+#2     c
+x     a
+1f d  c
+1da   a
+1c   c
+b
+
+b
+1a b d
+1d
+1c d a
+1a
+b
+1 da c
+1c
+1a b  d
+1 d
+b
+1 c ca
+1a
+1 da  c
+1 c
+b
+1 a a d
+1d
+1c d a
+1a b
+b
+#2  a c
+x c
+x e
+xa
+1 ea c
+1a
+b
+1aacc a
+b
+b
+
+e

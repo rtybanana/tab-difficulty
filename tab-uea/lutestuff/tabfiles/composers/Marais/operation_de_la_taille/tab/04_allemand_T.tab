@@ -1,0 +1,137 @@
+-C
+-t
+-f
+{Suite 111/Suite 111}
+b
+x   b  a
+x    e /a
+x    d //a
+x    b ///a
+x     e4
+b
+b
+.
+C
+0 c de
+1    e
+1 ba  e
+b
+1 c de
+#2     e
+x     c
+0 cc  b
+b
+1 ce  c
+1     b
+1 ba   a
+1 ccd  /a
+b
+0 b b e
+1 b b e
+1     c
+b
+
+b
+1 cc  b
+1      /a
+1 c de
+1 ba  e
+b
+1 c de
+#2 b b e
+x     c
+0 cc  b
+b
+1 ce  c
+1     b
+1 ba   a
+1 c d  /a
+b
+#2     e
+x    g
+x   g
+x  g
+#2 e
+x  g
+x   g
+x    g
+.
+b
+b
+.
+0 egg
+1 \3g\4h
+1ee\4ge
+b
+
+b
+1ec d
+1  c
+1   d
+1  c
+b
+0 dcdb
+0      ///a
+b
+1 ee g
+1   e
+1    g
+1   e
+b
+#2     \1e
+x   g
+x  g
+x e
+0      4
+b
+1ec d  /a
+1    e
+0ec   b
+b
+1cce  c
+#2   e
+x   d
+1 bab
+1 c de
+b
+
+b
+1  gg e
+1    g
+1   g
+1   e
+b
+1 ccd
+#2      /a
+x      a
+0 cc  b
+b
+1 ce  c
+1     b
+1 ba   a
+1 c d  /a
+b
+#2 ehg \1e
+x   g
+x  h
+x e
+#2      4
+x   g
+x  g
+x e
+b
+
+b
+#2      /a
+x    e
+x   d
+x  c
+#2 c
+x  c
+x   d
+x    e
+.
+b
+b
+
+e

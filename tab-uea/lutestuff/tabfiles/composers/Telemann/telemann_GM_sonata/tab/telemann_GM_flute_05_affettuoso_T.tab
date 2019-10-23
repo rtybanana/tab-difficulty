@@ -1,0 +1,166 @@
+-C
+-t
+-f
+{/}
+b
+0a cc
+1 ec c
+b
+#2 cc e
+x   b
+x   c
+x   b
+1 ccce
+0 cdca
+1ccd  c
+b
+#2 ef c
+x    e
+x   b
+x    e
+1 efec
+0aa c e
+1 a c e
+b
+0 cdca
+1 ca b
+#2 e  c
+xa c
+#2 cd
+x  de
+x ac
+x cd
+b
+
+b
+2 ac
+#3  cc
+x  de
+#2 ac
+x cd
+#2 ac
+x  de
+x ac
+#3a e
+x a
+#2 c
+xaa
+x ce
+x  a
+b
+#2 ef
+xa c
+x  d
+x  de
+#2 ac
+x cd
+x ac
+x cd
+1aa
+1 ef c
+b
+1a cc
+#2a
+x     a
+#2     e
+x    c
+.
+b
+b
+.
+0 acc
+1 c ce
+b
+1 \3c\4d  \2cU
+1 b\3cb  X
+1 ccc a
+0 ccce
+1a c e
+b
+1 fh  e
+1 eg
+1c d  c
+0ec   a
+1ec   b
+b
+0ccd  c
+1ec   a
+#2dee   a
+xece   /c
+1ea    a
+1dee   a
+b
+
+b
+1ea   e
+#2 ac
+x     e
+#2    c
+x   b
+0 ac
+1 e   e
+b
+1aa  e
+1cc e
+1 cd  c
+1 ed c
+1a
+1 ef   /a
+b
+1 ed c
+1a cc
+1     a
+0aa c e
+1aa   e
+b
+0ac  a
+1cc  b
+#2ce  c
+xaa   e
+#2ac  a
+xca  c
+2e c e
+#3 e  c
+xc
+b
+#2e c e
+xa     /c
+x  d e
+xa c c
+#2  d e
+xa c c
+x  d e
+xaa   e
+#2 c  b
+x a   e
+x ca b
+x ce  c
+b
+
+b
+#2 aa c
+x a c e
+xa  ca
+x  d  c
+#2 a c e
+x  db c
+x a c e
+xac  a
+1a ccc
+1 efe  /a
+b
+A1
+1a cc a
+#2a
+x   c
+#2  c
+x a
+.
+b
+b
+A2
+0.aac  a
+b
+b
+
+e

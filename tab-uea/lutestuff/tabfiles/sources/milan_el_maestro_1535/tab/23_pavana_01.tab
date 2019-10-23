@@ -1,0 +1,225 @@
+-C
+-t
+-f
+{23. Pavana 1/23. Pavana 1}
+b
+w  dca
+b
+0 acc a
+0 bdca
+b
+0 acc a
+#1a
+x  d
+b
+#1 a
+x b
+#1 d
+xa
+b
+0 dbac
+0abb d
+b
+0 dbac
+0 bdca
+b
+w acc a
+b
+w acc a
+b
+#1abb d
+x   a
+#1   c
+x  a
+b
+#1  b
+x d
+#1a   d
+x b
+b
+#1 db c
+x b
+#1 a
+x  d
+b
+0 aba d
+0 dbac
+b
+
+b
+0 bdca
+0  def
+b
+0aa c
+0  c
+b
+w cdca
+b
+w cdca
+b
+#1abb d
+x   a
+#1   c
+x  a
+b
+#1  b
+x d
+#1a   d
+x b
+b
+#1 db c
+x b
+#1 a
+x  d
+b
+#1 aba d
+x c
+#1 d
+xa
+b
+#1cdda
+xd
+#1f
+x b
+b
+0 a c
+0e
+b
+wf dca
+b
+wf dca
+b
+0fb d b
+0    d
+b
+
+b
+0 b cd
+#1d
+xb
+b
+0abb d
+#1d
+x   a
+b
+#1   c
+xb
+#1a
+x  a
+b
+#1  b
+x d
+#1 b
+x   d
+b
+#1   c
+x   a
+0abb d
+b
+0 dbac
+0 bbcd
+b
+0  ba d
+0 a
+b
+w bbcd
+b
+w bbcd
+b
+1fb d
+#2d
+xb
+#2a
+x d
+x b
+x a
+b
+#1  d
+xf
+#1db c
+xb  a
+b
+
+b
+1abb d
+#2 a
+x  d
+#2  b
+x   d
+x   c
+x   a
+b
+#1    d
+xa
+#1 db c
+x b  a
+b
+#1 ab  d
+x   a
+0 bbcd
+b
+0  ba d
+0 a
+b
+w bbcd
+b
+w bbcd
+b
+0abb d
+0 db c
+b
+0a b d
+0 bdca
+b
+0 dbac
+0 aba d
+b
+0 bdca
+0 dbac
+b
+0 bdca
+0  def
+b
+0aa c
+0  c
+b
+w cdca
+b
+w cdca
+b
+
+b
+#1abb d
+x   a
+#1   c
+x  a
+b
+#1  b
+x d
+#1a   d
+x b
+b
+#1 db c
+x b
+#1 a
+x  d
+b
+#1 aba d
+x b
+#1 d ac
+x a
+b
+#1 b ca
+x a
+0  def
+b
+0aa c
+0  c
+b
+w cdca
+b
+Y
+b
+b
+P
+e

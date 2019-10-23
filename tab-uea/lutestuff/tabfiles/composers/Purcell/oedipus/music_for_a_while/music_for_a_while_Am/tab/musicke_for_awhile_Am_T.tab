@@ -1,0 +1,361 @@
+-C
+-t
+-f
+{Music for a while/Music for a while}
+b
+x   b  a
+x     e4
+b
+b
+2     \1c
+x    \3e&{
+x   a
+x     c&(
+x     e&)
+x    g&}
+x    \4h
+x     e
+b
+x    a
+x   \4d&{
+x  a
+x    \1b&(
+x    c&)
+x   e&}
+x  \2c
+x    c
+b
+x    \3e
+x   \2d
+x  a
+x    a
+x    c
+x   a
+x    e
+x      /a
+b
+x  \2d  \1c
+x    \3e
+x   a
+x  d&{  c&(
+x  f&}  e&)
+x    g
+x    h
+x a   e
+b
+
+b
+x \2c  a
+x   \3d
+x  a
+x c  \1b
+x d  c
+x   e
+x  c
+x d  c
+b
+x cc e
+x   d
+xcca
+x    a
+x \4d\2c \1c
+x   a
+x c de
+x      /a
+b
+x c   c
+x    \3e
+x    \4f
+x  \2d&{  \1c&(
+x  f&}  e&)
+x    g
+x    h
+x a   e
+b
+x \2c  a
+x   \3d
+x  a
+x c  b
+x d  c
+x   e
+x  c
+x d  c
+b
+x cc e
+x   d
+xcca
+x    a
+xcdc c
+x    f
+xe cde
+x      /a
+b
+
+b
+xfc   c
+x    \3e
+x   a
+x  d  c
+x a   e
+x   b
+x   c
+x a   \4e
+b
+x \2c  a
+x   \3d
+x  a
+x \2c&{  b
+x d&}  c
+x   e
+x  c
+x d  c
+b
+x \1c\4f \3e
+x   \2d
+x cde
+x    a
+x dcec
+x    f
+x  cde
+x c    /a
+b
+x c   c
+x    \3e
+x    \4f
+x     c
+x a   e
+x   b
+x   c
+xaa   e
+b
+x c  a
+x   d
+x ede
+x     c
+x e   e
+x    d
+x ccce
+x     a
+b
+
+b
+x \3c\4d\1b \2c
+x    a
+x ec de
+x      4
+xa \1c   /a|
+x     \3e
+x    a
+xa     /a|
+b
+x aa   a
+x    b
+x    c
+x  a   a
+x ac  a
+x    c
+x    e
+x ac  a
+b
+x \2c\3d  \1c
+x    \4e
+x   a
+x     c
+xaa   \4e
+x   \1b&{
+x a c&}
+x     e
+b
+xac  a
+x    e
+x ea c
+x      //a
+xaac  a
+x    c
+x    e
+x  c  a
+b
+x  d  c
+x    e
+x  d f
+x     c
+x a   e
+x   b
+x   c
+x a   e
+b
+
+b
+x c  a
+x   d
+x  a
+xcc  b
+x d  c
+x   e
+x dc
+x    c
+b
+xb   e
+x  c
+xc d
+x    e
+xc da
+x  a
+xaadc
+x  c  a
+b
+x \2c\3d a
+x   \1c
+x \1c\2d\4e{
+x    \3e&}
+xcada
+x   e
+xaadc
+x  c  a
+b
+x cdca
+x    c
+x ccde
+x      /a
+x \2c   \1c
+x    e
+x a a
+x     c
+b
+xaa   \3e
+x   \1b&{
+x   c&}
+xea c e
+x    a
+xf  \2d
+x  a
+xcc  \1b
+b
+
+b
+xcd  c
+x  a
+x dc
+x    c
+x cc e
+x   d
+x  de
+xc   a
+b
+xcdc c
+x   a
+x h ge
+x g    /a
+xccd  c
+x    e
+x   e
+x     c
+b
+x \4e   \3e
+x    \2d
+xa   e
+x     a
+x \2c\3d  \1c
+x    a
+x  g ge
+x      4
+b
+x ccc  /a
+x    e
+x \2ca a
+x     \1c
+x \2dc\4ec
+x     \3e
+x ccee
+x   d  /a
+b
+x  d  c
+x    e
+x   a
+x  d  c
+x a   e
+x   b
+x   c
+x a   e
+b
+
+b
+x c  a
+x   d
+x  a
+x c  b
+x d  c
+x  a
+x  c
+x d  c
+b
+x cc e
+x   d
+xcca
+xa   a
+x dc c
+x   a
+x c de
+x      /a
+b
+x c\2d  \1c
+x    \3e
+x    \4f
+x  d  c
+x a   e
+x   b
+x   c
+x a   e
+b
+x c  a
+x   d
+x  a
+x c  b
+x d  c
+x   e
+x  c
+x d  c
+b
+x cc e
+x   d
+x  a
+xc   a
+xcdc c
+x    f
+xe cde
+x      /a
+b
+
+b
+x\4fc   c
+x    \2e
+x    \3f
+x c   c
+xa    e
+x   b
+x   c
+x a   e
+b
+xa \3d&{ a
+x   \2d
+x \2cd&}\4e
+x    \1b&{
+x \2d  c&}
+x   \3e
+x  \1c
+x\1c\2d  \1c
+b
+xec  e
+x   d
+xfca
+x    a
+x\4e\2d  \1c
+x   a
+x h ge
+x g    /a
+b
+xccdeec5
+b
+b
+
+e

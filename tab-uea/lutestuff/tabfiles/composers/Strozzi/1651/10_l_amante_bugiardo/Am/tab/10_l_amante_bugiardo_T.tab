@@ -1,0 +1,171 @@
+-C
+-t
+-f
+{10. L'amante bugiardo/10. L'amante bugiardo}
+b
+w cd  c
+0 cc  b
+b
+0 cd  c
+w dce  //a
+b
+0. ccd  /a
+1    e
+1 ccdc
+1    e
+b
+0acd a
+0    c
+0a d e
+b
+0 daa
+0      a
+0 cdc  /a
+b
+0 da   a
+1aac  a
+1 d
+1 cd  c
+1 d
+b
+wa d   /a
+0 da   a
+b
+0acd  a
+0      6
+0aac
+b
+w.acd   ///a
+b
+wacd a
+0c
+b
+wec   b
+0
+b
+
+b
+wfc   c
+0
+b
+wec d  /a
+0
+b
+w.caa   a
+b
+w.bcc   /a
+b
+0ac  a
+wccd  c
+b
+1aa   e
+1c
+wec   b
+b
+0ccd  c
+wca    b
+b
+0aac  a
+wacc   /a
+b
+wacd   ///a
+0cdd   //a
+b
+0
+0ccc   /a
+0b
+b
+w.cce   5
+.
+b
+b
+.
+C
+w efe  //a
+b
+1 efe  //a
+1ace
+0caa
+b
+0 aa c
+0 a d e
+b
+w  eeec
+b
+
+b
+1 cc  b
+1 cc  a
+1 ca   b
+1ca    a
+b
+b
+0b c   /a
+0    e
+0    c
+b
+w.cc  b
+b
+wce  c
+0ee  d
+b
+w.ec de
+b
+w.cdda
+b
+w.caa   a
+b
+w.acd   ///a
+b
+b
+C
+1.acd a
+2ccd  c
+1.ce  c
+2ea   e
+b
+1.b c e
+2bc  a
+1.cdda
+2cd  c
+b
+1.ea c
+2a c e
+1.ccde
+2   c
+b
+1aab
+1   c
+1 cce
+1cc   c
+b
+1. ea c
+2     e
+1.b c e
+2cc  a
+b
+
+b
+1.cdda
+2cd  c
+1.aacc
+2a c e
+b
+1ccd  c
+1dd  c
+0cd    //a
+b
+0ccc   /a
+0ecc e
+b
+#2
+xcc  a
+#2cdc c
+xc d  c
+0ecc e
+b
+wgce  c
+b
+b
+
+e

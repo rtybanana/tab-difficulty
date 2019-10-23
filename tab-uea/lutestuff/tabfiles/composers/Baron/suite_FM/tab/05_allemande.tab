@@ -1,0 +1,239 @@
+-C
+-t
+-f
+b
+.
+1  d-- /a
+1a
+b
+1.   c&'  4
+2  a-- /a
+b
+#2  b-- a
+x  b
+2  b-- 4
+#3  a
+x   c
+b
+#3  aU--/a
+x  bX
+2  d
+#2  d--a
+xa
+b
+#2  b-- a
+x  b
+2  b-- 4
+#3  a
+x   c
+b
+#3  aU--/a
+x  bX
+2  d
+#2  d--a
+xa
+b
+
+b
+#2 a   b
+x  d  a
+#2  b-- a
+x  a-- /a
+b
+0   c&'  4
+b
+1c d-- //a
+1e d-- /a
+b
+1.c d-- //a
+2h
+b
+#2 f -- //a
+xa
+#2  h
+xa
+b
+2 f -- //a
+#3h
+xg
+#2h
+x h -- /a
+b
+#2 f -- //a
+xa
+#2  h
+xa
+b
+2 f -- //a
+#3h
+xg
+#2h
+xa --  /a
+b
+
+b
+1 c -- a
+1 a&' -- a
+b
+0  dcc 4
+.
+b
+b
+.
+1f --  4
+1ed -- 4
+b
+1. f -- 4
+2ff
+b
+#2ff-- e
+xe
+#2e
+x f
+b
+2a-- a
+#3 c
+xa
+#2 a
+xff
+b
+#2ff-- e
+xe
+#2e
+x f
+b
+2a&'-- a
+#3 c
+xa
+#3 a
+xa
+b
+
+b
+#3 c-- a
+x d
+2c
+#2c
+x c
+b
+#3aU--a
+xcX
+2e
+#2e
+xa
+b
+#3 cU--a
+x dX
+2c
+#2c
+x c
+b
+#3aU--a
+xcX
+2e
+#2e
+xa
+b
+1 cf-- a
+1  e&'--a
+b
+1 af a
+1      ///a
+b
+2a --  6
+#3  d
+x a
+#2 b
+x b
+b
+
+b
+2 b -- 5
+#3 a
+x  d
+#2 a
+x  b
+b
+2c -- c
+#3 aU
+x cX
+#2a
+xa
+b
+2a -- d
+#3 c
+x a
+#2 c
+x  d
+b
+2e -- e
+#3 c
+xa
+#2c
+xc
+b
+2c-- a
+#3a
+x c
+#2aU
+xeX
+b
+#3fU -- a
+xeX
+2f
+#2  d-- //a
+xe --  a
+b
+
+b
+1c&' --  4
+1  d
+b
+#3h { --6
+xf
+x h
+x f&}
+#2a
+x  g
+b
+#2  g-- 5
+x  f
+1  f
+b
+#3k { --5
+xh
+x i
+x h&}
+#2 f
+xa
+b
+#2a --  4
+x  h
+1  h
+b
+#3h { --6
+xf
+x h
+x f&}
+#2a
+x  g
+b
+
+b
+#2  g   5
+x  f
+#2  f
+x f
+b
+#2  d-- 6
+xa
+#2   c--5
+x c&' -- 4
+b
+1ad
+1      /a
+.
+b
+b
+P
+e

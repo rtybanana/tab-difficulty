@@ -1,0 +1,286 @@
+-C
+-t
+-f
+{Scene -- The grove/Scene -- The grove}
+b
+0 da   //a
+1 aa c
+b
+1 c\4e&{  c
+1 \2d \3ec
+1      //a
+b
+1 ce  c
+0 d}ec
+b
+0 cee
+1c e  c
+b
+1aa   \3e
+0\2cc  \1b&{
+b
+0 \4da c
+1 \2ca a
+b
+1 aa  \3d
+0   \2c
+b
+A1
+1. cee c
+2   c
+#2   a
+x    e
+.
+b
+b
+A2
+0. ce  c
+b
+0. ce  c
+b
+1 da c
+1    e
+1   a
+b
+0aacc
+1     a
+b
+1 cdca
+1    c
+1a d e
+b
+
+b
+1cc a
+1 a
+1 dc c
+b
+1. ccde
+2    c
+1 ca a
+b
+1 cd  c
+1 ccee
+1   d  /a
+b
+1 c \3e&{ c
+1 c\4ee&}
+1 ccd
+b
+0 cee
+1     c
+b
+1 da c
+1    e
+1   a
+b
+0.aacc
+b
+1a d e
+1c da
+1adcc
+b
+0 cee
+1aab
+b
+1. cee
+2   c
+1 aaa
+b
+1 da c
+1 cfe
+1  e  c
+b
+0. aa c
+b
+.
+1. \2d \3ec
+2 c\4e  c
+1 d ec
+b
+
+b
+1 ce  c
+1 d ec
+1      //a
+b
+1 ce  c
+0 d ec
+b
+0 c\4e  c
+1 \2daa
+b
+1aa \4f\3e
+0 c\3e  c
+b
+0 \2d&{ \3e\1c
+1 c&}a a
+b
+1. aaa \3d
+2     \2c
+1 a \2c \3d
+b
+0. c\4e  \4c
+.
+b
+b
+0 cee
+1     c
+b
+1 da c
+1    e
+1   a
+b
+0aacc
+1     a
+b
+1ac  a
+1    c
+1a d e
+b
+1cc a
+#2 a
+x    e
+1 dc c
+b
+1. ccde
+2    c
+1 ca a
+b
+
+b
+1 cd  c
+1 ccee
+1   d  /a
+b
+1.cc   c
+2    e
+#2   b
+x   d
+b
+0 cee
+1     c
+b
+1 da c
+1    e
+1   a
+b
+0aacc
+1 \2d\4fa
+b
+1a c e
+1 a a
+1 \2d\4f&{\1c
+b
+1 \1ce&}\3e
+#2 \2df
+x   e
+1aab
+b
+1.ccee
+2   c
+1caaa
+b
+1 da c
+1 cfe
+1  e  c
+b
+0. aa c
+b
+.
+1. \2d \3ec
+2 c\4e  c
+1 d ec
+b
+1 ce  c
+1 d ec
+1      //a
+b
+
+b
+1 ce  c
+0 d ec
+b
+0 c\4e  c
+1 \2daa
+b
+1aa \4f\3e
+0 c\4e  c
+b
+0 \2d&{ e\1c
+1 c&}a a
+b
+1. aaa \3d
+2     \2c
+1 a \2c \3d
+b
+0. c\4e  \4c
+.
+b
+b
+0 cee
+1     c
+b
+1 da c
+1    e
+1   a
+b
+0aacc
+1     a
+b
+1ac  a
+1    c
+1a d e
+b
+1cc a
+#2 a
+x    e
+1 dc c
+b
+1. ccde
+2    c
+1 ca a
+b
+1 cd  c
+1 ccee
+1   d  /a
+b
+
+b
+1.cc   c
+2    e
+#2   b
+x   d
+b
+0 cee
+1     c
+b
+1 da c
+1    e
+1   a
+b
+0aacc
+1 \2d\4fa
+b
+1a c e
+1 a a
+1 \2d\4f&{\1c
+b
+1 \1ce&}\3e
+#2 \2df
+x   e
+1aab
+b
+1.ccee
+2   c
+1caaa
+b
+1 da c
+1 cfe
+1  e  c
+b
+0. aa c
+b
+b
+
+e

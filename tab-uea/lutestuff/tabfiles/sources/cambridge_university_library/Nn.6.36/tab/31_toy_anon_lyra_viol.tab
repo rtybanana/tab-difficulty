@@ -1,0 +1,146 @@
+-C
+-t
+-f
+{31. Toy/Anonymous}
+b
+c
+1  d
+1    a
+1 d
+1     a
+b
+1  df
+#2  f
+x  d
+1  ca
+1     a
+b
+1  cd
+#2   c
+x  ea
+1 cc
+1 dd
+b
+1bdc
+1ac
+1 dca
+1     a
+b
+1 dd
+#2  c
+x  a
+1 bc
+1   d
+b
+1gda
+#2f
+xd
+1cd
+1   a
+b
+1 dd
+#2 bc
+x  df
+1  ca
+1  ab
+b
+
+b
+#2  ca
+x  a
+1  c
+1  a
+1    a
+.
+b
+b
+.
+1. dd
+2ab
+1bd
+#2dda
+xb
+b
+1adc
+1 c
+0 dca
+b
+0   ad
+1   cc
+1   e
+b
+1  dfa
+#2  f
+x  d
+1  ca
+1     a
+b
+1 dd
+1    d
+1   d
+1 g
+b
+1ff
+1    f
+1   f
+1 i
+b
+1cd
+1   a
+1     a
+#2 b
+x  d
+b
+0  ca
+1     a
+#2  d
+x b
+b
+
+b
+#2 d
+x  a
+x    a
+xd
+#2c
+x   a
+x     a
+x b
+b
+#2  d
+x   a
+x     a
+x d
+#2  c
+x   a
+x     a
+xf
+b
+#2g
+x  a
+x    a
+xd
+#2c
+x   a
+x     a
+x b
+b
+#2  d
+x   a
+x    a
+x d
+#2  c
+x   a
+x     a
+x b
+b
+#2  d
+x    a
+x  c
+x     a
+Y  afa
+.
+b
+b
+
+e

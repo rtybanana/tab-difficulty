@@ -1,0 +1,133 @@
+-C
+-t
+-f
+{The lowest trees have tops/The lowest trees have tops}
+b
+C
+0.aabc
+1     a
+b
+1
+1 b  a
+1 a c d
+1aab  a
+b
+1 abc
+1a
+#2 bd a
+xa
+1 ef c
+b
+0aac  a
+1. abc
+2 c
+b
+#2 df c
+x    e
+x   a
+x   c
+1. cde
+2 e
+b
+1.aa c
+2c   c
+#2da c
+xa
+xcc e
+xa
+b
+w efec
+b
+0 aa c
+1 ca b
+1 da c
+b
+
+b
+#2 abc a
+x     c
+x   c d
+x    a
+1 ab c
+#2  a
+x    a
+b
+#2 ab  d
+x     c
+x     a
+x c
+1 dd   a
+#2   a
+x b
+b
+w aba d
+b
+0 ab  d
+1 cd a
+1 dd  c
+b
+0. aba d
+1aab  a
+b
+#2  d  c
+x d
+x d
+x     d
+#2  dca
+x d
+x c
+x  b
+b
+w daa  a
+b
+.
+#2dab  d
+x    a
+x    c
+x    e
+1cdda
+1aabc
+b
+1. da c
+2a
+0c
+b
+
+b
+1 aa c
+#2  b a
+x a   d
+#2 cd  c
+x ea
+1aab  a
+b
+#2 ea c
+x    e
+x   a
+x    e
+#2    c
+x    a
+1     d
+b
+#2
+x  bcd
+1 b  a
+#2
+x  def
+1 d  c
+b
+#2
+x abc
+x cdca
+xa
+2    c
+#3 e
+x c
+1 e
+b
+waaccca
+.
+b
+b
+
+e

@@ -1,0 +1,155 @@
+-C
+-t
+-f
+{Branle double de Poitou/Branle double de Poitou}
+b
+W   a  a
+W    a ///a
+b
+b
+1 c  a
+1     c
+1 d
+b
+1a    e
+#2    a
+x d
+#2 c
+x a
+b
+1  d  c
+1a c  a
+1 d
+b
+
+b
+1. c  a
+#3 a
+x c
+1  d
+b
+#2 c  a
+x a
+#2  d
+x a
+#2 c
+x d
+b
+1a    a
+#2 d
+x c
+#2 a
+x  d
+b
+#2  c
+x  a
+1 acc
+#2a
+x d
+b
+
+b
+0 cdca
+1      ///a
+b
+1c  a
+1 d  c
+1a   e
+b
+1c  a
+#2 d
+xa
+#2c
+xd
+b
+1f
+#2   a
+x   c
+#2  a
+x  b
+b
+
+b
+#2a d
+x d
+#2a
+xc
+1a   a
+b
+1 d  c
+#2a c
+x d
+#2 c
+x a
+b
+1 cd a
+#2 d
+x c
+#2 a
+x  d
+b
+#2 a   a
+x  d
+#2  cc
+x  d
+#2 a
+x  c
+b
+
+b
+1  d
+1    a
+1      ///a
+b
+#2c  a
+xa
+#2 d
+xa
+#2c
+xd
+b
+1c     a
+#2 d
+xa
+#2c
+xd
+b
+1f
+#2   a
+x   c
+#2  a
+x  b
+b
+
+b
+#2  d a
+x a
+#2 c
+x d
+1a
+b
+#2    a
+x    c
+#2    e
+x   a
+1 a c
+b
+1. c  a
+#3 a
+x c
+1  d  c
+b
+1 c  a
+1. a   a
+#3  d
+x a
+b
+
+b
+1  d
+1    a
+1      ///a
+b
+b
+
+e

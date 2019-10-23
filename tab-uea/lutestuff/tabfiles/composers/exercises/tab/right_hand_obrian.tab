@@ -1,0 +1,274 @@
+-t
+-f
+{Right Hand Exercises/Right Hand Exercises}
+b
+x a
+x a
+x a
+x a
+b
+x  a
+x  a
+x  a
+x  a
+b
+x   a
+x   a
+x   a
+x   a
+b
+x  a
+x  a
+x  a
+x  a
+b
+x a
+x a
+x a
+x a
+b
+xa
+xa
+xa
+xa
+.
+b
+b
+
+{Right Hand Exercises/Right Hand Exercises}
+b
+x a
+x a
+x a
+x a
+b
+x  a
+x  a
+x  a
+x  a
+b
+x a
+x a
+x a
+x a
+b
+xa
+xa
+xa
+xa
+.
+b
+b
+
+{/}
+b
+x a
+x a
+x a
+x a
+b
+x  a
+x  a
+x  a
+x  a
+b
+x   a
+x   a
+x   a
+x   a
+b
+x    a
+x    a
+x    a
+x    a
+b
+x     a
+x     a
+x     a
+x     a
+b
+x    a
+x    a
+x    a
+x    a
+b
+x   a
+x   a
+x   a
+x   a
+b
+x  a
+x  a
+x  a
+x  a
+.
+b
+b
+
+{/}
+b
+x a
+x a
+x a
+x a
+b
+b
+x  a
+x  a
+x  a
+x  a
+b
+b
+x   a
+x   a
+x   a
+x   a
+b
+b
+x    a
+x    a
+x    a
+x    a
+b
+b
+x   a
+x   a
+x   a
+x   a
+b
+b
+x  a
+x  a
+x  a
+x  a
+b
+b
+x a
+x a
+x a
+x a
+b
+b
+xa
+xa
+xa
+xa
+.
+b
+b
+
+{/}
+b
+x  a
+x a
+x  a
+x a
+b
+x aa
+x aa
+b
+x   a
+x  a
+x   a
+x  a
+b
+x  aa
+x  aa
+b
+x  a
+x a
+x  a
+x a
+b
+x aa
+x aa
+b
+x a
+xa
+x a
+xa
+b
+xaa
+xaa
+.
+b
+b
+
+{/}
+b
+#2  a
+xa
+x  a
+xa
+b
+1a a
+1a a
+b
+#2   a
+x a
+x   a
+x a
+b
+1 a a
+1 a a
+b
+#2    a
+x  a
+x    a
+x  a
+b
+1  a a
+1  a a
+b
+#2   a
+x a
+x   a
+x a
+b
+1 a a
+1 a a
+b
+#2  a
+xa
+x  a
+xa
+b
+1a a
+1a a
+.
+b
+b
+
+{/}
+b
+#2   a
+x  a
+1 a
+b
+0 a"%"^aa
+b
+b
+#2    a
+x   a
+1  a
+b
+0  a"%"^aa
+b
+b
+#2   a
+x  a
+1 a
+b
+0 a"%"^aa
+b
+b
+#2  a
+x a
+1a
+b
+0a"%"^aa&%&^
+.
+b
+b
+
+e

@@ -1,0 +1,94 @@
+-C
+-t
+-f
+{37. La corrente/37. La corrente}
+b
+#2c
+xd
+b
+.
+1.fd a
+2h
+1f
+b
+1.da c
+2f
+1d
+b
+1cd a
+1 d a
+#2f
+xd
+b
+1.cd a
+2a
+1 d  c
+b
+1. cd a
+2 a
+1 c  a
+b
+1 daa
+1  d
+#2c
+xd
+.
+b
+b
+.
+1.fc  a
+2  d
+#2 a
+x c
+b
+1cd a
+1  d
+#2 d
+xa
+b
+
+b
+2.cd a
+3a
+#2 d
+x d
+#2 d  a
+x c
+b
+A1
+1 daa
+1  d
+#2c
+xd
+.
+b
+b
+A2
+2. daa
+3a
+#2c
+xdab  d
+1acd a
+b
+.
+2. d a
+3a
+#2c
+xdab  d
+1acd a
+b
+A1
+2. daa
+3a
+#2c
+xdab  d
+1acd a
+.
+b
+b
+A2
+Y. daa
+b
+b
+
+e

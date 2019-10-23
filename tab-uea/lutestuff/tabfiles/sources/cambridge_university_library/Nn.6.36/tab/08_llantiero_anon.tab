@@ -1,0 +1,50 @@
+-C
+-t
+-f
+{8. Llantiero/Anonymous}
+b
+1.a  "# a
+1 c  "#a
+2  d
+b
+1 daa  a
+2 ac  a
+1 c "# a
+2  d
+b
+1.a  "# a
+1 c "# a
+2  d
+b
+1 daa
+2 acc
+1.  dca
+.
+b
+b
+.
+2. a  "# a
+3 c
+2 d
+1 c  "#a
+2  d
+b
+1 daa  a.
+2 ac  a
+1 c "# a
+2  d
+b
+2. a  "# a
+3 c
+2 d
+1 c "# a
+2  d
+b
+1 daa
+2 acc
+Y.  dca
+.
+b
+b
+
+e

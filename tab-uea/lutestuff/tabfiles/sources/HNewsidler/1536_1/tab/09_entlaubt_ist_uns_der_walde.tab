@@ -1,0 +1,102 @@
+-C
+-t
+-f
+{9. Entlaubt ist uns der Walde/9. Entlaubt ist uns der Walde}
+b
+c
+0 \1b  \3d
+1 \1b"+ \3d
+#2   \3d
+x   \2c
+b
+1 a a
+1 \1b"+  \3d
+1   \3d
+1 \4d a
+b
+1 a\1b"+
+#2 a
+x  \4d
+1  \1b"+ \3d"+
+1   \2c
+b
+1   a
+1 \4d
+0a   \3d
+b
+1 \4d
+1 \1b  \3d"+
+#2 \4d
+x \1b
+x a
+x  \4d
+b
+1 a \2c
+1 \1b  \3d
+0  \4da
+b
+0  \1b  \4d
+1  \1b
+1\4d  \2c
+b
+1\1b  a
+1a   \3d
+0 \4d\1b
+b
+
+b
+1 \1b\3d"+
+1\1b
+#2\4d
+x\1b
+xa
+x \4d
+b
+0a \3d
+1 \4d"+
+1   a
+b
+1\4d"+  \2c
+1    \3d
+1\1b  a
+1a  \2c
+b
+1   \3d
+1 \4d"+\1b
+1   \2c"+
+1 \1c
+b
+0 \4d a
+1
+1 \4d\1b
+b
+1 \1b\3d
+1 d\3f
+1a\1b
+1\1b \3d
+b
+0\4d \1b
+0 \4d\1b
+b
+0\1b  \3d
+0a\1b
+b
+1 \1d\3f
+1\4d"+ \1b
+1 \1b
+#2\1b
+xa
+b
+#2\1b  \3d"+
+xa
+x \4d
+x \1b
+0 \4d\1b
+b
+
+b
+Y \1b  \3d
+b
+b
+
+e

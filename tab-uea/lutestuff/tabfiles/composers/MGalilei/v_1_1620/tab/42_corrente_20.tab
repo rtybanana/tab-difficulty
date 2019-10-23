@@ -1,0 +1,355 @@
+-C
+-t
+-f
+{42. Corrente 20/42. Corrente 20}
+b
+1  b
+b
+1.  bc
+2  d
+1  b
+b
+1  aa
+1  bc
+1  de
+b
+0 aff
+1     d
+b
+0 aff
+1 d
+b
+1  d  c
+1   a
+1 a
+b
+1  ba a
+1    c
+1    e
+b
+1.  aaf a
+2  b
+#2  d
+x  b
+b
+1  aa  a
+1c
+1df
+b
+1fh    a
+1      /a
+1hi    //a
+b
+1df    /a
+1      ///a
+1fh
+b
+
+b
+1.   a  //a
+2l
+1i
+b
+1hi
+1ff    /a
+1d
+b
+1.c     a
+2 d
+1 b
+b
+1da
+1.c d   a
+#3a
+xc
+b
+1d
+1     d
+1   a
+b
+0da
+1  b
+b
+b
+#2   c
+x  b
+#2  a
+x  b
+#2  d
+x  b
+b
+#2   a
+x  a
+#2  b
+x   c
+#2  d
+x   e
+b
+0 aff
+1     d
+b
+0 aff
+1 d
+b
+
+b
+#2     c
+x  d
+#2   a
+x a
+#2  d
+x a
+b
+#2     a
+x  b
+#2   a
+x    a
+#2    c
+x    e
+b
+#2      a
+x  a
+#2   a
+x  b
+#2  d
+x  b
+b
+#2      a
+x  a
+#2   a
+xc
+#2d
+x f
+b
+#2      a
+xf
+#2 h
+x      /a
+#2 i    //a
+xh
+b
+#2      /a
+xd
+#2 f
+x      ///a
+#2 h
+xf
+b
+#2      //a
+x   a
+#2h
+xi
+#2l
+xi
+b
+
+b
+#2h
+x i
+#2      /a
+xf
+#2 f
+xd
+b
+#2      a
+xc
+#2 a
+x b
+#2 d
+x b
+b
+#2 a
+xd
+1.c d   a
+#3a
+xc
+b
+1d
+1     d
+1   a
+b
+1.da
+2f
+1d
+b
+b
+1c
+1   a
+1d   c
+b
+1a   d
+1    c
+1cb  a
+b
+1df   d
+1 d
+1  g
+b
+1. df
+2     d
+1  d  c
+b
+1 bd  a
+1  b
+1 a
+b
+
+b
+1.   c  /a
+2  d
+1  b
+b
+1.  aa  a
+2f
+1d
+b
+1c
+1   a
+1dd  c
+b
+1. fg a
+2i
+1h
+b
+1f
+1df    /a
+1fh
+b
+1hi    a
+1f
+1 i
+b
+1fh    a
+1      //a
+1h
+b
+1if    ///a
+1 h
+1hi    //a
+b
+1      /a
+1.f     a
+#3 i
+xf
+b
+1 i
+1     d
+1    f
+b
+0ddf
+#2f
+xd
+b
+b
+
+b
+#2c
+x   a
+#2    a
+xd
+#2c
+xd
+b
+#2    d
+xa
+#2  b
+x    c
+#2c   a
+x b
+b
+#2     d
+xd
+#2 d
+x f
+#2  g
+x d
+b
+#2  f
+x     d
+#2     c
+x  d
+#2   a
+x a
+b
+#2      a
+x b
+#2  d
+x  b
+#2  d
+x a
+b
+#2      /a
+x   c
+#2  a
+x  b
+#2  d
+x  b
+b
+#2      a
+x  a
+#2   a
+xf
+#2d
+xf
+b
+
+b
+#2   a
+xc
+#2    c
+xd
+#2 d
+xc
+b
+#2    a
+x f
+#2  g
+xh
+#2i
+xh
+b
+#2f
+x      /a
+#2 f
+x i
+#2f
+x h
+b
+#2      a
+xh
+#2 i
+x f
+#2 h
+x i
+b
+#2      a
+xf
+#2 h
+x      //a
+#2h
+x i
+b
+#2      ///a
+xi
+#2 f
+x h
+#2 i    //a
+xh
+b
+#2f     /a
+x i
+1.f     a
+#3 i
+xf
+b
+
+b
+1 i
+1     d
+1    f
+b
+Y.ddf
+b
+b
+
+e

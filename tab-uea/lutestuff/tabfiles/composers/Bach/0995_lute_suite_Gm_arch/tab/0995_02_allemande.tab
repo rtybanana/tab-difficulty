@@ -1,0 +1,459 @@
+-C
+-t
+-f
+{2. Allemande/2. Allemande}
+b
+c
+1a
+b
+0aab  a
+1.
+#tx b
+x a
+1. b
+2  d
+1. a b
+2  a
+b
+0  b&'c
+1.
+#tx    d
+x    c
+1.    d
+2    a
+1.   b&'c
+2  a  c
+b
+1.  a cd
+#3   c
+x   b
+1.   c
+2 a
+1.    d
+2 a
+#2  d
+x  b
+x  a
+x   c
+b
+
+b
+1.   bc
+2    d
+#2    c
+x   b
+x  a
+x  d
+1. bab  //a
+2 a
+#2  d
+x  b
+x  d
+x  a
+b
+1.  b ca
+2  a
+#2   c
+x   b
+x   c
+x  a
+#2  b
+x  a
+x  b
+x  d
+#2 a
+x  d
+x a
+x b
+b
+0 db&Ua  //a
+1.  X
+#tx a
+x  d
+1. a
+#3  d
+x  b
+1.b
+2 d
+b
+0ab&Ub   /a
+1. X
+#tx b
+x a
+1. b
+2a
+1.  c&'
+2  d
+b
+
+b
+0 a&U c e
+#2 X
+x  d
+2  c
+#3  d
+x a
+1.   c
+2 d
+1. b&'
+#3 d
+x a
+b
+0. bdca
+#2a
+x d
+#2 b
+x a
+x  d
+x  b
+#2  a
+x  b
+x  d
+x  a
+b
+0    dU
+#2     X
+x  d
+x  b
+x  a
+#2   c
+x   a
+x    d
+x    c
+#2    a
+x    c
+x    d
+x    a
+b
+
+b
+0 b&Uda c
+#2 X
+x a
+x b
+x  d
+0cU
+#2 X
+xa
+xc
+x d
+b
+0fb&U
+#2 X
+xd
+xc
+xa
+1. d
+#3 b
+x a
+1. b
+2f
+b
+1. a   d
+#tx a
+x  d
+1. a
+2 b
+1 b b
+1 a
+1.  d&'
+#3  b
+x  a
+b
+0  b&'c
+1.     a
+2 d
+1 d
+1 c
+#2 a
+x  e
+1 a
+b
+
+b
+0c e ea
+#2
+x   f
+x  a
+x   c
+1.   a&'  a
+2   c
+#2  a
+x  c
+x  e
+x a
+b
+#2 c
+x a
+x  e
+x a
+#2 c
+x d
+xa
+xc
+1.d e e
+#3c
+xa
+1.c
+2  ee a
+b
+0 a&'a   a
+#2     a
+x c
+x a
+x c
+0 c&'e  c
+1   e
+1  f
+b
+1. a    //a
+2  a
+1.   b&'
+#3   c
+x  a
+0.    c
+.
+b
+b
+.
+1c
+b
+
+b
+0cef   //a
+1.
+#txc
+xd
+1. e
+2  g
+1. a
+2  d
+b
+1.  b
+2 a
+#2a
+x  a
+x  b
+x  d
+1.   b&'
+2 a
+1.c
+#3d
+xf
+b
+0da c
+1.     a
+2c
+1c
+2a
+#3 d
+x c
+1. d
+2a
+b
+
+b
+0 c&'d&Uc d
+1.  X
+#tx d
+xa
+1.  d
+#3 a
+x c
+#3 d
+x c
+x d
+x c
+#3 d
+x c
+x a
+x c
+b
+0 dda c
+1.      5
+#tx b
+x a
+1 a
+#2  d
+x  b
+1.  d
+2 a
+b
+0 bbcU
+#2    X
+x   c
+x  a
+x  b
+1.  a
+2  de
+1. ab
+2 bd
+b
+1. bdac
+#3  b
+x  a
+#2   c
+x  a
+1   a
+1. abU
+#3   X
+x  d
+x  b
+x  a
+1.  b
+2 a
+b
+
+b
+1.     b
+#tx    d
+x   a
+#2   c
+x   a
+1 b
+1 b
+1 a
+#2  d
+x  c
+1  d
+b
+0  ca a
+1.
+#tx    d
+x    c
+1.    d
+2  d
+1. a
+2 b
+b
+1.  c
+2 d
+#2 bd
+x d
+1 a
+#3 bc  a
+x a
+x b
+x a
+#3 b
+x a
+x b
+x a
+#3 b    a
+x a
+x b
+x a
+#3 b
+x a
+x  d
+x a
+b
+
+b
+0  dc&U  /a
+1.   X
+#tx  b
+x  a
+1.  b
+2a
+#2 d
+x c
+x a
+x  d
+b
+1. dda c
+#3 b
+x a
+1.  d
+2 a
+1. b
+2 a
+2  d
+#2  b
+x  a
+#3  b
+x  d
+b
+1   c
+#2   b
+x a
+1c
+#3d
+xc
+xa
+xc
+1.da c
+2     a
+1.      //a
+#3      /a
+x      /c
+b
+
+b
+1.      /a
+2 a
+1.  d
+2d
+1.c
+2a
+#2c
+x e
+1a
+b
+1. e&'d   //a
+2  f
+#2  g
+x  f
+x  d
+x  b
+#2  a
+x   c
+x   b
+x   c
+#2  a
+x  b
+x  d
+x  a
+b
+1.    d
+2 e
+#2a
+x e
+x c
+x a
+0.a&'
+1  e e
+b
+
+b
+1  e   //a
+#2  f
+xd
+#2c
+xd
+xf
+xc
+1aa    //a
+#2 e
+x c
+#3 f    //a
+x e
+x f
+x e
+#3 f
+x e
+x c
+x e
+b
+1. f   a
+2 a
+#2  d
+x  b
+x  a
+x   c
+0.aab   6
+.
+b
+b
+
+e

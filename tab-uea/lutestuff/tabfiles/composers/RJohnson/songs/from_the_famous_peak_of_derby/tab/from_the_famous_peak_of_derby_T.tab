@@ -1,0 +1,162 @@
+-C
+-t
+-f
+{/Robert Johnson}
+b
+1.ea   a
+2   c
+1ca b
+1aa c
+1aa  c
+#2 e    //a
+x  d
+b
+1aac  a
+0aac  a
+b
+1 dfec
+#2      //a
+x d
+1ac  a
+1cc   c
+1ccc e
+#2b     /a
+x a
+b
+1cce  c
+0cce  c
+b
+1cdda
+1a d e
+1 dda
+1acd a
+1aadc
+#2  c  a
+x d
+b
+1 cdca
+0 cdca
+b
+1 dda
+1a d e
+1c da
+1 cd a
+1aad  a
+#2  c  a
+x d
+b
+
+b
+1 cdca
+0 cdc  ///a
+b
+1.ac  a
+2    a
+1acd a
+1 ac  a
+1aaa c
+#2 e    //a
+x  d
+b
+1aac  a
+0aac  a
+b
+0 dfe  //a
+1 dc c
+b
+0 cdca
+1ccd  c
+b
+1ccc e
+1b
+#2 cc   /a
+xc
+b
+1cce  c
+0cce   5
+b
+1cdda
+1a d e
+1 dda
+1 c  a
+1 adc
+#2  c  a
+x d
+b
+1 cdca
+0 cdc  ///a
+b
+
+b
+1. acc
+2 cd a
+1aa   e
+1acd a
+1aaa c
+#2 e    //a
+x  d
+b
+1 acc a
+0 acc  6
+b
+0aacc
+1a d e
+b
+0 ef c
+1aa c
+b
+0ca b
+1aa c
+b
+1ac  a
+1aaa c
+1 e    //a
+b
+1.aa   a
+2      a
+1a d   /a
+b
+0 df   //a
+1aac  a
+b
+1aaa   //a
+1 e
+#2      //a
+xa
+b
+1aac  a
+0aac   6
+b
+0fda  c
+1fdaa
+b
+0fcd a
+1fda  c
+b
+1eca e
+1   d  /a
+#2 a
+xc
+b
+
+b
+1ccd  c
+0ccd  c
+b
+1ea c a
+1   c
+1a d e
+b
+0 efec
+1.acd a
+2  c
+1aaa c
+#2 e    //a
+x  d
+b
+1aac  a
+0aac   6
+b
+b
+
+e

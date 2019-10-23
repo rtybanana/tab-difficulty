@@ -1,0 +1,682 @@
+-C
+-t
+-f
+{42. Padoana del passamezo antico/42. Padoana del passamezo antico}
+b
+2aab  a
+b
+#2aab  a
+x     d
+#2    a
+x    d
+#2 aa c
+x   b
+b
+2aab  a
+#3   c
+xc
+#2d
+x    a
+#2    c
+x    e
+b
+#2cdda
+xd
+#2f
+x   c
+#2  a
+x  b
+b
+#2  da
+xd
+#2c
+xa
+#2ddda
+xc
+b
+#2aab  a
+x d
+#2 bd a
+x  b
+#2 aa c
+x   b
+b
+
+b
+2aab  a
+#3   c
+x  a
+#2  b
+x  d  c
+#2 ab  d
+x bd a
+b
+#2 aa c
+xc
+#2    c
+x d
+#3    c
+x c
+x a
+x  e
+b
+#2 aa c
+xc
+#2    c
+x d
+#3    c
+x c
+x a
+x  d
+b
+#2 a   d
+xd
+#2     d
+x d
+#3     d
+x b
+x a
+x  d
+b
+#2 ab  d
+xd
+2     d
+#3     a
+x     c
+#3     d
+x    a
+x    c
+x    e
+b
+
+b
+#2cdda
+xf
+2   a
+#3 d
+x b
+#3 a
+x c
+x d
+xa
+b
+#2cdda
+xf
+2 d a
+#3 d
+x c
+#3 a
+x  d
+x  b
+x  a
+b
+#2  b  a
+x a
+#2 bd a
+x ab c
+#3a   d
+x  a
+x  b
+x  d
+b
+#3 efec
+x f
+xc
+xd
+#3f
+xd
+xc
+x f
+#3 efec
+x c
+x f
+x e
+b
+#2aac  a
+x   c
+#2 cd a
+x    e
+#2 aa c
+x   b
+b
+
+b
+#2aab  a
+x   c
+#2aab  a
+xaab  a
+#2   c
+xhd f d
+b
+b
+#2hd f d
+xf
+#2hd f d
+xfd ef
+#2d
+xcdda
+b
+#2ddf  d
+x   f
+#2hd f d
+xhd f d
+#2f
+xdd f d
+b
+#3cdda
+xa
+xc
+xd
+#3f
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+#3cdda
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+#3 d
+x c
+x a
+x  d
+b
+
+b
+#3aab  a
+x d
+x c
+x a
+#3 c  a
+x e
+xa
+x c
+#3 ea c
+xa
+xc
+x e
+b
+#3aab  a
+xc
+xd
+x  a
+#3  b
+xc
+xd
+x  a
+#3  b
+x  d
+x a
+x c
+b
+#3 ea c
+xa
+xc
+x c
+#3 e
+xa
+xc
+xd
+#3c
+xa
+x e
+x c
+b
+#2 ef c
+x   e
+#2 efec
+x efec
+#3 f
+x e
+x f
+xc
+b
+
+b
+#2ddf  d
+x   f
+#2 db  d
+xab  d
+#3 d
+x b
+x a
+x  d
+b
+#2 ab  d
+x   a
+#2hd f d
+xhd f d
+#2f
+xd ff d
+b
+#2cdda
+xd
+#2f
+xabb d
+#2c
+xdabc
+b
+#3cdda
+xd
+xf
+xc
+#3dabc
+xc
+2abd a
+#2aaa c
+x e
+b
+#2aab  a
+xc
+#2dabc
+xdabc
+#2c
+xabd a
+b
+#2 efec
+xaabc
+#2cbd a
+xa b
+#2aaa c
+x e
+b
+
+b
+#2aac  a
+x   c
+#2aac  e
+x cd a
+#2  d  c
+x   b
+b
+#2aac  a
+x   c
+#2aac  a
+x  c  a
+#2   c
+xaab  a
+b
+b
+2aab  a
+#3  a
+x  b
+#3  d
+x  a
+x  b
+x  d
+#3 a
+x  d
+x  b
+x  a
+b
+2aab  a
+#3  a
+x  b
+#3  d
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+
+b
+2cdda
+#3 a
+x c
+#3 d
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+b
+2cdda
+#3f
+xd
+#3c
+xa
+x d
+x c
+#3 a
+x  d
+x  b
+x  a
+b
+2aab  a
+#3 f
+x h
+#3 i
+xf
+xh
+xi
+#3h
+xf
+x i
+x h
+b
+2 i   a
+#3f
+xh
+#3i
+xh
+xf
+xd
+#3c
+xa
+x d
+x c
+b
+
+b
+2 ea c
+#3 a
+x c
+#3 e
+x a
+x c
+x e
+#3a
+x c
+x e
+xa
+b
+2 ea c
+#3 a
+x c
+#3 d
+xa
+x d
+x c
+#3 a
+x  d
+x  b
+x  a
+b
+#3     d
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a
+x c
+#3 d
+x c
+x a
+x  d
+b
+2 ab  d
+#3f
+xh
+#3i
+xh
+xf
+x i
+#3f
+x i
+x h
+x f
+b
+
+b
+2 h a
+#3f
+xd
+2f
+#3d
+xc
+2d
+#3c
+xa
+b
+2cdda
+#3 a
+x c
+#3 d
+xa
+xc
+xd
+#3c
+x d
+xa
+xc
+b
+#2dabc
+xc
+#3aabc
+x d
+x b
+x a
+#2 ba a
+xa
+b
+#2 ea c
+xa
+#2ca bc
+xaa c e
+#2 cdca
+x ea c
+b
+2aac  a
+#3  a
+x  c
+#3  d
+x  a
+x  c
+x  d
+#3 a
+x  d
+x  c
+x  a
+b
+
+b
+#2aac  a
+x e
+#2a
+xc
+#2d
+xf
+b
+0hf f a
+#2
+xaab  a
+b
+b
+#3aab  a
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a
+x c
+#3 d
+x c
+x a
+x  d
+b
+#3aab  a
+x  a
+x  b
+x  d
+#3aab  a
+x  a
+x  b
+x  d
+#3 a   d
+x c
+x d
+xa
+b
+
+b
+#3cdda
+xa
+xc
+xd
+#3f
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+#3cdda
+x  d
+x  a
+x  b
+#3  d
+xd
+xa
+xd
+#3c  a
+xa
+xd
+xc
+b
+#3aab  a
+xd
+xa
+xc
+#3d
+x a
+x  b
+x  d
+#3 ab  a
+xh
+x i
+xf
+b
+#3h    a
+xi
+xh
+xf
+#3d
+xc
+xa
+x e
+#3aab  a
+xd
+xc
+xa
+b
+
+b
+#2 ea c
+xh
+#2f
+xdabc
+#2c
+xabd a
+b
+#2 ea c
+x  a
+#2 ea c
+x ea c
+#2 ea
+xdab  d
+b
+#2dab  d
+xc
+#2abb d
+x db c
+2 bd a
+#3 a
+x  d
+b
+#2 ab  d
+xd
+2     d
+#3     a
+x     c
+#3     d
+x    a
+x    c
+x    e
+b
+2cdda
+#3  d
+xd
+#3f
+x  a
+x  b
+x  d
+#3 a
+x c
+x d
+xa
+b
+
+b
+3.cdda
+4a
+3 d
+3. c
+4 a
+3 c
+3. a
+4  d
+3 a
+3.  d
+4  b
+3  a
+b
+3.  b  a
+4  a
+3  b
+3.  d  c
+4  b
+3  d
+3. ab  d
+4  d
+3 a
+3. c  a
+4 a
+3 c
+b
+3. ea c
+4a
+3c
+3.d
+4c
+3a
+3. ea c
+4a
+3c
+#3aabc
+xaaa c
+x e
+b
+#2aac  a
+x   c
+#2aac
+x a   e
+#2  d  c
+x   b
+b
+#2aac  a
+x   c
+#2aac  a
+xaac  a
+2   c
+Yaac
+b
+b
+
+e

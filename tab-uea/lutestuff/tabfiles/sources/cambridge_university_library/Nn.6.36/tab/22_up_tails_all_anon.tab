@@ -1,0 +1,454 @@
+-C
+-t
+-f
+{22. Up tails all/Anonymous}
+b
+c
+1acd a
+1 cd e
+1 da   a
+1 ac  a
+b
+1a d e
+2. cd a
+3 d
+1aacc
+1c da
+b
+2.a d e
+3 d
+#2 cd a
+xa
+#2 da   a
+x c
+2 ac  a
+#3a
+x  d
+b
+#2f   a
+xa
+x cde
+x d
+1aacc
+1cdda
+b
+b
+#2a   a
+x c
+x  d e
+xa
+#2 da   a
+x c
+x acc a
+xh
+b
+
+b
+#2f   e{
+xh     }
+x c  a
+x d
+#2aa c
+x c
+2cd a
+#3 c
+x a
+b
+#2a   e
+x  d
+2 c  a
+#3 d
+xa
+#2 da   a
+x c
+2 acc
+#3 c
+x d
+b
+#2a   a
+x c
+x  de
+x a
+2 c c
+#3 d
+xa
+1cdda
+b
+b
+#3a   a
+x d
+x c
+x a
+#3 c  e
+x d
+xa
+x c
+#3 d    a
+x c
+x a
+x  d
+#3 a   a
+x c
+x d
+x a
+b
+
+b
+#3 c  e
+x a
+x  d
+x  c
+#3  d a
+x a
+x c
+x d
+#3a    a
+x c
+x d
+xa
+#2c  "#a
+x a
+b
+#3a   e{
+x c
+x  d
+x a    }
+#3 c  a
+x d
+xa
+x c
+#3 d    a
+x c
+x a
+x  d
+#3 acc{
+xa
+xc
+xe    }
+b
+#3f   a
+x c
+x  d
+x  c
+#3  de{
+x a
+x c
+x d   }
+#3a cc{
+x  d
+x a
+x c   }
+#3 d a
+xa
+2c
+b
+b
+
+b
+#3a   a
+x  d
+x  d
+x a
+#3 c  e
+x  d
+x  d
+x c
+#3 d    a
+x  f
+x  f
+x c
+#3 a   a
+x  c
+x  c
+xa
+b
+#3f   e
+x  d
+x  d
+x a
+#3 c  a
+x  d
+x  d
+x d
+#3a    a
+x c
+x c
+xa
+#3c  a
+x d
+x d
+xc
+b
+#3a   a
+x c
+x c
+xa
+#3 c  e{
+x  d
+x  d
+xa
+#3 d    a
+x  f
+x  f
+x d
+#3 a   a
+x  c
+x  c
+x a
+b
+
+b
+#3f   e
+x  d
+x  d
+x a
+#3 c  a
+x  d
+x  d
+x d
+#3a    a
+x c
+x c
+xa
+#3c  a
+x d
+x d
+xc
+b
+b
+#2a  "#
+x    a
+2  d e
+#3 a
+x c
+#2 d
+x    c
+2 acc
+#3 c
+x d
+b
+#2a  "#
+x    e
+x  d
+x a
+2 c c{
+#3 d
+xa    }
+#2c  a
+x a
+b
+2a  "#
+#3    e
+x d
+#3 c  a
+x d
+2a
+2 d
+#3      a
+x c
+#3 a   a
+x  d
+2 a
+b
+
+b
+2 c
+#3    a
+x a
+#3  de
+x a
+x c
+x d
+2a
+#3   c
+xa
+2c
+#3   a
+xc
+b
+b
+#3a
+x c
+x    a
+xa
+#3 c
+x  d
+x    e
+x c
+#3 d
+x  a
+x    c
+x d
+#3 a
+x  c
+x   c
+x a
+b
+#3a
+x  d
+x    e
+xa
+#3 c
+x  d
+x    a
+x d
+#3a
+x  c
+x   c
+xa
+#3c
+x  d
+x   a
+xc
+b
+
+b
+#3a
+x  d
+x    e
+x d
+#3 c
+x  d
+x    a
+xa
+#3 d
+x  a
+x    c
+x c
+#3 a
+x  c
+x   c
+xa
+b
+#3f
+x c
+x  d
+xa
+#3 c
+x  d
+x   e
+x d
+#3a
+x  c
+x   c
+xa
+#3c
+x  d
+x   a
+xc
+b
+b
+#3a d
+x c
+x a
+x c
+#3  d
+x a
+x c
+x  d
+#3 d
+x  a
+x   a
+x   c
+#3  a
+x   a
+x  a
+x  c
+b
+
+b
+#3  d e
+x  c
+x  d
+x   c
+#3  d a
+x a
+x c
+x d
+#3a  c
+x c
+x  d
+x c
+#3 d a
+xa
+xc
+x d
+b
+#3  d a
+x a
+x c
+x  d
+#3a   a
+x c
+x  d
+xa
+#3 a    a
+x c
+x d
+x c
+#3 a   a
+x  c
+x   c
+xa
+b
+#3c   a
+xe
+xf
+xa
+#3 c
+x  d
+x     c
+x d
+#3a    a
+x c
+x d
+xa
+#3c     a
+x     a
+x     c
+x     e
+b
+
+b
+2.acd a
+3    c
+#2    e
+x    a
+#2 da   a
+x c
+2 acc
+#3 c
+x d
+b
+#2a   e
+x c
+x  d
+x a
+2 c  "#a
+#3 d
+xa
+#2c  "#a
+x a
+b
+#2a   e
+x    c
+x    a
+xa
+#2 da   a
+x c
+2 acc
+#3c
+xe
+b
+#2f   e
+x c
+x  de
+x a
+2 c c
+#3 d
+xa
+Ycdda
+b
+b
+
+e

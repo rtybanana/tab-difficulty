@@ -1,0 +1,179 @@
+-C
+-t
+-f
+{172. Tiento - Mode 2/Miguel de Fuenllana}
+b
+c
+w dda
+b
+0 cdca
+1     d
+1     c
+b
+w abc a
+b
+0 daac
+0  def
+b
+0abb d
+1    c
+1    a
+b
+wddf  d
+b
+0cbd a
+0a
+b
+1 aa c
+1a
+0 e
+b
+0a bcd
+0 abc
+b
+0 ddff
+0   e
+b
+0 dff d
+0a
+b
+0cdfa
+0d
+b
+0 dda
+0c
+b
+0ddb c
+0 f  d
+b
+
+b
+0fb  a
+0  a
+b
+0 dff d
+0d
+b
+0ccd a
+0a
+b
+0aaa c
+0 e
+b
+0aa c a
+0 cd
+b
+0 adc a
+0a c
+b
+1 cdca
+1 a
+0 aabc
+b
+1   ce
+1 a
+0  e
+b
+0 aacc
+0c  b
+b
+0da c a
+0  b
+b
+wacd a
+b
+1cdda
+1    e
+1    c
+1    a
+b
+0 dff d
+0   e
+b
+0a bcd
+0  d
+b
+
+b
+0ddf  d
+1c
+1a
+b
+0cdda
+0  f
+b
+0 d f
+0  de
+b
+1aabc
+1c
+0d
+b
+0   cd
+1c d
+1a
+b
+0 efec
+0a c
+b
+0ccd a
+0aab  a
+b
+1 aa c
+1a
+0 e
+b
+1a dcd
+1  b
+0 db c
+b
+1 b  a
+1  b
+0  a
+b
+0 aba d
+0   c
+b
+1  d  c
+1   c
+0   b
+b
+
+b
+0 adc a
+1  b
+1  a
+b
+0 abc a
+0 c
+b
+0 efec
+0a
+b
+0ca ac
+0   c
+b
+0 efec
+0a c
+b
+0cbd a
+0a
+b
+0ddf  d
+0cdda
+b
+1 abc
+1a
+0a dcd
+b
+1 aa c
+1a
+0 e
+b
+waa c a
+b
+Y
+b
+b
+
+e

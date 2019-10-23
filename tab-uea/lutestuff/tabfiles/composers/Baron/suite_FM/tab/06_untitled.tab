@@ -1,0 +1,142 @@
+-C
+-t
+-f
+b
+.
+2   ad
+b
+#2   ad-/a
+x   ad
+#2   ad-//a
+x   ad
+b
+#2   ad-///a
+x   ad
+#2   ad-6
+x   ad
+b
+#2   cd 5
+x   cd
+#2    f
+x    f
+b
+
+b
+2  a-- /a
+#3   c
+x  a
+#2   a
+x     d
+b
+#2   ad-/a
+x   ad
+#2   ad-//a
+x   ad
+b
+#2   ad-///a
+x   ad
+#2   ad-6
+x   ad
+b
+#2   cd 5
+x   c
+#2   ad 4
+x    c&' U
+b
+1   ad
+2      /a
+.
+b
+b
+
+b
+.
+2  d
+b
+#2  d--d
+x  d
+#2  d--c
+x  d
+b
+#2  d--a
+x  d
+#2  dc--//a
+x  d
+b
+#2 ad-- /a
+x a
+#2 ac-- a
+x a
+b
+
+b
+1 c&' -- 4
+#3 aU
+x cX
+2  d
+b
+#2  d--d
+x  d
+#2  d--c
+x  d
+b
+#2  d--a
+x  d
+2  d-- //a
+b
+#2 a -- /a
+x  d
+#2 a -- a
+x  c&'
+b
+1  d
+#2      4
+x   ad
+b
+
+b
+#2   ad-/a
+x   ad
+#2   ad-//a
+x   ad
+b
+#2   ad-///a
+x   ad
+#2   ad-6
+x   ad
+b
+#2   cd-5
+x   c
+#2   cc 4
+x   c
+b
+2  a&'-- /a
+#3   c
+x  a
+#2   a
+x     d
+b
+
+b
+#2   ad-/a
+x   ad
+#2   ad-//a
+x   ad
+b
+#2   ad-///a
+x   ad
+#2   ad-6
+x   ad
+b
+#2   cd-5
+x   a
+#2   ad 4
+x    c&'
+b
+1   ad
+2      /a
+.
+b
+b
+P
+e

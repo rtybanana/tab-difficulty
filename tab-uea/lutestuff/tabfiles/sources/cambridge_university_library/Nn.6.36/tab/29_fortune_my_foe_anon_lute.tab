@@ -1,0 +1,59 @@
+-C
+-t
+-f
+{29. Fortune, my foe/Anonymous}
+b
+c
+0  ba d
+1  b
+1  d
+b
+0  ea d
+0  da
+b
+1  ba
+1 d
+1 b
+1  e
+b
+0  da
+0      a
+.
+b
+b
+.
+0 dedb
+1 d
+1 d
+b
+0 dedb
+0 d
+b
+1 dedb
+1 g
+1 f
+1 d
+b
+w bdd
+b
+0 bdd
+1b
+1a
+b
+0 def
+1 bb d
+1  e
+b
+1.  d
+2  b
+1  d
+1      a
+b
+
+b
+w  ba d
+.
+b
+b
+
+e

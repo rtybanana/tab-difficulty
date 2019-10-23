@@ -1,0 +1,474 @@
+-C
+-t
+-h
+{6a. Tastar de corde 4/6a. Tastar de corde 4}
+b
+c
+0. 0  10;
+1 2
+b
+0. 3  10;
+1  0
+b
+0  2 10
+0 0  10
+b
+0
+#1 2    |
+x 3  10:
+b
+#1      |
+x 2    .
+x 0    .
+x3     :
+b
+Y 0  10
+b
+
+b
+Y0   00
+b
+Y   100
+b
+0.   310;
+1    0
+b
+0    10
+#1    0 |
+x   3  :
+b
+0   1
+0   310
+b
+Y   100
+b
+0  3 10
+0    3
+b
+0.  2 03;
+1   0
+b
+
+b
+#2   1  |
+x   3  .
+x    0 .
+x    1 :
+#1    3 |
+x     0:
+b
+Y   311
+b
+Y   100
+b
+0.  333 ;
+1    1
+b
+#2    3 |
+x    1 .
+x    0 .
+x   3  :
+#1   1  |
+x   0  :
+b
+Y  211
+b
+Y  331
+b
+Y  211
+b
+
+b
+1  3
+0   31
+#2  2   |
+x  0   :
+b
+#1 3 11 |
+x 2    .
+x 0    .
+x3     :
+b
+0.2  32 ;
+1    0
+b
+#2   3  |
+x   1  .
+x   3  .
+x   1  :
+#1  3   |
+x  2   :
+b
+Y  03 1
+b
+Y   100
+b
+
+b
+#2  3   |
+x    10.
+x    3 .
+x    1 :
+#2    3 |
+x     0.
+x    1 .
+x    3 :
+b
+0.0   00;
+1    4
+b
+#2     0|
+x     2.
+x     4.
+x     5:
+00   04
+b
+0. 0  15;
+1     7
+b
+0  7 58
+0    7
+b
+0.3 5  7;
+1     5
+b
+
+b
+#2     3|
+x     1.
+x     0.
+x    3 :
+#1    1 |
+x    0 :
+b
+1   3
+0.    10;
+b
+#1 0  15|
+x 2    .
+x 3    .
+x  0   :
+b
+0  2  5
+0     4
+b
+Y 0  15
+b
+Y  21 3
+b
+Y 3 3 0
+b
+Y 0 3 0
+b
+b
+
+{6a. Tastar de corde 4/6a. Tastar de corde 4}
+b
+c
+0aab
+0   c
+b
+#1    d
+xab
+x d
+x b
+b
+#1 a
+x  d
+x  b
+x   d
+b
+#1  bc
+x  a
+x  b
+x  d
+b
+#1  bc
+x  dd
+x ab
+x bd
+b
+0 df  d
+0 bb d
+b
+0 b a d
+0 a
+b
+#1 b  d
+x a
+x  d
+x  b
+b
+#1  d
+x  b
+x   d
+x   c
+b
+
+b
+0 ddd
+0aab
+b
+#1 ddd
+x   c
+0 ddd
+b
+0.aa c
+1   a
+b
+#1aa c
+x   a
+x    d
+x    c
+b
+#1    a
+xab
+x    c
+x    a
+b
+0aa   d
+0    a
+b
+0ab
+#1     d
+x     c
+b
+0aa   a
+0   c
+b
+#1aa
+x  a
+0aab
+b
+#1abd
+x a
+x b
+x a
+b
+#1ab
+x a
+x  d
+x  b
+b
+
+b
+0abd
+0aab
+b
+#1 ddd
+x b
+#2 d
+x b
+x a
+x  d
+b
+#1  bc
+x  d
+x a
+x  d
+b
+#1  b
+x   d
+x   c
+x   a
+b
+#1    d
+x  bc
+x    c
+x    a
+b
+0 ab  d
+0d
+b
+#1   a
+xd da
+xc
+xa
+b
+1cdda
+0d
+1c
+b
+#1da   d
+xc
+xd
+xc
+b
+
+b
+#1a
+x d
+x b
+x a
+b
+#1 bd
+x d
+xa b
+x   c
+b
+#1   d
+xab
+x d
+x b
+b
+1 ddd
+0a
+1 d
+b
+#1aa c
+x e
+xa
+xc
+b
+#1a
+xc
+xe
+xf
+b
+#1ea   a
+xc
+0fb  a
+b
+0fa   a
+0e
+b
+0fb  a
+0i
+b
+0   h
+0hd f
+b
+
+b
+#1   d
+xfb
+xd  c
+xb  a
+b
+1a   d
+#2 d
+x b
+#2 d
+x b
+x a
+x  d
+b
+#1 dff
+x  d
+x  f
+x c
+b
+1 df
+#2 a
+x b
+#2 d
+x a
+x b
+x d
+b
+#1abd
+x a
+x b
+x d
+b
+#1abd
+xc
+xd
+xa
+b
+#1cd a
+xd
+xf
+xd
+b
+
+b
+#1cd a
+xa
+#2c
+xa
+x d
+x b
+b
+#1 a a d
+x  d
+x  b
+x  d
+b
+#1     d
+x a a
+x  d
+x  b
+b
+1 dd f
+#2  a
+x  b
+#2  d
+x  a
+x  b
+x  d
+b
+#1 a
+x  b
+x     d
+x  d
+b
+#1 a   d
+x c
+x d
+xa
+b
+#1c  a
+xa
+x d
+x c
+b
+0 abc
+0d bc
+b
+0c da
+#1a bc
+x d
+b
+
+b
+#1 cd a
+x e
+xa
+x c
+b
+#1 e
+xa
+x e
+x c
+b
+1 ea c
+0a
+1 e
+b
+1.aa   a
+2     c
+#1aa   d
+x    a
+b
+1.ab
+2     d
+#1ab  a
+x    c
+b
+1ab  d
+#2    c
+x    a
+#1     d
+x    a
+b
+#1ab
+xab  a
+x     d
+x     c
+b
+Yaa   a
+b
+b
+P
+e

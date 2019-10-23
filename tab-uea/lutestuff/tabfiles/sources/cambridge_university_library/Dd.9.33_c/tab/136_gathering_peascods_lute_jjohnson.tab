@@ -1,0 +1,203 @@
+-C
+-t
+-f
+{136. Gathering peascods/John Johnson}
+b
+c
+1fda   a
+#2fda   a
+xfda   a
+1.cdd   a
+2f
+b
+2.ddf  d
+3f
+2.cdd   a
+3d
+1acd a
+#2  d
+xc
+b
+#2aa   d
+x db c
+xadd a
+x c
+1 dda
+1      a
+b
+b
+2fda   a
+#3fda
+xfda
+#2fda   a
+xfda
+#3c     a
+xa
+xc
+xd
+#3f  a
+xc
+xd
+xf
+b
+
+b
+#3d    d
+xa
+xd
+xf
+#3c     a
+x d
+xc
+xd
+2ac  a
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+b
+#2aa   d
+x d  c
+xad  a
+x c
+1 dda
+1      a
+b
+b
+#2ac  a
+x  d
+x c  a
+x d  c
+1a d e
+1cdda
+b
+#2 d  c{
+x  d
+x  c
+x d    }
+1 cd a
+#2 ac
+x  de
+b
+#2 acc
+x  d
+x     a
+x  c
+1  dca
+1   c
+b
+b
+#2ac  a
+x  d
+x c  a
+x d  c
+2a   e{
+#3 d
+xa     }
+1cdda
+b
+
+b
+2 d  c{
+#3  c
+x  d
+#2  c
+x d
+2 cd a
+#3 a
+x c
+#2 ac
+x  de
+b
+#3 a c
+x  d
+x  c
+x  a
+#2 adc
+x  c
+1 c  a
+#2  d
+xf
+b
+1c  a
+#2 d
+xf
+1c  a
+#2 d
+xf
+b
+2ddf  d
+#3f
+xd
+2cdd   a
+#3d
+xc
+1.acd a
+#3f
+xd
+b
+#2c  a
+x d
+2 dda
+#3d
+xc
+#2a   a
+x c
+2  d
+#3d
+xc
+b
+
+b
+#2aa   d
+x db c
+x dd a
+x c
+1 dda
+#2      a
+xf
+b
+1c  a
+#2cd
+xf
+1c  a
+#2 d
+xf
+b
+#3d    d
+xc
+xd
+xa
+#3c     a
+xa
+xc
+x d
+#2ac  a
+x  d
+2    a
+#3f
+xd
+b
+#2c  a
+x d
+2 dda
+#3d
+xc
+#2a   a
+x c
+2  d
+#3d
+xc
+b
+#2aa   d
+x db c
+x dd a
+x c
+1 dda
+1      a
+b
+b
+
+e

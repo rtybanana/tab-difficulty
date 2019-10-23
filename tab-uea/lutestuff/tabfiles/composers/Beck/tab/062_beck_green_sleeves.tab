@@ -1,0 +1,665 @@
+-C
+-t
+-f
+{Green sleeves/Beck}
+b
+S3
+#2   c
+x  a
+b
+0  b  b
+x
+1  b
+1  b
+1 d
+1 a
+b
+1.  d   /a
+2  b
+#2  a
+x   c
+1   a&,
+1   c
+1  a
+b
+0  b
+1   c
+1.   c  a
+2  a
+#2   c
+x  a
+b
+1.   b&,  ///a
+2    c
+1    a
+0.    a&,
+b
+0  b  b
+1  b
+1  b
+1 d
+1 a
+b
+1.  de  /a
+2  b
+1  a
+1   c
+#2   a&,
+x   c
+1  a
+b
+
+b
+1.  b   a
+2  a
+1   c  //a
+1  a   ///a
+1   b
+1    a
+b
+0   c
+1      a
+0   ca
+b
+b
+.
+x
+#2 aU
+x cX
+b
+1. d  a
+2c
+1 d
+1 d
+#2cU
+xaX
+#2 bU
+x aX
+b
+1.  d   /a
+2  b
+1  a
+1   a&,
+1   c
+1  a
+b
+0   c  a
+1c
+1.c
+2e
+#2c
+xe
+b
+1.e     ///a
+2 c
+1 a
+0 a&,
+x
+#2 aU  b
+x cX
+b
+1. d   a
+2c
+1 d
+1 d   d
+#2cU
+xaX
+#2 bU
+x aX
+b
+
+b
+1.  d d
+2  b
+1  a
+1   a&,
+1   c
+1  a
+b
+1.  b   a
+2  a
+1   c
+1  a   ///a
+1   b
+1    a
+b
+0   c
+1      a
+0   ca
+b
+b
+.
+x
+#2  b U
+x  d X
+b
+#2 a    a
+x  b
+x   c
+#2 a
+x  b
+x   c
+b
+#2  dU  /a
+x  aX
+x   a
+#2  dU
+x  aX
+x   a
+b
+#2 a    a
+x  b
+x   c
+#2 a
+x  b
+x   c
+b
+#2  a   ///a
+x   b
+x    a
+#2  a
+x   b
+x    a
+b
+
+b
+#2a    b
+x a
+x  b  b
+#2a
+x a
+x  b
+b
+#2  d   /a
+x  a
+x   a
+#2  d
+x  a
+x   a
+b
+#2 a    a
+x  b
+x   c
+#2  a   ///a
+x   b
+x    a
+b
+0.   c
+b
+0      a
+b
+b
+.
+x
+#2cU
+xeX
+b
+1f     a
+1f
+1f
+1  b
+1  b
+1  b
+b
+1 d    /a
+1 d
+1 d
+1.   a
+2   c
+1  a
+b
+1c     a
+1c
+1c
+1.   c
+2  a
+#2  b
+x  d
+b
+
+b
+1 a    ///a
+1 a
+1 a
+1   b
+1    a
+1    a
+b
+1f  f
+1f
+1f
+1.  b  b
+2  d
+#2 a
+x b
+b
+1 d  d
+1 d
+1c
+1.e  a
+2c
+1a
+b
+1f     a
+1e     //a
+1c
+1.b     ///a
+2 c
+1b
+b
+0ca
+1      a
+0cab
+b
+b
+.
+#2   c  a
+x  a
+1  b
+1   c
+#2  bU
+x  dX
+1 a
+1   c
+b
+#2   a  /a
+x   c
+#2  a
+x   a
+#2  aU
+x  bX
+1  d
+1   a
+b
+
+b
+1   c  a
+1  a
+1  b
+1   c
+#2  bU
+x  dX
+1 a
+1   c
+b
+#2    aU///a
+x    cX
+1   b
+1    a
+#2   b
+x   c
+1  a
+1    a
+b
+#2  bU b
+x  dX
+1 a
+1  b
+#2 aU
+x bX
+1 d
+1  b
+b
+#2   aU /a
+x   cX
+1  a
+1   a
+#2  aU
+x  bX
+1  d
+1   a
+b
+#2cU    a
+xeX
+1f
+1c
+#2bU    ///a
+xcX
+1.e
+2b
+b
+0.c b   a
+0c
+b
+b
+.
+1  b  b
+1 d
+1 b
+1 a&,
+1  d
+1  b
+b
+
+b
+1   a  /a
+1  d
+1  b
+1  a&,
+1   c
+1   a
+b
+1   c  a
+1 a
+1  d
+1  b&,
+1  a
+1   c
+b
+1 a    ///a
+1e
+1c
+1b&,
+1 c
+1 a
+b
+1  b  b
+1 d
+1 b
+1 a
+1  d
+1  b
+b
+1   a  /a
+1  d
+1  b
+1  a&,
+1   c
+1   a
+b
+1   c  a
+1 a
+#2  dU
+x  bX
+#2  a   ///a
+x   c
+#2   b
+x    c
+#2   b
+x    a
+b
+0   c
+1    a
+0.   ca a
+b
+b
+
+b
+.
+1   c
+1  b
+1   c
+#2 a
+x  d
+#2  b
+x  a
+1   c
+b
+1   a  /a
+1  a
+1   a
+#2  d
+x  b
+#2  a
+x   c
+1   a
+b
+1   c  a
+1  b
+1   c
+#2 a
+x  d
+#2  b
+x  a
+1   c
+b
+1    a ///a
+1   b
+1    a
+#2  a
+x   c
+#2   b
+x    c
+1    a
+b
+1  b  b
+1 a
+1  b
+#2 d
+x b
+#2 a
+x  d
+1  b
+b
+1   a  /a
+1  a
+1   a
+#2  d
+x  b
+#2  a
+x   c
+1   a
+b
+
+b
+#2 a    a
+x  d
+#2  b
+x  a
+1   c
+#2  a   //a
+x   c
+#2   b
+x    c
+#2   b
+x    a
+b
+0   c
+1      a
+0cab
+b
+b
+.
+#2  b   a
+x  a
+#2   c
+x  a
+#2  b
+x   c
+#2 a
+x  d
+#2  b
+x  d
+#2 a
+x  b
+b
+#2  a   /a
+x   c
+#2   a
+x   c
+#2  a
+x   a
+#2 a   b
+x  d
+#2  b
+x  d
+#2  a
+x  b
+b
+#2  b   a
+x  a
+#2   c
+x  a
+#2  b
+x   c
+#2 a   b
+x  d
+#2  b
+x  d
+#2 a
+x  b
+b
+
+b
+#2   b  ///a
+x    c
+#2    a
+x    c
+#2   b
+x    a
+#2  a
+x   c
+#2   b
+x   c
+#2  a
+x   b
+b
+#2 a   b
+x  d
+#2  b
+x  d
+#2 a
+x  b
+#2 d
+x b
+#2 a
+x b
+#2 d
+x a
+b
+#2  a   ///a
+x   c
+#2   a
+x   c
+#2  a
+x   a
+#2 a   b
+x  d
+#2  b
+x  d
+#2 a
+x  b
+b
+#2c     a
+xb
+#2c
+xe
+#2f
+xc
+b
+#2b     ///a
+x c
+#2b
+xc
+#2e
+xb
+b
+0c
+1      a
+0.cab
+b
+b
+
+b
+.
+#2  bU  a
+x  aX
+#2  bU
+x  dX
+#2 a
+x  d
+#2  bU
+x  aX
+#2  bU
+x  dX
+#2 a
+x  b
+b
+#2  dU  /a
+x  bX
+#2  d
+x a
+#2  dU
+x  bX
+#2  a
+x   c
+#2  aU
+x  bX
+#2  dU
+x  aX
+b
+#2   cU a
+x   bX
+#2   c
+x  a
+#2  bU
+x  aX
+#2   cU
+x   bX
+#2   c
+x  a
+#2  b
+x   c
+b
+#2  a   ///a
+x   c
+#2  aU
+x  bX
+#2  a
+x    c
+#2   b
+x    c
+#2   bU
+x   cX
+#2  a
+x   b
+b
+
+b
+#2 a   b
+x  d
+#2 aU
+x bX
+#2 dU
+x bX
+#2 a
+x  d
+#2 aU
+x bX
+#2 dU
+x aX
+b
+#2  dU  /a
+x  bX
+#2  d
+x a
+#2  dU
+x  bX
+#2  a
+x   c
+#2  aU
+x  bX
+#2  dU
+x  bX
+b
+#2 a    a
+x  d
+#2  bU
+x  aX
+#2  b
+x   c
+#2  a   ///a
+x   c
+#2   b
+x    c
+#2   b
+x    a
+b
+0   c
+1      a
+0.cab
+b
+b
+Q
+
+e

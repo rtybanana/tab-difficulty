@@ -1,0 +1,505 @@
+-C
+-t
+-f
+{277. Pavane - Sans per/Francis Cutting}
+b
+c
+1 aa c
+#2    c
+x c
+1 ea c
+#2a
+x    e
+b
+1caab
+1   c
+#2 cee
+xc
+xa
+x e
+b
+#2 cee c
+x   e
+x c
+x     e
+1 ca b
+1 ea c
+b
+2aa ce
+#3  e
+x  c
+#3  e
+x a
+xa
+x  e
+#2 ea c a
+x    c
+x ea c
+x      c
+b
+#2  a c e
+x e
+x ccc a
+x a
+#2  e ec
+x  c
+x  e e
+x a   e
+b
+
+b
+#2 ca b
+x a
+x aacc
+x   b
+2c f ec
+#3  e
+x  c
+#3  f
+x  e
+#4  f
+x  e
+x  c
+x  e
+b
+2cefec
+#3      a
+xe
+#3c
+x f
+x e
+x c
+#2cef
+x   e
+1    c
+b
+b
+2 ea c a
+#3 a
+x c
+#4 e
+x c
+x e
+x c
+#4 e
+x c
+x a
+x c
+#2 ea
+x    c
+xa
+x    e
+b
+#2caab
+x    c
+x aab
+x   c
+2ccee
+#3a
+xc
+#2a
+x e
+b
+
+b
+#2 cee c
+x   e
+x c
+x     e
+2 ca b
+#3 a
+x c
+#3 ea c
+x a
+x c
+x e
+b
+2aa ce
+#3  e
+x  c
+#3  e
+x a
+xa
+x  e
+#2 ea c a
+x    c
+x ea c
+x      c
+b
+#2  a c e
+x e
+x ccc a
+x a
+#2  e ec
+x  c
+x  e e
+x a   e
+b
+#2 ca b
+x a
+x aacc
+x   b
+2c f ec
+#3  e
+x  c
+#3  f
+x  e
+#4  f
+x  e
+x  c
+x  e
+b
+
+b
+3cef c
+#4  f
+x c
+#4 e
+x f
+xc
+xe
+3c
+#4 f
+x e
+#4 c
+x e
+x f
+x c
+#2cef
+x   e
+1      a
+b
+b
+2. ha g a
+3 g
+#2 h
+x k
+2 ha g a
+#3e
+xg
+#2h
+xfa  g
+b
+2ea c a
+#3   c
+x  d
+#2 a
+x  dc
+2ea c a
+#3 c
+x d
+#2ef
+xcd
+b
+2acd a
+#3  d
+x e
+#3a
+x e
+x c
+x a
+#3 cd a
+x e
+xa
+x c
+#2 ea c
+xaa c e
+b
+2.cce  c
+3  c
+#2cce
+x a   e
+#2 ca b
+xa
+x ea c
+xc
+b
+
+b
+#2 ghge
+xe
+xccfe
+x  e
+2 h ge
+#3 g
+x e
+#3 g
+x h
+x  f
+x g
+b
+2cce  c
+#3   e
+x  f
+#3 c
+x  f
+x  e
+x  c
+#2cce
+x   e
+1     c
+b
+b
+2. ha g a
+3 g
+#4 h
+x g
+x h
+x g
+#4 h
+x g
+x e
+x g
+2 ha g a
+#3e
+xg
+#2h
+xf a g
+b
+2ea c a
+#3   c
+x  d
+#2 a
+x  dc
+2ea c a
+#3 c
+x e
+#2ef
+xce
+b
+
+b
+2acd a
+#3  d
+x e
+#3a
+x e
+x c
+x a
+#3 cd a
+x e
+xa
+x c
+#2 ea c
+xaa c e
+b
+#2cce  c
+x  c
+xcce
+x a   e
+#2 ca b
+xa
+x ea c
+xc
+b
+#2 ghge
+xe
+xccfe
+x  e
+2 h ge
+#3 g
+x e
+#4 h
+x g
+x h
+x g
+#4 h
+x g
+x e
+x g
+b
+3cce  c
+#4   e
+x  c
+#4  e
+x  c
+x  e
+x  f
+#4 c
+x e
+x f
+x e
+#4 c
+x  f
+x  e
+x  c
+#2cce
+x   e
+1     c
+b
+b
+
+b
+#2cce  c
+x   e
+xcce
+x   c
+#2 aab
+xc
+xc e e
+xa
+b
+#2 ea c
+x      a
+x ca bc
+x     a
+#2 aa c e
+x      a
+x cf ec
+x  e
+b
+#2 aa g a
+xh
+xh a g
+xf
+#2ea c
+x     a
+xca bc
+x    a
+b
+#2aa c e
+x     a
+1 ea c
+#2 a c e
+xa
+x ea a
+x c
+b
+#2 aabc
+x      a
+x ca bc
+x     a
+#2 aa c e
+x      a
+xa d ca
+x  c
+b
+
+b
+#2c f ec
+x    c
+xc e e
+xa
+2cefec
+#3      a
+xe
+#3c
+x  f
+x fc
+x  e
+#2cef
+x   e
+1      a
+b
+b
+#2cce  c
+x   e
+#3ccee
+x  c
+x   e
+x   c
+#2 aab
+xc
+#3c e e
+xe
+xc
+xa
+b
+#2 ea c
+x      a
+#3 ca bc
+x      c
+x     c
+x     a
+2 aa c e
+#3      c
+x      a
+3 cf ec
+#4  e
+x  c
+#4  f
+x  e
+#5  f
+x  e
+x  c
+x  e
+b
+
+b
+#2 aa g a
+xh
+#3h a g
+x h
+xh
+xf
+2ea c
+#4     a
+x     c
+x     e
+x    a
+#3ca bc
+x     c
+x    c
+x    a
+b
+2aa c e
+#3     c
+x     a
+1 ea c
+#2 a c e
+xa
+#3 ea a
+xa
+2 c
+b
+2 ea c
+#4      a
+x      c
+x      e
+x     a
+#3 ca bc
+x      c
+x     c
+x     a
+#3 aa c e
+xf
+xe     a
+xc
+#3a d  a
+x a
+x  d
+x  c
+b
+
+b
+3c f ec
+#4  e
+x  f
+#3  e c
+x  c
+#3  e e
+x f
+x e
+x c
+3cef c
+#4  f
+x c
+#4 e
+x f
+xc
+xe
+#4c
+xe
+xf
+xe
+#4c
+x f
+x e
+x c
+#2cef c
+x   e
+Y    c
+b
+b
+
+e

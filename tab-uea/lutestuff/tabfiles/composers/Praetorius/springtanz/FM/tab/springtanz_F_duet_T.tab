@@ -1,0 +1,218 @@
+-C
+-t
+-f
+{Springtanz/Springtanz}
+b
+1 daa
+b
+.
+0  def
+1 d
+1.  def
+2 a
+1 cd a
+b
+1. dd   a
+2  b
+1  a
+1  da  a
+1  a
+1  da c
+b
+0 a a d
+1  da  a
+0  d ef
+1  aac
+b
+1.  dca
+2   a
+1    e
+1  dca
+1 c
+1 c ca
+b
+1 df c
+1    e
+1 dda
+0 cd a
+1 aa c
+b
+1.a d a
+2 d
+1 c
+1  dca
+1 c
+1 c ca
+b
+
+b
+0 a  cd
+1  da c
+1 a  ca
+1   ce
+1  da  a
+b
+0  d ef
+1  a
+0  dca
+1  da c
+b
+1  ba d
+1   c
+1  de  a
+1  dca
+1  aa
+1  d ef
+b
+A1
+0.  aa  a
+0  aa  a
+1 daa
+.
+b
+b
+A2
+0.  aa  a
+0  aa  a
+1  def
+b
+.
+1  dca
+0   ce
+1  dca
+0   ce
+b
+1  dca
+0   ce
+1  dca
+1 c
+1 cd
+b
+1 dda
+1a b
+1c a
+1aa c
+1  d
+1a c
+b
+
+b
+1 cd a
+0   c
+0 c ca
+1 cd a
+b
+1 dda
+0  de
+1 dda
+1.  de
+2 d
+b
+0 df  d
+1 d   d
+0 df  d
+1 dd   a
+b
+0 ab  a
+1  da c
+1 ab  d
+0  dca
+b
+1.  de  a
+2  bc a
+1  da c
+1 a a d
+1  de  a
+1  da c
+b
+1 ab  d
+1  de  a
+1  da c
+1 a a d
+1  de  a
+1  da c
+b
+1. ab  a
+2  de c
+#2 a c e
+x   a
+1  d ef
+1  c ca
+1 a   e
+b
+
+b
+1  d ef
+1  c ca
+1 a   e
+1  d ef
+1  c ca
+1 a   e
+b
+1.  d ec
+2 a  cd
+1  d ef
+1  aac
+1  d ec
+1    a
+b
+1  aac
+1  d ec
+1    a
+1  aac
+1  d ec
+1    a
+b
+1. a a d
+2  d ef
+1  bac
+1  bcd
+1 a a d
+1  b c
+b
+1  bcd
+1 a a d
+1  b c
+1  bcd
+1 a a d
+1 d  c
+b
+1. c ca
+2c  ac
+1a  ce
+1 daa
+1 c ca
+1a   e
+b
+1 daa
+1 c ca
+1a   e
+1 daa
+1 c ca
+1a   e
+b
+
+b
+1.  da
+2   ce
+#2 aa c
+x  b
+1  dca
+1  dac
+1  dca
+b
+A1
+0.  de  a
+0  de  a
+1  de  a
+.
+b
+b
+A2
+0.  de  a
+1  de  a
+0
+b
+b
+
+e

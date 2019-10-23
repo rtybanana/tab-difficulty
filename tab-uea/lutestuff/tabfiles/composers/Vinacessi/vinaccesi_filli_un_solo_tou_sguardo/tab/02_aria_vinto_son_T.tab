@@ -1,0 +1,173 @@
+-C
+-t
+-f
+{/}
+b
+C
+2a d e
+b
+#2aacc
+xa d e
+x cdca
+x dc c
+2a d e
+1ed  c
+2ff  e
+b
+#2fdaa
+xcd  c
+xaa   e
+xacd a
+2 edec
+1aac  a
+2 dd  c
+b
+#2 cdca
+x aaa  a
+1 acc a
+1 cdc  ///a
+1
+b
+1.
+2a d e
+#2aacc
+xa d e
+xcc  a
+xed  c
+b
+#2ff  e
+x    a
+xc de
+xea c
+2fc  a
+1ea c
+2ed  c
+b
+
+b
+#2fdaa
+xcd  c
+xaa   e
+xacd a
+2 dc c
+#3acd a
+x     e
+#2    a
+x cd  c
+b
+2 a bc
+#3 a c e
+x    a
+#2 aabc
+x      //a
+1 ac  a
+#2
+xaa   e
+b
+#2 ea c
+xaa   e
+xea   a
+xc d  c
+2aa   e
+1     a
+2acd a
+b
+#2a d e
+x    a
+1ccde
+1aac
+1aacc
+b
+1c de
+2\4ea \1c
+#3f\2daa
+x    \3e
+#3ed  \1c
+x    a
+2ea \1c \3e
+#2f\3f  a
+xe\2d   a
+b
+1.f\1c  a
+2a d e
+#2aacc
+xa d e
+1ac  a
+b
+
+b
+#2a d e
+x    a
+1ccde
+1aac
+1aacc
+b
+1\1c \2d\3e
+2\3ea \1c
+#3\4f\2d&{aa
+x    \3e
+#3ed&}  \1c
+x    a
+2ea \1c \3e
+#2f\1c  a
+xe\2d   a
+b
+1.fc  a
+2a d e
+#2aacc
+xa d e
+xac  a
+x ea c
+b
+2a d e
+1 dc c
+2ed  c
+#2cdda
+x dc c
+xaa   e
+x cdca
+b
+2 ed c
+1a c  a
+2 dd  c
+#2 cdca
+x aa   a
+1 ac  a
+b
+Y  dce ///a
+1 cdc  ///a
+1 ede  5
+1 bcb  4
+b
+
+b
+1 ccc  /a
+#2cc  b
+xea   a
+1cde  c
+1 c    5
+b
+1cdf   //a
+#2aa   d
+x     a
+#2ca    a
+xda   a
+xcc\4f&{  c
+x  e&}
+b
+#2 \3d&{a   //a
+x\2cd  \1c
+x g&}\2f  \1e&(
+x\4ea   b&)
+#2\2c \3d&{  \1c
+x      a
+xc d   /a
+xb c
+b
+0.\1ccdee 5
+b
+b
+x \4cc  \1b
+b
+
+e

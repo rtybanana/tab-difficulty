@@ -1,0 +1,576 @@
+-C
+-t
+-f
+{71. Manus tuae, domine/Miguel de Fuenllana}
+b
+c
+w    c
+b
+0    c
+0    d
+b
+0   a
+0   c
+b
+0  a c
+0  a
+b
+0  b c
+0    d
+b
+0  aa
+0   c
+b
+0  a
+0  ab
+b
+w abc
+b
+0 abc
+0 c
+b
+0 daa
+0a  cd
+b
+1c   c
+1   c
+0c  b
+b
+wd  c
+b
+0c a
+0a b
+b
+0  d
+0 ef c
+b
+
+b
+0a  c
+1  b
+1   c
+b
+0  da
+0   cd
+b
+0 aa c
+0c a
+b
+0da c
+0 c
+b
+0ddda
+0c
+b
+0acd
+0 d a
+b
+0 dff
+1  f
+1   e
+b
+0 cbc
+0 dda
+b
+0 c  a
+0fdaa
+b
+0h ff d
+0h  f
+b
+0    f
+0f de
+b
+0da c
+1cd a
+1a
+b
+1 d f
+1  g
+1  f
+1  de
+b
+
+b
+0  bc
+0  def
+b
+0 abc
+1 dda
+1    d
+b
+1 a  c
+1 b
+1 df
+1  d
+b
+0a b d
+0a bc
+b
+0 dfec
+0  ff d
+b
+1  d f
+1   f
+0  de
+b
+0 bb d
+0 b cd
+b
+1   a d
+1  a
+1 ab
+1    a
+b
+1 dbac
+1  a d
+0   a
+b
+0a  cd
+1  a a
+1    c
+b
+1a  cd
+1  aa
+0  bc
+b
+0  da
+0 a a
+b
+
+b
+0 b cd
+0a b
+b
+0a d d
+0a b
+b
+0ab  a
+0  b d
+b
+0abd a
+0 acc
+b
+1 bd a
+1    c
+1  b d
+1  aa
+b
+0 abc
+0 b  d
+b
+1 bb
+1   a
+1ab c
+1  a
+b
+0d ff
+0dd   d
+b
+0cdda
+0 d
+b
+0ab  a
+0  b d
+b
+1 df  d
+1  d
+1  f
+1 c  a
+b
+1 df c
+1    d
+0 d a
+b
+
+b
+0 b ca
+1  b d
+1  a
+b
+1 ab  d
+1  d
+1da
+1  b
+b
+0c da
+0dab
+b
+0   c
+1c ee
+1a
+b
+0 dff d
+0 df  d
+b
+1  da
+1 b
+1 abc
+1  a
+b
+1   cd
+1 a
+0  d
+b
+0 aa c
+0 ab  d
+b
+0  def
+1a bc
+1  a
+b
+0a  cd
+1  a
+1   c
+b
+0 e ec
+0 ef
+b
+0.da c
+1f
+b
+
+b
+0h  f
+0i  h
+b
+0  a
+1h  f
+1f
+b
+1h
+1   h
+1  ff
+1  h
+b
+0dd f
+0 f  d
+b
+wdd f
+b
+0 d f
+0  ff
+b
+0 dff
+0 fg d
+b
+0 d f
+1 df
+1  d
+b
+0 dff
+0 dde
+b
+0aa c
+0 cb
+b
+0cdda
+0ddff
+b
+0f de
+0d ff
+b
+0dabc
+0 c
+b
+0cdda
+0aacc
+b
+
+b
+1abd a
+1    c
+1   cd
+1  aa
+b
+1aabc
+1  de
+1 dff
+1 c
+b
+0 dda
+0 acc
+b
+0 bdca
+1 bd
+1    c
+b
+1  b d
+1 a
+1  def
+1   c
+b
+0   ac
+0  c
+b
+0a d a
+0 bd
+b
+0cbd
+0dab
+b
+0acd
+0cd a
+b
+0da c
+0d  c
+b
+0fd a
+0h  f
+b
+0  gh
+0f
+b
+0hd f
+0 f  h
+b
+
+b
+1f  e
+1 d
+0dd f
+b
+0 b c
+1c a
+1a
+b
+0 dff
+0 d f d
+b
+1  aa
+1 b
+0 abc
+b
+0   cd
+0  ded
+b
+0.ha f d
+1f  e
+b
+0da c
+0c  ac
+b
+1a bcd
+1   a
+1   c
+1  de
+b
+0 dff
+1 a c
+1  a
+b
+1 b c
+1 a
+0 aaa
+b
+1  b d
+1 a
+0  dc
+b
+0 aa c
+0  bc
+b
+
+b
+1
+1  aa
+1  bcd
+1   ac
+b
+0   cd
+0   cd
+b
+0  a c
+1 db
+1    a
+b
+1 a   d
+1  a
+0   a
+b
+0 bbc
+0 dde
+b
+0a bc
+0c da
+b
+0.d ff
+1  de
+b
+0d bc
+0c da
+b
+1a   d
+1  b
+1 df c
+1 b
+b
+0 a c
+1  b
+1 c
+b
+0 dda
+0   a
+b
+0  bc
+0 ab
+b
+1  b
+1  de
+0  bc
+b
+
+b
+1  d f
+1   f
+0 d e
+b
+0  ff d
+1 dff
+1  d
+b
+0abb d
+0aabc
+b
+wcdda
+b
+0d ff
+1  ff
+1   e
+b
+0 a c
+0fbd a
+b
+0fd a
+1f  a
+1 b
+b
+0ha   d
+0h  f
+b
+0f da
+1 da
+1d
+b
+0a d
+1 c
+1c
+b
+wddb  d
+b
+0  a a
+1 b c
+1 a
+b
+0abd a
+0    a
+b
+
+b
+0.aabc
+1   e
+b
+0 dff
+0     d
+b
+0 bd a
+0   c
+b
+1 ab  a
+1  a
+1  bc
+1     c
+b
+1 a   d
+1  a
+1   a
+1   c
+b
+1  dea
+1   c
+1   c
+1  b
+b
+1  a c
+1   c
+0   b
+b
+1d  c
+1  a
+1a bc
+1  d
+b
+0ddff
+0 fg d
+b
+0cdda
+1  f
+1 b
+b
+0aabc
+1  b
+1  a
+b
+
+b
+1 dff
+1  d
+1  f  d
+1   f
+b
+0 dda
+0 a ac
+b
+0   cd
+1  d
+1   e
+b
+0ha f
+1   f d
+1   h
+b
+1ha f
+1 c  a
+1 da c
+1   cd
+b
+0f aa
+0 d
+b
+0dabc
+1  bc
+1  d
+b
+1caa c
+1 c
+1 d a
+1   cd
+b
+1c aa
+1  c
+1  d
+1 a
+b
+0abbc
+1 a c
+1  d
+b
+0aaa c
+1 e
+1 c
+b
+
+b
+0. efec
+1  d
+b
+0dab  a
+0   c
+b
+wcaa c
+b
+Y
+b
+b
+
+e

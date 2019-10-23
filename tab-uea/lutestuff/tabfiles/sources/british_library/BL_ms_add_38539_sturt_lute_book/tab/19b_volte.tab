@@ -1,0 +1,169 @@
+-C
+-t
+-f
+{Volte/Volte}
+b
+1.b"#dda
+2d
+1b"#
+b
+1a"#   d
+1    a
+1b
+b
+1 d  b
+1     d&{
+1a
+b
+0 c"#dca
+1      ///a
+b
+1a   d
+1 d   d
+1 b"#  a
+b
+1 a"#   a
+1  d  b
+#2 a    a
+x b
+b
+#2 d
+x b
+1. a"#   a
+#3  d
+x  c
+b
+1  d"x
+1   c
+1    a
+b
+1b"xdda
+#2d
+xb
+#2a"#
+x d
+b
+
+b
+1a   d
+#2f   a
+xd
+#2b"#
+xa
+b
+1 d  b
+#2d    d&{
+xb
+#2a"#
+x d
+b
+0 c"#dca
+1      ///a
+b
+1a   d
+#2 d   d&{
+xa     }
+#2 b  a
+x d
+b
+1 a"#   a
+1  d  b
+#2 a    a
+x b
+b
+#2 d
+x b
+1. a"#   a
+#3  d
+x  c
+b
+1  d"x
+1   c
+1    a
+b
+0f"x
+1d
+b
+1b"#
+1  d
+1a
+b
+1  b"#
+1 d d
+1 c"# c
+b
+
+b
+1. d"x a
+2a
+1b"#
+b
+1a   e
+1f   a
+1d
+b
+1b"#  a
+1 d
+#2a    d
+xb    {
+b
+#2d
+xb
+1.a"#   a
+#3 d
+x c
+b
+1 d"x
+1   a
+1      a
+b
+1f"x
+#2 d
+xa
+#2b
+xd
+b
+1b"#
+1  d
+1a
+b
+1  b"#
+#2 d d{
+xa    }
+1 c"# c
+b
+#2 d a
+x c
+#2 d
+xa
+#2b
+xd
+b
+
+b
+1a   e
+#2f   a
+xd
+#2b
+xa
+b
+#2b  a
+x d
+#2a
+xb
+#2a    d&{
+xb
+b
+#2d
+xb
+1.a"#   a
+#3 d
+x c
+b
+1 d"x
+1   a
+Y      a
+b
+b
+
+e

@@ -1,0 +1,130 @@
+-C
+-t
+-f
+{/}
+b
+C
+w cdeec5
+b
+w cde c
+b
+0 cde  5
+0 cde c
+b
+1 ccd  /a
+b
+0
+b
+1
+b
+0bac   /a
+0ccd  c
+b
+1cce  c
+0. ce  c
+b
+1 ea   //a
+2.    c
+3    c
+0aacc
+b
+0 cdc  ///a
+0 cbca
+b
+0 cbc  ///a
+0 da a a
+b
+1 aa   a
+1a c   /a
+0 da   //a
+b
+0 dde  //a
+0 ccd  /a
+b
+1 cde  /a
+1 cc e
+1 cd  c
+b
+
+b
+1
+b
+w cdee 5
+b
+1.ccd  c
+2     a
+0ca    a
+b
+0bcc   /a
+0ec de
+b
+0cec d
+0b c e
+b
+0bcc   /a
+0baca
+b
+0b c e
+0bcc c
+b
+wcca b
+b
+0. efec
+1    a
+b
+0.aa   e
+1 ed  c
+b
+0aac  a
+#2
+x      a
+1a d   /a
+b
+1cdd   //a
+#2aad  a
+x  c
+0 \2c&{\3d\1c&(a
+b
+0 c&}dc  ///a
+1\1cd\4f a
+1adf  \3e
+b
+
+b
+1\2cca a
+1     \1c
+1b\2c\3d  b
+0cc\2d  c
+b
+1 eg  \3e
+1 ccc a
+1a d  c
+#2 eh  e
+x  g
+b
+w ccd  /a
+b
+0 ccd  /a
+0 ccde
+b
+0 cdd  /a
+0 dde  a
+b
+1 aa   a
+1      b
+1 cc  b
+1 cd  c
+b
+0 ccde
+0\4c\3ca \1b
+b
+0\1c\2da   //a
+0\4e\1c&{ \2d  /a
+b
+1ec \3e
+1   \2d  /a
+0ccde  5
+b
+b
+
+e

@@ -1,0 +1,104 @@
+-C
+-t
+-f
+{Ricercar 20/Ricercar 20}
+b
+c
+#2 d a
+xb
+#3d
+xb
+xa
+x d
+#3da c
+xb
+xa
+x d
+1ab  a
+b
+
+b
+#2 d a
+xb
+#3d
+xb
+xa
+x d
+#2ab  a
+x    c
+x    d
+x   a
+b
+#2   c
+x    d
+x    a
+x  d
+#2 a a d
+x    c
+x bd a
+x    d
+b
+#2 d a
+x b
+x d
+x a
+#2 bdca
+x d
+xa
+x b
+b
+
+b
+#2 d  a
+x b
+#3 d
+x b
+x a
+x  d
+#2 a c
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+#3 b d
+x  d
+x a
+x c
+1 d a
+2a
+#3b
+xd
+#3f  a
+x   c
+x   d
+x   a
+b
+
+b
+1   c
+1e
+#2f  d
+xd
+#3f
+xd
+xb
+xa
+b
+#2b  a
+x   c
+x   d
+x   c
+#2a d
+x c
+#3 d
+x c
+x a
+x c
+b
+Y dda
+b
+b
+
+e

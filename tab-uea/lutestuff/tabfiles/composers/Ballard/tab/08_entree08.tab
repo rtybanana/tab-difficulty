@@ -1,0 +1,232 @@
+-C
+-t
+-f
+{Entrée 8/Entrée 8}
+b
+W   a  a
+W    d /a
+W    a ///a
+b
+b
+c
+0abdca
+1.aa c e
+2 d
+b
+1 bdca
+1 a
+0  d
+b
+0fddd  a
+1.ea c a
+#3c
+xe
+b
+1f   a
+1      ///a
+1  dc
+1 a
+b
+0abd a
+1cdda
+1    d
+b
+1dd ac
+1    a
+1     d
+1b
+b
+
+b
+1abb d
+1  d
+0 dff d
+b
+1 bbcd
+1      /a
+1   c
+1  a
+b
+0 dff d
+1  ff
+1  g
+b
+1 df
+1  d  c
+1a b  a
+1c d
+b
+1da c
+1 c
+1cef c
+1    a
+b
+0af   e
+1   c
+1 d
+b
+1 bdca
+1 a
+1 b
+1     d
+b
+1 dd  b
+1     a
+1bdd   a
+1 b
+b
+
+b
+1aac  a
+1  d d
+1  c c
+1 d
+b
+1 cdca
+1      ///a
+1  dc
+1 a
+b
+1abd
+#2  c
+x  a
+#2 ac
+xa
+x d
+xa
+b
+#2 bd
+x d
+x a
+x b
+#2  d
+x  b
+x   d
+x   c
+b
+#2f  a
+x   c
+x   d
+x   a
+#2   c
+xea
+x   a
+x   c
+b
+
+b
+#2    a
+xf
+x  a
+x  b
+#2  d
+x a
+x b
+x d
+b
+#2a
+x    a
+x b
+x  d
+#2   a
+xcd
+x b
+x d
+b
+#2    c
+xdd
+x    a
+x    c
+#2     d
+xd
+xb
+xd
+b
+#2    d
+xa b
+x    c
+x    a
+#2     d
+x db
+x b
+x a
+b
+
+b
+#2    d
+x bb
+x   c
+x  a
+#2  b
+x  d
+x a
+x b
+b
+#2     d
+x d
+x b
+x d
+#2  b
+x a
+x  d
+x b
+b
+#2  f
+x d
+x     c
+x  d
+#2     a
+xa b
+x  d
+xc
+b
+#2   c
+x a
+xd
+x c
+#2    c
+xc
+x e
+x    a
+b
+
+b
+#2     e
+xa
+x a
+x   c
+#2  c
+x  d
+x a
+x   c
+b
+#2    a
+x b
+x  d
+x a
+#2 b
+x   c
+x  d
+x     d
+b
+#2     b
+x  d
+x d
+x     a
+#2      a
+x b c
+x a a
+x  d d
+b
+1  ca a
+1  d d
+1aadcca
+#2  c
+x d
+b
+0 cdca
+0      ///a
+b
+b
+
+e

@@ -1,0 +1,24 @@
+-C
+-t
+-f
+{/}
+b
+C
+wacd   /a
+b
+wfd   c
+b
+wddf  d
+b
+wacb  a
+b
+0 dd  c
+1aa   d
+#2 da a
+x c c
+b
+Y da a a
+b
+b
+
+e

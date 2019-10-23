@@ -1,0 +1,270 @@
+-C
+-t
+-f
+{/}
+b
+1 b&'    ///a
+2    c //a
+b
+1    aa/a
+2ba    a
+1ab    /a
+2 d    //a
+b
+1 b&'    ///a
+2    c //a
+#2    aa/a
+x  d d
+x  c&' c
+b
+#2  d&_   ///a
+x    a
+x a   e
+#2 b&_    ///a
+x      4
+x   aa 5
+b
+1.aaccc 6
+1 b&'    ///a
+2    c //a
+b
+1    aa/a
+2ba    a
+1ab    /a
+2 d    //a
+b
+1 b&'    ///a
+2    c //a
+#2    aa/a
+x  d d
+x  c&' c
+b
+
+b
+#2  d&_ a
+x    a /a
+#3 aU   a
+x bX
+2 b&'   a
+#3      6
+x a
+2    a
+b
+1    ae///a
+2     fX
+b
+b
+1   c&@  /a
+2 d    //a
+b
+1a&'     /a
+2 d  c
+#2a&'   d
+x    a
+x  a&'   a
+b
+1  b&_a  4
+2      ///a
+#2   a&'  //a
+x      ///a
+xac    4
+b
+#2b&_d    7
+x      a
+x d   a
+#2    ab&'
+x     a
+x a&'    a
+b
+2. b&_    ///a
+3 a
+2    a
+1  d d
+2  b c
+b
+1  a a
+2a    d
+1  db c
+2  bc a
+b
+
+b
+#2  a&' c
+x    a
+x a   d
+#2 c&{  a
+x     d
+x   bac
+b
+2aa   d
+#3     a
+xc
+#3aU    ///a
+xcX
+1c&'     //a
+2 f&@
+b
+#2 eU  a
+x fX
+x      //a
+1.      6
+b
+b
+1a&'     /a
+2b     a
+b
+#2d    a
+x b
+x  d  b
+#2  b&'  a
+x      /a
+x   d  //a
+b
+#2   c&'  /a
+x    a
+x  d  b
+#2  b  a
+x b
+x  g   /a
+b
+1  f&'f  4
+2  d  b
+#2  b&'  a
+x b
+x  g   /a
+b
+
+b
+1  f&'f  4
+2  \4dd
+#2  bc
+x  dd
+x  ff
+b
+#2  g   /a
+x b  a
+x   a b
+#2 a a&' d
+x      4
+#3 bU
+x dX
+b
+#2 b    /a
+xa   d
+xb&_   a
+#2   a&' d{
+x a
+xac   a
+b
+#2b&_d    a
+x    a
+xd   c
+#2a&'   d
+xab    /a
+xcd
+b
+#2d&_a    4
+xb&'
+xa
+#2  da  5
+x  c&'
+x  dd  7
+b
+2.  c&'c  6
+3  a
+#3a
+x d
+b
+b
+
+b
+#2a&'     ///a
+x c
+xb&_d
+b
+#2df    4
+xa
+xbd
+#2a&'     ///a
+x c
+xb&_d
+b
+#2da    4
+xb&'d
+xac
+#2  d  b
+x  b&'  a
+x   d  a
+b
+2a    d
+#3dU  a
+xbX
+#3a   b
+x d
+#2 c&'  a
+x a
+x c&'    ///a
+b
+#2 d    a
+x      ///a
+x      7
+#2 d   d
+x d  c
+xa   d
+b
+#2bb   b{
+x d
+x b   b
+#2   a&' d{
+x a
+xac   d
+b
+
+b
+#2b&_d    a
+x      7
+x      6
+#2 b&'  a 5
+x    a
+x d  c
+b
+#2aa  d
+xbb  a
+xab    /a
+#2 b a&'  a
+x a
+x b&_    ///a
+b
+#2 a   a
+x      //a
+x      6
+1  b&'c
+2  ab
+b
+1  b&_c
+2  a c
+#2  d d
+x  b&' c
+x  a a
+b
+#2a    d
+x   b&' c
+xa    d
+#2  db
+x  b&'c
+x  ab c
+b
+#2a    d
+x   b&' c
+xa    d
+#2 a  a
+x   cc
+x   b&'
+b
+#2   cca
+x      //a
+x      6
+b
+b
+
+e

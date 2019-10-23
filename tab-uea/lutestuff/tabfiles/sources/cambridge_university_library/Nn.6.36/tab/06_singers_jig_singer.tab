@@ -1,0 +1,61 @@
+-C
+-t
+-f
+{6. Singer's jig/Jo Singer}
+b
+c
+#2aa "#c{
+xd
+xd
+xd     }
+#2da   a
+xd  c
+xc  a
+xa  c
+b
+1f  "# a
+1a  "#
+1f  "# a
+1a  "#
+b
+#2aa c
+xd
+xc  a
+xa   d
+#2 d  c
+x b "# a
+1 ac  a
+b
+#2 b  "#a
+x  d
+x b  "#a
+x  d
+#3 b  a
+x a
+x b
+x d
+1a  "#
+b
+#2aa c
+xd
+xc "# a
+xa   d
+#2 d  c
+x b  a
+x ac  a
+x d
+b
+
+b
+2 b "# a
+#3 a
+x  d
+#2 ad  a
+x  c
+#2  d a
+x   c
+Y    a
+b
+b
+
+e

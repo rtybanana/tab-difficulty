@@ -1,0 +1,262 @@
+-C
+-t
+-f
+{12. Duke of Milan's Dump/Anonymous}
+b
+c
+2   a  a
+b
+b
+#2 d a  a
+xa
+xc  a  a
+x d
+#2d  a  a
+xc
+xa  a
+x d
+b
+#3 c ca
+x a
+x c
+x d
+#3a   a
+x c
+x d
+xa
+#2      a
+xcd
+x   a
+x      a
+b
+b
+
+b
+#3   a
+x c
+x d
+xa
+#3c
+x d
+xa
+xc
+#3d     a
+xc
+xa
+x d
+#3 c
+x a
+x c
+x d
+b
+#2 c ca
+x d ac
+x d ca
+x c
+#2 d a  a
+x d a
+1      a
+b
+b
+#2  a   a
+x  b
+2  d   a
+#3  b
+x  a
+#2 a    a
+x  d
+x  b "#
+x  a
+b
+#2   ca
+x  d
+#3    a
+x  b
+x  a
+x   c
+#2  a   a
+x   a
+x    a
+x      a
+b
+b
+
+b
+#3  a   a
+x   c
+x  a
+x  b
+#3  d
+x  a
+x  b
+x  d
+#3 a    a
+x  d
+x  b
+x  a
+#3  b
+x  a
+x   c
+x   a
+b
+#2 c ca
+x d ac
+x d ca
+x c
+#2 d a  a
+x d a
+1      a
+b
+b
+#2f  a  a
+xd
+xc  a  a
+xa
+#2h  a  a
+xf
+xd  a  a
+xc
+b
+#3 c ca
+x a
+x c
+x d
+#3a   a
+x c
+x d
+xa
+#2      a
+xcd
+x   a
+x      a
+b
+#2f  a  a
+xd
+xc  a  a
+xa
+#2hd f
+xf  ef
+xd
+xc d a
+b
+
+b
+#2a b d
+x daa
+x d ca
+x c
+#2 d a  a
+x d a
+1      a
+b
+b
+2  a   a
+#3  b
+x  d
+2  b   a
+#3  a
+x   c
+2  a   a
+#3  b
+x  d
+2 a    a
+#3  d
+x  b
+b
+2  a   a
+#3  b
+x  d
+2  b   a
+#3  a
+x   c
+2  a   a
+#3  b
+x  d
+2  a   a
+#3   c
+x   a
+b
+2  a   a
+#3  b
+x  d
+2  b   a
+#3  a
+x   c
+2  a   a
+#3  b
+x  d
+2 a    a
+#3 c
+x d
+b
+
+b
+#2 c ca
+x d ac
+x d ca
+x c
+#2 d a  a
+x d a
+1      a
+b
+b
+#3   a
+x c
+x d
+xa
+#3c
+x d
+xa
+xc
+#3d  a
+xc
+xa
+xc
+#3a
+x d
+x c
+x a
+b
+#3 c ca
+x a
+x c
+x d
+#3a   a
+x c
+x d
+xa
+#2c  a
+x d
+x   a
+x      a
+b
+
+b
+#3f  a
+xh
+xi
+xh
+#3f
+x i
+x h
+x f
+#3d     a
+xc
+xa
+x d
+#3 c
+x a
+x c
+x d
+b
+#2 c ca
+x d ac
+x d ca
+x c "#
+#2 d a  a
+x d a
+Y      a
+b
+b
+
+e

@@ -1,0 +1,86 @@
+-C
+-t
+-f
+{Send home my long-strayed eyes/Send home my long-strayed eyes}
+b
+c
+0aabc a
+1 aacc
+#2   b
+x    c
+b
+1 aabc
+1aacc
+1abd a
+1aa c e
+b
+1abd a
+1abd a
+0aacc a
+b
+0aabc a
+0 aaac
+b
+0 aaac
+#2 aaac
+x    a
+1 ab  d
+b
+1 bd a
+1 aabc
+0 acc a
+b
+1 bbcd
+#2 bbcd
+x bbcd
+1 ab  d
+1 bd a
+b
+1 aaac
+#2 aa c
+x    a
+1 ab  d
+1 abc a
+b
+1. aabc
+2 ab  d
+1cdda
+b
+
+b
+1aabc
+1aabc
+#2 aacc
+x   b
+b
+0aacc a
+1 aabc
+b
+1 aabc
+#3aacc
+x   a
+x    e
+x    c
+1. cd a
+2  da c
+b
+#2 ab  d
+x     a
+1 cd a
+0cdd   a
+b
+2.cdda
+3   c
+1 cee
+0 aabc
+b
+1. ab  d
+2    a
+#2 aacc
+x   b
+b
+Y acc a
+b
+b
+
+e

@@ -1,0 +1,376 @@
+-C
+-t
+-f
+{In nomine 2/In nomine 2}
+b
+c
+0.
+1    a
+b
+1    c
+1    c
+0    d
+b
+1    d
+#2    c
+x    a
+1     e
+1  d a
+b
+1 a  a
+1 a   e
+0 b  a
+b
+1 b  a
+#2 a   d
+x  d
+#2  b d
+x  a
+x  b
+x  d
+b
+0 aa c
+0 ab c
+b
+1  b  a
+#2  a
+x   c
+1   bc
+1 ab
+b
+1 ca a
+#2 c c
+x     d
+#2 d   c
+x     a
+1   b c
+b
+
+b
+1 b c a
+#2 a
+x  a
+#2  b
+x bd
+1 df c
+b
+1a d d
+#2  b d
+xd
+#2c  a
+xa
+x da
+x b
+b
+1 f f d
+1 d
+1 ab  d
+1a  c
+b
+1c  bc
+1c
+1d    a
+#2   c
+xa
+b
+1 e ec
+1  a
+1a b
+#2d  c
+x   c
+b
+#2ca b
+xa
+x da c
+x b
+1 abc
+#2a b
+x   c
+b
+1c da
+1c d
+0da  c
+b
+
+b
+1   c
+1c d
+#2  bc
+x a
+1a  c
+b
+1 e ec
+1   e
+1  b  d
+1 a
+b
+1 ca a
+1 c c
+1 d   c
+#2   b
+x  d
+b
+1 b c a
+1 a
+1
+1 df
+b
+1 fg
+1 fg
+1cd
+1 d  c
+b
+1 fg d
+#2d   d
+x  f
+#2d da
+x  b
+1c d
+b
+1d  f d
+1   f
+1.  ff d
+2  g
+b
+1 d   d
+1 f f
+1. df  d
+2  g
+b
+
+b
+#2 df  d
+x  d
+1 f f
+1.dd   d
+2  g
+b
+1  ff d
+1 fg
+1d g  d
+1  f
+b
+1db
+1    d
+1  bc
+#2  b
+x   d
+b
+1  ff
+#2   f
+x  g
+1 df
+#2     d
+x  g
+b
+#2 df c
+x  d
+x ab
+x    d
+#2   ef
+x  d
+1 abc
+b
+1a d d
+#2  b c
+x d
+#2 bb a
+x a
+1  de
+b
+1 d f d
+1   f
+1  f  d
+#2   f
+x  g
+b
+
+b
+1 df  d
+#2 f
+x  g
+1 df
+1df   d
+b
+1 d  c
+#2c
+x b  d
+#2 a a
+x  b
+1a bc
+b
+1 e ec
+1 ab
+#2     d
+x  a
+xa  c
+x  b
+b
+#2  a a
+x d
+x c c
+xa    d
+#2 d   c
+x c
+x a b
+x  d
+b
+1  bc a
+1d
+#2  b  a
+xc
+xa
+xd
+b
+1c d
+#2a
+x  b
+#2a a
+x   c
+1 e e
+b
+
+b
+1a  c
+#2 d   d
+x b
+#2 a a
+x     d
+x   c a
+x     d
+b
+1 d a c
+#2 c c a
+x a
+#2  de
+x  b
+1  abc
+b
+1  bc a
+1a
+#2   ca
+x d
+1 c
+b
+#2a  c e
+x a
+x c  a
+x d
+#2a  c a
+x d
+1 a
+b
+1 b ca
+#2 b
+x d
+#2a   d
+x a
+x  d
+x b
+b
+1 dfa
+1 bd
+1 a c
+1d b
+b
+#2  d a
+xc
+xa
+xd
+1.c d a
+2a
+b
+
+b
+#2 dfa
+xab
+xcd
+x df
+#2 dda
+x  b
+1  d
+b
+1     d
+#2 ab
+x bd
+1 df
+1 fg
+b
+1  ff
+#2 df  d
+x bd a
+#2 ab c
+x  de
+1  bcd
+b
+1 ab  d
+#2 ab
+x bd
+1 df
+1 fg
+b
+1 cd
+#2cd a
+x   c
+#2  a
+xac
+1 dff
+b
+1ab c
+1 dff
+1 dbc
+1 c
+b
+1 dd f
+#2  de
+x ab
+1 cd
+1 df
+b
+
+b
+1 ac
+#2 cd a
+x    c
+#2    e
+x ac
+1  def
+b
+1 aa c
+#2 cd  c
+x     d
+#2    a
+x  c
+1 aa c
+b
+1 ac  a
+#2  cc
+x  de
+1 ac
+1 cd
+b
+1  cc
+#2 cd a
+x    c
+#2    e
+x df
+1 acc
+b
+1 cd a
+#2 ac  a
+x  a  c
+#2 a c e
+x   a
+1   cef
+b
+1  cc a
+#2a c
+xc d
+1ea c
+1fc  a
+b
+Ye  c a
+b
+b
+
+e

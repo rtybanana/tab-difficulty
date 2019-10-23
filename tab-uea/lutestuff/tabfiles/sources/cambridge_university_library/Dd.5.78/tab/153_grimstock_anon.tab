@@ -1,0 +1,90 @@
+-C
+-t
+-f
+{153. Grimstock/Anonymous}
+b
+1fcd a
+2a
+1fcd a
+2a
+b
+2.cd a
+3e
+2fc  a
+2.ea   a
+3c
+2a
+b
+2. c  a
+3 d
+2a
+1c  a
+2a   e
+b
+1 da c
+2 c  a
+1. ac  a
+b
+1fcd a
+2a
+1fcd a
+2a
+b
+#3c  a
+xa
+xc
+xe
+2f   a
+2.ea   a
+3c
+2a
+b
+
+b
+#3 c  a
+x a
+x c
+x d
+2a
+2.c  a
+3d
+2a   e
+b
+#2 d a
+x c
+x a c
+1.  d a
+.
+b
+b
+.
+#2  d a
+x  d
+x ac  a
+#2 c  a
+x  d
+x daa
+b
+#2 c  a
+x  d
+x ac  a
+#2 c  a
+x  d
+x ac  a
+b
+#2  d a
+x  d
+x ac  a
+#2 c  a
+x  d
+x daa
+b
+#2 c  a
+x  d
+x ac  a
+Y.  d a
+.
+b
+b
+
+e

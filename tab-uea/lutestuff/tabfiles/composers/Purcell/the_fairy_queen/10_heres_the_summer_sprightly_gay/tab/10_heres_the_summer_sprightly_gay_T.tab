@@ -1,0 +1,86 @@
+-C
+-t
+-f
+{/}
+b
+1aacc
+2     a
+b
+1ac  a
+2ccd  c
+b
+1c\3e  c
+2\3ea   \2e
+b
+2e\4f  \2e&{
+#3   a
+x    e&}
+#3    \1c
+x    a
+b
+1aa   \2e
+2ac  a
+b
+1ca    a
+2aa\1c  a
+b
+1.a \4e&{\1c  /a
+b
+A1
+1. efe  //a
+.
+b
+b
+A2
+1 efe  //a
+2
+b
+1. efec
+b
+1. acc
+b
+1.a c e
+b
+1.ccee
+b
+1ca b
+2aacc
+b
+1 cee
+2 efec
+b
+
+b
+1 efe c
+2 ce
+b
+1 efec
+2cef
+b
+1aac
+2   c
+b
+1ca b
+2ea c
+b
+1a c e
+2ac  a
+b
+1 ea c
+2aa   e
+b
+1a c e
+2ac  a
+b
+1aac  a
+2a d   /a
+b
+1. efe  //a
+b
+1aac  a
+0
+.
+b
+b
+
+e

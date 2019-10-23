@@ -1,0 +1,58 @@
+-C
+-t
+-f
+{9. Canaries/Anonymous}
+b
+1.h    a
+2.ea  "# a
+3f
+2h
+b
+1f  "# a
+2ea   a
+1ca  c
+2aa   a
+b
+1.ha  "# a
+2.ea  "# a
+3f
+2h
+b
+1f   a
+2ea   a
+1ca "# c
+2aa   a
+.
+b
+b
+.
+2.ea  "# a
+3a
+2e
+2.aa  "# a
+3c
+2e
+b
+1f  "# a
+2ea   a
+1ca  c
+2aa   a
+b
+2.ea  "# a
+3c
+2e
+2.aa  "# a
+3c
+2e
+b
+
+b
+1f   a
+2ea   a
+1caa c
+Yaa   a
+.
+b
+b
+
+e

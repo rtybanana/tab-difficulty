@@ -1,0 +1,690 @@
+-C
+-t
+-f
+{3. Allegro/3. Allegro}
+b
+#3      //a
+x  g
+#3  f  U
+x  d  X
+#3   f  U
+x   d  X
+b
+#3    fg
+x  d
+#3   f  U
+x   d  X
+#3   caU
+x   aX
+b
+#3    bd
+x    a
+#3    bU
+x    dX
+#3   c b
+x    b
+b
+#3   aU b
+x   cX
+#3   d  /a
+x    b
+#3    a d
+x   d
+b
+#3   c  //a
+x  b
+#3 b    /a
+x a
+#3 b    a
+x  b
+b
+
+b
+#3  d   b
+x b
+#3 a    d
+x  d
+#3  b   5
+x   d
+b
+#3   c  //a
+x   d
+#3  b
+x   c
+#3   a  ///a
+x  b
+b
+#3    b 4
+x   c
+#3  d   //a
+x a
+#3 b    4
+x  b
+b
+#3  a   /a
+x  b
+#3  d  U
+x  a  X
+#3   c  //a
+x  d
+b
+#3   a  ///a
+x  a
+#3 a    /a
+x b
+#3a     ///a
+x  d
+b
+#3  bU  a
+x  dX
+#3 a
+x  b
+#3   d  /a
+x a
+b
+
+b
+#3   c  //a
+x  b
+#3 bU
+x dX
+#3c
+x b
+b
+#3  d b
+x a
+#3 bU b
+x dX
+#3c   b
+x  b
+b
+#3  a  d
+x  d
+#3 bU  d
+x dX
+#3c    d
+x  a
+b
+#3  b a
+x  d
+#3 aU a
+x bX
+#3 d  a
+x  {\2d
+b
+#3   \2c b
+x  b
+#3 aU  b
+x bX
+#3 d   b
+x   c
+b
+#3  a  d
+x  b
+#3  d  d
+x a
+#3 b   d
+x   c
+b
+
+b
+#3   a a
+x  a
+#3  d  a
+x a
+#3 b   a
+x  d
+b
+#3 a    d
+xf
+#3e  Ua
+xc  X
+#3a  a
+x b
+b
+#3 ab
+xc
+#3 d  U
+x b  X
+#3 a e
+x  d
+b
+#3  bcU
+x  aX
+#3  bU
+x  dX
+#3 a a
+x  b
+b
+#3  d b
+x a
+#3 b   d
+x  b
+#3  aa
+x b
+b
+#3 a    d
+x  b
+#3  d
+x a
+#3 b
+xa
+b
+
+b
+#3c   b
+x bU
+#3 d{
+xc
+#3 h}
+xf
+b
+#3h  U a
+xf  X
+#3 h  U
+x f  X
+#3a
+x \2b
+b
+2 a   b
+2 \1b\3d   //a
+2  \3d\4e  /a
+b
+#3      5
+x  b
+#3  aU
+x  bX
+#3  d  U
+x  b  X
+b
+#3 a
+x  b
+#3  aU  d
+x  bX
+#3 b   d
+x  b
+b
+#3a   a
+x  b
+#3  aU
+x  bX
+#3c
+x  b
+b
+#3d  U
+xa  X
+#3 b  U d
+x a  X
+#3  d aU
+x  b  X
+b
+
+b
+#3c   b
+xe
+2e    d
+#3    d
+xf
+b
+1.fdf   d
+.
+b
+b
+.
+#3      5
+xa
+#3 b
+xa
+#3c
+x b
+b
+#3a
+x a
+#3  b   ///a
+x a
+#3a     5
+xc
+b
+#3d     4
+x b
+#3 d    ///a
+xd
+#3 a    5
+xd
+b
+#3cU    //a
+xdX
+#3f  U
+xc  X
+#3 b
+x      /a
+b
+#3      a
+x  b
+#3   \3d
+x  b
+#3  d   b:
+x   d
+b
+
+b
+#3  b   //a
+x   c
+#3    b a
+x   c
+#3  b   //a
+x  d
+b
+#3  \2e   /a
+x   \1d
+#3   \4f  a
+x  e
+#3    \3f //a
+x  e
+b
+#3  dU  /d
+x  eX
+#3  g  U
+x  d  X
+#3   d
+x    f
+b
+#3   a
+xh
+#3i  U
+xh  X
+#3f
+x \3g
+b
+#3 f   \2g
+xh
+#3i  U
+xh  X
+#3 g
+x f
+b
+#3a     g
+xh
+#3i  U
+xh  X
+#3 f
+xa
+b
+
+b
+#3 c   d
+x d
+#3c
+x      d
+#3      b
+x      a
+b
+#3      /a
+x  d
+#3  e  U
+x  d  X
+#3   fdU
+x   dX
+b
+#3    f\4g
+x  d
+#3  e  U
+x  d  X
+#3   d  //a
+x    f
+b
+#3   a e
+x  d
+#3  e  U
+x  d  X
+#3   c e
+x   a
+b
+#3    \2c\3d&U
+x    dX
+#3   \2c
+x      d
+#3      b
+x      a
+b
+#3      /a
+xd
+#3f  U
+xd  X
+#3  e d&U
+x  dX
+b
+
+b
+#3   \2f \1e
+x f
+#3 g  U
+x f  X
+#3   h \2g&U
+x   fX
+b
+#3   d d
+x d
+#3 f  U
+x d  X
+#3   fdU
+x   dX
+b
+#3   c  d
+x d
+#3 c   d
+x  d
+#3 a   b
+x c
+b
+#3 d    b
+x  d
+#3  b   a
+x  d
+#3 c    /a
+x d
+b
+#3c    \3e{
+x d    }
+#3 c   \3d
+xa
+#3c     d
+xf
+b
+#4d    d
+x f  U
+3 d  X
+2 f f  d
+2 c c d
+b
+2 d d  /a
+2      b
+2     d
+b
+
+b
+#3      /a
+x    d
+#3    cU
+x    dX
+#3   c
+x  a
+b
+#3  b   a
+x    d
+#3    cU
+x    dX
+#3  a
+x  b
+b
+#3  d  a
+x    d
+#3    cU
+x    dX
+#3  b
+x  d
+b
+#3 a    d
+x b
+#3a     ///a
+x  b
+#3  a   /a
+x b
+b
+#3 a    5
+x  b
+#3  aU
+x  bX
+#3  d
+x a
+b
+#3 b    4
+x  b
+#3  aU
+x  bX
+#3 a
+x b
+b
+
+b
+#3a     ///a
+x  b
+#3  aU
+x  bX
+#3 b
+xa
+b
+#3 f    //a
+x g
+#3f     a
+x  g
+#3  f   /f
+x g
+b
+#3 f   \2g
+xf
+#3h  U
+xf  X
+#3 g
+x f
+b
+#3  i  f
+xf
+#3h  U
+xf  X
+#3 f
+x  i
+b
+#3  g   f
+xf
+#3h  U
+xf  X
+#3a
+x b
+b
+#3 a    d
+x b
+#3 d
+x      b
+#3      a
+x      /a
+b
+
+b
+#3      //a
+x  b
+#3  d  U
+x  b  X
+#3   dbU
+x   cX
+b
+#3   aa
+x  b
+#3  d  U
+x  b  X
+#3   c  ///a
+x   a  X
+b
+#3    b 4
+x  b
+#3  d  U
+x  b  X
+#3    ddU
+x    bX
+b
+#3    aUd
+x    bX
+#3    d
+x     dU
+#3     bX
+x      b
+b
+#3      a
+xa
+#3 b
+xc
+#3  e   //a
+xc
+b
+#3  d   b
+x c
+#3 d
+x  d
+#3c    d
+x  b
+b
+
+b
+#3   d  /a
+x f  U
+#3 d  X
+xd
+#3  g d
+xd
+b
+#3  \3f\2f
+x \1d
+#3 f
+x  f
+#3d   d
+x  d
+b
+#3   ff
+x g
+#3 f
+xf
+#3  i   /f
+xf
+b
+#3  g   f
+x f
+#3 g
+x  g
+#3f     a
+x  g
+b
+#3\2h     6
+x \3i
+#3 \1g    /a
+x\4k
+#3  l   //a
+x\4l
+b
+#3a     5
+xl
+#3k  U  4
+x\4h{ X
+#3\4f}    ///a
+x \2g
+b
+
+b
+#3 f    //a
+xf
+#3h  U  ///a
+xf  X
+#3 g  U 4
+x f  X
+b
+#3a     ///a
+xf
+#3h  U  4
+xf  X
+#3 f    5
+xa
+b
+#3  g   4
+xf
+#3h  U  5
+xf  X
+#3  i   6
+x  g
+b
+#3  f   5
+xf
+#3h  U  6
+xf  X
+#3  g   a
+x  e
+b
+#3  d   b
+xc
+#3 d    b
+xc
+#3d  U  b
+xc  X
+b
+#3a    a
+xh
+#3  g  a
+x a
+#3 b   a
+x  d
+b
+
+b
+#3 a    d
+x  b
+#3   d  d
+x  b
+#3  d   d
+x  b
+b
+#3   da
+xa
+#3   da
+x   c
+#3   da
+x   a
+b
+#3   cb
+x b
+#3 a    a
+x  d
+#3  b   b
+x   d
+b
+2   c  d
+2   dd b
+2   aa d
+b
+#3      //a
+x    b
+#3    aU
+x    bX
+#3    d
+x    b
+b
+#3   c
+x    b
+#3    aU//a
+x    bX
+#3   d  /a
+x    b
+b
+#3  \1b   a
+x    \2b
+#3    aU
+x    \1bX
+#3  \4d
+x    b
+b
+
+b
+#3  e
+x  b
+#3   d  //a
+x   c
+#3    d a
+x    b
+b
+2  d   b
+2 d d  /a
+2 a a  d
+b
+1. b c  //a
+.
+b
+b
+P
+e

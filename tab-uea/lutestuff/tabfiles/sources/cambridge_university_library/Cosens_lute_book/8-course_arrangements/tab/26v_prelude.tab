@@ -1,0 +1,340 @@
+-C
+-t
+-f
+{Prelude/Prelude}
+b
+c
+0  d
+#1 b c
+x d
+b
+#1a b
+xa d
+xb
+x df
+b
+2 fg
+#3c
+xd
+#2c
+xa
+#2 df
+xa
+xc
+x  d
+b
+2 ab
+#3 c
+x d
+#2a
+x  d
+2 f e
+#3 e
+x c
+#2 e
+x  d
+b
+#2aabc
+xc
+xd
+xc
+#2aa c
+x  a
+xaab
+x  a
+b
+
+b
+#2aabc
+x d
+x b
+x   c
+#2   a
+x b
+x a
+x   a
+b
+#2   cd
+x a
+x  d
+x    d
+#2   ac
+x  d
+x  b
+x    c
+b
+#2    df
+x   f
+x   d
+x    a
+#2    cd
+x   d
+x   c
+x     d
+b
+#2    ab
+x   c
+x   a
+x     b
+#2  b  a
+x   a
+x    d
+x     a
+b
+#2     b/a
+x    d
+x    c
+x      /a
+#2     a/b
+x    c
+x    a
+x      /b
+b
+
+b
+2 dd   /a
+#3  c
+x  d
+#2  c
+x  a
+2  c c
+#3a
+x d
+#2 b
+x a
+b
+#2abd a
+x a
+x b
+x d
+2a dc  /b
+#3 d
+xa
+#2 daa  a
+x b
+b
+#2 abc a
+x d
+x b
+x a
+#2  dd b
+x a
+x bdd b
+x d
+b
+#2aab  a
+xd
+xa
+xc
+#2aab  d
+x d
+x bdca
+x  b
+b
+2 daac
+#3 a
+x b
+#2 d
+x a
+2abb d
+#3c
+xd
+#2ccd a
+xa
+b
+
+b
+#2 efec
+x f
+x e
+x c
+#2 efec
+x    a
+2 a a d
+#3 c
+x d
+b
+#2 cdca
+x e
+xaac
+x     a
+2 f ec
+#3 e
+x c
+#2 e e
+x  d
+b
+#2 a c a
+xa
+x d
+x a
+#2 b ca
+x  d
+x  b
+x   c
+b
+#2bdda
+xa
+x d
+x b
+#2 a a
+x  d
+x  c
+x  a
+b
+#2aac  a
+x  a
+x  c
+x  d
+2aad  a
+#3  c
+x  a
+2  c
+#3 c
+x d
+b
+
+b
+#2abd a
+x a
+x b
+x d
+2a b d
+#3 d
+xa
+2bdda
+#3a
+xb
+b
+#2da c
+x d
+x b c
+xd
+#2 b  d
+x d
+xa
+xb
+b
+2da c
+#3a
+xb
+2d
+#3   c
+x   a
+2ab  d
+#3a
+xb
+2d
+#3   a
+x   c
+b
+2bd a
+#3 d
+xa
+2bd
+#3   a
+x    d
+2 da c
+#3a
+xb
+2a
+#3    a
+x    c
+b
+
+b
+2ab  d
+#3 b
+x d
+2ab
+#3    d
+x    c
+2 bdca
+#3  d
+x a
+2 bd
+#3     d
+x    a
+b
+2 da c
+#3 a
+x b
+2 d
+#3    c
+x    a
+2 ab  d
+#3  b
+x  d
+2 ab
+#3     b
+x     d
+b
+2 bdca
+#3  d
+x a
+2 bd
+#3    a
+x     d
+2  da b
+#3   c
+x   d
+#2   c
+x   a
+b
+#2 abc a
+x d
+xa
+xb
+#2d
+xb
+xa dc  /b
+xd
+b
+
+b
+#2bd a  a
+xa
+x d
+x b
+#2 a a b
+x  d
+x  c
+x  a
+b
+2aac  a
+#3  a
+x  c
+#3  d
+x  a
+x  c
+x  d
+#3 a
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xe
+b
+2fcd a
+#3d
+xc
+#3a
+x d
+x c
+x a
+#3  d
+x   c
+x  a
+x  c
+#3  d
+x a
+x c
+x d
+b
+Yacdca
+b
+b
+
+e

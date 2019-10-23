@@ -1,0 +1,402 @@
+-C
+-t
+-f
+{What if a day/What if a day}
+b
+1   c  //a
+#2   c
+x  a
+#2   c
+x  a
+b
+1   c  4
+1    c
+1   c  ///a
+b
+1  d   //a
+1   c
+1   c
+b
+1   c d
+#2    cU
+x    dX
+1   c
+b
+1. cd  d
+2    a
+#2    c
+x    d
+b
+
+b
+#2 a c
+x  d
+#2 a
+x c
+#2 a    a
+x      /a
+b
+1  d   //a
+1 a    /a
+1  c&,   a
+b
+0.  dcc 4
+b
+b
+S3
+#2 c    4
+x  d
+1   c
+1 c
+b
+1 ac   a
+1      /a
+1 cd   //a
+b
+1 da   ///a
+#2c c
+xa
+#2 c
+x a
+b
+#2 c    4
+x a
+#2 c
+x d
+#2 c
+x a
+b
+
+b
+#2 c   d
+x  d
+1   c
+1 c
+b
+1 ac   a
+1      /a
+1 cd   //a
+b
+1 dd   ///a
+#2c c
+xa
+#2 c
+x a
+b
+0. cd   4
+b
+b
+1cc   d
+#2e    a
+xc
+#2a
+x c
+b
+1.a&,a  a
+2 c
+1 a   c
+b
+1 c   d
+#2 d    /a
+x c
+#2 a
+x  d
+b
+
+b
+#2 a    a
+x  d
+#2 a
+x c
+#2 a
+x      /a
+b
+1c d   //a
+#2e
+xc
+#2a
+x c
+b
+1.e     /a
+2g
+#3eU
+xg
+2hX
+b
+#2 cU
+x aX
+1. a&,    a
+2  d
+b
+1.  dcc 4
+b
+b
+c
+1   c  a
+#2   b
+x   c
+#2  aba
+x     d
+x     b&,
+x     a
+b
+
+b
+#2  b   a
+x      //a
+x  dc  4
+x  b
+b
+1  aba
+1      ///a
+b
+1  bc
+#2  a
+x  b
+1  da a
+#2  b
+x  d
+b
+#2 a   b
+x c
+1 d    a
+1. c&,   a
+2 a
+b
+0 aaa
+0      ///a
+b
+b
+#2 a   b
+x     d
+x    a
+x    b
+1  da
+1      /a
+b
+
+b
+#2  bc  a
+x     a
+x     b
+x     d
+1  aba
+1      ///a
+b
+1  b   a
+#2     a
+x  d
+#2 a   b
+x c
+1aa    a
+b
+1 a  ca
+2.  e&,
+3 a
+1 aab
+1      ///a
+b
+b
+#2      a
+x  b
+x      /a
+x  d
+#2 a   b
+x     d
+x    a
+x    b
+b
+
+b
+#2  a d
+x    b&,
+x    a
+x  b
+#2  d  d
+x     b
+x     a
+x  d
+b
+#2     b
+x   c
+x     a
+x  a
+#2  bc  a
+x      //a
+x  d   4
+x  b
+b
+1.  a&,   ///a
+2   c
+1   c
+1      a
+b
+b
+2    a
+b
+1    c 4
+1   c
+1  a
+1.  d  d
+2 a
+#2 c
+xc
+b
+
+b
+1.   c&,  //a
+#3    cU
+x    aX
+1     d/a
+0    a&, a
+1     d
+b
+1    c 4
+1   c
+1  a
+1.  d  d
+2 a
+#2 c
+xc
+b
+#2      a
+x c
+1. a&,
+2  d
+0  dcc 4
+b
+b
+#2  d
+x a
+b
+1 c   d
+1 a&,
+1  d
+1 a    a
+1  d&,  a
+1  a
+b
+
+b
+1  d   ///a
+1.   c&,  /a
+2    c
+0    a&, a
+1     d
+b
+1    c 4
+1   c
+1  a
+1.  d  d
+2 a
+#2 c
+xc
+b
+1   c  //a
+#2      /a
+x    c
+#2    a a
+x     d
+0     d4
+b
+b
+#2    c
+x    a
+b
+
+b
+#2     d4
+x    a
+#2    c
+x   a
+#2   c
+x  a
+#2   c d
+x  a
+#2  d
+x a
+#2 c
+xc
+b
+1.   c&,  //a
+2   e
+1   c
+#3    cU
+x    aX
+2     d
+1.    a&, a
+#3     dU
+x     aX
+b
+#2     d4
+x    a
+#2    c
+x   a
+#2   c
+x  a
+b
+#2   c d
+x  a
+#2  d
+x a
+#2 c
+xc
+b
+
+b
+#2   c  //a
+x  a
+#2  d   /a
+x a
+#2 c    a
+x a
+0  dcc 4
+b
+b
+#2  d
+x a
+b
+#2 c   d
+xc
+#2 c
+x a
+#2  d
+x c
+#2 a    a
+x c
+#2  d  a
+x a
+#2  a   /a
+x  d
+b
+#2   c  //a
+x  a
+#2   c
+x    c
+#2    a /a
+x     d
+0    a&, a
+1     d
+b
+1    c 4
+1   c
+1  a
+b
+
+b
+1.  dc d
+2 a
+#2 c
+xc
+b
+#2   c  //a
+x  d
+#2    c /a
+x   c
+#2    a a
+x    c
+0     d4
+b
+b
+
+e

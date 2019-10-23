@@ -1,0 +1,245 @@
+-C
+-t
+-f
+{22b. Secourez-moi/Pierre Attaingnant}
+b
+c
+1
+1   c
+0  bc
+b
+#2  da
+x  a
+x  b
+x  d
+1. ab
+2  a
+b
+#2  b
+x  d
+1 a c
+1 ab
+1 aa
+b
+1 a c
+#2  d
+x  b
+1  da
+1  da
+b
+1 ab
+0     d
+1   cd
+b
+#2   cd
+x  a
+x  b d
+x  d
+1 a  c
+1   c
+b
+1   c
+1 a c
+1 a a
+1 a  c
+b
+
+b
+#2  da
+x  b
+x  a
+x  b
+#2  da
+x a
+x b  a
+x a
+b
+#2  da
+x  b
+x  ac
+x   c
+#2  a c
+x    a
+1  a c
+b
+0   c
+0     a
+b
+1
+1   c
+0  bc
+b
+#2  da
+x  a
+x  b
+x  d
+1. ab
+2  a
+b
+#2  b
+x  d
+1 a c
+1 ab
+1 aa
+b
+1 a c
+#2  d
+x  b
+1  da
+1  da
+b
+1 ab
+0     d
+1   cd
+b
+
+b
+#2   cd
+x  a
+x  b d
+x  d
+1 a  c
+1   c
+b
+1   c
+1 a c
+1 a a
+1 a  c
+b
+#2  da
+x  b
+x  a
+x  b
+#2  da
+x a
+x b  a
+x a
+b
+#2  da
+x  b
+x  ac
+x   c
+#2  a c
+x    a
+1  a c
+b
+1   c
+0.     a
+b
+1 a  c
+1 d
+1    c
+1 ca
+b
+1 ca
+1 a
+0    c
+b
+1 a c
+1 ab
+1 aa
+1 a c
+b
+
+b
+#2  d
+x  b
+1  da
+1  da
+1  b
+b
+0     d
+1   cd
+#2   cd
+x  a
+b
+#2  b d
+x  d
+1 a  c
+1   c
+1   c
+b
+1 a c
+1 a a
+1 a  c
+#2  da
+x  b
+b
+#2  a
+x  b
+#2  da
+x a
+#2 b  a
+x a
+#2  da
+x  b
+b
+#2  ac
+x   c
+#2  a c
+x    a
+1  a c
+1   c
+b
+0     a
+1   c
+1  bc
+b
+
+b
+.
+#3  d
+x  b
+x  a
+x  b
+#2  d d
+x  a
+#2  b
+x  d
+1 a  c
+b
+1   c
+1   c
+1 a c
+1 a a
+b
+1 a  c
+#2  da
+x  b
+#2  a
+x  b
+x  da
+x a
+b
+1 b  a
+1a
+#2  da
+x  b
+x  ac
+x   c
+b
+A1
+#2  a c
+x    a
+1  a c
+1   c
+1     a
+b
+A1
+A2
+1
+1   c
+1  bc
+.
+b
+b
+A2
+#2  a c
+x    a
+1  a c
+1   c
+Y.     a
+b
+b
+
+e

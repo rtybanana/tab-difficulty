@@ -1,0 +1,240 @@
+-C
+-t
+-f
+{Io vò gridando/Io vò gridando}
+b
+c
+0 dff d
+1 dff d
+1 dff d
+b
+0abb d
+0 dff d
+b
+1
+1 dff
+1 dff
+1  f
+b
+1  f
+1 dff d
+1 dff d
+1 dff d
+b
+1abb d
+1 b
+1 b
+1  b
+b
+0 dff d
+1cdda
+1cdda
+b
+1aabc
+1aabc
+1. ea c
+2aabc
+b
+1cdda
+1cdda
+1aabc
+1aabc
+b
+
+b
+2 efec
+#3 f
+x e
+#3 f
+x e
+x c
+x e
+1aa c a
+1 a c
+b
+1 ab
+1aabc
+1aa c
+1a  c
+b
+0 ab
+0  b d
+b
+1
+1 dff d
+1 dff d
+1 dff d
+b
+0abb d
+0abb d
+b
+0 dff
+1cdda
+1cdda
+b
+1aabc
+1aabc
+1. ea c
+2aabc
+b
+1cdda
+1cdda
+1aabc
+1aabc
+b
+#2 efec
+x f
+1 e
+2aac  a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+b
+
+b
+1   c
+1a d
+1a d
+1a d
+b
+0a  c
+1 cd
+1 dda
+b
+1 dda
+1 dda
+2 cdca
+#3 a
+x c
+#3 d
+x c
+x a
+x c
+b
+1 dda
+0 dda
+1 dda
+b
+1 cdca
+1 cdca
+2 acc a
+#3  d
+x  c
+#3  d
+x  c
+x  a
+x  c
+b
+0 cdca
+1 a c
+1a
+b
+1aabc
+1aabc
+#2 efec
+x f
+1 e
+b
+0aa c
+0cdda
+b
+
+b
+1cdda
+1cdda
+0acd a
+b
+0 ddef
+#2 dfec
+x dfec
+x dfec
+x dfec
+b
+1 ca b
+1 aa c
+#2  ee c
+x  f
+1  e
+b
+0 aa c
+#2 abc
+x abc
+x abc
+x abc
+b
+1 aab
+1 abc
+1. aa c
+2  d
+b
+0 acc
+#2aa c
+xaa c
+xaa c
+xaa c
+b
+1ca b
+1aabc
+#2 e ec
+x f
+1 e
+b
+0aa c
+0aa c
+b
+1 a c
+1 a c
+0 dda
+b
+
+b
+1 ab  d
+1  b
+1 a
+1 dff d
+b
+1 df  d
+1   f
+0 ddef
+b
+0 cdca
+#2 abc
+x abc
+x abc
+x abc
+b
+1 aab
+1 abc
+1. aa c
+2  d
+b
+0 acc
+#2acd a
+xacd a
+xacd a
+xacd a
+b
+1aa c e
+1acd a
+0aac  a
+b
+0 cdca
+#2 daa
+x daa
+x daa
+x daa
+b
+1 abc
+1abd a
+#2 e ec
+x f
+1 e
+b
+waacc
+b
+b
+
+e

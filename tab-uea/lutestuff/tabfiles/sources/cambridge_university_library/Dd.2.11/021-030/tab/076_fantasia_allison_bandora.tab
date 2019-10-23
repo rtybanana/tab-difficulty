@@ -1,0 +1,509 @@
+-C
+-t
+-f
+{76. Fantasy/Richard Allison}
+b
+c
+0 d
+0f
+b
+1f
+1b
+1d
+1f
+b
+1g
+2  a
+#3f
+xd
+#2bd
+xa
+xb
+xd
+b
+2fd
+#3d
+xf
+1g d
+#2f f
+xd
+xgd
+xf
+b
+#2de
+xf
+2g
+#3 d
+x  f
+2  d
+#3f f
+xd
+#2bd
+xdf
+b
+
+b
+#2fg
+xg
+xf
+xdf
+2bd a
+#3a
+xb
+#2a
+x d
+b
+2adc
+#3 b
+x d
+#2 b
+x a
+2 bc
+#3 d
+xa
+#3b  d
+x d
+xa
+xb
+b
+#2a a
+x d
+xb c
+xa
+#2 dd
+xa
+2b
+#3  c
+x  a
+b
+2b  d
+#3a a
+x d
+#2 bc
+x d
+#2a a
+x d
+1dda  a
+b
+2ddca
+#3b
+xd
+#2b
+xa
+#2bdca
+xa
+1 dd b
+b
+
+b
+1 ea d
+#2 dda
+x  c
+2d ab
+#3   a
+x    d
+#2d   b
+x    d
+b
+#2bd a
+xa
+xb
+xd  c
+1fd d
+1  f
+b
+#2gddf
+x f
+xfg d
+x d
+#2de b
+x d
+xdef d
+x  d
+b
+#3  ca
+xd
+xb
+xa
+#3 d
+xa
+xb
+xd
+#2fg
+x   a
+xf
+xh
+b
+1ig h
+#2 f
+x  h
+1i fh
+#2gd d
+xf
+b
+
+b
+#2g  f
+x f
+1fg h
+2d d  a
+#3b
+xa
+#3 d
+x b
+x d
+xa
+b
+#3b  a
+xa
+xb
+xd
+#3f
+xd
+xb
+xa
+#2bd a
+xa
+2 dd b
+#3 b
+x d
+b
+1 ea d
+#2 dda
+x  c
+#3d ab
+x  c
+x  d
+x  c
+#3  a
+x  c
+x  d
+x b
+b
+
+b
+#3 dca
+xa
+xb
+xa
+#3 d
+xa
+xb
+xd
+#3f  a
+x   c
+x   d
+x   c
+#3   a
+x   c
+x   d
+x  a
+b
+1fffh
+1bdd
+#2d
+x  d
+1fg h
+b
+2gg f
+#3 f
+x  h
+#2gg f
+x f
+1fgfd
+#2f  a
+xh
+b
+2ig h
+#3 f
+x g
+#2 f
+x  h
+1iffh
+#2gd d
+xf
+b
+1gddf
+1ff h
+#3  d
+xd
+xb
+xa
+#3 d
+xa
+xb
+xd
+b
+
+b
+1ff h
+1 g
+#2   a
+x f
+x d
+x   d
+b
+1ddac
+1 c
+1 dca
+#2c
+x    d
+b
+#2dda b
+xf   a
+1gdd  a
+1   a
+1fd ef
+b
+#2d a
+xb
+2  d
+#3a
+x d
+1adc
+1ac  a
+b
+#2 d a
+xa
+xb
+x d
+#2bd
+x  c
+1a c e
+b
+#2a  a
+x   c
+x d d
+x   a
+#2   d
+x d
+x c c
+xa
+b
+
+b
+#2c ca
+xd a
+xd ca
+xc
+2d a
+#3b c
+xa
+#2 dd
+xa a
+b
+#3 dd
+xa
+xb
+x d
+#3 bc
+x d
+xa
+xc
+#2d a
+xf
+xgd
+xde
+b
+#2gd
+x  a
+xf
+x  f
+2d d  a
+#3b   a
+xa
+#3 da b
+x  c
+x  d  a
+x  c
+b
+#3 da b
+x   d
+x   c
+x   a
+#2 d ca
+x c
+1 dca
+#2f
+x   c
+b
+
+b
+#2f  d
+x  a
+xf c
+x  d
+#2d f
+xf
+xgd
+x  a
+b
+#2 d
+xf
+xdd
+xb
+#2ab
+x d
+xde
+x  f
+b
+#2bd
+xd
+xf
+x d
+2.adc
+#4 c
+x d
+#2 c
+x a
+b
+#3 cc
+x a
+x c
+x d
+#3a c
+x d
+xa
+xc
+#2d a
+x  c
+x  d
+x  a
+b
+1d da
+#2  c
+x  a
+#2b ca
+x  a
+x  ca
+x  d
+b
+
+b
+#2 ea d
+x  d
+xd cb
+x  a
+1  da
+1  c
+b
+#2  c d
+x  a
+x da b
+xa
+1b c a
+1a
+b
+#2a    a
+x    a
+x d ab
+x   c
+1 d da
+#2 cac
+x  c
+b
+1 dda
+#2 bc
+x d
+#2 ea
+x  c
+x  d
+xb
+b
+#2dea
+xf
+xgd
+x  a
+#2f c
+x  d
+x  f
+xd
+b
+#2d
+x  d
+xd ca
+x  a
+#2c c
+x b
+1d a  a
+b
+
+b
+#2    d
+x   a
+xd ab
+x  c
+#2  d
+x   a
+1de  d
+b
+#2 d
+x     d
+1db b
+#2  d
+x   a
+1de  d
+b
+#2 da c
+x   d
+xdb cd
+x a a
+1db cd
+#2     a
+x b c
+b
+#2 a a
+x  c d
+1dda  a
+#2fg
+x  h
+xde
+x  f
+b
+#2cd a
+xd
+xf c
+x  d
+#2f fa
+xd
+xd
+x  d
+b
+#2d ca
+x  a
+xc c
+x b
+1daa  a
+#2    d
+x   a
+b
+
+b
+#2d ab
+x  c
+x  d
+x   a
+1de  d
+#2 d
+x     d
+b
+1db b
+#2  d
+x   a
+1de  d
+#2 da c
+x   d
+b
+#2db cd
+x   a
+1 b c
+#2     a
+x b c
+x a a
+x  c d
+b
+Yddeffa
+b
+b
+
+e

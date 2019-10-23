@@ -1,0 +1,215 @@
+-C
+-t
+-f
+{Courante/Courante}
+b
+S3
+2   c
+b
+.
+1   c d6
+1      //a
+1     a
+b
+1  fe
+1. ed&'
+2  f
+b
+1d&'a   a
+#2      6
+xd
+1  d   5
+b
+1  f   4
+1   cd ///a
+#2    a
+x  a
+b
+0 e&'    //a
+1    c
+b
+1   c d6
+1.   a&'a 5
+2 b
+b
+
+b
+1. a    4
+2  b
+1  d  c
+b
+1  f  d
+1.  d&' e
+2   f
+b
+1.  aa  a
+2     a
+#2      a
+x      /a
+b
+1  b   //a
+1   a&'
+#2    a
+x   a
+b
+1.aa   e
+2 a
+1 bU a
+b
+1     c
+1 a   d
+#2      4
+x b
+b
+1.    a&'ca
+2   a
+1   a c//a
+b
+
+b
+1   c a/a
+1    a&' a
+2
+#3     d
+x    a
+b
+A1
+1     d4
+1      a
+#2     d
+x   c
+.
+b
+b
+A2
+1     d4
+1      a
+#2     d
+x d
+b
+.
+1. d    4
+2    a
+1    c
+b
+#2ab  dU
+x    c
+1  a&' aX
+#2     d
+x  b
+b
+1.  a   a
+2     a
+#2      a
+x      /a
+b
+
+b
+1  b   //a
+1  d&'   ///a
+#2      4
+x  f
+b
+1  d&'   5
+1    a
+1   a
+b
+1  f   4
+1a&'     ///a
+#2    d
+x  a
+b
+1  b   6
+1    c
+#2   c
+x  a
+b
+1ac    ///a
+1.c&'d    5
+2c
+b
+1c     4
+1 a
+#2   a
+xd
+b
+
+b
+#2ca&U
+xaX
+1ac  a
+#2      ///a
+x d
+b
+1. d a  a
+2  d
+1  def
+b
+1  fU
+1a  ff
+#2    e
+x  dX
+b
+1  a   a
+#2      /a
+x  a
+1  ba  //a
+b
+1  de  ///a
+1  ff  4
+#2     a
+x  g
+b
+1.  d&'e  a
+#3   f
+x  d
+1   f a
+b
+
+b
+#2  bc  6
+x  a
+1aa   e
+#2    c
+x d
+b
+1. c  a
+2    c
+#2    a
+x     d
+b
+1  d  c
+1  bUc
+#2   a
+x  aX
+b
+1.  bc a
+2      a
+#2  bc  /a
+x      //a
+b
+#2      ///a
+x  a
+1  ab  //a
+#2    c
+x   c
+b
+A1
+#2   c
+x    c
+#2     d
+x      //a
+#2     a
+x d
+.
+b
+b
+
+b
+A2
+0.   c d6
+.
+b
+b
+
+e

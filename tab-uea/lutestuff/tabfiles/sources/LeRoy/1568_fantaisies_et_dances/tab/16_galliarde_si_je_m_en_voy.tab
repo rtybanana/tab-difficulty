@@ -1,0 +1,211 @@
+-C
+-t
+-f
+{16. Galliarde - Si je m'en voy/16. Galliarde - Si je m'en voy}
+b
+1 bdca
+b
+1. bdca
+2 a
+1 bdca
+b
+1 bdca
+1 dba d
+1 dba
+b
+1.abb d&{
+2 a
+#2 b
+x d   }
+b
+1abb d
+1abb
+1bbdd
+b
+1abb d&{
+#2 d
+x b   }
+1 db c
+b
+1 bd a
+1 bba d
+1 aba d
+b
+1.abb d
+2 a  {
+#2 b
+x d   }
+b
+1abb d
+1   c
+1 bd a
+b
+1 bd a
+#2   c{
+x a   }
+1 bd a
+b
+
+b
+#2 a  a
+x b
+#2 db  d
+x a   {
+#2 b
+x d
+b
+1.abb d
+2 a  {
+#2 b
+x d   }
+b
+1abb d
+1abb
+1bbdd
+b
+1abb d
+#2 d
+x b
+#2 db
+x    c
+b
+#2    a
+x bd
+#2 ab  d&{
+x b
+#2 d
+x a
+b
+#2 bb d&{
+x a
+#2 b
+x d
+#2a
+xb     }
+b
+1abb d
+1abb
+#2 b
+x d
+b
+1.abb d
+2 d  {
+#2a
+xc    }
+b
+
+b
+1dbb d
+1cb  d
+1abb d
+b
+1. db  d&{
+2 db
+1   a  }
+b
+#2 ab  d&{
+x b    }
+1 db  d
+#2a
+x d
+b
+1 bd a
+#2   c{
+x a
+#2 b
+x d   }
+b
+1 bdca
+1 aba d
+1  da c
+b
+1aac  a
+#2   c {
+x  d
+#2  c
+x  a   }
+b
+#2 acc a
+x  d  {
+#2 a
+x  c   }
+#2  d  a
+x a
+b
+1.abb d
+2 d  {
+#2a
+xc    }
+b
+1dbb d
+1cb  d
+1abb d
+b
+
+b
+1. db  d&{
+2 db
+1   a  }
+b
+1 db  d
+1 db  {
+#2a
+x d    }
+b
+1 bdd {
+#2   d
+x a
+1 bdd
+b
+#2   d
+x d
+1aad  a
+#2aac  a
+x d
+b
+1 cd a
+#2   c{
+x d
+#2 c
+x a   }
+b
+1 cd a
+1   c
+#2a
+x d
+b
+1 bd  b&{
+#2   d
+x a    }
+1 bd  b
+b
+#2   d
+x d
+#2aa c a
+xc
+#2a
+x d
+b
+
+b
+#2    a
+x cd {
+#2   c
+x d
+#2 c
+x a   }
+b
+A1
+1 cd a
+1   c
+1 bdca
+.
+b
+b
+A2
+1 cd a
+Y   c
+b
+b
+
+e

@@ -1,0 +1,407 @@
+-C
+-t
+-f
+{/}
+b
+0 da a a
+1 da   a
+b
+0a d   /a
+1a d   /a
+b
+0cda   //a
+1 dc   //a
+b
+0acd   ///a
+1acd   ///a
+b
+0acd   5
+1 cd   5
+b
+1cad   4
+1a b
+1 d c  4
+b
+0 da   ///a
+1 cb   ///a
+b
+1 da   7
+1. da   a
+2 cd  a
+b
+0 da   a
+1ca    a
+b
+0aa    /a
+1a d   /a
+b
+0 ada  //a
+1 dc
+b
+0 cd   ///a
+1acd   ///a
+b
+0 da   5
+1cdd   5
+b
+
+b
+1cad   4
+1a b
+1 da   4
+b
+0 da   ///a
+1 cb   ///a
+b
+0. da a a
+b
+0\1da a
+1ea
+b
+0\4f\3f  e
+1fc
+b
+0da  c
+1ed
+b
+0fc  a
+1 cdc
+b
+0 dd  c
+1 cd
+b
+0 aa  d
+1 a c
+b
+0 cbca
+1 da
+b
+0. da a a
+b
+0 daa
+1 daa
+b
+0aa  e
+#2c d e
+xa
+b
+0 da c
+1 dc c
+b
+0 cdca
+1 aa a
+b
+
+b
+0 bd  c
+1 bd  c
+b
+0 ab  d
+1 da  d
+b
+0 cdca
+1ac  a
+b
+0.cdda
+b
+0 da   a
+1 da   a
+b
+0a d   /a
+1a d   /a
+b
+0cdd   //a
+1cdc
+b
+0acd   ///a
+1acd   ///a
+b
+0 dd   5
+1 dd   5
+b
+1 ad   4
+1  b
+1ac    4
+b
+0acd   ///a
+1 ddc  ///a
+b
+0. \4d&{a a a
+b
+0 da a a
+1 dd  \1c
+b
+0 \2c&}\3d\1ca
+1a d \4e
+b
+0 \3d\2c \1c
+1 aca
+b
+
+b
+0 cde
+1 cd  c
+b
+0 da a a
+1 da c
+b
+0 a c d
+1aab  a
+b
+1a d e
+1    a
+1 d
+b
+0. da a a
+b
+0cdd   a
+1cdd   a
+b
+0a d   /a
+1a d   /a
+b
+0 da   //a
+1 dc   //a
+b
+0 cdc  ///a
+1acd   ///a
+b
+0 dd   5
+1 cd   5
+b
+0 a \1c  4
+1 \2c\3d   4
+b
+0 \1c\2d\3e  ///a
+1 \1c\2dc  ///a
+b
+0. da a 7
+b
+0 da a
+1 c ca
+b
+0 bd c
+1da  c
+b
+
+b
+0da  e
+1cfd e
+b
+0cf a
+1fdaa
+b
+0fda
+1fca
+b
+0da c
+1dc c
+b
+0cdda
+1aaba
+b
+0acd
+1
+b
+0cdd   a
+1ca    a
+b
+0acd   /a
+1 cd   /a
+b
+0 df&U   //a
+1  c&Xa  //a
+b
+0 cdc  ///a
+1 cdc  ///a
+b
+0 dd   5
+1 dd   5
+b
+0 a c  4
+1aa c  4
+b
+0acd   ///a
+1 d c  ///a
+b
+0. da   7
+b
+0cdd   a
+1cdd   a
+b
+
+b
+0ace   /a
+1ace   /a
+b
+0cdf   //a
+1ed    //a
+b
+0fc    ///a
+1fc    ///a
+b
+0 dd   5
+1 ed   5
+b
+1aab   4
+1 ea
+1a b   4
+b
+0 ca   ///a
+1 cb   ///a
+b
+0. ddd  a
+b
+b
+0bdda
+1bdda
+b
+0b d d
+1b d d
+b
+0a\4d\3d b
+#2 \2cb b
+x \4d
+b
+0a\2c&{\3d a
+1 c&}d a
+b
+0 \4dd  \2c&{
+1 \1b\4da c
+b
+0  ea d
+1 \4d&( \3d d&}
+b
+0ad\1b a
+1 \4d\1bca
+b
+0. d\3d&{\2d  a
+b
+
+b
+0\1bdda
+1\1b ea
+b
+0a e\4f\2d
+1 bdc\3d
+b
+0 \4d&{ \3d&(\1b
+1 d&} d&)b
+b
+0 bdda
+1 bdda
+b
+0 \3d&{e  \1c&(
+1 d\2d  c&)
+b
+0 d\4e&(  \2d
+1\1bd&}e  d
+b
+0a\2c\1b a
+1 dd&{ca
+b
+0. ddd  a
+b
+0bdda
+1bdda
+b
+0cdd d
+1cdd d
+b
+0dd  b
+1bdd b
+b
+0ac  a
+1aa  a
+b
+0 \1b\3d&{a \2c&(
+1  d&}  c&)
+b
+1 a\4da \3d&{
+1  bc
+1b d  d&}
+b
+0\4d\3d \1ca
+1d\2c  a
+b
+
+b
+0.bdd   a
+b
+0bdda
+1bdda
+b
+0a d d
+1a b d
+b
+0ad\2b \1b
+1b   b
+b
+0bdd a
+1ac  a
+b
+0a\3d&{\2d  \1c&(
+1add  c&)
+b
+0ad\4e&(  \2d
+1ad&}e  d
+b
+0ad\2d a
+1 cb a
+b
+0. da   a
+b
+b
+0\2c \3d   a
+1c d   a
+b
+0a d   /a
+1a b   /a
+b
+0 da   //a
+1 ac   //a
+b
+0 cdc  ///a
+1acd   ///a
+b
+0 dd   5
+1 cd   5
+b
+0 adc  4
+1 da   4
+b
+
+b
+0 ddc  ///a
+1 cb   ///a
+b
+0. da   7
+b
+0cdd   a
+1da    a
+b
+0aa    /a
+1a d   /a
+b
+0 ada  //a
+#2 ccc  //a
+x d
+b
+0 cdc  ///a
+1acd   ///a
+b
+0 dd   5
+1 bd
+b
+0adf   4
+1adf   4
+b
+0adb   ///a
+1ccd   ///a
+b
+1 da a 7
+Y da a
+b
+b
+
+e

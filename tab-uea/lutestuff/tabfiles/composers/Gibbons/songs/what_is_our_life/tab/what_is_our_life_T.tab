@@ -1,0 +1,607 @@
+-C
+-t
+-f
+{What is our life?/What is our life?}
+b
+c
+w aa c
+b
+1  a
+1  a
+0 d&U
+b
+1
+#2 c
+x a
+0 c
+b
+1  a
+1 a
+0 a
+b
+0   eec
+0  e
+b
+1 aa c /a
+1    c
+0 ab
+b
+1   c
+#2  a
+x   c
+0c de
+b
+1   bc
+#2  b
+x  a
+1a bc  /a
+1  d
+b
+1  fec
+#2 d
+x c
+0 dfe  /a
+b
+
+b
+1 cee c
+#2     c
+x c
+0 aaa
+b
+1    c
+#2    e
+x    c
+1 cdce
+1  c c
+b
+0 ca b
+0 aaac
+b
+1  e ec
+1  fa
+1 c   c
+1  e
+b
+0  a  c
+0 aaa
+b
+1  ee c
+1  f
+1   c
+1  e
+b
+0 aaa  /a
+0 ac
+b
+0 ce ec
+0 fee
+b
+w dfec
+b
+0 cee
+0   c
+b
+0caaa
+0  c
+b
+0  ece
+1a
+1  e
+b
+
+b
+0 dfec
+1      /a
+1 a
+b
+0 dcc a
+0 cdc
+b
+1 ad  a
+1 a
+0acc  a
+b
+1  e  c
+1 c
+1cdf
+1     e
+b
+1cca b
+1    c
+1aca
+1  a b
+b
+1. dfec
+2    a
+#2aa   e
+x     c
+1a c  a
+b
+1 cd  c
+#2c
+x     a
+#2 da   a
+xa     /c
+1cdf   /a
+b
+1acf  a
+1 a
+#2 ce  c
+x  f
+xcc   c
+x  e
+b
+
+b
+1 efe  /a
+#2    c
+x e
+1aab  a
+1 a
+b
+1 c ca
+1  d a
+#2   a
+x  b
+xcd e
+x   ce
+b
+#2cd ac
+x c
+xcdf
+x  d
+#2dab
+x c
+1 df
+b
+1a d
+1fcd
+#2 d a
+xd
+xcd
+x   c
+b
+#2  a
+x c
+1aab
+1cda
+#2cce  c
+x   e
+b
+1 aaac
+1      /a
+1 dd   a
+1a     /c
+b
+1 dd   /a
+#2aac
+x   c
+1 da  c
+1 cdca
+b
+
+b
+1 a
+1a    e
+1 cdca
+1a
+b
+1a b c
+1 ea   /a
+1aa c a
+#2a b
+x  d
+b
+1da  c
+1c da
+#2a
+x  b
+x   ce
+xa
+b
+1  def
+1 db c
+1 ddca
+#2 c
+x   c
+b
+1 daa
+1      a
+1      /a
+1 daa  /a
+b
+1 ab  a
+1 a
+1a b
+1     a
+b
+1a  c a
+1   c
+0 dd  c
+b
+1 c  a
+1  d
+1ca ac
+1   c
+b
+0c ee c
+1   e
+1 ac
+b
+
+b
+1 ce  c
+1   c
+1 daac
+1a
+b
+0cce  c
+0 da c
+b
+0 ca b
+1c e  c
+1 a   e
+b
+0cca b
+1cd ec
+1  c
+b
+1 cece
+1 c
+0 aaa
+b
+1 cbc
+1 c
+0cdee
+b
+0  ff
+1ac
+1 a
+b
+1cdee
+#2 cf
+x a
+#2 c
+x  f
+1ccee
+b
+1cd
+1ef
+1f d
+1fc   c
+b
+1ddf  d
+1df c a
+1cce  c
+#2 c e
+x     a
+b
+
+b
+1 da   a
+1aac  a
+1acd a
+#2 c
+x  b
+b
+1cda
+1 db c
+1a  c d
+1ac ca
+b
+1cd a  a
+#2  de
+x   a
+1 da c
+1  def
+b
+1a  ff
+#2  d e
+xa  c
+1  def
+1fd e
+b
+1ha f
+1da c
+1ccfe
+#2  e  c
+x   c
+b
+1 a a d
+1 abc a
+1   eec
+#2  e
+x     c
+b
+w aab  /a
+b
+0
+0 dde  a
+b
+w dde  a
+b
+0 daa
+0a bcd
+b
+0a
+0 dc c
+b
+
+b
+0 cdca
+0 da  c
+b
+0 ddca
+1 cd
+1   c
+b
+1 db cd
+1 d
+1aab
+1    a
+b
+1aaa c
+1 c
+1 da c
+1 a
+b
+1 c ea
+1  d
+1 dbc
+1   a
+b
+0  dc
+0 cd a
+b
+0 dda
+1c
+1 a
+b
+0ac  e
+0 da c
+b
+0cca
+1  a b
+1ac
+b
+1 da c
+1 a
+1h
+1  h a
+b
+
+b
+1hf   e
+1h
+1fc  a
+1  d
+b
+0 a c
+0df   a
+b
+1cfd  c
+1 d
+1 d
+1     d
+b
+0add a
+1ac
+1 a
+b
+1a d a
+1 d
+1 d   d
+1     c
+b
+0   ca
+0 cd
+b
+1c da
+#2  b
+x  a
+1  f
+#2a   e
+x d  c
+b
+1 cfe
+1  d
+1 d
+#2   c
+x   a
+b
+1  d
+#2 c
+x a
+1 c
+#2  b
+x  a
+b
+
+b
+0. df
+#2a d
+x  b
+b
+0.cd
+1ac
+b
+0. df
+1 cd
+b
+1 ab
+1 a
+1 a
+#2 cde
+x  bc
+b
+1 dda
+#2  a
+xa
+1c a
+1  cc
+b
+1ccee
+#2aa
+x d
+1 cfe
+1cce  c
+b
+0 efec
+1 a c e
+1 c ca
+b
+1    a
+1a dcd
+1 efec
+1      /a
+b
+0aa c a
+0  b
+b
+1  a   /a
+1 a ac
+1 ce  c
+1   e
+b
+
+b
+1  ff
+1a  c
+1. df
+2a
+b
+1c ee
+1 c   c
+1 a c d
+1a b  a
+b
+1 d ec
+1c f
+1 cd  c
+1cd
+b
+1add a
+1 c
+1 da   a
+1  de
+b
+1. \2c\4d  \1c
+2  \1b  \3d
+1  a a
+1 d cc
+b
+#2 ca  a
+x a
+x a   a
+x   c
+1    ec
+1 ce e
+b
+1. dfec
+2 cd
+1 df
+1 cee
+b
+1. af
+2  d
+1  b
+1 ca
+b
+
+b
+1a bc
+#2 a
+x d
+1ac c
+#2  f
+x d
+b
+1 cee
+1  f
+1cc e
+#2  e  c
+xa
+b
+1. dfec
+2 c  a
+#2 a  c
+x    e
+x  aa
+x  d c
+b
+1 cc \2e
+#2   \3e
+x  \4f
+1 ce
+#2  cde
+x a
+b
+1  ee
+#2 c
+x  cc
+1c ab
+#2  e e
+xa
+b
+1 ef c
+#2 c
+x    a
+1 a   d
+#2 c e c
+x e
+b
+1.aa   a
+2  d
+1  b
+1 dfe
+b
+
+b
+1ac c a
+#2  f
+x d
+1ac
+1 a a
+b
+1  e ec
+1 df c
+1 ce  c
+1 ce
+b
+1. a a d
+2  d
+1  bc
+1  a
+b
+1 c ca
+1   c
+1 da a
+1  b
+b
+0 ddca
+0 c
+b
+0 da   a
+1  d
+1      /c
+b
+1 aaa  /a
+1    c
+1 da a
+1a b cd
+b
+1c d ec
+1cd e
+1dc c a
+1 a
+b
+0cfe  c
+1  ee
+1c
+b
+wca b  /a
+b
+b
+
+e

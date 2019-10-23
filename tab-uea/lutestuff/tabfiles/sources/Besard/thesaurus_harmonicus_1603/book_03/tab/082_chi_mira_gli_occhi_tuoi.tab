@@ -1,0 +1,136 @@
+-C
+-t
+-f
+{82. Chi mira gli occhi tuoi/82. Chi mira gli occhi tuoi}
+b
+c
+1.
+2ffhh
+#2ffhh
+xffhh
+xdf c
+xdf c
+b
+.
+2.cdf c
+3    e
+#3   a
+x   c
+x  a
+x  c
+#2acd
+x    a
+2fc e
+#3     c
+xe   e
+b
+#2cdda
+xac ca
+xaacc
+x  c  a
+2 cdca
+#3a
+x  c
+2fc e
+#3     c
+xe   e
+b
+#2cdda
+xacdca
+2.aadc
+3  c
+#3  d
+x  c
+x  a
+x  c
+b
+
+b
+A1
+1.acdca
+2ffhh
+#2ffhh
+xffhh
+xdf c
+xdf c
+.
+b
+b
+A2
+2acdca
+#3a
+x d
+#2 cd
+x ac
+#2fc e
+xea c
+xca a
+xacc e
+b
+2 cd a
+#3 a c
+x  c
+2.acd
+3c
+2acd
+#2aac
+xcaa
+xea c
+b
+2.fcd a
+3 a
+#4  d
+x  c
+x  a
+x  c
+#4  d
+x a
+x c
+x e
+#2ef c
+x f
+xacd a
+x  d
+b
+
+b
+#2c da
+x   c
+x   a
+x    e
+#2cdf c
+x  f
+2ac  e
+#3  d
+x   a
+b
+#3aadc
+x  c
+x  d
+x  c
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+3.acd a
+4 a
+#4  d
+x  c
+x  a
+x  c
+#4  d
+x a
+x c
+x d
+#4 f
+x d
+x c
+x a
+b
+Yacdca
+b
+b
+
+e

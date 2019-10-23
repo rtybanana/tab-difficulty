@@ -1,0 +1,189 @@
+-C
+-t
+-f
+{13b. De retourner/13b. De retourner}
+b
+c
+0  da
+#2  def
+x   c
+x  de
+x  b
+b
+#2  da
+x  a
+1. bb d
+2 aa
+#2  dc
+x  ba
+b
+1  dca
+1  dca
+1  aa
+1  da
+b
+1 a  c
+#2 a a
+x    e
+1  def
+1 aa c
+b
+#2  bc
+x  d
+x a
+x c
+#2 dda
+xa
+1   a
+b
+#2 ab
+x    a
+x    c
+x    e
+#2  dca
+x a
+x  d
+x  b
+b
+
+b
+#2   ca
+x  a
+1. ab  d
+2  a c
+#2  bcc
+x   a
+b
+1  dca
+1   c
+0  def
+.
+b
+b
+#3  d
+x  b
+x  a
+x   c
+0 dda
+1  def
+b
+#2 ab  d
+x  a
+x   c
+x   a
+#2  dca
+x     d
+x    a
+x    c
+b
+#2  dca
+x   a
+#3   c
+x   a
+x    e
+x    c
+#2 c ca
+x  d
+x a
+x c
+b
+#2 dda
+x  b
+x  d
+x a
+1 a c
+1 cb
+b
+
+b
+1 dda
+1 a   d
+#2 d
+x  b
+x cd a
+x  a
+b
+1 db c
+1 c  e
+#2  def
+x    e
+x    f
+x  b
+b
+#2   e
+x   c
+1 dda
+1 dda
+1 abc
+b
+1 aa c
+1  dce
+1 aa c
+#2  b  d
+x c
+b
+1 dda
+1    e
+#2aa c
+x   a
+1aa c
+b
+1 cd a
+1 d a
+1 d
+1 dda
+b
+.
+1 cd a
+#2  d
+x a
+1 c
+1 a  c
+b
+
+b
+1 a  c
+1 aa c
+#2 ab  d
+x    a
+x ab c
+x    e
+b
+#2  def
+x   ce
+x d ac
+x    ef
+#2 d ac
+x   c
+x  aac
+x  b
+b
+1  dca
+1  b d
+#2    c
+x  a
+x  bc
+x   a
+b
+A1
+1  dca
+1  dca
+0  def
+b
+A1
+A2
+1
+1 d a
+1 d
+1 dda
+.
+b
+b
+A2
+1  dca
+1  dca
+Y  def
+b
+b
+
+e

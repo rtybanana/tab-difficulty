@@ -1,0 +1,139 @@
+-C
+-t
+-f
+{O Villanella/O Villanella}
+b
+#2 dba d
+x dba d
+x dba d
+1 dda  a
+2 dba d
+b
+1abb d
+2 dda  a
+1 bdd b
+2 aba d
+b
+1  def
+2  def
+#2 aba d
+x aba d
+x aba d
+b
+1 dda  a
+2 dba d
+1abb d
+2abb d
+b
+1abb d
+2abb d
+1 dba d
+2 dba d
+b
+b
+c
+1 dba d
+#2 dba d
+x da c
+1acd a
+#2acd a
+x dda  a
+b
+#2
+xcdd   a
+xaabc a
+xabb d
+1 dda
+1 dda
+b
+b
+
+b
+1
+2
+1
+2
+b
+#2 dba d
+x dba d
+x dba d
+1 dba d
+2 dba d
+b
+2.abb d
+3 dda
+2 bdd b
+2 aba d
+#3  d f
+x   f
+2   e
+b
+b
+c
+1 aba d
+1 bb d
+2 bb d
+1 dba d
+2 dda  a
+b
+#2 cd a
+x cd a
+1 dda  a
+1 dba d
+2.abb d
+3 dda  a
+b
+#2 bdd b
+x aba d
+#3  d f
+x   f
+2   e
+0 aba d
+b
+b
+1
+2
+1
+2
+b
+
+b
+#2 dba d
+x dba d
+x dba d
+1 dba d
+2 dba d
+b
+2.abb d
+3 dda
+2 bdd b
+2 ab  d
+#3  d f
+x   f
+2   e
+b
+b
+c
+1 ab  d
+1 bb d
+2 bb d
+1 dba d
+2 dda  a
+b
+#2 cdca
+x cd a
+1 dda  a
+1 db  d
+2.abb d
+3 dda  a
+b
+#2 bdd b
+x ab  d
+#3  d f
+x   f
+2   e
+0 aba d
+b
+b
+
+e
