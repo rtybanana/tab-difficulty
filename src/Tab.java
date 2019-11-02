@@ -3,24 +3,41 @@ import java.util.ArrayList;
 class Tab {
     private String name;
     private int grade;
-    private ArrayList<String> lines;
+    private ArrayList<String> events;
+    private int numberOfBars;
 
-    public Tab(String name, ArrayList<String> lines, int grade){
+    public Tab(String name, ArrayList<String> events, int grade){
         this.name = name;
         this.grade = grade;
-        this.lines = lines;
+        this.events = events;
     }
 
     public String getName() {
         return name;
     }
 
-    public ArrayList<String> getLines() {
-        return lines;
+    public ArrayList<String> getEvents() {
+        return events;
     }
 
     public int getGrade() {
         return grade;
+    }
+
+    public int getNumberOfBars() {
+        int bars = 0;
+        boolean potentialBar = false;
+        for (String line : events) {
+            if (potentialBar) {
+                if (!(line.charAt(0) == 'b' || line.equals("B") || line.charAt(0) == 'e')) {
+                    bars++;
+                    potentialBar = false;
+                }
+            }
+            else if (line.charAt(0) == 'b' || line.equals("B")) potentialBar = true;
+        }
+
+        return bars;
     }
 
     public int getStretch(){

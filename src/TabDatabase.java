@@ -1,11 +1,15 @@
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+import weka.classifiers.Classifier;
+import weka.classifiers.bayes.NaiveBayes;
+import weka.core.Instance;
+import weka.core.Instances;
+
+import java.io.*;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.ArrayList;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import java.util.Arrays;
+import java.util.Collections;
 
 import static java.nio.file.FileVisitResult.CONTINUE;
 import static java.nio.file.FileVisitResult.SKIP_SUBTREE;
@@ -14,13 +18,44 @@ import static java.nio.file.FileVisitResult.SKIP_SUBTREE;
  *
  */
 public class TabDatabase {
-    private ArrayList<Tab> tabs;
+    private ArrayList<ArrayList<Tab>> tabs;
+    public Learner learner;
 
     public TabDatabase() {
         this.tabs = new ArrayList<>();
+        for (int grade = 0; grade < 8; grade++) {
+            tabs.add(new ArrayList<>());
+        }
+        this.learner = new Learner("ARFFs\\");
     }
 
-    /** createDatabase -
+    public ArrayList<Tab> getTabs() {
+        ArrayList<Tab> list = new ArrayList<>();
+        for (ArrayList<Tab> grade : tabs) {
+            list.addAll(grade);
+        }
+        return list;
+    }
+
+    public Tab getTab(int grade, int index) {
+        if (tabs.get(grade).size() > index) return tabs.get(grade).get(index);
+        else return null;
+    }
+
+    public int size() {
+        int size = 0;
+        for (ArrayList<Tab> grade : tabs) {
+            size += grade.size();
+        }
+        return size;
+    }
+
+    public int size(int grade) {
+        return tabs.get(grade - 1).size();
+    }
+
+
+    /** createDatabase
      * Given a root folder containing folders named 'grade1' through 'grade8' which contain pieces in tab format, this
      * function will walk through each of the folders, construct a Tab object from each of the pieces and add it to the
      * database so that it can be processed into training data for the Naive Bayes Classifier later.
@@ -35,15 +70,6 @@ public class TabDatabase {
         } catch(IOException e) {
             System.out.println(e.getMessage());
         }
-    }
-
-    public Tab getTab(int index){
-        if (tabs.size() > index) return tabs.get(index);
-        else return null;
-    }
-
-    public int size(){
-        return tabs.size();
     }
 
     private class TabFileVisitor implements FileVisitor<Path> {
@@ -81,11 +107,11 @@ public class TabDatabase {
                     }
                 }
             } catch(IOException e){
-                System.out.println(e.getMessage());
+                System.err.println(e.getMessage());
             }
 
             Tab tab = new Tab(name, lines, grade);
-            tabs.add(tab);
+            tabs.get(grade - 1).add(tab);
 
             return CONTINUE;
         }
@@ -98,6 +124,95 @@ public class TabDatabase {
         @Override
         public FileVisitResult postVisitDirectory(Path dir, IOException exc) {
             return CONTINUE;
+        }
+    }
+
+    public class Learner {
+        private String trainPath;
+        private String testPath;
+
+        public Learner(String path){
+            this.trainPath = path + "train\\";
+            this.testPath = path + "test\\";
+        }
+
+        private void writeARFF(String path, String content){
+            try (Writer ARFFWriter = new BufferedWriter(new OutputStreamWriter(
+                    new FileOutputStream(path, true), StandardCharsets.UTF_8))) {
+                ARFFWriter.write(content);
+            } catch (IOException e) {
+                System.err.println(e.getMessage());
+            }
+        }
+
+        private void writeARFF(String path, String content, boolean replace){
+            try (Writer ARFFWriter = new BufferedWriter(new OutputStreamWriter(
+                    new FileOutputStream(path, !replace), StandardCharsets.UTF_8))) {
+                ARFFWriter.write(content);
+            } catch (IOException e) {
+                System.err.println(e.getMessage());
+            }
+        }
+
+        private Instances readARFF(String path){
+            try {
+                FileReader reader = new FileReader(path);
+                return new Instances(reader);
+            } catch (IOException e){
+                System.err.println(e.getMessage());
+                return null;
+            }
+        }
+
+        public void testLearner(String relation) throws Exception {
+            String fileName = relation + ".arff";
+            Instances train = readARFF(this.trainPath + fileName);
+            Instances test = readARFF(this.testPath + fileName);
+//            System.out.println(train.numInstances());
+//            System.out.println(train.numAttributes());
+//            System.out.println(Arrays.toString(train.instance(4).toDoubleArray()));
+            if (train == null || test == null){
+                return;
+            }
+
+            train.setClassIndex(train.numAttributes() - 1);
+            test.setClassIndex(test.numAttributes() - 1);
+            System.out.println(train.classIndex());
+
+            Classifier naiveBayes = new NaiveBayes();
+            naiveBayes.buildClassifier(train);
+
+
+            for (Instance t : test){
+                System.out.println("actual: " + t.toString(1) + "classification: " + (naiveBayes.classifyInstance(t) + 1));
+            }
+
+        }
+
+        public void createNumberOfBarsARFF() {
+            String fileName = "numberOfBars.arff";
+            String header = "@relation numberOfBars\n\n" +
+                            "@attribute bars NUMERIC\n" +
+                            "@attribute grade {1,2,3,4,5,6,7,8}\n\n"+
+                            "@data\n";
+
+            writeARFF(trainPath + fileName, header, true);
+            writeARFF(testPath + fileName, header, true);
+
+            for (ArrayList<Tab> grade : tabs) {
+                int trainAmount = (int) (grade.size() * 0.7);
+                System.out.println(grade.size() + ", " + trainAmount);
+                Collections.shuffle(grade);                                 //shuffle to get different train and test data
+                for (int i = 0; i < grade.size(); i++){
+                    Tab t = grade.get(i);
+                    if (i < trainAmount) {
+                        writeARFF(trainPath + fileName,t.getNumberOfBars() + ", " + t.getGrade() + "\n");
+                    }
+                    else {
+                        writeARFF(testPath + fileName, t.getNumberOfBars() + ", " + t.getGrade() + "\n");
+                    }
+                }
+            }
         }
     }
 }
