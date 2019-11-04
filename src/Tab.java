@@ -6,7 +6,7 @@ class Tab {
     private int grade;
     private ArrayList<String> events;
     private int courses;
-    private static final Character[] NOTE_EVENTS = {'0', '1', '2', '3', '4', '5', 'x', 'w', 'W', '#'};
+    private static final Character[] NOTE_EVENTS = {'0', '1', '2', '3', '4', '5', 'x', 'w', 'W', '#', 'Y', 'y'};
     private static final Character[] FRETTED_NOTES = {'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'n', 'o', 'p'};
 
     public Tab(String name, ArrayList<String> events, int grade, int courses){
@@ -29,6 +29,8 @@ class Tab {
     }
 
     public int getCourses() { return courses; }
+
+    public String toString() { return this.name; }
 
     /**
      * TODO unfinished method
@@ -70,27 +72,29 @@ class Tab {
      *               = 187                             |      = 238
      */
     public double[] getStretch(){
-        int totalNoteEvents = 0;
+        int totalChordEvents = 0;
         double[] stretchProportion = {0, 0, 0, 0, 0, 0, 0};
         for (String event : events) {
-            //System.out.println(event);
-            int lowestFret = 100;         //larger than any fret number on a guitar
-            int highestFret = 0;                        //lower than any fret number
+            int lowestFret = 100;                       //larger than any fret number on a guitar
+            int highestFret = 0;                        //lower than any fret number on a guitar
             if (isNoteEvent(event)) {
-                totalNoteEvents++;
+                int fingers = 0;
                 for (char c : event.toCharArray()) {
                     int fret = (int)c - 97;
-                    if (fret > 0 && fret < 15) {                            //in range for the program fret values
+                    if (fret > 0 && fret < 15) {                            //in range for fretted notes
+                        fingers++;
                         if (fret < lowestFret) lowestFret = fret;
                         if (fret > highestFret) highestFret = fret;
                     }
                 }
-                if (lowestFret == 100) lowestFret = 0;
-                stretchProportion[highestFret - lowestFret]++;
+                if (fingers > 1) {
+                    totalChordEvents++;
+                    stretchProportion[highestFret - lowestFret]++;
+                }
             }
         }
         for (int i = 0; i < stretchProportion.length; i++) {
-            stretchProportion[i] /= totalNoteEvents;
+            stretchProportion[i] /= totalChordEvents;
         }
         return stretchProportion;            //stretch
     }

@@ -20,7 +20,7 @@ import static java.nio.file.FileVisitResult.SKIP_SUBTREE;
 public class TabDatabase {
     private ArrayList<ArrayList<Tab>> tabs;
     public Learner learner;
-    private static final double TRAINING_PROPORTION = 0.7;
+    private static final double TRAINING_PROPORTION = 0.8;
 
     public TabDatabase() {
         this.tabs = new ArrayList<>();
@@ -268,7 +268,7 @@ public class TabDatabase {
                                 t.getGrade() + "\n");
                     }
                     else {
-                        writeARFF(testPath + fileName,stretch[0] + ", " + stretch[1] + ", " +
+                        writeARFF(testPath + fileName, stretch[0] + ", " + stretch[1] + ", " +
                                 stretch[2] + ", " + stretch[3] + ", " + stretch[4] + ", " + stretch[5] + ", " +
                                 t.getGrade() + "\n");
                     }
