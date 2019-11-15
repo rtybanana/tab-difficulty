@@ -12,9 +12,11 @@ public class Main {
 
         tabdb.learner.createNumberOfBarsARFF();
         tabdb.learner.createChordStretchARFF();
+        tabdb.learner.createDiscreteChordsARFF();
         try {
             tabdb.learner.testLearner("numberOfBars");
             tabdb.learner.testLearner("chordStretch");
+            tabdb.learner.testLearner("discreteChords");
         } catch (Exception e) {
             System.err.println(e.getMessage());
         }
@@ -23,10 +25,11 @@ public class Main {
 
         //System.out.println(tabdb.size());
 
-//        Tab tab8 = tabdb.getTab(8, 6);
+//        Tab tab8 = tabdb.getTab(8, 5);
 //        System.out.println("name: " + tab8.getName());
 //        System.out.println("grade: " + tab8.getGrade());
-//        System.out.println(Arrays.toString(tab8.getStretch()));
+//        System.out.println(tab8.getDiscreteChords());
+
 //
 //        Tab tab1 = tabdb.getTab(7, 2);
 //        System.out.println("name: " + tab1.getName());

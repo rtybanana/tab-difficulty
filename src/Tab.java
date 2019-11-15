@@ -1,19 +1,20 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 
 class Tab {
     private String name;
     private int grade;
     private ArrayList<String> events;
-    private int courses;
+//    private int courses;
     private static final Character[] NOTE_EVENTS = {'0', '1', '2', '3', '4', '5', 'x', 'w', 'W', '#', 'Y', 'y'};
-    private static final Character[] FRETTED_NOTES = {'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'n', 'o', 'p'};
+    private static final Character[] CHORD_CHARS = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'n', 'o', 'p'};
 
-    public Tab(String name, ArrayList<String> events, int grade, int courses){
+    public Tab(String name, ArrayList<String> events, int grade){
         this.name = name;
         this.grade = grade;
         this.events = events;
-        this.courses = courses;
+//        this.courses = courses;
     }
 
     public String getName() {
@@ -28,18 +29,49 @@ class Tab {
         return grade;
     }
 
-    public int getCourses() { return courses; }
+//    public int getCourses() { return courses; }
 
     public String toString() { return this.name; }
 
     /**
-     * TODO unfinished method
+     * TODO unfinished method - still needs to allow for triplet notes i think
      * @param event - tab file text line to check
      * @return whether the event is a note event or not
      */
     private boolean isNoteEvent(String event) {
         //boolean isNoteEvent = true;
         return Arrays.asList(NOTE_EVENTS).contains(event.charAt(0));
+    }
+
+    public HashMap<String, Integer> getDiscreteChords() {
+        HashMap<String, Integer> chords = new HashMap<>();
+        for (String event : events){
+            if (isNoteEvent(event)){
+                StringBuilder chord = new StringBuilder();
+                int spaces = 0;
+                for (char c : event.toCharArray()){
+                    if (Arrays.asList(CHORD_CHARS).contains(c)) {
+
+                        while (spaces > 0){
+                            chord.append('-');
+                            spaces--;
+                        }
+                        chord.append(c);
+                    }
+                    else if (c == ' ') spaces++;
+                }
+
+                //some of the files use a note event (1,2,3,x,etc) with no strings played instead of a rest event (R),
+                //ignoring chord strings which are empty allows us to filter these out.
+                if (!chord.toString().equals("")) {
+                    if (chords.putIfAbsent(chord.toString(), 1) != null) {
+                        chords.put(chord.toString(), chords.get(chord.toString()) + 1);
+                    }
+                }
+            }
+        }
+
+        return chords;
     }
 
     public int getNumberOfBars() {
@@ -63,7 +95,8 @@ class Tab {
      * that appeared with that stretch. [0] is no stretch i.e. all the same fret. [5] is a difference of 5 frets
      * (long stretch).
      * we can ~possibly~ represent this as an integer by calculating the sum of each proportion multiplied by it's
-     * index + 1. the higher the number the more tough stretch chords occurred.
+     * index + 1. the higher the number the more tough stretch chords occurred. Though it may just be better to leave it
+     * as a double array.
      *
      * for example   [0]  [1]  [2]  [3]  [4]  [5]      |      [0]  [1]  [2]  [3]  [4]  [5]
      *               33,  27,  20,  10,   0,   0       |      12,  18,  25,  20,  15,  10
@@ -75,8 +108,8 @@ class Tab {
         int totalChordEvents = 0;
         double[] stretchProportion = {0, 0, 0, 0, 0, 0, 0};
         for (String event : events) {
-            int lowestFret = 100;                       //larger than any fret number on a guitar
-            int highestFret = 0;                        //lower than any fret number on a guitar
+            int lowestFret = 100;                                           //larger than any fret number on a guitar
+            int highestFret = 0;                                            //lower than any fret number on a guitar
             if (isNoteEvent(event)) {
                 int fingers = 0;
                 for (char c : event.toCharArray()) {
@@ -87,10 +120,9 @@ class Tab {
                         if (fret > highestFret) highestFret = fret;
                     }
                 }
-                if (fingers > 1) {
-                    totalChordEvents++;
-                    stretchProportion[highestFret - lowestFret]++;
-                }
+                if (fingers > 1) stretchProportion[highestFret - lowestFret]++;
+                //else stretchProportion[0]++;                              //include one note chords?
+                totalChordEvents++;
             }
         }
         for (int i = 0; i < stretchProportion.length; i++) {

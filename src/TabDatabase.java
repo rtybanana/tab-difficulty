@@ -7,9 +7,7 @@ import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
+import java.util.*;
 
 import static java.nio.file.FileVisitResult.CONTINUE;
 import static java.nio.file.FileVisitResult.SKIP_SUBTREE;
@@ -95,7 +93,7 @@ public class TabDatabase {
         public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) {
             String name = file.toString().replace(basePath + "\\grade" + this.grade + "\\", "");
             name = name.replace(".tab", "");
-            int courses = 6;
+//            int courses = 6;
 
             ArrayList<String> lines = new ArrayList<>();
             BufferedReader tabReader;
@@ -104,10 +102,10 @@ public class TabDatabase {
                 String line;
                 tabReader = new BufferedReader(new FileReader(file.toString()));
                 while ((line = tabReader.readLine()) != null){
-                    if (line.equals("-4") || line.equals("-5") || line.equals("-0") || line.equals("-7")) {
-                        if (line.equals("-0")) courses = 6;
-                        else courses = Integer.parseInt(line);
-                    }
+//                    if (line.equals("-4") || line.equals("-5") || line.equals("-0") || line.equals("-7")) {
+//                        if (line.equals("-0")) courses = 6;
+//                        else courses = Integer.parseInt(line);
+//                    }
                     if (!line.startsWith("{") && !line.startsWith("%") && !line.isEmpty()) {    //ignore comments and title
                         lines.add(line);
                     }
@@ -116,7 +114,7 @@ public class TabDatabase {
                 System.err.println(e.getMessage());
             }
 
-            Tab tab = new Tab(name, lines, grade, courses);
+            Tab tab = new Tab(name, lines, grade);
             tabs.get(grade - 1).add(tab);
 
             return CONTINUE;
@@ -181,18 +179,9 @@ public class TabDatabase {
             train.setClassIndex(train.numAttributes() - 1);
             test.setClassIndex(test.numAttributes() - 1);
 
-            if (relation.equals("chordStretch")) {
-//                for (int i = 0; i < train.numAttributes() - 2; i++){
-//                    train.setAttributeWeight(i, (i + 1) * 4);
-//                    test.setAttributeWeight(i, (i + 1) * 4);
-//                }
-                //train.setAttributeWeight(0, 0);
-                //test.setAttributeWeight(0, 0);
-            }
-
             Classifier naiveBayes = new NaiveBayes();
             naiveBayes.buildClassifier(train);
-
+            System.out.println(test.numInstances());
             double numCorrect = test.numInstances();
             double numBallpark = test.numInstances();
             for (Instance t : test){
@@ -230,7 +219,7 @@ public class TabDatabase {
 
             for (ArrayList<Tab> grade : tabs) {
                 int trainAmount = (int) (grade.size() * TRAINING_PROPORTION);
-                System.out.println(grade.size() + ", " + trainAmount);
+                //System.out.println(grade.size() + ", " + trainAmount);
                 Collections.shuffle(grade);                                 //shuffle to get different train and test data
                 for (int i = 0; i < grade.size(); i++){
                     Tab t = grade.get(i);
@@ -244,12 +233,53 @@ public class TabDatabase {
             }
         }
 
+        public void createDiscreteChordsARFF(){
+            String fileName = "discreteChords.arff";
+            HashSet<String> attributeSet = new HashSet<>();
+            for (Tab tab : getTabs()) {
+                attributeSet.addAll(tab.getDiscreteChords().keySet());
+            }
+
+            StringBuilder header = new StringBuilder("@relation discreteChords\n\n");
+            ArrayList<String> attributes = new ArrayList<>();
+            for (String attr : attributeSet){
+                attributes.add(attr);
+                header.append("@attribute ").append(attr).append(" NUMERIC\n");
+            }
+            header.append("@attribute grade {1,2,3,4,5,6,7,8}\n\n@data\n");
+
+            writeARFF(trainPath + fileName, header.toString(), true);
+            writeARFF(testPath + fileName, header.toString(), true);
+
+//            System.out.println(header);
+
+            for (ArrayList<Tab> grade : tabs) {
+                int trainAmount = (int) (grade.size() * TRAINING_PROPORTION);
+                //System.out.println(grade.size() + ", " + trainAmount);
+                Collections.shuffle(grade);                                 //shuffle to get different train and test data
+                for (int i = 0; i < grade.size(); i++){
+                    Tab t = grade.get(i);
+                    StringBuilder instance = new StringBuilder();
+                    HashMap<String, Integer> tabChordMap = t.getDiscreteChords();
+                    for (String attr : attributes){
+                        //if (tabChordMap.containsKey(attr)) instance.append("1, ");
+                        if (tabChordMap.containsKey(attr)) instance.append(tabChordMap.get(attr)).append(", ");
+                        else instance.append("0, ");
+                    }
+                    instance.append(t.getGrade()).append('\n');
+
+                    if (i < trainAmount) writeARFF(trainPath + fileName, instance.toString());
+                    else writeARFF(testPath + fileName, instance.toString());
+                }
+            }
+        }
+
         public void createChordStretchARFF(){
             String fileName = "chordStretch.arff";
             String header = "@relation chordStretch\n\n" +
                             "@attribute zero NUMERIC\n" + "@attribute one NUMERIC\n" + "@attribute two NUMERIC\n" +
                             "@attribute three NUMERIC\n" + "@attribute four NUMERIC\n" + "@attribute five NUMERIC\n" +
-                            "@attribute grade {1,2,3,4,5,6,7,8}\n\n"+
+                            "@attribute six NUMERIC\n" + "@attribute grade {1,2,3,4,5,6,7,8}\n\n"+
                             "@data\n";
 
             writeARFF(trainPath + fileName, header, true);
@@ -257,21 +287,16 @@ public class TabDatabase {
 
             for (ArrayList<Tab> grade : tabs) {
                 int trainAmount = (int) (grade.size() * TRAINING_PROPORTION);
-                System.out.println(grade.size() + ", " + trainAmount);
+                //System.out.println(grade.size() + ", " + trainAmount);
                 Collections.shuffle(grade);                                 //shuffle to get different train and test data
                 for (int i = 0; i < grade.size(); i++){
                     Tab t = grade.get(i);
-                    double[] stretch = t.getStretch();
-                    if (i < trainAmount) {
-                        writeARFF(trainPath + fileName,stretch[0] + ", " + stretch[1] + ", " +
-                                stretch[2] + ", " + stretch[3] + ", " + stretch[4] + ", " + stretch[5] + ", " +
-                                t.getGrade() + "\n");
-                    }
-                    else {
-                        writeARFF(testPath + fileName, stretch[0] + ", " + stretch[1] + ", " +
-                                stretch[2] + ", " + stretch[3] + ", " + stretch[4] + ", " + stretch[5] + ", " +
-                                t.getGrade() + "\n");
-                    }
+                    StringBuilder instance = new StringBuilder();
+                    for (double s : t.getStretch()) instance.append(s).append(", ");
+                    instance.append(t.getGrade()).append('\n');
+
+                    if (i < trainAmount) writeARFF(trainPath + fileName, instance.toString());
+                    else writeARFF(testPath + fileName, instance.toString());
                 }
             }
         }
