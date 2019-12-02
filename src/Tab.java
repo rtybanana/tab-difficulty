@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
+import java.util.*;
 
 class Tab {
     private String name;
@@ -43,15 +41,15 @@ class Tab {
         return Arrays.asList(NOTE_EVENTS).contains(event.charAt(0));
     }
 
-    public HashMap<String, Integer> getDiscreteChords() {
-        HashMap<String, Integer> chords = new HashMap<>();
+    public HashMap<String, Double> getDiscreteChords(String weight) {
+        int noOfEvents = 0;
+        HashMap<String, Double> chords = new HashMap<>();
         for (String event : events){
             if (isNoteEvent(event)){
                 StringBuilder chord = new StringBuilder();
                 int spaces = 0;
                 for (char c : event.toCharArray()){
                     if (Arrays.asList(CHORD_CHARS).contains(c)) {
-
                         while (spaces > 0){
                             chord.append('-');
                             spaces--;
@@ -64,12 +62,28 @@ class Tab {
                 //some of the files use a note event (1,2,3,x,etc) with no strings played instead of a rest event (R),
                 //ignoring chord strings which are empty allows us to filter these out.
                 if (!chord.toString().equals("")) {
-                    if (chords.putIfAbsent(chord.toString(), 1) != null) {
-                        chords.put(chord.toString(), chords.get(chord.toString()) + 1);
-                    }
+                    chords.merge(chord.toString(), (double) 1, Double::sum);
                 }
+                noOfEvents++;
             }
         }
+
+        int finalNoOfEvents = noOfEvents;
+        switch (weight) {
+            case "tf":
+                chords.replaceAll((k, v) -> v / finalNoOfEvents);                   //classic term frequency (thisEventCount/totalEvents)
+                break;
+            case "lognorm":
+                chords.replaceAll((k, v) -> Math.log(1 + v));                                   //log normalization
+                break;
+            case "doublenorm":
+                chords.replaceAll((k, v) -> (0.5 + 0.5 * (v / Collections.max(chords.entrySet(), Map.Entry.comparingByValue()).getValue())));
+                break;
+            case "binary":
+                chords.replaceAll((k, v) -> v > 0 ? (double) 1 : (double) 0);       //convert to binary 0, 1
+                break;
+        }
+
 
         return chords;
     }
@@ -104,9 +118,9 @@ class Tab {
      *               33 + 54 + 60 + 40  + 0  + 0       |      12 + 36 + 75 + 80 + 75 + 60
      *               = 187                             |      = 238
      */
-    public double[] getStretch(){
-        int totalChordEvents = 0;
-        double[] stretchProportion = {0, 0, 0, 0, 0, 0, 0};
+    public HashMap<Integer, Double> getStretch(String weight, boolean singles){
+        int noOfEvents = 0;
+        HashMap<Integer, Double> stretches = new HashMap<>();
         for (String event : events) {
             int lowestFret = 100;                                           //larger than any fret number on a guitar
             int highestFret = 0;                                            //lower than any fret number on a guitar
@@ -120,15 +134,35 @@ class Tab {
                         if (fret > highestFret) highestFret = fret;
                     }
                 }
-                if (fingers > 1) stretchProportion[highestFret - lowestFret]++;
-                //else stretchProportion[0]++;                              //include one note chords?
-                totalChordEvents++;
+                if (fingers > 1) {
+                    stretches.merge(highestFret - lowestFret, (double) 1, Double::sum);
+                    noOfEvents++;
+                }
+                else if (singles) {
+                    stretches.merge(0, (double) 1, Double::sum);                           //include one note chords?
+                    noOfEvents++;
+                }
+
             }
         }
-        for (int i = 0; i < stretchProportion.length; i++) {
-            stretchProportion[i] /= totalChordEvents;
+
+        int finalNoOfEvents = noOfEvents;
+        switch (weight) {
+            case "tf":
+                stretches.replaceAll((k, v) -> v / finalNoOfEvents);                        //classic term frequency (thisEventCount/totalEvents)
+                break;
+            case "lognorm":
+                stretches.replaceAll((k, v) -> Math.log(1 + v));                            //log normalization
+                break;
+            case "doublenorm":                                                              //double normalization
+                stretches.replaceAll((k, v) -> (0.5 + 0.5 * (v / Collections.max(stretches.entrySet(), Map.Entry.comparingByValue()).getValue())));
+                break;
+            case "binary":
+                stretches.replaceAll((k, v) -> v > 0 ? (double) 1 : (double) 0);            //convert to binary 0, 1
+                break;
         }
-        return stretchProportion;            //stretch
+
+        return stretches;
     }
 
     public int getPositionVariance(){

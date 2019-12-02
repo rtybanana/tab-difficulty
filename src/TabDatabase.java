@@ -1,8 +1,9 @@
 import weka.classifiers.Classifier;
+import weka.classifiers.Evaluation;
 import weka.classifiers.bayes.NaiveBayes;
 import weka.core.Instance;
 import weka.core.Instances;
-
+import java.lang.Math;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
@@ -12,20 +13,20 @@ import java.util.*;
 import static java.nio.file.FileVisitResult.CONTINUE;
 import static java.nio.file.FileVisitResult.SKIP_SUBTREE;
 
-/** TabDatabase - class
- *
+/**
+ * TabDatabase - class
  */
 public class TabDatabase {
     private ArrayList<ArrayList<Tab>> tabs;
     public Learner learner;
-    private static final double TRAINING_PROPORTION = 0.8;
+    //private static final double TRAINING_PROPORTION = 0.8;
 
     public TabDatabase() {
         this.tabs = new ArrayList<>();
         for (int grade = 0; grade < 8; grade++) {
             tabs.add(new ArrayList<>());
         }
-        this.learner = new Learner("ARFFs\\");
+        this.learner = new Learner();
     }
 
     public ArrayList<Tab> getTabs() {
@@ -54,7 +55,8 @@ public class TabDatabase {
     }
 
 
-    /** createDatabase
+    /**
+     * createDatabase
      * Given a root folder containing folders named 'grade1' through 'grade8' which contain pieces in tab format, this
      * function will walk through each of the folders, construct a Tab object from each of the pieces and add it to the
      * database so that it can be processed into training data for the Naive Bayes Classifier later.
@@ -66,7 +68,7 @@ public class TabDatabase {
         TabFileVisitor visitor = new TabFileVisitor(root);
         try {
             Files.walkFileTree(startingDir, visitor);
-        } catch(IOException e) {
+        } catch (IOException e) {
             System.out.println(e.getMessage());
         }
     }
@@ -75,7 +77,7 @@ public class TabDatabase {
         private String basePath;
         private int grade;
 
-        private TabFileVisitor(String path){
+        private TabFileVisitor(String path) {
             this.basePath = path;
         }
 
@@ -93,24 +95,18 @@ public class TabDatabase {
         public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) {
             String name = file.toString().replace(basePath + "\\grade" + this.grade + "\\", "");
             name = name.replace(".tab", "");
-//            int courses = 6;
 
             ArrayList<String> lines = new ArrayList<>();
             BufferedReader tabReader;
-            //!line.startsWith("-") &&          //ignore command line parameters.
             try {
                 String line;
                 tabReader = new BufferedReader(new FileReader(file.toString()));
-                while ((line = tabReader.readLine()) != null){
-//                    if (line.equals("-4") || line.equals("-5") || line.equals("-0") || line.equals("-7")) {
-//                        if (line.equals("-0")) courses = 6;
-//                        else courses = Integer.parseInt(line);
-//                    }
+                while ((line = tabReader.readLine()) != null) {
                     if (!line.startsWith("{") && !line.startsWith("%") && !line.isEmpty()) {    //ignore comments and title
                         lines.add(line);
                     }
                 }
-            } catch(IOException e){
+            } catch (IOException e) {
                 System.err.println(e.getMessage());
             }
 
@@ -132,15 +128,13 @@ public class TabDatabase {
     }
 
     public class Learner {
-        private String trainPath;
-        private String testPath;
+        private String dataPath;
 
-        public Learner(String path){
-            this.trainPath = path + "train\\";
-            this.testPath = path + "test\\";
+        public Learner() {
+            this.dataPath = "ARFFs\\";
         }
 
-        private void writeARFF(String path, String content){
+        private void writeARFF(String path, String content) {
             try (Writer ARFFWriter = new BufferedWriter(new OutputStreamWriter(
                     new FileOutputStream(path, true), StandardCharsets.UTF_8))) {
                 ARFFWriter.write(content);
@@ -149,7 +143,7 @@ public class TabDatabase {
             }
         }
 
-        private void writeARFF(String path, String content, boolean replace){
+        private void writeARFF(String path, String content, boolean replace) {
             try (Writer ARFFWriter = new BufferedWriter(new OutputStreamWriter(
                     new FileOutputStream(path, !replace), StandardCharsets.UTF_8))) {
                 ARFFWriter.write(content);
@@ -158,147 +152,184 @@ public class TabDatabase {
             }
         }
 
-        private Instances readARFF(String path){
+        private Instances readARFF(String path) {
             try {
                 FileReader reader = new FileReader(path);
                 return new Instances(reader);
-            } catch (IOException e){
+            } catch (IOException e) {
                 System.err.println(e.getMessage());
                 return null;
             }
         }
 
-        public void testLearner(String relation) throws Exception {
+        public void testLearner(String relation, int folds, int runs, int seed) throws Exception {
             String fileName = relation + ".arff";
-            Instances train = readARFF(this.trainPath + fileName);
-            Instances test = readARFF(this.testPath + fileName);
-            if (train == null || test == null){
+            Instances data = readARFF(this.dataPath + fileName);
+            if (data == null) {
                 return;
             }
 
-            train.setClassIndex(train.numAttributes() - 1);
-            test.setClassIndex(test.numAttributes() - 1);
-
             Classifier naiveBayes = new NaiveBayes();
-            naiveBayes.buildClassifier(train);
-            System.out.println(test.numInstances());
-            double numCorrect = test.numInstances();
-            double numBallpark = test.numInstances();
-            for (Instance t : test){
-                //System.out.print(t.toString(train.attribute("grade")) + " | " + (int)(naiveBayes.classifyInstance(t) + 1));
-                if (Integer.parseInt(t.toString(train.attribute("grade"))) == (int)(naiveBayes.classifyInstance(t)) + 1){
-                    //System.out.println("  Correct");
-                }
-                else if (Integer.parseInt(t.toString(train.attribute("grade"))) == (int)(naiveBayes.classifyInstance(t)) ||
-                        Integer.parseInt(t.toString(train.attribute("grade"))) == (int)(naiveBayes.classifyInstance(t) + 2)){
-                    //System.out.println("  Ballpark");
-                    numCorrect--;
-                }
-                else {
-                    //System.out.println("  Incorrect");
-                    numCorrect--;
-                    numBallpark--;
-                }
-            }
-            System.out.println();
-            System.out.println(relation);
-            System.out.println(numCorrect/test.numInstances() * 100 + "% accuracy");
-            System.out.println(numBallpark/test.numInstances() * 100 + "% ballpark accuracy");
+            data.setClassIndex(data.numAttributes() - 1);
+            int[][] cMatrix = new int[8][8];
+            int totaltested = 0;
+            for (int r = 0; r < runs; r++) {
+                Random rand = new Random(seed);
+                data.randomize(rand);
+                data.stratify(folds);
 
+                for (int n = 0; n < folds; n++) {
+                    Instances train = data.trainCV(folds, n, rand);
+                    Instances test = data.testCV(folds, n);
+                    totaltested += test.numInstances();
+
+                    naiveBayes.buildClassifier(train);
+                    for (Instance t : test) {
+                        cMatrix[Integer.parseInt(t.toString(train.attribute("grade"))) - 1][(int) (naiveBayes.classifyInstance(t))]++;
+                    }
+                }
+                seed++;
+            }
+
+            System.out.println(fileName);
+            for (int i = 0; i < 8; i++){
+                for (int j = 0; j < 8; j++){
+                    System.out.print(cMatrix[i][j]);
+                    if (j < 7) System.out.print(" & ");
+                }
+                System.out.println();
+            }
+
+            final int TREND_CONSTANT = 2;
+            int correct = 0;
+            int ballpark = 0;
+            int trend = 0;
+            for (int i = 0; i < 8; i++) {
+                correct += cMatrix[i][i];
+                ballpark += cMatrix[i][i];
+                if (i > 0) ballpark += cMatrix[i-1][i];
+                if (i < 7) ballpark += cMatrix[i+1][i];
+                for (int j = 0; j < 8; j++) trend += cMatrix[i][j] * (-Math.abs(i - j) + TREND_CONSTANT);
+            }
+            double accuracy = (double)correct/totaltested * 100;
+            double ballpark_accuracy = (double)ballpark/totaltested * 100;
+            double trend_score = ((double)trend/totaltested) / TREND_CONSTANT;
+            System.out.println("Accuracy: " + String.format("%.2f", accuracy) +"%");
+            System.out.println("Ballpark Accuracy: " + String.format("%.2f", ballpark_accuracy) +"%");
+            System.out.println("Trend Score: " + String.format("%.2f", trend_score));
+            System.out.println();
         }
 
+        /**
+         * Creates the ARFF file for the 'Number of Bars' feature extraction.
+         */
         public void createNumberOfBarsARFF() {
             String fileName = "numberOfBars.arff";
             String header = "@relation numberOfBars\n\n" +
                             "@attribute bars NUMERIC\n" +
-                            "@attribute grade {1,2,3,4,5,6,7,8}\n\n"+
+                            "@attribute grade {1,2,3,4,5,6,7,8}\n\n" +
                             "@data\n";
 
-            writeARFF(trainPath + fileName, header, true);
-            writeARFF(testPath + fileName, header, true);
+            writeARFF(dataPath + fileName, header, true);
 
             for (ArrayList<Tab> grade : tabs) {
-                int trainAmount = (int) (grade.size() * TRAINING_PROPORTION);
-                //System.out.println(grade.size() + ", " + trainAmount);
-                Collections.shuffle(grade);                                 //shuffle to get different train and test data
-                for (int i = 0; i < grade.size(); i++){
+                for (int i = 0; i < grade.size(); i++) {
                     Tab t = grade.get(i);
-                    if (i < trainAmount) {
-                        writeARFF(trainPath + fileName,t.getNumberOfBars() + ", " + t.getGrade() + "\n");
-                    }
-                    else {
-                        writeARFF(testPath + fileName, t.getNumberOfBars() + ", " + t.getGrade() + "\n");
-                    }
+                    writeARFF(dataPath + fileName, t.getNumberOfBars() + ", " + t.getGrade() + "\n");
                 }
             }
         }
 
-        public void createDiscreteChordsARFF(){
-            String fileName = "discreteChords.arff";
-            HashSet<String> attributeSet = new HashSet<>();
+        /**
+         * Create the ARFF file for the 'Discrete Chords' feature extraction method with a couple of options to
+         * configure to adjust the output.
+         *
+         * @param idfWeight    - inverse document frequency weight variant
+         * @param tfWeight  - term frequency weight variant
+         */
+        public void createDiscreteChordsARFF(String tfWeight, String idfWeight) {
+            HashMap<String, Double> documentFreq = new HashMap<>();
             for (Tab tab : getTabs()) {
-                attributeSet.addAll(tab.getDiscreteChords().keySet());
+                for (String k : tab.getDiscreteChords(tfWeight).keySet()){
+                    documentFreq.merge(k, (double) 1, Double::sum);             //incrementing count if exists in document
+                }
             }
+            if (idfWeight.equals("idf")) documentFreq.replaceAll((k, v) -> Math.log(size() / v));                   //inverse document frequency
+            else if (idfWeight.equals("idfs")) documentFreq.replaceAll((k, v) -> Math.log(size() / (1 + v)) + 1);   //inverse document frequency smooth
+            else documentFreq.replaceAll((k, v) -> (double) 1);                                                     //unary
 
+            System.out.println(documentFreq);
+
+            String fileName = "discreteChords.arff";
             StringBuilder header = new StringBuilder("@relation discreteChords\n\n");
             ArrayList<String> attributes = new ArrayList<>();
-            for (String attr : attributeSet){
+            for (String attr : documentFreq.keySet()) {
                 attributes.add(attr);
                 header.append("@attribute ").append(attr).append(" NUMERIC\n");
             }
             header.append("@attribute grade {1,2,3,4,5,6,7,8}\n\n@data\n");
-
-            writeARFF(trainPath + fileName, header.toString(), true);
-            writeARFF(testPath + fileName, header.toString(), true);
-
-//            System.out.println(header);
+            writeARFF(dataPath + fileName, header.toString(), true);
 
             for (ArrayList<Tab> grade : tabs) {
-                int trainAmount = (int) (grade.size() * TRAINING_PROPORTION);
-                //System.out.println(grade.size() + ", " + trainAmount);
-                Collections.shuffle(grade);                                 //shuffle to get different train and test data
-                for (int i = 0; i < grade.size(); i++){
+                for (int i = 0; i < grade.size(); i++) {
                     Tab t = grade.get(i);
+                    HashMap<String, Double> tabChordMap = t.getDiscreteChords(tfWeight);
+
                     StringBuilder instance = new StringBuilder();
-                    HashMap<String, Integer> tabChordMap = t.getDiscreteChords();
-                    for (String attr : attributes){
-                        //if (tabChordMap.containsKey(attr)) instance.append("1, ");
-                        if (tabChordMap.containsKey(attr)) instance.append(tabChordMap.get(attr)).append(", ");
+                    for (String attr : attributes) {
+                        if (tabChordMap.containsKey(attr)) instance.append(tabChordMap.get(attr) * documentFreq.get(attr)).append(", ");
                         else instance.append("0, ");
                     }
                     instance.append(t.getGrade()).append('\n');
 
-                    if (i < trainAmount) writeARFF(trainPath + fileName, instance.toString());
-                    else writeARFF(testPath + fileName, instance.toString());
+                    writeARFF(dataPath + fileName, instance.toString());
                 }
             }
         }
 
-        public void createChordStretchARFF(){
-            String fileName = "chordStretch.arff";
-            String header = "@relation chordStretch\n\n" +
-                            "@attribute zero NUMERIC\n" + "@attribute one NUMERIC\n" + "@attribute two NUMERIC\n" +
-                            "@attribute three NUMERIC\n" + "@attribute four NUMERIC\n" + "@attribute five NUMERIC\n" +
-                            "@attribute six NUMERIC\n" + "@attribute grade {1,2,3,4,5,6,7,8}\n\n"+
-                            "@data\n";
-
-            writeARFF(trainPath + fileName, header, true);
-            writeARFF(testPath + fileName, header, true);
-
-            for (ArrayList<Tab> grade : tabs) {
-                int trainAmount = (int) (grade.size() * TRAINING_PROPORTION);
-                //System.out.println(grade.size() + ", " + trainAmount);
-                Collections.shuffle(grade);                                 //shuffle to get different train and test data
-                for (int i = 0; i < grade.size(); i++){
-                    Tab t = grade.get(i);
-                    StringBuilder instance = new StringBuilder();
-                    for (double s : t.getStretch()) instance.append(s).append(", ");
-                    instance.append(t.getGrade()).append('\n');
-
-                    if (i < trainAmount) writeARFF(trainPath + fileName, instance.toString());
-                    else writeARFF(testPath + fileName, instance.toString());
+        /**
+         * Creates the ARFF file for the 'Chord Stretch' feature extraction.
+         */
+        public void createChordStretchARFF(String tfWeight, String idfWeight, boolean singles) {
+            HashMap<Integer, Double> documentFreq = new HashMap<>();
+            for (Tab t : getTabs()){
+                for (Integer k : t.getStretch(tfWeight, singles).keySet()){
+                    documentFreq.merge(k, (double) 1, Double::sum);
                 }
             }
+            if (idfWeight.equals("idf")) documentFreq.replaceAll((k, v) -> Math.log(size() / v));                   //inverse document frequency
+            else if (idfWeight.equals("idfs")) documentFreq.replaceAll((k, v) -> Math.log(size() / (1 + v)) + 1);   //inverse document frequency smooth
+            else documentFreq.replaceAll((k, v) -> (double) 1);
+            System.out.println(documentFreq);
+
+            String fileName = "chordStretch.arff";
+            StringBuilder header = new StringBuilder("@relation chordStretch\n\n");
+            ArrayList<Integer> attributes = new ArrayList<>();
+            for (Integer attr : documentFreq.keySet()) {
+                attributes.add(attr);
+                header.append("@attribute ").append(attr).append(" NUMERIC\n");
+            }
+            header.append("@attribute grade {1,2,3,4,5,6,7,8}\n\n@data\n");
+            writeARFF(dataPath + fileName, header.toString(), true);
+
+            for (ArrayList<Tab> grade : tabs) {
+                for (int i = 0; i < grade.size(); i++) {
+                    Tab t = grade.get(i);
+                    HashMap<Integer, Double> stretchMap = t.getStretch(tfWeight, singles);
+
+                    StringBuilder instance = new StringBuilder();
+                    for (Integer attr : attributes) {
+                        if (stretchMap.containsKey(attr)) instance.append(stretchMap.get(attr) * documentFreq.get(attr)).append(", ");
+                        else instance.append("0, ");
+                    }
+                    instance.append(t.getGrade()).append('\n');
+
+                    writeARFF(dataPath + fileName, instance.toString());
+                }
+            }
+        }
+
+        public void createPositionVarianceARFF() {
         }
     }
 }

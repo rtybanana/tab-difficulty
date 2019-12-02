@@ -1,4 +1,6 @@
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 
 public class Main {
     public static void main(String[] args){
@@ -10,37 +12,33 @@ public class Main {
             //System.out.println(t.getCourses());
         //}
 
-        tabdb.learner.createNumberOfBarsARFF();
-        tabdb.learner.createChordStretchARFF();
-        tabdb.learner.createDiscreteChordsARFF();
+//        tabdb.learner.createNumberOfBarsARFF();
+        tabdb.learner.createChordStretchARFF("lognorm", "unary", true);
+//        tabdb.learner.createDiscreteChordsARFF("binary", "unary");
         try {
-            tabdb.learner.testLearner("numberOfBars");
-            tabdb.learner.testLearner("chordStretch");
-            tabdb.learner.testLearner("discreteChords");
+//            tabdb.learner.testLearner("numberOfBars", 10, 5, 4532);
+            tabdb.learner.testLearner("chordStretch", 10, 5, 678);
+//            tabdb.learner.testLearner("discreteChords", 10, 5, 4534);
         } catch (Exception e) {
             System.err.println(e.getMessage());
         }
 
-
-
-        //System.out.println(tabdb.size());
-
-//        Tab tab8 = tabdb.getTab(8, 5);
-//        System.out.println("name: " + tab8.getName());
-//        System.out.println("grade: " + tab8.getGrade());
-//        System.out.println(tab8.getDiscreteChords());
-
+//        ArrayList<Tab> tabs = tabdb.getTabs();
+//        Tab t = tabdb.getTab(1, 2);
+//        HashMap<String, Double> tabMap = t.getDiscreteChords("raw");
+//        System.out.println(tabMap);
 //
-//        Tab tab1 = tabdb.getTab(7, 2);
-//        System.out.println("name: " + tab1.getName());
-//        System.out.println("grade: " + tab1.getGrade());
-//        System.out.println(Arrays.toString(tab1.getStretch()));
-        //
+//        HashMap<String, Double> documentFreq = new HashMap<>();
+//        for (Tab tab : tabdb.getTabs()) {
+//            for (String k : tab.getDiscreteChords("tf").keySet()){
+//                documentFreq.merge(k, (double) 1, Double::sum);             //incrementing count if exists in document
+//            }
+//        }
+//        //documentFreq.replaceAll((K, v) -> Math.log(tabdb.size() / v));
+//        documentFreq.replaceAll((k, v) -> (double) 1);
+//        System.out.println(documentFreq);
 //
-//        ArrayList<String> lines = tab.getLines();
-//        String Btest = lines.get(lines.size() - 2);
-//        System.out.println(Btest.equals("B"));
-//
-//        System.out.println(tab.numberOfBars());
+//        tabMap.replaceAll((k, v) -> v * documentFreq.get(k));
+//        System.out.println(tabMap);
     }
 }
