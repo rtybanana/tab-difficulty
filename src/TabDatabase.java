@@ -162,14 +162,14 @@ public class TabDatabase {
             }
         }
 
-        public void testLearner(String relation, int folds, int runs, int seed) throws Exception {
+        public void testLearner(String relation, int folds, int runs, int seed, Classifier classifier) throws Exception {
             String fileName = relation + ".arff";
             Instances data = readARFF(this.dataPath + fileName);
             if (data == null) {
                 return;
             }
 
-            Classifier naiveBayes = new NaiveBayes();
+//            Classifier naiveBayes = new NaiveBayes();
             data.setClassIndex(data.numAttributes() - 1);
             int[][] cMatrix = new int[8][8];
             int totaltested = 0;
@@ -183,9 +183,13 @@ public class TabDatabase {
                     Instances test = data.testCV(folds, n);
                     totaltested += test.numInstances();
 
-                    naiveBayes.buildClassifier(train);
+                    classifier.buildClassifier(train);
                     for (Instance t : test) {
-                        cMatrix[Integer.parseInt(t.toString(train.attribute("grade"))) - 1][(int) (naiveBayes.classifyInstance(t))]++;
+                        cMatrix[Integer.parseInt(t.toString(train.attribute("grade"))) - 1][(int) (classifier.classifyInstance(t))]++;
+//                        int cls = (int) Math.round(classifier.classifyInstance(t));
+//                        if (cls > 8) cls = 8;
+//                        else if (cls < 1) cls = 1;
+//                        cMatrix[Integer.parseInt(t.toString(train.attribute("grade"))) - 1][cls - 1]++;
                     }
                 }
                 seed++;
@@ -200,7 +204,7 @@ public class TabDatabase {
                 System.out.println();
             }
 
-            final int TREND_CONSTANT = 2;
+            final int ACCEPTABLE_TREND_RANGE = 2;
             int correct = 0;
             int ballpark = 0;
             int trend = 0;
@@ -209,11 +213,12 @@ public class TabDatabase {
                 ballpark += cMatrix[i][i];
                 if (i > 0) ballpark += cMatrix[i-1][i];
                 if (i < 7) ballpark += cMatrix[i+1][i];
-                for (int j = 0; j < 8; j++) trend += cMatrix[i][j] * (-Math.abs(i - j) + TREND_CONSTANT);
+                for (int j = 0; j < 8; j++) trend += cMatrix[i][j] * (-Math.abs(i - j) + ACCEPTABLE_TREND_RANGE);
             }
+
             double accuracy = (double)correct/totaltested * 100;
             double ballpark_accuracy = (double)ballpark/totaltested * 100;
-            double trend_score = ((double)trend/totaltested) / TREND_CONSTANT;
+            double trend_score = ((double)trend/ACCEPTABLE_TREND_RANGE) / totaltested;
             System.out.println("Accuracy: " + String.format("%.2f", accuracy) +"%");
             System.out.println("Ballpark Accuracy: " + String.format("%.2f", ballpark_accuracy) +"%");
             System.out.println("Trend Score: " + String.format("%.2f", trend_score));
@@ -244,8 +249,15 @@ public class TabDatabase {
          * Create the ARFF file for the 'Discrete Chords' feature extraction method with a couple of options to
          * configure to adjust the output.
          *
-         * @param idfWeight    - inverse document frequency weight variant
-         * @param tfWeight  - term frequency weight variant
+         * @param tfWeight  -   term frequency weight variant
+         *                          "tf": term frequency,
+         *                          "lognorm": logarithmic normalisation,
+         *                          "doublenorm": double normalisation,
+         *                          "binary": binary indication of presence in document,
+         * @param idfWeight -   document frequency weight variant
+         *                          "idf": inverse document frequency,
+         *                          "idfs": inverse document frequency smooth,
+         *                          "unary": no weighting
          */
         public void createDiscreteChordsARFF(String tfWeight, String idfWeight) {
             HashMap<String, Double> documentFreq = new HashMap<>();
@@ -268,6 +280,7 @@ public class TabDatabase {
                 header.append("@attribute ").append(attr).append(" NUMERIC\n");
             }
             header.append("@attribute grade {1,2,3,4,5,6,7,8}\n\n@data\n");
+//            header.append("@attribute grade NUMERIC\n\n@data\n");
             writeARFF(dataPath + fileName, header.toString(), true);
 
             for (ArrayList<Tab> grade : tabs) {
@@ -289,6 +302,17 @@ public class TabDatabase {
 
         /**
          * Creates the ARFF file for the 'Chord Stretch' feature extraction.
+         *
+         * @param tfWeight  -   term frequency weight variant
+         *                          "tf": term frequency,
+         *                          "lognorm": logarithmic normalisation,
+         *                          "doublenorm": double normalisation,
+         *                          "binary": binary indication of presence in document,
+         * @param idfWeight -   document frequency weight variant
+         *                          "idf": inverse document frequency,
+         *                          "idfs": inverse document frequency smooth,
+         *                          "unary": no weighting
+         * @param singles   -   include single note chords
          */
         public void createChordStretchARFF(String tfWeight, String idfWeight, boolean singles) {
             HashMap<Integer, Double> documentFreq = new HashMap<>();
@@ -310,6 +334,7 @@ public class TabDatabase {
                 header.append("@attribute ").append(attr).append(" NUMERIC\n");
             }
             header.append("@attribute grade {1,2,3,4,5,6,7,8}\n\n@data\n");
+//            header.append("@attribute grade NUMERIC\n\n@data\n");
             writeARFF(dataPath + fileName, header.toString(), true);
 
             for (ArrayList<Tab> grade : tabs) {
