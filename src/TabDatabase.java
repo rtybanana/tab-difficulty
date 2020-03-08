@@ -1,5 +1,4 @@
 import weka.classifiers.Classifier;
-import weka.classifiers.Evaluation;
 import weka.classifiers.bayes.NaiveBayes;
 import weka.core.Instance;
 import weka.core.Instances;
@@ -200,7 +199,7 @@ public class TabDatabase {
                 System.out.println();
             }
 
-            final int TREND_CONSTANT = 2;
+            final int TREND_CONSTANT = 1;
             int correct = 0;
             int ballpark = 0;
             int trend = 0;

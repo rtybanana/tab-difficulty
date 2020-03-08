@@ -1,7 +1,3 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-
 public class Main {
     public static void main(String[] args){
         TabDatabase tabdb = new TabDatabase();
@@ -12,13 +8,13 @@ public class Main {
             //System.out.println(t.getCourses());
         //}
 
-//        tabdb.learner.createNumberOfBarsARFF();
-        tabdb.learner.createChordStretchARFF("lognorm", "unary", true);
-//        tabdb.learner.createDiscreteChordsARFF("binary", "unary");
+        tabdb.learner.createNumberOfBarsARFF();
+        tabdb.learner.createChordStretchARFF("raw", "unary", true);
+        tabdb.learner.createDiscreteChordsARFF("binary", "unary");
         try {
-//            tabdb.learner.testLearner("numberOfBars", 10, 5, 4532);
+            tabdb.learner.testLearner("numberOfBars", 10, 5, 4532);
             tabdb.learner.testLearner("chordStretch", 10, 5, 678);
-//            tabdb.learner.testLearner("discreteChords", 10, 5, 4534);
+            tabdb.learner.testLearner("discreteChords", 10, 5, 4534);
         } catch (Exception e) {
             System.err.println(e.getMessage());
         }
