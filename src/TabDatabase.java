@@ -161,14 +161,14 @@ public class TabDatabase {
             }
         }
 
-        public void testLearner(String relation, int folds, int runs, int seed) throws Exception {
+        public void testLearner(String relation, int folds, int runs, int seed, Classifier classifier) throws Exception {
             String fileName = relation + ".arff";
             Instances data = readARFF(this.dataPath + fileName);
             if (data == null) {
                 return;
             }
 
-            Classifier naiveBayes = new NaiveBayes();
+//            Classifier naiveBayes = new NaiveBayes();
             data.setClassIndex(data.numAttributes() - 1);
             int[][] cMatrix = new int[8][8];
             int totaltested = 0;
@@ -181,10 +181,11 @@ public class TabDatabase {
                     Instances train = data.trainCV(folds, n, rand);
                     Instances test = data.testCV(folds, n);
                     totaltested += test.numInstances();
+                    classifier.buildClassifier(train);
 
-                    naiveBayes.buildClassifier(train);
+                    // confusion matrix
                     for (Instance t : test) {
-                        cMatrix[Integer.parseInt(t.toString(train.attribute("grade"))) - 1][(int) (naiveBayes.classifyInstance(t))]++;
+                        cMatrix[Integer.parseInt(t.toString(train.attribute("grade"))) - 1][(int) (classifier.classifyInstance(t))]++;
                     }
                 }
                 seed++;
@@ -199,23 +200,35 @@ public class TabDatabase {
                 System.out.println();
             }
 
-            final int TREND_CONSTANT = 1;
-            int correct = 0;
-            int ballpark = 0;
-            int trend = 0;
+            // Evaluation
+            int correct = 0;                    // standard accuracy
+            int ballpark = 0;                   // ballpark accuracy
+            int trend = 0;                      // trend score
+            double MMAE = 0;                    // macroaverageed mean absolute error
             for (int i = 0; i < 8; i++) {
                 correct += cMatrix[i][i];
                 ballpark += cMatrix[i][i];
                 if (i > 0) ballpark += cMatrix[i-1][i];
                 if (i < 7) ballpark += cMatrix[i+1][i];
-                for (int j = 0; j < 8; j++) trend += cMatrix[i][j] * (-Math.abs(i - j) + TREND_CONSTANT);
+
+                int inClass = 0;
+                int absError = 0;
+                for (int j = 0; j < 8; j++) {
+                    trend += cMatrix[i][j] * (-Math.abs(i - j) + 1);
+                    inClass += cMatrix[i][j];
+                    absError += cMatrix[i][j] * Math.abs(i - j);
+                }
+                MMAE += (double)absError / inClass;
             }
+
             double accuracy = (double)correct/totaltested * 100;
             double ballpark_accuracy = (double)ballpark/totaltested * 100;
-            double trend_score = ((double)trend/totaltested) / TREND_CONSTANT;
+            double trend_score = (double)trend/totaltested;
+            MMAE = MMAE / 8;
             System.out.println("Accuracy: " + String.format("%.2f", accuracy) +"%");
             System.out.println("Ballpark Accuracy: " + String.format("%.2f", ballpark_accuracy) +"%");
             System.out.println("Trend Score: " + String.format("%.2f", trend_score));
+            System.out.println("Macroaveraged Mean Absolute Error: " + String.format("%.2f", MMAE));
             System.out.println();
         }
 
@@ -232,8 +245,7 @@ public class TabDatabase {
             writeARFF(dataPath + fileName, header, true);
 
             for (ArrayList<Tab> grade : tabs) {
-                for (int i = 0; i < grade.size(); i++) {
-                    Tab t = grade.get(i);
+                for (Tab t : grade) {
                     writeARFF(dataPath + fileName, t.getNumberOfBars() + ", " + t.getGrade() + "\n");
                 }
             }
@@ -243,8 +255,15 @@ public class TabDatabase {
          * Create the ARFF file for the 'Discrete Chords' feature extraction method with a couple of options to
          * configure to adjust the output.
          *
-         * @param idfWeight    - inverse document frequency weight variant
-         * @param tfWeight  - term frequency weight variant
+         * @param tfWeight  -   term frequency weight variant
+         *                          "tf": term frequency,
+         *                          "lognorm": logarithmic normalisation,
+         *                          "doublenorm": double normalisation,
+         *                          "binary": binary indication of presence in document,
+         * @param idfWeight -   document frequency weight variant
+         *                          "idf": inverse document frequency,
+         *                          "idfs": inverse document frequency smooth,
+         *                          "unary": no weighting
          */
         public void createDiscreteChordsARFF(String tfWeight, String idfWeight) {
             HashMap<String, Double> documentFreq = new HashMap<>();
@@ -267,16 +286,17 @@ public class TabDatabase {
                 header.append("@attribute ").append(attr).append(" NUMERIC\n");
             }
             header.append("@attribute grade {1,2,3,4,5,6,7,8}\n\n@data\n");
+//            header.append("@attribute grade NUMERIC\n\n@data\n");
             writeARFF(dataPath + fileName, header.toString(), true);
 
             for (ArrayList<Tab> grade : tabs) {
-                for (int i = 0; i < grade.size(); i++) {
-                    Tab t = grade.get(i);
+                for (Tab t : grade) {
                     HashMap<String, Double> tabChordMap = t.getDiscreteChords(tfWeight);
 
                     StringBuilder instance = new StringBuilder();
                     for (String attr : attributes) {
-                        if (tabChordMap.containsKey(attr)) instance.append(tabChordMap.get(attr) * documentFreq.get(attr)).append(", ");
+                        if (tabChordMap.containsKey(attr))
+                            instance.append(tabChordMap.get(attr) * documentFreq.get(attr)).append(", ");
                         else instance.append("0, ");
                     }
                     instance.append(t.getGrade()).append('\n');
@@ -288,6 +308,17 @@ public class TabDatabase {
 
         /**
          * Creates the ARFF file for the 'Chord Stretch' feature extraction.
+         *
+         * @param tfWeight  -   term frequency weight variant
+         *                          "tf": term frequency,
+         *                          "lognorm": logarithmic normalisation,
+         *                          "doublenorm": double normalisation,
+         *                          "binary": binary indication of presence in document,
+         * @param idfWeight -   document frequency weight variant
+         *                          "idf": inverse document frequency,
+         *                          "idfs": inverse document frequency smooth,
+         *                          "unary": no weighting
+         * @param singles   -   include single note chords
          */
         public void createChordStretchARFF(String tfWeight, String idfWeight, boolean singles) {
             HashMap<Integer, Double> documentFreq = new HashMap<>();
@@ -309,16 +340,17 @@ public class TabDatabase {
                 header.append("@attribute ").append(attr).append(" NUMERIC\n");
             }
             header.append("@attribute grade {1,2,3,4,5,6,7,8}\n\n@data\n");
+//            header.append("@attribute grade NUMERIC\n\n@data\n");
             writeARFF(dataPath + fileName, header.toString(), true);
 
             for (ArrayList<Tab> grade : tabs) {
-                for (int i = 0; i < grade.size(); i++) {
-                    Tab t = grade.get(i);
+                for (Tab t : grade) {
                     HashMap<Integer, Double> stretchMap = t.getStretch(tfWeight, singles);
 
                     StringBuilder instance = new StringBuilder();
                     for (Integer attr : attributes) {
-                        if (stretchMap.containsKey(attr)) instance.append(stretchMap.get(attr) * documentFreq.get(attr)).append(", ");
+                        if (stretchMap.containsKey(attr))
+                            instance.append(stretchMap.get(attr) * documentFreq.get(attr)).append(", ");
                         else instance.append("0, ");
                     }
                     instance.append(t.getGrade()).append('\n');

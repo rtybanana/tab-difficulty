@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/weka.jar!/" />
+          <root url="jar://$MODULE_DIR$/jars/weka.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
