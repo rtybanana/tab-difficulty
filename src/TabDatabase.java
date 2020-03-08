@@ -182,14 +182,11 @@ public class TabDatabase {
                     Instances train = data.trainCV(folds, n, rand);
                     Instances test = data.testCV(folds, n);
                     totaltested += test.numInstances();
-
                     classifier.buildClassifier(train);
+
+                    // confusion matrix
                     for (Instance t : test) {
                         cMatrix[Integer.parseInt(t.toString(train.attribute("grade"))) - 1][(int) (classifier.classifyInstance(t))]++;
-//                        int cls = (int) Math.round(classifier.classifyInstance(t));
-//                        if (cls > 8) cls = 8;
-//                        else if (cls < 1) cls = 1;
-//                        cMatrix[Integer.parseInt(t.toString(train.attribute("grade"))) - 1][cls - 1]++;
                     }
                 }
                 seed++;
@@ -204,24 +201,35 @@ public class TabDatabase {
                 System.out.println();
             }
 
-            final int ACCEPTABLE_TREND_RANGE = 2;
-            int correct = 0;
-            int ballpark = 0;
-            int trend = 0;
+            // Evaluation
+            int correct = 0;                    // standard accuracy
+            int ballpark = 0;                   // ballpark accuracy
+            int trend = 0;                      // trend score
+            double MMAE = 0;                    // macroaverageed mean absolute error
             for (int i = 0; i < 8; i++) {
                 correct += cMatrix[i][i];
                 ballpark += cMatrix[i][i];
                 if (i > 0) ballpark += cMatrix[i-1][i];
                 if (i < 7) ballpark += cMatrix[i+1][i];
-                for (int j = 0; j < 8; j++) trend += cMatrix[i][j] * (-Math.abs(i - j) + ACCEPTABLE_TREND_RANGE);
+
+                int inClass = 0;
+                int absError = 0;
+                for (int j = 0; j < 8; j++) {
+                    trend += cMatrix[i][j] * (-Math.abs(i - j) + 1);
+                    inClass += cMatrix[i][j];
+                    absError += cMatrix[i][j] * Math.abs(i - j);
+                }
+                MMAE += (double)absError / inClass;
             }
 
             double accuracy = (double)correct/totaltested * 100;
             double ballpark_accuracy = (double)ballpark/totaltested * 100;
-            double trend_score = ((double)trend/ACCEPTABLE_TREND_RANGE) / totaltested;
+            double trend_score = (double)trend/totaltested;
+            MMAE = MMAE / 8;
             System.out.println("Accuracy: " + String.format("%.2f", accuracy) +"%");
             System.out.println("Ballpark Accuracy: " + String.format("%.2f", ballpark_accuracy) +"%");
             System.out.println("Trend Score: " + String.format("%.2f", trend_score));
+            System.out.println("Macroaveraged Mean Absolute Error: " + String.format("%.2f", MMAE));
             System.out.println();
         }
 
@@ -238,8 +246,7 @@ public class TabDatabase {
             writeARFF(dataPath + fileName, header, true);
 
             for (ArrayList<Tab> grade : tabs) {
-                for (int i = 0; i < grade.size(); i++) {
-                    Tab t = grade.get(i);
+                for (Tab t : grade) {
                     writeARFF(dataPath + fileName, t.getNumberOfBars() + ", " + t.getGrade() + "\n");
                 }
             }
@@ -284,13 +291,13 @@ public class TabDatabase {
             writeARFF(dataPath + fileName, header.toString(), true);
 
             for (ArrayList<Tab> grade : tabs) {
-                for (int i = 0; i < grade.size(); i++) {
-                    Tab t = grade.get(i);
+                for (Tab t : grade) {
                     HashMap<String, Double> tabChordMap = t.getDiscreteChords(tfWeight);
 
                     StringBuilder instance = new StringBuilder();
                     for (String attr : attributes) {
-                        if (tabChordMap.containsKey(attr)) instance.append(tabChordMap.get(attr) * documentFreq.get(attr)).append(", ");
+                        if (tabChordMap.containsKey(attr))
+                            instance.append(tabChordMap.get(attr) * documentFreq.get(attr)).append(", ");
                         else instance.append("0, ");
                     }
                     instance.append(t.getGrade()).append('\n');
@@ -338,13 +345,13 @@ public class TabDatabase {
             writeARFF(dataPath + fileName, header.toString(), true);
 
             for (ArrayList<Tab> grade : tabs) {
-                for (int i = 0; i < grade.size(); i++) {
-                    Tab t = grade.get(i);
+                for (Tab t : grade) {
                     HashMap<Integer, Double> stretchMap = t.getStretch(tfWeight, singles);
 
                     StringBuilder instance = new StringBuilder();
                     for (Integer attr : attributes) {
-                        if (stretchMap.containsKey(attr)) instance.append(stretchMap.get(attr) * documentFreq.get(attr)).append(", ");
+                        if (stretchMap.containsKey(attr))
+                            instance.append(stretchMap.get(attr) * documentFreq.get(attr)).append(", ");
                         else instance.append("0, ");
                     }
                     instance.append(t.getGrade()).append('\n');
