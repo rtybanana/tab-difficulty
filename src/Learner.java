@@ -9,7 +9,7 @@ import java.util.*;
 public class Learner {
     private String dataPath;
     private TabDatabase tabdb;
-    private static String[] VOTE_SCHEMES = new String[]{"majority", "weighted", "probablistic"};
+    private static String[] VOTE_SCHEMES = new String[]{"majority", "weighted", "probablistic", "probablistic_avg"};
 
     public Learner(TabDatabase tabdb) {
         this.dataPath = "ARFFs\\";
@@ -209,7 +209,7 @@ public class Learner {
 
                 for (int c = 0; c < classifiers.size(); c++) {
                     classifiers.get(c).buildClassifier(trainingsets.get(c));
-                    if (voteScheme.equals("weighted") || voteScheme.equals("probablistic")) {
+                    if (voteScheme.equals("weighted") || voteScheme.equals("probablistic") || voteScheme.equals("probablistic_avg")) {
                         weights.add(weightClassifier(classifiers.get(c), trainingsets.get(c)));
                     }
                 }
@@ -225,8 +225,8 @@ public class Learner {
                         Instance instance = testsets.get(c).get(t);
                         int cls = (int)classifiers.get(c).classifyInstance(instance);
 
-                        // weighted probabalistic vote and mean
-                        if (voteScheme.equals("probablistic")) {
+                        // weighted probabalistic average vote and weighted probablistic vote
+                        if (voteScheme.contains("probablistic")) {
                             double weight = weights.get(c);
                             double[] distribution = classifiers.get(c).distributionForInstance(instance);
                             Arrays.setAll(averageDist, i -> averageDist[i] + distribution[i] * (i + 1) * weight);
@@ -246,9 +246,19 @@ public class Learner {
                     }
                     int estimate;
                     
-                    // weighted probabalistic vote and mean
-                    if (voteScheme.equals("probablistic")) {
+                    // weighted probabalistic average vote and mean
+                    if (voteScheme.equals("probablistic_avg")) {
                         estimate = (int)Math.round(Arrays.stream(averageDist).sum() / totalWeight) - 1;
+                    }
+
+                    // weighted probabalistic vote and mean
+                    else if (voteScheme.equals("probablistic")) {
+                        double finalTotalWeight = totalWeight;
+                        Arrays.setAll(averageDist, i -> averageDist[i] / finalTotalWeight);
+                        estimate = 0;
+                        for (int d = 1; d < averageDist.length; d++) {
+                            if (averageDist[d] > averageDist[estimate]) estimate = d;
+                        }
                     }
 
                     // weighted vote and mean
