@@ -1,0 +1,128 @@
+-t
+-f
+{The Division of the Rogero Before/}
+b
+C
+1  \3d
+1 a
+b
+1 \2c\3d\1ca
+#2  d
+x a
+#2 c
+x  d
+#2 a
+x c
+b
+1 \4da \1c
+#2 a
+x \2c
+#2 \4d
+x a
+#2 \2c
+x \4d
+b
+1 \2c\3d\1ca
+#2\4d
+x\2c
+#2a
+x \4d
+#2 \2c
+x a
+b
+0 \2c\3d\1ca
+1a   a
+#2\2c
+xa
+b
+1 \4d\3da
+#2a
+x \4d
+1 \2c a
+#2 \4d
+x c
+b
+
+b
+1 a   a
+#2 \2c
+x a
+1  \4d  \1c
+#2 a
+x  \4d
+b
+1  \3c\2c a
+#2   c
+x   \1b
+#2   \2c
+x  a
+#2  \2c
+x  \4d
+b
+0  \2c\1c a
+1   c
+1  a
+b
+1  \2c\1c a
+#2   c
+x  a
+#2  c
+x  \4d
+1  c
+b
+1  \4d  \1c
+#2  a
+x  \2c
+#2  \4d
+x  a
+#2  c
+x  d
+b
+#2  \2c\1c a
+x  a
+#2  c
+x  \4d
+#2 a
+x  d
+#2  c
+x  a
+b
+0  \2c\1c a
+1 \2c  a
+#2 a
+x c
+b
+
+b
+#2 \4d a
+x \2c
+#2 \4d
+xa
+#2\2c
+xa
+#2 \4d
+x \2c
+b
+#2 a   a
+x  \2d
+#2  \1c
+x  a
+#2  c
+x  d
+#2 a
+x  c
+b
+1 \2c\3d a
+#2  d
+x  \1c
+#2  d
+x a
+#2 \2c
+x \4d
+b
+0 \2c\3d a
+.
+b
+b
+
+e

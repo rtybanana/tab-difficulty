@@ -1,0 +1,54 @@
+-t
+-f
+{Buffons/TCD MS 408/2 p.104}
+b
+c
+1 \1c\2d a
+2  d
+2 a
+1 cd a
+1 cd
+b
+1 \3d\2da
+2 a
+2 \1c
+1 dda
+1 dda
+b
+1 cd a
+2  d
+2 a
+1 cd a
+2 a
+2  d
+b
+0 a\1c  a
+0 ac  a
+b
+1 \1c\2d a
+2  d
+2 a
+1 cd a
+1 cd a
+b
+1 \3d\2da
+2 a
+2 c
+1 dda
+1 dd
+b
+1 cd a
+2 a
+2  d
+1 a   a
+1  \1c
+b
+
+b
+1  \2d\1ca
+1   c
+Y    a
+b
+b
+
+e

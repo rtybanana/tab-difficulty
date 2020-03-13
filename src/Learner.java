@@ -9,7 +9,7 @@ import java.util.*;
 public class Learner {
     private String dataPath;
     private TabDatabase tabdb;
-    private static String[] VOTE_SCHEMES = new String[]{"majority", "weighted", "probablistic", "probablistic_avg"};
+    private static String[] VOTE_SCHEMES = new String[]{"majority", "weighted", "probablistic", "windowed"};
 
     public Learner(TabDatabase tabdb) {
         this.dataPath = "ARFFs\\";
@@ -54,7 +54,6 @@ public class Learner {
             return;
         }
 
-
         // test and build confusion matrix
         data.setClassIndex(data.attribute("grade").index());
         int[][] cMatrix = new int[8][8];
@@ -76,8 +75,8 @@ public class Learner {
             seed++;
         }
 
-        String name = "single: " + usedRelations.toString();
-        evaluateLearner(name.toString(), cMatrix);
+        System.out.println("single: " + usedRelations.toString());
+        evaluateLearner(cMatrix);
     }
 
     /**
@@ -112,6 +111,8 @@ public class Learner {
             return;
         }
 
+        System.out.println("homogenous ensemble: " + usedRelations.toString());
+
         // test and build confusion matrix
         data.setClassIndex(data.attribute("grade").index());
         int[][] cMatrix = new int[8][8];
@@ -133,8 +134,7 @@ public class Learner {
             seed++;
         }
 
-        String name = "homogenous ensemble: " + usedRelations.toString();
-        evaluateLearner(name.toString(), cMatrix);
+        evaluateLearner(cMatrix);
     }
 
     /**
@@ -187,6 +187,8 @@ public class Learner {
             voteScheme = "majority";
         }
 
+        System.out.println("heterogenous ensemble: " + datasetName.toString());
+
         // test and build confusion matrix
         ArrayList<Classifier> classifiers = new ArrayList<>(Arrays.asList(AbstractClassifier.makeCopies(classifier, dataset.size())));
         int[][] cMatrix = new int[8][8];
@@ -209,12 +211,12 @@ public class Learner {
 
                 for (int c = 0; c < classifiers.size(); c++) {
                     classifiers.get(c).buildClassifier(trainingsets.get(c));
-                    if (voteScheme.equals("weighted") || voteScheme.equals("probablistic") || voteScheme.equals("probablistic_avg")) {
+                    if (voteScheme.equals("weighted") || voteScheme.equals("probablistic") || voteScheme.equals("windowed")) {
                         weights.add(weightClassifier(classifiers.get(c), trainingsets.get(c)));
                     }
                 }
 
-                System.out.println(weights);
+                // System.out.println(weights);
 
                 // confusion matrix
                 for (int t = 0; t < testsets.get(0).size(); t++) {
@@ -226,10 +228,10 @@ public class Learner {
                         int cls = (int)classifiers.get(c).classifyInstance(instance);
 
                         // weighted probabalistic average vote and weighted probablistic vote
-                        if (voteScheme.contains("probablistic")) {
+                        if (voteScheme.equals("probablistic") || voteScheme.equals("windowed") ) {
                             double weight = weights.get(c);
                             double[] distribution = classifiers.get(c).distributionForInstance(instance);
-                            Arrays.setAll(averageDist, i -> averageDist[i] + distribution[i] * (i + 1) * weight);
+                            Arrays.setAll(averageDist, i -> averageDist[i] + distribution[i] * weight);
                             totalWeight += weight;
                         }
                         
@@ -244,17 +246,45 @@ public class Learner {
                             meanClass += cls;
                         }
                     }
+                    
                     int estimate;
                     
-                    // weighted probabalistic average vote and mean
-                    if (voteScheme.equals("probablistic_avg")) {
-                        estimate = (int)Math.round(Arrays.stream(averageDist).sum() / totalWeight) - 1;
+                    // windowed probabalistic mean
+                    if (voteScheme.equals("windowed")) {
+                        int naive = 0;
+                        for (int d = 1; d < averageDist.length; d++) {
+                            if (averageDist[d] > averageDist[naive]) naive = d;
+                        }
+                        naive++;                                        //shift the naive estimate to be used in averages
+
+                        int window = Math.abs(averageDist.length - naive) < Math.abs(naive - 1) ? (int)Math.abs(averageDist.length - naive) : (int)Math.abs(naive - 1);
+                        int start = (int)naive - window - 1;
+                        double[] windowedDist = Arrays.copyOfRange(averageDist, start, (int)naive + window);
+
+                        double divisor = (double) 0;
+                        double windowedMean = (double) 0;
+                        for (int i = 0; i < windowedDist.length; i++) {
+                            windowedMean += windowedDist[i] * (i + start + 1);
+                            divisor += windowedDist[i];
+                        }
+                        windowedMean = (int)Math.round(windowedMean / divisor);
+
+                        estimate = (int)windowedMean - 1;
+
+
+                        //probablistic mean (no window) (commonly misclassifies grades 1 and 8 due to mean pulling class towards the middle)
+                        // double mean = (double) 0;
+                        // for (int i = 0; i < averageDist.length; i++) {
+                        //     mean += averageDist[i] * (i + 1);
+                        // }
+
+                        // System.out.println((int)Math.round(mean / totalWeight) + " | " + testsets.get(0).get(t).toString(testsets.get(0).attribute("grade")));
+
+                        // estimate = (int)Math.round(mean / totalWeight) - 1;
                     }
 
-                    // weighted probabalistic vote and mean
+                    // weighted probabalistic vote
                     else if (voteScheme.equals("probablistic")) {
-                        double finalTotalWeight = totalWeight;
-                        Arrays.setAll(averageDist, i -> averageDist[i] / finalTotalWeight);
                         estimate = 0;
                         for (int d = 1; d < averageDist.length; d++) {
                             if (averageDist[d] > averageDist[estimate]) estimate = d;
@@ -271,21 +301,12 @@ public class Learner {
                         estimate = (int)Math.round(meanClass / classifiers.size());
                     }
 
-                    // printing debugging
-                    // double avg = Math.round(Arrays.stream(averageDist).sum() / classifiers.size());
-                    // if ((int) (meanClass + 1) != (int)avg) {
-                    //     System.out.println(Arrays.toString(averageDist) + ": "
-                    //                             + testsets.get(0).get(t).toString(testsets.get(0).attribute("grade")) + " | "
-                    //                             + (int) (meanClass + 1) + ", " + (int)avg);
-                    // }
-
                     cMatrix[Integer.parseInt(testsets.get(0).get(t).toString(testsets.get(0).attribute("grade"))) - 1][estimate]++;
                 }
             }
         }
 
-        String name = "heterogenous ensemble: " + datasetName.toString();
-        evaluateLearner(name.toString(), cMatrix);
+        evaluateLearner(cMatrix);
     }
 
     private double weightClassifier(Classifier classifier, Instances train) throws Exception {
@@ -297,9 +318,8 @@ public class Learner {
         // return Math.pow(1 / MMAE(eval.confusionMatrix()), 3);
     }
 
-    private void evaluateLearner(String name, int[][] cMatrix) {
+    private void evaluateLearner(int[][] cMatrix) {
         int totalTested = 0;
-        System.out.println(name);
         for (int i = 0; i < 8; i++){
             for (int j = 0; j < 8; j++){
                 totalTested += cMatrix[i][j];
@@ -359,11 +379,11 @@ public class Learner {
     }
 
     /**
-     * Creates the ARFF file for the 'Number of Bars' feature extraction. Ad
+     * Creates the ARFF file for the 'Number of Bars' feature extraction.
      */
-    public void createNumberOfBarsARFF() {
-        String fileName = "numberOfBars.arff";
-        String header = "@relation numberOfBars\n\n" +
+    public void createNumberOfBarsARFF(String name) {
+        String fileName = name + ".arff";
+        String header = "@relation " + name + "\n\n" +
                         "@attribute bars NUMERIC\n" +
                         "@attribute grade {1,2,3,4,5,6,7,8}\n\n" +
                         "@data\n";
@@ -378,11 +398,30 @@ public class Learner {
     }
 
     /**
+     * Creates the ARFF file for the 'Highest Fret' feature extraction.
+     */
+    public void createHighestFretARFF(String name) {
+        String fileName = name + ".arff";
+        String header = "@relation " + name + "\n\n" +
+                        "@attribute highestFret NUMERIC\n" +
+                        "@attribute grade {1,2,3,4,5,6,7,8}\n\n" +
+                        "@data\n";
+
+                        WekaTools.writeARFF(dataPath + fileName, header, true);
+
+        for (ArrayList<Tab> grade : tabdb.getTabs()) {
+            for (Tab t : grade) {
+                WekaTools.writeARFF(dataPath + fileName, t.getHighestFret() + ", " + t.getGrade() + "\n");
+            }
+        }
+    }
+
+    /**
      * Creates the ARFF file for the 'Number Of Fingers' feature extraction.
      */
-    public void createAverageNoOfFingersARFF() {
-        String fileName = "averageNoOfFingers.arff";
-        String header = "@relation averageNoOfFingers\n\n" +
+    public void createAverageNoOfFingersARFF(String name) {
+        String fileName = name + ".arff";
+        String header = "@relation " + name + "\n\n" +
                         "@attribute fingers NUMERIC\n" +
                         "@attribute grade {1,2,3,4,5,6,7,8}\n\n" +
                         "@data\n";
@@ -399,9 +438,9 @@ public class Learner {
     /**
      * Creates the ARFF file for the 'Position Variance' feature extraction.
      */
-    public void createPositionVarianceARFF() {
-        String fileName = "positionVariance.arff";
-        String header = "@relation positionVariance\n\n" +
+    public void createPositionVarianceARFF(String name) {
+        String fileName = name + ".arff";
+        String header = "@relation " + name + "\n\n" +
                         "@attribute variance NUMERIC\n" +
                         "@attribute grade {1,2,3,4,5,6,7,8}\n\n" +
                         "@data\n";
@@ -429,7 +468,7 @@ public class Learner {
      *                          "idfs": inverse document frequency smooth,
      *                          "unary": no weighting
      */
-    public void createDiscreteChordsARFF(String tfWeight, String idfWeight) {
+    public void createDiscreteChordsARFF(String tfWeight, String idfWeight, String name) {
         HashMap<String, Double> documentFreq = new HashMap<>();
         for (Tab tab : tabdb.getTabsFlat()) {
             for (String k : tab.getDiscreteChords(tfWeight).keySet()){
@@ -440,8 +479,8 @@ public class Learner {
         else if (idfWeight.equals("idfs")) documentFreq.replaceAll((k, v) -> Math.log(tabdb.size() / (1 + v)) + 1);     //inverse document frequency smooth
         else documentFreq.replaceAll((k, v) -> (double) 1);                                                             //unary
 
-        String fileName = "discreteChords.arff";
-        StringBuilder header = new StringBuilder("@relation discreteChords\n\n");
+        String fileName = name + ".arff";
+        StringBuilder header = new StringBuilder("@relation " + name + "\n\n");
         ArrayList<String> attributes = new ArrayList<>();
         for (String attr : documentFreq.keySet()) {
             attributes.add(attr);
@@ -481,7 +520,7 @@ public class Learner {
      *                          "unary": no weighting
      * @param singles   -   include single note chords
      */
-    public void createChordStretchARFF(String tfWeight, String idfWeight, boolean singles) {
+    public void createChordStretchARFF(String tfWeight, String idfWeight, boolean singles, String name) {
         HashMap<Integer, Double> documentFreq = new HashMap<>();
         for (Tab t : tabdb.getTabsFlat()){
             for (Integer k : t.getStretch(tfWeight, singles).keySet()){
@@ -493,8 +532,8 @@ public class Learner {
         else documentFreq.replaceAll((k, v) -> (double) 1);
         // System.out.println(documentFreq);
 
-        String fileName = "chordStretch.arff";
-        StringBuilder header = new StringBuilder("@relation chordStretch\n\n");
+        String fileName = name + ".arff";
+        StringBuilder header = new StringBuilder("@relation " + name + "\n\n");
         ArrayList<Integer> attributes = new ArrayList<>();
         for (Integer attr : documentFreq.keySet()) {
             attributes.add(attr);
@@ -519,5 +558,36 @@ public class Learner {
                 WekaTools.writeARFF(dataPath + fileName, instance.toString());
             }
         }
+    }
+
+    /**
+     * ARFF naming overloads
+     * 
+     * Overloads for all of the above methods to faciliate optional file naming (to save alternative data 
+     * configurations without overwriting existing ARFFs). These methods provide a wrapper by calling their
+     * relevant method and passing a default name.
+     */
+    public void createNumberOfBarsARFF() {
+        createNumberOfBarsARFF("numberOfBars");
+    }
+
+    public void createHighestFretARFF() {
+        createHighestFretARFF("highestFret");
+    }
+
+    public void createAverageNoOfFingersARFF() {
+        createAverageNoOfFingersARFF("averageNoOfFingers");
+    }
+
+    public void createPositionVarianceARFF() {
+        createPositionVarianceARFF("positionVariance");
+    }
+
+    public void createDiscreteChordsARFF(String tfWeight, String idfWeight) {
+        createDiscreteChordsARFF(tfWeight, idfWeight, "discreteChords");
+    }
+
+    public void createChordStretchARFF(String tfWeight, String idfWeight, boolean singles) {
+        createChordStretchARFF(tfWeight, idfWeight, singles, "chordStretch");
     }
 }

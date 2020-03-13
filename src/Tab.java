@@ -88,6 +88,26 @@ class Tab {
         return bars;
     }
 
+    /** getNumberOfBars
+     * 
+     * @return the highest fret in this tab
+     */
+    public int getHighestFret() {
+        int highestFret = 0;
+        for (String event : events) {
+            if (isNoteEvent(event)) {
+                for (char c : event.toCharArray()) {
+                    int fret = (int)c - 97;
+                    if (fret > 0 && fret < 15) {                            //in range for fretted notes
+                        if (fret > highestFret) highestFret = fret;
+                    }
+                }
+            }
+        }
+
+        return highestFret;
+    }
+
     /** getStretch
      * 
      * @param weight    -   
@@ -155,7 +175,7 @@ class Tab {
                     }
                 }
 
-                if (fingers > 0) {
+                if (fingers > 1) {
                     totalFingers += fingers;
                     noOfEvents++;
                 }

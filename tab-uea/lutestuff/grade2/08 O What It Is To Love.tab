@@ -1,0 +1,61 @@
+-t
+-f
+{O What It Is To Love/Dallis P.17}
+b
+S3
+1 a\1b\2c
+#2     a
+x a
+#2  b
+x     a
+b
+1  a\1b\2c
+#2    c
+x a
+#2  a
+x    c
+b
+1 a\1b\2c
+#2     a
+x a
+#2  b
+x     a
+b
+1  a\1b\2c
+#2    c
+x a
+#2  a
+x    c
+b
+#2 a\1b\2c
+x  a
+#2  b
+x  \4d
+#2 a
+x \3c
+b
+#2 \4d a
+x \2c
+#2 a
+x  \4d
+#2  \1b
+x  a
+b
+
+b
+1 a\1b\2c
+#2     a
+x     \2c
+#2     \3d
+x    a
+b
+1  a\1b\2c
+#2    c
+x a
+#2  a
+x    c
+.
+b
+b
+
+e

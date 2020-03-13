@@ -1,0 +1,76 @@
+-t
+-f
+{44. La Lonbarda/1511b f.5 edited}
+b
+S3
+1  \1d\2e\3f
+1  def
+1  def
+b
+#2 a\1b  \3d
+x  a
+#2  b
+x  \4d
+1 ab  d
+b
+#2a\2c  a
+x a
+#2 \1c
+x \2d
+1a\1c  a
+b
+1\1c \2da
+0c da
+.
+b
+b
+.
+1\4da   \2d
+1da   d
+1\1c \3da
+b
+#2a\1c  a
+x a
+#2 c
+x \2d
+1a\1c  a
+b
+1\2c \3da
+#2a
+x \4d
+#2 \2c
+x a
+b
+1 \2c\3d\1ca
+0 cdca
+.
+b
+b
+.
+1 \4daa
+1 daa
+1 \2c\3d a
+b
+
+b
+#2 a\1b  \3d
+x  a
+#2  b
+x  \4d
+1 ab  d
+b
+#2a\2c  a
+x a
+#2 \2c
+x \4d
+1ac  a
+b
+1 \4daa
+0 daa
+.
+b
+b
+x
+b
+
+e
