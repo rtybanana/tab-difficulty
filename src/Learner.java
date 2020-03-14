@@ -323,10 +323,10 @@ public class Learner {
         for (int i = 0; i < 8; i++){
             for (int j = 0; j < 8; j++){
                 totalTested += cMatrix[i][j];
-                System.out.print(cMatrix[i][j]);
-                if (j < 7) System.out.print(" & ");
+                // System.out.print(cMatrix[i][j]);
+                // if (j < 7) System.out.print(" & ");
             }
-            System.out.println();
+            // System.out.println();
         }
 
         int correct = 0;                    // standard accuracy
