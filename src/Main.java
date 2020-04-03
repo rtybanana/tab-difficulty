@@ -14,7 +14,7 @@ public class Main {
         // learner.createChordStretchARFF("lognorm", "unary", false);
         // learner.createDiscreteChordsARFF("binary", "unary");
         // learner.createPositionVarianceARFF();
-        // learner.createAverageNoOfFingersARFF();
+        learner.createAverageNoOfFingersARFF();
         // learner.createHighestFretARFF();
 
         try {
@@ -31,41 +31,41 @@ public class Main {
             learner.testSingleLearner(new String[]{"averageNoOfFingers"}, 10, 5, seed, nb);
 
             // combining all possible pairs
-            learner.testSingleLearner(new String[]{"chordStretch", "positionVariance"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"chordStretch", "averageNoOfFingers"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"chordStretch", "positionVariance"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"chordStretch", "averageNoOfFingers"}, folds, runs, seed, nb);
             learner.testSingleLearner(new String[]{"chordStretch", "numberOfBars"}, folds, runs, seed, nb);  
-            learner.testSingleLearner(new String[]{"chordStretch", "highestFret"}, folds, runs, seed, nb);                                        
-            learner.testSingleLearner(new String[]{"positionVariance", "averageNoOfFingers"}, folds, runs, seed, nb); 
-            learner.testSingleLearner(new String[]{"positionVariance", "numberOfBars"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"positionVariance", "highestFret"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"averageNoOfFingers", "numberOfBars"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"averageNoOfFingers", "highestFret"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"numberOfBars", "highestFret"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"chordStretch", "highestFret"}, folds, runs, seed, nb);                                        
+            // learner.testSingleLearner(new String[]{"positionVariance", "averageNoOfFingers"}, folds, runs, seed, nb); 
+            // learner.testSingleLearner(new String[]{"positionVariance", "numberOfBars"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"positionVariance", "highestFret"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"averageNoOfFingers", "numberOfBars"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"averageNoOfFingers", "highestFret"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"numberOfBars", "highestFret"}, folds, runs, seed, nb);
 
             // // combining all possible triplets
-            learner.testSingleLearner(new String[]{"chordStretch", "positionVariance", "averageNoOfFingers"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"chordStretch", "positionVariance", "averageNoOfFingers"}, folds, runs, seed, nb);
             learner.testSingleLearner(new String[]{"chordStretch", "positionVariance", "numberOfBars"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"chordStretch", "positionVariance", "highestFret"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"chordStretch", "averageNoOfFingers", "numberOfBars"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"chordStretch", "averageNoOfFingers", "highestFret"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"chordStretch", "numberOfBars", "highestFret"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"positionVariance", "averageNoOfFingers", "numberOfBars"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"positionVariance", "averageNoOfFingers", "highestFret"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"positionVariance", "numberOfBars", "highestFret"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"averageNoOfFingers", "numberOfBars", "highestFret"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"chordStretch", "positionVariance", "highestFret"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"chordStretch", "averageNoOfFingers", "numberOfBars"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"chordStretch", "averageNoOfFingers", "highestFret"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"chordStretch", "numberOfBars", "highestFret"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"positionVariance", "averageNoOfFingers", "numberOfBars"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"positionVariance", "averageNoOfFingers", "highestFret"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"positionVariance", "numberOfBars", "highestFret"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"averageNoOfFingers", "numberOfBars", "highestFret"}, folds, runs, seed, nb);
 
             // combining all possible quadruplets
             learner.testSingleLearner(new String[]{"numberOfBars", "chordStretch", "positionVariance", "averageNoOfFingers"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"chordStretch", "positionVariance", "averageNoOfFingers", "highestFret"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"positionVariance", "averageNoOfFingers", "highestFret", "numberOfBars"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"averageNoOfFingers", "highestFret", "numberOfBars", "chordStretch"}, folds, runs, seed, nb);
-            learner.testSingleLearner(new String[]{"highestFret", "numberOfBars", "chordStretch", "positionVariance"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"chordStretch", "positionVariance", "averageNoOfFingers", "highestFret"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"positionVariance", "averageNoOfFingers", "highestFret", "numberOfBars"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"averageNoOfFingers", "highestFret", "numberOfBars", "chordStretch"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"highestFret", "numberOfBars", "chordStretch", "positionVariance"}, folds, runs, seed, nb);
 
             //combining all possible quintets
             learner.testSingleLearner(new String[]{"numberOfBars", "chordStretch", "positionVariance", "averageNoOfFingers", "highestFret"}, folds, runs, seed, nb);
 
             // discrete chords
-            learner.testSingleLearner(new String[]{"discreteChords"}, folds, runs, seed, nb);
+            // learner.testSingleLearner(new String[]{"discreteChords"}, folds, runs, seed, nb);
 
             // learner.testHeterogenousLearner(new String[][] {
             //     {"discreteChords"},
@@ -84,13 +84,12 @@ public class Main {
             //     {"numberOfBars", "chordStretch", "positionVariance", "averageNoOfFingers"},
             // }, folds, runs, seed, nb, "weighted");
 
-            learner.testHeterogenousLearner(new String[][] {
-                {"discreteChords"},
-                {"numberOfBars", "chordStretch"},
-                {"positionVariance", "averageNoOfFingers"},
-                // {"averageNoOfFingers", "numberOfBars", "highestFret"},
-                {"numberOfBars", "chordStretch", "positionVariance", "averageNoOfFingers"},
-            }, folds, runs, seed, nb, "windowed");
+            // learner.testHeterogenousLearner(new String[][] {
+            //     {"discreteChords"},
+            //     {"numberOfBars", "chordStretch"},
+            //     {"positionVariance", "averageNoOfFingers"},
+            //     {"numberOfBars", "chordStretch", "positionVariance", "averageNoOfFingers"},
+            // }, folds, runs, seed, nb, "windowed");
              
         } catch (Exception e) {
             System.err.println(e.getMessage());
