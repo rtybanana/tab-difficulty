@@ -1,0 +1,359 @@
+-C
+-t
+-f
+{Ricercar/Milano (Ness 8)}
+b
+c
+0 dda
+0 dda
+b
+0 daac
+0 dba d
+b
+0 ddef
+1 ddef
+1  f
+b
+1acd a
+1 d
+1add a
+1 c
+b
+0cdda
+1acd a
+1c
+b
+1dabc
+1a
+1 abc
+1dc
+b
+
+b
+1.cdda
+2a
+#2cd
+xd
+1f
+b
+1 c  a
+#2dd
+xc
+1a   a
+1fc
+b
+1cd a
+1f
+#2  a
+xd
+1c
+b
+#2  d
+xa
+x d
+x c
+1 ab
+1d
+b
+
+b
+#2   c
+xc
+1a
+#2  b
+x d
+x c
+x a
+b
+1  de
+#2   a
+x  b
+1  a
+1   cd
+b
+1    c
+1   a d
+1     f
+1  d e
+b
+1  aa
+1f
+1c d
+1f a
+b
+#2  d
+xd
+1c   a
+1  b c
+1a   e
+b
+
+b
+1c aa
+1  d
+1  a a
+1  d  c
+b
+#2    a
+x  b
+1 ca
+1 d   d
+1a  c
+b
+0  de c
+0f de c
+b
+0ca ac
+0ca ac
+b
+0da c a
+1da c a
+1a
+b
+1ac ca
+1  d
+1 da c
+1  b
+b
+
+b
+1a   d
+1  d a
+1c  a
+1  a
+b
+1 db c
+1     d
+1  aa
+1 d
+b
+1  bc
+1dc
+1 dda
+1c
+b
+1 bd a
+1a
+1 aa c
+1 dda
+b
+1   ca
+1dc
+1 dda
+1c
+b
+
+b
+1dabc
+1a
+1  d a
+1 c
+b
+1 da c
+1 a
+1   c d
+1  b
+b
+1  def
+1  a
+1   ac
+1 db
+b
+1a   d
+1d bc
+1  da
+1ca
+b
+1d  c
+1  b
+1a   d
+1  d a
+b
+
+b
+1c  a
+1  a
+1 d  c
+1  b  d
+b
+1a   d
+1   c
+1 c  a
+1  a  c
+b
+1 d  c
+1   a
+1 a   d
+1   c a
+b
+1 c  a
+1  a
+1 d  c
+1  b
+b
+#2a    d
+x  a
+1   c
+1c    c
+1   a
+b
+
+b
+1d    a
+1    e
+1c  a
+1    c
+b
+#2a   d
+x   a
+x   c
+x  a
+1 db c
+1a    d
+b
+1  a a
+1 d  c
+1   c d
+1 c  a
+b
+1 da c
+#2     d
+x    a
+#2    c
+x    d
+x   a
+x   c
+b
+
+b
+1 da
+1  b
+#2a
+x   c
+1  d
+b
+1c
+#2  b
+x  a
+1d  c
+1  b
+b
+#2c  a
+x  d
+1 d
+1a   a
+#2fc
+xd
+b
+1cd a
+#2f
+xd
+#2c
+xa
+x d  c
+x b
+b
+
+b
+#2 a c
+x  d
+x  b
+x  a
+1   cd
+#2d
+xc
+b
+#2a
+x d
+x c  a
+x a
+#2  da
+x  b
+x  a
+x   c
+b
+1   ac
+#2 d
+x c
+#2 a
+x  d
+x  b  a
+x  a
+b
+#2   ca
+x   a
+x    e
+x    c
+1    ac
+1    cd
+b
+
+b
+1    ef
+1 d a c
+1a    a
+1    e
+b
+1c  a
+1f
+#2  a
+xd
+1c
+b
+#2   a
+xa
+1 d
+#2    c
+x c
+1 a
+b
+#2     d
+x  d
+1  b
+#2    c
+x  a
+x   c
+x   a
+b
+
+b
+1    ef
+1  d
+1   a
+1 da
+b
+1  bc
+1dc
+1 dda
+1c
+b
+1 bd a
+1a
+1 abc
+1d
+b
+1 dda
+1c
+1 bd a
+1a
+b
+1 aa c
+1 dba
+1  dca
+1 c
+b
+
+b
+1 ddef
+1   f
+1 ddff
+1   e
+b
+0 dff d
+0 dff d
+b
+Y ddef
+b
+b
+
+e

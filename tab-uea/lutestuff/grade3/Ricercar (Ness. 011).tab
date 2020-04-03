@@ -1,0 +1,225 @@
+-C
+-t
+-f
+{Ricercar/Ness. 11}
+b
+c
+0 aabc
+1 aabc
+1 aabc
+b
+1 acc
+1     a
+1 acc
+1 aabc
+b
+#2   ce
+x a
+x  e
+x  c
+1  ece
+1a
+b
+#2 a ec
+xa
+x e
+x c
+1 e ec
+1aacc
+b
+#2acd a
+x e
+xa
+xc
+#2ea   a
+x  e
+x a
+x c
+b
+
+b
+#2 ea c
+xa
+xc
+xa
+1ccee
+1  f
+b
+1ce  c
+1  f
+1cef c
+1cef c
+b
+#2ccd  c
+x     a
+x     c
+x     e
+1    a
+1acd
+b
+#2aacc
+x  d
+x  c
+x  a
+1 acc
+1 aab
+b
+#2   ce
+x a
+x  e
+x  c
+1  ece
+1 a
+b
+1 aa gh
+1h
+1h a gh
+1h a gh
+b
+
+b
+1 f g a
+1h
+1hf g
+1hf g
+b
+1ce
+1  f
+1cef
+1cef
+b
+1 ca
+1f
+1fca
+1fca
+b
+1ac
+1  d
+1acd
+1acd
+b
+1ea c
+1ca b
+#2 a c
+x  a
+xa c
+x   c
+b
+#2  de
+xa
+x e
+x c
+1 ede
+1aacc
+b
+
+b
+1acd a
+1aacc
+1 ea c
+1aacc
+b
+1acd a
+1aacc
+1a de
+1 e
+b
+#2aa c
+x  c
+x  d
+x a
+#2 c c
+x a
+x  d
+x  c
+b
+1  ab
+1  cc
+1  d
+1 a b
+b
+1 c c
+1 a b
+1a   e
+1c e
+b
+1ea
+1ac
+#2ca
+x c
+x e
+x f
+b
+
+b
+1ce  c
+1  f
+1cef c
+1cef c
+b
+1ccde
+1     c
+1ccd  c
+1ccd  c
+b
+1ac  a
+1  d
+1acd a
+1acd a
+b
+#2aa c
+x  c
+x  d
+x a
+b
+#2ac c
+x a
+x  d
+x  c
+b
+1ca  c
+1   c
+#2ca cc
+x   b
+x   c
+x   e
+b
+1ea c a
+1ca  c
+b
+
+b
+1aacc
+1acd a
+b
+#2 aa c
+xa
+x e
+x c
+1 ea c
+1aacc
+b
+#2  dca
+x d
+x c
+x a
+#2 cdca
+x a
+x  d
+x  c
+b
+1 aabc
+1   c
+1 aacc
+1   b
+b
+1 acc
+1 aab
+1 a ce
+1  e
+b
+1 aa gh
+b
+b
+
+e
